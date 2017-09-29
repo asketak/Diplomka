@@ -1,0 +1,13 @@
+
+
+
+pro hledani adres je nutne pouzit:
+
+https://github.com/btcdrak/bitcoin/releases
+
+Protoze to buduje index na adresach v blockchainu, jinak je treba pro zadanou adresu projit cely blockchain
+
+
+./bitcoin-cli searchrawtransactions "1EHBcC8C398z7wtd5Zc9AyL5RpoH22tTYK" > info.txt
+
+a
