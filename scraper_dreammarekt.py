@@ -74,6 +74,7 @@ def send(url):
 # http://lchudifyeqm4ldjj.onion/contactMember?member=stealthmeds&tab=ratings#tabChooser,08:13,m . . . t,0.009
 
 def parser():
+    file = open("dream_data.txt", 'w' )
     proxies = {
         'http': 'socks5h://127.0.0.1:9050',
         'https': 'socks5h://127.0.0.1:9050'
@@ -84,7 +85,7 @@ def parser():
 
     for category in tqdm(range(104,200)):
         for page in tqdm(range(1,10)):
-            time.sleep(5)
+            time.sleep(10)
             sys.stdout.flush()
             text = ""
             if linkflag:
@@ -152,7 +153,8 @@ def parser():
                         if mod == 3:
                             value = re.findall(r'>.{1,}<', str(td))
                             outputline += value[0][6:-1] 
-                            print(outputline + '\n')
+                            file.write(outputline +  "\n")
+                            # print(outputline + '\n')
                             outputline = str(usr) + ','
 
                 except Exception as e:
