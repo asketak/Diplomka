@@ -1,0 +1,12 @@
+-- select count(*) from transactions;
+
+         -- select count(*) from (select COUNT(hash),transactions.value from transactions group by(transactions.value) having count(hash)=9) as x; -- kolik existuje radku, ktere maji 1
+         --select count(hash),transactions.value from transactions group by(transactions.value) having count(hash)=2 ; -- kolik existuje velikosti vystupu, ktere jsou 2, vynasobit dvakrat pro pocet vystupu
+
+        select count(value),value from(select count(hash),transactions.value from transactions where value < 0.01 group by(transactions.value)) as x group by x.count order by x.count asc;
+         -- kolik existuje velikosti vystupu, ktere jsou mensi jak 0, a existuji 1
+
+         --select count(*) from(select count(hash),transactions.value from transactions where value < 0 group by(transactions.value) having count(hash)=5) as x;
+         -- kolik existuje velikosti vystupu, ktere jsou mensi jak 0, a existuji 5
+
+        --select * from transactions where value < 0 order by value;

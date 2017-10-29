@@ -62,10 +62,10 @@ Rychlost zpracovani blockchainu programem nyni pomerne rychla, za 1 hodinu dokaz
 
 5. Jak dal
 ===============================================
-1. Poptat se, jestli je 2 tydenni okno spravne
+1. Poptat se, jestli je 2 tydenni okno spravne (Od recenze to byva 4-15 dni)
 udelat multihistogram s gradientem dle vysky transakci
-1. Vzit transakce ze dvou tydnu v blockchainu a narvat je do databaze
-3. Zparsovat 1-2 markety o reviews obchodniku a nacpat tyto reviews do databaze.
+1. Vzit transakce ze dvou tydnu v blockchainu a narvat je do databaze (done v mensim meritku)
+3. Zparsovat 1-2 markety o reviews obchodniku a nacpat tyto reviews do databaze.(zparsovany jeden)
 4. Napsat program, ktery vezme z DB reviews a transakce a zkusi namapovat transakce na lidi a da to nejaky slusny vystup
 5. Zaridit seller accounty na marketech a zkusit skrz ne prohnat nejake btc, at identifikujeme btc mixery
 
