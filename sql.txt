@@ -10,3 +10,22 @@
          -- kolik existuje velikosti vystupu, ktere jsou mensi jak 0, a existuji 5
 
         --select * from transactions where value < 0 order by value;
+
+--select * from transactions, reviews where transactions.value = reviews.size and transactions.date < reviews.date - 4;
+--select * from reviews limit 10;
+
+-- select * from reviews limit 100;
+-- select * from transactions,reviews where value = 0.01 and size = 0.01 limit 10;
+  select * from reviews where reviews.seller = 'adderallz';
+  --select * from transactions where value=0.01;
+  --  select * from reviews where size=0.01;
+
+
+ --select count(*),transactions.value,transactions.date from transactions inner join reviews on transactions.value = reviews.value and transactions.date = reviews.date
+ --  group by transactions.value, transactions.date order by count(*);
+
+ -- select transactions.value from transactions where transactions.value = 1.4 and date = '2017-10-21'
+
+
+
+  select * from transactions inner join reviews on transactions.value = reviews.value and transactions.date = reviews.date where transactions.hash = '0000357077a7240ecd9b39c5f4a158feaab3c274c1e09801349ec7178e7b5a91';
