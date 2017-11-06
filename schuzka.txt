@@ -1,0 +1,82 @@
+
+
+Z minula:
+
+===============================================
+1. Poptat se, jestli je 2 tydenni okno spravne (Od recenze to byva 4-15 dni)
+udelat multihistogram s gradientem dle vysky transakci
+1. Vzit transakce ze dvou tydnu v blockchainu a narvat je do databaze (done v mensim meritku)
+3. Zparsovat 1-2 markety o reviews obchodniku a nacpat tyto reviews do databaze.(zparsovany jeden)
+4. Napsat program, ktery vezme z DB reviews a transakce a zkusi namapovat transakce na lidi a da to nejaky slusny vystup
+5. Zaridit seller accounty na marketech a zkusit skrz ne prohnat nejake btc, at identifikujeme btc mixery
+
+Vyhledove bych na zaklade tech unikatnich transakci mohl najit i ty, ktere jsou nejednoznacne a postupne tak rozlisit adresy, ktere jsou zapojene do obchodu s drogama ty ktere ne.
+Take pomoci tech fake transakci mezi sellerem a kupujicim.
+koukni na chybu u histogramu u dvojek na nejmensich transakci
+
+
+plan:
+1. Metacentrum - Podana zadost
+2. Pravidelne snimani kvuli hodinam(jakto, ze je review takhle brzo?) - zdroj rika, ze to je cas reportu a ne transakce
+3. buyer + seller account : Stoji 0.1 BTC
+4. Nejaka statistika ohledne vysky transakci na marketu(bias k celym hodnotam)
+5> cron job na dream market scraper
+scrapovani ceniku
+
+
+
+15.10-21.10
+
+
+
+update 6.11
+
+SQL
+Problemy - stare bitcoincore, nektere veci nesmyslne(zaporne hodnoty vystupu), nove nema patch na -addrindex
+reseni - bitcoin-abe - nemam misto - metacentrum
+
+Metacentrum - cekam na schvaleni
+
+Seller account - 0.1 BTC zaloha, koupit nejake nejlevnejsi kraviny misto toho?
+reseni - zkusit jen poslat penize na svuj account, nebo koupit kraviny(nejmensi stoji temer nic, ale je jich malo, pak od 100Kc)
+
+Nacteny nove zdroje
+
+transakce s nulou na vystupu
+https://blockchain.info/tx/54e36e6aee9a7595bb8d121d8ca496ab508bd992ab59b3732dffa8ce3e480f1d
+https://satoshidice.com/provablyfair
+
+nove zdroje scrapovani a nascrapovano
+https://blockchain.info/tags?filter=8
+
+
+clusterovani transakci/adres dle nejvic relayed ip
+https://bitcoin.stackexchange.com/questions/3934/locating-transactions-by-the-relayed-by-ip-in-blockchain-info
+https://blockchain.info/address-relayed-ips/15VjRaDX9zpbA8LVnbrCAFzrVzN7ixHNsC
+https://blockchain.info/api/blockchain_api
+
+
+Clusterovani dle zvlastniho relay chovani
+https://www.slideshare.net/dakami/black-ops-of-tcpip-2011-black-hat-usa-2011 - slide 24
+http://ifca.ai/fc14/papers/fc14_submission_71.pdf
+
+nejspis je tam banovani na zaklade toho, ke kolika uzlum se pripojuju
+
+Podobne jako my
+http://anonymity-in-bitcoin.blogspot.cz/2011/07/bitcoin-is-not-anonymous.html
+https://arxiv.org/pdf/1107.4524.pdf
+
+clusterovani dle penezenek a pak zaneseni vlastnich outputu 
+https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf
+
+
+1: Zanest penize na market, koupit kravinu za par satosthi
+3: Nahrat vic drobnych, zaplatit min drobnych a sledovat
+4: Detekovat drobne z mych transakci v mem myceliu
+5: Mit blockchain v sql databazi na metacentru
+deanonymizace pgp klicu, jestli je pouzili jinde, shogun
+zkusit scrapovat klice a projet vyhledavacem, metadata v pgp zprave, prozkoumej
+7: Navazat ssh spojeni s marketem, poptam se na ssh klic, a prozkoumat, jestli neni v public databazich
+napsat mail s timhle textakem a linkem na zdroje
+
+pgp klic, detekovat jestli je zranitelnej, ROCA ATTACK viz bookmarks
