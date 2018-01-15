@@ -1,0 +1,55 @@
+abstract
+uvod
+podobne prace
+	dle jednotlivych oblasti - btc, media, tor....
+
+high level nastroje pouzite ke scrapovani/ziskani dat/metodika - at nevysvetluju u knokretnich dat a neopakuje se to tam
+	technicke informace vs semanticke (uptime vs fotky, jmena,texty,recenze)
+
+proc tvrdim, ze jsou tyhle dva markety zrovna zjaimave
+
+
+data
+	data z blockchainu
+		transakce
+		data sesbirane tretimi stranami
+			walletexplorer - wallety
+			blockhain.info - relay ips, wallety
+	data z drogoveho marketu
+		valhala
+			pgp klice
+			otevrene porty
+			obrazky
+			Recenze
+			Usernames
+		dream
+			pgp klice
+			otevrene porty
+			obrazky
+			Recenze
+			Usernames
+	data z internetu
+		socialni site
+			bitcointalk
+			reddit
+			twitter
+		statistika tor nodu
+Heuristiky nad daty
+	detekce change
+	detekce wallets patricich marketu
+		vzdalenost
+		metachovani - casy transakci
+	chovani penezenek pri btc forcich
+	Floodovani marketu vlastnima bitcoinama
+Overeni heuristik
+	porovnani s walletexplorer
+Aplikace
+	Implementace
+		Kolekce dat
+		Zpracovani dat
+		Vizualizace-UI
+	Pouziti
+		Instalace
+		Workflow
+Diskuze
+Mozne dalsi smery vyvoje

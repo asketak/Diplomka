@@ -1,0 +1,560 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% I, the copyright holder of this work, release this work into the
+%% public domain. This applies worldwide. In some countries this may
+%% not be legally possible; if so: I grant anyone the right to use
+%% this work for any purpose, without any conditions, unless such
+%% conditions are required by law.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[
+  digital, %% This option enables the default options for the
+           %% digital version of a document. Replace with `printed`
+           %% to enable the default options for the printed version
+           %% of a document.
+  table,   %% Causes the coloring of tables. Replace with `notable`
+           %% to restore plain tables.
+  lof,     %% Prints the List of Figures. Replace with `nolof` to
+           %% hide the List of Figures.
+  lot,     %% Prints the List of Tables. Replace with `nolot` to
+           %% hide the List of Tables.
+  %% More options are listed in the user guide at
+  %% <http://mirrors.ctan.org/macros/latex/contrib/fithesis/guide/mu/fi.pdf>.
+  oneside
+]{fithesis3}
+%% The following section sets up the locales used in the thesis.
+\usepackage[resetfonts]{cmap} %% We need to load the T2A font encoding
+\usepackage[T1,T2A]{fontenc}  %% to use the Cyrillic fonts with Russian texts.
+\usepackage[
+  main=english, %% By using `czech` or `slovak` as the main locale
+                %% instead of `english`, you can typeset the thesis
+                %% in either Czech or Slovak, respectively.
+ %english, german, russian, czech, slovak %% The additional keys allow
+]{babel}        %% foreign texts to be typeset as follows:
+%%
+%%   \begin{otherlanguage}{german}  ... \end{otherlanguage}
+%%   \begin{otherlanguage}{russian} ... \end{otherlanguage}
+%%   \begin{otherlanguage}{czech}   ... \end{otherlanguage}
+%%   \begin{otherlanguage}{slovak}  ... \end{otherlanguage}
+%%
+%% For non-Latin scripts, it may be necessary to load additional
+%% fonts:
+\usepackage{paratype}
+
+\usepackage[
+   backend=biber        % if we want unicode
+  ,style=authoryear % or iso-numeric for numeric citation method
+  ,autolang=other       % to support multiple languages in bibliography
+  ,sortlocale=cs_CZ     % locale of main language, for sorting
+  ,bibencoding=UTF8     % this is necessary only if bibliography file is in different encoding than main document
+]{biblatex}
+\def\textrussian#1{{\usefont{T2A}{PTSerif-TLF}{m}{rm}#1}}
+%%
+%% The following section sets up the metadata of the thesis.
+\thesissetup{
+    date          = \the\year/\the\month/\the\day,
+    university    = mu,
+    faculty       = fi,
+    type          = mgr,
+    author        = Tomáš Šíma,
+    gender        = m,
+    advisor       = {RNDr. Martin Stehlík, Ph.D, Mgr. Jaroslav Šeděnka},
+    title         = {OSINT: Correlation and inference of information from social media},
+    TeXtitle      = {OSINT: Correlation and inference of information from social media},
+    keywords      = {blockhain, bitcoin, OSINT, darkweb, drug market, TOR, cryptocurrency, anonymity, metadata},
+    TeXkeywords   = {blockhain, bitcoin, OSINT, darkweb, drug market, TOR, cryptocurrency, anonymity, metadata},
+    abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize sources of publicly available data, which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to help investigators with collecting intelligence on entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or services.
+    
+    I scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit, blockchain.info...) and drug markets thereself using python. I stored all these data into AgensGraph database, which is a graph database based on PostgreSQL. I created a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users,drug markets, social media, blockchain and TOR network. Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the nearest adresses that are mentioned in scraped websites. 
+    
+    To test the efficiency of this tool, I created multiple profiles on these dark markets and performed multiple transactions to deposit and withdraw bitcoins. The tool identified these and these percent of transactions.
+    },
+    thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík Ph.D for guiding me and providing technical support for my work. 
+    
+    I would also like to thank Mgr. Jaroslav Šeděnka for his continuous stream of helpful comments and ideas.
+    
+    Access to computing and storage facilities owned by parties and projects contributing to the National Grid Infrastructure MetaCentrum provided under the programme "Projects of Large Research, Development, and Innovations Infrastructures" (CESNET LM2015042), is greatly appreciated.},
+    bib           = citations.bib
+}
+
+\usepackage{makeidx}      %% The `makeidx` package contains
+\makeindex                %% helper commands for index typesetting.
+%% These additional packages are used within the document:
+\usepackage{paralist} %% Compact list environments
+\usepackage{amsmath}  %% Mathematics
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{url}      %% Hyperlinks
+\usepackage{markdown} %% Lightweight markup
+\usepackage{listings} %% Source code highlighting
+\lstset{
+  basicstyle      = \ttfamily,%
+  identifierstyle = \color{black},%
+  keywordstyle    = \color{blue},%
+  keywordstyle    = {[2]\color{cyan}},%
+  keywordstyle    = {[3]\color{olive}},%
+  stringstyle     = \color{teal},%
+  commentstyle    = \itshape\color{magenta}}
+\usepackage{floatrow} %% Putting captions above tables
+\floatsetup[table]{capposition=top}
+\begin{document}
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+
+The relative anonymity of internet offer an incentive for criminal parties to use internet as a tool for their activities. Internet facilitated some forms of existing crimes(Selling drugs and guns, counterfeits selling, Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and carding. Police statistics show, that crime happening online is much less likely to be discovered and criminals persecuted. Criminals value their anonymity very high and use various means to make them even more anonymous, like VPNs and TOR. The big problem for criminals were getting the money they got from criminal activity to their possession(In banknotes, or to their bank account), since that requires some form physical presence. Also, it was hard for two anonymous entities engaging in criminal activity to transfer money to each other, since none could be sure about the origin of money they are receiving.
+
+For bitcoin, there is no central authority requiring bitcoin address( bitcoin equivalent of bank account number) to be linked to person's identity. Criminals can use their anonymous connection to internet to both recieve and send bitcoins and therefore not disclose their identity. This feature of bitcoin and other cryptocurrencies gave rise to drug markets, which can be publicly accessed via TOR. However, the history of all bitcoin transactions is publicly available and so each bitcoin can be tracked through the whole transaction history.
+
+In this work I collect multiple public sources of data about bitcoin transactions, bitcoin adresses and drug markets. I examine these data in order to get description of drug markets(distribution of sellers, availability of drugs, number of users, revenues) and also to see, if these data can be used for disclosing identity of users and operators of drug markets.
+
+Another outcome of this work is a proof of concept tool, that uses the data mentioned above to help investigator to disclose transactions, addresses and identities related to online drug markets.
+
+\chapter{Related works}
+\section{Analysis of graph of blockchain transactions}
+Multiple papers were published regarding analysis of blockchain graph. The \parencite{reid2013analysis} was published in 2013 and dealt with much smaller number of people using bitcoin and smaller transaction graph.
+Their analysis also focus on danonymization through multiple aspects of bitcoin protocol, while this thesis focus on deanonymization from transaction graph and public data.
+
+The \parencite{ron2013quantitative} focus on bringing interesting statistics about bitcoin transaction graph and track only really big(>50000 BTC) transactions on the network. The authors of this paper also had to deal with much smaller blockchain graph.
+
+
+Similar work to this thesis was done by \parencite{fleder2015bitcoin}. This paper use data from bitcointalk, the most popular bitcoin forum. 
+They apply simple algorithm to group multiple bitcoin adresses belonging to one user together. Than they use the scraped data to show that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
+
+Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database and performed clustering to get graph of transaction between users.
+Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses. They tested the tool on few popular transactions related to seizure of silkroad marketplace.
+
+All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year.
+My work is unique in that way, that the created tool uses much more sources of data, than the works previous mentioned. Also, the aim of this tool is to be able to identify even just regular users of drug markets.
+
+\section{Behaviour of drug markets users and operators}
+
+Papers describing the drug market users,vendors and the dynamic of the online drug marketplace economy mostly focused on data related to silkroad marketplace seizure. 
+Few authors described, how is the whole drug trafficking crime changing overtime with the coming of the new technologies.
+There are only few articles focusing on describing the economy of fully operating drug market.
+In this work, I bring analysis of the micro-economy of two concrete fully operating drug markets and present interesting statistics about vendors, size and frequency of the deals and their sortiment and availability.
+
+\chapter{Technology}
+\section{Blockchain}
+\parencite{nakamoto2008bitcoin}
+\section{TOR}
+\section{Webscraping}
+
+
+\chapter{Methods and tools to get and analyze data}
+
+\section{Obtaining blockchain data}
+In order to create a tool, that will find data related to bitcoin adresses, I need to store the blockchain locally in that way, that common graph algorithms can be applied.
+I ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind store blockchain in multiple .blk files.
+These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser to parse these files and create csv files.
+Than I imported these files into neo4j graph database, to have whole transaction graph in one place and be able to compute statistics and heuristics.
+\section{Drug markets web scraping and data collection}
+I scraped data from dream market and valhalla, 2 big popular drug markets available via TOR. I scraped the vendor nicknames, buyer reviews and the sortiment that each vendor sells.
+I tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain. I sent 0.05 bitcoins to both markets, bought a virtually deliverable legal service(link to secret forum) and checked, if the bitcoins that I have sent to deposit adress left.
+For both markets, there was no transaction happening for days after the transaction was done. This means, that markets don't transfer bitcoins, when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug market account, withdraw bitcoins and money laundering bitcoins.
+I made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfered and where the withdrawn bitcoins originated.
+
+\section{Drug market server fingerprinting}
+I scanned both drug markets servers using netcat finding, that the only opened port is number 443(HTTPS), which is used by webserver.
+I used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP requests and comparing the webserver output with the database of responses by different webservers.
+The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver.
+\section{Publicly available data scraping}
+In order to have some adresses and bitcoin linked to other data, I searched internet for pages, where are bitcoin adresses tied to real or virtual identities.
+I scraped all of the bitcointalk forum profiles to get associated bitcoin adresses.
+
+\section{Data storage and analyzing tools}
+In order to store and analyze data, 
+
+
+\chapter{Data Analysis}
+\section{Detecting wallets owned by drug markets}
+\section{Wallets behaviour during forks}
+\section{Using own transactions to get market wallets}
+
+\chapter{POC application}
+\section{Implementation}
+\section{Usage}
+
+\chapter{Testing and verification of the created tool}
+\section{Method of testing}
+\section{results}
+
+
+
+\subsubsection{commands.}
+\paragraph{Paragraphs and}
+\subparagraph{subparagraphs are available as well.}
+Inside the text, you can also use unnumbered lists,
+\begin{itemize}
+  \item such as
+  \item this one
+  \begin{itemize}
+    \item     and they can be nested as well.
+    \item[>>] You can even turn the bullets into something fancier,
+    \item[\S] if you so desire.
+  \end{itemize}
+\end{itemize}twoside
+Numbered lists are
+\begin{enumerate}
+  \item very
+  \begin{enumerate}
+    \item similar
+  \end{enumerate}
+\end{enumerate}
+and so are description lists:
+\begin{description}
+  \item[Description list]
+    A list of terms with a description of each term
+\end{description}
+The spacing of these lists is geared towards paragraphs of text.
+For lists of words and phrases, the \textsf{paralist} package
+offers commands
+\begin{compactitem}
+  \item that
+  \begin{compactitem}
+    \item are
+    \begin{compactitem}
+      \item better
+      \begin{compactitem}
+        \item suited
+      \end{compactitem}
+    \end{compactitem}
+  \end{compactitem}
+\end{compactitem}
+\begin{compactenum}
+  \item to
+  \begin{compactenum}
+    \item this
+    \begin{compactenum}
+      \item kind of
+      \begin{compactenum}
+        \item content.
+      \end{compactenum}
+    \end{compactenum}
+  \end{compactenum}
+\end{compactenum}
+The \textsf{amsthm} package provides the commands necessary for the
+typesetting of mathematical definitions, theorems, lemmas and
+proofs.
+
+%% We will define several mathematical sectioning commands.
+\newtheorem{theorem}{Theorem}[section] %% The numbering of theorems
+                               %% will be reset after each section.
+\newtheorem{lemma}[theorem]{Lemma}         %% The numbering of lemmas
+\newtheorem{corollary}[theorem]{Corollary} %% and corollaries will
+                               %% share the counter with theorems.
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+\begin{theorem}
+  This is a theorem that offers a profound insight into the
+  mathematical sectioning commands.
+\end{theorem}
+\begin{theorem}[Another theorem]
+  This is another theorem. Unlike the first one, this theorem has
+  been endowed with a name.
+\end{theorem}
+\begin{lemma}
+  Let us suppose that $x^2+y^2=z^2$. Then
+  \begin{equation}
+    \biggl\langle u\biggm|\sum_{i=1}^nF(e_i,v)e_i\biggr\rangle
+    =F\biggl(\sum_{i=1}^n\langle e_i|u\rangle e_i,v\biggr).
+  \end{equation}
+\end{lemma}
+\begin{proof}
+  $\nabla^2 f(x,y)=\frac{\partial^2f}{\partial x^2}+
+   \frac{\partial^2f}{\partial y^2}$.
+\end{proof}
+\begin{corollary}
+  This is a corollary.
+\end{corollary}
+\begin{remark}
+  This is a remark.
+\end{remark}
+
+\chapter{Floats and references}
+\begin{figure}
+  \begin{center}
+    %% PNG and JPG images can be inserted into the document as well,
+    %% but their resolution needs to be adequate. The minimum is
+    %% about 100 pixels per 1 centimeter or 300 pixels per 1 inch.
+    %% That means that a JPG or PNG image typeset at 4 × 4 cm should
+    %% be 400 × 400 px large at the bare minimum.
+    %%
+    %% The optimum is about 250 pixels per 1 centimeter or 600
+    %% pixels per 1 inch. That means that a JPG or PNG image typeset
+    %% at 4 × 4 cm should be 1000 × 1000 px large or larger.
+    \includegraphics[width=4cm]{fithesis/logo/mu/fithesis-base.pdf}
+  \end{center}
+  \caption{The logo of the Masaryk University at 40\,mm}
+  \label{fig:mulogo1}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \begin{minipage}{.66\textwidth}
+      \includegraphics[width=\textwidth]{fithesis/logo/mu/fithesis-base.pdf}
+    \end{minipage}
+    \begin{minipage}{.33\textwidth}
+      \includegraphics[width=\textwidth]{fithesis/logo/mu/fithesis-base.pdf} \\
+      \includegraphics[width=\textwidth]{fithesis/logo/mu/fithesis-base.pdf}
+    \end{minipage}
+  \end{center}
+  \caption{The logo of the Masaryk University at $\frac23$ and
+    $\frac13$ of text width}
+  \label{fig:mulogo2}
+\end{figure}
+
+\begin{table}
+  \begin{tabularx}{\textwidth}{lllX}
+    \toprule
+    Day & Min Temp & Max Temp & Summary \\
+    \midrule
+    Monday & $13^{\circ}\mathrm{C}$ & $21^\circ\mathrm{C}$ & A
+    clear day with low wind and no adverse current advisories. \\
+    Tuesday & $11^{\circ}\mathrm{C}$ & $17^\circ\mathrm{C}$ & A
+    trough of low pressure will come from the northwest. \\
+    Wednesday & $10^{\circ}\mathrm{C}$ &
+    $21^\circ\mathrm{C}$ & Rain will spread to all parts during the
+    morning. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{A weather forecast}
+  \label{tab:weather}
+\end{table}
+
+The logo of the Masaryk University is shown in Figure
+\ref{fig:mulogo1} and Figure \ref{fig:mulogo2} at pages
+\pageref{fig:mulogo1} and \pageref{fig:mulogo2}. The weather
+forecast is shown in Table \ref{tab:weather} at page
+\pageref{tab:weather}. The following chapter is Chapter
+\ref{chap:matheq} and starts at page \pageref{chap:matheq}.
+Items \ref{item:star1}, \ref{item:star2}, and
+\ref{item:star3} are starred in the following list:
+\begin{compactenum}
+  \item some text
+  \item some other text
+  \item $\star$ \label{item:star1}
+  \begin{compactenum}
+    \item some text
+    \item $\star$ \label{item:star2}
+    \item some other text
+    \begin{compactenum}
+      \item some text
+      \item some other text
+      \item yet another piece of text
+      \item $\star$ \label{item:star3}
+    \end{compactenum}
+    \item yet another piece of text
+  \end{compactenum}
+  \item yet another piece of text
+\end{compactenum}
+If your reference points to a place that has not yet been typeset,
+the \verb"\ref" command will expand to \textbf{??} during the first
+run of
+\texttt{pdflatex \jobname.tex}
+and a second run is going to be needed for the references to
+resolve. With online services -- such as Overleaf -- this is
+performed automatically.
+
+\chapter{Mathematical equations}
+\label{chap:matheq}
+\TeX{} comes pre-packed with the ability to typeset inline
+equations, such as $\mathrm{e}^{ix}=\cos x+i\sin x$, and display
+equations, such as \[
+  \mathbf{A}^{-1} = \begin{bmatrix}
+  a & b \\ c & d \\
+  \end{bmatrix}^{-1} =
+  \frac{1}{\det(\mathbf{A})} \begin{bmatrix}
+  \,\,\,d & \!\!-b \\ -c & \,a \\
+  \end{bmatrix} =
+  \frac{1}{ad - bc} \begin{bmatrix}
+  \,\,\,d & \!\!-b \\ -c & \,a \\
+  \end{bmatrix}.
+\] \LaTeX{} defines the automatically numbered \texttt{equation}
+environment:
+\begin{equation}
+  \gamma Px = PAx = PAP^{-1}Px.
+\end{equation}
+The package \textsf{amsmath} provides several additional
+environments that can be used to typeset complex equations:
+\begin{enumerate}
+  \item An equation can be spread over multiple lines using the
+    \texttt{multline} environment:
+    \begin{multline}
+      a + b + c + d + e + f + b + c + d + e + f + b + c + d + e +
+f \\
+      + f + g + h + i + j + k + l + m + n + o + p + q
+    \end{multline}
+
+  \item Several aligned equations can be typeset using the
+    \texttt{align} environment:
+    \begin{align}
+              a + b &= c + d     \\
+                  u &= v + w + x \\[1ex]
+      i + j + k + l &= m
+    \end{align}
+
+  \item The \texttt{alignat} environment is similar to
+    \texttt{align}, but it doesn't insert horizontal spaces between
+    the individual columns:
+    \begin{alignat}{2}
+      a + b + c &+ d       &   &= 0 \\
+              e &+ f + g   &   &= 5
+    \end{alignat}
+
+  \item Much like chapter, sections, tables, figures, or list
+    items, equations -- such as \eqref{eq:first} and
+    \eqref{eq:mine} -- can also be labeled and referenced:
+    \begin{alignat}{4}
+      b_{11}x_1 &+ b_{12}x_2  &  &+ b_{13}x_3  &  &             &
+        &= y_1,                   \label{eq:first} \\
+      b_{21}x_1 &+ b_{22}x_2  &  &             &  &+ b_{24}x_4  &
+        &= y_2. \tag{My equation} \label{eq:mine}
+    \end{alignat}
+
+  \item The \texttt{gather} environment makes it possible to
+    typeset several equations without any alignment:
+    \begin{gather}
+      \psi = \psi\psi, \\
+      \eta = \eta\eta\eta\eta\eta\eta, \\
+      \theta = \theta.
+    \end{gather}
+
+  \item Several cases can be typeset using the \texttt{cases}
+    environment:
+    \begin{equation}
+      |y| = \begin{cases}
+        \phantom-y & \text{if }z\geq0, \\
+                -y & \text{otherwise}.
+      \end{cases}
+    \end{equation}
+\end{enumerate}
+For the complete list of environments and commands, consult the
+\textsf{amsmath} package manual\footnote{
+  See \url{http://mirrors.ctan.org/macros/latex/required/amslatex/math/amsldoc.pdf}.
+  The \texttt{\textbackslash url} command is provided by the
+  package \textsf{url}.
+}.
+
+\chapter{\textnormal{We \textsf{have} \texttt{several} \textsc{fonts}
+  \textit{at} \textbf{disposal}}}
+The serified roman font is used for the main body of the text.
+\textit{Italics are typically used to denote emphasis or
+quotations.} \texttt{The teletype font is typically used for source
+code listings.} The \textbf{bold}, \textsc{small-caps} and
+\textsf{sans-serif} variants of the base roman font can be used to
+denote specific types of information.
+
+\tiny We \scriptsize can \footnotesize also \small change \normalsize
+the \large font \Large size, \LARGE although \huge it \Huge
+is \huge usually \LARGE not \Large necessary.\normalsize
+
+A wide variety of mathematical fonts is also available, such as: \[
+  \mathrm{ABC}, \mathcal{ABC}, \mathbf{ABC}, \mathsf{ABC},
+  \mathit{ABC}, \mathtt{ABC}
+\] By loading the \textsf{amsfonts} packages, several additional
+fonts will become available: \[
+  \mathfrak{ABC}, \mathbb{ABC}
+\] Many other mathematical fonts are available\footnote{
+  See \url{http://tex.stackexchange.com/a/58124/70941}.
+}.
+
+%\shorthandon{-}
+
+\chapter{Inserting the bibliography}
+After linking a bibliography data\-base files to the document using
+the \verb"\"\texttt{thesis\discretionary{-}{}{}setup\{bib\discretionary{=}{=}{=}%
+\{\textit{file1},\textit{file2},\,\ldots\,\}\}} command, you can
+start citing the entries. This is just dummy text
+\parencite{borgman03} lightly sprinkled with citations
+\parencite[p.~123]{greenberg98}. Several sources can be cited at
+once: \cite{borgman03,greenberg98,thanh01}.
+\citetitle{greenberg98} was written by \citeauthor{greenberg98} in
+\citeyear{greenberg98}. We can also produce \textcite{greenberg98}%
+\ or %% Let us define a compound command:
+\def\citeauthoryear#1{(\textcite{#1},~\citeyear{#1})}%
+\citeauthoryear{greenberg98}%
+. The full bibliographic citation is:
+\emph{\fullcite{greenberg98}}. We can easily insert a bibliographic
+citation into the footnote\footfullcite{greenberg98}.
+
+The \verb"\nocite" command will not generate any
+output\nocite{muni}, but it will insert its arguments into
+the bibliography. The \verb"\nocite{*}" command will insert all the
+records in the bibliography database file into the bibliography.
+Try uncommenting the command
+%% \nocite{*}
+and watch the bibliography section come apart at the seams.
+
+When typesetting the document for the first time, citing a
+\texttt{work} will expand to [\textbf{work}] and the
+\verb"\printbibliography" command will produce no output. It is now
+necessary to generate the bibliography by running \texttt{biber
+\jobname.bcf} from the command line and then by typesetting the
+document again twice. During the first run, the bibliography
+section and the citations will be typeset, and in the second run,
+the bibliography section will appear in the table of contents.
+
+The \texttt{biber} command needs to be executed from within the
+directory, where the \LaTeX\ source file is located. In Windows,
+the command line can be opened in a directory by holding down the
+\textsf{Shift} key and by clicking the right mouse button while
+hovering the cursor over a directory.  Select the \textsf{Open
+Command Window Here} option in the context menu that opens shortly
+afterwards.
+
+With online services -- such as Overleaf -- or when using an
+automatic tool -- such as \LaTeX MK -- all commands are executed
+automatically. When you omit the \verb"\printbibliography" command,
+its location will be decided by the template.
+
+  \printbibliography %% Print the bibliography.
+
+\chapter{Inserting the index}
+After using the \verb"\makeindex" macro and loading the
+\texttt{makeidx} package that provides additional indexing
+commands, index entries can be created by issuing the \verb"\index"
+command. \index{dummy text|(}It is possible to create ranged index
+entries, which will encompass a span of text.\index{dummy text|)}
+To insert complex typographic material -- such as $\alpha$
+\index{alpha@$\alpha$} or \TeX{} \index{TeX@\TeX} --
+into the index, you need to specify a text string, which will
+determine how the entry will be sorted. It is also possible to
+create hierarchal entries. \index{vehicles!trucks}
+\index{vehicles!speed cars}
+
+After typesetting the document, it is necessary to generate the
+index by running
+\begin{center}%
+  \texttt{texindy -I latex -C utf8 -L }$\langle$\textit{locale}%
+  $\rangle$\texttt{ \jobname.idx}
+\end{center}
+from the command line, where $\langle$\textit{locale}$\rangle$
+corresponds to the main locale of your thesis -- such as
+\texttt{english}, and then typesetting the document again.
+
+The \texttt{texindy} command needs to be executed from within the
+directory, where the \LaTeX\ source file is located. In Windows,
+the command line can be opened in a directory by holding down the
+\textsf{Shift} key and by clicking the right mouse button while
+hovering the cursor over a directory. Select the \textsf{Open Command
+Window Here} option in the context menu that opens shortly
+afterwards.
+
+With online services -- such as Overleaf -- the commands are
+executed automatically, although the locale may be erroneously
+detected, or the \texttt{makeindex} tool (which is only able to
+sort entries that contain digits and letters of the English
+alphabet) may be used instead of \texttt{texindy}. In either case,
+the index will be ill-sorted.
+
+  \makeatletter\thesis@blocks@clear\makeatother
+  \phantomsection %% Print the index and insert it into the
+  \addcontentsline{toc}{chapter}{\indexname} %% table of contents.
+  \printindex
+
+\appendix %% Start the appendices.
+\chapter{An appendix}
+Here you can insert the appendices of your thesis.gg
+\end{document}

@@ -69,14 +69,139 @@ https://arxiv.org/pdf/1107.4524.pdf
 clusterovani dle penezenek a pak zaneseni vlastnich outputu 
 https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf
 
-
-1: Zanest penize na market, koupit kravinu za par satosthi
-3: Nahrat vic drobnych, zaplatit min drobnych a sledovat
-4: Detekovat drobne z mych transakci v mem myceliu
-5: Mit blockchain v sql databazi na metacentru
+--- Ukoly ---
+1: Zanest penize na market, koupit kravinu za par satosthi - presun na market, jak jsme se obavali, presun prostredku vnitrni, nakup se v blockchainu neprojevi
+3: Nahrat vic drobnych, zaplatit min drobnych a sledovat - nahral jsem, zaplatil jsem, nic se nestalo. Vybral jsem
+4: Detekovat drobne z mych transakci v mem myceliu - nestihnuto
+5: Mit blockchain v sql databazi na metacentru - preklapim pomoci abe
 deanonymizace pgp klicu, jestli je pouzili jinde, shogun
 zkusit scrapovat klice a projet vyhledavacem, metadata v pgp zprave, prozkoumej
-7: Navazat ssh spojeni s marketem, poptam se na ssh klic, a prozkoumat, jestli neni v public databazich
+7: Navazat ssh spojeni s marketem, poptam se na ssh klic, a prozkoumat, jestli neni v public databazich - SSH port neni otevreny, scan portu 1-1000 nic neukazal, nevim na 100%, marekty davaji ruzne errory, mozna port knocking?
+
 napsat mail s timhle textakem a linkem na zdroje
 
+
 pgp klic, detekovat jestli je zranitelnej, ROCA ATTACK viz bookmarks
+
+
+gopnik789/gagarin789
+withdraw pin dream market: 19901919
+1BqFh589WdbU8CoJ7fYJyKJ1Exx2AdzXnt
+
+deposit:
+https://blockchain.info/address/1BqFh589WdbU8CoJ7fYJyKJ1Exx2AdzXnt
+
+ssh -i diplomka  root@gw-cloud.ics.muni.cz -p 64082
+
+
+minimalni vyber 0.002BTC, poplatek 0.0005BTC, minimalni cena produktu cca 0.0001
+Po dodani se autofinalizuje objednavka za 2 dny(recenze do dvou dnu)
+Nedava smysl vybrat co nejvetsi castku, at je donutime agregovat vice vstupu?
+
+vyber bez tumbleru
+Pri zadani vyberu je transakce na vyber ihned v blockchainu
+https://blockchain.info/address/1AaX4uFmTuvtM2n9WcsDpqwPY852KcBQZ5
+
+2 adresy od adresy od ktere ziskavam adresy>
+https://blockchain.info/address/1CvUE4WCG9dUVum4y2zaKp1HHKT64XK1Vw
+https://www.walletexplorer.com/wallet/000001e522b362b7?from_address=1CvUE4WCG9dUVum4y2zaKp1HHKT64XK1Vw
+
+
+netcat -xlocalhost:9050 -X5 valhallaxmn3fydu.onion 80
+GET / HTTP/2.0
+host: valhallaxmn3fydu.onion
+user-agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflateo
+
+
+
+scan portu:
+./hsportscanner.py -d 0 -h valhallaxmn3fydu.onion -p 1-1000
+./hsportscanner.py -d 0 -h t3e6ly3uoif4zcw2.onion -p 1-1000
+
+
+
+Napady do dalsi schuzky 20.11
+--- Ukoly ---
+1: Detekovat drobne z mych transakci v mem myceliu - nemam dotahlej blockchain a nestihl jsem
+2: Scraping metadat a test na ROCA PGP klicu - 300 pgp klicu, zadne ROCA, IDs obsahuji maily ale vypadaji vymyslene nebo udelane pro obchod
+3: Dopsat scrapery na PGP a https://blockchain.info/address-relayed-ips/ - pgp dopsano
+4: Uhladit kody, udelat ze scraperu moduly
+5: Narvat nascrapovana data do databaze s ABE transakcema - abe trva neskutecne dlouho, mozna dava smysl nakodit to preklopeni sam
+
+projit porty onion scanem, doscanovat rozsah portu - doscanovano, nic nenalezeno
+image search - metadata z obrazku a attachmentu + pdf  - Nejsou a nebudou zadne metadata, v komentari knihovna na upravu obrazku :/
+hledani usernamu + propojeni uctu mezi marketama - mam list usernamu, hledaci engine chce penize, mozna nascrapovat?
+zamyslet se nad strukturou diplomky, zapisovat poznamky uz v nejakem organizovanem smyslu - zamysleno
+koukni se jestli je leak dat z hansy, ze by slo poznat uzivatele dle importnuteho hodnoceni na valhale nebo dream marketu - neni
+
+
+reverse image search obrazku bez metadat, jestli nekde nelezi original s metadaty
+korelace down/uptime marketu s TOR nodem, tor node uptime je monitorovano na ATLAS.torproject org - zeptej se pak na paper, co dela monitoring uptimu a prekryvy
+monitoring vice onion adres, prekryvy, jestli servicy nejsou na stejnem pocitaci pod ruznyma adresama
+Atlasem omezit vyber kandidatu a pingovat rucne
+testovat DDOSem
+usetrit misto na DB, smazani nepotrebnych udaju
+Koukni co se stalo, kdyz mel clovek pri forku na sve penezence. 
+heuristiky o tom, kdo prodava co, jestli velci prodavaji jeden produkt a mali hraci jco jim prijde po ruku
+
+
+Schuzka 27:11
+========================================
+res prehozeni blockchainu do databaze
+3: Napsat scrapery https://blockchain.info/address-relayed-ips/ 
+4: Uhladit kody, udelat ze scraperu moduly
+reverse image search obrazku bez metadat, jestli nekde nelezi original s metadaty
+1: Detekovat drobne z mych transakci v mem myceliu - Petr Petkanic 
+
+4.12
+=====================================
+mit full node a psat si, kdy prisli transakce do mempoolu
+exodus,coinomi - shapeshift
+
+prani penez skrz coinomi, poslat tam a zpatky
+
+dohledani pgp klicu v pgp adresarich-serverech
+nacist vclanky/reserze o tom, co je udelane v podobnem smeru
+dohodnout  se na schuzce s druhym studentem co dela bc o blockchainu
+zeptat se na data z walletexploreru - nejdriv postahuj, at to nezavre
+
+k zajimavym clankum se muzes proklikat dle toho, kde cituje clanky ktere ctes na google scholar a kdo ma hodne citaci, to nnepoznas u novych clanku
+
+
+dull ec - generator ktery vydal NIST, ma backdoor od NSA
+1.5 TB je maximalni mnozstvi dat, neni v UI
+neo4j
+spadlo uz pri vytvareni clusteru
+
+
+schuzka 11.12
+=====================================
+
+Mam:
+Vetsi disk + CSV soubory + presunuju do SQL (sam jsem vymyslel)
+Ctu clanky
+Nascrapovany walletexplorer
+Mam nainstalovanou a studuju agensgraph databazi
+delam statistiku o prodejcich a jejich distribuci
+
+predelat snimani mempoolu ala event
+
+posli mail s prvni verzi diplomky
+
+mit vsechna data o kterych jsme se bavili v databazi na metacentru, mit skripty v hezke podobe do diplomky a nejaky text v diplomce o tom co se zatim delo
+
+Zjisti z velkych hacku adresy ktere byly okradene a jak moc jsou spinave-ciste
+Je distribuce obchodniku, ruznorodosti jejich vyrobku a velikost objemu stejna u drug marketu jak otreba u ebay, nebo je uplne jina
+
+pagerank - reprezentace matici, staci neco jako vlastni vektor, aby nahodna prohazka matchovala distribuci pravdepodobnosti
+
+Premyslej o zdroji cistych - spinavych bitcoinu, pokud neco najdes, predej petkanicovi, dohodnete se spolu na tom, kdo a jak co
+
+Do pristiho tydne 
+5 stranek do diplomky relalated worku
+posli mailem slozku s clanky
+Udelej seznam  - veci, co je hotove, co je nakolik hotove, co je treba udelat
+

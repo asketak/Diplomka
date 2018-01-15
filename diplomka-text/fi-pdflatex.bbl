@@ -1,0 +1,215 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{borgman03}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7b56eb6c4bb5707c93e5a90d103b3713}{%
+           family={Borgman},
+           family_i={B\bibinitperiod},
+           given={Christine\bibnamedelima L.},
+           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge (Mass)}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{7b56eb6c4bb5707c93e5a90d103b3713}
+      \strng{fullhash}{7b56eb6c4bb5707c93e5a90d103b3713}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{0-262-52345-0}
+      \field{langid}{english}
+      \field{pagetotal}{xviii, 324}
+      \field{subtitle}{access to information in the networked world}
+      \field{title}{From Gutenberg to the global information infrastructure}
+      \field{year}{2003}
+    \endentry
+    \entry{greenberg98}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c4edcbc9098cbc42d6f4f092859463df}{%
+           family={Greenberg},
+           family_i={G\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=75b3f28eec4f2e1a741608f83bd8480d}{%
+           family={Hawkins},
+           family_i={H\bibinitperiod},
+           given={B.L},
+           given_i={B\bibinitperiod}}}%
+        {{hash=51bf9218a426d21c857baf89489013a4}{%
+           family={Battin},
+           family_i={B\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington (D.C.)}%
+      }
+      \list{publisher}{2}{%
+        {Council on Library}%
+        {Information Resources; Association of American Universities}%
+      }
+      \strng{namehash}{c4edcbc9098cbc42d6f4f092859463df}
+      \strng{fullhash}{c4edcbc9098cbc42d6f4f092859463df}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{reconfiguring academic information resources for the 21st century}
+      \field{booktitle}{The mirage of continuity}
+      \field{langid}{english}
+      \field{subtitle}{quality control in the digital research library}
+      \field{title}{Camel drivers and gatecrashers}
+      \field{year}{1998}
+      \field{pages}{105\bibrangedash 116}
+      \range{pages}{12}
+    \endentry
+    \entry{thanh01}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=87f64950621a1cf87049f20f0cca6254}{%
+           family={Hàn\bibnamedelima Thé},
+           family_i={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Thành},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The Faculty of Informatics, Masaryk University}%
+      }
+      \list{location}{1}{%
+        {Brno}%
+      }
+      \strng{namehash}{87f64950621a1cf87049f20f0cca6254}
+      \strng{fullhash}{87f64950621a1cf87049f20f0cca6254}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Micro-typographic extensions to the \TeX{} typesetting system}
+      \field{type}{phdthesis}
+      \field{urlday}{09}
+      \field{urlmonth}{12}
+      \field{urlyear}{2016}
+      \field{year}{2001}
+      \verb{url}
+      \verb http://www.pragma-ade.nl/pdftex/thesis.pdf
+      \endverb
+    \endentry
+    \entry{muni}{online}{}
+      \list{location}{1}{%
+        {Brno}%
+      }
+      \list{publisher}{1}{%
+        {Masaryk University}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1996\bibdatedash 2009}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{endyear}{2009}
+      \field{langid}{english}
+      \field{title}{Masaryk University}
+      \field{urlday}{09}
+      \field{urlmonth}{12}
+      \field{urlyear}{2016}
+      \field{year}{1996}
+      \verb{url}
+      \verb https://www.muni.cz/en
+      \endverb
+    \endentry
+    \entry{reid2013analysis}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c5e2ae7fc0bf005cd2c7daa2eef77243}{%
+           family={Reid},
+           family_i={R\bibinitperiod},
+           given={Fergal},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=b238cccf6242310ae7aced282f605170}{%
+           family={Harrigan},
+           family_i={H\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d5be0feb1d30f2d953e83a1a0d912b38}
+      \strng{fullhash}{d5be0feb1d30f2d953e83a1a0d912b38}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Security and privacy in social networks}
+      \field{title}{An analysis of anonymity in the bitcoin system}
+      \field{year}{2013}
+      \field{pages}{197\bibrangedash 223}
+      \range{pages}{27}
+    \endentry
+    \entry{ron2013quantitative}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1b3893fdeb078dfbca468535cf59fe84}{%
+           family={Ron},
+           family_i={R\bibinitperiod},
+           given={Dorit},
+           given_i={D\bibinitperiod}}}%
+        {{uniquename=0,hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           family_i={S\bibinitperiod},
+           given={Adi},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \strng{fullhash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Quantitative analysis of the full bitcoin transaction graph}
+      \field{year}{2013}
+      \field{pages}{6\bibrangedash 24}
+      \range{pages}{19}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

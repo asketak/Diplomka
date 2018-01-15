@@ -74,14 +74,14 @@ def send(url):
 # http://lchudifyeqm4ldjj.onion/contactMember?member=stealthmeds&tab=ratings#tabChooser,08:13,m . . . t,0.009
 
 def parser():
-    file = open("dream_data.txt", 'w' )
+    file = open("dr.txt", 'w' )
     proxies = {
         'http': 'socks5h://127.0.0.1:9050',
         'https': 'socks5h://127.0.0.1:9050'
     }
-    domain = "http://t3e6ly3uoif4zcw2.onion"
+    domain = "http://5qgfdkxs7kg43vc3.onion"
     linkflag = False
-    cookie = {'MARKET_SESSION': 'g3v5f6b1m92aetq6oljs1jf8q6'}
+    cookie = {'MARKET_SESSION': 'pfketv9sf9avmmuu5jma4ohc32'}
 
     for category in tqdm(range(104,200)):
         for page in tqdm(range(1,10)):
@@ -113,6 +113,14 @@ def parser():
                     text = response.encode('ascii', 'ignore').decode('ascii','ignore') # a `str`; this step can't be used if data is binaryo
                     soup = BeautifulSoup(text, 'html.parser')
                     usr = rating_url.split("=")[1].split("&")[0]
+
+                    usrurl = 'http://5qgfdkxs7kg43vc3.onion/contactMember?member=' + usr 
+                    usrtext = requests.get(usrurl,proxies=proxies, cookies=cookie).text.encode('ascii', 'ignore').decode('ascii') # a `str`; this step can't be used if data is binaryo
+                    pgp = "-----BEGIN PGP PUBLIC KEY BLOCK" + re.findall(r'BLOCK(.*?)END', usrtext, re.DOTALL)[0] + "END PGP PUBLIC KEY BLOCK-----"
+                    fileusr = open("dreampgp/" + usr + ".txt", 'w' ) 
+                    fileusr.write(pgp)
+                    fileusr.close()
+
                     outputline = str(usr) + ','
                     # print(user)
                     for index,td in enumerate(soup.find_all('td', { "class" : "dontwrap" })):
@@ -148,7 +156,7 @@ def parser():
                                 dte = datetime.today() - timedelta(days=0,hours=int(hours),minutes=int(minutes))
                             outputline += dte.strftime("%d/%m/%y") + ','
                         if mod == 2:
-                            user = re.findall(r'>.{1,}<', str(td))[0][1:-1]
+                            user = re.findall(r'>.{1,}<', str(td))[0][1:-1].replace('. ','') .replace(' ','')
                             outputline += user + ','
                         if mod == 3:
                             value = re.findall(r'>.{1,}<', str(td))

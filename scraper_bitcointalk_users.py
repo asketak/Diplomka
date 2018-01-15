@@ -21,7 +21,7 @@ def retry(ExceptionToCheck, tries=4, delay=3, backoff=2, logger=None):
         exceptions to check
     :type ExceptionToCheck: Exception or tuple
     :param tries: number of times to try (not retry) before giving up
-    :type tries: int
+    :type tries: int 
     :param delay: initial delay between retries in seconds
     :type delay: int
     :param backoff: backoff multiplier e.g. value of 2 will double the delay

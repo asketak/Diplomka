@@ -1,0 +1,33 @@
+
+
+8-The recovery of online drug markets following law enforcement and?other disruptions.pdf
+Udelali snapshoty 38 marketu, delali nekolik let, pak merili, kolek vendoru zmizelo po nejakem zasahu a pak se recovernulo
+
+18-Internet-mediated drug trafficking: towards a better?understanding of new criminal dynamics.pdf
+Analyza toho, jak kriminalnici pouzivaji internet
+
+25-Bitcoin Transaction Graph Analysis.pdf
+Analyza blockchainu, pagerank, clusterovani, deanonymizace skrz link na bitcointalku
+
+
+32-The closure of the Silk Road: what has this meant for?online drug trading?.pdf
+Pocty prodejcu na darkwebech
+
+
+60-BitIodine: Extracting Intelligence from the Bitcoin?Network.pdf
+genialni, analyza blockchainu, zajimave heuristiky a use casy,
+
+
+101-Use of Silk Road, the online drug marketplace, in the?United Kingdom, Australia and the United States.pdf
+Dotaznikova analyza toho, jak moc lidi zna a kupuje na silkroadu a jake typy drog kupuji
+
+
+122-An Analysis of Anonymity in the Bitcoin System.pdf
+Super vec, spousta napadu na analyzu, resi tor nody
+
+
+99-Lost on the Silk Road: Online?drug distribution and the?‘cryptomarket’.pdf
+Jen takove povidani o user experience a transformaci drogovych trhu
+
+320-Quantitative Analysis of the Full Bitcoin?Transaction Graph.pdf
+Analyza grafu blockchainu, nic moc zajimaveho nevypada, 
