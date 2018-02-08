@@ -49,6 +49,36 @@
       \field{title}{From Gutenberg to the global information infrastructure}
       \field{year}{2003}
     \endentry
+    \entry{fleder2015bitcoin}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a278e596b201a4eef9b8294bf47999c3}{%
+           family={Fleder},
+           family_i={F\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=3a601f052a1b2621524494faad6124a3}{%
+           family={Kester},
+           family_i={K\bibinitperiod},
+           given={Michael\bibnamedelima S},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=811690b7cfd2f118925bb59c0313cfb5}{%
+           family={Pillai},
+           family_i={P\bibinitperiod},
+           given={Sudeep},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1252b42d828e050e065db981ea3132a7}
+      \strng{fullhash}{1252b42d828e050e065db981ea3132a7}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1502.01657}
+      \field{title}{Bitcoin transaction graph analysis}
+      \field{year}{2015}
+    \endentry
     \entry{greenberg98}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=c4edcbc9098cbc42d6f4f092859463df}{%
@@ -149,6 +179,25 @@
       \verb https://www.muni.cz/en
       \endverb
     \endentry
+    \entry{nakamoto2008bitcoin}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           family_i={N\bibinitperiod},
+           given={Satoshi},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A peer-to-peer electronic cash system}
+      \field{year}{2008}
+    \endentry
     \entry{reid2013analysis}{incollection}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=c5e2ae7fc0bf005cd2c7daa2eef77243}{%
@@ -208,6 +257,41 @@
       \field{year}{2013}
       \field{pages}{6\bibrangedash 24}
       \range{pages}{19}
+    \endentry
+    \entry{spagnuolo2014bitiodine}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=521fe047caace8937dc668a165c3e2b2}{%
+           family={Spagnuolo},
+           family_i={S\bibinitperiod},
+           given={Michele},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=33c39d2a14f0a87e48c597722550e31f}{%
+           family={Maggi},
+           family_i={M\bibinitperiod},
+           given={Federico},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=a53063063aa9f3b678c152d8e4b34e17}{%
+           family={Zanero},
+           family_i={Z\bibinitperiod},
+           given={Stefano},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1866ecfd860583a41c0d928db3f01cfa}
+      \strng{fullhash}{1866ecfd860583a41c0d928db3f01cfa}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Bitiodine: Extracting intelligence from the bitcoin network}
+      \field{year}{2014}
+      \field{pages}{457\bibrangedash 468}
+      \range{pages}{12}
     \endentry
   \endsortlist
 \endrefsection

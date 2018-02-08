@@ -10,59 +10,55 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}\slshape Behaviour of drug markets users and operators}{3}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}\bfseries Technology}{4}{chapter.2}
+\contentsline {chapter}{\numberline {2}\bfseries Technology and terms}{4}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}\slshape Blockchain}{4}{section.2.1}
+\contentsline {section}{\numberline {2.1}\slshape Bitcoin and blockchain}{4}{section.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}\slshape TOR}{4}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}\slshape Webscraping}{4}{section.2.3}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}\bfseries Methods and tools to get and analyze data}{5}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}\slshape Obtaining blockchain data}{5}{section.3.1}
+\contentsline {section}{\numberline {3.1}\slshape Obtaining,storing and analyzing blockchain data}{5}{section.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}\slshape Drug markets web scraping and data collection}{5}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}\slshape Drug market server fingerprinting}{5}{section.3.3}
+\contentsline {section}{\numberline {3.3}\slshape Drug market server fingerprinting}{7}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}\slshape Publicly available data scraping}{6}{section.3.4}
+\contentsline {section}{\numberline {3.4}\slshape Publicly available data scraping}{7}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}\slshape Data storage and analyzing tools}{6}{section.3.5}
+\contentsline {chapter}{\numberline {4}\bfseries Data Analysis}{9}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}\bfseries Data Analysis}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}\slshape Detecting wallets owned by drug markets}{9}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}\slshape Detecting wallets owned by drug markets}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}\slshape Wallets behaviour during forks}{9}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}\slshape Wallets behaviour during forks}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}\slshape Using own transactions to get market wallets}{9}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Using own transactions to get market wallets}{7}{section.4.3}
+\contentsline {chapter}{\numberline {5}\bfseries POC application}{10}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\bfseries POC application}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}\slshape Implementation}{10}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}\slshape Implementation}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}\slshape Usage}{10}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}\slshape Usage}{8}{section.5.2}
+\contentsline {chapter}{\numberline {6}\bfseries Testing and verification of the created tool}{11}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}\bfseries Testing and verification of the created tool}{9}{chapter.6}
+\contentsline {section}{\numberline {6.1}\slshape Method of testing}{11}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}\slshape Method of testing}{9}{section.6.1}
+\contentsline {section}{\numberline {6.2}\slshape results}{11}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}\slshape results}{9}{section.6.2}
+\contentsline {subsubsection}{\rmfamily commands.}{11}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\rmfamily commands.}{9}{section*.9}
+\contentsline {paragraph}{\rmfamily Paragraphs and}{11}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\rmfamily Paragraphs and}{9}{section*.10}
+\contentsline {subparagraph}{\rmfamily subparagraphs are available as well.}{11}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\rmfamily subparagraphs are available as well.}{9}{section*.11}
+\contentsline {chapter}{\numberline {7}\bfseries Floats and references}{13}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Floats and references}{11}{chapter.7}
+\contentsline {chapter}{\numberline {8}\bfseries Mathematical equations}{15}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Mathematical equations}{13}{chapter.8}
+\contentsline {chapter}{\numberline {9}\bfseries \textnormal {We \textsf {have} \texttt {several} \textsc {fonts} \textit {at} \textbf {disposal}}}{17}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}\bfseries \textnormal {We \textsf {have} \texttt {several} \textsc {fonts} \textit {at} \textbf {disposal}}}{15}{chapter.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}\bfseries Inserting the bibliography}{16}{chapter.10}
+\contentsline {chapter}{\numberline {10}\bfseries Inserting the bibliography}{18}{chapter.10}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
@@ -88,8 +84,8 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}\bfseries Inserting the index}{19}{chapter.11}
+\contentsline {chapter}{\numberline {11}\bfseries Inserting the index}{21}{chapter.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{20}{section*.15}
+\contentsline {chapter}{Index}{22}{section*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}\bfseries An appendix}{21}{appendix.A}
+\contentsline {chapter}{\numberline {A}\bfseries An appendix}{23}{appendix.A}

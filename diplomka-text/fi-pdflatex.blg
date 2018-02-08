@@ -1,14 +1,14 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
 [0] Config.pm:343> INFO - Logfile is 'fi-pdflatex.blg'
-[43] biber:287> INFO - === Ne led 14, 2018, 19:36:45
-[176] Biber.pm:348> INFO - Reading 'fi-pdflatex.bcf'
-[362] Biber.pm:742> INFO - Found 6 citekeys in bib section 0
-[368] Biber.pm:3151> INFO - Processing section 0
-[410] Biber.pm:3308> INFO - Looking for bibtex format file 'citations.bib' for section 0
-[435] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[465] bibtex.pm:974> INFO - Found BibTeX data source 'citations.bib'
-[640] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
-[640] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[640] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'cs_CZ'
-[655] bbl.pm:519> INFO - Writing 'fi-pdflatex.bbl' with encoding 'UTF-8'
-[682] bbl.pm:615> INFO - Output to fi-pdflatex.bbl
+[53] biber:287> INFO - === Út led 16, 2018, 03:22:43
+[160] Biber.pm:348> INFO - Reading 'fi-pdflatex.bcf'
+[324] Biber.pm:742> INFO - Found 9 citekeys in bib section 0
+[329] Biber.pm:3151> INFO - Processing section 0
+[376] Biber.pm:3308> INFO - Looking for bibtex format file 'citations.bib' for section 0
+[420] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[450] bibtex.pm:974> INFO - Found BibTeX data source 'citations.bib'
+[664] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[664] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[664] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'cs_CZ'
+[678] bbl.pm:519> INFO - Writing 'fi-pdflatex.bbl' with encoding 'UTF-8'
+[722] bbl.pm:615> INFO - Output to fi-pdflatex.bbl

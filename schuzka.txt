@@ -176,6 +176,16 @@ dull ec - generator ktery vydal NIST, ma backdoor od NSA
 neo4j
 spadlo uz pri vytvareni clusteru
 
+neo4j-import --into ./graph.db \
+--nodes:Block blocks_header.csv,blocks.csv \
+--nodes:Transaction transactions_header.csv,transactions.csv \
+--nodes:Output outputs_header.csv,outputs.csv \
+--nodes:Address addresses_header.csv,addresses.csv \
+--relationships:CONTAINS rel_block_tx_header.csv,rel_block_tx.csv \
+--relationships:OUTPUT rel_tx_output_header.csv,rel_tx_output.csv \
+--relationships:INPUT rel_input_header.csv,rel_input.csv \
+--relationships:USES rel_output_address_header.csv,rel_output_address.csv \
+
 
 schuzka 11.12
 =====================================
