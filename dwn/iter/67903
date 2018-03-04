@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KfyqbUgv2P7PP8SoKxdhXCrnDvsphRh+C1RUv+b32rfkWOT9/Mh49oz6wVVHa6VI2/2oyRokrkpMnAYuu0H/oQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/620a662915f35b65ab1bfc5a9df4eace1fa29d75.jpg?1486664067"><img src="/kuvat/tuotekuvat/e89d4f2f2ddd682882534e1cc2f2fd4221163e6b.jpg?1486664067" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>3 Grams  - 1x Chloroform, 3x Acetone Washed FISHSCALE Cocaine</h1>
+<ul class='list-unstyled specs'>
+<li>203 EUR <em>(0.026064 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/chips-cola">chips&amp;cola</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FNJYyclJSi+jRNhb2OY9HeuNY6O1NbYmEyO3kn8J9BjZdhZZfa7qJ+CB3aa0mvkJGpfFkYaUABJU6+UDIr/RDg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="318372">Domestic (included)</option>
+<option value="318373">International (+1 EUR)</option>
+<option value="318374">Registered &amp; tracked (+4 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67903" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Hello we are New Here! 2017-02-09 Amazing things cost a little more, you get what you pay for.
+<br />The Super supreme quality Cocaine… satisfyingly smooth, strong &amp; elevating !</p>
+
+<p>Please respect the chemistry of this product! No cooking or IV use, insufflation (snorting or blowing into body) only! Stealth is above the normal for this type of product, i.e. mylar seal, visual barriers, decoy, etc. Batch may vary only slighlty from the picture in looks. White cocaine, that is washed several times to ensure purity and safety. This is the same product as the PINK only no B-Vitamin complex is added, the purity is much higher and it is beautiful and soft.</p>
+
+<p>DETAILS--</p>
+
+<p>If you have tried cocaine on the Darknet, chances are you not trying only cocaine. Even the best fishscale that is 90% pure cointains Levamisole. Most fishscale here also has MDPV or other bath salts in small but potent amounts. If you are lucky you get amphetimines, ephedrine, and caffeine only. The result is you get a great buzz, but at the expense of your safety and overall well-being!</p>
+
+<p>That is why I list SAFE cocaine, so you know exactly what you are getting!</p>
+
+<p>MORE INFO ON THE PROCESS--</p>
+
+<p>The initial chloroform wash rids the crytals of Levamisole, and the 3 acetone washes remove any other alkolid that remains except for pure cocaine.</p>
+
+<p>Crush up the safe cocaine finely into a couple of lines and snort away. "HOLY SHIT, there's no burn, no smell, but wait a minute, I'm starting to feel a warm rush throughout my entire body!" "I'm feeling an extreme euphoria coming over me". "The back of my throat is numb as hell". "I feel fucking great"! "No edgyness, ampyness or uncomfortableness. I've never felt this good before". Or any other quotes something of the like all thru the night anyway................=D</p>
+
+<p>Welcome to "real" cocaine..........finally! Enjoy.</p>
+
+<p>I have personally found that even fishscale coke has up to 30% mixtures of aphetamines, bath salts, Levamisole,etc.. these substances are the most common active cuts used to adulterate cocaine and thus alter the true effect of the "real" cocaine high. When used, either one of these "speedy" cuts will actually overpower the wonderfully "true" high that is cocaine.</p>
+
+<p>Contrary to what most new users may think, cocaine that has not been cut with an "active" cut is a mild, relaxing stimulant that produces an immediate euphoria in about 2 minutes. The high is very subtle. In fact, many first time users, including myself the very first time, may not even realize they're high at all.</p>
+
+<p>After the initial euphoria hits, it will be accompanied by a general feeling of well being and contentment. You will feel as though you are at the center of the universe. Confidence will be at a level you never thought you were capable of possessing. Depression is wiped away within minutes and replaced with a feeling of though you can do no wrong. Conversation begins to flow very easily. In fact, it will bring many of those, usually the introverted type, out of their so called shells. Unactively cut cocaine is one of the most sexual drugs there is, too. You feel as though you've become an instant Casanova. Everything you say is the right thing, and you'll most likely find yourself playing way out of your league, as well.</p>
+
+<p>To compare unactively cut cocaine to any other drug is to compare it almost identically to the plateau stage of pure MDMA. The plateau stage of pure MDMA is when the eye shakes stop and the heavy rolling ceases. It's at that point that things mellow out and you just feel great. That is just like cocaine. Hard to believe, huh?</p>
+
+<p>Hard to believe for most new users, I know. Most people trying cocaine for the first time in the last 5-10 years think cocaine is an extremely hard hitting, ampy, edgy, non-conversational, non-sexual, hard to communicate, paranoid type of drug. In fact, that is exactly what it has become nowdays. Why anyone trying cocaine for the first time nowdays would ever go back for more is beyond me. But I guess most people really don't care about the effects of the drug, rather just the escape from reality it offers. Apparentely, regardless of how awful it makes you feel as well.</p>
+
+<p>Ironically, "real" cocaine is not a very feinding type of drug. There is usually little craving or feinding to have to do more and more of the drug. In fact, with real, unactive cut coke, you'll find that you actually do less. The funny thing is that as awful as it makes you feel nowdays, you keep going back for more and more, and much more often, too. With good coke, you might even forget your high is deminishing, and will then go back for two more lines about every hour or so. Instead of consuming an 8 ball in one night with the bad shit, you'll most likely consume only a HALF gram of the safe fishscale white.</p>
+
+<p>Hope for your Order and longtime business !</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102174"><img src="/kuvat/tuotekuvat/ab89c715b892e03aaf6f425c6431d52d3d2e7875.jpg?1513219735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102174">❤3.5g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='210 USD'>170.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14642"><img src="/kuvat/tuotekuvat/06b22712e03976cc2415e1dc4b2f72efffe289bd.jpg?1455970625" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14642">Sthompson Speed Paste-30g</a> (<span title='152 EUR'>152&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1220</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/74114"><img src="/kuvat/tuotekuvat/68415dbbdbd933e4e66ce77438ab29feccbc36c8.jpg?1502924359" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74114">UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g FREE UK </a> (<span title='260 USD'>211.59&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96609"><img src="/kuvat/tuotekuvat/9b865cab7964f423f92c2f752e91d6413ec16cfe.jpg?1499873441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96609">2G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='155 GBP'>176.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85078"><img src="/kuvat/tuotekuvat/a310ff9a17649e601d6cf07f74c7d2f3a92e0133.jpg?1486740537" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85078">☆ 100G Speed Paste ☆ A+ Quality ☆</a> (<span title='180 EUR'>180&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>3 Grams  - 1x Chloroform, 3x Acetone Washed FISHSCALE Cocaine</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

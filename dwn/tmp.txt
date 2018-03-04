@@ -1,0 +1,7 @@
+wget --load-cookies cookies.txt --recursive --no-clobber --html-extension --convert-links --no-parent -e robots=off --ignore-tags=img,link,script http://ecleg2gwe2edwiuf.onion/
+
+
+
+wget --load-cookies cookies.txt --recursive --no-clobber --html-extension --convert-links --no-parent -e robots=off --wait=5 --ignore-tags=img,link,script http://valhallaxmn3fydu.onion/
+
+wget --load-cookies cookies.txt --recursive --no-clobber --html-extension --convert-links --no-parent -e robots=off --wait=5 -X /fi,/gb,/at,/es,/be,/pt,/fr,/it,/ie,/ch,/gr,/dk,/ee,/nok,/pl,/cz,/hu,/bg,/lv,/ro,/lt,/sk,/nl,/is,/se,/ua,/rs,/by,/eg,/et,/ng,/in,/jp,/th,/ph,/mx,/vn,/br,/bd,/ar,/id,/pk,/ca,/ru,/au,/us,/nz,/cn,/hr,/kh,/za,/de --ignore-tags=img,link,script http://valhallaxmn3fydu.onion/

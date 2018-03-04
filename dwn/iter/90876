@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="WRsYGMnrZga+knkp+92pIu56t0dJDEmNzNEWZRLO8beUv1aIfQzGDv1XfNSXoW02H2ARdXqt/7mLGUT0T3jUoQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>custom cor</h1>
+<ul class='list-unstyled specs'>
+<li>2072.8 EUR <em>(0.265913 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/kvalitetsroyk123">kvalitetsroyk123</a></span>&nbsp;(<span class='green' title='Positive feedback'>1512</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-89</span>)
+</li>
+<li>Norway &rarr; Norway</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>plaster på såret for god kunde ! speed</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/74318"><img src="/kuvat/tuotekuvat/96972b76cf78d82f7791e93c04d8a112c636839f.jpg?1480963276" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74318">Isopropylphenidate 500g</a> (<span title='2115 USD'>1721.19&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103192"><img src="/kuvat/tuotekuvat/4f1ebbd1df43ffd666687333a11a1af8b3390dc6.jpg?1517579567" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103192">Lidocaine HCL or BASE ★★★ shipping form EU ★★★ 10 kg</a> (<span title='1899 USD'>1545.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100520"><img src="/kuvat/tuotekuvat/a28d580f5277e73191e825dfeb637c433d09f46f.jpg?1509048735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100520">100 gram of pure cocaine</a> (<span title='2000 GBP'>2275.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/76153"><img src="/kuvat/tuotekuvat/dd1b8c9bb7e9dabc4338d13b4bd3a08ce3bf1d35.jpg?1481898563" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/76153">14g - ❄ ❄ Dolphin Stamp ツ ❄ ❄ | </a> (<span title='2619 USD'>2131.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nsw-great">NSW-Great</a></span>&nbsp;(<span class='green' title='Positive feedback'>394</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39397"><img src="/kuvat/tuotekuvat/75a3caff90ab689de455b33a98b1f489a731539b.jpg?1489458004" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39397">28G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='1680 GBP'>1911.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>custom cor</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iHIFAJK4nZID+OfdaocxpsBN752haTy9VuHwBiDALSZF1kuQJl89mkA94iAG+/WyMVdJr5LIiokRKaKXfXYIMA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/23d94e3789fd30062f6d89062c8c311ee9bcf219.jpg?1494046812"><img src="/kuvat/tuotekuvat/943951198bc52f20734f558549a8a3fa4fcfa26d.jpg?1494046812" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1gm HAND RUBBED INDIAN TRADITIONAL HASH</h1>
+<ul class='list-unstyled specs'>
+<li>14.65 EUR <em>(0.001879 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/greenstore">greenstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>837</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>India &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oxr6KRy2FqbOdj6YbLHJ2P4oAHnd0O97SwFA238ST6tuvrS5qFG2ro2zO2UAzQ3MDzKmS+5xWU8MyRJKIqRqvQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="93776" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>**|| NEW PRODUCT ADDED - TOPPEST QUALITY HAND RUBBED HASH ||** - Please check our Profile listing</p>
+
+<p>Grams Link: http://grams7enufi7jmdl.onion/vendor/theblossom</p>
+
+<p>ALTERNATIVE MAIL ID: theblossom@sigaint.org / theblossom@sigaintevyh2rzvw.onion</p>
+
+<p>This Hash are the TOPPEST quality Hashes around the world.</p>
+
+<p>100% Hand Rubbed, 100% Natural Aroma, 100% Pure Hash.</p>
+
+<p>Bit Higher in pricing, but if you are looking for a top class product this is be your choice.</p>
+
+<p>100% herbal, even we use natural fertilizers to grow our herbs.</p>
+
+<p>Looking for serious and prompt customers.</p>
+
+<p>If you are a Bulk buyer/Dealer/Reseller, there is a listing under the name "Special for vendors"</p>
+
+<p>Thanks
+<br />theblossom</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+All ok!
+<em>(24.2.)</em>
+</td>
+<td><span>
+ka***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Best hash on dark web, Delivery was incredibly fast.
+<em>(1.2.)</em>
+</td>
+<td><span>
+mr***on
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/58944"><img src="/kuvat/tuotekuvat/346cc4658a7d43015916ea6c913adff4e212c7c5.jpg?1515740246" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/58944">Tarjous 15eur/g!!! White Widow x Chronic</a> (<span title='18 EUR'>18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/suomenninja">SuomenNinja</a></span>&nbsp;(<span class='green' title='Positive feedback'>1687</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101511"><img src="/kuvat/tuotekuvat/39841fc07f27022beb6abb109eafd01ee560bb5c.jpg?1511181128" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101511">1G SUPER POLM HASH</a> (<span title='11 EUR'>11&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99589"><img src="/kuvat/tuotekuvat/5c67a70436271ef737ca99733e2e5a9181206641.jpg?1506502906" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99589">1.2g Jack Herer | NDD/UK / Best Customer Service </a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100340"><img src="/kuvat/tuotekuvat/3bd51829dcef1f4e1cd30077ae72cb406a538545.jpg?1508728913" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100340">2g - Super Silver Haze Dutch Import FREE UK SHIPPING</a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73041"><img src="/kuvat/tuotekuvat/b0ff624199e731b67f9ac1b2559fcb5bc6aa7efd.jpg?1480262641" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73041">Afghan Kush 1g/Outdoor/AAA</a> (<span title='13 USD'>10.58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>1gm HAND RUBBED INDIAN TRADITIONAL HASH</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

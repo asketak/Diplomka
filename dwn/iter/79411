@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="V5wiPo+ka8KYfgh1n0A+4tEg7bURilBOrP988EpdLJaaOGyuO0PLytu7DYjzPPr2IDpLhyIr5nrrNy5hF+sJgA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d836e7f0d276e68c52d6d4638a3575248bd0847a.jpg?1484080768"><img src="/kuvat/tuotekuvat/87a0fb1f2cd9380fcb1491c0374550bacec563bf.jpg?1484080768" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Windows keys (Office, WIndows 7, Windows 8, Windows 10)</h1>
+<ul class='list-unstyled specs'>
+<li>4.06 EUR <em>(0.000524 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/gogoguides">Gogoguides</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="WpdP6FsFBCRwA4gQloianXinfwbbT19nfUI9k+Q7wvyXMwF47+KkLDPGje369F6Jib3ZNOju6VM6im8CuY3n6g==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="404829">Any key but Office 2013 ProPlus/W10 (included)</option>
+<option value="404830">Office 2013 Pro Plus or W10 (+4.06 EUR)</option>
+<option value="404831">Office 2016 Pro Plus (+8.11 EUR)</option>
+<option value="404832">W10 Multiple Key or H&amp;B 2016 Mac (+12.17 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="79411" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Best seller on EVO and Alphabay now working here too!</p>
+
+<p>I sell official Windows activation keys. I also offer download link if needed. This keys are obtained legally and they won't give you any problem with Windows so you can finally get your legal Windows running! </p>
+
+<p>When making your order, please specify what key do you need:
+<br />-Windows 7 Home Premium
+<br />-Windows 7 Professional
+<br />-Windows 7 Ultimate
+<br />-Windows 8
+<br />-Windows 8 Pro
+<br />-Windows 8.1
+<br />-Windows 8.1 Pro
+<br />-Windows 10 Education, Home, Pro (+5$)
+<br />-Windows 10 Education, Enterprise, Pro (Multiple activation) (+15$)
+<br />-Office 2007 Ultimate
+<br />-Office 2007 Enterprise
+<br />-Office 2010 Standard
+<br />-Office 2010 Pro Plus
+<br />-Office 2011 for Mac Home and Business
+<br />-Office 2013 Pro Plus(+5$, choose the shipping option)
+<br />-Office 2016 Pro Plus(+10$, choose the shipping option)
+<br />-Office 2016 for Mac Home and Business (+15$, choose the shipping option for Windows 10 Pro Multiple)
+<br />-Project 2010 Standard/Pro
+<br />-Project 2013 Pro
+<br />-Project 2016 Pro
+<br />-Visio 2010 Standard/Pro/Premium
+<br />-Visio 2013 Pro
+<br />-Visio 2016 Pro
+<br />-Windows Server 2012 Standard/R2 Standard
+<br />-If you need any other Windows key, ask! I may have them too.</p>
+
+<p>Bulk price (10+)*:
+<br />-3$/key for keys priced 5$
+<br />-8$/key for Office 2013 Pro Plus and other 10$ priced keys</p>
+
+<p>*Bulk prices are available for all keys except 2013 Pro Plus and W10 Pro. This may vary according to stock and demand without notice on this listing.</p>
+
+<p>In order to make a bulk order, send me a PM so I can create a custom listing for you or you can order a number of regular items that multiplies for the bulk price (ex: 6 items = 30$, the same as a 10 items bulk price), just make sure to notice me that its a custom listing or I'll send the amount specified.</p>
+
+<p>**By the nature of these keys, they might not work on official Windows downloads or you can get it blocked if activated by phone/chat. Hence I suggest you to use the links I provide. If I don't provide any link, please send me a message before activation as it may have slipped my mind.</p>
+
+<p>***By the nature of these keys, Microsoft may randomly throw 'ban waves' and block keys. Because they can't admit that they have a loophole in their system, they would say they're pirate or cracked or stolen keys. None of the above. The nature of the keys can be easily check by anyone interested. I suggest not to buy keys in order to 'stock' them, because by the time you sell them, they might be already blocked. I always try to send the newest batches, but sometimes due stockage, I may send 'older' keys. These might have a less life than the others, but it's random. Please keep this in mind when ordering. I don't mind changing keys but they will NOT be a top priority if orders are made and stock is limited.</p>
+
+<p>COMBO Package:
+<br />5 Office 2013 Pro Plus
+<br />10 Office 2016 Pro Plus
+<br />5 Office 2016 Mac Home and Business
+<br />10 Windows 10 Pro
+<br />5 Windows 10 Home
+<br />10 Windows 8.1 Pro
+<br />5 Windows 7 Home Premium
+<br />5 Windows 7 Professional
+<br />5 Windows 7 Ultimate</p>
+
+<p>Total price applying bulk price when possible: 505$</p>
+
+<p>COMBO Price: 325$</p>
+
+<p>*NOTE: Order may take a few days to be completed. Items may be sent on different shipments. </p>
+
+<p>Contact me:
+<br />Torchat - qp3ifvh6qysigbwg
+<br />ICQ - Working on it
+<br />XMPP - Working on it
+<br />*I don't get online much, but keep these in hand in case of another market blackout</p>
+
+<p>NOTE: N keys are like regular keys, but they don't include Windows Media Player by defect. Most people won't have a W8.1 Pro N installation by default, so I suggest these are used only after formatting. The N keys are only sent when buying the specified option or if asked, if not, you'll receive a normal key.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/66405"><img src="/kuvat/tuotekuvat/ff97819d048c3c2e176fbe1f7f9a78a2b77cefb0.jpg?1476662029" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66405">★ HULU PLUS ACCOUNT [LIFETIME+FREEBIE] ★</a> (<span title='4.99 USD'>4.05&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100484"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100484">★★★ IP Vanish VPN Account ★ ★ ★ Lifetime Warranty ★ ★ ★</a> (<span title='6.99 USD'>5.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/grantyourwish">Grantyourwish</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38937"><img src="/kuvat/tuotekuvat/957986a24b59a7eee74e1264b415ef7f7a4631d8.jpg?1461685416" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38937">BUY GOLD USING HACKED PAYPAL  ★2017 ★</a> (<span title='4.99 USD'>4.05&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99500"><img src="/kuvat/tuotekuvat/019b85344832606b13f7e930020420a2fa148691.jpg?1505998412" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99500">How To Make LSD [WITH PHOTOS]</a> (<span title='4.99 USD'>4.05&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87984"><img src="/kuvat/tuotekuvat/df158625e8699eba828e744e04ef5d3400737678.jpg?1488957666" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87984">★ 100$ US Paypal Accounts Balance ★</a> (<span title='7.5 USD'>6.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2906">Other digital</a>
+</li>
+<li class='active'>Windows keys (Office, WIndows 7, Windows 8, Windows 10)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

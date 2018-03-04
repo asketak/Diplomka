@@ -2054,20 +2054,6 @@
     <bcf:citekey order="2">ron2013quantitative</bcf:citekey>
     <bcf:citekey order="3">fleder2015bitcoin</bcf:citekey>
     <bcf:citekey order="4">spagnuolo2014bitiodine</bcf:citekey>
-    <bcf:citekey order="5">borgman03</bcf:citekey>
-    <bcf:citekey order="6">greenberg98</bcf:citekey>
-    <bcf:citekey order="7">borgman03</bcf:citekey>
-    <bcf:citekey order="7">greenberg98</bcf:citekey>
-    <bcf:citekey order="7">thanh01</bcf:citekey>
-    <bcf:citekey order="8">greenberg98</bcf:citekey>
-    <bcf:citekey order="9">greenberg98</bcf:citekey>
-    <bcf:citekey order="10">greenberg98</bcf:citekey>
-    <bcf:citekey order="11">greenberg98</bcf:citekey>
-    <bcf:citekey order="12">greenberg98</bcf:citekey>
-    <bcf:citekey order="13">greenberg98</bcf:citekey>
-    <bcf:citekey order="14">greenberg98</bcf:citekey>
-    <bcf:citekey order="15">greenberg98</bcf:citekey>
-    <bcf:citekey order="16">muni</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

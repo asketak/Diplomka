@@ -1,20 +1,20 @@
-Nactena related work - 20%
+Nactena related work - 40%
     - 10 clanku precteno, popsany v related works
 
-Sber dat 70%
+Sber dat 100%
 	- 100% blockchain - mam blockchainove transakce do konce prosince v databazi
-	- 50% Drug markets - Mam napsane parsery, chybi mi doladit mouchy, nejspis nescrapujou uplne vse, neresi pady serveru apod
+	- 1000% Drug markets - Mam napsane parsery, chybi mi doladit mouchy, nejspis nescrapujou uplne vse, neresi pady serveru apod
 	- 100% Ostatni weby (bitcointalk, wallet explorer, blockchain info) - mam nascrapovano a ulozeno v databazi
 	- 0% TOR nody a market uptime - Nemam nic, mozna nebude treba
 
-Analyza dat 0%
+Analyza dat 30%
 	- Zajimavosti z marketu
 	- 
 
 Aplikace pro hledání původu btc a asociovaných dat
 	- 50% Kolekce dat - budu pouzivat stejny skripty, ktery pouzivam vyse, chybi mi jen automaticke preklopeni do DB 
 	- Algoritmy pro vyhledavani btc 0% -
-	- Frontend 0% - 
+	- Frontend 60% - 
 
-Napsání práce 5%
+Napsání práce 10%
 	- Mám načrtnutou strukturu, intro a kolekci dat

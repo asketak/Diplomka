@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="a/hAOz8zi8valmsh7RWVjaBnLIPH4bnzW7RemGm20p+mXA6ri9Qrw5lTbtyBaVGZUX2KsfRAD8ccfAwJNAD3iQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/af72aeef17887c7d1ff560dec3eba97ae015e337.jpg?1481643519"><img src="/kuvat/tuotekuvat/0a0a9caab59a093c9672abea80a53a4684d878bd.jpg?1481643519" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>2G - 1st Class Cocaine - 92% FREE SHIPPING</h1>
+<ul class='list-unstyled specs'>
+<li>163 EUR <em>(0.021026 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/cocacool1">cocacool1</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+AlKcJ1vOKH4ffqytBm0Sucu7wAay65GPrhEnv6lR+s1rQTgKYiYqbu4/0/YZXBeFjRJMilqGHJ5cBYPoxNi/Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="372485">GER / free / discreet (included)</option>
+<option value="372486">International / discreet (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="75536" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>QUALITY PAYS OFF!
+<br />+++++++++++++++++
+<br />HIGH QUALITY COCAINE!
+<br />+++++++++++++++++
+<br />100% POSITIVE FEEDBACK
+<br />+++++++++++++++++
+<br />CocaCool - Remember that name for trust, fast shipment and quality!
+<br />+++++++++++++++++ </p>
+
+<p>Produkt:
+<br />√ Erstklassiges Kokain mit ca. 92% Reinheit
+<br />√ Hochgradige Kontakte bis in den Hafen!
+<br />√ Frei von jeglichen Streckmitteln!</p>
+
+<p>Wirkung:</p>
+
+<p>√ Sehr angenehmes High!
+<br />√ Euphorie und Selbstbewusstsein!
+<br />√ Leistung!</p>
+
+<p>+++ Mit dem kauf akzeptierst du unsere AGB's +++</p>
+
+<p>-------------------------------------</p>
+
+<p>Product:
+<br />√ 1st-Class Cocaine 92% pure!
+<br />√ 1st-Class contacts to the shipping terminals
+<br />√ Clean product </p>
+
+<p>Effect:</p>
+
+<p>√ Pleasurable high!
+<br />√ Euphoria and self-confident!
+<br />√ power!</p>
+
+<p>+++ You agree our Terms when purchase +++ </p>
+
+<p>Terms and conditions of cocacool</p>
+
+<p>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+<br />                                                  ENGLISH
+<br />++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ </p>
+
+<p>WELCOME TO YOUR ONLINE DOCTOR!
+<br />-----------------------------------------
+<br />+ All our Products are tested!
+<br />+ Shipping from Germany
+<br />   - Shipping days from Monday to Friday
+<br />   - Delivery Time Germany 2-4 Days
+<br />   - Delivery Time Europe 4-10 Days</p>
+
+<p>+ Shipping (All shippings are packed securely / No smell / No suspicion)</p>
+
+<p>Adress:
+<br />  - We don't ship to PS-Boxes!/PO-Boxes!!! 
+<br />  - Adress Type:
+<br />    = Name
+<br />    = Street / No.
+<br />    = ZIP, CITY
+<br />    = COUNTRY</p>
+
+<p>Refund: 
+<br />Worldwide shipping: No refund ! 100%
+<br />Germany: 25% refund, when shipping get lost!</p>
+
+<p>+ What you have to do for refund:
+<br />Write us a message
+<br />finalalize the order
+<br />send us a BTC-adress in pm
+<br />within 24 hours we will refund 25% 
+<br />                 
+<br />When you buy a product, you agree with our terms and read the refund policy!</p>
+
+<p>  +++Please dont forget to rate us well, when order delivered. :-) +++</p>
+
+<p>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+<br />                                                  DEUTSCH
+<br />++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ </p>
+
+<p>WILLKOMMEN BEI DEINEM ONLINE DOKTOR!
+<br />------------------------------------------------------------------
+<br />+ All unsere Produkte sind getestet!
+<br />+ Versand erfolgt aus Deutschland
+<br />   - Versandtage: Montag - Freitag
+<br />   - Lieferzeit Deutschland 2-4 Tage
+<br />   - Lieferzeit Europa: 4-10 Tage</p>
+
+<p>+ Versand (Alle unsere Sendungen sind sicher verpackt. (Kein Gestank, kein Verdacht)
+<br /> 
+<br />ADRESSE
+<br />Wir schicken an keine Packstationen!!!
+<br />Bitte wie folgt aufschreiben:
+<br />   - NAME
+<br />   - STRASSE, HAUSNUMMER
+<br />   - POSTLEITZAHL, ORT
+<br />   - LAND</p>
+
+<p>+Erstattung:
+<br />Weltweit: Keine Erstattung! 100%!
+<br />Deutschlandweit: Bei Verlust der Sendung 25% Erstattung.</p>
+
+<p>+Was muss ich tun, wenn das Paket nicht ankommt?
+<br />Schreibt uns eine Nachricht
+<br />finalisiert den Kauf
+<br />schickt uns eine BTC-Adresse
+<br />innerhalb von 24std erhaltet ihr die 25% erstattet</p>
+
+<p>Mit dem Kauf akzeptiert Ihr die Geschäftsbedingungen!</p>
+
+<p>+++Bitte vergiss nicht, uns gut zu Bewerten, wenn deine Lieferung zugestellt wurde :-) +++</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/94004"><img src="/kuvat/tuotekuvat/4d36960c5b1dc43e2f03712ac27bcdb1d41bedf8.jpg?1502924365" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94004">UNCUT Peruvian 89% FISHSCALE COCAINE 2g FREE UK </a> (<span title='152 USD'>123.33&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102174"><img src="/kuvat/tuotekuvat/ab89c715b892e03aaf6f425c6431d52d3d2e7875.jpg?1513219735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102174">❤3.5g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='210 USD'>170.39&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14642"><img src="/kuvat/tuotekuvat/06b22712e03976cc2415e1dc4b2f72efffe289bd.jpg?1455970625" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14642">Sthompson Speed Paste-30g</a> (<span title='152 EUR'>152&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1220</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96609"><img src="/kuvat/tuotekuvat/9b865cab7964f423f92c2f752e91d6413ec16cfe.jpg?1499873441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96609">2G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='155 GBP'>176.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85078"><img src="/kuvat/tuotekuvat/a310ff9a17649e601d6cf07f74c7d2f3a92e0133.jpg?1486740537" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85078">☆ 100G Speed Paste ☆ A+ Quality ☆</a> (<span title='180 EUR'>180&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>2G - 1st Class Cocaine - 92% FREE SHIPPING</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

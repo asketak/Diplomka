@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="r8DGNe7AmyngRY5ggrUJit37uKmyFxbLXYI2yzg7TcNiZIilWic7IaOAi53uyc2eLOEem4G2oP8aSmRaZY1o1Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/eec5f29a220f5287288f9616e3c3793b0c5efa22.jpg?1472710854"><img src="/kuvat/tuotekuvat/7d4d7f35e5d7b476e25fe25142e2fcdd4ff66279.jpg?1472710854" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★ 14 GRAM HIGH QUALITY FISHSCALE COCAINE</h1>
+<ul class='list-unstyled specs'>
+<li>609.21 EUR <em>(0.078137 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/scripps">scripps</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yGFcAt1JBta0Uy6EYXpPM4g+owu/JyjQcIZNiR/gWJwFxRKSaa6m3veWK3kNBosneSQFOYyGnuQ3Th8YQlZ9ig==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="55978" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>95% pure, A1 high quality cocaine at an unbelievable price straight from the brick.</p>
+
+<p>Euphoric potency - you'll have a clean &amp; super experience with no nasty side effects.  </p>
+
+<p>We are a domestic vendor shipping strictly to those in the USA</p>
+
+<p>Product is sealed perfectly and packed with good stealth and decoy if needed. Please stay safe and destroy all packaging, and for you, we delete all your personal information after shipping your package.</p>
+
+<p>We are trusted vendors with Positive feedback on AlphaBay and Dream Market </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.37 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/85461"><img src="/kuvat/tuotekuvat/bf2945e0e17768dfa718bd37d9b59d4bc5583a76.jpg?1487025385" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85461">500 GR SPEED PASTE 74% Amphetamine </a> (<span title='602 EUR'>602&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nl-airline">NL-AIRLINE</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39405"><img src="/kuvat/tuotekuvat/77dfc7a074f82157bca071cfaa0e34a2439ffd1a.jpg?1461787520" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39405">14G PURE CREAM YELLOW BRICK COCAINE 💥 ---- FULL ESCROW ----</a> (<span title='840 GBP'>955.74&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/57220"><img src="/kuvat/tuotekuvat/46451c8ae0ff74438e1771e061099c2d841026b6.jpg?1518633921" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57220">575x Ritalin 10 MG Pills (Loose)</a> (<span title='965 USD'>785.32&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85002"><img src="/kuvat/tuotekuvat/ada53acb304ea67a9ca0160df5ef6eeb348e58da.jpg?1486713159" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85002">10 gr. high quality Pure Cocaine</a> (<span title='550 EUR'>550&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102176"><img src="/kuvat/tuotekuvat/900f08b8bfde020b52678c89b1ba782d8c268039.jpg?1513219807" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102176">❤14g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='770 USD'>626.63&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>★ 14 GRAM HIGH QUALITY FISHSCALE COCAINE</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

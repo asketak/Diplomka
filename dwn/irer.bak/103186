@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JZVqD501oP+f+L7L50AaUSVbqWHj0ivIh2eVKo2Z2NfoMSSfKdIA99w9uzaLPN5F1EEPU9BznfzAr8e70C/9wQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5e409cb0af631c91fa978b815a3f08ad7674a200.jpg?1517574542"><img src="/kuvat/tuotekuvat/15b07aa6e73eb532f2ce20b8cd25f0e54c68b11b.jpg?1517574542" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Etizolaamiliuos 200mg/20ml</h1>
+<ul class='list-unstyled specs'>
+<li>200 EUR <em>(0.025672 BTC)</em></li>
+<li>2 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/a-team">A-team</a></span>&nbsp;(<span class='green' title='Positive feedback'>1339</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="H04rbqzKDc/pvI+L5rVUP0leRIN7IGX91qvkbohGOnTS6mX+GC2tx6p5inaKyZAruETisUiB08mRY7b/1fAfYg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103186" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Etizolaamiliuos 200mg/20ml.
+<br />Nyt tarjolla hyvää ja riittoisaa bentso liuosta. Etizolaamia joka ei ole ns tutkari bentso, vaikka jotkut niin luulevat.  
+<br />Se on lääkekäytössä useissa maissa mm. Italiassa, Meksikossa, Japanissa ja muutamissa muissa maissa.
+<br />Monet pitävät Etizolaamin vaikutuksesta. Sen puoliintumisaika on 4-8 tuntia. Vaikutus jostain Xanorin ja Diapamin välimaastossa. 
+<br />Liuos on todella vahvaa ja toimitetaan tippapulloissa. 2-3 tippaa sisältää noin 1mg vaikuttavaa ainetta. 
+<br />Jos on tolea niin jopa 10mg päiväannos ei ole järkyttävä, mutta pienitoleisilla toimii jo mutaa mg mainiosti.
+<br /> 
+<br />Tuote on valmistettu vuosien ammattitaidolla. 
+<br />Itse liuos on tehty läakeaine-luokan (API) Etizolam-jauheesta, puhtailla ja steriileillä välineillä, parhaisiin mahdollisiin aineksiin. 
+<br />Etizolam on parhaan mahdollisen liukenevuuden vuoksi liotettu noin 60/40 suhteessa 80% alkoholiin ja lääkekäyttöön tarkoitettun 
+<br />PG-nesteeseen (Propyleeniglykoli). Tämän parempaa, steriilimpää ja ammattitadolla tehdympää Etizolaami liuosta ei Suomesta tällä hetkellä muualta 
+<br />kuin parilta Vendorilta saa.</p>
+
+<p>Käyttö joko suoraan mitalla/lusikalla suun kautta mehun tai limsan tms kanssa tai kielen alta, jolloin vaikutus alkaa hieman nopeampaa.</p>
+
+<p> EI SOVELLU IV-KÄYTTÖÖN = Etizolaami ei toimi IV/IM reittejä pitkin ja on epäterveellistä runsaan alkoholi- ja PG pitoisuuden vuoksi.</p>
+
+<p><b>HUOM!!
+<br />Käykää aina ennen tilausta katsomassa profiilisivumme koska siellä voi olla tärkeää päivitettyä tietoa liittyen esim. postituksiin:
+<br />http://silkkitiehdg5mug.onion/a-team </b></p>
+
+<p>A-Team toimittaa tuotteet aina nopeasti.
+<br />Meillä on FE nykyään kaikissa tuotteissa kun niin moni jättää maksun vapauttamatta vaikka tuotteet olisivat tulleet jo perille ja sitten meidän pitää aina oottaa 7 päivää että maksu vapautuu automaattisesti.
+<br />Tämä ei ole hyvä juttu meidän kannalta kun meidän pitäisi saada coinit kiertoon melko nopeasti uusien tuotteiden hankintoja varten.
+<br />Mutta eiköhän meidän palautteet puhu jo puolestaan eli että pelaamme rehtiä peliä ja tilatut tuotteet lähtevät aina nopeasti ja hyvin pakattuina liikenteeseen.</p>
+
+<p>A-Teamin:n toiminta on aina ehdottoman luottamuksellista ja 100% asiakastyytyväisyys on meille kunnia-asia.</p>
+
+<p>Nopeat postitukset aina Ma-Ke klo.14-16.00.
+<br /><b>Jos haluat varmistaa että tilauksesi ehtii päivän postiin niin tilaus tulee tehdä klo.13.00 mennessä.
+<br />Välillä voimme odottaa pidempäänkin kuin klo.13 mutta ostajan tulee ilmoittaa meille asiasta erikseen niin katsomme tilanteen mukaan että voimmeko odottaa yli tuon klo.13. </b>
+<br />Pääsääntöisesti emme vastaa postin kadottamista lähetyksistä mutta nämä katsotaan aina tilannekohtaisesti.</p>
+
+<p>K-18</p>
+
+<p>Muista että nimi ja osoite on oltava täydellisesti oikein.
+<br />Kirjoita nimi ja osoite alla olevan esimerkin mukaisesti:</p>
+
+<p>Etunimi Sukunimi
+<br />Katuosoite 10 A 10
+<br />00100 POSTITOIMIPAIKKA</p>
+
+<p>T: A-Team henkilökunta</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102821"><img src="/kuvat/tuotekuvat/24e8b1cd5016e4b178c713df7a3f248a58fac1aa.jpg?1516406347" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102821">❤ 100x XANAX S903 ★ 2mg  ❤</a> (<span title='200 USD'>162.64&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103354"><img src="/kuvat/tuotekuvat/ce01e1e7bf94612eaa506c362fa11961d1260e4a.jpg?1519069858" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103354">Rivotril 2mg, 100kpl(FE-&gt;110)</a> (<span title='164.5 EUR'>164.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15658"><img src="/kuvat/tuotekuvat/b1c831d25dc48a1068bcaf8ddf9d00383c7da7dc.jpg?1455970848" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15658">Restoril (temazepam) 30 MG 100 Caps</a> (<span title='191 USD'>155.32&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/deepmeds">DeepMeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>174</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38060"><img src="/kuvat/tuotekuvat/cbddd15dddf775bb7e6808a95e09efd07d09d1ff.jpg?1464325676" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38060">Rivotril Clonazepam by Roche 2mg - 200 tablets</a> (<span title='160 GBP'>181.78&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93621"><img src="/kuvat/tuotekuvat/cc2486f059e08abc2180f946a3adcb103f6fe9da.jpg?1504641088" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93621">10 x Elvanse 70mg (long release d-amfetamine, Lisdexamfetamine)</a> (<span title='1820 NOK'>188.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fast1egen">fast1egen</a></span>&nbsp;(<span class='green' title='Positive feedback'>47</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>Etizolaamiliuos 200mg/20ml</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

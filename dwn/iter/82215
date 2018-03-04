@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="B1gLAdq6Te5nn6w88esP77n1VBNAS+wXV0NLANg1c0vK/EWRbl3t5iRaqcGdl8v7SO/yIXPqWiMQixmRhYNWXQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/71fd1aad3da2253535eef68cf056edc5d9eca702.jpg?1485221698"><img src="/kuvat/tuotekuvat/b1cb5470dfcb9d4779469c212dc5bdee1d638ee9.jpg?1485221698" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div id='product-header'></div>
+<h1>Methamphetamine - Free Sample</h1>
+<ul class='list-unstyled specs'>
+<li>0 EUR <em>(0.0 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/saroka">Saroka</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NkAU2dFckjUCOLP0iLF+1URuas9VRVRYxThA7ldO2Q775FpJZbsyPUH9tgnkzbrBtXTM/Wbk4myC8BJ/Cvj8GA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="420482">First Class/Snail Mail (included)</option>
+<option value="420483">Priority (+5.68 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="82215" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Apart from postage, and the fact that an order needs to be a minimum of $5 to leave a review (on AlphaBay), we're offering a free sample of our crystal for a limited time. For this listing only, we'll be offering two postage types: first class and priority. </p>
+
+<p>First class orders will be $5 on AlphaBay due to the feedback minimum. First class delivery times vary wildly since the postal service has no incentive to deliver it within a specific timeframe, but allow up to 7-10 days in more extreme cases. All items will be tracked.</p>
+
+<p>Priority orders will be $7 to cover postage, but will come standard with tracking and are expected within 3 days, 4-5 days if over the weekend or delayed. </p>
+
+<p>Amount delivered will be somewhere between 50-75mg. Remember that pharmaceutical dosages of methamphetamine are now standardized to 5mg. </p>
+
+<p>5mg - Threshold. 
+<br />10mg - Light dose.
+<br />20mg - Common dose.
+<br />30mg - Strong dose.
+<br />40-50mg+ - Very strong.</p>
+
+<p>If your item hasn't arrived within an expected timeframe, don't start a dispute, don't leave feedback, message us first. We don't know if you haven't received something until you tell us. </p>
+
+<p>Free samples are limited to one per address, unless you return with a link to a review of our product from reddit.com/r/darknetmarkets.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1203">Metamphetamine</a>
+</li>
+<li class='active'>Methamphetamine - Free Sample</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

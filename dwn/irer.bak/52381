@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tYHcJAkl8cDMshINS1GOKDQlhnS5R2xcisQOibfw2yt4JZK0vcJRyI93F/AnLUo8xT8gRorm2mjNDFwY6kb+PQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d118c7845e0aee171dc11822505c8edb81116bf2.jpg?1468440180"><img src="/kuvat/tuotekuvat/96b7b9e7d4f084ba92e69e7c1e5b7aa05b9a7678.jpg?1468440180" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>20 X FC BARCA 180MG NET CONTENT MDMA BRAND NEW PILL!</h1>
+<ul class='list-unstyled specs'>
+<li>47 EUR <em>(0.006027 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/highqualitytrip">highqualitytrip</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jOsDvY+ZSLFnOHTmJ1PA2dWH4EmXgPf2l/BVjVASvtNBT00tO37ouST9cRtLLwTNJJ1Ge6QhQcLQOAccDaSbxQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="214149">Bubble envelope with stamp (included)</option>
+<option value="214150">Bubble envelope with tracking (+20 EUR)</option>
+<option value="214151">stealth decoy with tracking (+45 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52381" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>20 X FC BARCA 180MG NET CONTENT MDMA BRAND NEW PILL!
+<br />COLOR: PURPLE
+<br />NET CONTENT MDMA: 180MG
+<br />BREAKLINE: YES</p>
+
+<p>Every new batch of every product i sell is tested by a professional lab in the Netherlands</p>
+
+<p>----------------------------------------------------------------------------------------------------------------
+<br />Shipping information
+<br />We don't ship to: USA, United Kingdom, Australia and Canada!!</p>
+
+<p>Transit times:
+<br />Netherlands 1 to 2 (business) days
+<br />West Europe 5 to 9 (business) days
+<br />East Europe 6 to 12 (business) days
+<br />Rest of the world 6 to 12 (business) days</p>
+
+<p>Packaging:
+<br />- We use super stealth and good packaging!
+<br />- All orders will be processed and shipped within 24-48 hours (Also in the weekend)</p>
+
+<p>Following information needed for shipping your parcel:
+<br />Name:
+<br />Street:
+<br />Postal code / City:
+<br />Country:</p>
+
+<p>Please pay attention that the address is right and the sequence is right for a fast delivery!</p>
+
+<p>We hope that we inform you enough, if you have any questions please feel free to send us a private message.
+<br />We will be happy to provide you with top quality products and make some great business here and build up a trustful relationship with our customers.</p>
+
+<p>Best regards,
+<br />High Quality Trip</p>
+
+<p>Quality Over Quantity</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.0 EUR (Bubble envelope with stamp) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/96111"><img src="/kuvat/tuotekuvat/d3f061558d82f3248671a142b4599074295ebba3.jpg?1498743895" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96111">25 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23246"><img src="/kuvat/tuotekuvat/aa4b0a7b7e615da2d20e9d09f7d36ca18f3a4f94.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23246">25 Green WhatsApp XTC pills 160MG</a> (<span title='63 USD'>51.27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>580</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97839"><img src="/kuvat/tuotekuvat/b0b05b50ec44710b489460ec190a515808c398f9.jpg?1503331777" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97839">XTC PILLS 220 MG MDMA, 25 x FE  </a> (<span title='44 USD'>35.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24894"><img src="/kuvat/tuotekuvat/a9d4888a579784809267339c4ac6237f0b0c2252.jpg?1455972759" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24894">25 pcs. Yellow Playboy XTC pills *170mg* - FREE SHIPPING!</a> (<span title='60 EUR'>60&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23283"><img src="/kuvat/tuotekuvat/9b6b75797ea86e4dd481e7275b20178ddedcd53a.jpg?1455972448" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23283">25 Play Boy XTC pills 160MG</a> (<span title='58 USD'>47.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>20 X FC BARCA 180MG NET CONTENT MDMA BRAND NEW PILL!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ehOZI37V9zXtH4VVezGRqCId5RpgfE4zhpUaccxJ8wK3t9ezyjJXPa7agKgXTVW80wdDKFPd+AfBXUjgkf/WFA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9b09ea09ce31347f0ec1cf704625f87f5ac35105.jpg?1490358183"><img src="/kuvat/tuotekuvat/f70608729e239f78c4373913a4d23a3a1a225722.jpg?1490358183" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>3,5 gr. Platinum OG Kush AAA+ Indoor</h1>
+<ul class='list-unstyled specs'>
+<li>34 EUR <em>(0.004359 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hot-stuff">hot-stuff</a></span>&nbsp;(<span class='green' title='Positive feedback'>181</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Product:
+<br />Platinum OG is just as precious as the metal it’s named after. With a THC content regularly topping 20%, this indica-dominant hybrid asserts itself as one of the “heaviest” strains around. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (2.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/97628"><img src="/kuvat/tuotekuvat/1b4cfa79414a7ab81ce3c7d3ba88125c1571acbe.jpg?1501452993" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97628">7G★FREEZELAND★INDICA★A GRADE★£40</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94100"><img src="/kuvat/tuotekuvat/40e687f288a81171152019d73972e90e3f6ffef7.jpg?1505197722" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94100">Silver Haze AAA++++ 2g FREE UK NDD</a> (<span title='30 USD'>24.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100270"><img src="/kuvat/tuotekuvat/0c3ac4901e2d7ed3a030bf6aa68a38cbf8e18392.jpg?1510852244" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100270">3.5g Power Plant / NDD / UK / Best Customer Service</a> (<span title='38 GBP'>43.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51833"><img src="/kuvat/tuotekuvat/941c256d8c009ffd880e15dfad7a36cd9c0e7d76.jpg?1468194784" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/51833">2g of Amnesia Haze AAA High THC</a> (<span title='27 GBP'>30.72&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/lobosuk">LobosUK</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/36285"><img src="/kuvat/tuotekuvat/dd739154be7532f294343f15ec3bfffd36b2e7c6.jpg?1500502536" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/36285">3.5g - Amnesia Haze - Dutch Import - FREE UK SHIPPING</a> (<span title='40 GBP'>45.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>3,5 gr. Platinum OG Kush AAA+ Indoor</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

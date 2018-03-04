@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0PoATPJxF6YeMFizNaZ0roW1k1fXwnnMQLg5qzC/eRodXk7cRpa3rl31XU5Z2rC6dK81ZeRjz/gHcGs6bQlcDA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ecacad0333e447d1f613ebdc1391b5e45f39cc4a.jpg?1485288257"><img src="/kuvat/tuotekuvat/0018dd0b760555de639553c6d22b878b341efeeb.jpg?1485288257" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>10g SUPER SILVER HAZE [80% sativa]</h1>
+<ul class='list-unstyled specs'>
+<li>220 EUR <em>(0.028398 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/salamanca">Salamanca</a></span>&nbsp;(<span class='green' title='Positive feedback'>917</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="v89muXFIs1F4C1ILoolQCP3NvYO8t6J4IK55F/q7JqNyaygpxa8TWTvOV/bO9ZQcDNcbsY8WFExnZiuGpw0DtQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="82442" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>SUPER SILVER HAZE</b> 
+<br />4.4 / 5 - 1127 Reviews on Leafly
+<br /> 
+<br /><i>Known for being the king of all Sativas in the 1990's, Super Silver Haze has taken home many awards from various Cannabis Cups throughout the years. It's become a favorite for medical and recreational consumers alike - a must have for any serious despensary. It is composed of about half Original Haze, a quarter Northern Lights and a quarter Skunk #1.Tasting of spice, skunk and citrus, Super Silver Haze can deliver powerful psychoactive and physical effects. </p>
+
+<p>A strain that can make users want to get on their feet, it lacks focus but can be very profound and thought provoking. Motivating as it can be, Super Silver Haze shifts gears during the second half of its long lasting high and begins to soothe the body. Users may experience a brightening of colors and sharpening of sounds. For most users the strain can be effective daytime medication for fatigue, mood disorders, nausea and migraines. Some users may find the bodily effects heavier than others but it may alleviate chronic aches and pains.</i>
+<br /> </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/94315"><img src="/kuvat/tuotekuvat/d710b4c0c81ad2b8109845dc67104a8e4890b5a4.jpg?1505720226" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94315">20g@15e!!! WW x Chronic FREE DROP IN HELSINKI AREA-- ei FE!</a> (<span title='300 EUR'>300&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/suomenninja">SuomenNinja</a></span>&nbsp;(<span class='green' title='Positive feedback'>1687</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102442"><img src="/kuvat/tuotekuvat/8dbb591f9f564f258ab162220b873f2c0eb8f84e.jpg?1514200083" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102442">10g Pure Power Plant</a> (<span title='175 EUR'>175&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/savula">Savula</a></span>&nbsp;(<span class='green' title='Positive feedback'>70</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/76209"><img src="/kuvat/tuotekuvat/77526bf4423d5fdc365487a524812f6f5d274f7d.jpg?1519230477" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/76209"> Critical Kush 10g</a> (<span title='200 EUR'>200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pienipilvipuoti">PieniPilviPuoti</a></span>&nbsp;(<span class='green' title='Positive feedback'>1136</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99230"><img src="/kuvat/tuotekuvat/db95718dc3c57fc8024de4a2720fd63d043ef06a.jpg?1505764955" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99230">Black Mamba - Indica - 20g / 15e !ALE!</a> (<span title='304 EUR'>304&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/alko">Alko</a></span>&nbsp;(<span class='green' title='Positive feedback'>1132</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84106"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84106">25g Northern lights tai White Widow, erittäin vahva</a> (<span title='326.2 EUR'>326.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/senaatintori">Senaatintori</a></span>&nbsp;(<span class='green' title='Positive feedback'>88</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>10g SUPER SILVER HAZE [80% sativa]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

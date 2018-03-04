@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ML9pU1uvKvJrBpj7pWyeXV45EYqVuEMxq7tvB/CPEav9GyfD70iK+ijDnQbJEFpJryO3uKYZ9QXscz2WrTk0vQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2684849e25e970aaff4bff46a2808ea2ca6fad22.jpg?1508906207"><img src="/kuvat/tuotekuvat/7c966ac9755db3e258f824b25a4f0516c86de49f.jpg?1508906207" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sig Sauer # Exclusive offer # 2 Mags # 200 bullets #</h1>
+<ul class='list-unstyled specs'>
+<li>2235 EUR <em>(0.286618 BTC)</em></li>
+<li>17 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/cm">CM</a></span>&nbsp;(<span class='green' title='Positive feedback'>19</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hiwR3dqPe5Kr0GTQ9AeRba3nm9gZdd9LDPb5Rg+WIvVLiF9NbmjbmugVYS2Ye1V5XP096irUaX9LPqvXUiAH4w==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="671493">Domestic (included)</option>
+<option value="671494">International (+15 EUR)</option>
+<option value="671495">Registered &amp; tracked (+40 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100415" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Gun Seller - on Valhalla</p>
+
+<p>Message me for all contact.</p>
+
+<p>We are arms vendors from Germany specialized in selling guns.
+<br />clean guns never used and untraceable.</p>
+
+<p>This will be our only type of gun that we put up for sale.</p>
+
+<p>Discreet shipping always. Free tracking on all firearm related sales.</p>
+
+<p>For stealth reasons guns would be completely disassembled and shipped in
+<br />either customer electronics casings such as printers or large box tv sets.</p>
+
+<p>We ship from Germany to Worldwide. So all country's!</p>
+
+<p>If any more information is needed please send email or message on Valhalla.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 35.0 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/86641"><img src="/kuvat/tuotekuvat/c55e4a0b3348c93e3d1c560f5394318c25b8f42b.jpg?1487782663" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/86641">Ruger SR9</a> (<span title='1752 EUR'>1752&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arcre8t0r">ARCre8t0r</a></span>&nbsp;(<span class='green' title='Positive feedback'>1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99546"><img src="/kuvat/tuotekuvat/b18a769c0b9c3b74fdbebe1354dff14527fdf6ef.jpg?1506298888" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99546">Browning 9mm Semi-Auto + Ammo</a> (<span title='1880 EUR'>1880&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/king-of-the-south">King of the South</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96371"><img src="/kuvat/tuotekuvat/a549d02de2a2e0c536cf403f708b4bdfa794edbe.jpg?1499526569" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96371">One Glock 26 </a> (<span title='1920 EUR'>1920&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/redface33">REDface33</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78059"><img src="/kuvat/tuotekuvat/126e0c464ac50e1bf6144615acc7efcad3b860ab.jpg?1484625723" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78059">Sig Sauer P220 Classic, .22LR</a> (<span title='1845 EUR'>1845&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/brabo-choke">BRABO CHOKE</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2500">Self-defence</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2502">Guns and ammo</a>
+</li>
+<li class='active'>Sig Sauer # Exclusive offer # 2 Mags # 200 bullets #</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

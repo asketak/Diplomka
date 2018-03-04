@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9L0tQDPympnwxJSg19aDvLyqJ2Wiskfgi+U3wFXzGok5GWPQhxU6kbMBkV27qkeoTbCBV5ET8dTMLWVRCEU/nw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/dc844e6c267e9ab5a54b6c1b20ba98cfde7d4a7c.jpg?1490880730"><img src="/kuvat/tuotekuvat/8101c413754d1271d512613c27652489e3a90e03.jpg?1490880730" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>DreamWeaver 1.5g Cocaine / FREE UK POST / NDD / WorldwideShipping</h1>
+<ul class='list-unstyled specs'>
+<li>81.38 EUR <em>(0.010434 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FIUiegnOLbFYNcZaMqvMoK7F6a1tb1FQdVTuqM3RJDPZIWzqvSmNuRvww6de1wi0X99Pn17O52QynLw5kGcBJQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="491598">Royal Mail 1st Class FREE (included)</option>
+<option value="491599">European Union Airmail (+4.07 EUR)</option>
+<option value="491600">Shipping outside of European Union  (+10.58 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="90864" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Repressed cocaine, social cocaine Peruvian Blend</p>
+
+<p>In this listing we are proud to present new addition to our shop. Repressed Peruvian Flake cocaine</p>
+
+<p>Our Peruvian blend is mixed with only high quality benzocaine for that sociable high we all look for. Current batch comes out as 35 - 40% pure cocaine.</p>
+
+<p>It is available in pressed and powdered form but there will be no difference in quality (Please pick one or the other in shipping options)</p>
+
+<p>Due to different shipping methods the powdered form will arrive quicker and it is less likely to be detected.</p>
+
+<p>PLEASE NOTE THAT IF YOU HAD NO PREVIOUS ORDERS WITH US THERE WILL BE NO REFUNDS OR RESHIPS.
+<br />In case of return customers we will use our usual procedure.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/74113"><img src="/kuvat/tuotekuvat/8956b267fc68c5785c2ea2198729c9d64dda7326.jpg?1502924375" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74113">UNCUT Peruvian 89% FISHSCALE COCAINE 1g FREE UK </a> (<span title='78 USD'>63.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89838"><img src="/kuvat/tuotekuvat/58b1241a8bf6dd2c912b4c98d2133b562d469498.jpg?1490228076" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89838">1G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='80 GBP'>91.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39791"><img src="/kuvat/tuotekuvat/f295885258aad0ab1d755b03b1b2b5498f580cf3.jpg?1468760620" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39791">1G 85% PURE FISHSCALE COCAINE</a> (<span title='90 GBP'>102.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cocainecowboy">CocaineCowboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>315</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93646"><img src="/kuvat/tuotekuvat/7ee4bff1d17c14eff977445737ca40b507a7f86e.jpg?1513837685" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93646">PURE.COCAINE.1G</a> (<span title='75 GBP'>85.33&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100423"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100423">7 gram crack cocaine</a> (<span title='70 GBP'>79.64&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>DreamWeaver 1.5g Cocaine / FREE UK POST / NDD / WorldwideShipping</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

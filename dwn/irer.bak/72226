@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sC2Iw12g3LE9jHRLHs53tkZ32uXKCYSuBOYNol8STt19icZT6Ud8uX5JcbZysrOit2181/moMppDLl8zAqRryw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f86dacfb9fcd658c07fdc7ebc3284c8e17d7989f.jpg?1479842036"><img src="/kuvat/tuotekuvat/9fa55e4ee99479e7e112380c53cf0640ece1f7df.jpg?1479842036" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>114g (QP) Weed [CHEAPEST AUSSIE PRICE] Bestaussiegear - POST INC.</h1>
+<ul class='list-unstyled specs'>
+<li>492 EUR <em>(0.063509 BTC)</em></li>
+<li>25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Belgium &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Yd+PRgBW8nVTLgwe08dwjSbaIePtLgCpdKZOy3h+266se8HWtLFSfRDrCeO/u7SZ18CH0d6Ptp0zbhxaJcj+uA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="72226" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>114g (QP) Weed of BESTAUSSIEGEARS PREMIUM WEED.</p>
+
+<p>Packaged by professional, state of the art DOUBLE MYLAR package design. Our insane stealth protocol entails in FIVE LAYERS of shipping protection that will guarantee the secure arrival of any orders from BAG straight from our warehouse to your door step safely and undetected.</p>
+
+<p>Sniffer dogs: Proven by the test of time, that they are an very effective tool used to detect drugs. Dogs have the ability to separate and detect odors as well as how we see colors. HOWEVER. Dogs cannot smell through metal. They also CANNOT smell what is not there. Hence why we have strict STERILIZATION and DISINFECTANT protocols which are strictly implemented on ALL layers associated with your respective orders. This is the key to our successful delivery rates, as we have tested our protocols through time and hands down know that we are the best in Australia. The quality of our stealth meets INTERNATIONAL shipping standards.</p>
+
+<p>We dispatch orders daily. All Orders are sent within 24 hours via Express Post. Place your order by 2:00pm EST to Guarantee Same Day Delivery (If you are within the Express Zone) - We normally accept all orders up until 5:00pm EST, but it just depends on our schedule.</p>
+
+<p>Once you receive your order, please LEAVE FEEDBACK. We encourage all of our customers to address us with their feedback. Good, Neutral or Bad, we want to hear from you. We strive to provide the best quality gear, at the best price and the best customer service within Australia.</p>
+
+<p>Best Price &amp; Fast Shipping - Best Price &amp; Fast Shipping.
+<br />Our Stock is Unlimited so you know you are in good hands. We operate on several sites so please see our Profile for more details on that.</p>
+
+<p>Order &amp; Finalize with confidence.
+<br />BAG.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/58881"><img src="/kuvat/tuotekuvat/66637887ae5f1fc5badac924f32fa77c610b7f2d.jpg?1472669418" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/58881">ONLY FE AMNESIA HAZE 50 GRAM freeshipping</a> (<span title='425 EUR'>425&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102172"><img src="/kuvat/tuotekuvat/ca54308e3455df8643c46c55e900db90ecf80287.jpg?1515222273" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102172">❤224g CRITICAL + ★ Weed ❤</a> (<span title='800 USD'>649.12&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103725"><img src="/kuvat/tuotekuvat/6abcb6fffccb37a6a057a29e323e93bd89dfe728.jpg?1519605741" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103725">Super Lemon OG Kush QP - 112g  *Indoor AAA Quality</a> (<span title='677.75 USD'>549.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/81403"><img src="/kuvat/tuotekuvat/777ab09eb7bf80688c79e00fefe2933688f57295.jpg?1484870029" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/81403">56G TUNA KUSH - AAAA+ QUADRUPLE GRADE - BEST SMOKE OUT OF CANADA</a> (<span title='435 USD'>352.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/luciphero">Luciphero</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91800"><img src="/kuvat/tuotekuvat/fd10365fe7ec20c8247de61e1da7beac6a023a8e.jpg?1491450126" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91800">100 gr. Diesel A+++Top-Shelf Hydroponic Weed </a> (<span title='577 EUR'>577&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>114g (QP) Weed [CHEAPEST AUSSIE PRICE] Bestaussiegear - POST INC.</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

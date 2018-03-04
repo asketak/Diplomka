@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XM/CNl4MEigk1jzITh7Ahy66qvShzJFl82cSYdqA3W+Ra4ym6uuyIGcTOTUiYgST36AMxpJtJ1G0r0Dwhzb4eQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/37cfd102c21cf06549efa1bfba6e0206212db1f7.jpg?1478969012"><img src="/kuvat/tuotekuvat/f02b287abd2f85dd4eaef853325ed2447076a9ec.jpg?1478969012" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>7g PSILOCYBE SUBAERUGINOSA ! The strongest shrooms on Earth</h1>
+<ul class='list-unstyled specs'>
+<li>150.92 EUR <em>(0.019481 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/chem-bros">Chem-Bros</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Australia &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="heyYexFaZxDS+Kh/rpinof/8p3HF3jp7kmfTLarXMMtISNbrpb3HGJE9rYLC5GO1DuYBQ/Z/jE/Vr4G892EV3Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="336999">Domestic Regular (included)</option>
+<option value="337000">Domestic Express Stealth (+4.87 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="70522" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Having been found to contain up to 2.5% Psilocin/Psilocybin that makes these the strongest shrooms in the world, don't eat too many too fast !
+<br />In comparison to Ps. Cubensis which have been found to contain a maximum of 0.9% psilocin/psilocybin in dried weight and an average of ~0.6%</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 4.87 EUR (Domestic Regular) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102205"><img src="/kuvat/tuotekuvat/c9e31668d9ad0192d89d0286791ccbec0d05b7f2.jpg?1513224889" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102205">❤ 50x LSD-25 ★ ORIGINAL ★ 160ug ❤</a> (<span title='260 USD'>210.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15227"><img src="/kuvat/tuotekuvat/aca96151744df4a411c260f838ddcb83c07d88ae.jpg?1455970770" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15227">54g - Iboga Rootbark - High Quality, Cameroon</a> (<span title='295.2 USD'>239.53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/71705"><img src="/kuvat/tuotekuvat/aa5b3fe04de282bf401c0d0563daea77bbfa9d7d.jpg?1479479768" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71705">☆ 5G WHITE/BROWN 2-CB POWDER ☆</a> (<span title='200 EUR'>200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38253"><img src="/kuvat/tuotekuvat/61094ec28e00b906d15d97b721fe8d3ed344df26.jpg?1461423173" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38253">Escaline 10g</a> (<span title='322 USD'>261.27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73184"><img src="/kuvat/tuotekuvat/5c6c30d3afb516d0e656b5c5136b81ac51549bd0.jpg?1496926438" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73184">LSD 200µg x 50 Trips - Pure Crystal 99.5%</a> (<span title='245 EUR'>245&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1702">Mushrooms</a>
+</li>
+<li class='active'>7g PSILOCYBE SUBAERUGINOSA ! The strongest shrooms on Earth</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

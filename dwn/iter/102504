@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N50hKc7IcMwIJ4L6oTutTK6f6bi56O6+XFb2Erq2Z076OW+5ei/QxEvihwfNR2lYX4VPiopJWIobnqSD5wBCWA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Malay Tiger Testosterone Cypionate 250mg/ml 10ml</h1>
+<ul class='list-unstyled specs'>
+<li>55 EUR <em>(0.00706 BTC)</em></li>
+<li>5 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rjkFPaARV3WBpylmKPjAJYNGu50K7htIlg22o8OZSEJjnUutFPb3fcJiLJtEhAQxclwdrzlPrXzRxeQyni9tVA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102504" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Malay Tiger Testex-Pro 250.</p>
+
+<p>Sisältää /ml: 
+<br />Testosterone Cypionate 250mg</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(today)</em>
+</td>
+<td><span>
+ro***i6
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.2.)</em>
+</td>
+<td><span>
+Pu***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tilaus tuli ajallaan
+<em>(9.2.)</em>
+</td>
+<td><span>
+te***ka
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Viikon otti tällä kertaa, mutta kaikki kunnossa!
+<em>(7.2.)</em>
+</td>
+<td><span>
+Fl***ws
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikin puolin 5/5, ei moittimista!
+<em>(7.2.)</em>
+</td>
+<td><span>
+St***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(5.2.)</em>
+</td>
+<td><span>
+ko***si
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kahdessa päivässä perille. 5/5
+<em>(1.2.)</em>
+</td>
+<td><span>
+My***rä
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (2.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103100"><img src="/kuvat/tuotekuvat/e9795ebe89048a7d8187744a05da4857f0a970c1.jpg?1517784619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103100">Vidalista (Viagra) 60mg / 10tabl. </a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/67493"><img src="/kuvat/tuotekuvat/b95d8aa8358afec9e31c13da4f0171010368c55c.jpg?1477260067" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67493">Cerberus Pharma Sustanon 250mg</a> (<span title='37 GBP'>42.04&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103702"><img src="/kuvat/tuotekuvat/3ee7f28ccb4345e70b421b3e3625e724caefee1a.jpg?1519415921" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103702">Testosterone Cypionate - 300 mg/ml/ 10 ml - Bioniche Pharma</a> (<span title='68 EUR'>68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/64531"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/64531">LGD-4033 jauhe 500mg</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hiro">Hiro</a></span>&nbsp;(<span class='green' title='Positive feedback'>1501</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2702">Testosterone</a>
+</li>
+<li class='active'>Malay Tiger Testosterone Cypionate 250mg/ml 10ml</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

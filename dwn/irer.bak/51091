@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OEwh8ycAvmOPqeNnWneEoez2D9MifpuJKpu8OqFMOD316G9jk+cea8xs5po2C0C1Heyp4RHfLb1tU+6r/PodKw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/3c30300c8cfd5a93b659a49afda26fa7477de2fd.jpg?1467822415"><img src="/kuvat/tuotekuvat/e3ad22d8f1cc800770f651ab902d43ee0b3113a8.jpg?1467822415" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>100g Hash du lapin !</h1>
+<ul class='list-unstyled specs'>
+<li>420 EUR <em>(0.05391 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/bugz-dw">Bugz-dw</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>France &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="I8L2AyM+EerbWQXmq4/ZHtA8DG5bOq2NJMMca/jxhSLuZriTl9mx4picABvH8x0KISaqXGibG7ljC076pUegNA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="51091" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Yep !</p>
+
+<p>Très bon jaune ! Très bonne odeur et très bon goût ! Qualité AAA ! </p>
+
+<p>ESCROW bien evidemment accepté !</p>
+
+<p>Tout envoi se fera emballé sous vide X2 + brise-vue. Livraison GRATUITE en Lettre Suivi sous 48h !</p>
+
+<p>Je précise bien que je ne suis pas reponsable des aléas de la poste, d'une saisie par la flicaille, ou d'un gars avec un pass PTT qui viendrai vous piquer l'enveloppe dans votre drop !</p>
+
+<p>Une fois le numéro de suivi actif, mon travail s'arrête ici !</p>
+
+<p>IL N'Y AURA AUCUN RENVOI OU REMBOURSEMENT !!!! QUE CE SOIT CLAIR !!!</p>
+
+<p>Merci de crypter tout vos messages avec PGP !!</p>
+
+<p>Pour toutes autres questions, n'hésitez pas à me contacter !</p>
+
+<p>Bugz.</p>
+
+<p>***********************************</p>
+
+<p>Yep!</p>
+
+<p>Very good yellow, smell very good, very good high !</p>
+
+<p>ESCROW obviously well accepted!</p>
+
+<p>Every item will be packaged under vacuum + X2 breaker view. FREE Shipping Letter Tracking in 48h!</p>
+
+<p>I specify that I am not responsible for the vagaries of the post, to seizure by the cops, or a guy with a post pass come bitten the letter in your drop!</p>
+
+<p>Once the asset tracking number, my job ends here!</p>
+
+<p>THERE WILL BE NO RETURN OR REFUND !!!! WHETHER CLEAR !!!</p>
+
+<p>Thank you encrypt all your messages with PGP !!</p>
+
+<p>For other questions, please feel free to contact me!</p>
+
+<p>Bugz.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/99964"><img src="/kuvat/tuotekuvat/78cc287e70e60f10f157d5b02b0a22965c8d288d.jpg?1518100170" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99964">mixed strains DARIK  TRACK AND TRACE</a> (<span title='325 EUR'>325&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/41380"><img src="/kuvat/tuotekuvat/040fa403f9c122538f43e0d035c2583edc92765b.jpg?1516565711" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/41380">Tripple Cheese QP - 112g  *Indoor AAA Quality</a> (<span title='677.75 USD'>551.15&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/22728"><img src="/kuvat/tuotekuvat/0d61eabd59542abbc4dcc65ddff14c88b2951a00.jpg?1455972380" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/22728">50G ★★ AMNESIA Haze Cannabis Weed ★★ AAA+ High Quality</a> (<span title='350 EUR'>350&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39310"><img src="/kuvat/tuotekuvat/dbf64f19aa20d96f2e0e8290d9975fff84796eda.jpg?1461763340" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39310">5-f-NPB-22 100g</a> (<span title='542 USD'>440.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95796"><img src="/kuvat/tuotekuvat/6d5281a284bffa69f5b4e9305b879bc55cd5aecd.jpg?1498039591" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/95796">50g Enemy of the State Worldclass Medical Cannabis AAA++</a> (<span title='442 EUR'>442&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/doktorgreen">DoktorGreen</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>100g Hash du lapin !</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

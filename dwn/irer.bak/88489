@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6okj0pYMFBreG3RCYnaA4nY3jQDR1iiW/VSs1fA+tz4nLW1CIuu0Ep3ecb8OCkT2hy0rMuJ3nqK6nP5ErYiSKA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/926d8ba3b53b7d149039136b726b3be6e39d1b87.jpg?1489313649"><img src="/kuvat/tuotekuvat/f8cfa16874eaa7550041497b5fb9e983518214c4.jpg?1489313649" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Fentanyyli nenäsuihke, 9mg/10ml</h1>
+<ul class='list-unstyled specs'>
+<li>95 EUR <em>(0.01218 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pur-sang">Pur Sang</a></span>&nbsp;(<span class='green' title='Positive feedback'>1756</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>1kpl 10ml fentanyylinenäsumutepullo, tämä on hyvä vaihtoehto päivittäiskäyttäjille. mainittavasti tehokkaampaa kuin edellinen erä, huomaa uudet annosteluohjeet!</p>
+
+<p>10ml pullossa jossa pohjanesteenä 0.9% keittosuola (steriili) vesi. Vaikuttavaa ainetta noin 9 milligrammaa. Suihkeesta vapautuu pullon pumpun painalluksen voimakkuudesta riippuen noin 150μg, eli pullosta tulee 50-70 suihkausta.</p>
+
+<p>Pidempiaikainen säilytys pimeässä ja viileässä, esimerkiksi jääkaapissa.</p>
+
+<p>Fentanyyli on täyssynteettinen opioidi, joka on vahvuudeltaan noin sata kertaa morfiinia vahvempaa. Annostus kannattaa aloittaa 1 kevyestä suihkauksesta ja katsoa 10-15 minuutin kuluttua tuntemuksia. Jos haluaa, voi boostata 1-2 suihkauksella. Tämän suurempaa annostusta ei suositella ellei kyseessä ole vahvasti opparitolellinen henkilö. 4-5 suihkausta enempää ei suositella kenellekään, yliannostuksen vaara on suuri, tämän aineen käyttäjän on syytä tietää mitä tekee.</p>
+
+<p>Luethan profiilimme ennen tilaamista.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23821"><img src="/kuvat/tuotekuvat/b8067ef3c0fa15dd29dc40eead1b33f578260bbd.jpg?1455972566" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23821">Opioid Liquid - O-Liquid 10 ML</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103636"><img src="/kuvat/tuotekuvat/c3153321dd68ffdb6019e9391ec852ec5aad86a3.jpg?1519058397" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103636">Tramadol retard 100mg  3 Listaa</a> (<span title='135 EUR'>135&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nuuskatukku">NuuskaTukku</a></span>&nbsp;(<span class='green' title='Positive feedback'>541</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38047"><img src="/kuvat/tuotekuvat/5186d37c2597235f18f4cb5ba3da8eaae6561d6d.jpg?1464325933" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38047">Ultram Tramadol 50mg by Janssen - 100 tablets</a> (<span title='60 GBP'>68.27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11387"><img src="/kuvat/tuotekuvat/4663265e742a6b9c4d97c49cff3fbe67b73da158.jpg?1487097561" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11387">Heroin T 4, 1 gram</a> (<span title='76 EUR'>76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87557"><img src="/kuvat/tuotekuvat/a879cfe93e3d1142f6d8260c43d67f34803f4134.jpg?1488645152" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87557">[US-US] 20 TABS x Oxycodone 30mg K9 imprint $149.99 HIGH QUALITY!</a> (<span title='167.98 USD'>136.7&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1304">Fentanyl</a>
+</li>
+<li class='active'>Fentanyyli nenäsuihke, 9mg/10ml</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

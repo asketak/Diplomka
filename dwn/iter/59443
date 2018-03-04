@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="P1mlYo0YMJy4YqQQzbZe5carsPMQFi8GLzoenSh0w0ry/evyOf+QlPunoe2hyprxN7EWwSO3mTJo8kwMdcLmXA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/66a6c8a8dc2f13d6deb298aaa55e8a3c730bfd8f.jpg?1475222241"><img src="/kuvat/tuotekuvat/e2b124e37c0789d3ca9f20f6afb2f4ec77e3183f.jpg?1475222241" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>CULERO HQ 5X8GR [DESTOCK]</h1>
+<ul class='list-unstyled specs'>
+<li>250 EUR <em>(0.032065 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/johndelasvegas">Johndelasvegas</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>France &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jFBcLnykveBRTmMS92qboRc6u9JJ/aCRHaBnCJBTjEdB9BK+yEMd6BKLZu+bFl+15iAd4HpcFqVaaDWZzeWpUQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="59443" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>-------------------------Hello and welcome to all,------------------- --------</p>
+
+<p>high quality hash, gray and black, it is malleable and powerful.</p>
+
+<p>Guideline for address format:</p>
+
+<p>Line 1: NAME OF ADDRESSEE
+<br />Line 2: STREET ADDRESS OR POST OFFICE BOX NUMBER
+<br />Line 3: CITY OR TOWN NAME, OTHER PRINCIPAL SUBDIVISION (such as PROVINCE, STATE, or COUNTY) AND POSTAL CODE (IF KNOWN)
+<br />Note: In some countries, the postal code may precede the city or town name
+<br />Line 4: FULL COUNTRY NAME</p>
+
+<p>Average Delivery Times</p>
+
+<p>France range from 2-3 days
+<br />European Orders range from 3-7 days
+<br />Rest of the world shipments range from 6-12days</p>
+
+<p>Tracking number will be use.</p>
+
+<p>PGP encryption is always recommended.</p>
+
+<p>Thank you for your visit.</p>
+
+<p>Cordially</p>
+
+<p>------------------------------------------------------------------------------------------------------</p>
+
+<p>-------------------------Bonjour et bienvenue a tous,---------------------------</p>
+
+<p>Hash de haute qualité , gras et noir , il est malléable et puissant.</p>
+
+<p>FORMAT DE COMMANDE:</p>
+
+<p>Ligne 1: NOM DU DESTINATAIRE
+<br />Ligne 2: ADRESSE OU POST BOX OFFICE NUMÉRO
+<br />Ligne 3: VILLE NOM, AUTRES LOTISSEMENT PRINCIPAL (comme PROVINCE, ÉTAT ou COUNTY) ET CODE POSTAL (SI CONNU)
+<br />Remarque: Dans certains pays, le code postal peut précéder la ville ou la ville nom
+<br />Ligne 4: FULL NOM DU PAYS</p>
+
+<p>Délais de livraison moyens</p>
+
+<p>En France les délais sont de 2-3 jours.
+<br />Les commandes européennes vont de 3-7 jours
+<br />Reste des expéditions mondiales vont de 6-12 jours.</p>
+
+<p>Nhésitez pas a me mp pour plus dinfos.</p>
+
+<p>Le cryptage PGP est toujours recommandé.</p>
+
+<p>Merci de votre visite.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102170"><img src="/kuvat/tuotekuvat/d9eb32186958ec0e2748929af3ebb415d7b86987.jpg?1515222320" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102170">❤ 56g CRITICAL + ★ Weed ❤</a> (<span title='280 USD'>227.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24622"><img src="/kuvat/tuotekuvat/da5774db68a2012e4396a1267af51015a92a1493.jpg?1455972709" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24622">Exclusive Amnesia Haze AAA+++ 28g FREE UK NDD</a> (<span title='335 USD'>272.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102569"><img src="/kuvat/tuotekuvat/3cbccbf1a07a79452e3aaf690a25f748a31d3ee5.jpg?1515173083" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102569">ABUSIVE OG PREMIUM CANNABIS INDOOR  MK  28GRAMS</a> (<span title='234.98 USD'>191.23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93780"><img src="/kuvat/tuotekuvat/3ec8cf8047b4722f19ef2d0475cda77b35831e6d.jpg?1494047071" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93780">28gm HAND RUBBED INDIAN TRADITIONAL HASH</a> (<span title='270 USD'>219.73&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenstore">greenstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>837</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>CULERO HQ 5X8GR [DESTOCK]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

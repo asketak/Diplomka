@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="62iK3z9StzJGhh1xeP4FnGvyVj30ecHjTfD5AKAtnq0mzMRPi7UXOgVDGIwUgsGImujwD8fYd9cKOKuR/Zu7uw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/02e9d8b2f9846a41fce41ad9e7477adf0db73a5c.jpg?1512683963"><img src="/kuvat/tuotekuvat/5218b0bcc491a156af8f7bbf6ed900fd0f4e608f.jpg?1512683963" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>3x10ml 21% CBD OIL +THC &lt;3% FREE SHIPPING *FE</h1>
+<ul class='list-unstyled specs'>
+<li>210 EUR <em>(0.026955 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/thehappycrew">TheHappyCrew</a></span>&nbsp;(<span class='green' title='Positive feedback'>856</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="R5ZLXzHxUk2KxEfA6u+7VSIf9h0bvNWm7TNmFtLpjEmKMgXPhRbyRckBQj2Gk39B0wVQLygdY5Kq+zSHj1+pXw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="654807">Domestic Netherlands (included)</option>
+<option value="654808">WORLDWIDE STEALTH (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="101966" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>1 bottle contains 10 ml CBD OIL 21% +THC</p>
+
+<p>(Also see our other listing  21% THC OIL!!! NEW)</p>
+
+<p>The percentage is CBD 21% THC &lt;3%</p>
+
+<p>Our Oil is 100% organic and contains potent concentrations of 21% CBD and &lt;3% THC</p>
+
+<p>Our OILS are Very Potent!
+<br />The oil is on olive oil base and can be diluted with olive oil to get the preferred ratio.
+<br />The oil can be mixed with our THC OIL to your liking.</p>
+
+<p>The low price is because we don't like to make big profits on meds for those who need it but don't have the money to spend.</p>
+
+<p>1x10 ml High CBD+THC Oil. EURO 75,-
+<br />2x10 ml High CBD+THC Oil. EURO 145,-
+<br />3x10 ml High CBD+THC Oil. EURO 210,-
+<br />4x10 ml High CBD+THC Oil. EURO 270,-
+<br />5x10 ml High CBD+THC Oil. EURO 325,-
+<br />6x10 ml High CBD+THC Oil. EURO 375,-
+<br />7x10 ml High CBD+THC Oil. EURO 420,-
+<br />8x10 ml High CBD+THC Oil. EURO 460,-
+<br />9x10 ml High CBD+THC Oil. EURO 495,-
+<br />10x10 ml High CBD+THC Oil. EURO 525,-</p>
+
+<p>* 10ml pipet botle.</p>
+
+<p>High CBD+THC Oil</p>
+
+<p>Tested at 21% total active cannabinoids, our High CBD Oil has shown promise in the easing symptoms of a wide variety of conditions, including rheumatoid arthritis, diabetes, PTSD and epilepsy, </p>
+
+<p>And it is currently being studied for its anti-cancer potential.
+<br />Symptoms &amp; Conditions: anxiety, cramps, depression, inflammation, insomnia, loss of appetite, muscle spasms, pain: muscle/joint, pain: neuropathic, pain: phantom limb, seizures, skin irritation</p>
+
+<p>Everybody Wants CBD When It’s the combination with THC that They Need</p>
+
+<p>**This is not BHO or Rick Simpson Cannabis oil tincture. but cbd oil with thc.</p>
+
+<p>***BY BUYING THIS PRODUCT YOU AGREE ON AND ACCEPT OUR POLICY!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102170"><img src="/kuvat/tuotekuvat/d9eb32186958ec0e2748929af3ebb415d7b86987.jpg?1515222320" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102170">❤ 56g CRITICAL + ★ Weed ❤</a> (<span title='280 USD'>227.7&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100182"><img src="/kuvat/tuotekuvat/a79f44eb9aea3fd66a40c1bc5d43a8bc632d4cdd.jpg?1508254357" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100182">DURBAN POISON  28 GRAMS</a> (<span title='199.98 USD'>162.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101548"><img src="/kuvat/tuotekuvat/b95b8b95f405648a227c483bea9d9a61a56b74f9.jpg?1511228727" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101548">28G★FREEZELAND★INDICA★A GRADE★£145</a> (<span title='147 GBP'>167.01&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102785"><img src="/kuvat/tuotekuvat/fd64a2aded3a66022b5168a5be2f9a7e462ef39d.jpg?1516565607" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102785">Tripple Cheese 1oz - 28g  *Indoor AAA Quality</a> (<span title='191.75 USD'>155.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1106">Concentrates</a>
+</li>
+<li class='active'>3x10ml 21% CBD OIL +THC &lt;3% FREE SHIPPING *FE</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

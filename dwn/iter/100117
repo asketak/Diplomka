@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KnJg3n3+f12W97XEgu59xMiNECs8fJRRHkzcvRl3gpLn1i5OyRnfVdUysDnukrnQOZe2GQ/dImVZhI4sRMGnhA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/61f5651cfeb95e97931fd28cfe0ab0d9bf7bc916.jpg?1508144184"><img src="/kuvat/tuotekuvat/c9a3e3bea11c0cc81055495a636f447a0b969ae9.jpg?1508144184" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5g Skywalker OG Hasj</h1>
+<ul class='list-unstyled specs'>
+<li>87.58 EUR <em>(0.011237 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hogstandard">hogstandard</a></span>&nbsp;(<span class='green' title='Positive feedback'>1925</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</li>
+<li>Norway &rarr; Norway</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Tj/gMyOxXddi7YPxFMUuqaeLBOqPDbzAvQ27HDm0RyCDm66jl1b93yEohgx4ueq9VpGi2LysCvT6xemNZAJiNg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100117" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Superfersk hasj fra spania. Denne hasjen er vanvittig og vill. 
+<br />Megakvalitet. denne er meget dyr selv i Amsterdam.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(20.2.)</em>
+</td>
+<td><span>
+ba***ce
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Exit-scam? shipped for 10 dager siden og ingen svar å få pr meldinger
+<em>(7.2.)</em>
+</td>
+<td><span>
+da***14
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Ekstremt god! A++
+<em>(29.1.)</em>
+</td>
+<td><span>
+ta***44
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Great product as expected!
+<em>(27.1.)</em>
+</td>
+<td><span>
+S_***ss
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nydelig
+<em>(26.1.)</em>
+</td>
+<td><span>
+Je***et
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hs leverer som alltid. Bestilte søndag kom mandag *update: altså 8 dager. Herlig produkt og vekten var on fleek
+<em>(23.1.)</em>
+</td>
+<td><span>
+el***do
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Excellent
+<em>(15.1.)</em>
+</td>
+<td><span>
+hi***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee (4.66 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100948"><img src="/kuvat/tuotekuvat/efdb84f560ad4eda3f45e01e707e2e79ccdabb93.jpg?1515222340" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100948">❤ 14g CRITICAL + ★ Weed ❤</a> (<span title='100 USD'>81.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101315"><img src="/kuvat/tuotekuvat/993c331ed9ecf1de145ad256914f93eb8bf2497e.jpg?1510922335" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/swiss">Swiss</a></span>&nbsp;(<span class='green' title='Positive feedback'>250</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78387"><img src="/kuvat/tuotekuvat/d2c911073fc34bc01b125f72a604f20c282c6ccd.jpg?1501424308" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78387">10G ★ LAGERWEED ★ KNALL TILBUD ★ GRATIS FRAKT!</a> (<span title='1199 NOK'>124.26&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/viking_king">Viking_King</a></span>&nbsp;(<span class='green' title='Positive feedback'>968</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-38</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101587"><img src="/kuvat/tuotekuvat/6ee09ca1da76933b6deb0670662f594eb7089ca3.jpg?1512415725" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101587">SUPER SILVER HAZE 10 GRAM </a> (<span title='109 EUR'>109&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98919"><img src="/kuvat/tuotekuvat/b446e4ff52ad9856e6a7e65c8357480e4d31f9de.jpg?1504547826" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98919"> ** WOW VAPE Vape Cartridge (2-PACK) 600mg CO2**</a> (<span title='104.98 USD'>85.43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>5g Skywalker OG Hasj</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

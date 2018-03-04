@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZCcbF0SvkDIKLlR6X5oO6fJc9a+YNUhh7qlTVPaumcupg1WH8EgwOknrUYcz5sr9A0ZTnauU/lWpYQHFqxi83Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5ac082b009556e311a3a255ecf9fa40547f1a3de.jpg?1501419519"><img src="/kuvat/tuotekuvat/4993fb16d4879c71eed541b9a7fc51f936bc438b.jpg?1501419519" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★★★★★★KNALL TILBUD★★★★★★ MØRK MAROKK HASJ  |  HØY KVALITET |  25G</h1>
+<ul class='list-unstyled specs'>
+<li>280.24 EUR <em>(0.035964 BTC)</em></li>
+<li>7 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/viking_king">Viking_King</a></span>&nbsp;(<span class='green' title='Positive feedback'>968</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-38</span>)
+</li>
+<li>Norway &rarr; Norway</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Pc8GOmbExqi2fad+Z7VrmhaCuctvT3r/K0qvz2BxSd7wa0iq0iNmoPW4ooMLya+O55gf+VzuzMtsgv1ePcdsyA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="97615" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Mørk marokk hasj som har en utpreget sterk hasjlukt. Myk og oljete</p>
+
+<p>---------------------------------------------------------------------------------------</p>
+
+<p>★★★★★★ 6 STAR VENDOR ★★★★★★</p>
+
+<p>Vi tilbyr kun høykvalitets varer på en sikker, diskree og effektiv måte direkte hjem til din dør.
+<br /> 
+<br />★ Vi har kun varer av topp kvalitet eller apotek 
+<br />★★ Alle varer er stealth pakket og vakum pakket dersom fare for lukt 
+<br />★★★Pass dere. Deepwebbens råeste stealth! Ikke kast bosset. Sjekk posten din grundig;)
+<br />★★★★ Vi har alltid litt overvekt på det vi sender! (gjelder ikke apotek varer)
+<br />★★★★★ Kundetilfredshet er vår største prioritet!
+<br />★★★★★★ Vi ønsker er å bli din foretrukne leverandør på deepweb!</p>
+
+<p>---------------------------------------------------------------------------------------</p>
+
+<p>Les våre siste reviews på reddit forumet www.reddit.com/r/DarkNetMarketsNO: 
+<br />www.reddit.com/r/DarkNetMarketsNO/comments/5o30f7/review_vikingking_mdma_cola_weed
+<br />www.reddit.com/r/DarkNetMarketsNO/comments/5px0ix/review/av/viking/king/
+<br />www.reddit.com/r/DarkNetMarketsNO/comments/5smnis/review_viking_king_mørk_kvalitets_marokk_hasj/</p>
+
+<p>---------------------------------------------------------------------------------------</p>
+
+<p>Gi oss alltid beskjed om du ikke er fornøyd med varen. Vi vil gjøre vårt ytterste for å gjøre opp for oss og for at du skal bli fornøyd. </p>
+
+<p>---------------------------------------------------------------------------------------
+<br />-------------------------------------ENGLISH-------------------------------------------
+<br />---------------------------------------------------------------------------------------</p>
+
+<p>★★★★★★ 6 STAR VENDOR ★★★★★★</p>
+
+<p>We only provide high quality drugs and medications in a safe, discreet and efficient way directly to your door.</p>
+
+<p>★ All of our products are of top quality or pharmacy grade!
+<br />★★ All products are shipped in stealth and vacuum sealed!
+<br />★★★ Be careful! We have the most insane stealth on the deepweb! Check your mail carefully before you throw it!
+<br />★★★★ All our orders are delivered with overweight!(not pharmacy products)
+<br />★★★★★ Customer satisfaction is of great concern to us!
+<br />★★★★★★ We want to be your prefered supplier on the deepweb!</p>
+
+<p>---------------------------------------------------------------------------------------</p>
+
+<p>Always send us a message if you're not happy with the product og shipment, we will do our best to keep our customer satisfaction on top.
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee (0.1 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102170"><img src="/kuvat/tuotekuvat/d9eb32186958ec0e2748929af3ebb415d7b86987.jpg?1515222320" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102170">❤ 56g CRITICAL + ★ Weed ❤</a> (<span title='280 USD'>227.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98983"><img src="/kuvat/tuotekuvat/2a324e35eb681fbcdaecf830ac7e809a4d80a160.jpg?1504689874" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98983">25 gram fersk marrokansk hasj</a> (<span title='3045 NOK'>315.58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hogstandard">hogstandard</a></span>&nbsp;(<span class='green' title='Positive feedback'>1925</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99992"><img src="/kuvat/tuotekuvat/0eda03802e765336ca474964934f8e79fb6b7931.jpg?1507744631" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99992">FIRE OG PRIVATE RESERVE  INDOOR 28 GRAMS</a> (<span title='269.98 USD'>219.71&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93780"><img src="/kuvat/tuotekuvat/3ec8cf8047b4722f19ef2d0475cda77b35831e6d.jpg?1494047071" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93780">28gm HAND RUBBED INDIAN TRADITIONAL HASH</a> (<span title='270 USD'>219.73&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenstore">greenstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>837</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>★★★★★★KNALL TILBUD★★★★★★ MØRK MAROKK HASJ  |  HØY KVALITET |  25G</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

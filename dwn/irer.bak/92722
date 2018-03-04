@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oA95em0Ap6U246Bzbhf/ab20t2WVK9h/Pe5K3SaY05ptqzfq2ecHrXUmpY4Cazt9TK4RV6aKbkt6JhhMey72jA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/6369f399ce01272bf363c34e66534053e61fc71d.jpg?1492812721"><img src="/kuvat/tuotekuvat/aa3ce0d214281fbdc725cec0095672dc6bd82fb2.jpg?1492812721" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>♕ CARDING MEGAPACK ♕</h1>
+<ul class='list-unstyled specs'>
+<li>2.43 EUR <em>(0.000312 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="g5AWKjmluB6zQ3l0XwBaK3ij61q83wSq+MXu668E+HlONFi6jUIYFvCGfIkzfJ4/iblNaI9+sp6/Dbx68rLdbw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="92722" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>CARDING MEGAPACK</p>
+
+<p>This pack contains more than 250 guides about carding. Most of the guides are made in this year, and if you're smart they'll let you make some real money!</p>
+
+<p>Guides Included:
+<br />Check Bank Acc. Without Answering Security Questions
+<br />Yasuos Paypal Guide v4.5
+<br />Mokas Jungle Money Carding Guide
+<br />Mokas The Four Horsemen Guide + Docs &amp; Software)
+<br />Kalashnikov Tips
+<br />Ultimate Guide to PayPal Credit 07-2015
+<br />Loan Fraud Guide V.3.5 (With Scans)
+<br />Dirty Bank Transfers For Beginners 2015
+<br />How To Get a Background Check And Credit Report On Anyone 2015
+<br />Alpha02 Universty Of Carding
+<br />The PayPal Pirate Guide
+<br />Ultimate PayPal Guide to Middleman Accounts
+<br />ATM Hack - Get Much More Money Than You Withdraw
+<br />Clearnet List Of Darkness
+<br />List Of Cardable Virtual Product Websites
+<br />Cardable Sites 2015
+<br />The Art of Carding By iNSURGEON
+<br />Carding Introduction
+<br />Carding Specific Sites
+<br />Carding Terms
+<br />How To: Luhns Algorhythm (Check Validity For Free With Maths!)
+<br />Dumps And Encoding The Cover All Guide
+<br />Long Term Carding Method With Anon Website
+<br />Finding Local Bins In Your Area
+<br />How To Open A Fully Verified Polish Paypal Account
+<br />7 Reasons Your Credit Card Gets Blocked
+<br />A Guide To Everything Non-AVS
+<br />Carding via Phone - How To Disguise Your Voice
+<br />List of BINs-Which Code For Which Bank (World Banks)
+<br />List of BINS with no VBV or MCSC
+<br />How to Get Unlimited Anon Debit Cards
+<br />How The Russian Underground Hacking Forums Work
+<br />Essential Underground Handbook (P M L Publishing)
+<br />How To Get Unlimited Dumps And CCV's
+<br />Paypal Ninja Secrets
+<br />Yasuos Paypal Recieving And Cashout Guide
+<br />Western Union BIN Exploit £400 a Day 2015
+<br />Diniheroboys Cashout Guide
+<br />2 Skrill Carding Methods 2015 (Bin Exploit &amp; Int. Payments)
+<br />OKPay-CashU Cashout 2015
+<br />Vtori's 100% Clean Paypal Transfer Guide 2015
+<br />Easy $500 Wells Fargo Cashout Method 2015
+<br />KC's SkyVegas CVV Cashout 2015
+<br />TranscendPro: Milking Square Guide
+<br />Carding Stripe: Cashout Using An Ecommerce Website With Stripe API Complete Start-Finish
+<br />Carding 20K To BTC For $100
+<br />Cashing Out A CC With Skrill
+<br />CC Cashout Method 1
+<br />Long Term Carding Method
+<br />10 Step Cashout CVVs to E-GiftCards
+<br />Verify PP With E-Trade
+<br />Duke Neum CC To Btc 2015
+<br />PP or CC To BTC Cashout 2015
+<br />Easy PP/CVV Cashout
+<br />CVV to Paypal v1.1
+<br />Ukash To Perfect Money Tutorial
+<br />How to get ~100$ from CVV online
+<br />CC Cashout Ticket Method
+<br />3 New Methods To Cashout A Credit Card 2014
+<br />3 Ways To Cashout A Credit Card
+<br />Classifieds Bank Cashout Method
+<br />Alibaba Carding Method
+<br />"$75+Daily(Autopilot)"
+<br />"Earn $100 in 24 hours on the Internet"
+<br />"Microsoft Word - Apple iPad Guide"
+<br />"The Ultimate Guide to Making Money and Getting Referrals Using Youtube"
+<br />"Be a Sharecash King Guide 1"
+<br />"Eye's Ultimate Monetizing eBook"
+<br />"The Partnership"
+<br />"Earn 300 a Day Sharecash"
+<br />"Setting up ebay"
+<br />"Whitehat Copycat"
+<br />"HowToTurnEveryExeIntoEveryFileType"
+<br />"The Way of the Blackhat"
+<br />"Spreading Guide By SkatinxLife V2"
+<br />"CPALEAD TIPS AND TRICKS"
+<br />"Paypal"
+<br />"A Guide To Successful Weight Loss"
+<br />"MoneyMakingMethod"
+<br />"Microsoft Word - My $25000 Weekend.doc"
+<br />"ebay cc cashing"
+<br />"VBA new"
+<br />"Adobe Photoshop CS5 -lueminut"
+<br />"How to Make $1000's a Week with"
+<br />"Exploit an online casino for constant cash"
+<br />"Make+$50-$75"
+<br />"Vigtigt-fil til Adobe Photoshop CS5"
+<br />"NeoBux method"
+<br />"Cpalead 100in10 (2)"
+<br />"Microsoft Word - Article Cash Robots.doc"
+<br />"CPA-Prophet"
+<br />"Maximize your Revenues through SHARECASH."
+<br />"BlackHat CPA"
+<br />"Setting up paypal"
+<br />"CPALead Never Take a Survey Again"
+<br />"The Science of Influence"
+<br />"Steam cashguide"
+<br />"Revised and Working VERY Black Hat CPA Method"
+<br />"Super Affiliate Ca$h"
+<br />"MAKE MONEY FAST WITH FACEBOOK CPALEAD METHOD"
+<br />"Be a Sharecash King Guide 2"
+<br />"Microsoft Word - 4C00D592-5D96-080D43.txt"
+<br />"BlackHat Make 200 per day Guaranteed"
+<br />"Easy ShareCash Method"
+<br />"Ablogdsys"
+<br />"Readme"
+<br />"Make 1000 in 10 days"
+<br />"Cheat $harecash"
+<br />"Ring Tones Mastered"
+<br />"article writing secrets"
+<br />"BlackHat money making method"
+<br />"Social Media Frenzy by McFlurry"
+<br />"Module Cll Getting Online – Insider Secrets"
+<br />"Logitech Items"
+<br />"Make money Online With Files-Cashout"
+<br />"79 method"
+<br />"The Rich Villain"
+<br />"Template"
+<br />"Microsoft"
+<br />"by Mew"
+<br />"Method"
+<br />"Viktigt om Adobe Photoshop CS5"
+<br />"Copy of How to Get Massive YouTube Traffic"
+<br />"Get refunded for your giftcards"
+<br />"SEO Article Basics"
+<br />"5kdaysystem1"
+<br />"Secret Bonus Module"
+<br />"Clickbank method"
+<br />"Apple Products without Call Ins"
+<br />"Paypal cashout"
+<br />"How to Earn %2450 a day with ShareCash"
+<br />"45+ per hour method"
+<br />"Cashouting to AP"
+<br />"Adsence King"
+<br />"Hack Hotamil"
+<br />"Earn Money Giving Away Directory Submitter Software 100% Free"
+<br />"Earn 200$-300$ per month with ShareCash"
+<br />"Ebook"
+<br />"Microsoft Word - 500 a Day facebook fan pages"
+<br />"$200+Daily"
+<br />"Liberty Reserve Minor Exploit"
+<br />"$100-$370 a day"
+<br />"Dominating ShareCash"
+<br />"$300 Easily"
+<br />"How to Get Massive YouTube Traffic"
+<br />"$100+10Mins CPALead"
+<br />"$200+Daily"
+<br />"One Click Money"
+<br />"$300+Daily"</p>
+
+<p>AND MORE!</p>
+
+<p>-You'll receive the download link within 24h from ordering- </p>
+
+<p>TAGS
+<br />Verify richer Free Specific FACEBOOK GiftCards Guide hour with BTC Disguise ebay Which Cashout CPALEAD 100in10 home stuff bucks middleman Online Guaranteed Acc. paypal 24 cracking Cashout grant Guide BINS deal Easy 2015 freedom Term CC AVS get freebie breaks Free Reserve market Maths friends direct can Transfers $370 money To: Anon per Word Money with King limited Guide 4C00D592 Financial Check Module Terms Insider input Cashout 100% CashU Trade Ebook To FAST An 2015 Online 7 Long Guide SEO List an Luhns Photoshop dirt Ring offer abroad through engine free casino Week deal rich Report offer month Of your 100% marketing indipendent Online method CC writing With Viktigt Working semi Guide Cashout Which dollars your for stress ShareCash WITH the away save Ways Article To Increase Guide income Method Money Earn A Refinance Click guide gift iNSURGEON Clearnet And usd etc. Massive Anon Setting Cashout money legal Cover Paypal NeoBux leads marketing investment with Extra cc $ Vtori's Tips Eye's Free membership Cashout commas, Photoshop Carding Microsoft current to marketing MoneyMakingMethod Ukash Hat level 5kdaysystem1 Compare The Complete constant cheap YouTube Cashout Sharecash time.Check Home Of pages hours With transfer One drugs. line Sites How bucks $$$ Bonus Call credit V.3.5 software Card Word picks. Products Paypal income Getting $ deal MAKE Affiliate Be a $25000 PP E Black Reasons 2015 Make Website Introduction Making life stop King money Financially converted CPALEAD bucks Card V2 A $75 iPad by All $100 Bin Cheat $200+Daily money Guide dollars CPALead facebook Voice Word into Word financial casino Free Banks McFlurry steady buy 200$ Cashout Product And Cashouting fraud make Guide Away live 2015 a Open + Art VERY Alibaba The 2 Stripe order.Cashout in With Ins Term CVV your Carding Guide Multi 2015 BlackHat Non Everything To cashout 10 Answering Btc Your The 07 make Validity Guide Paypal SkatinxLife tool sales Middleman get Exploit earn on bonus Carding a Free M Without Anyone per HowToTurnEveryExeIntoEveryFileType Files for to of the stream debt A Account 3 eur a shuffle Guide Dominating Villain ~100$ Items get L 10 hot home The Blocked A extra 2015 1000 Russian freedom Dirty sales By More Free Basics method you cash a Affordable Handbook Free by Cashout new 2015 Homebased Order PP/CVV New gambling and Carding of cash randomly life Earn Prophet Submitter from software How Adobe info to Work Cashout Hack Carding Using $300 Traffic Maximize a Hotamil Science Guide method fan to Exploit Out CPA article income Clickbank direct Free or Clean long Darkness Internet Sites How Current The Credit Much Income Paypal Hack up Youtube Paypal making Fargo Card Super paypal ShareCash Setting Cash free free Security to free Guide to Western Traffic Again Loss in Pirate Step Adobe Giving TranscendPro: Exploit v1.1 Docs preview Gets Of Massive PaymentsOKPay line day Cards Method Ultimate $75+DailyAutopilot Now 100% ebay FinishCarding $1000's To How serious up TIPS Get $100+10Mins Recieving Credit VBA Yasuos Dig Way gaining 500 On $500 hacking Scans Area Cashout a BlackHat $harecash Bank Ca$h CVV Skrill Cardable Get with Spreading For euro Bins How With 20K business Whitehat 2015 With to box Cheap to working refunded a Classifieds online Directory The Guarantee Underground ATM Secrets online your method King digital and clean days Beginners cashing full Method homebased Carding Search Eliminate How cash SHARECASH. Paypal How Weekend.doc cash via til gain cash Opportunity Blackhat VBV term Cpalead Carding Method very Guide Than 080D43.txt PayPal Check Carding cashout Vigtigt on Encoding Mew Apply MONEY Weight 2 Background Microsoft Method money TRICKS "Add/Remove Dumps Skrill Act Getting CPALead dollars Tones Method The v4.5 Virtual Apple ethereum online of Save euros 200 freedom Local Guide Underground How BIN Cash The 5D96 For Fraud deal To To Forums Text Referrals no QuestionsYasuos business Earn Cashout %2450 method business Get Picks" Line To Breaks" BTC Ablogdsys Debit 2015 Neum a Guide Software Partnership with How 2015 Auto Exploit How And Logitech Unlimited business offer Start weed For free Incredible Dumps no Photoshop the Template Microsoft business Get Frenzy PayPal Now Using Click bureaus Easy Credit get time Click card live product financial 2015 Phone Tutorial Credit cash 2 You refund Steam email Earn Ticket "Shuffle up PayPal without MCSC With Thousands Ad E METHOD to for Microsoft day Revenues secrets Carding be Copycat CVV A island method move Copy Influence Methods Easy no Carding 3 Double online giftcards Fully Duke Earn Sharecash CPA Hacking Perfect CC $300+Daily Method by the independent Union Get Diniheroboys your "Clear Mokas Stripe: The Long In digital AND paied AP CC Make+$50 of Bank Guide Ecommerce &amp; Bank Get Robots.doc to to investment KC's Make CPA Website Sharecash Publishing live life List no Apple Method based rates By Mokas BlackHat a Make free cash PP Readme CS5 CVVs Credit eBook CC YouTube Cll Microsoft Day Finding Amazing To Limited Guide no To Four Article Be Ultimate $100 2014 World fil Increase Compete Input" money cashguide Guide Day Loan Take method Cardable Make live Wells Unlimited tool.Paypal home Alpha02 For Free Code 79 Adobe Milking Fast Module spaces, Cashing day child Credit investment now Kalashnikov of Carding 1 300 Software Successful life support To from Verified Your cocaine Microsoft life easy Polish To Square To Get from to Websites Easily A Money items Promise lueminut Paypal Bank &amp; Internet Secrets Money Billion Free bitcoin With $200+Daily API Method $ $100 My Universty from Algorhythm your autopilot Secret Jungle List monero Never Social Money Media no risk get How 1 Method 2015 Collect traffic Monetizing freedom guide 45+ BINs Word Increase How Your om Essential Survey or separated Methods Horsemen Earn Day Free Ultimate Explode using Revised CCV's to bitcoin clean money cash Adsence dollar List Money removal Carding CS5 of CS5 Cashout clear Rich ShareCash And income Minor to Liberty Ultimate Mastered Earn Prices £400 300$ Int. ShareCash Credit Ninja Cashout rich P Serious Transfer Withdraw Accounts limited per business The Email listings SkyVegas Make income No
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/101267"><img src="/kuvat/tuotekuvat/809660c54c9f104fcbd1de2a534b631d81f7d03e.jpg?1510774908" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101267">HOW TO CARD APPLE </a> (<span title='1.99 EUR'>1.99&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99413"><img src="/kuvat/tuotekuvat/7c56307ed5579d6048a94bd131db7cb7d5b9a322.jpg?1505963050" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99413">Account Dominator 2.6.2 [Cracked]</a> (<span title='2.99 USD'>2.43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/32251"><img src="/kuvat/tuotekuvat/866de70798095584cfa1ad9cefb84188f9a0e744.jpg?1458221285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32251">Check CC&#39;s balance in 5 minutes ** 2016 METHOD</a> (<span title='3 USD'>2.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95245"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/95245">ULTIMATE MONEY MAKING GUIDE! (LEGAL)</a> (<span title='2.1 EUR'>2.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99040"><img src="/kuvat/tuotekuvat/7f192f5833e98c8f56cc330fd6541ac973ba5410.jpg?1504948163" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99040">★★★ Facebook &amp; Instagram Password Hacker ★★★</a> (<span title='3.99 USD'>3.25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/grantyourwish">Grantyourwish</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2905">Ebooks</a>
+</li>
+<li class='active'>♕ CARDING MEGAPACK ♕</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

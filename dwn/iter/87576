@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cqH5TaiOCZKp8c5wjyFhTvZYxvsfcSdRnsrEXe4lljG/BbfdHGmpmuo0y43jXaVaB0JgySzQkWXZApbMs5OzJw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/22cde0d729f27865e3ca1a4a7c65261167b9d5ea.jpg?1488921977"><img src="/kuvat/tuotekuvat/5b90eb68c546a2d41d433ec87995621edf9e8a77.jpg?1488921977" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★PINK VOID★ 25x5mg ★ Xanax (Alprazolam)</h1>
+<ul class='list-unstyled specs'>
+<li>60.87 EUR <em>(0.00781 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/supernova_supplies">Supernova_Supplies</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; United Kingdom</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="h8xoFKZC2Sy6F7aZV7/sx0LpBfcXuFQ0dtAZ62vwhO9KaCaEEqV5JPnSs2Q7wyjTs/OjxSQZ4gAxGEt6Nkah+Q==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="87576" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Here at SNS we decided that 2mg of Xanax was simply just not enough. Therefore, we bring you the 5mg capsule. Produced and tested in our labs, these little pink capsules hold an uncontested potency. Wolf of Wallstreet style. Perfect for recreational users. Not intended for medical purposes. </p>
+
+<p>Xanax is used in helping with treatment of anxiety disorders (especially panic disorder), and also in the treatment of generalized anxiety disorder/social anxiety disorder. As a member of the Benzodiazepine family, this pill provides you with calm and extremely relaxing high. </p>
+
+<p>Note:
+<br />NOT VEGETARIAN OR VEGAN FRIENDLY 
+<br />CONTAINS GELATIN
+<br />DO NOT MIX WITH ALCOHOL</p>
+
+<p>INGREDIENTS
+<br />★Alprazolam (Active ingredient) 
+<br />★Gelatin Capsule
+<br />★MCC</p>
+
+<p>★★★Ordering★★★
+<br />★ORDER BEFORE 5:30PM (GMT +0) FOR NEXT DAY DISPATCH★ </p>
+
+<p>All orders will be dispatched within 0-48hrs, and should arrive at your doorstep in 2 working days. When purchasing an item from us please make sure that your address is provided in following format: 
+<br />[NAME]
+<br />[STREET]
+<br />[CITY]
+<br />[COUNTY]
+<br />[POST CODE] </p>
+
+<p>★★★Contact Information★★★
+<br />Email: NovaSupplies@unseen.is
+<br />Jabber: SupernovaSupplies@wtfismyip.com </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (1.14 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/77198"><img src="/kuvat/tuotekuvat/b759fd68876cc12f306b92abc1a53153fa3d13a4.jpg?1482508944" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/77198">Diazepam (Bensedin) 10mg X 60 Tabs</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1333</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/75752"><img src="/kuvat/tuotekuvat/d11475cb02c38263b64ead4384934759bf068e12.jpg?1481709224" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75752">100x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='90 USD'>73.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89464"><img src="/kuvat/tuotekuvat/852dc36d7afe73ca2fe65fce91272de3839ac325.jpg?1490042343" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89464">Madalin (ritalin) methylphenidate hcl 10mg x 10</a> (<span title='47 GBP'>53.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2889</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38056"><img src="/kuvat/tuotekuvat/2729fdc4486a4a4c13051d1e876f9c7835e4d020.jpg?1464325706" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38056">Rivotril Clonazepam by Roche 2mg - 50 tablets</a> (<span title='52 GBP'>59.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/13272"><img src="/kuvat/tuotekuvat/68c215af7367c3adc1fb91329dd9ffd9b0115217.jpg?1455970281" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13272"> DIAZEPAM (VALIUM) 10MG X 28  limited stock </a> (<span title='40 GBP'>45.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>★PINK VOID★ 25x5mg ★ Xanax (Alprazolam)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

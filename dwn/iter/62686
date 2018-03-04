@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BLb8K17QuVb43rK/cLq/GmtqybnEPOfGc31jQVfx+5bJErK76jcZXrsbt0IcxnsOmnBvi/edUfI0tTHQCkfegA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/262a1d001de3e05f2351f6cdfb6b8b359b8774b8.jpg?1474952408"><img src="/kuvat/tuotekuvat/544c130e74e1acf778accf705dbef133bb85c304.jpg?1474952408" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Clandestine Drug Chemist Pack</h1>
+<ul class='list-unstyled specs'>
+<li>0.81 EUR <em>(0.000103 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/captain_kirk">captain_kirk </a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hH+6oH6u3u2ysBUU4q86WBaq+bAryirZFXkOCgg5B4ZJ2/Qwykl+5fF1EOmO0/5M57BfghhrnO1SsVybVY8ikA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="62686" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Clandestine Drug Chemist Pack Listing:</p>
+
+<p>267889-Recreational-Drugs-Proffessor-BuzzeBook.pdf 2 MB
+<br />Amphetamine Synthesis - Otto Snow [1998].pdf 78 MB
+<br />Contemporary_Drug_Synthesis.pdf 4 MB
+<br />Drug Abuse Handbook, 2nd Ed.pdf 26 MB
+<br />Handbook of Clinical Drug Data.pdf 8 MB
+<br />Ketene Production and Utilization Experimental Study.pdf 1 MB
+<br />LSD-25 &amp; Tryptamine Synthesis by Otto Snow.pdf 29 MB
+<br />Neurochemistry of Abused Drugs.pdf 3 MB
+<br />Organic Chemistry of Drug Synthesis Vol 1-4 - Lednicer
+<br />the_organic_chemistry_of_drug_synthesis_v1-o.pdf 4 MB
+<br />the_organic_chemistry_of_drug_synthesis_v2-o.pdf 3 MB
+<br />the_organic_chemistry_of_drug_synthesis_v3-o.pdf 2 MB
+<br />the_organic_chemistry_of_drug_synthesis_v4-o.pdf 2 MB
+<br />Otto Snow - LSD [chemistry,synthesis,production] (Thoth, 2003).pdf 25 MB
+<br />Otto Snow - Love Drugs HQ [MDMA,Ecstasy,synthesis,chemistry] (Thoth, 2005).pdf 33 MB
+<br />PIHKAL_-_A_Chemical_Love_Story_--Shulgin.pdf 29 MB
+<br />Sources - Strike [1998].pdf 58 MB
+<br />Synthesis of Essential Drugs.pdf 4 MB
+<br />The Encyclopedia of Addictive Drugs.pdf 4 MB
+<br />TiHKAL. The Continuation - A. Shulgin.pdf 1 MB
+<br />Total-Synthesis-II (How To Make Ecstacy)-by Strike.pdf 11 MB
+<br />U.X.L - Encyclopedia of Drugs and Addictive Substances 5 Vol.pdf 26 MB
+<br />Uncle Fester - Practical LSD Manufacture 3e HQ (2006).pdf 9 MB
+<br />analiz-narkotikov.djvu 2 MB
+<br />clan-chem.pdf 0 MB
+<br />drug - Uncle Fester - Secrets of Methamphetamine Manufacture (3rd ed).pdf 1 MB
+<br />otto__oxy.djvu 3 MB
+<br />vogels_textbook_of_practical_organic_chemistry.pdf 14 MB</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/32469"><img src="/kuvat/tuotekuvat/20c3ddf4299b431df0ad25d92bfa4f4a407de186.jpg?1458321363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32469">Male Multiple Orgasms Guide</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/66420"><img src="/kuvat/tuotekuvat/0a4575c3138304dd2bb75a19c95c7328b3b5c6ad.jpg?1476663564" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66420">♕ DIAMOND RAT || LOTS OF FEATURES ♕</a> (<span title='1.49 USD'>1.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99410"><img src="/kuvat/tuotekuvat/cb8714f652db353880ea92aacdbab7d71a82a692.jpg?1505962481" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99410">YouTubify v1.9 [FAST SHIPPING]</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79573"><img src="/kuvat/tuotekuvat/0d568f3013f7617cf2df87227f0b829ab0becfa7.jpg?1484159831" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/79573">Napster Premium Account |LIFETIME WARRANTY|</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/acc4btc">acc4btc</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39335"><img src="/kuvat/tuotekuvat/9cafb57918680631bf5be5006b437f235eab9943.jpg?1461764436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39335">BEST CANNABIS RECIPES ******DELICIOUS*****</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2905">Ebooks</a>
+</li>
+<li class='active'>Clandestine Drug Chemist Pack</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

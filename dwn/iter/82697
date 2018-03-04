@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+1l68S0tLaqTEYs+OcYzXeRPyVE+hVWHp+Yhm3m/+4o2/TRhmcqNotDUjsNVuvdJFVVvYw0k47PgLnMKJAnenA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/23f8efc0d440f9ee0f0a828e2847c5dba12dc898.jpg?1485433804"><img src="/kuvat/tuotekuvat/6f96c7300a9dffb7c8a2644949884bc4c6d4f7be.jpg?1485433804" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Percocet (Oxycodone and Acetaminophen) 100 pills per package</h1>
+<ul class='list-unstyled specs'>
+<li>60 EUR <em>(0.007745 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/cookdish">cookdish</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Sweden &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Percocet (Oxycodone and Acetaminophen) 100 pills per packagePercocet is the brand name of a drug that mixes oxycodone and acetaminophen. It is a painkiller that's part of a family of drugs known as opioids, Percocet can help ease the pain following surgery or injuries.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/13268"><img src="/kuvat/tuotekuvat/b62f01e54fddf3b79f95fbcaffd98e621e47a37f.jpg?1455970281" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13268"> CODEINE PHOSPHATE 60MG X 28</a> (<span title='40 GBP'>45.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/56146"><img src="/kuvat/tuotekuvat/2d17e71c959fabb5d88803a05a2ee149b26aeae8.jpg?1518531805" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/56146">Tramadol 50mg X 40 Tabs NHS/Pharmacy grade</a> (<span title='37 GBP'>42.15&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1333</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11386"><img src="/kuvat/tuotekuvat/0f75222cda9a32e00c0d330eb94be93bffcffdd6.jpg?1487097512" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11386">Black tar 1g</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16440"><img src="/kuvat/tuotekuvat/509680287b18a204b495b5fd6de415ecc039c5b7.jpg?1480861316" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16440">1g Premium Bayer Opium FE</a> (<span title='54.98 USD'>44.61&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>788</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14721"><img src="/kuvat/tuotekuvat/f31dda6650439c0a7b5d891deb35e9129843bc7e.jpg?1455970647" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14721">5g China White Synthetic Heroin</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1303">Oxycodone</a>
+</li>
+<li class='active'>Percocet (Oxycodone and Acetaminophen) 100 pills per package</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

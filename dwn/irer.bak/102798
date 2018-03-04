@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="n77qKBBCJ0tUyLf99cTI91EBXPlu+YAXaMLFG5WnUeRSGqS4pKWHQxcNsgCZuAzjoBv6y11YNiMvCpeKyBF08g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ee3e8839d495acede4b01ddca7c84eab54a4776a.jpg?1515994291"><img src="/kuvat/tuotekuvat/787804a27caf83da6f637824035ea42f40041089.jpg?1515994291" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>10 Pink Maserati 250mg Amphetamine (PRICE-UPDATE!!)</h1>
+<ul class='list-unstyled specs'>
+<li>11.8 EUR <em>(0.001515 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>426</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</li>
+<li>Netherlands &rarr; Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FgIRs/A9434A9gbLGcOCtCtPuvT9j2QbdGa/gSW9j3nbpl8jRNpDdkMzAzZ1v0ag2lUcxs4u0i8zru0QeAuqbw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="672248">EU Basic (included)</option>
+<option value="672249">Non-EU Basic (+1 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102798" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>2018 Kickoff Special:  (PRICE-UPDATE!!)</p>
+
+<p>10 Pink Maserati 250mg Speed / Amphetamine </p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+fast delivery and good quality
+<em>(23.2.)</em>
+</td>
+<td><span>
+la***ta
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€25+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 2.8 EUR (EU Basic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/91256"><img src="/kuvat/tuotekuvat/b547f83f45c935c04b634cea1c96933de3db42b2.jpg?1491082010" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91256"> 1g HEXEN - ethyl hexedrone hex-en Promo Price FREE shipping</a> (<span title='17 USD'>13.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>597</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11392"><img src="/kuvat/tuotekuvat/11aa7eb2dedfc16e2b06e2c6c73c50808875ab6e.jpg?1487097850" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11392">Speed 2g</a> (<span title='13 EUR'>13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/75600"><img src="/kuvat/tuotekuvat/fa051adc3b3fd7e6cb0ef92a65b8e2093db02061.jpg?1481663366" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75600">0.25G FOR 15 DOLLAR  Peruvian A1 Cocaine Labtested 93% Uncut</a> (<span title='20 USD'>16.26&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ruffneckrules">Ruffneckrules</a></span>&nbsp;(<span class='green' title='Positive feedback'>45</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/47747"><img src="/kuvat/tuotekuvat/611c8735c26970463fba4e78a53dc3fb023d23a0.jpg?1466351500" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/47747">3 Gram Speed pasta!(Amphetamine) VERY GOOD QUALITY</a> (<span title='17 USD'>13.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/iloveamsterdam">iloveamsterdam</a></span>&nbsp;(<span class='green' title='Positive feedback'>417</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/71642"><img src="/kuvat/tuotekuvat/3b7b839096e3bf51d92fbaef23f208d53dd8c4a7.jpg?1479473613" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71642">Tadalafil ★ shipping from EU ★ ❷ grams</a> (<span title='19 USD'>15.45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>10 Pink Maserati 250mg Amphetamine (PRICE-UPDATE!!)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

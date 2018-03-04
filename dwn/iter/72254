@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VW6Dv7YksrHdTqD6dDlM8YIfMIN86vzLIsrOLEeKv+CYys0vAsMSuZ6LpQcYRYjlcwWWsU9LSv9lApy9Gjya9g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/03a5c84351a627167c1ff1e5dd540932083c375c.jpg?1479843728"><img src="/kuvat/tuotekuvat/8aa812c446890cc031365e2bb17f244575b1cacd.jpg?1479843728" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>3 pounds Grapefruit (Top Shelf Greenhouse)</h1>
+<ul class='list-unstyled specs'>
+<li>6100 EUR <em>(0.787409 BTC)</em></li>
+<li>25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Yu6ileoLreTDDHM9DSTNLcu6Hek15DGe7B5jGdd5ADGvSuwFXuwN7IDJdsBhWAk5OqC72wZFh6qr1jGIis8lJw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="72254" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>GRADE: Top Level Greenhouse Medical Marijuana</p>
+
+<p>------------------REASONS WE REQUIRE FE--------------------------------
+<br />1. If the site goes down after you order, you'll still receive your product
+<br />2. When you FE we can sell the coins immediately, which protects us against BTC price dropt
+<br />3. We have an established, excellent reputation from Agora, Abraxas, Evolution, and Blackbank
+<br />4. We have had many problems with customers blackmailing us by holding the escrow after delivery</p>
+
+<p>-----------------------------GENERAL RULES---------------------------------
+<br />1. All sensitive information (name/address/etc) must be encrypted with PGP. Tutorials are in the Forum.
+<br />2. Read the ENTIRE listing before purchasing, especiall the SHIPPING RULES section.
+<br />3. Prices are subject to daily change due to a multitude of factors.
+<br />4. Be polite and patient.
+<br />5. READ THE "SHIPPING INFORMATION" section below.</p>
+
+<p>-----------------------------ENCRYPTION------------------------------------
+<br />All sensitive communication (name/address/etc) must be encrypted with the public key on our Profile page.</p>
+
+<p>-----------------------------SHIPPING INFORMATION--------------------------------
+<br />1. YOU MUST FOLLOW THE BELOW GUIDELINES BEFORE ORDERING. FAILURE TO FOLLOW THE BELOW GUIDELINES WILL MAKE YOU INELLIGIBLE FOR A REFUND OR REPLACEMENT IN THE EVENT OF A LOST PACKAGE.
+<br />2. WE DO NOT SHIP TO PO BOXES.
+<br />3. We login once per day. When we see and accept your order, we will then change the status to 'SHIPPED'. This really mean "CONFIRMED", but we have to do so in order to release the btc. We will put the ESTIMATED SHIPPING DATE in the SELLER NOTES. HANDLING TIME is then 1-3 days. Once shipped then IF you have a public pgp key posted we will put the tracking number in the SELLER NOTES. ESTIMATED SHIPPING TIME is then either 5-7 days for NORMAL SHIPPING or 2-3 days for FASTER SHIPPING (only available for larger orders).
+<br />4. We will not discuss any details about our shipping methods.
+<br />5. YOU MUST USE A LEGITIMATE SHIPPING ADDRESS AND A LEGITIMATE NAME WHICH IS ASSOCIATED WITH THAT SHIPPING ADDRESS. Most packages that don't arrive are due to the fact that the shipping information does not match the true name and address. You will have no chance of a refund/re-ship if you do not follow this step.
+<br />6. YOU MUST GIVE US YOUR ADDRESS !!!ENCRYPTED!!! IN THE FOLLOWING FORMAT:
+<br />YOUR NAME
+<br />123 N YOUR ST. APT# 1
+<br />CITY, ST 00000</p>
+
+<p>-----------------------------REFUND/RE-SHIP POLICY-------------------------
+<br />1. WE ARE NOT RESPONSIBLE FOR PACKAGES ONCE THEY HAVE BEEN DELIVERED! IF TRACKING STATES THAT THEY'VE BEEN DELIVERED, AND YOU THEN CLAIM THAT YOU DIDN'T RECEIVE IT, WE WILL NOT ISSUE A REFUND OR RE-SHIP. WE CANNOT AFFORD TO ASSUME LIABILITY IN THE EVENT THAT SOMEONE ELSE STEALS YOUR PACKAGE AFTER IT'S BEEN DELIVERED.
+<br />2. FOLLOW OUR SHIPPING GUIDELINES! If you fail to do so, you will be inelligible for a refund or replacement. If you follow our shipping policy, your package will arrive.
+<br />3. Our methods are discrete and professional, and are proven to work. If for whatever your package does not arrive, please send a message before finalizing and leaving a review.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/85013"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85013">**** !!1000g (1kg) Amnesia Haze - Start your day with a smile!***</a> (<span title='5500 EUR'>5500&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103197"><img src="/kuvat/tuotekuvat/6697fd834a5dbce9abd4eefbc3713629cd47669f.jpg?1517581717" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103197">5F-MDMB-2201 ★★★ shipping form EU ★★★ 2 kg</a> (<span title='6479 USD'>5257.08&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/83586"><img src="/kuvat/tuotekuvat/b763b175e025f7a8b6491dbef076eb38adcefaf2.jpg?1485860220" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/83586">1000G ★★ AMNESIA Haze Cannabis Weed ★★ AAA+ High Quality</a> (<span title='6000 EUR'>6000&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>3 pounds Grapefruit (Top Shelf Greenhouse)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

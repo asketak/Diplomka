@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XzIgXStwEYED7Xmin46dSxoWMrzg1g10NOfUrrFVlDmSlm7Nn5exiUAofF/z8llf6wyUjtN3u0BzL4Y/7OOxLw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/fe5dc1635dea161b8b33377cc097192604ed46ea.jpg?1484786220"><img src="/kuvat/tuotekuvat/bc6c0174b118bd126c286a066dd059ebd53028fb.jpg?1484786220" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Amnesia Haze 10 gr, high potent weed PROMO AKTION</h1>
+<ul class='list-unstyled specs'>
+<li>95 EUR <em>(0.012263 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/sorryforthat187">SorryForThat187</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qSUCLeeyP0Yq2ArE4cpO7hO0ScThw0fn26YeGV17iJNkgUy9U1WfTmkdDzmNtor64q7v9tJi8dOcbkyIAM2thQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="415155">Deutsche Post DE (1-2 days) (included)</option>
+<option value="415156">EUROPE + Worldwide (3 -10 days) (+2 EUR)</option>
+<option value="415157">Germany +EUROPE + Worldwide tracked (+4 EUR)</option>
+<option value="415158">If first order is paid, rest free (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="81195" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Amnesia Haze better than the most on Darknet.</p>
+
+<p>A great strain. the smell is a composition of lemons,easy smoke without any coughing. Intensive, yet mellow cerebral high, makes u smile like an happy idiot for at least two hours. Definitely a social smoke, but not as up-lifting as other haze strains, so you wont regret smoking before bedtime</p>
+
+<p>The quality of weed can change from harvest to harvest, and from plant to plant.</p>
+
+<p>BUT THIS IS SURELY A GOOD QUALITY.</p>
+
+<p>Amnesia Haze in super qualität (klar, besser geht immer, ist auch mein Motto)), aber definitv besser als in KRONKEL oder Nijmegen allgemein und das für den Preis.</p>
+
+<p>WER`S NICHT GLAUBT SOLL SELBST TESTEN, ICH WEISS WOVON ICH REDE.</p>
+
+<p>★ STORE PRODUCTS ★
+<br />★ Kamagra Oral Jelly
+<br />★ Viagra-Generica 100mg (Blueberry 100mg)
+<br />★ Speed / Amphetamine
+<br />★ THC Wachs / Wax Shatter 80% THC
+<br />★ Moroccan Super Hiya Hash 
+<br />★ Black Nepal Hash
+<br />★ Super Silver Haze
+<br />★ Amnesia Haze
+<br />★ XTC, LSD, THC WAX, KETAMIN, TILIDIN and so on is coming, feel free to ask me.</p>
+
+<p>Refund policy: 50/50 
+<br />No refund for people whithout buyer history</p>
+
+<p>&gt; Shipping Instructions &lt;</p>
+
+<p>When placing your order please be sure to include the following information via PGP encryption.</p>
+
+<p>Full Name
+<br />Street name &amp; number
+<br />Postalcode &amp; City Name
+<br />State
+<br />Country</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Deutsche Post DE (1-2 days)) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/59038"><img src="/kuvat/tuotekuvat/dcd7f5b345229651f59666c7dc07b1c1ed7058b4.jpg?1472804996" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/59038">10 g &quot;Early Skunk&quot; /// Free Shipping ///</a> (<span title='95 EUR'>95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/californiadreams">CaliforniaDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>2080</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91797"><img src="/kuvat/tuotekuvat/a37453c67dd08e736a891d89f7650c7f9fd0b46a.jpg?1491449993" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91797">10 gr. Diesel A+++Top-Shelf Hydroponic Weed </a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73370"><img src="/kuvat/tuotekuvat/2c08b7da0fbbbdd844a3e3804bbd71c85cf1e19a.jpg?1480454697" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73370">10g Silver Haze, Coffeshop AAA+ Qualy, FE</a> (<span title='124.5 EUR'>124.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thegermanbudtender1">TheGermanBudtender1</a></span>&nbsp;(<span class='green' title='Positive feedback'>2002</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-58</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98915"><img src="/kuvat/tuotekuvat/f1d994db741a3d5cb3f4bccaf8206fe6858372ed.jpg?1504535511" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98915">Pot Of Gold 10g/Outdoor/AAA/Free Shipping</a> (<span title='100 USD'>81.14&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/60344"><img src="/kuvat/tuotekuvat/73a70468de48a7e5f3817603895f1fa9b415ef84.jpg?1498038058" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/60344">10g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='94 EUR'>94&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/doktorgreen">DoktorGreen</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Amnesia Haze 10 gr, high potent weed PROMO AKTION</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

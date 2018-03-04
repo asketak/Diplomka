@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lZpWozXt2inNtVNRQ5IV7sGTJM5AK32otEgRBQrtCVZYPhgzgQp6IY5wVqwv7tH6MImC/HOKy5zzgEOUV1ssQA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/6a181a0f99d604286417bf90edce0dece26767d8.jpg?1515294334"><img src="/kuvat/tuotekuvat/bc5f73522a643c1db3a285e1eae37c539829c52d.jpg?1515294334" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>AFGHAN GOO G.H TG 3.5 GRAMS</h1>
+<ul class='list-unstyled specs'>
+<li>35.76 EUR <em>(0.004591 BTC)</em></li>
+<li>15 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2Jer1Hc2DmisLZI3ZOkWJeNKK2BbceEA2rIhPQ2MZIUVM+VEw9GuYO/ol8oIldIxElCNUmjQVzSdenOsUDpBkw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="668895"> US Domestic Flat Rate   (fits 10 i (included)</option>
+<option value="668896"> International Flat Rate  (+28.46 EUR)</option>
+<option value="668897">Combined Shipping  (already paid ab (-8.12 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102586" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>
+Afgoo, also known as Afgooey, is a potent indica strain that is believed to descend from an Afghani indica and Maui Haze. Its sativa parent may lend Afgoo some uplifting, creative qualities, but this strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor. Growers hoping to cultivate Afgoo may have a better chance of success indoors, but this indica can also thrive in Mediterranean climates outdoors.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Highest praise allowed - this vendor earned it! I'm extremely thankful.
+<em>(16.2.)</em>
+</td>
+<td><span>
+bl***lu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 8.12 EUR ( US Domestic Flat Rate   (fits 10 i) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100939"><img src="/kuvat/tuotekuvat/610520093b7f4addf99e0d0021197a8482222dfb.jpg?1515222359" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100939">❤ 7g CRITICAL + ★ Weed ❤</a> (<span title='65 USD'>52.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102697"><img src="/kuvat/tuotekuvat/81cd3ae4295683f8af6f761fb22efbc5ac67b939.jpg?1515620223" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102697">Blue Dream 7.5g Indoor &#39;AAA&#39;</a> (<span title='48 USD'>39.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>36.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>262</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100270"><img src="/kuvat/tuotekuvat/0c3ac4901e2d7ed3a030bf6aa68a38cbf8e18392.jpg?1510852244" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100270">3.5g Power Plant / NDD / UK / Best Customer Service</a> (<span title='38 GBP'>43.17&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23230"><img src="/kuvat/tuotekuvat/b461c8bd729534b330c461e8542b5b2cb3b6fee9.jpg?1455972440" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23230">25G ★★ AMNESIA Haze Rest Weed Cannabis ★★ AAA+ High Quality</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>AFGHAN GOO G.H TG 3.5 GRAMS</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

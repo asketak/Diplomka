@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BXy7slhTA3stsIwEKOftkG3WHyuMHWCX5ohieTYqZaLI2PUi7LSjc251iflEmymEnMy5Gb+81qOhQDDoa5xAtA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/deae68760ed4b7318cafb8d2639999163f809125.jpg?1478531779"><img src="/kuvat/tuotekuvat/14a2d9c67246b4bdd46565abde7cb1e91f34ee07.jpg?1478531779" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>400g ---&gt; *-* Amphetamin / Speed *-* &lt;---</h1>
+<ul class='list-unstyled specs'>
+<li>675 EUR <em>(0.087131 BTC)</em></li>
+<li>5 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/weed-420">WeeD-420</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; France, Germany, Ireland, Netherlands, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iQWvu/kVpkaubAxfEqYPXdAIBjFmD1AGOi0FsNV53EhEoeErTfIGTu2pCaJ+2stJIRKgA1Wu5jJ95VchiM/5Xg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="331833">DE - Einschreiben Einwurf  (included)</option>
+<option value="331834">DE - Paket (with tracking) (+5 EUR)</option>
+<option value="331835">EU - Paket (with tracking) (+10 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69868" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>400g Speed Paste, da diese relativ ,,trocken" ist gibt es so gut wie keinen Gewichtsverlust.</p>
+
+<p>Versand an eine Packstation ist natürlich möglich. Die Bestellung wird dann als Paket verschickt.
+<br />Aus Sicherheitsgründen gibt es nur im Streitfall die Sendungsnummer. Ihr könnt euch jederzeit über den Status der Sendung bei
+<br />uns informieren, schreibt uns einfach diesbezüglich dann an.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.0 EUR (DE - Einschreiben Einwurf ) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/94002"><img src="/kuvat/tuotekuvat/25d47dee71b2c4c1fa43bc27882b8862ef2d0872.jpg?1502924387" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94002">UNCUT Peruvian 89% FISHSCALE COCAINE 14g FREE UK </a> (<span title='880 USD'>714.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39405"><img src="/kuvat/tuotekuvat/77dfc7a074f82157bca071cfaa0e34a2439ffd1a.jpg?1461787520" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39405">14G PURE CREAM YELLOW BRICK COCAINE 💥 ---- FULL ESCROW ----</a> (<span title='840 GBP'>956.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/27499"><img src="/kuvat/tuotekuvat/d8a0a133068e348bbb6705e8387efeeede188fee.jpg?1468573947" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/27499">CL-PVP 500g</a> (<span title='1185 USD'>961.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24598"><img src="/kuvat/tuotekuvat/91f9eb96f85a36ab73e83f303ef20f1b5805ed9b.jpg?1455972705" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24598">500G Amphetamine Speed Paste 58-70%</a> (<span title='745 EUR'>745&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103190"><img src="/kuvat/tuotekuvat/b8c9b6e755e58e329995b75691eb601097fee88e.jpg?1517579258" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103190">Lidocaine HCL or BASE ★★★ shipping form EU ★★★ 2 kg</a> (<span title='589 USD'>477.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>400g ---&gt; *-* Amphetamin / Speed *-* &lt;---</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

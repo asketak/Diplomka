@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="f1a0fHI22W+5k1A5isljW8LdaHTB0fAHnE3uj8G7I5ay8vrsxtF5Z/pWVcTmtadPM8fORvJwRjPbhbwenA0GgA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ecf48a73b4538c19d5b4c53602674e0cc4e137e3.jpg?1518416976"><img src="/kuvat/tuotekuvat/52fdb853e12d388d93663a59ac79d7ace76117ac.jpg?1518416976" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>MEGA SUPER ALE Attentin 10 mg (30kpl 3 listaa)</h1>
+<ul class='list-unstyled specs'>
+<li>350 EUR <em>(0.044925 BTC)</em></li>
+<li>15 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/nuuskatukku">NuuskaTukku</a></span>&nbsp;(<span class='green' title='Positive feedback'>540</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="w+K7J0QY00g9coXh1LJlB1fvETcys9wUtB81mTgeWFMORvW38P9zQH63gBy4zqETpvW3BQESaiDz12cIZah9RQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103340" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b> MUISTATHAN ETTÄ PGP SALAUS EI TOIMI TEKNISEN VIAN VUOKSI. LÄHETÄTHÄN VIESTILLÄ OSOITETIETOSI !!! KIITOS  !!! </b></p>
+
+<p>-Apteekki piriste joka antaa virtaa päivään toimii kuin Amfetamiini ilman laskuja.
+<br />- Auttaa keskittymään 
+<br />- olo ympäristöstä kirkas ja tietoinen
+<br />- vaikuttava aine deksamfetamiinisulfaatti</p>
+
+<p>Pillerit ovat 4 jako uurteisia ja aloittelija voi ihan 1/4-1/2 tabletilla kokeilla alkuun
+<br />kahvi ja tietysti alkoholi toimii hyvinä puskureina kyseiselle tuotteelle ;)
+<br />Toimitetaan alkuperäisissä listoissa. 
+<br />HUOM kuvassa on 5mg paketti mutta nämä 10mg vahvuisia
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/99594"><img src="/kuvat/tuotekuvat/2cc2649d8704464d4bd31a140f88824c67e0400a.jpg?1506523014" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99594">500x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='400 USD'>325.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38086"><img src="/kuvat/tuotekuvat/27a59076456abafa4d4c244868174430ab56bdc1.jpg?1464325442" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38086">Ritalin 10mg by Novartis - 500 tablets</a> (<span title='425 GBP'>482.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102822"><img src="/kuvat/tuotekuvat/24799cc03c00a5f81c0ef2c3d5a34127b62ba336.jpg?1516406375" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102822">❤ 250x XANAX S903 ★ 2mg  ❤</a> (<span title='400 USD'>325.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/19640"><img src="/kuvat/tuotekuvat/a628f7c13f470c75880977f696e8b16961876e93.jpg?1518643743" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/19640">175x K25 37.5 MG Pills (Loose)</a> (<span title='330 USD'>268.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16719"><img src="/kuvat/tuotekuvat/9d39b04acdc16a0bd87b339a41777da0872c5f7e.jpg?1455971141" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16719">Rivotril (Clonazepam) 2 MG 500 Pills</a> (<span title='476 USD'>387.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/deepmeds">DeepMeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>174</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1506">ADHD</a>
+</li>
+<li class='active'>MEGA SUPER ALE Attentin 10 mg (30kpl 3 listaa)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

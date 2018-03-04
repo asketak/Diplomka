@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jNAVlNDUP55+/fCPJhgWtsieAJRTROwP8/6jA+JxHjpBdFsEZDOflj049XJKZNKiOYSmpmDlWju0NvGSv8c7LA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9326bb323a10b3c24c000722a72c075d01e17580.jpg?1517265703"><img src="/kuvat/tuotekuvat/28a3bdd3642f52d1a1f8b837e6d28f1e5029f468.jpg?1517265703" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>MASTERONE® 100, 100mg/ml, 10ml (Olymp Labs) -UUTUS!</h1>
+<ul class='list-unstyled specs'>
+<li>89 EUR <em>(0.011424 BTC)</em></li>
+<li>8 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, Germany</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="y8vngUe4SRa7H/6sZXwF182RBg6Fk0EmQzT3B9MK7d8Gb6kR81/pHvja+1EJAMHDPIugPLYy9xIE/KWWjrzIyQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103086" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><strong>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/mustajaska/products">Check this out!</a></p>
+
+<p>Please read info about shipping in my profile, Thanks!</strong></p>
+
+<p><b>MASTERONE 100® </b></p>
+
+<p>MASTERONE 100® - is one of few injectable anabolic-androgen steroids that provides strong anti-estrogenic properties. hepatotoxicity. Though Masterone 100 is considered to be a relatively week anabolic-androgen steroid, its androgen activity is 5 times stronger than testosterone, which provides muscle hardness and fat burning effect. Masterone 100 is mostly used during the last weeks of bodybuilding contest prep cycles for burning the last bit of fat, for better visualization and vascularization of the muscles, for increasing strength without weight gain. Since Masterone 100 is not an aromatizable steroid it will prevent water retention. It is also has a low level of hepatotoxicity.       </p>
+
+<p>USES
+<br />Increase of Qualitative Lean Muscle Mass
+<br />Effective For Cutting Cycles
+<br />Increase Strength
+<br />Improve Muscle Visibility and Vascularity
+<br />Low Level of Hepatotoxicity and Aromatization</p>
+
+<p>GUARANTEE &amp; EXPIRY DATE
+<br />100% Original from the Turkish Olymp Labs http://www.olymp-labs.com/. This is not a cheap Chinese generic replicas in a plasticbag or foil pouch with unknown ingredients.
+<br />All packs are air tight sealed and expire up to 04.2016.</p>
+
+<p>DESCRIPTION
+<br />Masterone 100 (drostanolone propionate) is a steroid derived from dihydrotestosterone (DHT), structicaly altered by adding of a methyl group at the carbon 2 position. Being a DHT Masterone 100 DHT directly inhibits estrogenic activity either by acting as a competitive antagonist to the estrogen receptor or by decreasing estrogen receptor binding. Masteron prevents from the transformation of free testosterone to estrogen by inhibiting the enzyme aromatase. This results not only in insignificant increase of free testosterone in the blood, but also eliminates the adverse effects that are caused by high levels of estrogen, such as gynecomastia and fluid retention or edema.  Short propionate ester controls the release time of the active substance (1-2 days).  It has a low level of hepatotoxicity. Further read: https://en.wikipedia.org/wiki/Drostanolone_propionate</p>
+
+<p>PACKAGING &amp; DOSAGE
+<br />Active substance is Drostanolone Propionate - 100mg/ml.
+<br />One pack contains 10ml.</p>
+
+<p>For intramuscular injection.</p>
+
+<p>Usual dose is 200-400mg/week, split up into small every other day doses such as 100mg every other day. Course duration is 6-8 weeks.</p>
+
+<p>Masterone 100 can be used solo or combined with other AAS in order to achieve better results and to avoid side effects.  </p>
+
+<p>Note: The MHRA and FDA has not evaluated or endorsed this product. Please consult your physician prior to using this or any other nutritional supplements or medications.</p>
+
+<p>STORAGE
+<br />Store in dry place at room temperature. Do not exceed storage temperature higher than 25 degrees Celcius. Keep away from direct sunlight. Keep locked and away from children.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100908"><img src="/kuvat/tuotekuvat/3cc153906af018e215c76f5fca516396e4007315.jpg?1510260633" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100908">Genesis Oxymethelone 50mg/100tab</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103702"><img src="/kuvat/tuotekuvat/3ee7f28ccb4345e70b421b3e3625e724caefee1a.jpg?1519415921" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103702">Testosterone Cypionate - 300 mg/ml/ 10 ml - Bioniche Pharma</a> (<span title='68 EUR'>68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/17901"><img src="/kuvat/tuotekuvat/64e017bd3e25f1943b3a0a2b4a50c7391e547816.jpg?1455971513" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/17901">Ephedrin 50tabs/50mg-kpl -Joulutarjous!</a> (<span title='85 EUR'>85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55186"><img src="/kuvat/tuotekuvat/800f6cc527682300bc3759c01823f6cf3ec87c69.jpg?1482013574" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55186">Cerberus Pharma Anavar 50mg x 100 tablets</a> (<span title='62 GBP'>70.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>MASTERONE® 100, 100mg/ml, 10ml (Olymp Labs) -UUTUS!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

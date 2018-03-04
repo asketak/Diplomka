@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZDGphk0l5/o3l6dS+Oly7smAfRZ9esoETrg6BxeCgOaplecW+cJH8nRSoq+Ulbb6OJrbJE7bfDAJcGiWSjSl8A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2667aa03451462f6c275663b191b3e8acb768727.jpg?1483791156"><img src="/kuvat/tuotekuvat/09e4b094359b18d6f1b6cf2414fbfacb37c4f9b7.jpg?1483791156" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Oxycodone 30mg 1 / 10e</h1>
+<ul class='list-unstyled specs'>
+<li>13 EUR <em>(0.001677 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/nordic">Nordic</a></span>&nbsp;(<span class='green' title='Positive feedback'>71</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Oxycodone 30mg</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (3.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/92783"><img src="/kuvat/tuotekuvat/f7591027e6c1114cb2f798251021c131d8cae1cf.jpg?1492878363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92783">Dihydrocodeine 30mg x 10</a> (<span title='12 GBP'>13.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2890</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97363"><img src="/kuvat/tuotekuvat/0e8920887c8a7d614f5ce2cdaa2d06dc6f76a995.jpg?1501012381" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97363">Tramadol (Opioid) 100mg || 10 Tabletten || 1 A Pharma </a> (<span title='17.4 EUR'>17.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/gsussdrive">gsussdrive</a></span>&nbsp;(<span class='green' title='Positive feedback'>310</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38042"><img src="/kuvat/tuotekuvat/c1fdd08b32884ba8b9c1b9b466ba997bc38bd2be.jpg?1464325993" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38042">Ultram Tramadol 50mg by Janssen - 10 tablets</a> (<span title='12 GBP'>13.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/46073"><img src="/kuvat/tuotekuvat/8e0d6597f9fc56d117ff19b822f9b522b8e7879e.jpg?1465688028" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/46073">No3 HEROIN TT 0.10g (SAMPLE OPP) UK NDD</a> (<span title='12 GBP'>13.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1303">Oxycodone</a>
+</li>
+<li class='active'>Oxycodone 30mg 1 / 10e</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

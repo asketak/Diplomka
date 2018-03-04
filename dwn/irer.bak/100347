@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="7Aq9cbPuhqT3bduQ8c9SNVTWVpWsC8QwScEMCmSJhXQhrvPhBwkmrLSo3m2ds5Yhpczwp5+qcgQOCV6bOT+gYg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/969fe80ed492331a6f69f3e963b9af78c20f05c5.jpg?1510852216"><img src="/kuvat/tuotekuvat/fcd18559430cb601edcabc3a999eeb3a7b5bb5f4.jpg?1510852216" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1.2g Power Plant / NDD / UK / Best Customer Service</h1>
+<ul class='list-unstyled specs'>
+<li>15.93 EUR <em>(0.002041 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SclIc0Rm35xy6LSDaESrAyYVRoeOzn6wl4HMLOHtZ5eEbQbj8IF/lDEtsX4EOG8X1w/gtb1vyITQSZ69vFtCgQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="624720">Royal Mail 1st Class FREE (included)</option>
+<option value="624721">European Union Airmail (+4.55 EUR)</option>
+<option value="624722">Shipping outside of European Union  (+11.38 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100347" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>***ORDERING WITH US MEAN YOU'VE READ OUR T&amp;C's IN OUR PROFILE. PLEASE, OBEY BY THE RULES AND WE WILL BE MORE FRIENDLY AND WILLING TO THE HELP YOU OUT***</p>
+
+<p>Power Plant comes from Dutch Passion Seed Company and is derived from powerful South African sativa strains. Thanks to this, these plants have a fast growing time compared to most sativas and will produce either many medium-sized flowers or a few very large buds with smaller “popcorn” buds.
+<br />These plants are woody, earthy scent is pungent.  Power Plant has a sharp, peppery taste. While many sativas are good choices for a clear-headed buzz, this plant’s high THC content makes it powerful. It makes some users happy and creative, though effects may verge on too intoxicating for some.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+2DD, came overweight by 0.05. Very happy looks and smells amazing will be back !
+<em>(2.2.)</em>
+</td>
+<td><span>
+Ra***v1
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nice Bud 1 Day Post A++
+<em>(25.1.)</em>
+</td>
+<td><span>
+dt***45
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Quick &amp; safe, earthy &amp; potent. Reliable vendor. Thanks
+<em>(4.1.)</em>
+</td>
+<td><span>
+he***62
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Really high quality, quick delivery, thanks once again!
+<em>(13.12.)</em>
+</td>
+<td><span>
+ol***nt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+NDD and amazing product yet again A+++ vendor
+<em>(13.12.)</em>
+</td>
+<td><span>
+lu***yr
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+2DD to UK. Good stealth and good weed. Thanks again.
+<em>(11.12.)</em>
+</td>
+<td><span>
+op***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+2DD to UK. Great stealth and great weed.
+<em>(6.12.)</em>
+</td>
+<td><span>
+op***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/57012"><img src="/kuvat/tuotekuvat/ef95a7de13f39dd959a0133648d8bd154051860f.jpg?1471345476" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57012">Exclusive Blue Cheese AAA+++ 2g FREE UK NDD</a> (<span title='26 USD'>21.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100340"><img src="/kuvat/tuotekuvat/3bd51829dcef1f4e1cd30077ae72cb406a538545.jpg?1508728913" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100340">2g - Super Silver Haze Dutch Import FREE UK SHIPPING</a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85543"><img src="/kuvat/tuotekuvat/ed62a1d4120de9d8786389dbfd5f4cf0c4dc6704.jpg?1487098030" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85543">0.8grams lemon haze! strong skunk! £10</a> (<span title='11.4 GBP'>12.97&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/charlieukontor">CharlieUKontor</a></span>&nbsp;(<span class='green' title='Positive feedback'>817</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51832"><img src="/kuvat/tuotekuvat/4673e58f04b1f56e578176e008f51842868eb0d1.jpg?1468194735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/51832">Intro Offer - 1g of Amnesia Haze AAA High THC</a> (<span title='12 GBP'>13.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/lobosuk">LobosUK</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90660"><img src="/kuvat/tuotekuvat/5d6eb4f08f53bfac19e849010fd9391410e33669.jpg?1490722022" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90660">3.5g Grams of good quality Pollen * SPECIAL OFFER £14</a> (<span title='16.5 GBP'>18.77&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/medicineball">medicineball</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>1.2g Power Plant / NDD / UK / Best Customer Service</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

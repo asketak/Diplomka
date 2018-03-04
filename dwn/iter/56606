@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="33mXtSDGCFVyzy9wu5WUncCuxhRhtUGE1ZKEhMUk+84S3dkllCGoXTEKKo3X6VCJMbRgJlIU97CSWtYVmJLe2A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/a606902b8ea04bf66a13f2f24f929cf2f8711368.jpg?1471147861"><img src="/kuvat/tuotekuvat/6350877c7cab4f2d54cf88288c9299b009e88862.jpg?1471147861" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>2 gram - HEROIN #4CHINA WHITE INC-</h1>
+<ul class='list-unstyled specs'>
+<li>309.34 EUR <em>(0.039726 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/incorporated">incorporated</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Australia &rarr; Australia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ICjnZI6SsYbNZcL8nSd37PxJMm6rl18eiVDZiGBbAlrtjKn0OnURjo6gxwHxW7P4DVOUXJg26SrOmIsZPe0nTA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="56606" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Off white powder form, nice and clean fine china =)</p>
+
+<p>WE SEND EVERYTHING VIA EXPRESS POST</p>
+
+<p>SENDING DAYS: MON-FRI EXCLUDING PUBLIC HOLIDAYS/SATURDAYS</p>
+
+<p>POST CUT OFF TIME: WE CUT ALL ORDERS OFF AT 3;30PM-</p>
+
+<p>TRACKING: ASK ANYTIME 
+<br /> 
+<br />ENJOY YOUR ORDER =)</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/38511"><img src="/kuvat/tuotekuvat/1087156a8d20a54f45e70f222c69497c7ff5ad8a.jpg?1461528191" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38511">5 G ★★ HEROIN UNCUT AAA+ HQ ★★ GERMANY SHIPPING ★★</a> (<span title='275 EUR'>275&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14727"><img src="/kuvat/tuotekuvat/af3ad630a2e307ad4a4274020e36f9c6a125f0a5.jpg?1455970648" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14727">50g China White Synthetic Heroin</a> (<span title='456 EUR'>456&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11450"><img src="/kuvat/tuotekuvat/a492daf9ac8e315768019e85f9d64e64df3cb78a.jpg?1455970023" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11450">Blacktar Heroin 10g</a> (<span title='400 EUR'>400&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55086"><img src="/kuvat/tuotekuvat/52fb51829a38b0e23870cd081a52e0cc6fc21a7f.jpg?1518724703" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55086">225x Codeine 15 MG Pills (Loose)</a> (<span title='415 USD'>337.73&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16766"><img src="/kuvat/tuotekuvat/e9390d490cd89e93f8f7f2ef6ef597b4a9543b6e.jpg?1482950985" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16766">10G TSC&#39;s Original Spanish Bayer Opium ~ FE PRICE ~</a> (<span title='399.99 USD'>325.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/the-scurvy-crew">The Scurvy Crew</a></span>&nbsp;(<span class='green' title='Positive feedback'>666</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>2 gram - HEROIN #4CHINA WHITE INC-</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mcXf3yWnEkWEUgZg77PsT66NWvEvEncGXLmeixVgmUtUYZFPkUCyTceXA52DzyhbX5f8wxyzwTIbccwaSNa8XQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/7b9e4515fff676ddf78258d3d0fa93688024f675.jpg?1516842531"><img src="/kuvat/tuotekuvat/737482467e9604e015acd9a3391158fcee85ef7e.jpg?1516842531" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Deca / Decanol-200 (Nandrolone Decanoate) 10x1ml</h1>
+<ul class='list-unstyled specs'>
+<li>67 EUR <em>(0.0086 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, Germany</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n0R/JaFC5cWOD4qFbR4dW6BS4Fmd+4oZaZqWCDvnFi1S4DG1FaVFzc3Kj3gBYtlPUUhGa65aPC0uUsSZZlEzOw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102968" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/mustajaska/products">Check this out!</a></p>
+
+<p><b>Decanol-200 (Nandrolone Decanoate)</b></p>
+
+<p><b>Workout cycle example:</b>
+<br />Week 1 250mg Sust, 200mg deca
+<br />Week 2 500mg Sust, 200mg deca
+<br />Week 3 500mg Sust, 400mg deca
+<br />Week 4 500mg Sust, 400mg deca
+<br />Week 5 750mg Sust, 400mg deca
+<br />Week 6 750mg Sust, 400mg deca
+<br />Week 7 500mg Sust
+<br />Week 8 500mg Sust
+<br />Week 9 250mg Sust
+<br />Week 10 250mg Sust
+<br />Week 11 Nothing
+<br />Week 12 Nothing
+<br />Week 13 40mg Tamoxifen
+<br />Week 14 30mg Tamoxifen
+<br />Week 15 20mg Tamoxifen</p>
+
+<p>CONTENTS: 200mg/ml (10 amp./1ml).</p>
+
+<p>CHEMICAL NAMES:
+<br />19-norandrost-4-en-3-one-17beta-ol, 17beta-hydroxy-estr-4-en-3-one</p>
+
+<p>DESCRIPTION:
+<br />Nandrolone decanoate is an injectable form of the anabolic steroid nandrolone.The decanoate ester provides a slow release of nandrolone from the site of injection, lasting for up to three weeks. Nandrolone is very similar to testosterone in structure, although it lacks a carbon atom at the 19th position (hence its other name, 19nortestosterone). Like testosterone, nandrolone exhibits relatively strong anabolic properties. Unlike testosterone, however, its tissue-building activity is accompanied by weak androgenic properties. Much of this has to do with the reduction of nandrolone to a weaker steroid, dihydronandrolone, in the same androgen-responsive target tissues that potentate the action of testosterone (by converting it to DHT). The mild properties of nandrolone decanoate have made it one of the most popular injectable steroids worldwide, highly favored by athletes for its ability to promote significant strength and lean muscle mass gains without strong androgenic or estrogenic side effects. Nandrolone decanoate provides a sharp spike in nandrolone release 24-48 hours following deep intramuscular injection, which steadily declines to near baseline levels approximately two weeks later. The mean depot-release half-life of nandrolone decanoate is 8 days.</p>
+
+<p>SIDE EFFECTS:
+<br />Nandrolone has a low tendency for estrogen conversion, estimated to be only about 200% of that seen with testosterone. This is because while the liver can convert nandrolone to estradiol, in other more active sites of steroid aromatization such as adipose tissue nandrolone is far less open to this process. Elevated estrogen levels may still be noticed with higher dosing, however, and may cause side effects such as increased water retention, body fat gain, and gynecomastia. An anti-estrogen such as clomiphene citrate or tamoxifen citrate may be necessary to prevent estrogenic side effects if they occur. Many 19-nor anabolic steroids are shown to have some affinity for the progesterone receptor as well. The side effects associated with progesterone are similar to those of estrogen.</p>
+
+<p>ADMINISTRATION:
+<br />The usual dosage for physique or performance-enhancing purposes is the range of 200-600mg per week, taken in cycles 8 to 12 weeks in length. This level is sufficient for most users to notice measurable gains in lean muscle mass and strength.
+<br /></b></p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55186"><img src="/kuvat/tuotekuvat/800f6cc527682300bc3759c01823f6cf3ec87c69.jpg?1482013574" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55186">Cerberus Pharma Anavar 50mg x 100 tablets</a> (<span title='62 GBP'>70.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102606"><img src="/kuvat/tuotekuvat/371d331eec05d38866d67905bab2af4f3df0e181.jpg?1515408157" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102606">Testosterone Enanthate - 250 mg/ml/ 10 ml - Balkan Pharmaceutical</a> (<span title='58 EUR'>58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/64531"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/64531">LGD-4033 jauhe 500mg</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hiro">Hiro</a></span>&nbsp;(<span class='green' title='Positive feedback'>1501</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>Deca / Decanol-200 (Nandrolone Decanoate) 10x1ml</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

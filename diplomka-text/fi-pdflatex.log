@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  8 FEB 2018 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  4 MAR 2018 12:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -360,6 +360,31 @@ Now handling font encoding U ...
 \@month=\count89
 \@year=\count90
 )
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count92
+\lst@currlwidth=\dimen105
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen108
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
 (/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
@@ -578,8 +603,8 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/02/24 3.9q Babel common definitions
-\babel@savecnt=\count91
-\U@D=\dimen105
+\babel@savecnt=\count99
+\U@D=\dimen109
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -622,7 +647,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count92
+\lrq@indent=\count100
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -634,44 +659,44 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count93
-\c@listtotal=\count94
-\c@listcount=\count95
-\c@liststart=\count96
-\c@liststop=\count97
-\c@citecount=\count98
-\c@citetotal=\count99
-\c@multicitecount=\count100
-\c@multicitetotal=\count101
-\c@instcount=\count102
-\c@maxnames=\count103
-\c@minnames=\count104
-\c@maxitems=\count105
-\c@minitems=\count106
-\c@citecounter=\count107
-\c@savedcitecounter=\count108
-\c@uniquelist=\count109
-\c@uniquename=\count110
-\c@refsection=\count111
-\c@refsegment=\count112
-\c@maxextratitle=\count113
-\c@maxextratitleyear=\count114
-\c@maxextrayear=\count115
-\c@maxextraalpha=\count116
-\c@abbrvpenalty=\count117
-\c@highnamepenalty=\count118
-\c@lownamepenalty=\count119
-\c@maxparens=\count120
-\c@parenlevel=\count121
-\blx@tempcnta=\count122
-\blx@tempcntb=\count123
-\blx@tempcntc=\count124
-\blx@maxsection=\count125
-\blx@maxsegment@0=\count126
-\blx@notetype=\count127
-\blx@parenlevel@text=\count128
-\blx@parenlevel@foot=\count129
-\blx@sectionciteorder@0=\count130
+\c@tabx@nest=\count101
+\c@listtotal=\count102
+\c@listcount=\count103
+\c@liststart=\count104
+\c@liststop=\count105
+\c@citecount=\count106
+\c@citetotal=\count107
+\c@multicitecount=\count108
+\c@multicitetotal=\count109
+\c@instcount=\count110
+\c@maxnames=\count111
+\c@minnames=\count112
+\c@maxitems=\count113
+\c@minitems=\count114
+\c@citecounter=\count115
+\c@savedcitecounter=\count116
+\c@uniquelist=\count117
+\c@uniquename=\count118
+\c@refsection=\count119
+\c@refsegment=\count120
+\c@maxextratitle=\count121
+\c@maxextratitleyear=\count122
+\c@maxextrayear=\count123
+\c@maxextraalpha=\count124
+\c@abbrvpenalty=\count125
+\c@highnamepenalty=\count126
+\c@lownamepenalty=\count127
+\c@maxparens=\count128
+\c@parenlevel=\count129
+\blx@tempcnta=\count130
+\blx@tempcntb=\count131
+\blx@tempcntc=\count132
+\blx@maxsection=\count133
+\blx@maxsegment@0=\count134
+\blx@notetype=\count135
+\blx@parenlevel@text=\count136
+\blx@parenlevel@foot=\count137
+\blx@sectionciteorder@0=\count138
 \labelnumberwidth=\skip43
 \labelalphawidth=\skip44
 \biblabelsep=\skip45
@@ -682,9 +707,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip50
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count131
-\c@maxcomprange=\count132
-\c@mincompwidth=\count133
+\c@mincomprange=\count139
+\c@maxcomprange=\count140
+\c@mincompwidth=\count141
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -693,72 +718,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count134
-\c@savedafterword=\count135
-\c@annotator=\count136
-\c@savedannotator=\count137
-\c@author=\count138
-\c@savedauthor=\count139
-\c@bookauthor=\count140
-\c@savedbookauthor=\count141
-\c@commentator=\count142
-\c@savedcommentator=\count143
-\c@editor=\count144
-\c@savededitor=\count145
-\c@editora=\count146
-\c@savededitora=\count147
-\c@editorb=\count148
-\c@savededitorb=\count149
-\c@editorc=\count150
-\c@savededitorc=\count151
-\c@foreword=\count152
-\c@savedforeword=\count153
-\c@holder=\count154
-\c@savedholder=\count155
-\c@introduction=\count156
-\c@savedintroduction=\count157
-\c@namea=\count158
-\c@savednamea=\count159
-\c@nameb=\count160
-\c@savednameb=\count161
-\c@namec=\count162
-\c@savednamec=\count163
-\c@translator=\count164
-\c@savedtranslator=\count165
-\c@shortauthor=\count166
-\c@savedshortauthor=\count167
-\c@shorteditor=\count168
-\c@savedshorteditor=\count169
-\c@labelname=\count170
-\c@savedlabelname=\count171
-\c@institution=\count172
-\c@savedinstitution=\count173
-\c@lista=\count174
-\c@savedlista=\count175
-\c@listb=\count176
-\c@savedlistb=\count177
-\c@listc=\count178
-\c@savedlistc=\count179
-\c@listd=\count180
-\c@savedlistd=\count181
-\c@liste=\count182
-\c@savedliste=\count183
-\c@listf=\count184
-\c@savedlistf=\count185
-\c@location=\count186
-\c@savedlocation=\count187
-\c@organization=\count188
-\c@savedorganization=\count189
-\c@origlocation=\count190
-\c@savedoriglocation=\count191
-\c@origpublisher=\count192
-\c@savedorigpublisher=\count193
-\c@publisher=\count194
-\c@savedpublisher=\count195
-\c@language=\count196
-\c@savedlanguage=\count197
-\c@pageref=\count198
-\c@savedpageref=\count199
+\c@afterword=\count142
+\c@savedafterword=\count143
+\c@annotator=\count144
+\c@savedannotator=\count145
+\c@author=\count146
+\c@savedauthor=\count147
+\c@bookauthor=\count148
+\c@savedbookauthor=\count149
+\c@commentator=\count150
+\c@savedcommentator=\count151
+\c@editor=\count152
+\c@savededitor=\count153
+\c@editora=\count154
+\c@savededitora=\count155
+\c@editorb=\count156
+\c@savededitorb=\count157
+\c@editorc=\count158
+\c@savededitorc=\count159
+\c@foreword=\count160
+\c@savedforeword=\count161
+\c@holder=\count162
+\c@savedholder=\count163
+\c@introduction=\count164
+\c@savedintroduction=\count165
+\c@namea=\count166
+\c@savednamea=\count167
+\c@nameb=\count168
+\c@savednameb=\count169
+\c@namec=\count170
+\c@savednamec=\count171
+\c@translator=\count172
+\c@savedtranslator=\count173
+\c@shortauthor=\count174
+\c@savedshortauthor=\count175
+\c@shorteditor=\count176
+\c@savedshorteditor=\count177
+\c@labelname=\count178
+\c@savedlabelname=\count179
+\c@institution=\count180
+\c@savedinstitution=\count181
+\c@lista=\count182
+\c@savedlista=\count183
+\c@listb=\count184
+\c@savedlistb=\count185
+\c@listc=\count186
+\c@savedlistc=\count187
+\c@listd=\count188
+\c@savedlistd=\count189
+\c@liste=\count190
+\c@savedliste=\count191
+\c@listf=\count192
+\c@savedlistf=\count193
+\c@location=\count194
+\c@savedlocation=\count195
+\c@organization=\count196
+\c@savedorganization=\count197
+\c@origlocation=\count198
+\c@savedoriglocation=\count199
+\c@origpublisher=\count266
+\c@savedorigpublisher=\count267
+\c@publisher=\count268
+\c@savedpublisher=\count269
+\c@language=\count270
+\c@savedlanguage=\count271
+\c@pageref=\count272
+\c@savedpageref=\count273
 \shorthandwidth=\skip51
 \shortjournalwidth=\skip52
 \shortserieswidth=\skip53
@@ -776,13 +801,13 @@ Package biblatex Info: ... file 'biblatex_.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
 File: biblatex_.def 
-\c@textcitecount=\count266
-\c@textcitetotal=\count267
-\c@textcitemaxnames=\count268
-\c@biburlnumpenalty=\count269
-\c@biburlucpenalty=\count270
-\c@biburllcpenalty=\count271
-\c@smartand=\count272
+\c@textcitecount=\count274
+\c@textcitetotal=\count275
+\c@textcitemaxnames=\count276
+\c@biburlnumpenalty=\count277
+\c@biburlucpenalty=\count278
+\c@biburllcpenalty=\count279
+\c@smartand=\count280
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -794,8 +819,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count273
-\c@bbx:relatedtotal=\count274
+\c@bbx:relatedcount=\count281
+\c@bbx:relatedtotal=\count282
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -816,8 +841,8 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
-\@month=\count275
-\@year=\count276
+\@month=\count283
+\@year=\count284
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
@@ -833,7 +858,7 @@ Package: paralist 2015/12/30 v2.5 Extended list environments
 \plpartopsep=\skip58
 \plitemsep=\skip59
 \plparsep=\skip60
-\pl@lab=\toks17
+\pl@lab=\toks18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
@@ -845,65 +870,65 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
-\ex@=\dimen106
+\@emptytoks=\toks19
+\ex@=\dimen110
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen107
+\pmbraise@=\dimen111
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count277
+\inf@bad=\count285
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count278
-\leftroot@=\count279
+\uproot@=\count286
+\leftroot@=\count287
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count280
-\DOTSCASE@=\count281
+\classnum@=\count288
+\DOTSCASE@=\count289
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen108
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen112
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count282
-\c@MaxMatrixCols=\count283
+\macc@depth=\count290
+\c@MaxMatrixCols=\count291
 \dotsspace@=\muskip11
-\c@parentequation=\count284
-\dspbrk@lvl=\count285
-\tag@help=\toks19
-\row@=\count286
-\column@=\count287
-\maxfields@=\count288
-\andhelp@=\toks20
-\eqnshift@=\dimen109
-\alignsep@=\dimen110
-\tagshift@=\dimen111
-\tagwidth@=\dimen112
-\totwidth@=\dimen113
-\lineht@=\dimen114
-\@envbody=\toks21
+\c@parentequation=\count292
+\dspbrk@lvl=\count293
+\tag@help=\toks20
+\row@=\count294
+\column@=\count295
+\maxfields@=\count296
+\andhelp@=\toks21
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks22
 \multlinegap=\skip62
 \multlinetaggap=\skip63
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks23
-\thm@bodyfont=\toks24
-\thm@headfont=\toks25
-\thm@notefont=\toks26
-\thm@headpunct=\toks27
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
 \thm@preskip=\skip64
 \thm@postskip=\skip65
 \thm@headsep=\skip66
-\dth@everypar=\toks28
+\dth@everypar=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -933,21 +958,21 @@ Package graphics Info: Driver file: pdftex.def on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count289
+\Gread@gobject=\count297
 ))
-\Gin@req@height=\dimen115
-\Gin@req@width=\dimen116
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count290
+\FV@CodeLineNo=\count298
 \FV@InFile=\read2
-\FV@TabBox=\box28
-\c@FancyVerbLine=\count291
-\FV@StepNumber=\count292
+\FV@TabBox=\box30
+\c@FancyVerbLine=\count299
+\FV@StepNumber=\count300
 \FV@OutFile=\write6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/csvsimple/csvsimple.sty
@@ -955,46 +980,21 @@ Package: csvsimple 2014/07/14 version 1.12 LaTeX CSV file processing
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks31
+\pgfkeys@tmptoks=\toks32
 )))
 \csv@file=\read3
-\c@csvinputline=\count293
-\c@csvrow=\count294
-\c@csvcol=\count295
+\c@csvinputline=\count301
+\c@csvrow=\count302
+\c@csvcol=\count303
 \csv@out=\write7
 )
-\markdownLaTeXCitationsCounter=\count296
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count297
-\lst@gtempboxa=\box29
-\lst@token=\toks32
-\lst@length=\count298
-\lst@currlwidth=\dimen117
-\lst@column=\count299
-\lst@pos=\count300
-\lst@lostspace=\dimen118
-\lst@width=\dimen119
-\lst@newlines=\count301
-\lst@lineno=\count302
-\lst@maxwidth=\dimen120
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count303
-\lst@skipnumbers=\count304
-\lst@framebox=\box30
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
+\markdownLaTeXCitationsCounter=\count304
+) (/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
@@ -1389,14 +1389,14 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )))
-Package hyperref Info: Option `unicode' set `true' on input line 101.
+Package hyperref Info: Option `unicode' set `true' on input line 102.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 101.
+Package hyperref Info: Option `unicode' set `true' on input line 102.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
@@ -1416,27 +1416,32 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
 
-(./fi-pdflatex.aux)
+(./fi-pdflatex.aux
+
+LaTeX Warning: Label `neo4jschema' multiply defined.
+
+)
 \openout1 = `fi-pdflatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+\c@lstlisting=\count347
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'UTF8' specified.
 (biblatex)             Backend will reencode on the fly.
@@ -1445,21 +1450,21 @@ Package biblatex Info: Data encoding 'UTF8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'fi-pdflatex.bbl' found.
  (./fi-pdflatex.bbl)
-Package biblatex Info: Reference section=0 on input line 101.
-Package biblatex Info: Reference segment=0 on input line 101.
+Package biblatex Info: Reference section=0 on input line 102.
+Package biblatex Info: Reference segment=0 on input line 102.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count347
+\scratchcounter=\count348
 \scratchdimen=\dimen172
 \scratchbox=\box41
-\nofMPsegments=\count348
-\nofMParguments=\count349
+\nofMPsegments=\count349
+\nofMParguments=\count350
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count350
+\MPscratchCnt=\count351
 \MPscratchDim=\dimen173
-\MPnumerator=\count351
-\makeMPintoPDFobject=\count352
+\MPnumerator=\count352
+\makeMPintoPDFobject=\count353
 \everyMPtoPDFconversion=\toks45
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1476,7 +1481,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count353
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box42
@@ -1489,7 +1493,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-LaTeX Info: Redefining \microtypecontext on input line 101.
+LaTeX Info: Redefining \microtypecontext on input line 102.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1504,7 +1508,7 @@ Package microtype Info: Redefining babel's language switching commands.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 101.
+Package hyperref Info: Link coloring OFF on input line 102.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1514,9 +1518,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count354
 )
-LaTeX Info: Redefining \ref on input line 101.
-LaTeX Info: Redefining \pageref on input line 101.
-LaTeX Info: Redefining \nameref on input line 101.
+LaTeX Info: Redefining \ref on input line 102.
+LaTeX Info: Redefining \pageref on input line 102.
+LaTeX Info: Redefining \nameref on input line 102.
 
 (./fi-pdflatex.out) (./fi-pdflatex.out)
 \@outlinefile=\write8
@@ -1532,12 +1536,12 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<fithesis/logo/mu/fithesis-fi.pdf, id=122, 291.0875pt x 292.09125pt>
+<fithesis/logo/mu/fithesis-fi.pdf, id=126, 291.0875pt x 292.09125pt>
 File: fithesis/logo/mu/fithesis-fi.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi.pdf>
 Package pdftex.def Info: fithesis/logo/mu/fithesis-fi.pdf used on input line 10
-1.
+2.
 (pdftex.def)             Requested size: 113.81102pt x 114.20036pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/14.4'.
@@ -1546,24 +1550,24 @@ Package microtype Info: Character `029' is missing
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fithesis/logo/mu/fithesi
 s-fi.pdf>]
-<fithesis/logo/mu/fithesis-fi-color.pdf, id=133, 291.0875pt x 291.0875pt>
+<fithesis/logo/mu/fithesis-fi-color.pdf, id=137, 291.0875pt x 291.0875pt>
 File: fithesis/logo/mu/fithesis-fi-color.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi-color.pdf>
 Package pdftex.def Info: fithesis/logo/mu/fithesis-fi-color.pdf used on input l
-ine 101.
+ine 102.
 (pdftex.def)             Requested size: 113.81102pt x 113.80792pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 \begin{document}
+l.102 \begin{document}
                        [2 <./fithesis/logo/mu/fithesis-fi-color.pdf>]pdfTeX war
 ning (ext4): destination with the same identifier (name{page.}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 \begin{document}
+l.102 \begin{document}
                        [0] [1] [2] [3
 
 ] [4
@@ -1571,48 +1575,48 @@ l.101 \begin{document}
 ] (./fi-pdflatex.toc
 
 LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <12> not available
-(Font)              Font shape `T1/qpl/m/it' tried instead on input line 9.
+(Font)              Font shape `T1/qpl/m/it' tried instead on input line 7.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 7.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 9.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 9.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 9.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )<<omx.cmap>>
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 9.
+(Font)              scaled to size 12.50409pt on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 9.
+(Font)              scaled to size 9.37807pt on input line 7.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 9.
+(Font)              scaled to size 7.29405pt on input line 7.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 9.
+(Font)              scaled to size 12.50409pt on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 9.
+(Font)              scaled to size 9.37807pt on input line 7.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 9.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 9.
+(Font)              scaled to size 7.29405pt on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -1621,61 +1625,49 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 59.
-
-(/usr/share/texmf/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmss' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 59.
-
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
  [5])
 \tf@toc=\write9
 \openout9 = `fi-pdflatex.toc'.
 
- [6] (./fi-pdflatex.lot)
+ [6]
+(./fi-pdflatex.lot)
 \tf@lot=\write10
 \openout10 = `fi-pdflatex.lot'.
 
- [7]
-(./fi-pdflatex.lof)
+ [7] (./fi-pdflatex.lof)
 \tf@lof=\write11
 \openout11 = `fi-pdflatex.lof'.
 
- [8] [1
-
-]
+ [8]
 Chapter 1.
+[1
+
+] [2]
+Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
-[3]
-Chapter 2.
+ [3]
 [4]
 Chapter 3.
-<images/neo4j-schema.jpg, id=255, 603.25375pt x 481.8pt>
+[5] [6]
+Underfull \vbox (badness 4634) has occurred while \output is active []
+
+ [7]
+[8]
+Chapter 4.
+<images/neo4j-schema.jpg, id=272, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 170.
+Package pdftex.def Info: images/neo4j-schema.jpg used on input line 269.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5]
-Overfull \hbox (43.66553pt too wide) in paragraph at lines 184--192
+[9]
+Overfull \hbox (43.66553pt too wide) in paragraph at lines 286--294
 \OML/zplm/m/it/12 ImageMagick\OT1/ppl/m/n/12 6.8.9 \OMS/zplm/m/n/12 ^^@ \OT1/pp
 l/m/n/12 9\OML/zplm/m/it/12 Q\OT1/ppl/m/n/12 16\OML/zplm/m/it/12 x\OT1/ppl/m/n/
 12 86[]42017 \OMS/zplm/m/n/12 ^^@ \OT1/ppl/m/n/12 07 \OMS/zplm/m/n/12 ^^@ \OT1/
@@ -1684,176 +1676,110 @@ OT1/ppl/m/n/12 .\OML/zplm/m/it/12 imagemagick\OT1/ppl/m/n/12 .\OML/zplm/m/it/12
  org$
  []
 
-[6 <./images/neo4j-schema.jpg>] [7] [8]
-Chapter 4.
-[9]
+[10 <./images/neo4j-schema.jpg>] [11] [12]
 Chapter 5.
-[10]
+[13]
 Chapter 6.
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 234.
+<images/circles.png, id=297, 739.26187pt x 737.00343pt>
+File: images/circles.png Graphic file (type png)
 
-LaTeX Font Info:    No file OMSqpl.fd. on input line 234.
+<use images/circles.png>
+Package pdftex.def Info: images/circles.png used on input line 325.
+(pdftex.def)             Requested size: 361.34999pt x 360.24643pt.
+ [14 <./images/circles.png>]
+Chapter 7.
+
+Overfull \hbox (11.14839pt too wide) in paragraph at lines 347--350
+\T1/qpl/m/n/12 (-20) ule take two pa-ram-e-ters, the di-rec-tory of .blk files,
+ which store blockchain
+ []
+
+<images/application_architecture.jpg, id=305, 1133.23375pt x 357.335pt>
+File: images/application_architecture.jpg Graphic file (type jpg)
+
+<use images/application_architecture.jpg>
+Package pdftex.def Info: images/application_architecture.jpg used on input line
+ 353.
+(pdftex.def)             Requested size: 361.34999pt x 113.9406pt.
+
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+ [15 <./images/application_architecture.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 361.
+
+LaTeX Font Info:    No file OMSqpl.fd. on input line 361.
+
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 234.
+(Font)              for symbol `textbullet' on input line 361.
 
-\c@theorem=\count355
-\c@definition=\count356
-[11] [12]
-Chapter 7.
-<fithesis/logo/mu/fithesis-base.pdf, id=310, 286.06876pt x 285.065pt>
-File: fithesis/logo/mu/fithesis-base.pdf Graphic file (type pdf)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 372.
 
-<use fithesis/logo/mu/fithesis-base.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-base.pdf used on input line 
-334.
-(pdftex.def)             Requested size: 113.81102pt x 113.41066pt.
-File: fithesis/logo/mu/fithesis-base.pdf Graphic file (type pdf)
 
-<use fithesis/logo/mu/fithesis-base.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-base.pdf used on input line 
-343.
-(pdftex.def)             Requested size: 238.49231pt x 237.65652pt.
-File: fithesis/logo/mu/fithesis-base.pdf Graphic file (type pdf)
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-<use fithesis/logo/mu/fithesis-base.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-base.pdf used on input line 
-346.
-(pdftex.def)             Requested size: 119.24615pt x 118.82608pt.
-File: fithesis/logo/mu/fithesis-base.pdf Graphic file (type pdf)
-
-<use fithesis/logo/mu/fithesis-base.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-base.pdf used on input line 
-347.
-(pdftex.def)             Requested size: 119.24615pt x 118.82608pt.
- [13 <./fithesis/logo/mu/fithesis-base.pdf>] [14]
-Chapter 8.
-
-Overfull \hbox (1.79585pt too wide) in paragraph at lines 429--431
-[]\T1/qpl/m/n/12 (-20) An equa-tion can be spread over mul-ti-ple lines us-ing 
-the \T1/lmtt/m/n/12 multline
- []
-
-[15]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 485.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 485.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 485.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 485.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 485.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 485.
-
-Underfull \hbox (badness 10000) in paragraph at lines 485--485
-[][][][] \T1/qpl/m/n/10 (+20) See []$\T1/lmtt/m/n/10 http : / / mirrors . ctan 
-. org / macros / latex / required / amslatex / math /
+Overfull \hbox (16.56487pt too wide) in paragraph at lines 373--374
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [16]
+Chapter 8.
+[17]
 Chapter 9.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 501
-.
-(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
-File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 502
-.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
-File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)<<ot1tt.cmap>>
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-euf.cfg
-File: mt-euf.cfg 2006/07/03 v1.1 microtype config. file: AMS Euler Fraktur (RS)
-
-)
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 505
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-) [17]
-Chapter 10.
-
-LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10> not available
-(Font)              Font shape `T1/qpl/m/it' tried instead on input line 527.
-
-[18] [19]
-Overfull \hbox (14.11969pt too wide) in paragraph at lines 560--560
-\T1/qpl/m/it/12 na-tional Con-fer-ence on Fi-nan-cial Cryp-tog-ra-phy and Data 
-Se-cu-rity\T1/qpl/m/n/12 (-20) . Springer,
- []
-
-[20]
-Chapter 11.
-[21] (./fi-pdflatex.ind [22
-
-
-])
-Appendix A.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 607.
-[23
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 607.
+[18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
+ [19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 607.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 607.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
-(rerunfilecheck)             Checksum: 9156D5ECC03770C3B5794BA1849FB9FD;2216.
+(rerunfilecheck)             Checksum: C756579667ECFE0CF81A2FCD7679D5E7;2466.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 \openout1 = `fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25546 strings out of 493826
- 409234 string characters out of 6156380
- 851502 words of memory out of 5000000
- 28062 multiletter control sequences out of 15000+600000
- 138855 words of font info for 216 fonts, out of 8000000 for 9000
+ 25466 strings out of 493826
+ 405569 string characters out of 6156380
+ 849579 words of memory out of 5000000
+ 28183 multiletter control sequences out of 15000+600000
+ 66073 words of font info for 105 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 51i,11n,56p,1156b,2769s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/t
-exlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips
-/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/mathpazo/fplmbb.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/mathpazo/fplmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ma
-thpazo/fplmri.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmt
-ti10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/tex
-mf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/te
-x-gyre/qplri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on fi-pdflatex.pdf (34 pages, 404754 bytes).
+ 51i,8n,51p,1156b,2547s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
+/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.en
+c}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb><
+/usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/t
+ype1/public/tex-gyre/qplri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
+alatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
+i8a.pfb>
+Output written on fi-pdflatex.pdf (30 pages, 325406 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
- 51993 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 387 PDF objects out of 1000 (max. 8388607)
+ 332 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 15138 words of extra memory for PDF output out of 17280 (max. 10000000)
 

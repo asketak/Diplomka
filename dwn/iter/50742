@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kqNAaKsV7IhipK/w9yMCqNK1AzxqLBSJTw6yOFh4Z9FfBw74H/JMgCFhqg2bX8a8I6+lDlmNor0IxuCpBc5Cxw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/39975e7efe7fb141aab7b9e18e59c036425e594d.jpg?1467650350"><img src="/kuvat/tuotekuvat/0b7b78f37d738d96a7d2a80204f98a484ea660e9.jpg?1467650350" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>25g Very High Quality MDMA (83%)</h1>
+<ul class='list-unstyled specs'>
+<li>190 EUR <em>(0.024388 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/un1versal">un1versal</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="s/xnnWrkNOY+dlf3bZvUuUgqBL+HleS6GZwI5PtsgHh+WCkN3gOU7n2zUgoB5xCtuTCijbQ0Uo5eVFp1ptqlbg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="50742" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Very High Quality Dutch MDMA with a purity of 83%. For a very fair price.</p>
+
+<p>Please read my profile for the terms and conditions.</p>
+
+<p>Grtz Un1versal.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/84392"><img src="/kuvat/tuotekuvat/658ce48785950c5dbe44758d3f7caaa076184f35.jpg?1486430619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84392">❄❄❄Dutch Import MDMA 90% ❄❄❄ 14g FREE UK NDD</a> (<span title='165 USD'>134.18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4070</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96113"><img src="/kuvat/tuotekuvat/ed0b3f17759ff7a0ec7531311d092744a7bba2f7.jpg?1498743968" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96113">100 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='140 EUR'>140&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102200"><img src="/kuvat/tuotekuvat/75432ec3874e712e6e83e59c3e59a99d3411d649.jpg?1513224008" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102200">❤ 20pcs MDMA pills ★ SILVER ★ 220mg ❤</a> (<span title='250 USD'>203.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24901"><img src="/kuvat/tuotekuvat/db00a918ef2fc204209e7013dcd3d1d8a1a7e09b.jpg?1455972760" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24901">25g MDMA brown Crystals 85-89% - FREE SHIPPING!</a> (<span title='220 EUR'>220&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103673"><img src="/kuvat/tuotekuvat/408fe891b3e4bba891aa972dac9a390915b80d69.jpg?1519316082" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103673">★★★ Warner Bros. Extacy 180mg (15€/1kpl) ★★★</a> (<span title='155 EUR'>155&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nuuskatukku2">NuuskaTukku2</a></span>&nbsp;(<span class='green' title='Positive feedback'>126</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1602">MDMA</a>
+</li>
+<li class='active'>25g Very High Quality MDMA (83%)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

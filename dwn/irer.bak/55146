@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ygrkL7lekVEwXpW1VVOENN70bc0pEsUKTAhWvXfvrVsHrqq/DbkxWXObkEg5L0AgL+7L/xqzcz4LwAQsKlmITQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/82466d09bf08b689d22f254e5172ac0aeca26e8d.jpg?1481623822"><img src="/kuvat/tuotekuvat/9a8770b4b6927ae9dfb2f5408454f018104fb219.jpg?1481623822" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>4-MPD 4-MEAP ★★★ shipping form EU ★★★ 20 grams</h1>
+<ul class='list-unstyled specs'>
+<li>72.43 EUR <em>(0.00929 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</li>
+<li>Poland &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dqu9CrBiVoexm6TluWSI8Abd33ScVC8opx5X6VY3pbe7D/OaBIX2j/JeoRjVGEzk98d5Rq/1mRzg1gV4C4GAoQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="233805">without tracking - NO ESCROW (included)</option>
+<option value="343666">Priority post with tracking EUROPE (+2.44 EUR)</option>
+<option value="582681">WITH TRACKING USA, CANADA AUSTRALIA (+8.14 EUR)</option>
+<option value="582682">WITHOUT SIGN (+8.14 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="55146" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>WELCOME !!!</p>
+
+<p>Please read the rules before you buy anything!</p>
+
+<p>#############################################################################</p>
+
+<p>ABOUT PRODUCT:</p>
+
+<p>1 Qty = 20 grams 2-(ethylamino)-1-(4-methylphenyl)-1-pentanone ( 4-MEAP )</p>
+
+<p>Sold by other vendors as 4-MPD.</p>
+
+<p>Please choose one, two or three of three kinds:
+<br />02ZB - 4-MEAP light brown
+<br />02PB - 4-MEAP brown
+<br />02PC - 4-MPD </p>
+
+<p>If you do not choose we will send randomly.
+<br />Info about chosen code please leave in buyer note with address.
+<br />Thank you in advance! </p>
+
+<p>#############################################################################</p>
+
+<p>ABOUT US:</p>
+
+<p>Our Products are send  from EU (Poland) so your package will be not suspicious because they are send from EU not from China. How we all know That most of parcels from china are captured by customs offices. You can also order a sample to check our competence and quality of product . We are  open  to create  long-term and mutual beneficial business relationships with worldwide customers. All my products are laboratory tested. So You know what you're buying.
+<br /> </p>
+
+<p>############################################################################# </p>
+
+<p>REFUND POLICY: </p>
+
+<p>When product is lost refund is possible when order is WITH TRACKING.
+<br />We refund by resend 50% of ordered product only.
+<br />Refund is possible on this same city.</p>
+
+<p>Orders are refunded by resend 50 %  after 30 days from the moment of dispatch.</p>
+
+<p>#############################################################################</p>
+
+<p>SHIPPING:</p>
+
+<p>Shipping to Australia and USA and Canada only 1rd or 3rd option.</p>
+
+<p>#############################################################################</p>
+
+<p>LIST OF COUNTRIES FOR 3rd SHIPPING OPTION:</p>
+
+<p>Australia, Austria, Belgium, Brazil, Croatia, Denmark, Estonia, Finland, France, Spain, Netherlands, Hong Kong, Ireland, Iceland, Israel, Canada, South Korea, Lithuania, Luxembourg, Latvia, Malta, Germany, New Zealand, Portugal, Singapore, Slovakia, Slovenia, Switzerland, Sweden, Turkey, USA, Hungary, Italy, UK</p>
+
+<p>          
+<br />#############################################################################</p>
+
+<p>Please to check legality of the substance in country of destination before you order.</p>
+
+<p>#############################################################################</p>
+
+<p>THIS PRODUCT IS NOT INTENDED FOR HUMAN CONSUMPTION.</p>
+
+<p>#############################################################################</p>
+
+<p>If you have more questions, please contact us in PM
+<br />               Thank you!</p>
+
+<p>    </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/74113"><img src="/kuvat/tuotekuvat/8956b267fc68c5785c2ea2198729c9d64dda7326.jpg?1502924375" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74113">UNCUT Peruvian 89% FISHSCALE COCAINE 1g FREE UK </a> (<span title='78 USD'>63.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103318"><img src="/kuvat/tuotekuvat/cc8057e77ecf495528cf8502e1f914798d1cdf10.jpg?1518220390" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103318">❤ 1g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='65 USD'>52.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14641"><img src="/kuvat/tuotekuvat/af4aac7e73cd8c0f3178e251f6034b77ac5c8028.jpg?1455970625" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14641">Sthompson Speed Paste-20g</a> (<span title='102 EUR'>102&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1220</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89838"><img src="/kuvat/tuotekuvat/58b1241a8bf6dd2c912b4c98d2133b562d469498.jpg?1490228076" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89838">1G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='80 GBP'>91.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85077"><img src="/kuvat/tuotekuvat/7b3d51dea370cc1ecf3e9fd459a5aaa3fd8d7541.jpg?1486740503" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85077">☆ 50G Speed Paste ☆ A+ Quality ☆</a> (<span title='110 EUR'>110&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>4-MPD 4-MEAP ★★★ shipping form EU ★★★ 20 grams</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

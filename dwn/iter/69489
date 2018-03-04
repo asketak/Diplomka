@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4m/etolziPa+y01W+0IDqOsGnomV06XLyfo6qpr4ezEvy5AmPZQo/v0OSKuXPse8Ghw4u6ZyE/+OMmg7x05eJw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/3075e45a4a89533767cf5293100e79ff26bb7617.jpg?1491511388"><img src="/kuvat/tuotekuvat/68d5e73549aadae33f828b39bc4a5cdac1540883.jpg?1491511388" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>BATMAN Aresenal Tools Dab sTik </h1>
+<ul class='list-unstyled specs'>
+<li>16.21 EUR <em>(0.002093 BTC)</em></li>
+<li>3 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3YK2rP+rkiJpXq1sLpfoQXXDgWwTUACi1/zwov/pe9cQJvg8S0wyKiqbqJFC6yxVhNknXiDxtpaQNKIzol9ewQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="329479">US DOMESTIC FLAT RATE Priority Ship (included)</option>
+<option value="329480">INTERNATIONAL FLAT RATE SHIPPING W  (+28.37 EUR)</option>
+<option value="329481">FREEshipping for 2nd and 3rd items (-8.11 EUR)</option>
+<option value="454287"> (-8.11 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69489" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>BATMAN Aresenal Tools Dab sTik (ADD ON ONLY)
+<br />********************************************
+<br />+++++++++++NOW SHIPPING WORLDWIDE+++++++++++
+<br />wholesale buyers wanted!</p>
+
+<p>the ultimate product here is trust and we pay for that</p>
+
+<p>no matter where the fuck we may be this is constant
+<br />*****************************************************************
+<br />BudMasterGeneral has traveled far and met with numerous farmers in all parts of Kali to bring you finest flowers and its variants of products. totally healthy and good for ya!
+<br />i will be unloading serious Kali weights in coming months so please inquire directly! i need you to do this! God speed1</p>
+
+<p>++++++++++++++++++++++++++++++++++++++++++++++
+<br />*****************************************************************
+<br />Pay for shipping on the biggest/heaviest item, all additional items get FREE shipping. if we have to use additional boxes 
+<br />we will inform you kindly
+<br />*****************************************************************
+<br />- NOW SHIPPING WORLDWIDE (FE REQUIRED) UPTO 1 POUND OF CANNABIS
+<br />- All US shipments are made via USPS Priority Mail.
+<br />- Shipping is done within 1 business day.
+<br />- I do not work on Saturday or Sunday or US Federal Holidays.
+<br />- No shipments or messages on those days.
+<br />- Use PGP when discussing personal info or stealth methods.
+<br />- All customer shipping records are deleted 14 days after item is shipped.
+<br />- I will check tracking if item has not arrived in 7 days.
+<br />- I do not give out tracking numbers for US deliveries
+<br />- i absolutely trust USPS!!!!!!!!! USPS fucking Delivers!!!!
+<br />*****************************************************************
+<br />I appreciate customers that FE. This allows me to get new items in stock faster.
+<br />*****************************************************************
+<br />ADDITIONAL INFO</p>
+
+<p>- I check orders once per day. Once received, the order status will be changed to "CONFIRMED" and the order will be packed.
+<br />- The order status will be changed to "SHIPPED" only after the order is actually shipped.
+<br />- Orders TYPICALLY arrive 2-3 days later. Keep in mind that some packages may be delayed due to mis-routing by the carrier, 
+<br />and can occasionally take longer to arrive.
+<br />- Please provide address !!!ENCRYPTED!!!, in all CAPS.
+<br />- Please use the following address format:</p>
+
+<p>YOUR NAME
+<br />123 N YOUR ST APT 1
+<br />CITY, ST 00000
+<br />*****************************************************************
+<br />FREE shipping option is ONLY for those customers who is
+<br />purchasing more than one item at a time. If that is the case,
+<br />you must choose regular shipping option first and then choose
+<br />FREE shipping for additional items purchase at the same time.
+<br />*****************************************************************
+<br />PGP encryption is REQUIRED for your address info!
+<br />BudMasterGeneral Public Key:</p>
+
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: GnuPG v2</p>
+
+<p>mQENBFTs/QsBCAD5fx+NeOtJQGUOcarkkPA246BdEQKsUEYYsGaRyJzsO8PtWH7C
+<br />69F7FA0PTHbSTlpCvan6tEMwDMUbSKwdcZ/6FaKsqpIpeNsSPLxu1XMXFjUzdynb
+<br />qP+WXYcl11Fs6oYwzXNjkDvGFVdLrksIoQrUSInrycsdMz56m3IcfmMQo/LVt8XL
+<br />VN4m6uIz6qs+8yabZQL734RaXKI0md/10epMAvF1vPNC1CU/Lw9ZviV5ejys1ooV
+<br />4BExVQVIoKqc5LTbppNae8nMFxK/JiMREJzEq5ow1izF/UdIspMwJNyO9ilPznR6
+<br />T+b3/UgeFkjfDhx9P3XAN0SEH7bZnKWSd+CRABEBAAG0MEJ1ZE1hc3RlckdlbmVy
+<br />YWwgPEJ1ZE1hc3RlckdlbmVyYWxAZmFrZW1haWwuY29tPokBOQQTAQIAIwUCVOz9
+<br />CwIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEHaDACaJZE4RpwsIAPHU
+<br />EsxWMOKbNN5HyxiHrAb3VwKL59B67BaLwa8okfYT/Dc1cN/Zve0RFVpjD2iIKREq
+<br />VShV4+R7nH0f7YdrnYYbTAsbG+Ju6Ntm5REcd4sf+ChvQ6e/WY+nP/yjvEm4hfPk
+<br />ZzAkvsYHCKWtf38kbbi3lvsNG5l3MUW1ygjpaUDapES2X0+PPugnn0e/rq6GzhI4
+<br />95HCMo4rvkg3b7GFSf+4VbrZ4MHJ/JKRx5tfklN0e3TpetFTGzAI+U/SApyDGlka
+<br />GU/dDgRAn9iCC2Qgyj6KUimM3T0V4+LIM+7YNH7MtA6J5vjHE4NywTXiGDnGHkk3
+<br />RqYcZwfkLotg4uwPZpO5AQ0EVOz9CwEIANqPsh8UgZrL+HAraYwmePTlEUk7kLHe
+<br />ecNTDVr42oB9luXMECunQT+MIUgbEL34gKE5tY6WrHV/XtulTYjFRB2AQ2yjj4eq
+<br />tTHC3gdgRr/cM4DstCtBXGRrOUTWBT0vYbFwbIjyeTXTk4ofppk7jA9/Mfwhnb5w
+<br />C+9G4XRSibrUNxp0vqMDSvtA6m+UV8zKBHvlXlgsTjvGjKqa7xA4yws/p+d6HMso
+<br />uE4DheNoLfwVheW/DxpycZibKZ87pEGToq03HXKAhZhyQ09BZnoQBx5mF91PlgA/
+<br />gV9vfzM+YGosGqKr/vKG7HuL9RH0uJ6SIk2SADPl6c4TZIaYSQwLzJMAEQEAAYkB
+<br />HwQYAQIACQUCVOz9CwIbDAAKCRB2gwAmiWROEe0FCACBcGmcxtww7+uqvS7sMC1c
+<br />hmfqRd1uYd4yB1EO+8TBKYXEVejRUnjmbhKiieKLowudMqTmda/wSYO/PXPDnfjY
+<br />gkBd0n9tEZZVvVlJ72muvZNNxATQU7K5nxWnE7kEslXYOklcyPsyCPnHeJAzasV/
+<br />UjyzKrl2r01P9gQaQfCoSLE/2LPgGMt6hfrS6EShtm7569AN/3Tbe6963OzS8IVP
+<br />on1omFZ5f7qvhH0V34HaGaF9DJBRU1J9bGZk46ONdiWMbCJPINBzVypk8I8plAtN
+<br />nUzrDSDM6zi25MWGjfo5OS9F5mTpQEm03RscWVyzTDuN/kdHAJtGTqq41MzM8dFa
+<br />=AH00
+<br />-----END PGP PUBLIC KEY BLOCK-----</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+perfect
+<em>(18.12.)</em>
+</td>
+<td><span>
+cu***oy
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 8.11 EUR (US DOMESTIC FLAT RATE Priority Ship) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/58944"><img src="/kuvat/tuotekuvat/346cc4658a7d43015916ea6c913adff4e212c7c5.jpg?1515740246" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/58944">Tarjous 15eur/g!!! White Widow x Chronic</a> (<span title='18 EUR'>18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/suomenninja">SuomenNinja</a></span>&nbsp;(<span class='green' title='Positive feedback'>1687</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99589"><img src="/kuvat/tuotekuvat/5c67a70436271ef737ca99733e2e5a9181206641.jpg?1506502906" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99589">1.2g Jack Herer | NDD/UK / Best Customer Service </a> (<span title='15 GBP'>17.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1347</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100340"><img src="/kuvat/tuotekuvat/3bd51829dcef1f4e1cd30077ae72cb406a538545.jpg?1508728913" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100340">2g - Super Silver Haze Dutch Import FREE UK SHIPPING</a> (<span title='15 GBP'>17.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90768"><img src="/kuvat/tuotekuvat/2a183f972e0ce1ddcae14c7dfe5eafa0b3a5c7f7.jpg?1490788002" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90768">Big Bud 1g/Outdoor/AAA</a> (<span title='14 USD'>11.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101512"><img src="/kuvat/tuotekuvat/f30d3c209f7cd07da30448b2cd6768213986d0a9.jpg?1511181273" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101512">2G SUPER POLM HASH</a> (<span title='17 EUR'>17&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>BATMAN Aresenal Tools Dab sTik </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

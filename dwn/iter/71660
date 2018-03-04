@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Dzk6B+Mx2oPf0bgYdxfmBywywOHnn83sqHJaLVc6tAjCnXSXV9Z6i5wUveUbayIT3Shm09Q+e9jvugi8CoyRHg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/359193d0d7f70418a10144afd489c41ebe79b938.jpg?1479474279"><img src="/kuvat/tuotekuvat/c945716cc26717be52322741144118d650b8c77c.jpg?1479474279" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>50 x 240ug Tree of Life LSD Blotter</h1>
+<ul class='list-unstyled specs'>
+<li>177 EUR <em>(0.022848 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dope-central">dope-central</a></span>&nbsp;(<span class='green' title='Positive feedback'>277</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>240ug Blotters laid in house by our team from 
+<br />High Grade White LSD, purity – 98%.
+<br />Sent from the netherlands – worldwide</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (2.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/24883"><img src="/kuvat/tuotekuvat/f2e7b7f0424c30d2150bab0cb1327ca82a094cb2.jpg?1455972756" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24883">50x Dutch LSD Blotters *160µg* - FREE SHIPPING!</a> (<span title='190 EUR'>190&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98316"><img src="/kuvat/tuotekuvat/5cc52ecb770a1bc7cbeb315e3edb198a8f42a01d.jpg?1502706701" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98316">100 2CB BLOTTERS</a> (<span title='150 EUR'>150&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23263"><img src="/kuvat/tuotekuvat/dde9e9d59e5f5b0b0fe44bc2b93b5c8b7b8a2e3e.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23263">50 LSD stamps Anonymous (180μg)</a> (<span title='245 USD'>198.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97832"><img src="/kuvat/tuotekuvat/ab3e12b7311e57a36e25ac55846907f9479bfde5.jpg?1501952978" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97832">100 LSD Blotters 150 ug, FE</a> (<span title='205 USD'>166.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102888"><img src="/kuvat/tuotekuvat/b11803e7258a0496eb7cb0b46902d3ca0cb668e6.jpg?1516423669" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102888">50 x 180ug LSD Blotters (Buddha)</a> (<span title='175.1 EUR'>175.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>428</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1701">LSD</a>
+</li>
+<li class='active'>50 x 240ug Tree of Life LSD Blotter</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

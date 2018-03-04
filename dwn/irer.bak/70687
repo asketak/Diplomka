@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PB7HbX0fSAZyBEYWMVhCF+Wql7GUNnZBT3+chUdfTGzxuon9yfjoDjHBQ+tdJIYDFLAxg6eXwHUIt84UGulpeg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/81625f126294c9248a8751ed9c403b6843ce4458.jpg?1479047784"><img src="/kuvat/tuotekuvat/3fcde995a62b5bd3528932dc02723cb22dc6dc1d.jpg?1479047784" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5 x  XTC RED LEVI'S 250MG </h1>
+<ul class='list-unstyled specs'>
+<li>37 EUR <em>(0.004776 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dutchstore">dutchstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>317</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>XTC RED LEVI'S 250MG pills
+<br />very strong, but nice comedown
+<br />see also pillsreport</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (2.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/96111"><img src="/kuvat/tuotekuvat/d3f061558d82f3248671a142b4599074295ebba3.jpg?1498743895" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96111">25 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23246"><img src="/kuvat/tuotekuvat/aa4b0a7b7e615da2d20e9d09f7d36ca18f3a4f94.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23246">25 Green WhatsApp XTC pills 160MG</a> (<span title='63 USD'>51.12&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23283"><img src="/kuvat/tuotekuvat/9b6b75797ea86e4dd481e7275b20178ddedcd53a.jpg?1455972448" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23283">25 Play Boy XTC pills 160MG</a> (<span title='58 USD'>47.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97884"><img src="/kuvat/tuotekuvat/fa6b70aa02b706ce8a7e3b5c6828b5c0987f14a3.jpg?1501956468" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97884">XTC PILLS 140 MG MDMA, 50 x FE </a> (<span title='52 USD'>42.19&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24893"><img src="/kuvat/tuotekuvat/55426782551ddd1a9a7f116536ba0e786d5a5d1a.jpg?1455972759" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24893">10 pcs. Yellow Playboy XTC pills *170mg* - FREE SHIPPING!</a> (<span title='28 EUR'>28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>5 x  XTC RED LEVI'S 250MG </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8Bb83ejjYARZdUqov+cKE7sQpb4tiFpjsl2EP/x7www9srJNXATADBqwT1XTm84HSgoDjB4p7Ff1ldauoc3mGg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8e722bff2ae778057efb8c3197d16e6bd0514c3e.jpg?1512119816"><img src="/kuvat/tuotekuvat/d0ac1410b528cefbdbff82da123d8e242c2062ad.jpg?1512119816" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>500 x 18mg 2CB Pill - UK NDD</h1>
+<ul class='list-unstyled specs'>
+<li>1472.44 EUR <em>(0.188999 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uEcvW3fN8+CbovS1wi151YyAHD3qljdLV8/Lz4s9pPx142HLwypT6Nhn8UiuUb3BfZq6D9k3gX8QB5le1ouB6g==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="650716">UK (1st Class RM FREE) (included)</option>
+<option value="650717">EU (Stadard Air Mail) (+10.74 EUR)</option>
+<option value="655129">WW (Standard Air Mail) (+16.99 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="101833" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ 
+<br />WELCOME TO TURPAN - YOUR UK HOME DELIVERY GUY 
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ </p>
+
+<p><b>500 x 2-CB pills</b>, each pill has 18mg of 2-CB. The powder is imported from China and the pills are pressed in the <b>UK</b>. The pills are small, multi-coloured stamp with smiley faces.</p>
+
+<p><b>• PRODUCT: </b>18mg 2-CB Pill
+<br /><b>• AMOUNT:</b> x 500
+<br /><b>• SHAPE: </b>UK pressed smiley faces
+<br /><b>• PACKAGING: </b>Flat pack envelope</p>
+
+<p>█ <b> DOSAGE </b>
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾</p>
+
+<p><i>I have found personally that one pill for and average sized adult is enough for a good trip/buzz however, for a more intense euphoria two is ideal. DO NOT over do it however, there's no showing off with trips... too many and the fun goes out the window.</i>		</p>
+
+<p><b>The PILLS you will receive are straight of the press and sourced directly from the manufacturer.</b></p>
+
+<p>█ <b> CONTACT Wickr ID: </b> Turpan
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾</p>
+
+<p>I can be contacted 24/7 via the Wickr messaging app. <b>Wickr ID: Turpan</b>   </p>
+
+<p>█ <b> BY ORDERING YOU ACCEPT THESE TERMS &amp; CONDITIONS IN THEIR ENTIRETY</b>
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾</p>
+
+<p><b> +++ SHIPPING COSTS +++ </b> </p>
+
+<p><b> UK </b> I offer free 1st Class Royal Mail shipping on ALL UK Mainland orders.
+<br /><b> EU </b> All postage costs are marked clearly on each listing according to country and weight.
+<br /><b> WW </b> - All Worldwide postage orders are made/accepted upon request.</p>
+
+<p><b> +++ ESCROW POLICY +++ </b> </p>
+
+<p><b> UK </b> (trusted buyers) - I offer full escrow on all UK orders up to an amount of £100
+<br /><b> UK</b>  (new buyers) - I require payment prior to postage (FE) for new buyers.
+<br /><b> EU/WW </b> - All international orders require payment prior to postage (FE).</p>
+
+<p><b> +++ RESHIP/REFUND POLICY +++ </b> </p>
+
+<p><b>All orders are sent with PROOF OF POSTAGE</b>, keeping a receipt in the case orders do not arrive I can prove items were sent and when. It is entirely up to us on a case by case basis on the resolution process. Please wait a full 7 working days before considering an order as none delivered.</p>
+
+<p><b> +++ IMPORTANT +++ </b> </p>
+
+<p><b>	Please contact me before leaving negative feedback. If for any reason you are not completely satisfied with your order I am happy to cooperate. Anything below 5/5 is not acceptable. </b></p>
+
+<p>█ <b> SHIPPING </b>  <i>Monday to Friday, same day dispatch before 2pm GMT</i>
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾</p>
+
+<p>Orders are sent via <i>1st class Royal Mail</i><b>(UK)</b> and <i>Standard Air Mail</i><b>(EU/WW)</b>. I take stealth very serious and would never jeopardize your security or safety. All packages blend with normal mail and raise minimal attention.</p>
+
+<p><b>PLEASE contact me before leaving negative feedback. Anything below 5/5 is not acceptable</b></p>
+
+<p>+++ PLEASE SUPPLY YOUR POSTAL ADDRESS IN THE FOLLOWING FORMAT +++</p>
+
+<p><i>FULL NAME (REAL)
+<br /><i>HOUSE NUMBER/STREET NAME
+<br /><i>TOWN/CITY
+<br /><i>COUNTY/REGION
+<br /><i>POSTAL/AREA/ZIP CODE</p>
+
+<p>█ <b> BULK DISCOUNT/CUSTOM ORDERS </b>
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾</p>
+
+<p>I am an honest and vendor and will always strive to reach fair prices for my clients regarding products/shipping on ALL bulk orders. Please just send a PM.</i></i></i></i></i></p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/99794"><img src="/kuvat/tuotekuvat/b58b83091cdc301bfc313d7d5fe630afbb2c6d32.jpg?1507003195" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99794">LSD - Morning Star [125mcg] - 500 tabs</a> (<span title='1350 USD'>1097.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102472"><img src="/kuvat/tuotekuvat/cb0d071616b627b09a63b76f9fa544bac9dac51f.jpg?1514332771" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102472">500x DOM 2.5mg DOM tabs (STP, 2,5-dimethoxy-4-methylamphetamine)</a> (<span title='1055 EUR'>1055&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/lucyskydiam0nds">LucySkyDiam0nds</a></span>&nbsp;(<span class='green' title='Positive feedback'>5</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38261"><img src="/kuvat/tuotekuvat/07d79e5ac601efd23f26562768ad1d83bb654b3f.jpg?1461423567" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38261">Proscaline 100g</a> (<span title='1294 USD'>1052.29&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102769"><img src="/kuvat/tuotekuvat/0116de6a3a8e38293e9948afb503487945e5177d.jpg?1515764828" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102769">1000 X CHAMPAGNE BOTTLES 2CB PILLS</a> (<span title='1200 EUR'>1200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24875"><img src="/kuvat/tuotekuvat/2e317946b0d0d6b63d579c1402f0bacbfbc2ed50.jpg?1455972755" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24875">500x Dutch LSD Blotters *160µg* - FREE SHIPPING!</a> (<span title='1935 EUR'>1935&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1707">2C-x</a>
+</li>
+<li class='active'>500 x 18mg 2CB Pill - UK NDD</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

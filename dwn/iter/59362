@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="it0CRp88am+Yv+upeVBRMLA3ozou976/byLk9bWfb0BHeUzWK9vKZ9t67lQVLJUkQS0FCB1WCIso6rZk6ClKVg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/99859e97eb50b6bfec6b663ffc146ea5f3e310aa.jpg?1472919009"><img src="/kuvat/tuotekuvat/7e801ad23c51e43976ca66b0a7e83ef60f7ce2f1.jpg?1472919009" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>U-47700 10g China</h1>
+<ul class='list-unstyled specs'>
+<li>153.81 EUR <em>(0.019727 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>China &rarr; Worldwide (<em>except</em> Ukraine, Belarus, Serbia, United States, China, Russia, Indonesia, Pakistan)</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ESkRMTh2EtQz+W/+ETg5kx2ytwQQAyNalriEwFVQkXncjV+hjJGy3HA8agN9RP2H7KgRNiOilW7RcNZRCOa0bw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="258754">EMS (included)</option>
+<option value="258755">Fedex/TNT/DHL (+16.28 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="59362" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Lab tested product purity around 98%.
+<br />Do not miss your chance to purchase this great product.</p>
+
+<p>U-47700 is an opioid analgesic drug developed in the 1970s. U-47700 was derived from an earlier opioid AH-7921. </p>
+
+<p>★★ Chemical has similar pharmacological properties to following products ★★</p>
+
+<p>Heroin, Fentanyl, Hydrocodone, Opium, Oxycodone</p>
+
+<p>◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ 
+<br />Delivery directly from China. A fake invoice and value will be used to avoid any delays with your domestic customs.</p>
+
+<p>★★ Please provide following information that we can ship your order ★★</p>
+
+<p>⚫ First and Second name
+<br />⚫ Street name, house number
+<br />⚫ Zip code, City
+<br />⚫ Country
+<br />⚫ Tel: ( can be fake)</p>
+
+<p>Check our reviews by yourself for your safety on grams!
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0x5B9EA6C20C6F080B</p>
+
+<p>Found cheaper price elsewhere? Provide vendor name and we will match the price.</p>
+
+<p>★★ PLEASE CHECK LATEST REFUND POLICY ALWAYS ON OUR VENDOR PAGE ★★</p>
+
+<p>PM with any questions.</p>
+
+<p>◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ 
+<br />ALL PRODUCTS SOLD ARE NOT FOR HUMAN CONSUMPTION.
+<br />DO NOT ORDER IF YOU DO NOT ACCEPT THESE CONDITIONS.
+<br />◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 31.74 EUR (EMS) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/16768"><img src="/kuvat/tuotekuvat/68cd756f3d14a16136aa48589200a71bc7fa6e87.jpg?1484476712" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16768">5G TSC&#39;s Original Spanish Bayer Opium ~ FE PRICE ~</a> (<span title='223.49 USD'>181.88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/the-scurvy-crew">The Scurvy Crew</a></span>&nbsp;(<span class='green' title='Positive feedback'>666</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87557"><img src="/kuvat/tuotekuvat/a879cfe93e3d1142f6d8260c43d67f34803f4134.jpg?1488645152" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87557">[US-US] 20 TABS x Oxycodone 30mg K9 imprint $149.99 HIGH QUALITY!</a> (<span title='167.98 USD'>136.7&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16442"><img src="/kuvat/tuotekuvat/edaf1b4f7274dadc19bb3724d492cc9e2396394b.jpg?1480861477" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16442">!!!PROMO PRICE!!!5g Premium Bayer Opium FE </a> (<span title='174.98 USD'>142.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>788</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11384"><img src="/kuvat/tuotekuvat/155103066f51c8c2498e15297c72350f911453d4.jpg?1500032216" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11384">Heroin H3, 5g</a> (<span title='178 EUR'>178&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/19864"><img src="/kuvat/tuotekuvat/1b6f887742f2c979fb76f40793252304b9d78a1d.jpg?1518724695" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/19864">75x Codeine 15 MG Pills (Loose)</a> (<span title='180 USD'>146.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1304">Fentanyl</a>
+</li>
+<li class='active'>U-47700 10g China</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

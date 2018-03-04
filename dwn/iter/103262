@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BOGffD6Jk5mZTMaebj87zDwA8ctGUPW/EtShsToQMDfJRdHsim4zkdqJw2MCQ//YzRpX+XXxQ4tVHPMgZ6YVIQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/48db8b47070d88a5e49bf8cc0e7cdd2126ff0f95.jpg?1517787902"><img src="/kuvat/tuotekuvat/5187dfdd6a94cf37f3cd52c4e75b161a2c805824.jpg?1517787902" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>GHRP-2 5mg </h1>
+<ul class='list-unstyled specs'>
+<li>25 EUR <em>(0.003209 BTC)</em></li>
+<li>21 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, Germany</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dsN0o6JiqdSSAyLiSwYV72dIcl8vF6L3/zA0Hxeg/5G7ZzozFoUJ3NHGJx8netH7llLUbRy2FMO4+GaOShbahw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103262" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>GHRP-2 is a synthetic agonist of ghrelin, the newly-discovered gut peptide which binds to the growth hormone (GH) secretagogue receptor. Ghrelin has been shown to have two major effects, stimulating both GH secretion and appetite/meal initiation. GHRP-2 has been extensively studied for its utility as a growth hormone secretagogue (GHS). Animal studies have shown its effect on food intake. However, whether GHRP-2 can also stimulate appetite in humans when administered acutely is not known. We subcutaneously infused 7 lean, healthy males with GHRP-2 (1μg/kg/h) or saline for 270 minutes and then measured their intake of an ad libitum, buffet-style meal. Similar to what has been reported for ghrelin administration, our subjects ate 35.9±10.9 % more when infused with GHRP-2 vs. saline, with every subject increasing their intake even when calculated per kg body weight (136.0±13.0 kJ/kg vs 101.3±10.5 kJ/kg, p=0.008). The macronutrient composition of consumed food was not different between conditions. As expected, serum GH levels rose significantly during GHRP-2 infusion (AUC 5550±1090 μg/L/240 min vs. 412±161 μg/L/240 min, p=0.003). These data are the first to demonstrate that GHRP-2, like ghrelin, increases food intake, suggesting that GHRP-2 is a valuable tool for investigating ghrelin effects on eating behavior in humans.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/55188"><img src="/kuvat/tuotekuvat/c0b94270667cd5b78404bdcdc90a5bfac11aaf75.jpg?1482013557" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55188">Cerberus Pharma Test Enanthate 250mg/ml 10ml multivial</a> (<span title='32 GBP'>36.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/34121"><img src="/kuvat/tuotekuvat/186554ff97adab950339e4d1c9d838150930d2de.jpg?1511813237" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34121">NovoRapid FlexPen 3ml/300iu</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99945"><img src="/kuvat/tuotekuvat/94b0b94256e51d7ddb08a47adfa0a86f8c8d616a.jpg?1515518337" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99945">Tamoxifen (Nolvadex) - 50 tb/20 mg - Nas Pharma </a> (<span title='33 EUR'>33&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52350"><img src="/kuvat/tuotekuvat/97d30b263804558d4a1e97d54fc4300a6df8d82f.jpg?1468415546" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52350">Finasteride 5 | 60 tabs (5 mg/tab) - Balkan Pharmaceuticals</a> (<span title='44 USD'>35.78&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98431"><img src="/kuvat/tuotekuvat/b09fac638c9721c6a953c01ef582a62cce6e0006.jpg?1502954802" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98431">Clomiphene / Clomid (Clomiphene Citrate) - 10x50mg (UUTUS!)</a> (<span title='27 EUR'>27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>GHRP-2 5mg </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t9GidJljtLET/9u7XyJDggsguTIu7pmZJYcOBD9x8V56dezkLYQUuVA63kYzXoeW+jofAB1PL61iT1yVYsfUSA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Cocaine production at home. The original unique service.99% pure</h1>
+<ul class='list-unstyled specs'>
+<li>28.48 EUR <em>(0.003677 BTC)</em></li>
+<li>15 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/cocainecowboyab">CocainecowboyAB</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pJNdRntt8ys6MotSk3l5WqsHjKeBXPNqZOBfIBDOFuNpNxPWz4pTI3n3jq//Bb1OWh0qlbL9RV4jKA2xTXgz9Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="410256">Domestic (included)</option>
+<option value="410257">International (+0 EUR)</option>
+<option value="410258">Registered &amp; tracked (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="80455" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This is MY own original work, Nobody on the darkweb can offer the support and help that I can with this unique and valuable service. I have alot of knowledge and experience and have helped many many people achieve success. Making you own high quality cocaine is now a possibility, if you wish to take part, learn and put into practice your new found skills. Do not accept any imitations of this guide.</p>
+
+<p>This is the original cocaine guide with reliable cheap sources for leaf, chenicals and equipment, along with my own unlimited professional private help.</p>
+
+<p>So, I am putting for sale a guide for producing your very own cocaine at home at 99%+ purity. The best cocaine you will ever have and at a fraction of the cost you will pay on the street. It's easy to learn. I provide full details of sources to buy the coca leaf, disguised as another innocent looking product and also re labelled by the supplier, so it passes customs around the world.</p>
+
+<p>5g of 99% purity cocaine can be produced using the guide I am offering for less than £50. (first time round total cost will be about £150 due to initial set up costs. After you have acquired the chemicals and equipment needed, you will just restock on coca leaf which costs less than £50 for enough to make 5g of cocaine)</p>
+
+<p>To make 5g of cocaine It only takes takes a matter of hours to complete the process.You can make as much as you like, as often as you like. The process is easily scaled up; 1g takes the same time to make as 100g.</p>
+
+<p>E.g 1g of 70-80% purity cocaine sells for around £150-£180 on the streets of Europe. Its poor quality cocaine at best.</p>
+
+<p>With this procedure you will be able to produce some of the most amazing cocaine you have ever laid eyes on or had the opportunity to grace your nostrils with. It is a priceless thing to know how to perform. You will make it for a fraction of the usual cost and end up with a product many times better than the standard you may be used to.
+<br />Its very fluffy and light when done correctly, so it looks two or three times the size of a bag of street pure cocaine at the same weight, Beautifully shimmering, pearlescent flakes that break apart when you crush it. It melts to no residue on your fingers when rubbed. If you don't want to go the full way and get to the finished hydrochloride, Cocaine freebase for smoking is easily produced with equal yields. (5g pure bell-ringer freebase for under £100)</p>
+
+<p>Its great cocaine when produced properly you wont want to let it go - only to the best of friends maybe.. You will see, taste and feel the difference.</p>
+
+<p>Not much space or time is needed to complete the full procedure.</p>
+
+<p>The procedure will explain in detail, and with information on where to obtain the required materials such as the coca its self, and other required basic household chemicals, as follows:</p>
+
+<p>Removing coca freebase from coca leaf.
+<br />Cleaning and purification of freebase to pure freebase for smoking or working up to cocaine hydrochloride to sniff.
+<br />Cocaine hydrochloride crystallization &amp; pressing the end product to high quality flake by hand.
+<br />The chemicals can be bought from most hardware stores and DIY shops. They are quite easy to find. It is not a costly procedure, and even more profitable once you have purchased the chemicals needed ( They will last for a long time and you will use small quantities) They are also easily bought online without arousing any suspicion as they each serve a legitimate household use.</p>
+
+<p>Huge vendor on Evolution, Alphabay, Nucleus, BlackBank, Dream, Abraxas, Crypto and Amazondark, as well as many others. </p>
+
+<p>-1000+ Sales across markets 36 months+ Vending -Level 5 Seller</p>
+
+<p>YEARS OF EXPERIENCE</p>
+
+<p>Evolution Thread had over 900 replies and 80,000+ views. Nucleus Thread 100,000 views. Deepdotweb forum 150,000 views</p>
+
+<p>Feel free to message with any questions at any time for a quick and detailed friendly response.</p>
+
+<p>Thanks for looking, it'll be great to work with you!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/39292"><img src="/kuvat/tuotekuvat/fb766b6784f09be9529fa410509dbed05822a490.jpg?1461762280" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39292">★ FRENCH PASSPORT SCAN ★</a> (<span title='30 USD'>24.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/88487"><img src="/kuvat/tuotekuvat/795183b44f2d64679564dab79cec6203b4ba279d.jpg?1489312259" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/88487">500$ US Paypal  Balance + 500$ PP Acc For Free [ SUPER OFFER ]</a> (<span title='50 USD'>40.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94799"><img src="/kuvat/tuotekuvat/8367c386b1e610e9ddbe98da8487689a605548fa.jpg?1496142073" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94799">SUPER SHEMALE PACKAGE!!! SUPER PROMOTION</a> (<span title='29.99 USD'>24.33&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/wendy">Wendy</a></span>&nbsp;(<span class='green' title='Positive feedback'>318</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/32269"><img src="/kuvat/tuotekuvat/df8b23f6b753af9ee42aa3217e69b69d8f6e3e22.jpg?1458223050" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32269">1 x FR CC</a> (<span title='30 USD'>24.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/6502"><img src="/kuvat/tuotekuvat/4dfb9536f99ed12d68348830e82b9afc1eb0ab17.jpg?1455969368" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/6502">PayPal Accounts</a> (<span title='30 EUR'>30&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/isellpizza">isellpizza</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2901">Guides and tutorials</a>
+</li>
+<li class='active'>Cocaine production at home. The original unique service.99% pure</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

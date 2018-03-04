@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lxh6K1o+xbIbcjdZ8iapnwnNv+emCJbn2xpzq5zuaCdavDS77tlluli3MqSeWm2L+NcZ1ZWpINOc0iE6wVhNMQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d40dd3a3bbbf991a9544414859d1b0c05d1217b0.jpg?1474954806"><img src="/kuvat/tuotekuvat/599b80aa5784e55e65ebf14a4ea4fd715456d60b.jpg?1474954806" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Stash Your Swag: 100 Secret Hiding Places</h1>
+<ul class='list-unstyled specs'>
+<li>0.81 EUR <em>(0.000103 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/captain_kirk">captain_kirk </a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MkZvpiUuI+1zaFy+VDdW9d57Vxym5I6gh7TxUAUTOHb/4iE2kcmD5TCtWUM4S5LhL2HxLpVFOJTAfKPBWKUdYA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="62735" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>The economy is stressed and political uncertainty growing everyday. With rampant joblessness and rising crime levels people are becoming more concerned then ever with protecting their valuables. This manual is an illustrated guide to hiding money and swag around your house and yard. Most of the ideas in this book are easy to implement and cost nothing to set up. With some forethought and a little preparation you can protect your family heirlooms from burglars, nosey friends or family members and overreaching government officials.</p>
+
+<p>----------------------------------------------------------</p>
+
+<p>This ebook is in .pdf format</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/32469"><img src="/kuvat/tuotekuvat/20c3ddf4299b431df0ad25d92bfa4f4a407de186.jpg?1458321363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32469">Male Multiple Orgasms Guide</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/66420"><img src="/kuvat/tuotekuvat/0a4575c3138304dd2bb75a19c95c7328b3b5c6ad.jpg?1476663564" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66420">♕ DIAMOND RAT || LOTS OF FEATURES ♕</a> (<span title='1.49 USD'>1.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99410"><img src="/kuvat/tuotekuvat/cb8714f652db353880ea92aacdbab7d71a82a692.jpg?1505962481" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99410">YouTubify v1.9 [FAST SHIPPING]</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79573"><img src="/kuvat/tuotekuvat/0d568f3013f7617cf2df87227f0b829ab0becfa7.jpg?1484159831" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/79573">Napster Premium Account |LIFETIME WARRANTY|</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/acc4btc">acc4btc</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39335"><img src="/kuvat/tuotekuvat/9cafb57918680631bf5be5006b437f235eab9943.jpg?1461764436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39335">BEST CANNABIS RECIPES ******DELICIOUS*****</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2905">Ebooks</a>
+</li>
+<li class='active'>Stash Your Swag: 100 Secret Hiding Places</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

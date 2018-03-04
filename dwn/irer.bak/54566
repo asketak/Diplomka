@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="umt4vrFN5swPtNtEhXnBMNVA9I/q6bqSS4/HpITWo293zzYuBapGxExx3rnpBQUkJFpSvdlIDKYMR5U12WCGeQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/81c71379619fa0dc271a61e4919fac50cb008f8d.jpg?1479382097"><img src="/kuvat/tuotekuvat/b41d036fffbadaf0d6ce5677ec8a4e60df3f0fb6.jpg?1479382097" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>tobacco blond 70g</h1>
+<ul class='list-unstyled specs'>
+<li>11 EUR <em>(0.001411 BTC)</em></li>
+<li>4 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/xscalex">XscaleX</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Spain &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia, United States, Canada</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="T7WR2pVX0+Roneh1emWGuW4nxwlIwgna5xMeHxb135CCEd9KIbBz7CtY7YgWGUKtnz1hO3tjv+6g20yOS0P6hg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="231133">international EU 1-2 ITEMS (included)</option>
+<option value="231134">International US (+6 EUR)</option>
+<option value="342356">International EU 2-4 ITEMS (+4 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="54566" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Fine cut rolling tobacco, blond without humectans.
+<br />Unbranded, vacuum. I bought for my self but I find it very good, blond and suave, probably taked from some big manufacturer of tobacco...to taste...</p>
+
+<p>★★★★★★★★★★★★ SHIPPING ★★★★★★★★★★★★</p>
+
+<p>Your product will be sent within 24h except on weekends (Saturday, Sunday)
+<br />It will then wait for Monday.
+<br />Shipping Days:</p>
+
+<p>- Monday
+<br />- Tuesday
+<br />- Wednesday
+<br />- Thursday
+<br />- Friday (orders placed before 12:00 FR time)</p>
+
+<p>The product is shipped discreetly (no odor or visibility)</p>
+
+<p>Once you have confirmed receipt of the product, I will delete all your messages / personal information immediately and irrevocable. I assure you the intimacy possible.</p>
+
+<p>Please contact me before leaving negative feedback. I am 100% sure we can work something out!</p>
+
+<p>Do not hesitate to contact me if you need further information.</p>
+
+<p>★★★★★★★★★★★★ Reship &amp; Refund ★★★★★★★★★★★★</p>
+
+<p>★ We offer a 100 % resend upon presentation of a notice of seizure. If your package hasn't arrived after the given time frames and you didn't receive any notice of seizure, please send us a message and we will see what can be done.</p>
+
+<p>★ We offer a 50 % resend if there is no notice of seizure.</p>
+
+<p>★ We offer no resend if your feedback is 3 or lower, you must have made 3 succesfull transactions on the market to get a 50% resend.</p>
+
+<p>★ If the site is down you can mail us at: XxscalexX@sigaint.org </p>
+
+<p>Terms and conditions of XscaleX</p>
+
+<p>★★★★★★★★★★★★ SHIPPING ★★★★★★★★★★★★</p>
+
+<p>Your product will be sent within 24h except on weekends (Saturday, Sunday)
+<br />It will then wait for Monday.
+<br />Shipping Days:</p>
+
+<p>- Monday
+<br />- Tuesday
+<br />- Wednesday
+<br />- Thursday
+<br />- Friday (orders placed before 12:00 FR time)</p>
+
+<p>The product is shipped discreetly (no odor or visibility)</p>
+
+<p>Once you have confirmed receipt of the product, I will delete all your messages / personal information immediately and irrevocable. I assure you the intimacy possible.</p>
+
+<p>Please contact me before leaving negative feedback. I am 100% sure we can work something out!</p>
+
+<p>Do not hesitate to contact me if you need further information.</p>
+
+<p>★★★★★★★★★★★★ Reship &amp; Refund ★★★★★★★★★★★★</p>
+
+<p>We offer a 65 % resend upon presentation of a notice of seizure. If your package hasn't arrived after the given time frames and you didn't receive any notice of seizure, please send us a message and we will see what can be done.</p>
+
+<p>We offer a 50 % resend if there is no notice of seizure.</p>
+
+<p>We offer no resend if your feedback is 6 or lower, you must have made 4 succesfull transactions on the market to get a 50% resend.</p>
+
+<p>If the site is down you can mail us at: XxscalexX@sigaint.org</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 4.0 EUR (international EU 1-2 ITEMS) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

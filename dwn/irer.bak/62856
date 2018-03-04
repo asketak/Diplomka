@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tXeCsYIExoO3Gv8b23YcfotIruTZLURJZ361FvDp1g9408whNuNmi/Tf+ua3CthqelII1uqM8n0gtueHrV/zGQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/60fe62c81a223ab142888a7a8824f8cd44327f22.jpg?1474958736"><img src="/kuvat/tuotekuvat/da2129f636e242c726fabc084940aa935e903d4e.jpg?1474958736" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Giant Collection of UFO eBooks</h1>
+<ul class='list-unstyled specs'>
+<li>0.81 EUR <em>(0.000103 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/captain_kirk">captain_kirk </a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1wPQiuJZxkdTWx0J2h5qHVAaq3sLEtFnHmalEDKSxAMap54aVr5mTxCeGPS2Yq4JoQANSTizZ1NZrveBbyThFQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="62856" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This is my giant collection of UFO books (volume 1) on PDF. I uploaded this because I looked all over and there wasn't any good collections of UFO books on any darknet sites. All of these except for a couple can be easily converted for your ebook reader with Calibre. At least half of these are just crazy ramblings of lunatics. The other half are from respected authors who are experts in their field. Enjoy.</p>
+
+<p>Content:</p>
+
+<p>A Paranormal Story - Jeff Behnkepdf
+<br />A Wanderers Handbook - Carla Rueckert
+<br />Alien Abductions - A Critical Reader
+<br />Alien Encounters - Chuck Missler
+<br />Alien Initiations - Harald Kleemann
+<br />Alien Interview - Matilda O'Donnell MacElroy
+<br />Alien Mind - A Primer - George LoBuono
+<br />Alien Revelation - Tony Ruggiero
+<br />Alien Within - Richard Allen
+<br />Allies of Humanity Book 1 - Marshall Summers
+<br />An Introductory Guide to Ufos - Robert Morore
+<br />Andromeda - Robert Shapiro
+<br />Angels in Starships - GIORGIO DIBITONTO
+<br />Angels, Women, Sex and the Occult - William F. Dankenbring
+<br />Atlantis, Alien Visitation, and Genetic Manipulation - Michael Tsarion
+<br />Barbara - The Story of a UFO Investigator
+<br />Behold a Pale Horse - Milton Cooper
+<br />Bringers of the Dawn - Barbara Marciniak
+<br />Chasing Phantoms - Carissa Conti
+<br />Come Sail Away - Guy Malone
+<br />Communication With Extraterrestrial Intelligence - LD Callimahos
+<br />Communion - Whitley Strieber
+<br />Contact With Alien Civilizations - Michael A.G. Michaud
+<br />Cosmic Explorers - Courtney Brown
+<br />Cosmos - Carl Sagan
+<br />CRASH AT CORONA - Stanton Friedman
+<br />Creatures in the Mist - Gary R. Varner
+<br />Crop Circles A Beginner's Guide - Hugh Manistre
+<br />Crop Circles Signs of Contact - Colin Andrews
+<br />Dark Object - Don Ledger and Chris Styles
+<br />Discerning Alien Disinfo - Montalk
+<br />Disclosure Military and Government
+<br />Disneyland of the Gods - John Keel
+<br />Divine Encounters - Zecharia Sitchin
+<br />DMT The Spirit Molecule - Rick Strassman
+<br />E.T. Talk - Fernando J. Ballesteros
+<br />Encyclopedia of Mind Control - Jim Keith
+<br />Erich von Daniken - Chariots Of The Gods
+<br />Erich von Daniken - Miracles Of The Gods
+<br />Erich von Daniken - Return To The Stars
+<br />Erich von Daniken - The Gold Of The Gods
+<br />ET Contact - Gina Lake
+<br />Evidence - David Sereda
+<br />Exopolitics A Comprehensive Briefing - Ed Komarek
+<br />Extraordinary Encounters - Jerome Clark
+<br />Extraterrestrials and Aliens - Various Info
+<br />Extraterrestrials Where Are They - Ben Zuckerman and Michael Hart
+<br />Facts and Stories - Unknown Author
+<br />Fire From the Sky - Contact Journal
+<br />Firefighters FEMA UFO Training Manual
+<br />First Contact - Billy Meier
+<br />Flying Saucers Fact or Fiction - Max Miller
+<br />Flying Saucers Have Landed - George Adamski
+<br />Fringe Knowledge For Beginners - Montalk
+<br />Genesis for the New Space Age - John B. Leith
+<br />Genesis Revisited - Zecharia Sitchin
+<br />George Adamski - The Story of a UFO Contactee
+<br />Giants, Nephilim, and the ancient Egyptians - Jeremy Kapp
+<br />God Drives A Flying Saucer - R.L. Dione
+<br />High Strangeness Of Dimensions - Laura Knight-Jadczyk
+<br />Hitlers Flying Saucers - Henry Stevens
+<br />How to Refuse Alien Abduction - Lightside UFO Study Group
+<br />I Forgot What I Wasn't Supposed to Remember - K Wilson
+<br />Inside Saucer Post 3 - Leonard Stringfield
+<br />Inside the Spaceships - George Adamski
+<br />Intelligent Design - Rael
+<br />Into The Bermuda Triangle - Gian J. Quasar
+<br />Into the Fringe - Karla Turner
+<br />Is Another World Watching - Gerald Heard
+<br />Jacques Vallee - Confrontations - A Scientist's Search for Alien Contact
+<br />Jacques Vallee - Dimensions - A Casebook of Alien Contact
+<br />Jacques Vallee - Passport to Magonia
+<br />Jacques Vallee - Revelations - Alien Contact and Human Deception
+<br />John E. Mack on Dreamland
+<br />Keepers of the Garden - Dolores Cannon
+<br />Legacy from the Stars - Dolores Cannon
+<br />Leslie Kean - UFOs- Generals, Pilots &amp; Government Officials Go On the Record
+<br />Lost Book of Enki - Zecharia Sitchin
+<br />Mars As The Abode of Life - Percival Lowell
+<br />Masquerade of Angels - Karla Turner
+<br />Meiers Summary of Contact
+<br />Messages from the Stars - Ian Ridpath
+<br />Mothman Prophecies - John Keel
+<br />My Contact with Flying Saucers - Dino Kraspedon
+<br />My Trip to Mars - William Ferguson
+<br />Mysterious Beings - John Keel
+<br />Mysterious Visitors - UFO Story
+<br />Nasa Mooned America - Ralph Rene
+<br />New Lands - Charles Fort
+<br />Occult Science Dictatorship - William Lyne
+<br />Operation Trojan Horse - John Keel
+<br />Other Tongues Other Flesh - George Hunt Williamson
+<br />Our Haunted Planet - John Keel
+<br />Penetration - Ingo Swann
+<br />Pentagon Aliens - William Lyne
+<br />Physics of a Flying Saucer - Ted Roach
+<br />RattleSnake Fire - Jean Eisenhower
+<br />Regional Encounters - The FC Files
+<br />Return of the Star Gods - Richard Vizzutti
+<br />Roswell Testimony - Christopher Schmidt
+<br />Secret Cipher of the Ufonauts - Allen Greenfield
+<br />Secret of the Ages UFOs Inside the Earth - Brinsley le Poer Trench
+<br />Secret Projects Flying Saucer Aircraft - Bill Rose and Tony Buttler
+<br />Sedona UFO Connection - Richard Dannelley
+<br />Skeptics Guide to the Paranormal - Lynne Kelly
+<br />Son of the Sun - Orfeo Angelucci
+<br />Stairway to Heaven - Zecharia Sitchin
+<br />Star Gods of the Maya - Susan Milbrath
+<br />Star Kids - Richard Boylan
+<br />Steps to the Stars - Daniel Fry
+<br />Strange Evidence - Bill Chalker
+<br />Strangers From The Skies - Brad Steiger
+<br />Taken - Karla Turner
+<br />Tbird vs The Flying Saucers - Michael Topper
+<br />The 12th Planet - Zecharia Sitchin
+<br />The Agenda - Beverly Fox
+<br />The Bible and Flying Saucers - Barry H. Downing
+<br />The Book of Enoch
+<br />The Book of the Damned - Charles Fort
+<br />THE CAPE MAY INCIDENT - John Keel
+<br />The Case for the UFO - Varo Jessup Edition
+<br />The Coming of the Gods - Jean Sendy
+<br />The Cosmic Code - Zecharia Sitchin
+<br />The Cosmic Conspiracy - Unknown Author
+<br />The Council of Seven Lights - George Van Tassel
+<br />The Custodians - Dolores Cannon
+<br />The Day After Roswell - Philip J. Corso
+<br />The Dulce Book - Branton
+<br />The End of Days - Zecharia Sitchin
+<br />The Eye of Ra Book Two - Truman Cash
+<br />The Fire Came By - John Baxter and Thomas Atkins
+<br />The Flying Saucers Are Real - Donald Keyhoe
+<br />The Gods of Eden - William Bramley
+<br />The Great Flying Saucer Wave - Michael Hall
+<br />The Greatest Thing Ever Known - Ralph Waldo Trine
+<br />The Hynek UFO Report - Allen Hynek
+<br />The Janos People - Frank Johnson
+<br />The Lacerta File 1 and 2
+<br />The Lost Realms - Zecharia Sitchin
+<br />The Man Who Invented Flying Saucers - John Keel
+<br />The Mars Records 1 - Stephanie Relfe
+<br />The Mars Records 2 - Stephanie Relfe
+<br />The Official Guide to UFOs
+<br />The Omega File - Branton
+<br />The Otherness - Tim Watts
+<br />The Pleiadian Mission - Randolph Winters
+<br />The Politics of Extraterrestrials - Patrick Sullivan
+<br />The Programming of a Planet Book One - Truman Cash
+<br />The Report on Unidentified Flying Objects - Edward_Ruppelt
+<br />The Science of Extraterrestrials - Eric Julien
+<br />The Search For Extraterrestrials - Monte Ross
+<br />The Secret of the Saucers - Orpheo Angelucci
+<br />The Secret Rituals of the Men in Black - Allen Greenfield
+<br />The Secrets of the Mojave - Branton
+<br />The Threat - David Jacobs
+<br />The True Origin of the Flying Saucers - Dr. Raymond Bernard
+<br />The UFO Enigma - The Other Side
+<br />The White Sands Incident - Daniel Fry
+<br />They Rode in Spaceships - Gavin Gibbons
+<br />Thiaoouba Profecy - Michel Desmarquet
+<br />Those Gods Who Made Heaven and Earth - Jean Sendy
+<br />UFO Contact From Iarga - W. Stevens
+<br />UFO Contact From Planet Koldas - Karl van Vlierden
+<br />UFO Contact From Planet Ummo
+<br />UFO Contact From the Pleiadies - W. Stevens
+<br />UFO Contacts 1961 - Rob Renaud
+<br />UFO Documents - FBI Top Secret Files
+<br />UFO Ohare Airport Documents
+<br />UFO Religion Inside Flying Saucer Cults - Gregory Reese
+<br />UFOs - Generals, Pilots And Governmant Officials Go On Record - Leslie Kean
+<br />UFOs A Scientific Enigma - D.A.J. Seargent
+<br />UFOs an Air Force Dilemma - Hector Quintanilla
+<br />UFOs and Aliens - Preston Dennett
+<br />UFOs And Popular Culture - James Lewis
+<br />UFOs Anti Gravity Piece For A Jigsaw - L G Cramp
+<br />UFOs Are Real - Clifford Stone
+<br />Warning Alien Agenda Revealed - Art Greenfield
+<br />Wars of Gods and Men - Zecharia Sitchin
+<br />We Met the Space People - Helen and Betty Mitchell
+<br />When Time Began - Zecharia Sitchin
+<br />Who Are the Draconians - Branton
+<br />Why UFOs - John Keel
+<br />Wild Talents - Charles Fort
+<br />Witness to Roswell - Donald Schmitt and Thomas Carey</p>
+
+<p>--------------</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/32469"><img src="/kuvat/tuotekuvat/20c3ddf4299b431df0ad25d92bfa4f4a407de186.jpg?1458321363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32469">Male Multiple Orgasms Guide</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/66420"><img src="/kuvat/tuotekuvat/0a4575c3138304dd2bb75a19c95c7328b3b5c6ad.jpg?1476663564" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66420">♕ DIAMOND RAT || LOTS OF FEATURES ♕</a> (<span title='1.49 USD'>1.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99410"><img src="/kuvat/tuotekuvat/cb8714f652db353880ea92aacdbab7d71a82a692.jpg?1505962481" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99410">YouTubify v1.9 [FAST SHIPPING]</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79573"><img src="/kuvat/tuotekuvat/0d568f3013f7617cf2df87227f0b829ab0becfa7.jpg?1484159831" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/79573">Napster Premium Account |LIFETIME WARRANTY|</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/acc4btc">acc4btc</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39335"><img src="/kuvat/tuotekuvat/9cafb57918680631bf5be5006b437f235eab9943.jpg?1461764436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39335">BEST CANNABIS RECIPES ******DELICIOUS*****</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2905">Ebooks</a>
+</li>
+<li class='active'>Giant Collection of UFO eBooks</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

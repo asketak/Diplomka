@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IdcsaESf51oY/4wH9FqKoTM+VQLdOW26i8QEOaV9wWnsc2L48HhHUls6ifqYJk61wiTzMO6Y247MDFao+Mvkfw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/c1f626760f2b9d511d265342dcbba3b9b6445453.jpg?1486869384"><img src="/kuvat/tuotekuvat/d2978b1516081c7e84327e9beb04b0e3649c437f.jpg?1486869384" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Dec 300  Test C 250  Test E 250  Geneza Pharmaceuticals</h1>
+<ul class='list-unstyled specs'>
+<li>50 EUR <em>(0.00642 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="u5tjEuRyEk9jpMFXFssHjJjtYf6QU5BozH17FSGlsQF2Py2CUJWyRyBhxKp6t8OYaffHzKPyJlyLtSmEfBOUFw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="85227" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Visit our website and place your order online.</p>
+
+<p>www.onlinepharmaceuticalmeds.com</p>
+
+<p>PLACE YOUR ORDER NOW ONLINE: www.onlinepharmaceuticalmeds.com
+<br />Buy Top  quality  Gear  Geneza Pharmaceuticals</p>
+
+<p>Growth Hormones
+<br />Ansomone,
+<br />Hygetropin,
+<br />Kigtropin,
+<br />Igtropin IGF,
+<br />Jintropin ,
+<br />HGH Blue Top,
+<br />IGF-1LR3</p>
+
+<p>Anabolic Steroids
+<br />Perfect PCT 
+<br />Caber - 1mg (10 pack) 
+<br />T3 - 100mcg 
+<br />DNP - 100mg x 100 
+<br />T4 - 200mcg 
+<br />Red Clen - 100mcg 
+<br />Ciagra - 50mg 
+<br />PCT Bridge - $125
+<br />Ambien - 10mg x 20 </p>
+
+<p>Oral Tablets  (50 Count)
+<br />DBOL - 50mg 
+<br />Anavar - 25mg 
+<br />Anavar - 50mg 
+<br />Winstrol - 50mg 
+<br />Anadrol - 50mg 
+<br />Tbol - 20mg 
+<br />Superdrol - 20mg 
+<br />Halotestin - 10mg 
+<br />Proviron - 25mg 
+<br />Winivar - 50mg 
+<br />Dianadrol - 50mg 
+<br />Halovar - 30mg 
+<br />Alphadrol - 60mg 
+<br />Cheque drops - 200mcg 
+<br />“Red” Clen - 100mcg </p>
+
+<p>Oral Suspensions (30ml)
+<br />Dbol 50mg 
+<br />Anadrol 50mg 
+<br />Anavar 20mg 
+<br />Anavar 50mg 
+<br />Clomid 50mg 
+<br />Nolva 20mg 
+<br />Adex 2mg 
+<br />Letro 5mg 
+<br />Proviron 50mg 
+<br />Clen 200mcg 
+<br />Winstrol 50mg 
+<br />T3 200mcg 
+<br />Aromasin 25mg 
+<br />Tbol 20mg 
+<br />Halotestin 10mg 
+<br />Prami 2mg 
+<br />Superdrol 20mg 
+<br />Ambien 10mg 
+<br />T4 400mcg 
+<br />Winivar 50mg 
+<br />Dianadrol 50mg </p>
+
+<p>Oils
+<br />Dec 300 
+<br />Test C 250 
+<br />Test E 250 
+<br />Test p 100 
+<br />Tren e 200 
+<br />Tren a 100 
+<br />Mast p 100 
+<br />Eq 200 
+<br />Sus 250 
+<br />Npp 100 
+<br />Mast E 200 
+<br />Boldelone "Fast EQ" Cyp </p>
+
+<p>Visit our website and place your order online.</p>
+
+<p>www.onlinepharmaceuticalmeds.com</p>
+
+<p>PLACE YOUR ORDER NOW ONLINE: www.onlinepharmaceuticalmeds.com</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/55188"><img src="/kuvat/tuotekuvat/c0b94270667cd5b78404bdcdc90a5bfac11aaf75.jpg?1482013557" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55188">Cerberus Pharma Test Enanthate 250mg/ml 10ml multivial</a> (<span title='32 GBP'>36.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2889</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52347"><img src="/kuvat/tuotekuvat/26c2c2272203af712f73ffaeb88068d515f24834.jpg?1515682759" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52347">Supertest 450 | 1vial (10ml) (450 mg/ml) - SP Laboratories</a> (<span title='81 USD'>65.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14462"><img src="/kuvat/tuotekuvat/393610d5270b6e2ef524909d6a5b095ef712beee.jpg?1455970591" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14462">prestige pharma deca-300. 10ml vial </a> (<span title='38 GBP'>43.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11958"><img src="/kuvat/tuotekuvat/0b0d66f61546ac9a2576c964de93937c20fe0676.jpg?1515418421" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11958">Testosterone Enanthate - 5x250 mg/1 ml - Balkan Pharmaceuticals</a> (<span title='43 EUR'>43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/71657"><img src="/kuvat/tuotekuvat/91fa9b9190126cbc1e6bb7e3a8d95cc1dd339101.jpg?1479474221" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71657">ANDARINE S4 ★shipping form EU★ 3 gram</a> (<span title='56 USD'>45.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>Dec 300  Test C 250  Test E 250  Geneza Pharmaceuticals</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

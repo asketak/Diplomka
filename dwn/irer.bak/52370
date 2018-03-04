@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="s7o9Zo4ZWCq0surlANOAlOUJ+tekcwsl2kfkh2JtNtB+HnP2Ov74Ivd37xhsr0SAFBNc5ZfSvRGdj7YWP9sTxg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/7bad6d0605f11c4b4633dd3a525af9eb04356caf.jpg?1468433529"><img src="/kuvat/tuotekuvat/35939acc8d5c9a65a99f027ba0705c12348abc17.jpg?1468433529" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>$$$ CARDING OS $$$ READY FOR SUCCESSFUL CARDING $$$ All installed</h1>
+<ul class='list-unstyled specs'>
+<li>16.28 EUR <em>(0.002087 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dutchdream">dutchdream</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Italy &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SzAvbbfCcodbnWVI6o3aPKYweQw3L/DGvtC2LkiWA26GlGH9AyXSjxhYYLWG8R4oVyrfPgSORvL5GOS/FSAmeA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52370" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>$$$ CARDING OS $$$ READY FOR SUCCESSFUL CARDING $$$ All installed software and configurations you need $$$</p>
+
+<p>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</p>
+
+<p>THE BEST WORKING OS FOR CARDING AND ONLINE FRAUD</p>
+
+<p>Hello my friends!!!</p>
+
+<p>This is full ready for successful carding operating system with all installed software and configurations you need based on Win XP
+<br />It is ISO file (3.6GB) and you need to open it with VMware v10
+<br />You can just save this OS on SD card and work wherever you want</p>
+
+<p>THE BEST WORKING OS FOR CARDING AND ONLINE FRAUD</p>
+
+<p>some of pre installed software:</p>
+
+<p>Mozilla Firefox — with abp и ghostery
+<br />Google Chrome — wit abp и ghostery
+<br />Opera
+<br />Safari
+<br />Tor Browser Bundle
+<br />Andy Browser — Iron + Tor
+<br />CCleaner+Enhancer — delete undying cookies
+<br />R-Wipe &amp; Clean
+<br />CCtools 7 — change every thing about your pc
+<br />STZBlaster
+<br />Proxifier — must have
+<br />Bitvise — ssh client
+<br />Plinker — alternative of Bitvise
+<br />OpenVPN
+<br />OpenVPN Protector
+<br />Pandion
+<br />Psi
+<br />Pidgin
+<br />Mozilla Thunderbird
+<br />Postbox
+<br />skype
+<br />Vbivotron — imitation of handmade typing when pasting text
+<br />Foxit Reader — PFD reader
+<br />Notepad++ — text reader with more than 100 text formats
+<br />Winrar
+<br />ETC</p>
+
+<p>Some soft i found only in russian language but I think its not difficult to understand and google translater always happy to help people
+<br />Also you will find some useful links inside "Links" folder such as Paypal blacklist checker etc</p>
+
+<p>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</p>
+
+<p> </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/34332"><img src="/kuvat/tuotekuvat/56124e5b3724fc78d1ca03460e45346ebd92fa24.jpg?1459378558" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34332">UK BANK FULLZ ACC NUMBERS + SORT CODE</a> (<span title='25 USD'>20.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/74556"><img src="/kuvat/tuotekuvat/ad39b19bc2882c51081500f3358cf9d7f7f30bd5.jpg?1481090968" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74556">ESCROW- Pocket SCALE-PRITECH-500g/0,1g</a> (<span title='27 EUR'>27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/orangeone">Orangeone</a></span>&nbsp;(<span class='green' title='Positive feedback'>33</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39186"><img src="/kuvat/tuotekuvat/120108a10b7e7054b0afef92ab36e232fdbf9396.jpg?1461758053" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39186">How to cashout stolen cc to btc NOV 2018</a> (<span title='12.99 EUR'>12.99&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90189"><img src="/kuvat/tuotekuvat/c471baf35e1ea4cdb2885ca7816b803f0dc336e9.jpg?1490379805" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90189">Porn HD Collection - [LIFETIME PORN PREMIUM ACCOUNTS]</a> (<span title='29 USD'>23.6&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/wooody">Wooody</a></span>&nbsp;(<span class='green' title='Positive feedback'>563</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102613"><img src="/kuvat/tuotekuvat/4741850a30090b25b80994c0baa29df1f9ffbbae.jpg?1515428158" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102613">*****BMG SHIPPING FEE difference of  $24.97*****</a> (<span title='24.97 USD'>20.32&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>$$$ CARDING OS $$$ READY FOR SUCCESSFUL CARDING $$$ All installed</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

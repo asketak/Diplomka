@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZPixZCRpYcShisIthbqLqAWgbCij5ng56iSeV1ZxM8CpXP/0kI7BzOJPx9Dpxk+89LrKGpBHzg2t7MzGC8cW1g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/4e03bc2baa27dd7c7c3b87f3d73279bd2e88e072.jpg?1469409106"><img src="/kuvat/tuotekuvat/4b5679a5182f7a30b315c3192c6ac62ee798f4bf.jpg?1469409106" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5 Fentanyl HCL blotters 200ug [ESCROW]</h1>
+<ul class='list-unstyled specs'>
+<li>16.28 EUR <em>(0.002088 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/silverapples">silverapples</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Argentina &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nPEEkI5lzBI2SmGg6x2tJpHn3qZW/Vp+FgW6LGlcK+5RVUoAOoJsGnWPZF2HYWkyYP14lGVc7EpRzei9NOoO+A==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="53667" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Blotters Fentanyl HCL 200ug. Fentanyl also known as fentanil is a short-acting synthetic opiate analgesic which is active at very low doses micrograms. Its effects are compared to heroin. Fentanyl is synthetic opioid analgesic with a rapid onset approximately 80 to 100 times more potent than morphine and many times more potent than heroin. Be careful!</p>
+
+<p>----------------------------------
+<br />PRODUCT DETAILS:</p>
+
+<p>Our Fentanyl HCL blotters are laid with ethanol solution 99.8% Fentanyl HCL pharma-grade. Blotters are precisely dosed with micro dropper over highly absorbent perforated blotting paper. Fentanyl blotters can be left under the tongue or swallowed. You must store your blotters in a dark, cool and dry place. </p>
+
+<p>Quantity: 5 blotters</p>
+
+<p>Concentration: 1 blotter = 200ug Fentanyl HCL</p>
+
+<p>WARNING: Fentanyl HCL is highly dangerous to overdose for opiate new users. Use carefully low dosage to test your tolerance.</p>
+
+<p>-----------------
+<br />Read our vendor profile before buy. By ordering from us you are agreeing to our sales terms and policies. 
+<br />---------------------------------------------------------------------------------------
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (4.07 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/92783"><img src="/kuvat/tuotekuvat/f7591027e6c1114cb2f798251021c131d8cae1cf.jpg?1492878363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92783">Dihydrocodeine 30mg x 10</a> (<span title='12 GBP'>13.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14719"><img src="/kuvat/tuotekuvat/5134c7148cbfc037587e45a21cbb03ccaebb0b6e.jpg?1455970647" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14719">1g China White Synthetic Heroin</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97363"><img src="/kuvat/tuotekuvat/0e8920887c8a7d614f5ce2cdaa2d06dc6f76a995.jpg?1501012381" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97363">Tramadol (Opioid) 100mg || 10 Tabletten || 1 A Pharma </a> (<span title='17.4 EUR'>17.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/gsussdrive">gsussdrive</a></span>&nbsp;(<span class='green' title='Positive feedback'>310</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38043"><img src="/kuvat/tuotekuvat/edfb7c559ccd31893882cee1dc98de8da64e947b.jpg?1464325985" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38043">Ultram Tramadol 50mg by Janssen - 20 tablets</a> (<span title='22 GBP'>25.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38540"><img src="/kuvat/tuotekuvat/5295dd635a65868623219d23e8201caf5c5c2426.jpg?1461531654" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38540">0,25 G ★★ HEROIN UNCUT AAA+ HQ ★★ GERMANY SHIPPING ★★</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1304">Fentanyl</a>
+</li>
+<li class='active'>5 Fentanyl HCL blotters 200ug [ESCROW]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

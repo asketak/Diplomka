@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="httHXGkDrep+sRGEItVz5tlPU76jASsR3rnhM/W/NJhLfwnM3eQN4j10FHlOqbfyKFX1jJCgnSWZcbOiqAkRjg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9fcbf3531c5d2100b950a6fa26ab4af4abfc5030.jpg?1480760664"><img src="/kuvat/tuotekuvat/865af1e5bd47ea208c773622df9ab3dea61f6440.jpg?1480760664" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>  100MG  DMT YELLOW (DMT 85%)(free shipping)</h1>
+<ul class='list-unstyled specs'>
+<li>9 EUR <em>(0.001161 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dmt-king">Dmt-King</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Portugal &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HlhgNY/+9acfhtEV+5CKP6QPlSIAu/7VSXv3c8KZHn7T/C6lOxlVr1xD1OiX7E4rVRUzEDMaSOEOs6Xiny87aA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73843" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>DOSAGE:
+<br />The nice thing about DMT is that it is not possible to overdose
+<br />(DMT begins to be poisonous in approximately 6 g). Do not be afraid to take a little too much.
+<br />When asked, most people will say 50mg is the correct amount.
+<br /> The truth is that it varies from person to person and that technique is crucial.
+<br /> If you get to spray 30mg properly without burning anything you might have a stronger experience
+<br />That with 50 mg of DMT badly handled.
+<br />50mg is a good nontheless start and quantity
+<br />I recommend all beginners because it leaves room for mistakes.
+<br />If it still does not work, take the experience with you and do not give up.
+<br /> Be relaxed. It is a journey and you learn a lot along the way.
+<br />Once you become an experienced journeyneyer you can start using larger amounts of DMT to get deeper into the realm.
+<br /> The experience of 70 mg + can be overwhelming if you take DMT for the first time, but once you get used to it
+<br /> He will not be afraid anymore.</p>
+
+<p>ADJUSTMENT:
+<br />The scenario is very important.
+<br />Be in a quiet place where you are sure that nothing unexpected will happen.
+<br /> Random people and things like that can ruin the trip.
+<br />In case of living in a noisy environment it is a good idea to use headphones
+<br />And atmosphere / relaxing music.for me the higher the music, the better the experience
+<br />Make sure you feel absolutely safe. Everything that bothers you must be removed.
+<br /> Do not do it wherever you think you may feel scared or annoyed once you are stumbling.</p>
+
+<p>It is important that it be very quiet. Relaxing sounds and sounds of birds, water, etc.
+<br />If you do it with someone else, you must close hell! The only exception is when
+<br />Someone whispers in his ear to induce thoughts on his journey. However, that person must be experienced.
+<br />TECHNIQUES:
+<br />Smoking techniques are very important since DMT needs to be evaporated.
+<br />It should not burn because that would destroy the effects.
+<br /> You know that DMT evaporates when you feel a hot sensation in your throat.
+<br /> If your technique is correct the DMT will be completely tasteless.
+<br /> If it's hard, it's because you burned some DMT. Even if you get the rough taste just continue.
+<br />Inhalation: Once the DMT evaporates, you should begin to inhale deeply and slowly until you can not continue.
+<br />  Hold for at least 10 seconds. Do it as long as possible.
+<br /> Otherwise you will lose DMT once you exhale.
+<br />take as many hits as you need to break through.
+<br /> Usually 2-3. With a good technique and a little experience you can reach the gap
+<br />After a single blow.
+<br />If it does not break through everything you feel is a slight buzzing and maybe some slight hallucinations.
+<br />Important:
+<br />Before resuming smoking, wait 30 minutes for the body to recover, otherwise you may have a bad trip.
+<br />If you are bullied by DMT and want to start slow you can inhale 15mg and increase slowly
+<br />The amount until they finally break. Do not be afraid
+<br />Regardless of which method you choose, be careful to hold the device in such a way that no liquid DMT can come out.
+<br /> The taste is very bad. Trust me, you do not want to know.
+<br />If you are going to do DMT regularly,
+<br />Getting a dedicated device as the taste will never go away again.
+<br />The boiling point of the DMT is 180 degrees Celsius, You should use more energy for a clean evaporation.
+<br />Vaporizer: If you use a vaporizer, the temperature should be set at about 190 - 230 ° C
+<br /> Depending on the vaporizer, the temperature may vary.
+<br /> If the DMT becomes liquid but does not boil and evaporate, try raising the temperature by 10% until it works.
+<br />Pen Vaporizers: Simply load your DMT into the camera, activate and inhale once the DMT evaporates.
+<br />This is a very simple method and often results in a break from a blow through.
+<br />Pipes / Bongs: For beginners the general rule is that if you are going to light it, the flame should not touch the crystals.
+<br />If the flame touches the glass, much will be wasted
+<br />Joints: Another method is smoking with a joint. Yes, it works if done correctly.
+<br /> Sprinkle the DMT crystals opposite the end that will burn.
+<br /> The warm air will evaporate the sleeping sand as you inhale slowly and gradually.
+<br /> This method is not very accurate and you may need to add a little more DMT than with the other methods.</p>
+
+<p>2. Another method people use is to warm the neck of the bottle (bottle holder vertically)
+<br />With the torch lighter until DMT is melted.
+<br />Now you are ready to start taking your hits.
+<br /> Hold the flame near the mesh and inhale slowly through the hole in the mouth.
+<br /> You should see the flame being drawn into the mesh while inhaling.
+<br /> Make sure the flame does not touch the mesh, keep it an inch or 1.5 cm apart.
+<br /> The idea is to evaporate the DMT by convection (hot air), not by conduction.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23259"><img src="/kuvat/tuotekuvat/7993a3290c3bc07b590ba8825aafae43507d3cd9.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23259">2 LSD stamps Anonymous SAMPLE (180μg)</a> (<span title='12.5 EUR'>12.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>582</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23301"><img src="/kuvat/tuotekuvat/114d94a374a9c873f969f35bcbe13434ff844e83.jpg?1455972451" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23301">2 LSD Blotters 180μg - Anonymous </a> (<span title='12 USD'>9.74&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94327"><img src="/kuvat/tuotekuvat/73fa083f66f64513036ce80a44bc9f026e1ddcd0.jpg?1495184617" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94327">4-HO-MiPT  100mg 4homipt 4-ho-mipt free shipping</a> (<span title='14 USD'>11.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>598</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/30489"><img src="/kuvat/tuotekuvat/ad09debbacd77e5ecfd4f484fee05f82a7cc2fe2.jpg?1457422796" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/30489">SUPER MARIO paper blotter, 10 papers ,</a> (<span title='10 EUR'>10&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24887"><img src="/kuvat/tuotekuvat/0382f18fcd3fe785099423516e0045e2deb67ba2.jpg?1455972757" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24887">2x Dutch LSD Blotters *160µg* - FREE SHIPPING!</a> (<span title='11 EUR'>11&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1705">DMT / AMT</a>
+</li>
+<li class='active'>  100MG  DMT YELLOW (DMT 85%)(free shipping)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

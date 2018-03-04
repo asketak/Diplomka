@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="86uE8QFzzJXsJ0uU2n9u1fji/0qaSUFDULWRgAFpZcc+D8phtZRsna/iTmm2A6rBCfhZeKno93cXfcMRXN9A0Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5c6475a15be30a4ba852be4c3871ee6ae56a1d59.jpg?1479705146"><img src="/kuvat/tuotekuvat/ec1d33dee8e8e85f396c901edd6748bff81fb6d9.jpg?1479705146" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★★★★1 gram Furanyl-fentanyl shipped from USA!! PURE AND UNCUT!!★★</h1>
+<ul class='list-unstyled specs'>
+<li>75.46 EUR <em>(0.009741 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/uncut_and_cheap">Uncut_And_Cheap</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AHZZEwPPnQBLCMIa65NCV4QSZRjcKCTp9Dzv63AcsZfN0heDtyg9CAjNx+eH74ZDdQjDKu+Jkt2z9L16LaqUgQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="346025">Domestic (included)</option>
+<option value="348953">Worldwide (+25.96 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="72022" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Cheaper AND SAFER then ordering from china!! Ships directly from the U.S.A.!!</p>
+
+<p>Furanyl-fentanyl (Fu-F; furanylfentanyl) is a potent short-acting opioid analgesic drug. It is an analogue of fentanyl with similar potency to fentanyl. It is an agonist at mu opioid receptors.</p>
+
+<p>This is very strong stuff.
+<br />This is UNCUT direct from the source.</p>
+
+<p>You can smoke or sniff it, take orally, sublingually, Works best IV.</p>
+
+<p>Please BE CAREFUL with this product!!
+<br />We recommend starting with doses not greater than 1mg.</p>
+
+<p>99% pure and uncut
+<br />Shipping is fast via USPS priority mail.
+<br />Ships from USA</p>
+
+<p>Fast, daily shipping.
+<br />Always encrypt address with PGP.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 6.49 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23821"><img src="/kuvat/tuotekuvat/b8067ef3c0fa15dd29dc40eead1b33f578260bbd.jpg?1455972566" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23821">Opioid Liquid - O-Liquid 10 ML</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38363"><img src="/kuvat/tuotekuvat/76700035a2105397e888bb103c7acb5866f55e7e.jpg?1461484196" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38363">2xFentanyl Gel Patch 50mcg hr  Actavis Watson</a> (<span title='140 USD'>113.6&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fasterndsaffer">fasterndsaffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>482</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-32</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38047"><img src="/kuvat/tuotekuvat/5186d37c2597235f18f4cb5ba3da8eaae6561d6d.jpg?1464325933" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38047">Ultram Tramadol 50mg by Janssen - 100 tablets</a> (<span title='60 GBP'>68.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102749"><img src="/kuvat/tuotekuvat/3d5356d747111f64b42f2ff04b3b0c47da9d0ae1.jpg?1515734324" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102749">2gm Indian Traditional Raw Opium</a> (<span title='90 USD'>73.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenstore">greenstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>837</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16441"><img src="/kuvat/tuotekuvat/b3fe816d87e0db023131fb6eb15f93f0603c6006.jpg?1480861436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16441">!!!PROMO PRICE!!!3g Premium Bayer Opium FE </a> (<span title='124.98 USD'>101.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>788</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1304">Fentanyl</a>
+</li>
+<li class='active'>★★★★1 gram Furanyl-fentanyl shipped from USA!! PURE AND UNCUT!!★★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IgLeGZ6PHf1nPlToPpKDnPTL6OIy86GPBgXiSMwZOVnvppCJKmi99ST7URVS7keIBdFO0AFSF7tBzbDZka8cTw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f37a78b3e6727cd94a14e1975fbdc15ba5211d81.jpg?1477058844"><img src="/kuvat/tuotekuvat/42da1691e59794652b267b7ba08cfac6531dc456.jpg?1477058844" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Critical Mass 2g/Outdoor/AAA/Free Shipping</h1>
+<ul class='list-unstyled specs'>
+<li>19.53 EUR <em>(0.002508 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="i5RyOQm+smrLzzEExsgpLWWiRDT29BrN5yIHNbU0CqdGMDypvVkSYogKNPmqtO05lLjiBsVVrPmg6lWk6IIvsQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="313367">eu,1st class stealth,compressed (included)</option>
+<option value="313368">eu,2nd class stealth,uncompressed (+0 EUR)</option>
+<option value="313369">ww,by air,1st class stealth,compres (+1.63 EUR)</option>
+<option value="313370">ww,by air,2nd class stealth,uncompr (+1.63 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67165" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>READ TERMS AND CONDITIONS ON OUR PROFILE PAGE BEFORE YOU ORDER</p>
+
+<p>We ship from EU non-flagged country. Not from Germany.
+<br />Outdoor grown Mr.Nice Critical Mass AAA quality.
+<br />We also apply discounts for different quantities. Check our other listings!
+<br />Shipping cost already included in price.
+<br />Professional packaging and stealth.
+<br />More info on GreenJack profile page.</p>
+
+<p>Mr.Nice description:</p>
+
+<p>A reworked excellent version of an old breed once known as Big Bud. This is an absolute must for the cultivator who demands a high yield with an equally high stone. It is the heaviest plant currently in production for commercial farmers and outdoor crops, resembling the male genital protrusion of a giant donkey. Due to its heavy flower construction it can be susceptible to mould if the growing area is too high with humidity. So be warned, harvest on time!!! It has a genetic pedigree originating from a particularly heavy Afghani combined with the original Skunk#1. An expected yield indoors would be realistic at 650-750 grams per square meter... possibly more for the experienced cultivators? If you cultivate outdoors then expect to harvest in September for the northern hemisphere and by March for those in the southern hemisphere. Breed by the original breeder and founder of the original Seed Bank.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/51001"><img src="/kuvat/tuotekuvat/e7046470a130e4c4b76e109a59eb2564e3d781bb.jpg?1467800002" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/51001">2 g &quot;Early Skunk&quot; /// Free Shipping</a> (<span title='22 EUR'>22&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/californiadreams">CaliforniaDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>2080</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93422"><img src="/kuvat/tuotekuvat/fca1662d145ef7d92b0911bd5ca717cab8c86a3a.jpg?1493654817" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93422">1g OG Kush LemonLarry/ SuperLemonHaze/NebulaHaze/Amnesia/PowerKus</a> (<span title='15.5 EUR'>15.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thegermanbudtender1">TheGermanBudtender1</a></span>&nbsp;(<span class='green' title='Positive feedback'>2002</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-58</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/60347"><img src="/kuvat/tuotekuvat/cb6c06b4a3dd9b5477478f62f2b4beb50ed39266.jpg?1473620682" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/60347">1g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='16 EUR'>16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/doktorgreen">DoktorGreen</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91795"><img src="/kuvat/tuotekuvat/9a4ee66e874ea784e1944b06684c64daf5161b3d.jpg?1491449799" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91795">2 gr. Diesel A+++Top-Shelf Hydroponic Weed Sample</a> (<span title='20 EUR'>20&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23218"><img src="/kuvat/tuotekuvat/8d363a85d29288bf283885df2c2132c51a4db3f8.jpg?1455972437" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23218">10G ★★ AMNESIA Haze Rest Weed Cannabis ★★ AAA+ High Quality</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Critical Mass 2g/Outdoor/AAA/Free Shipping</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

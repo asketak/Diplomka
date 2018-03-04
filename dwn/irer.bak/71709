@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GN+4t00nVOqf9n1V3qwTaJTWMbXpSb42mEVp6ve8MNDVe/Yn+cD04twzeKiy0Nd8ZcyXh9roCALfjTt7qgoVxg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d7861af811fc3798089e6864efe34e9e49ef02b1.jpg?1485429673"><img src="/kuvat/tuotekuvat/146a64a1eda41c7e0458b90fe2733da5f9ad40cd.jpg?1485429673" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>☆ 10 GREEN 2K XTC PILLS 260MG NEW BATCH ☆</h1>
+<ul class='list-unstyled specs'>
+<li>28 EUR <em>(0.003614 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+zvcZhiBA1L+mu6VA5umfim2ZzCC9MEKx2iyHbErSgM2n5L2rGajWr1f62hv52Jq2KzBArFVdz6AoOCM7J1vFQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="71709" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Here a new batch of the green 2k</p>
+
+<p>They contain 260MG MDMA!!</p>
+
+<p>We give free shipping
+<br />Good stealth
+<br />No tracking!</p>
+
+<p>When you order this product you agree with our terms.</p>
+
+<p>Cheers PachoHerrera</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23245"><img src="/kuvat/tuotekuvat/4f4db2a7f4e0398cd4d6faba0c052b4b5d0274e3.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23245">10 Green WhatsApp XTC pills 160MG</a> (<span title='25 USD'>20.29&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24893"><img src="/kuvat/tuotekuvat/55426782551ddd1a9a7f116536ba0e786d5a5d1a.jpg?1455972759" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24893">10 pcs. Yellow Playboy XTC pills *170mg* - FREE SHIPPING!</a> (<span title='28 EUR'>28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97836"><img src="/kuvat/tuotekuvat/29f5b18a4d6b4d2d6d573985324ca0b7634df628.jpg?1503331774" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97836">XTC PILLS 220 MG MDMA, 10 x FE  </a> (<span title='26 USD'>21.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23287"><img src="/kuvat/tuotekuvat/ce1dae195c277b3c0b77ac90aba1f75990c9da21.jpg?1455972449" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23287">10 Heart XTC Pills - 160MG </a> (<span title='24 EUR'>24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102458"><img src="/kuvat/tuotekuvat/a1192a33448e38d4002dd9726b8e9d9ad9a129f0.jpg?1514330801" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102458">10 x Orange Maserati 160mg MDMA</a> (<span title='21.3 EUR'>21.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>428</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>☆ 10 GREEN 2K XTC PILLS 260MG NEW BATCH ☆</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

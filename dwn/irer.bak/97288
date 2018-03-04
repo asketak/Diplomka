@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lUElBv/VOVfV/2kCMn6p1OFeSta0fuoq9x1z5Saq5KhY5WuWSzKZX5Y6bP9eAm3AEETs5IffXB6w1SF0exzBvg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/eeb5a314afe16dd2edb4609c2aded41273c669d1.jpg?1500953682"><img src="/kuvat/tuotekuvat/911062990a855b6f89c61a756c4841e8acdb9174.jpg?1500953682" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>500x 50€ Counterfeit </h1>
+<ul class='list-unstyled specs'>
+<li>903 EUR <em>(0.115818 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/noogz">Noogz</a></span>&nbsp;(<span class='green' title='Positive feedback'>1678</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-182</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Security Features:</p>
+
+<p>HQ Printing:
+<br />Use a magnifier and you’ll realize that you even can read the microprinting. These printings are in such a high quality that its extremely hard to see a difference between the counterfeits and originals.</p>
+
+<p>Hologram:
+<br />A standard hologram is used. Tilt the note and you’ll see some shiny effects like you have seen it on an original.</p>
+
+<p>Back light control:
+<br />The upper left corner of a 50 euro note and hold it against some light. The splitted 50 is just perfect.</p>
+
+<p>Changing serial numbers:
+<br />Not each note has its unique serial number but they are changing regularly.</p>
+
+<p>The paper of this note is thicker than the original ones.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Normal shipping) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/78754"><img src="/kuvat/tuotekuvat/561f69378c6d3bc81a854340604ec60c35fce6af.jpg?1483810763" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78754">partial release for S.A Passport (physical documents)</a> (<span title='865 USD'>703.94&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/probitexchange1">probitexchange1</a></span>&nbsp;(<span class='green' title='Positive feedback'>6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100688"><img src="/kuvat/tuotekuvat/74e7efc406bddbefbf5364fb112f826ce8b80783.jpg?1509639614" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100688">SWIFT BANK TRANSFER - $2000 - SEMI-CLEAN </a> (<span title='799.99 USD'>651.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90244"><img src="/kuvat/tuotekuvat/1d6c36c294b7dd46762e03a7e3fe652c8fca4d09.jpg?1490428740" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90244">BUY  Passport ID Cards Drivers / MMJ License BIRTH CERTIFICATE </a> (<span title='1000 USD'>813.8&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95711"><img src="/kuvat/tuotekuvat/b8153a3beae137bbb0498fc2f3ea9cf45747638b.jpg?1497869509" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/95711">1 000€ EURO Bitcoin Cashout Service</a> (<span title='1205 EUR'>1205&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101855"><img src="/kuvat/tuotekuvat/6a054ea26f6473436486736b0ab2c1c6ecacc545.jpg?1512245598" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101855">Goldeneye RANSOMWARE 2017 Make HUGE Money from your victims</a> (<span title='1000 USD'>813.8&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2606">Money</a>
+</li>
+<li class='active'>500x 50€ Counterfeit </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

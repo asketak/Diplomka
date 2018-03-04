@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/74vNgo5J3jzlecOMUZPuC7OuzclHN+aMqQ6AxyA/voyGmGmvt6HcLBQ4vNdOous39QdBRa9aa51bGiSQTbb7A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/64c2dba17dc6cd8d96c2ffb1bdc8bb690f9f48d6.jpg?1479842303"><img src="/kuvat/tuotekuvat/bada0ab0a3745579c714cd5c31e3f83d39fb4db4.jpg?1479842303" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>JACK HERER 1/2 LBS (224 GRAMS) GREEN HOUSE(HALF POUND)</h1>
+<ul class='list-unstyled specs'>
+<li>1280 EUR <em>(0.165227 BTC)</em></li>
+<li>25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Belgium &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lb+OPOxcOlHaJ9g3uWZtVYl9hhevTshMB0NE5XcLqzJYG8CsWLuaWZni3crVGqlBeGcgJZzvfnhAixZ0Kr2OJA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="72229" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Jack Herer is a sativa-dominant cannabis strain that has gained as much renown as its namesake, the marijuana activist and author of The Emperor Wears No Clothes. Combining a Haze hybrid with a Northern Lights #5 and Shiva Skunk cross, Sensi Seeds created Jack Herer hoping to capture both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.</p>
+
+<p>Jack Herer was created in the Netherlands in the mid-1990s where it was later distributed by Dutch pharmacies as a recognized medical-grade strain. Since then, the spicy, pine-scented sativa has taken home numerous awards for its quality and potency. Many breeders have attempted to cultivate this staple strain themselves in sunny or Mediterranean climates, and indoor growers should wait 50 to 70 days for Jack Herer to flower.
+<br />- We ONLY ship USPS priority mail.
+<br />- Shipping is done within 48 hours.
+<br />- We dont ship weekends of course.
+<br />- OK INTERNATIONAL SHIPPING W TRACKING NUMBER
+<br />- Don't put any stealth methods on here concerning shipping
+<br />- All customer shipping records are deleted after item is shipped!
+<br />- NO NO tracking info unless order not recieved in 5 business days.</p>
+
+<p>I do get tracking info but wont give it out. This is how they get IP addresses. We dont want that now :)</p>
+
+<p>*****************************************************************
+<br />+++++++++++NOW SHIPPING WORLDWIDE+++++++++++
+<br />wholesale buyers wanted!</p>
+
+<p>the ultimate product here is trust and we pay for that</p>
+
+<p>no matter where the fuck we may be this is constant
+<br />*****************************************************************
+<br />BudMasterGeneral has traveled far and met with numerous farmers in all parts of Kali to bring you finest flowers and its variants of products. totally healthy and good for ya!
+<br />i will be unloading serious Kali weights in coming months so please inquire directly! i need you to do this! God speed1</p>
+
+<p>++++++++++++++++++++++++++++++++++++++++++++++
+<br />*****************************************************************
+<br />Pay for shipping on the biggest/heaviest item, all additional items get FREE shipping. if we have to use additional boxes we will inform you kindly
+<br />*****************************************************************
+<br />- NOW SHIPPING WORLDWIDE (FE REQUIRED) UPTO 1 POUND OF CANNABIS
+<br />- All US shipments are made via USPS Priority Mail.
+<br />- Shipping is done within 1 business day.
+<br />- I do not work on Saturday or Sunday or US Federal Holidays.
+<br />- No shipments or messages on those days.
+<br />- Use PGP when discussing personal info or stealth methods.
+<br />- All customer shipping records are deleted 14 days after item is shipped.
+<br />- I will check tracking if item has not arrived in 7 days.
+<br />- I do not give out tracking numbers for US deliveries
+<br />- i absolutely trust USPS!!!!!!!!! USPS fucking Delivers!!!!
+<br />*****************************************************************
+<br />I appreciate customers that FE. This allows me to get new items in stock faster.
+<br />*****************************************************************
+<br />ADDITIONAL INFO</p>
+
+<p>- I check orders once per day. Once received, the order status will be changed to "CONFIRMED" and the order will be packed.
+<br />- The order status will be changed to "SHIPPED" only after the order is actually shipped.
+<br />- Orders TYPICALLY arrive 2-3 days later. Keep in mind that some packages may be delayed due to mis-routing by the carrier, and can occasionally take longer to arrive.
+<br />- Please provide address !!!ENCRYPTED!!!, in all CAPS.
+<br />- Please use the following address format:</p>
+
+<p>YOUR NAME
+<br />123 N YOUR ST APT 1
+<br />CITY, ST 00000</p>
+
+<p>we cannot guarantee international delivery (non-US) however, we have had a stellar delivery success rate within US with our stealth method. so if you assume the risk, then i will gladly send. that is why we will require FE on international shipment. FREE SHIPPING is only offered to 2nd, 3rd and 4th items purchase at same time.</p>
+
+<p>IN CASE OF UNCLE SAM'S CONFISCATION OF GOODS WHILE IN TRANSIT:</p>
+
+<p>well the industry's standard rule of thumb is that when uncle sam/customs confiscate shipment in the transit, seller and buyer are responsible to eat 1/2 of the total amount minus the shipment cost.</p>
+
+<p>For example, if buyer spent $300 on items and $40 on shipment fee, seller and buyer each take $150 loss. in the case the money was FE'ed, only the seller needs to return $150 to the buyer Only AFTER the tracking info says it has been confiscated. until that time though we need to wait for the information or the delivery. we hope for the delivery! i hope this provision helps customers decisions to purchase. Order with CONFIDENCE!!! BMG DELIVERS! somebody asked me their country's post master does not notify if they confiscate it. well then please do not order from me. i kindly refuse service i am sure you do understand.</p>
+
+<p>¯¯̿̿¯̿̿'̿̿̿̿̿̿̿'̿̿'̿̿̿̿̿'̿̿̿)͇̿̿)̿̿̿̿ '̿̿̿̿̿̿\̵͇̿̿\=(•̪̀●́)=o/̵͇̿̿/'̿̿ ̿ ̿̿
+<br />*****************************************************************
+<br />Customer's Who have 5 or Fewer Transactions or have an account
+<br />opened for less than 30 day's MUST Finalize before I send.
+<br />This does not affect the way we do buisness in any way.
+<br />BMG appreciates FE customers. we love u! if you FE'd, we KNOW WE ARE MAILING YOUR ORDERS!
+<br />just in case site crashes for whatever the reasons.</p>
+
+<p>*****************************************************************
+<br />FREE shipping option is ONLY for those customers who is
+<br />purchasing more than one item at a time. If that is the case,
+<br />you must choose regular shipping option first and then choose
+<br />FREE shipping for additional items purchase at the same time.
+<br />*****************************************************************</p>
+
+<p>PGP encryption is REQUIRED for your address info!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/39319"><img src="/kuvat/tuotekuvat/50294d1bbf04c4c8dec9d69cf579905e9fa2badf.jpg?1461763580" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39319">5-f-NPB-22 1000g</a> (<span title='2159 USD'>1751.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91801"><img src="/kuvat/tuotekuvat/718679ff9df08206b9c6c78f90868451a7691577.jpg?1491450183" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91801">250 gr. Diesel A+++Top-Shelf Hydroponic Weed </a> (<span title='1152 EUR'>1152&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95791"><img src="/kuvat/tuotekuvat/840697a44489d2f65563e6ba1cabf3545eeddbcc.jpg?1498038280" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/95791">100g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='927 EUR'>927&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/doktorgreen">DoktorGreen</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93908"><img src="/kuvat/tuotekuvat/e714fa418fba2447255335282bd2a65ac29f1336.jpg?1516565684" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93908">Custom 1 LB - 448g - (CANADA ONLY)(Msg Me For Strain)- XpressPost</a> (<span title='2325 USD'>1886.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103586"><img src="/kuvat/tuotekuvat/969b6e4a3152f98d0a6d04cb7faf81c224ab1496.jpg?1518813279" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103586"> **1 LBS DREAM QUEEN G.H. 448 GRAMS**</a> (<span title='1929.98 USD'>1565.99&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>JACK HERER 1/2 LBS (224 GRAMS) GREEN HOUSE(HALF POUND)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

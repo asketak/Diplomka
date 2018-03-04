@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3+IS7Sgyehl1fs5JaOeMH9R8jSKXCBm724bfQ6BhIwoSRlx9nNXaETa7y7QEm0gLJWYrEKSpr4+cTo3S/dcGHA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/17efc9efa37f1e323b38ca398ac43671a0b81a2d.jpg?1505391848"><img src="/kuvat/tuotekuvat/4e6e26487c14f6320f4e672f214297ea01f72086.jpg?1505391848" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1 GRAM ---BLUE62 IMPORTED METH--14/09/17</h1>
+<ul class='list-unstyled specs'>
+<li>163.28 EUR <em>(0.021011 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/blue62">Blue62</a></span>&nbsp;(<span class='green' title='Positive feedback'>331</span>)
+</li>
+<li>Australia &rarr; Australia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zw/ZtEP31gtVLk3Nx33OYKZB2a5cfR6LJb36viTBphsCq5ck9xB2AxbrSDCrAQp0V1t/nG/cqL9idagveXeDDQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="62927" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>IMPORT 14/09/17</p>
+
+<p>I am confident you will all enjoy this product, I always do my best to bring my clients the best of what is available.</p>
+
+<p>This batch has been, Cooked and Manufactured overseas. We have the highest quality meth that is currently in Australia and proud to offer it out to all our clientèle </p>
+
+<p>Description:</p>
+
+<p>------------------------------------------------------------------------------------------------</p>
+
+<p>Physical appearance/ aesthetics:
+<br />A range of rocks sized between 0.2cm and 7cm, largest being over 7cm rocks smallest are still crystals NOT dust or cutters.
+<br /> 
+<br />The Rock crystals are glassy clear with a slight white cloudiness. Upon dropping them on each other it sounds as if you are dropping broken glass on glass. When holding it in your hand there is a oily residue. How ever there is no wetness to the batch at all. </p>
+
+<p>Physical appearance/ aesthetics upon burning:
+<br />The burns nicely with a slight bubble at the start before going to a beautiful clear puddle in the pipe, stays clear through out. slight tinge of yellow by the end of the session depending on the our size you pack the bowl. Does not leave any dark residue or brown coloring. </p>
+
+<p>------------------------------------------------------------------------------------------------</p>
+
+<p>Upon Smoking:</p>
+
+<p>The taste is minimal to nothing. A very slight chemical taste that is if anything slightly pleasant.</p>
+
+<p>Physical feelings:
+<br />I felt alert almost instantly as well as energized and focused. I had the eye wobbles briefly, with euphoria and contentedness started to come very quickly after. As these feelings all started to settle the euphoria started to build. I have enjoyed this high and i believe the simplest way to describe the over all experience is " CLEAN ". </p>
+
+<p>Cheers,
+<br />Blue62</p>
+
+<p>------------------------------------------------------------------------------------------------</p>
+
+<p>°°°°°You can request tracking after three days of making your order if it has not arrived°°°°°
+<br />-------------------°°°°°tracking numbers require pgp key please°°°°°--------------------------</p>
+
+<p>°°°°°REFUNDS°°°°°
+<br />Reships are done on a case by case basis
+<br />For a reship you must have at least 5 transactions with us
+<br />I give a 25 -100% reship depending on buyer stats!</p>
+
+<p>°°°°°FEEDBACK°°°°°
+<br />Please write your feedback on the feedback page and/or on the forum.</p>
+
+<p>Before leaving negative feedback here always contact me first. 
+<br />I will resolve the issue!!
+<br />NEGATIVE FEEDBACK MEANS NO RESHIP!!!</p>
+
+<p>°°°°°MESSAGES°°°°°
+<br />Keep messages short please and only pm me if it is important!!
+<br />if your order didnt arrive after the estimated shipping time you can send me a message.
+<br />------------------------------------------------------------------------------------------------</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+most reliable vendor ive found
+<em>(15.2.)</em>
+</td>
+<td><span>
+da***at
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(14.2.)</em>
+</td>
+<td><span>
+so***eg
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Quality Vendor  A +++
+<em>(12.2.)</em>
+</td>
+<td><span>
+of***za
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perfect transaction! My boy blue always comes through with the good shit!!
+<em>(9.2.)</em>
+</td>
+<td><span>
+Mr***ow
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Good Quality Product, Excerlent Communication    A+++ Vendor
+<em>(17.1.)</em>
+</td>
+<td><span>
+of***za
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+As per usual, The best. Great product, Great service.
+<em>(24.12.)</em>
+</td>
+<td><span>
+Ma***79
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Sorry for the late feedback, this guys excellent everytime
+<em>(21.12.)</em>
+</td>
+<td><span>
+bl***wn
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee (3.83 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102174"><img src="/kuvat/tuotekuvat/ab89c715b892e03aaf6f425c6431d52d3d2e7875.jpg?1513219735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102174">❤3.5g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='210 USD'>266.97&nbsp;AUD</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14642"><img src="/kuvat/tuotekuvat/06b22712e03976cc2415e1dc4b2f72efffe289bd.jpg?1455970625" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14642">Sthompson Speed Paste-30g</a> (<span title='152 EUR'>238.39&nbsp;AUD</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1220</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96609"><img src="/kuvat/tuotekuvat/9b865cab7964f423f92c2f752e91d6413ec16cfe.jpg?1499873441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96609">2G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='155 GBP'>276.5&nbsp;AUD</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52407"><img src="/kuvat/tuotekuvat/4e825b109650dcaa12db1dcf18ac5f220d21e36c.jpg?1468448607" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52407">Adderal 30mg x 20*wait is over now in stock* (BARR Teva IR brand)</a> (<span title='182 GBP'>324.66&nbsp;AUD</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103311"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103311">Kustomi 220e</a> (<span title='224 EUR'>351.31&nbsp;AUD</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kymppi-maukkaat">Kymppi-Maukkaat</a></span>&nbsp;(<span class='green' title='Positive feedback'>1037</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1203">Metamphetamine</a>
+</li>
+<li class='active'>1 GRAM ---BLUE62 IMPORTED METH--14/09/17</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

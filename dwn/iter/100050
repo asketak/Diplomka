@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9W39S2gPoloILoUbT6mFWYT/jwFMMhglWDHb3Lpb+I04ybPb3OgCUkvrgOYj1UFNdeUpM3+TrhEf+YlN5+3dmw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/a3f449519370b51f5de2b4e209e09b71997db9b9.jpg?1513013097"><img src="/kuvat/tuotekuvat/8344e47a8a8065a83694c30885570c66e43e2f4c.jpg?1513013097" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Hinnasto + Tilaa tästä (vain maastokätköt) </h1>
+<ul class='list-unstyled specs'>
+<li>30 EUR <em>(0.003847 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/keisari-julius">Keisari Julius</a></span>&nbsp;(<span class='green' title='Positive feedback'>2386</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-20</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bL2XXhjRS0gb+DL3mKJH77HSKTbqAT3bOfwN/go/quChGdnOrDbrQFg9Nwr03oP7QMiPBNmgi+9+NF9vV4mP9g==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="619114">Maastokätkö alle 1000€ (included)</option>
+<option value="619115">Maastokätkö yli 1000€  (-20 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100050" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>Toiminta on nyt lomalla toistaiseksi. Loppuvarasto on kätköilty ennakkoon ja niitä voi lunastaa. Muutamia kätköjä jotka ei ole tässä mainittu voi vapautua varauksista vielä. </p>
+
+<p>Heti valmiit kätköt: </p>
+
+<p><a href="http://silkkitiehdg5mug.onion/tuotteet/102431">100x Sininen Tesla 180mg vahvoja naksuja 600€ eli 6€/kpl</a> 
+<br /><a href="http://silkkitiehdg5mug.onion/tuotteet/102432">93x Subutex 2230€ eli n.24€/kpl </a> 
+<br /><a href="http://silkkitiehdg5mug.onion/tuotteet/102430">50g Tuontikukkaa 250€ eli 5€/g </a> 
+<br /><a href="http://silkkitiehdg5mug.onion/tuotteet/102433">90g Amfetamiini 1890€ eli 21€/g (Tämä tuote on eri mitä olen yleesä myynyt. Kuitenkin erittäin vahvaa amfeetamiinia.)  </a> </p>
+
+<p>Kätköt ovat kaikki pääkaupunkiseudulla.</p>
+
+<p></b></p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tilaus tehty 28 päivää sitten, ei ole saapunut.
+<em>(5.1.)</em>
+</td>
+<td><span>
+de***rd
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+24 päivää sitten merkattu postitetuksi eikä ole mitää näkynyt.....
+<em>(5.1.)</em>
+</td>
+<td><span>
+Jo***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+27 päivää ja ei näy..loppukusetuksen makua touhusa kun romppeet siirtyny &quot;uuden myyjän&quot; nimiin..haha!
+<em>(3.1.)</em>
+</td>
+<td><span>
+kö***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tilaukset merkitty postitetuksi 23 päivää sitten ja viestissä kertoi vielä lähettäneensä muttei ole vieläkään näkynyt, näinköhän jäänyt matkalle vai vieläkö postilla ruuhkat. vaihdellaan positiiviseksi jos tulee.
+<em>(3.1.)</em>
+</td>
+<td><span>
+si***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitokset pienestä ylipainosta sekä sinisistä joulu-ylläreistä!
+<em>(27.12.)</em>
+</td>
+<td><span>
+Pe***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(27.12.)</em>
+</td>
+<td><span>
+nu***nä
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(27.12.)</em>
+</td>
+<td><span>
+nu***nä
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 20.0 EUR (Maastokätkö alle 1000€) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/84085"><img src="/kuvat/tuotekuvat/e93eed2e7dc624d9a294eb5b942cb78700adcd85.jpg?1513676239" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84085">!!TARJOUS!! 1g Amfetamiini 25€/g </a> (<span title='29 EUR'>29&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kymppi-maukkaat">Kymppi-Maukkaat</a></span>&nbsp;(<span class='green' title='Positive feedback'>1037</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85451"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85451">1g Amfetamiini 35e/g</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/vauhtitonttu">vauhtitonttu</a></span>&nbsp;(<span class='green' title='Positive feedback'>755</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23253"><img src="/kuvat/tuotekuvat/69e6683000f3f1d91fc6f0b046136f88abfb38ca.jpg?1455972444" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23253">10 Gram Amphetamine Speed Paste 61-70% </a> (<span title='30 EUR'>30&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>580</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85465"><img src="/kuvat/tuotekuvat/796bf7d0fc75ad460e834493e6aefc79b6ac6924.jpg?1487025819" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85465">10GR SPEED PASTE 74% Amphetamine </a> (<span title='27 EUR'>27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nl-airline">NL-AIRLINE</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/42524"><img src="/kuvat/tuotekuvat/236f7ee420fe06bc17def594bb006ae66ba7574c.jpg?1463515671" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/42524">10 G SPEED paste (AMPHETAMINE) AAA+ HIGH QUALITY ★★GERMANY SHIP</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>Hinnasto + Tilaa tästä (vain maastokätköt) </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

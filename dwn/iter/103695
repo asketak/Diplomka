@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wmXW6MLqW6GWONz1Nho2/O7NcFx00YXCaEV5PIpl6RsPwZh4dg37qdX92QhaZvLoH9fWbkdwM/YvjSut19PMDQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f1672a166a0a2fab0367a8df8a770d78dfe623a3.jpg?1519415385"><img src="/kuvat/tuotekuvat/3c51d15b21918b65911304b7cbe139ab73c691a9.jpg?1519415385" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Winstrol Inject - 100 mg/ml/ 10 ml - Bioniche Pharma</h1>
+<ul class='list-unstyled specs'>
+<li>78 EUR <em>(0.009957 BTC)</em></li>
+<li>25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="q8N0PgmYEZJ1aQRGPMSefoG8MZ2yNgeHFtQ6PPqYqkBmZzquvX+xmjasAbtQuFpqcKaXr4GXsbNRHGitpy6PVg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="689455">Domestic shipping to Holland (included)</option>
+<option value="689456">Tracked shipping to Europe (+5 EUR)</option>
+<option value="689457">Additional product (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103695" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Injectable Winstrol, commonly known as Winstrol Depot or Stanozolol Depot is simply the injectable version of the Stanozolol hormone. Unlike most injectable anabolic steroids, injectable Winstrol is an aqueous based solution; it is suspended in water. Most injectable steroids are suspended in oil, and this is a good thing due to oil based products carrying a much safer nature due to the greater probability of an aqueous solution being infested with bacteria. Of course, by its crystalline nature, this is why injectable Winstrol is water based. Now that we've gotten that out of the way, and its state of nature is the true significant difference over its counterpart, we can now look at what defines injectable Winstrol or rather differentiates its mode of action from its counterpart.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic shipping to Holland) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/13298"><img src="/kuvat/tuotekuvat/20274aa45137cc67f39bf09ec079845fcabd78ff.jpg?1455970285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13298"> ANAVAR 50MG X 60 TABLETS IS PHARMACEUTICALS </a> (<span title='50 GBP'>56.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/17901"><img src="/kuvat/tuotekuvat/64e017bd3e25f1943b3a0a2b4a50c7391e547816.jpg?1455971513" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/17901">Ephedrin 50tabs/50mg-kpl -Joulutarjous!</a> (<span title='85 EUR'>85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55186"><img src="/kuvat/tuotekuvat/800f6cc527682300bc3759c01823f6cf3ec87c69.jpg?1482013574" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55186">Cerberus Pharma Anavar 50mg x 100 tablets</a> (<span title='62 GBP'>70.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52349"><img src="/kuvat/tuotekuvat/efe55a95293292be424188feddefb9b40c47b9fc.jpg?1515682737" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52349">Letrozol | 60 tabs (2.5mg/tab) - Balkan Pharmaceuticals</a> (<span title='89 USD'>72.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20206"><img src="/kuvat/tuotekuvat/54bba251a922bc43241adba96c1b4cf9682c80b9.jpg?1455971953" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20206">Medigen Dianabol 20mg X 200 Tabs. </a> (<span title='52 GBP'>59.08&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1331</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2704">Other injectables</a>
+</li>
+<li class='active'>Winstrol Inject - 100 mg/ml/ 10 ml - Bioniche Pharma</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7833.34 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

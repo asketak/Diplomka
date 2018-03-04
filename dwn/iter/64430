@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Bv4f1CEk3HflXqSbM6bYa7jfhKEXKLRb3vEnVvgYUIjLWlFElcN8f6aboWZf2hx/ScUikySJAm+ZOXXHpa51ng==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/0eb9c85c0ad65090c610ef912055aafc5eabc096.jpg?1475757167"><img src="/kuvat/tuotekuvat/081b56cfd10301543d52b3201fdc318d53a582df.jpg?1475757167" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Clenbuterol - 50 tb/40 mcg - Nas Pharma</h1>
+<ul class='list-unstyled specs'>
+<li>33 EUR <em>(0.004231 BTC)</em></li>
+<li>9 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Bi/faCo29S3hDxDuownmEnDXgOvwNbcPP+YoCt2Bw0fLi5H4ntFVJaLKFRPPdSIGgc0m2cOUATt4LnqbgDfmUQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="647097">Domestic shipping to Holland (included)</option>
+<option value="647098">Tracked shipping to Europe (+5 EUR)</option>
+<option value="647099">Additional product (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64430" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Clenbuterol is a powerful fat-burner with some similarities to Ephedrine yet far more powerfully effective. As a thermogenic, the effects of Clenbuterol are very simple. As the body temperature increases, which again is due to the beta-2 stimulation, the individual is now able to burn calories at an enhanced rate. Body temperature goes up, the metabolism is enhanced, fat cells are stimulated due to the increase in temperature due to the now enhanced metabolism, the breakdown of triglycerides is now enhanced and fat loss occurs.</p>
+
+<p>Dosage:</p>
+
+<p>In a performance setting as a thermogenic, Clenbuterol doses will start low and generally increase overtime due to a down regulation of the beta-receptor. Most men will find starting at 40mcg per day to be perfect. Many women may also be fine with this starting dose, but many will be far more comfortable with a starting dose of 20mcg per day. As the body adapts, the dose will need to increase in order to maintain the full fat loss benefits. There are several schools of thought on the best way to use Clen in a fat burning setting, but there are only three that really make any sense. All three will work very well, but you may need to try all three at separate times to find which one works best for you.</p>
+
+<p>How to use:</p>
+
+<p>There are several schools of thought on the best way to use Clen in a fat burning setting, but there are only three that really make any sense. All three will work very well, but you may need to try all three at separate times to find which one works best for you.</p>
+
+<p>Two Week Rotation:</p>
+
+<p>One of the most common methods of Clenbuterol use for fat loss purposes is two weeks on followed by two weeks off. This type of use will normally continue until the end goal is reached. The individual will start with the initial dose and increase it by 20mcg every few days until he has reached the maximum desired or needed dose. The individual will then hold at this dose the final days of the two week period and then discontinue all Clenbuterol use for two weeks. At the end of the two weeks with no Clen, the individual will begin the process again.</p>
+
+<p>The two week rotation schedule is very effective, but there is also a problem. During the off periods you have no Clen in your system, and as a result, a two week period with a decreased metabolic rate. This does not mean you won’t be burning fat during the off week periods, as long as you’re dieting you should still lose fat, but you are giving up the enhancement.
+<br />Continuous Use:</p>
+
+<p>Due to the body’s ability to adapt to Clenbuterol, continuous use is very hard for some to get their head around. When we consider that the stimulating effects of a noticeable nature began to wane first, the idea of continuous use for some doesn’t make any sense, but we assure you this method of use can work very well. Remember, the same dose of Clen can keep the metabolism revved for up to 5 weeks.</p>
+
+<p>With this type of use, the individual will begin with the starting dose of 20-40mcg per day and hold at that dose for 2-3 weeks. At the end of the 2-3 week period, the individual will increase the dose by 20mcg and hold at that dose for another 2-3 weeks. From here, the individual will increase the dose 20mcg every 2-3 weeks as needed until the diet or total Clen use comes to an end. This type of use will keep your metabolism revved the entire time. It may not experience as great of an increase as would with a massive or very frequent increasing in dose schedule, but it will be a steady and continuous enhancement. There will be no period in the diet during Clenbuterol use that the individual doesn’t enjoy the metabolic enhancement.
+<br />In Between:</p>
+
+<p>The final preferred method of Clenbuterol use falls in-between our other two discussed methods. This type of use will last for 4-6 weeks and can be an excellent way to use it for the individual who is only using it the last few weeks leading up to competition. The individual will start with 40mcg per day and increase periodically until he reaches the maximum desired or needed dose and will hold at the maximum dose the final 7-14 days of the plan. The increases in dosing will not be as dramatic as the two week rotation schedule but stronger than the continuous plan. At this stage, if more Clen is still needed, the individual will need to wait 4-6 weeks before beginning a new phase. This makes this type of use best for those who only need a short period of metabolic enhancement.</p>
+
+<p>Regardless of the type of schedule you use, the maximum Clenbuterol dose will normally be 120mcg per day. Some may find 140mcg per day to be acceptable, especially some men, but no one should for any reason surpass the 140mcg per day mark if they are going to avoid cardiac damage. Regardless of the total dosing or plan of use you use, Clenbuterol use should be kept at no more than 16 weeks of total use. 16 weeks of total use per year should be your guide. For the individual competing in more than one show per year at different stages of the year, we can make exceptions. However, this individual should try to keep the total use as close to a 16 week total every 12 months as possible for safety reasons.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic shipping to Holland) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/67491"><img src="/kuvat/tuotekuvat/ffda4c15925c5bc5d641973aaaeaf9fd76228c5f.jpg?1477259060" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67491">Cerberus Pharma Deca 250mg</a> (<span title='32 GBP'>36.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/13274"><img src="/kuvat/tuotekuvat/73c68a756acee6ddc3259348ae29b609db4337f2.jpg?1455970282" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13274"> HCG PREGNYL 5000IU ORGANON </a> (<span title='25 GBP'>28.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98425"><img src="/kuvat/tuotekuvat/2ad14c7d1e6070a5433078e716b70bc2d483f4e4.jpg?1502953053" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98425">Metandienone 50tabs/20mg *(UUTUS!)</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52301"><img src="/kuvat/tuotekuvat/8a77811b0c72a00a2849eb6201cfc4e2c4737921.jpg?1468413622" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52301">SP Stanozol/Winstrol | 100 tabs (10 mg/tab) - SP Laboratories</a> (<span title='38 USD'>30.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20221"><img src="/kuvat/tuotekuvat/99dbdaa929572e2bc6f779545ea7b0c851905a2c.jpg?1455971956" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20221">Nolvadex / Tamoxifen. 20mg X 60 Tabs</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1333</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Clenbuterol - 50 tb/40 mcg - Nas Pharma</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dpl28BzCAWTK1/sG7II8vy3DVs/am7KKUXa0WVVsqC67PThgqCWhbIkS/vuA/vir3Nnw/ek6BL4WvubICNqNOA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d5f9a2a315982bd40e2aa592418587462f8faacc.jpg?1477161333"><img src="/kuvat/tuotekuvat/759a49a23d2505aa7a4c405a364de55b2418872b.jpg?1477161333" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5 grams of high quality MDMA</h1>
+<ul class='list-unstyled specs'>
+<li>144.86 EUR <em>(0.018599 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/nahko">nahko</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lQH7U6RyT7QcMZb7NRhyLKXN+KE3YDt282Fl7ganO6RYpbXDEJXvvF/0kwZZZLY4VNdekwTBjUK0qTd/WxEesg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67293" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>** Please always read our vendor profile before ordering for updates**</p>
+
+<p>Hi, welcome to Nahko's medicine for the people.</p>
+
+<p>We are happy to announce that we are now selling high quality MDMA.</p>
+
+<p>Our prices are:</p>
+
+<p>1g - $50
+<br />2g - $90 ($45/g)
+<br />3.5g - $140 ($40/g)
+<br />5g - $185 ($37/g)
+<br />7g - $240 ($33/g)</p>
+
+<p>=================
+<br />Stealth
+<br />=================</p>
+
+<p>MDMA packages are double vacuum sealed and then sealed in mylar. </p>
+
+<p>Unlike most MDMA vendors, we ship with a decoy. We take stealth very seriously. </p>
+
+<p>================
+<br />Picture
+<br />================</p>
+
+<p>Picture may or may not represent the actual product. We do not take new pictures every time we get a new batch. </p>
+
+<p>Regardless of what it looks like, it will be fire.</p>
+
+<p>=================
+<br />More Info
+<br />=================</p>
+
+<p>Please see our profile for more info.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (6.51 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/96113"><img src="/kuvat/tuotekuvat/ed0b3f17759ff7a0ec7531311d092744a7bba2f7.jpg?1498743968" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96113">100 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='140 EUR'>140&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102200"><img src="/kuvat/tuotekuvat/75432ec3874e712e6e83e59c3e59a99d3411d649.jpg?1513224008" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102200">❤ 20pcs MDMA pills ★ SILVER ★ 220mg ❤</a> (<span title='250 USD'>203.45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100522"><img src="/kuvat/tuotekuvat/56a38f9f8f9091a44e7c93ab340f2bb9dbdf1db6.jpg?1509048854" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100522">50 gram of pure MDMA</a> (<span title='200 GBP'>227.56&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97859"><img src="/kuvat/tuotekuvat/ca6592973253dc5328140f041e6dd9cfba6be72c.jpg?1501954196" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97859">Champagne MDMA 84%+, 50 Grams FE </a> (<span title='205 USD'>166.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103673"><img src="/kuvat/tuotekuvat/408fe891b3e4bba891aa972dac9a390915b80d69.jpg?1519316082" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103673">★★★ Warner Bros. Extacy 180mg (15€/1kpl) ★★★</a> (<span title='155 EUR'>155&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nuuskatukku2">NuuskaTukku2</a></span>&nbsp;(<span class='green' title='Positive feedback'>126</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1602">MDMA</a>
+</li>
+<li class='active'>5 grams of high quality MDMA</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

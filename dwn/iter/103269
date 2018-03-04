@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bt3qLnymqyoFW5gXA4KNRGgoqZNLqfPsvcXC913l05ejeaS+yEELIkaenepv/klQmTIPoXgIRdj6DZBmAFP2gQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9a91a3b388bb84a656dbbd0513581ad5713a56ad.jpg?1517825037"><img src="/kuvat/tuotekuvat/0a9cb75e6d4806698a04e75232d9cbfaa1c4f366.jpg?1517825037" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Testex Pro-250 (Testosterone Cypionate) (Malaytiger) 10x1ml</h1>
+<ul class='list-unstyled specs'>
+<li>67 EUR <em>(0.0086 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, Germany</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1+fqigRMArAWtm4LMvLyaSVoDY/gGCRRTbu56594Wq0aQ6QasKuiuFVza/ZejjZ91HKrvdO5kmUKc+t6ws5/uw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103269" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>
+<b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/mustajaska/products">Check this out!</a></p>
+
+<p>Testex Pro-250 (Testosterone Cypionate)</p>
+
+<p>CONTENTS: 250mg/1 ml (10 amp./1 ml)</p>
+
+<p>CHEMICAL NAMES:
+<br />4-androsten-3-one-17beta-ol
+<br />17beta-hydroxy-androst-4-en-3-one</p>
+
+<p>DESCRIPTION:
+<br />Testosterone cypionate is a slow-acting injectable ester of the primary male androgen testosterone. Testosterone also the principle anabolic hormone in men, and is the basis of comparison by which all other anabolic/androgenic steroids are judged. As with all testosterone injectables, testosterone cypionate is highly favored by athletes for its ability to promote strong increases in muscle mass and strength. It is interesting to note that while a large number of other steroidal compounds have been made available since testosterone injectables, they are still considered to be the dominant bulking agents among bodybuilders. There is little argument that these are among the most powerful mass drugs available, testosterone cypionate included.</p>
+
+<p>SIDE EFFECTS:
+<br />Testosterone is readily aromatized in the body to estradiol (estrogen). Elevated estrogen levels can cause side effects such as increased water retention, body fat gain, and gynecomastia. Elevated levels of testosterone are likely to produce androgenic side effects including oily skin, acne, and body/facial hair growth. Men with a geneti predisposition for hair loss (androgenetic alopecia) may notice accelerated male pattern balding. Anabolic/androgenic steroids can have deleterious effects on serum cholesterol. This includes a tendency to reduce HDL (good) cholesterol values and increase LDL (bad) cholesterol values, which may shift the HDL to LDL balance in a direction that favors greater risk of arteriosclerosis.</p>
+
+<p>ADMINISTRATION:
+<br />Although active in the body for a longer time, testosterone cypionate is usually injected on a weekly basis for physique- or performance-enhancingpurposes. The usual dosage is in the range of 200-600 mg per week, taken in cycles 6 to 12 weeks in length.This level is sufficient for most users to notice exceptional gains in muscle size and strength.</b></p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55186"><img src="/kuvat/tuotekuvat/800f6cc527682300bc3759c01823f6cf3ec87c69.jpg?1482013574" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55186">Cerberus Pharma Anavar 50mg x 100 tablets</a> (<span title='62 GBP'>70.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102812"><img src="/kuvat/tuotekuvat/f5732d58ee1f70b8ab0396973d706b4630513557.jpg?1516042646" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102812">Super Testosterone - 450 mg/ml/ 10 ml - Body Pharm</a> (<span title='88 EUR'>88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/64531"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/64531">LGD-4033 jauhe 500mg</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hiro">Hiro</a></span>&nbsp;(<span class='green' title='Positive feedback'>1501</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>Testex Pro-250 (Testosterone Cypionate) (Malaytiger) 10x1ml</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

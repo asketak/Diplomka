@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PA/vmEMTMK/j1eoGyXYbf3ZgHUtWKPn9uWDqu/GczCLxq6EI9/SQp6AQ7/ulCt9rh3q7eWWJT8n+qLgqrCrpNA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/cef275eefb14280d1dd905e5b05ee688894d5be8.jpg?1517773772"><img src="/kuvat/tuotekuvat/ef1aa816c66b9b6ace05bb5f911895e4f4d3daa2.jpg?1517773772" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sterling Haze 3g</h1>
+<ul class='list-unstyled specs'>
+<li>55 EUR <em>(0.0071 BTC)</em></li>
+<li>5 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/unipuu">UniPuu</a></span>&nbsp;(<span class='green' title='Positive feedback'>245</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lokUNMebU8zwY/f1JHJS22TwKgmCwiXn0f/9IhH7aINbLVqkc3zzxLOm8ghIDpbPleqMO7Fjk9OWN6+zTE1NlQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69446" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Itse sisällä kasvatettua Sterling Hazea, Nirvanan lajike.
+<br />Seuraava postitus 27.2</p>
+
+<p>Tässä Perus Sterling Hazea. Perinteinen F1 hypridi. </p>
+
+<p>Tiimin uusin luotto poltto. Mukavan energisoiva, sopii päiväpolttoon tai juhlimiseen ja ei jumita liikaa. Käytetään moniin lääkinnällisiin vaivoihin.</p>
+
+<p>Lajike: Sterling Haze
+<br />Linjaus/sukupuu: Haze ja Northern Light 
+<br />Genotyyppi: hybridi, indica-sativa
+<br />Vaikutus: Energisoiva, sopivan jumittava</p>
+
+<p>Postitamme Ma-Ke seuraavana päivänä tilauksesta hyvin pakattuna: Tupla mylar, vetyperoksidiliuos pesu, huomaamaton paketointi jne.
+<br />Emme lähetä postirestante osoitteisiin emmekä toimita kuin Suomen alueelle. Lisää toimitusehdoista ja postituksesta kaupan sivulta.</p>
+
+<p>Muistathan vapauttaa maksun tuotteen saavuttua, ja antaa palautetta testattuasi tuotetta</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikin puolin erittäin pätevä meininki!
+<em>(23.2.)</em>
+</td>
+<td><span>
+Du***ch
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++ Nopee Toimitus Ja Loistavaa Polttoa Vaikka 26v Tolet xD +++
+<em>(21.2.)</em>
+</td>
+<td><span>
+Mr***nd
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvä paketointi, nopea toimitus, reilusti bonareita, testiin menee samantien.
+<em>(21.2.)</em>
+</td>
+<td><span>
+sa***st
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(8.2.)</em>
+</td>
+<td><span>
+Un***ed
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (4.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/98664"><img src="/kuvat/tuotekuvat/fe63b0da1c861a20b23633b0e4d09eb8b5da152e.jpg?1503867476" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98664">aurora borealis 3g</a> (<span title='50 EUR'>50&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pilvi-prinssi">pilvi prinssi</a></span>&nbsp;(<span class='green' title='Positive feedback'>663</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101315"><img src="/kuvat/tuotekuvat/993c331ed9ecf1de145ad256914f93eb8bf2497e.jpg?1510922335" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/swiss">Swiss</a></span>&nbsp;(<span class='green' title='Positive feedback'>250</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100014"><img src="/kuvat/tuotekuvat/d61c229de6d93c133f797ddb2cfd00f0834f61b3.jpg?1507886041" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100014">PurePowerPlant 3g/5g/10g. - Tupla Mylar + Ei FE</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/sakari">Sakari</a></span>&nbsp;(<span class='green' title='Positive feedback'>2132</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/4270"><img src="/kuvat/tuotekuvat/e3ede2cbd6782c8e1f09a8855394bc90ff6b6d94.jpg?1503138233" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/4270">3g California Orange</a> (<span title='79 EUR'>79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kukkakatti">kukkakatti</a></span>&nbsp;(<span class='green' title='Positive feedback'>720</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102110"><img src="/kuvat/tuotekuvat/38983fae67439908e270b4434fc8419e110e90d6.jpg?1513104365" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102110">3g Pure Power Plant</a> (<span title='60 EUR'>60&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/savula">Savula</a></span>&nbsp;(<span class='green' title='Positive feedback'>70</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Sterling Haze 3g</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

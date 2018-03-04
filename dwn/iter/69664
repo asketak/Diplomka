@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zMWwciiUdZoYrNA2WcKqkRLOxwdBJsgcaavtMRmRzs8BYf7inHPVkltp1cs1vm6F49RhNXKHfiguY7+gRCfr2Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/a715c1e587da89c4b08ae285065be2c0980f32df.jpg?1478459213"><img src="/kuvat/tuotekuvat/ead52c662259a9d54bb910493b8e5090177f4537.jpg?1478459213" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Marrocan Sputnik 250 Gram</h1>
+<ul class='list-unstyled specs'>
+<li>1378 EUR <em>(0.177877 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/weedtastic">Weedtastic</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4eWHeLAAJyGRLZOqSqnTGSfQFqzHMr7b0jmYfPqY5i0sQcnoBOeHKdLollcm1RcN1sqwnvSTCO+V8crtpy7DOw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="330724">Domestic (included)</option>
+<option value="330725">International (+7 EUR)</option>
+<option value="330726">Registered &amp; tracked (+7 EUR)</option>
+<option value="330727">Registered &amp; tracked Europe/Interna (+17 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69664" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This is our Marrocan Sputnik hash.
+<br />Sputnik is a Hash excellent quality from the mountainous northern Morocco. It is made from the first screening of selected, wild plants and know very
+<br />high potency on. For Morocco ratios this dope is amazing on the body. The psychedelic touch is nevertheless available at all times
+<br /> Sputnik steht für ein Hasch ausgezeichneter Qualität aus dem gebirgigen Norden Marokkos. Es wird aus der 1. Siebung von ausgewählten, wilden Pflanzen hergestellt und weißt eine sehr 
+<br />hohe Potenz auf. Für Marokko-Verhältnisse geht dieses Dope erstaunlich auf den Körper. Die psychedelische Note ist aber trotzdem jederzeit vorhanden.</p>
+
+<p>It is easily kneaded in the hand and stamped with "Taka" in 50g packages.
+<br />Er ist in der Hand sehr einfach knetbar, mit "einem Apfel gestempelt" gestempelt und in 100g Platten verpackt. </p>
+
+<p>Overall, hashish is generally divided into 10 quality levels. The highest quality number 10 can only be found in very few coffeeshops in Holland. The quality levels 7-9 are usually traded there.
+<br />Insgesamt wird Haschisch allgemein in 10 Qualitätsstufen unterteilt. Die höchste Qualität Nummer 10 ist nur in sehr wenigen Coffeeshops in Holland zu finden. Zumeist werden dort die Qualitätsstufen 7-9 gehandelt. </p>
+
+<p>Our Marrakesh Sputnik Hash receives a note of 08-09/10.
+<br />Unser Marrokanischer Sputnik Hasch erhält von uns eine Note 08-09/10.</p>
+
+<p>It is available in an disount offer, too.
+<br />Es ist ebenso mit einem Mengen rabatt erhältlich.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/39319"><img src="/kuvat/tuotekuvat/50294d1bbf04c4c8dec9d69cf579905e9fa2badf.jpg?1461763580" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39319">5-f-NPB-22 1000g</a> (<span title='2159 USD'>1751.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72229"><img src="/kuvat/tuotekuvat/bada0ab0a3745579c714cd5c31e3f83d39fb4db4.jpg?1479842303" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/72229">JACK HERER 1/2 LBS (224 GRAMS) GREEN HOUSE(HALF POUND)</a> (<span title='1280 EUR'>1280&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103586"><img src="/kuvat/tuotekuvat/969b6e4a3152f98d0a6d04cb7faf81c224ab1496.jpg?1518813279" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103586"> **1 LBS DREAM QUEEN G.H. 448 GRAMS**</a> (<span title='1929.98 USD'>1565.99&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93908"><img src="/kuvat/tuotekuvat/e714fa418fba2447255335282bd2a65ac29f1336.jpg?1516565684" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93908">Custom 1 LB - 448g - (CANADA ONLY)(Msg Me For Strain)- XpressPost</a> (<span title='2325 USD'>1886.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103201"><img src="/kuvat/tuotekuvat/11e40e2cec4ec428efb2493998a4e8aa3e703126.jpg?1517582344" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103201">Fub-amb Amb-fubinaca ★★★ shipping form EU ★★★ 500 grams</a> (<span title='1999 USD'>1621.99&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>Marrocan Sputnik 250 Gram</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

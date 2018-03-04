@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tk5DD+tOM7cO5XkcQxHEd+AafYxQKPLWZteb52I586V76g2fX6mTv00gfOEvbQBjEQDbvmOJROIhH8l2P4/Wsw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2e0d805c72b3104b53403d63a1f6c84c4e322813.jpg?1484378929"><img src="/kuvat/tuotekuvat/8a8c1c09f2021a38d99d18c79e1b565b7490f3f1.jpg?1484378929" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1 gram #4 China white heroin - light grey</h1>
+<ul class='list-unstyled specs'>
+<li>166.34 EUR <em>(0.021471 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/offdabrick">offdabrick</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KCpwxwMO1YujEWMUdWq2+Y0x8LyBmMS4qwgHzckfoNPljj5Xt+l1g+DUZukZFnLtfCtWjrI5cozswFVclKmFxQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="409112">priority - 4 day max in transit (included)</option>
+<option value="409113">express overnight - 2 day max in tr (+14.61 EUR)</option>
+<option value="409114">combined order (-5.68 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="80192" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>The price is the escrow price. If u FE the order u will receive 10% extra 4 reducing my investment time and hassle.</p>
+
+<p>Note: Very light grey colored, always impeccable quality! No fent, but very strong so ease into this stuff!</p>
+
+<p>The product speaks for itself! You cannot find better quality #4 heroin anywhere in the United States of America, and definitely not at this price!</p>
+
+<p>Your order will be sent out within 48 hours and usually within 24 hours as long as I'm able to make that happen. Please leave a review on the Dream forum and the Avenger forum so people can know where to get the best cola on the dark net.</p>
+
+<p>DREAM REVIEWS - http://tmskhzavkycdupbr.onion/viewtopic.php?id=21426
+<br />AVENGER REVIEWS - http://dnmavengeradt4vo.onion/index.php?topic=3413.msg46239#msg46239</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.68 EUR (priority - 4 day max in transit) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/37376"><img src="/kuvat/tuotekuvat/b6ab97a7d1cf2367a617af63f022e81d9653f4b8.jpg?1480458441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37376">250mg Fentanyl 99.5%</a> (<span title='335 USD'>271.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/57565"><img src="/kuvat/tuotekuvat/46b1e8e5c397726a5ce0fea3a59aea04ecc512c8.jpg?1471757015" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57565">AFGHANISTAN  #4 HEROIN HIGH QUALITY - 1 Gram</a> (<span title='177 USD'>143.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theoriginaldragoncove">theoriginaldragoncove</a></span>&nbsp;(<span class='green' title='Positive feedback'>1274</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16768"><img src="/kuvat/tuotekuvat/68cd756f3d14a16136aa48589200a71bc7fa6e87.jpg?1484476712" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16768">5G TSC&#39;s Original Spanish Bayer Opium ~ FE PRICE ~</a> (<span title='223.49 USD'>181.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/the-scurvy-crew">The Scurvy Crew</a></span>&nbsp;(<span class='green' title='Positive feedback'>666</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87557"><img src="/kuvat/tuotekuvat/a879cfe93e3d1142f6d8260c43d67f34803f4134.jpg?1488645152" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87557">[US-US] 20 TABS x Oxycodone 30mg K9 imprint $149.99 HIGH QUALITY!</a> (<span title='167.98 USD'>136.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16442"><img src="/kuvat/tuotekuvat/edaf1b4f7274dadc19bb3724d492cc9e2396394b.jpg?1480861477" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16442">!!!PROMO PRICE!!!5g Premium Bayer Opium FE </a> (<span title='174.98 USD'>141.98&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>788</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>1 gram #4 China white heroin - light grey</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bXXLbfMKlZOpu4kgchWMLcOnwlpw1vi4RlvL8UuoxGyg0YX9R+01m+p+jN0eaUg5Mr1kaEN3TowBk5lgFh7heg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f06362e239ecc11151937c362d3371e6ed6afbcc.jpg?1515681010"><img src="/kuvat/tuotekuvat/611e4b877c782692cf5589d4c4918f378c12ecc0.jpg?1515681010" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Dostinex - Cabergoline</h1>
+<ul class='list-unstyled specs'>
+<li>54.48 EUR <em>(0.006994 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</li>
+<li>Bulgaria &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YWfuU38X9nbW01nfI5WBJvgHVAHBW8qCCM5jtpXWgRasw6DDy/BWfpUWXCJP6UUyCR3yM/L6fLZPBjEnyGCkAA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="683697">Worldwide with tracking number (included)</option>
+<option value="683698">Additional product (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102686" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>DOSTINEX also know as Caber or Cabergoline is indicated for the treatment of hyperprolactinemic disorders, either idiopathic or due to pituitary adenomas. Bodybuilders use it more for combating prolactin and its effects.</p>
+
+<p>   For Men, Dostinex helps to combat hyperprolactinemia and struggling with enlarged mammary glands, reduced sperm production and sexual dysfunctions, milk production.</p>
+
+<p>   Sportsmen who are using anabolic steroids use it more to combat prolactin and to treat sexual dysfunction when are used in the cycles such type of steroids like Deca Durabolin and Trenbolone. Also, it increases the sexual drive and reduces recovery time between orgasms.</p>
+
+<p>   Dostinex is good and for combating estrogen side effect like oily skin, gynecomastia, acne and bloating.</p>
+
+<p>   Side Effects are very rare and only on overdosages.</p>
+
+<p>   Dosage: The recommended dosage is 0.25 to 1 mg twice a week and to be taken before bedtime.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/67493"><img src="/kuvat/tuotekuvat/b95d8aa8358afec9e31c13da4f0171010368c55c.jpg?1477260067" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67493">Cerberus Pharma Sustanon 250mg</a> (<span title='37 GBP'>42.04&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/13298"><img src="/kuvat/tuotekuvat/20274aa45137cc67f39bf09ec079845fcabd78ff.jpg?1455970285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13298"> ANAVAR 50MG X 60 TABLETS IS PHARMACEUTICALS </a> (<span title='50 GBP'>56.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85095"><img src="/kuvat/tuotekuvat/ad526b8909aa1b7a9d8850ad5626861d11169db1.jpg?1488096492" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85095">Mod GRF 1-29 - 10 mg - Bio-Peptide</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20221"><img src="/kuvat/tuotekuvat/99dbdaa929572e2bc6f779545ea7b0c851905a2c.jpg?1455971956" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20221">Nolvadex / Tamoxifen. 20mg X 60 Tabs</a> (<span title='42 GBP'>47.72&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1331</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85234"><img src="/kuvat/tuotekuvat/5a846e38f3f7124ff3535a511b6ea7b1d93ce7ac.jpg?1486872109" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85234">Deca 300 Test E 250 Tren e 200 Geneza Pharmaceuticals</a> (<span title='50 EUR'>50&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Dostinex - Cabergoline</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

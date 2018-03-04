@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lM8FcD14MOvmJU3fJNC+wMdcSJ3uPudbER2sEIsXwXFZa0vgiZ+Q46XgSCJIrHrUNkbur92fUW9W1f6B1qHkZw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2e8348675a51bfd7e2a1b4b96030dff67b7956bb.jpg?1491218997"><img src="/kuvat/tuotekuvat/8382d8032c7710ed799dd43cbe5fc7d3495aa5dc.jpg?1491218997" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>THC Bomb - 1G - Hybrid - 1g / 22e</h1>
+<ul class='list-unstyled specs'>
+<li>22 EUR <em>(0.002821 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/alko">Alko</a></span>&nbsp;(<span class='green' title='Positive feedback'>1131</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Lajike: THC Bomb 
+<br />Lajiketyyppi: vakautettu lajike
+<br />Genotyyppi: hybridi
+<br />THC Level:20 - 25% 
+<br />Haju: makea</p>
+
+<p>Vaikutus: Strong, all round buzz</p>
+
+<p>THC Bomb, a modern classic, takes its name from the plant’s extremely high potency is popular with both commercial and domestic growers. Created in the Netherlands, this variety combines Indica and Sativa genetics, with more of an Indica dominance.</p>
+
+<p>When you smoke it you’ll get an immediate heavy hit and body stone which is likely to send you straight to the sofa. However, its Sativa content also makes this an intellectually stimulating high, so put on some of your favorite music and let it take over. The weed has a potent skunk smell and flavor with earthy undertones mixed with ripe fruit notes.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/63842"><img src="/kuvat/tuotekuvat/f60f6f12e1cff5c40b1c3adf6c6f28e5b8622351.jpg?1517248970" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/63842">White Rhino 1g, luokka AAA</a> (<span title='28 EUR'>28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/unipuu">UniPuu</a></span>&nbsp;(<span class='green' title='Positive feedback'>245</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>36.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>263</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102990"><img src="/kuvat/tuotekuvat/7bf260bb76f9f2b33ae9a64a8cc10f914593c945.jpg?1516878190" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/galaxystore">GalaxyStore</a></span>&nbsp;(<span class='green' title='Positive feedback'>240</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-51</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101181"><img src="/kuvat/tuotekuvat/cc9ead446cc81206c86759dfa9f3b514544a96ce.jpg?1510731730" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101181">Mega Mouth(2.2g) outdoor weed</a> (<span title='22.4 EUR'>22.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bathramme">bathramme</a></span>&nbsp;(<span class='green' title='Positive feedback'>547</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-8</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15359"><img src="/kuvat/tuotekuvat/b97ce034bd7afda652f8bbd53a0eed3fc8098390.jpg?1455970809" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15359">7g Royal Swazi (Sativa)</a> (<span title='40 USD'>32.55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/swazibudbud888">Swazibudbud888</a></span>&nbsp;(<span class='green' title='Positive feedback'>367</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>THC Bomb - 1G - Hybrid - 1g / 22e</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

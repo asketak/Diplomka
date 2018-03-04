@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dnm+wZKRhOsZnRP7YMaOUmrEDVXoS+pIqcezveQeX7273fBRJnYk41pYFgYMukpGm96rZ9vqXHzuD+Esuah6qw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8d3d5c1beb5dc8ba59d8ff12fd6e0bf6d03510fe.jpg?1515683077"><img src="/kuvat/tuotekuvat/15b798df8f65fed5aa7034ec76ab2e8283c99147.jpg?1515683077" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Testosterone P | 1vial (10ml) (100 mg/ml) - Bodypharm (Test P)</h1>
+<ul class='list-unstyled specs'>
+<li>39.06 EUR <em>(0.005009 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</li>
+<li>Bulgaria &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GuWyfGUntzY8oTX6OHDV55OVyTXT5971U27cEhnUI/bXQfzs0cAXPn9kMAdUDBHzYo9vB+BGaMEUpo6DRGIG4A==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="683549">Worldwide with tracking number (included)</option>
+<option value="683550">Additional product (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52316" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Active substance: Testosterone Propionate
+<br />Names: Testosterone Propionate, Testosterone P, Test P</p>
+
+<p>  Propionate has got the form of androgen hormone esters  with a quick motion. In 24-36 hours  this steroid gets active, after that, begins to decrease. This anabolic steroid stays in the blood vessels for 2-3 days. Propionate improves energy as well as muscle durability after 2-3 times of administration. Water retention amounts are really low.</p>
+
+<p>   Because of its structure, is given by injection, frequently in order to keep the actual hormonal changes within side the blood vessels (injected every 2 days). If injected often, may cause difficulties, injection zone can easily enlarge, causing discomfort and also a light fever, that may last few days.</p>
+
+<p>   Because it is an easy steroid, it is the only testosterone that can be used by sportsmen. Males administer a dose of 50 mg each day to avoid injecting it many times, may be given up to 100 milligrams every 2 days.</p>
+
+<p>   Side effects are similar to other androgenic hormones. Persons that have a reduced metabolic rate can easily have problems with acne breakouts, aggression, baldness, and also the gynecomastia. Water retention and abnormalcy are, in fact, unusual, the only real downside is that they're aching as a result of repeated injection therapy. This kind of anabolic steroid ointment drugs just isn't poisonous for the liver.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/55188"><img src="/kuvat/tuotekuvat/c0b94270667cd5b78404bdcdc90a5bfac11aaf75.jpg?1482013557" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55188">Cerberus Pharma Test Enanthate 250mg/ml 10ml multivial</a> (<span title='32 GBP'>36.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102606"><img src="/kuvat/tuotekuvat/371d331eec05d38866d67905bab2af4f3df0e181.jpg?1515408157" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102606">Testosterone Enanthate - 250 mg/ml/ 10 ml - Balkan Pharmaceutical</a> (<span title='58 EUR'>58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14462"><img src="/kuvat/tuotekuvat/393610d5270b6e2ef524909d6a5b095ef712beee.jpg?1455970591" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14462">prestige pharma deca-300. 10ml vial </a> (<span title='38 GBP'>43.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94673"><img src="/kuvat/tuotekuvat/6d6a54ba56d7cefe92274825079ec2ca3512d1b8.jpg?1495977972" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94673">Syntholan Trenbolone Acetate 100mg - 10ml Bottle</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1332</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85232"><img src="/kuvat/tuotekuvat/fe67c8ca04fbaaad8eb6164280df052cd2536c99.jpg?1486871869" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85232">Anavar - 50mg  Winstrol - 50mg  Anadrol - 50mg </a> (<span title='50 EUR'>50&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2704">Other injectables</a>
+</li>
+<li class='active'>Testosterone P | 1vial (10ml) (100 mg/ml) - Bodypharm (Test P)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

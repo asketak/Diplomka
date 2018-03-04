@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6m956Ht489H0DEEKm9J6CbEJPMdEpyVik858TrIeIHUnyzd4z59T2bfJRPf3rr4dQBOa9XcGk1bUBi7f76gFYw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8f61eb58da837dc083ff8e237646ec57c1f67bf5.jpg?1502954525"><img src="/kuvat/tuotekuvat/e666c579b6238a25903142c4d0d8b4b0ac53263e.jpg?1502954525" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sustanon 250 by Organon 9x1ml - (3x3pcs) - tarjous!</h1>
+<ul class='list-unstyled specs'>
+<li>59 EUR <em>(0.007567 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="km0HK4CE6pX4WnnIMgjQKAnAPRbpiaSn3NAEOyxfpjJfyUm7NGNKnbuffDVedBQ8+NqbJNooEpObGFaqcemDJA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="589202">Domestic (included)</option>
+<option value="589203">International (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="98428" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/arnold/products">Check this out!</a></b></p>
+
+<p><b>Sustanon-250 (Testosterone Mix)</b></p>
+
+<p><b>Workout cycle example:</b>
+<br />Week 1 250mg Sust, 200mg deca
+<br />Week 2 500mg Sust, 200mg deca
+<br />Week 3 500mg Sust, 400mg deca
+<br />Week 4 500mg Sust, 400mg deca
+<br />Week 5 750mg Sust, 400mg deca
+<br />Week 6 750mg Sust, 400mg deca
+<br />Week 7 500mg Sust
+<br />Week 8 500mg Sust
+<br />Week 9 250mg Sust
+<br />Week 10 250mg Sust
+<br />Week 11 Nothing
+<br />Week 12 Nothing
+<br />Week 13 40mg Tamoxifen
+<br />Week 14 30mg Tamoxifen
+<br />Week 15 20mg Tamoxifen</p>
+
+<p><b>It's same as our other product!:  Omnadren is a four-part testosterone blend that is virtually identical to Sustanon 250. </b>
+<br />http://valhallaxmn3fydu.onion/products/10830 </p>
+
+<p>CONTENTS: 250mg/ml (10 amp./1ml)</p>
+
+<p>DESCRIPTION:
+<br />Sustanon-250 is an oil-based injectable testosterone blend that contains four different testosterone esters: testosterone propionate (30 mg); testosterone phenylpropionate (60 mg); testosterone isocaproate (60mg); and testosterone decanoate (100 mg. ) Sustanon is designed to provide a fast yet extended release of testosterone, usually requiring injections once every 3 to 4 weeks in a clinical setting. This is an improvement from standard testosterones such as cypionate or enanthate, which provide a shorter duration of activity. As with all testosterone products,
+<br />Sustanon-250 is a very strong anabolic drug with pronounced androgenic activity. It is most commonly used in bulking cycles, providing exceptional gains in strength and muscle mass.
+<br />Sustanon 250 contains a mixture of four testosterone compounds, which where modified with the addition of carboxylic acid esters (propionic, propionic phenyl ester, isocaproic, and decanoic acids) at the 17-beta hydroxyl group. Esterified forms of testosterone are less polar than free testosterone, and are absorbed more slowly from the area of injection. Once in the bloodstream, the ester is removed to yield free (active) testosterone. Esterified forms of testosterone are designed to prolong the window of therapeutic effect following administration, allowing for a less frequent injection schedule compared to injections of free (unesterified) steroid. Sustanon 250 is designed to provide a rapid peak in testosterone levels (24-48 hours after injection), and maintain physiological concentrations for approximately 21 days/34 Each 250 mg ampule provides 176mg of testosterone.</p>
+
+<p>SIDE EFFECTS:
+<br />Testosterone is readily aromatized in the body to estradiol (estrogen). Elevated estrogen levels can cause side effects such as increased water retention, body fat gain, and gynecomastia. Elevated levels of testosterone are likely to produce androgenic side effects including oily skin, acne, and body/facial hair growth. Men with a geneti predisposition for hair loss (androgenetic alopecia) may notice accelerated male pattern balding. Anabolic/androgenic steroids can have deleterious effects on serum cholesterol. This includes a tendency to reduce HDL (good) cholesterol values and increase LDL (bad) cholesterol values, which may shift the HDL to LDL balance in a direction that favors greater risk of arteriosclerosis.</p>
+
+<p>ADMINISTRATION:
+<br />Although active in the body for a longer time, Sustanon 250 is usually injected every 7 to 10 days for muscle-building purposes.The usual dosage among male athletes is in the range of 250-750 mg per injection, taken in cycles 6 to 12 weeks in length.This level is sufficient for most users to notice exceptional gains in muscle size and strength.</p>
+
+<p><b>Huom! Exp. date: 01.2018</b></p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus. Hyvin pakattu. Kaikki ok. Kiitos. 
+<em>(29.1.)</em>
+</td>
+<td><span>
+zy***xx
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103123"><img src="/kuvat/tuotekuvat/b53e9f5037fda05b97fe025dbd4b6993530374e2.jpg?1517785073" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103123">ALVOGEN - ARIMIDEX / ANASTROZOLE 30 X 1MG *(UUTUS!)</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/67493"><img src="/kuvat/tuotekuvat/b95d8aa8358afec9e31c13da4f0171010368c55c.jpg?1477260067" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67493">Cerberus Pharma Sustanon 250mg</a> (<span title='37 GBP'>42.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84191"><img src="/kuvat/tuotekuvat/2389689fdfbc0a2f4b66d07000feb46ec80ce372.jpg?1515517684" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84191">Ostarine - 100 tb/ 10 mg - Olimp Pharma</a> (<span title='88 EUR'>88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>Sustanon 250 by Organon 9x1ml - (3x3pcs) - tarjous!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

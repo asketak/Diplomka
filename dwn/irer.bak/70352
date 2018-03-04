@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5DyByA20n4DnoFEEO0l7MkHQuZf6BOZTzfx8imN4erQpmM9YuVM/iKRlVPlXNb8msMofpcmlUGeKNC4bPs5fog==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/175961406890031b9136f6411d63d5902f7db58b.jpg?1478824414"><img src="/kuvat/tuotekuvat/4903b5847d813dad0da28656ede2f2539423e30c.jpg?1478824414" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Gerodorm (diazepam) 10 kpl/40mg</h1>
+<ul class='list-unstyled specs'>
+<li>38 EUR <em>(0.004905 BTC)</em></li>
+<li>5 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tQgRFXesnmFs31KMKkCq06TVeqk61scU3RWcEfB6se94rF+Fw0s+aS8aV3FGPG7HVc/cmwl3cSCa3c6ArcyU+Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="335943">Domestic (included)</option>
+<option value="335944">International (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="70352" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/arnold/products">Check this out!</a></b></p>
+
+<p><h3>Product description</h3>
+<br />Diazepam is used to treat anxiety, acute alcohol withdrawal, and seizures. It is also used to relieve muscle spasms and to provide sedation before medical procedures. This medication belongs to a class of drugs called benzodiazepines which act on the brain and nerves (central nervous system) to produce a calming effect. It works by enhancing the effects of a certain natural chemical in the body (GABA).</p>
+
+<p>OTHER USES: This section contains uses of this drug that are not listed in the approved professional labeling for the drug but that may be prescribed by your health care professional. Use this drug for a condition that is listed in this section only if it has been so prescribed by your health care professional.</p>
+
+<p>This medication may also be used to prevent extremely bad nightmares (night terrors).
+<br />How to use diazepam</p>
+
+<p>Take this medication by mouth as directed by your doctor. The dosage is based on your medical condition, age, and response to therapy. If you are taking a liquid form of this medication, use a medication measuring device to carefully measure out the prescribed dose. Do not use a household spoon because you may not get the correct dose. If you are using the oral concentrate solution, use the dropper provided to carefully measure out the dose and mix it in liquid or soft food (e.g., applesauce, pudding) just before taking.</p>
+
+<p>Use this medication exactly as prescribed. Do not increase your dose, take it more frequently or use it for a longer period of time than prescribed because this drug can be habit-forming. Also, if used for an extended period of time or for seizure control, do not suddenly stop using this drug without your doctor's approval. Some conditions may become worse when the drug is abruptly stopped. Your dose may need to be gradually decreased.</p>
+
+<p>When used for an extended period, this medication may not work as well and may require different dosing. Talk with your doctor if this medication stops working well.</p>
+
+<p>Avoid eating grapefruit or drinking grapefruit juice while being treated with this medication unless your doctor instructs you otherwise. Grapefruit juice can increase the amount of certain medications in your bloodstream. Consult your doctor or pharmacist for more details.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103100"><img src="/kuvat/tuotekuvat/e9795ebe89048a7d8187744a05da4857f0a970c1.jpg?1517784619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103100">Vidalista (Viagra) 60mg / 10tabl. </a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/25127"><img src="/kuvat/tuotekuvat/013cc91ee09ed8a9b938c9236d0e851bc5f00714.jpg?1510723002" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/25127">Bio-Peptide Ghrp-2 10mg</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/67493"><img src="/kuvat/tuotekuvat/b95d8aa8358afec9e31c13da4f0171010368c55c.jpg?1477260067" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67493">Cerberus Pharma Sustanon 250mg</a> (<span title='37 GBP'>42.15&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2890</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85095"><img src="/kuvat/tuotekuvat/ad526b8909aa1b7a9d8850ad5626861d11169db1.jpg?1488096492" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85095">Mod GRF 1-29 - 10 mg - Bio-Peptide</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>Gerodorm (diazepam) 10 kpl/40mg</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

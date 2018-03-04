@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kV351XMr08yUCKwYkMvJF6NIvSB9peA7IE9A6EyOIcFc+bdFx8xzxNfNqeX8tw0DUlIbEk4EVg9nhxJ5ETgE1w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d2f13f8111a0044d2b4dad4b08208659797ea1e5.jpg?1470268009"><img src="/kuvat/tuotekuvat/8c7b6341c99a9ce7604300ec2d59a81c49381d52.jpg?1470268009" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>MegaPack of tutorials, guides, software, Items Final Version</h1>
+<ul class='list-unstyled specs'>
+<li>72 EUR <em>(0.009235 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/europe">europe</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Switzerland &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tU/w3STnOVdVjVp82hA2NO4DVl9408+q4Na5FFW+uER4675NkACZXxZIX4G2bPIgHxnwbUtyeZ6nHuuFCAidUg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="54608" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>MegaPack of tutorials, guides, software, Items Final Version (Updated AUGUST 2016) + 23 FULL LEGIT SOFTWARE</p>
+
+<p>A. -==GUIDE &amp; TUTORIALS==- (including how to make event tickets and resell, UK Bank Transfer Guide)
+<br />B. -==HACKING SOFTWARE==- (including SpyEye )
+<br />C. -==SQL &amp; Dork Tools==-
+<br />D. -==Miscellaneous Web Tools Pack==-
+<br />E. -==90 Dos &amp; DDoser &amp; Flooders==-
+<br />F. -==Keyloggers==-
+<br />G. -==Crypters and Binders==-
+<br />H. 50 RATs + =======BONUS====== Andro Rat Binder
+<br />I. -==ID Fakes, scans,suppliers, software --=== all in one package ===-- 7GB==-
+<br />J. -==23 FULL LEGIT SOFTWARE (windows, nero, office, antivirus, photoshop and more==-</p>
+
+<p>A. -==GUIDE &amp; TUTORIALS==-</p>
+
+<p>1. 100+ links to websites that sell CC's, Paypal, Bank logins and more
+<br />2. UK BANK TRANSFER GUIDE
+<br />3. GUIDE to make e-tickets concerts, sport, events
+<br />4. Carding Tutorials Pack
+<br />5. Cashing out PPandCVV Methods
+<br />6. CC to BTC method- ( In 24 hours)
+<br />7. CC to Paypal Cashout
+<br />8. Credit Card PayPal to Bitcoin Ultimate Guides # Exclusive working methods # 100% #
+<br />9. Cross Platform iOS Android With Visual Studio And C Sharp Course 1
+<br />10. Cross Platform iOS Android With Visual Studio And C Sharp Course 2
+<br />11. CVV to Paypal v1.1
+<br />12. Dr Cleans PayPal Methods - from Evo
+<br />13. Easy PP CVV Cashout
+<br />14. EC Council Certified Ethical Hacker CEH v9 Courseware
+<br />14. FREE Carding Tutorial 2016
+<br />15. Hack Any Facebook Profile 100% Success
+<br />16. hack watsapp
+<br />17. Hacked PayPal to Bitcoin (No VirWox) 2015
+<br />18. How To cashout Paypal
+<br />19. How to create stealth Paypal accounts
+<br />20. How to Open,Verify and Fund Accessible PayPal Account In Any Unsupported Country
+<br />21. Lynda Building A Website With Node js And Express js Full
+<br />22. MisterBitcoins Cashout Paypal Guide
+<br />23. My SqliDumper in-depth tips and tricks, get combos that will get hits, faster.
+<br />24. Paypal Bomb2
+<br />25. PayPal Carding Stuff
+<br />26. Paypal Cashout 2(working)
+<br />27. Paypal Cashout Method
+<br />28. Paypal Cashout SDK(working)
+<br />29. PAYPAL MEGA PACK
+<br />30. paypal stealth free
+<br />31. paypal to btc intantaneo 2 EURO
+<br />32. paypal to btc intantaneo
+<br />33. phone recharge
+<br />34. PP or CC To BTC Cashout
+<br />35. Screw-Paypal Toolkit Pro
+<br />36. Secrets To Becoming A Genius Hacker
+<br />37. Sending PayPal without calls
+<br />38. The PayPal Official Insider Guide to Mobile Profits - Make money anytime, anywhere
+<br />39. Transfer Balance from Hacked PayPals TUT
+<br />40. A Guide to Hide like a Ninja from PayPal
+<br />41. Unlimited Stealth Paypal Accounts and How to Withdraw Guide
+<br />42. Unlimited Stealth PayPal Acts and how to Cash them out
+<br />43. Untraceable_PayPal
+<br />44. Verify PP accounts with ETRADE
+<br />45. Verify your PayPal account without a Credit Card
+<br />46. Verify+Paypal+Instant+BTC
+<br />47. virwox pp tips
+<br />48. Vtoris 100% Clean Paypal Transfer Guide 2015
+<br />49. Yasuo Receive And Cashing Out Guide
+<br />50. BANK IDENTIFICATION NUMBERS</p>
+
+<p>B. -==HACKING SOFTWAREK==-</p>
+
+<p>1. SpyEye
+<br />2. linux brute force
+<br />3. Sqli Dumper
+<br />4. tools crack lazy ssh scan &amp; ssh checker
+<br />5. trixbox
+<br />6. Proxy scraper
+<br />7. NAVICAT 11.2.5 PREMIUM EN 2016
+<br />8. Gather Proxy 8.9 PREMIUM VERSION CRACKED
+<br />9. Facebook Crack
+<br />10. Dark Mailer Pro
+<br />11. Email Extractor 6.4
+<br />12. SCRAPER BOX FULL 2013
+<br />13. linux brute force
+<br />14. HOW TO HACK PORN SITES FOR PREMIUM ACCOUNTS
+<br />15. Ultimate dork scanner
+<br />16. viproy voip &amp; sip scan
+<br />17. trixbox scanner
+<br />18. php email sender
+<br />19. elastix scan
+<br />20. mysql scan for a2billing database
+<br />21. brute force ssh
+<br />22. mysql brute
+<br />23. viper-master
+<br />24. Wolftraffic
+<br />25. email extractor spider
+<br />26. smtp verifier
+<br />27. hscan
+<br />28. redial for zoiper
+<br />29. https voip sip scan and brute force
+<br />30. phone redial for sip</p>
+
+<p>C. -==SQL &amp; Dork Tools==-</p>
+
+<p>1. Havij v1.16 Pro Portable
+<br />2. Havij1.17
+<br />3. Injection Framework - Automatized Sql Injection Tool
+<br />4. JSQL Injection
+<br />5. SQL Exploiter Pro v2.10
+<br />6. SQL Helper
+<br />7. SQLI Hunter v1.1
+<br />8. SQLI Hunter v1.2
+<br />9. SQL Inject Me master
+<br />10. sqlmap win v01
+<br />11. sqlmap 0.9
+<br />12. SQL Sentinel v 0.3
+<br />13. Warbot VersaoSQL Tool v1.0 Alpha Build 6
+<br />14. XCode Exploit Scanner Sept
+<br />15. xSQL SCanner
+<br />16. sql dumper
+<br />17. Ashiyane SQL Scanner v1.2.0
+<br />18. dorkinj
+<br />19. Dork Searcher Setup
+<br />20. Dork Tools V.5.0
+<br />21. Google URL Extractor Version 1.1
+<br />22. Mass Dork Scanner v1.0.0.1
+<br />23. blind Sqli
+<br />24. Brute
+<br />25. Bruteforce
+<br />26. dorks
+<br />27. exploit scanner
+<br />28. exploit myunion
+<br />29. Release
+<br />30. sql injection
+<br />31. SQL Injector
+<br />32. sql scanner
+<br />33. sqli column counter
+<br />34. sqliHelper 2.7
+<br />35. sqlmap
+<br />36. Web Cruiser
+<br />37. SQL Map Project
+<br />38. The Mole</p>
+
+<p>D. -==Miscellaneous Web Tools Pack==-</p>
+
+<p>* Cpanel Bruteforcer
+<br />* Cpanel Brute Reiluke
+<br />* Advanced Deface Creator 1.3
+<br />* Anonymous DNS Extractor-2013
+<br />* Anonymous FTP Stealer
+<br />* Anonymous Ping Attack
+<br />* Anonymous Text Encrypter
+<br />* Anonymous Tinypaste Uploader
+<br />* Base64 Image Encoder-Decoder
+<br />* BTI Admin Page Finder v2
+<br />* BTI HTML Encoder-Decoder
+<br />* BTI Multi Site Checker
+<br />* BTI Reverse IP Domain Check v2
+<br />* CSS Minifier v2
+<br />* Deface Page Created v1.2
+<br />* Eternals WebBrowser
+<br />* ezDataBase_Defacer
+<br />* Gklspy
+<br />* Hacker's Browser v2.0
+<br />* Joomla Security Scanner
+<br />* Net Database Scanner
+<br />* Open Web Spider
+<br />* Quick Web
+<br />* Site Hog v1 release
+<br />* Snippets Manager
+<br />* Spider Mail
+<br />* Surf Excuse
+<br />* Survey Bypasser
+<br />* Tiny URL Shortener
+<br />* Vulcan Cleaner
+<br />* Web Source Tools
+<br />* Website Blocker v2
+<br />* ZeroTeam MD5 Password Encryptor</p>
+
+<p>E. -==90 Dos &amp; DDoser &amp; Flooders==-</p>
+
+<p>* Bangla Dos - Bangladesh DoS Attack Engine
+<br />* BBHH-Ultra DoS
+<br />* Black's Booter
+<br />* ByteDOS v3.2
+<br />* CPU Death Ping 2.0 FINAL
+<br />* D@RK Doser 1.0
+<br />* Dos Attacker Alpha 1.1
+<br />* Dos HTTP 1.0
+<br />* Dos HTTP 2.0
+<br />* Externals UDP Flood Pack
+<br />* HC DOSER
+<br />* Http Dos Tool
+<br />* iDisconnect
+<br />* Jays Booter v6.0
+<br />* LF Shell Booter
+<br />* Net Weave DDoseR
+<br />* Perl Dos Client By XR
+<br />* Pings &amp; WinNukes
+<br />* UDP Unicorn
+<br />* Unknown DoSer
+<br />* xDDoser
+<br />* XoneDos
+<br />* Yamultur 2.0 Packer
+<br />* ~FuCk It!~ DOS
+<br />* 360 Booter+GBooter XBL
+<br />* Ac1d-She11s
+<br />* Amus Boot
+<br />* AnonStresser {v1} Cracked Version
+<br />* Anony Gladiators
+<br />* Anonymous DoSer
+<br />* Anonymous External Attack V2
+<br />* Anonymous External Attack
+<br />* Anonymous High Orbit Ion Cannon
+<br />* Anonymous Ping Attack
+<br />* Assassin DoS 2.0.3
+<br />* BFF DoS
+<br />* BkD Service - Shell Booter
+<br />* Black Out v1.0
+<br />* BTI External Attacker
+<br />* DarkDoSer Serial Grabber
+<br />* DDoS Attack Standard
+<br />* DrBlowFish's DoS
+<br />* DDoSeR
+<br />* Eternals Booter v1.2 Cracked
+<br />* Exploit Attacker v1.1
+<br />* ExposedSYS Stresser
+<br />* Faster DDoS Attack
+<br />* Fire Flood
+<br />* Florist Booter 3.2
+<br />* Florist Booter 3.3
+<br />* Ghost DoS
+<br />* Good Bye v5.2
+<br />* Host Booter
+<br />* ID DOS
+<br />* iGirls DDoS Tool
+<br />* Infamous Stresser 2.0
+<br />* Inside attack v2.0
+<br />* ip killer
+<br />* IRAN DoS
+<br />* Irish's Shell Booter v1
+<br />* Java LOIC
+<br />* Jays Booter v5.9
+<br />* Logical DoS
+<br />* LOIC
+<br />* LOIC2013
+<br />* Longcat HTTP - UDP - SYN Flooder
+<br />* New LOIC
+<br />* Nuclear DDoSer
+<br />* Over DoS
+<br />* Phc Tools
+<br />* Pringle DDoS
+<br />* Public Strong
+<br />* Rapid Booter
+<br />* rDos
+<br />* Runescape DDoS Tool
+<br />* S.E.A DoS
+<br />* Script Defenders LOIC
+<br />* Shockwave Booter v2.0
+<br />* Snake + Bite
+<br />* Snow's Booter V1
+<br />* Tech DoS
+<br />* WarFlood
+<br />* udpflood
+<br />* Website Crasher v4.7
+<br />* WicKds Booter v3.1
+<br />* Win Nuker
+<br />* XOIC
+<br />* xSploit Boote</p>
+
+<p>F. -==Keyloggers==-</p>
+
+<p>* Ecodsoft keylogger
+<br />* 007 keylogger
+<br />* Ardamax 2.8
+<br />* Ardamax 3.0
+<br />* Aux Logger v3.0.0.0 Monitor
+<br />* Hooker
+<br />* Perfect Keylogger
+<br />* Poison Logger
+<br />* Project Neptune v1.78
+<br />* Project Neptune v2.0
+<br />* RapZo Logger v 1.5 ( Public Edition )
+<br />* Silent Keylogger v1.6 Public Version
+<br />* Syslogger
+<br />* Ultimate Logger
+<br />* Unknown Logger Public V 1.5
+<br />* Anonymous Keylogger
+<br />* Ardamax Keylogger remover
+<br />* Digital Keylogger v3.3
+<br />* Dracula Logger
+<br />* instalador2
+<br />* RinLogger
+<br />* Vulcan Logger</p>
+
+<p>G. -==Crypters and Binders==-</p>
+
+<p>* Aegis Crypter All Versions
+<br />* Byte Crypter V3
+<br />* Chrome Crypter v2 - FUD
+<br />* Chrome Crypter v5.7
+<br />* Cryptech+First+release
+<br />* Crypter-v3
+<br />* CrypteX Advanced
+<br />* Dark Binder V1
+<br />* Encrypt decrypt
+<br />* Entropy v5u2
+<br />* Fly Crypt with Stub generator
+<br />* Fly Crypter v2d + USG 0.3.1
+<br />* FUD CRYPTER
+<br />* Hidden Sight Crypter
+<br />* Italian Crypter V 1.1
+<br />* jCrypt
+<br />* Li0n Polymorphic Crypter
+<br />* MAXA Crypt Portable
+<br />* MLV Crypter
+<br />* nBinder V 5.5
+<br />* OwnZ Crypter 3.5.9
+<br />* RedLions Binder
+<br />* Refacts Crypter
+<br />* Sikandar Crypter
+<br />* SImple Crypt0r v2
+<br />* Stealth Crypter-v4
+<br />* Ultimate Logger
+<br />* Unknow Crypter private
+<br />* Unknow Crypter rivate
+<br />* 0 Crypter
+<br />* Cypter Source (Example)
+<br />* DarkBinderV1
+<br />* FUD-CRYPTER
+<br />* MLV Crypter
+<br />* no$crypter
+<br />* 0 Crypter
+<br />* 2012 Crypter
+<br />* Black Crypt
+<br />* Ccleaner
+<br />* Celesty File Binder
+<br />* Chrome Crypter 4.9
+<br />* DeadLine's Crypter
+<br />* Easy Binder
+<br />* EOF Data Saver
+<br />* Grieve Crypter 2012
+<br />* High Life Crypter
+<br />* iBinder
+<br />* Illusi0n Crypter
+<br />* Infinity Crypter v2
+<br />* MoonCrypter
+<br />* no$crypter
+<br />* Private Crypt
+<br />* Psomasweb Public Rinajel Crypter
+<br />* Quest Crypter
+<br />* Saddam Crypter
+<br />* Shock Labs File Binder v1.0
+<br />* The DarKness binDer
+<br />* TripleX-Crypter
+<br />* uBinder
+<br />* ZeroBountv1.0
+<br />* Zeus Crypter
+<br />* ZMini</p>
+
+<p>H. 50 RATs + =======BONUS====== Andro Rat Binder</p>
+
+<p>* [SRC] BIODOX
+<br />* [SRC] Zombie Slayer
+<br />* AndroRAT
+<br />* Babylon 1.6.0.0
+<br />* BatchN?T
+<br />* Beast 2.06
+<br />* Bifrost 1.2.1d
+<br />* Blackshades Public Edition(1)
+<br />* Blackshades Public Edition
+<br />* Blackshades v 5.4 Private
+<br />* Blizzard 1.2
+<br />* BlueBanana
+<br />* Cybergate 1.8
+<br />* Dark Comet 4.0
+<br />* Dark Comet 5.1
+<br />* Dark Comet 5.3
+<br />* Darkcomet 5.3.1 + Remover
+<br />* Darkcomet 5.3.1
+<br />* DarkComet Legacy
+<br />* DarkMoon 4.11
+<br />* Droid Jack 3.0
+<br />* Droid Jack 4.0
+<br />* Gklspy
+<br />* ip killer
+<br />* jRat(1)
+<br />* jRat
+<br />* jSpy
+<br />* KazyBot 1.0 Lite
+<br />* Loki Rat(1)
+<br />* Loki Rat
+<br />* Lost Door 2.2 Public
+<br />* MiniMo 0.7a Public Lite
+<br />* NjRAT 0.7
+<br />* NovaLite v3.0
+<br />* Nuclear RAT 2.1.0
+<br />* Optix 1.33
+<br />* Paradox RAT(1)
+<br />* Paradox RAT
+<br />* Poison Ivy 1.0
+<br />* Poison Ivy 2.3.2
+<br />* Quasar 1.1
+<br />* SharK 3.0
+<br />* Spycronic 1.02.1
+<br />* SpyNet 0.7 Public
+<br />* Spy-Net v2.6
+<br />* Sub-7 0.10
+<br />* Tiny 0.2
+<br />* Turkojan 4.0 Gold
+<br />* xRAT 2.0
+<br />* Xtreme Rat v2.7
+<br />* XtremeRat 3.5(1)
+<br />* XtremeRat 3.5
+<br />* Y3k</p>
+
+<p>I. -==ID Fakes, scans,suppliers, software --=== all in one package ===-- 7GB==-</p>
+
+<p>1) Credit cards</p>
+
+<p>*Signature Strips
+<br />*Credit cards template</p>
+
+<p>2) Currency</p>
+
+<p>*Templates
+<br />*1$ to 500$ bill
+<br />*euro holo
+<br />*The counterfiet millionare
+<br />*Counterfieting Methods $100
+<br />*The art of making money</p>
+
+<p>3) Fonts</p>
+
+<p>*Roger white national first font dotted
+<br />*Signature Fonts
+<br />*SSN
+<br />*yale</p>
+
+<p>4) ID Scans</p>
+
+<p>*45 International Passport Scans
+<br />*More than 100 driver license scans
+<br />*Other more than 300 scans</p>
+
+<p>5) ID Templates - Other</p>
+
+<p>*SSN Card
+<br />*35 more scans</p>
+
+<p>6) ID Templates - School</p>
+
+<p>*20 teplates</p>
+
+<p>7) ID Templates - State</p>
+
+<p>*47 items</p>
+
+<p>8) Misc</p>
+
+<p>*Best FakeDoctor Notes
+<br />*Card Printing Info
+<br />*Envelope
+<br />*Epson direct print pvc tray
+<br />*Epson PVC card stuff
+<br />*Printing Charts
+<br />*Stamp Kit and Stencil Holo's Pre Made
+<br />*ID Database Tutorial</p>
+
+<p>9) Web Links</p>
+
+<p>*CC Number Validator
+<br />*Holograms
+<br />*ID Makers - really goodfakes
+<br />*ID Supplies
+<br />*ID Supplies - id card group
+<br />*ID Supplies - the perf shop part
+<br />*ID Supplies - UV Ink</p>
+
+<p>10) Programs</p>
+
+<p>*Advanced ID Creator Enterprise v8.00.51.0
+<br />*Securi Design 14</p>
+
+<p>J. ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ Legit Software Pack ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄</p>
+
+<p>~ Adobe Photoshop CS6 Extended Multilingual</p>
+
+<p>~ ADOBE PHOTOSHOP CC V2015 MULTI WIN64</p>
+
+<p>~ Apple Logic Pro X MACOSX</p>
+
+<p>~ AVG Antivirus Pro 2016 16.61 (x86x64) Multilingual + Keys</p>
+
+<p>~ AVG PC Tune Up 2016 v16.2.1</p>
+
+<p>~ Avira Antivirus Pro 2015 incl Key</p>
+
+<p>~ Bit Defender 4.0.1 MAC</p>
+
+<p>~ Corel Paint Shop Pro Photo X3 13.2</p>
+
+<p>~ Cyberlink Power DVD Ultra 16+ Keygen</p>
+
+<p>~ ESET NOD32 Antivirus &amp; Smart Security 9(x86x64)+Incl Keys Jan 2016</p>
+
+<p>~ Hotspot Shield VPN 5.20 Elite Edition - Eng (Aprile 2016)</p>
+
+<p>~ Kaspersky Internet Security 2016 v16.0.0.614</p>
+
+<p>~ MAGIX Music Maker 2016 Live</p>
+
+<p>~ Microsoft Office 2013 SP1 Professional Plus</p>
+
+<p>~ Microsoft Windows 10 PRO FULL (x64)</p>
+
+<p>~ MS Office Pro X64 (Mar 2016)</p>
+
+<p>~ Nero 2016 Platinum 17</p>
+
+<p>~ Office 2010 - No Key Needed</p>
+
+<p>~ Office 2013 64Bit</p>
+
+<p>~ Piriform CCleaner Professional.v5.14Incl. Key maker</p>
+
+<p>~ Hard Disk Sentinel Professional v4.60</p>
+
+<p>~ Acronis Disk Director 12.0 Build 3270 With Key + Boot CD</p>
+
+<p>~ O&amp;O Safe Ereser Professional + Key</p>
+
+<p>Enjoy</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/88488"><img src="/kuvat/tuotekuvat/b960c709cb4de147027f1cebdd4e36264fc9076e.jpg?1489312462" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/88488">1000$ US Paypal  Balance +1000$ PP Acc For Free [ SUPER OFFER ]</a> (<span title='90 USD'>73.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38304"><img src="/kuvat/tuotekuvat/86d3e60415803d450aa1e6ee3c88ab17b077d3c9.jpg?1461441897" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38304">BIG CARDING TUTORIAL + FREE HACKED CREDIT CARD  2017</a> (<span title='65 USD'>52.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/41712"><img src="/kuvat/tuotekuvat/f73c32909fcbd4ae5fa0def573ca1a7a218ebd47.jpg?1463039380" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/41712">Hacked SunTrust $5K balance + TUTO</a> (<span title='110 USD'>89.52&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/6497"><img src="/kuvat/tuotekuvat/c9b3e7374c4caedb9a4e62598c5d586019ef355e.jpg?1455969368" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/6497">|Guide| Get New Identity birthcert+passport+DL+SSN</a> (<span title='60 EUR'>60&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/isellpizza">isellpizza</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>MegaPack of tutorials, guides, software, Items Final Version</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

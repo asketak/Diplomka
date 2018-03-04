@@ -215,3 +215,11 @@ Do pristiho tydne
 posli mailem slozku s clanky
 Udelej seznam  - veci, co je hotove, co je nakolik hotove, co je treba udelat
 
+
+dataset ukradenych btc ze sluzby
+pri nahravani vlastne sekvencne prochazis blockchain, tak si neco predpocitej?
+
+
+
+Jede ti privoxy na 8111
+=============================

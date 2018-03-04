@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="X3rYYbW46KZez+oCwREP+22dbnfwPQJcd1Pk8ysIUtyS3pbxAV9Irh0K7/+tbcvvnIfIRcOctGgwm7Zidr53yg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/333884439c540340e82546590c0eb9a28beae886.jpg?1498734612"><img src="/kuvat/tuotekuvat/a92eb2665a46bf9e3911894f8c595502a1f1cf5d.jpg?1498734612" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Elvanse - Lisdexamfetamin 5 stk 50mg</h1>
+<ul class='list-unstyled specs'>
+<li>150.28 EUR <em>(0.019286 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/norwaystims">Norwaystims</a></span>&nbsp;(<span class='green' title='Positive feedback'>54</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Norway &rarr; Norway, Finland, Sweden, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ml7g/PqKJXWbzh82uvkxuKdzHL8/2RExI6k28IKVS+D/+q5sTm2FfdgLGsvWhfWsVmm6jQx4pwVkYWRh3yNu9g==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="654245">Domestic (included)</option>
+<option value="654246">Vakiumpakket 20-40 (+5.18 EUR)</option>
+<option value="654247">Vakiumpakket 40+ (+9.33 EUR)</option>
+<option value="654248">International vacium and sealed (+9.33 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="96076" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Produktet består av lisdextroamfetamin som er et prodrug til dekstroamfetamin. Produktet omgjøres til dekstroamfetamin i kroppen og har en litt annerledes effekt enn dekstroamfetamin men fremdeles tilsvarende. Fordelen med dette produktet er at det varer mye lengre da stoffet er frisetningsmodifisert.</p>
+
+<p>Medikamentet brukes til å behandle ADHD gjennom økt dopamin i hjernen, dette fører til økt fokus og stimulans. Bivirkninger som kan oppstå innkluderer: Paranoia, økt belastning på det kardiovaskulære systemet, angst og i ekstreme tilfeller psykose. Dette er en relativt høy dose og medikamentet brukes med ekstrem varsomhet.</p>
+
+<p>Teoretisk mengde er ekvivalent til det av ca 30mg dekstroamfetamin spannet over lengre virketid. I praksis er effekten lik ca 15-20mg dekstroamfetamin med lenger virketid (ca 2x)</p>
+
+<p>Produktet markedsføres under navnet Elvanse og er norsk apotek kvalitet.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A+
+<em>(11.12.)</em>
+</td>
+<td><span>
+kj***lj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Top notch! 7 days levering, men vi er i Desember så det er å forvente :)
+<em>(7.12.)</em>
+</td>
+<td><span>
+pe***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.18 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102821"><img src="/kuvat/tuotekuvat/24e8b1cd5016e4b178c713df7a3f248a58fac1aa.jpg?1516406347" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102821">❤ 100x XANAX S903 ★ 2mg  ❤</a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99977"><img src="/kuvat/tuotekuvat/8859f89c4619a3c6c9b0cf42f9491c8ac5f7c239.jpg?1519033524" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99977">rivotril 2 mg 100 tbl</a> (<span title='1050 NOK'>108.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nordiskeapoteket2">nordiskeapoteket2</a></span>&nbsp;(<span class='green' title='Positive feedback'>222</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102238"><img src="/kuvat/tuotekuvat/726107bca5a8434cae6bdb9ebeb0e767c38d502b.jpg?1513886932" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102238">100 st - Hemofarm - Lorazepam 2,5 mg - Apotek - </a> (<span title='1500 NOK'>155.46&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/drphil">DrPhil</a></span>&nbsp;(<span class='green' title='Positive feedback'>45</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103354"><img src="/kuvat/tuotekuvat/ce01e1e7bf94612eaa506c362fa11961d1260e4a.jpg?1519069858" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103354">Rivotril 2mg, 100kpl(FE-&gt;110)</a> (<span title='164.5 EUR'>164.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38060"><img src="/kuvat/tuotekuvat/cbddd15dddf775bb7e6808a95e09efd07d09d1ff.jpg?1464325676" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38060">Rivotril Clonazepam by Roche 2mg - 200 tablets</a> (<span title='160 GBP'>182.05&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1506">ADHD</a>
+</li>
+<li class='active'>Elvanse - Lisdexamfetamin 5 stk 50mg</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

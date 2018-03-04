@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="fBpgD+ww1O23zSuDuQm94e/XuRPc7qq8Hxn+L3+ULCSxvi6fWNd05fQILn7VdXn1Hs0fIe9PHIhY0ay+IiIJMg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f92068b356331aab8e175d067e4a72d1645f6ab1.jpg?1468415239"><img src="/kuvat/tuotekuvat/495f2a81761595950297e82c22a91192682cb613.jpg?1468415239" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Stanozol/Winstrol 10 | 100 tabs (10 mg/tab) - Ice Pharmaceuticals</h1>
+<ul class='list-unstyled specs'>
+<li>31.74 EUR <em>(0.00407 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</li>
+<li>Bulgaria &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PK/IqxMnpCSIglES7wPtD5wg+DmEKtOhcsWzz4n1znbxC4Y7p8AELMtHVO+DfykbbTpeC7eLZZU1DeFe1EPrYA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="683463">Worldwide with tracking number (included)</option>
+<option value="683464">Additional product (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52340" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Active Substance: Stanozolol
+<br />Product name: Strombafort, Stanozolol, Winstrol, Winny, Stanozol</p>
+
+<p>   Stanozol has a lower steroid action, is really a kind associated with dihydrotestosterone. This is a medicine utilized largely in muscle tissue definition cycles and rare throughout muscle tissue build up. This medicine is able to reduce androgen hormone that provides proteins. A dose of 0.2 mg per entire body creates a substantial decrease, which result is that inside bloodstream remains more androgen hormone. This kind of training is used when combined with additional steroids because utilizing only Stanozol it just lowers testosterone in the blood vessels. It's important to administer testosterone in cycles to prevent sexual dysfunctions.</p>
+
+<p>   Including this kind of medicine in the muscle mass gain cycles is difficult. Stanozolol is actually changed in order to pass more easily through the liver, however, is poisonous to some degree. If you add this particular anabolic steroid inside a cycle which includes other steroids, the actual poisoning increases. This mix could have undesirable results in the bloodstream, the LDL cholesterol levels may be decreased by 33 % if using 6 milligrams daily. One more unfavorable impact which may take place with lower amounts is actually hypertrophy of the heart muscle. For this reason, many make use of this anabolic steroid in minimized durations or for defining muscle groups before competitions, usually for 6 weeks. Another downside is a pain in the joints, which is brought by weakness in certain places and also strengthening tendons in other areas, which leads to injuries. That's why to sportsmen who have excellent action on the joints it is not recommended to use Stanozol. Individual administration of Stanozol gives the feeling of pain in the joints and of a not sufficient lubrication.</p>
+
+<p>   This particular steroid gives tough muscle tissue and doesn't maintain the water in your body, as well as anti-estrogen is not necessary because it is not really flavored, and also the gynecomastia is not a problem. Stanozol will be given 15-20 mg per day for the oral version and a dose of 25-50 milligrams per day for the injectable version.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/55188"><img src="/kuvat/tuotekuvat/c0b94270667cd5b78404bdcdc90a5bfac11aaf75.jpg?1482013557" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55188">Cerberus Pharma Test Enanthate 250mg/ml 10ml multivial</a> (<span title='32 GBP'>36.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11952"><img src="/kuvat/tuotekuvat/349c1c0a471bd5a8c7b3489acda6430b12ad7858.jpg?1515410249" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11952">Turanabol - 60 tb/10 mg - Balkan Pharmaceuticals</a> (<span title='43 EUR'>43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14462"><img src="/kuvat/tuotekuvat/393610d5270b6e2ef524909d6a5b095ef712beee.jpg?1455970591" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14462">prestige pharma deca-300. 10ml vial </a> (<span title='38 GBP'>43.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94673"><img src="/kuvat/tuotekuvat/6d6a54ba56d7cefe92274825079ec2ca3512d1b8.jpg?1495977972" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94673">Syntholan Trenbolone Acetate 100mg - 10ml Bottle</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1332</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/71657"><img src="/kuvat/tuotekuvat/91fa9b9190126cbc1e6bb7e3a8d95cc1dd339101.jpg?1479474221" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71657">ANDARINE S4 ★shipping form EU★ 3 gram</a> (<span title='56 USD'>45.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Stanozol/Winstrol 10 | 100 tabs (10 mg/tab) - Ice Pharmaceuticals</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

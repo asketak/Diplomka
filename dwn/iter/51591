@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AWUqppdFlr5gNMIPTavKtO3D8VzwRZ/JHURRyOy2EhHMwWQ2I6I2tiPxx/Ih1w6gHNlXbsPkKf1ajANZsQA3Bw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1ee9e998b6704c28184867580a17661f69f810cf.jpg?1467997228"><img src="/kuvat/tuotekuvat/e68f0786f94fafe96a08832830a840ced9ea5113.jpg?1467997228" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>BLACK TAR HEROIN 85-95% PURE OPIATE ALKALOID CONTENT 1 G</h1>
+<ul class='list-unstyled specs'>
+<li>109.78 EUR <em>(0.014091 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/blime-sub">blime-sub</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6s8bl2h6Fj66Yc5w7J/leosglYuv6HfTfuKodBVsN+8na1UH3J22Nvmky42A4yFuejozuZxJwec5KvrlSNoS+Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="209523">dOMESTIC GUNPOWDER PRIORITY (included)</option>
+<option value="209524">DOMESTIC SMOKERS DLITE PRIORITY (+36.59 EUR)</option>
+<option value="209525">OVERNIGHT GUNPOWDER (+28.46 EUR)</option>
+<option value="209526">OVERNIGHT SMOKERS  (+65.06 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="51591" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>HAVE 2 KINDS OF TAR HEROIN AVAILABLE BOTH HAVE BEEN TESTED AT THE HIGHEST RATING ON THE EZTEST KIT WHICH MAKES THEM 85%+ OPIATE ALKALOID CONTENT.  THEY ARE POTENT BE CAREFUL.
+<br />THE GUNPOWDER IS LESS EXPENSIVE AND IF YOU SHOOT UP I WOULD GO WITH IT, IT RUNS $120 PER GRAM. THEN THERES SMOKERS DELIGHT WHICH IS PRICIER AND RECOMMENDED IF YOU SMOKE, LESS HARSH, ALSO GREAT TO SHOOT, BUT NOT MUCH DIFFERENCE TO BE FELT FOR SHOOTERS. </p>
+
+<p>THIS IS THE SAME STELLER PRODUCT BEING SOLD BY ME ON ALPHABAY AND DREAM MARKET, CHECK MY REVIEWS TO SEE ITS LEGIT4</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 12.2 EUR (dOMESTIC GUNPOWDER PRIORITY) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/57565"><img src="/kuvat/tuotekuvat/46b1e8e5c397726a5ce0fea3a59aea04ecc512c8.jpg?1471757015" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57565">AFGHANISTAN  #4 HEROIN HIGH QUALITY - 1 Gram</a> (<span title='177 USD'>143.94&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theoriginaldragoncove">theoriginaldragoncove</a></span>&nbsp;(<span class='green' title='Positive feedback'>1274</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23821"><img src="/kuvat/tuotekuvat/b8067ef3c0fa15dd29dc40eead1b33f578260bbd.jpg?1455972566" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23821">Opioid Liquid - O-Liquid 10 ML</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38363"><img src="/kuvat/tuotekuvat/76700035a2105397e888bb103c7acb5866f55e7e.jpg?1461484196" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38363">2xFentanyl Gel Patch 50mcg hr  Actavis Watson</a> (<span title='140 USD'>113.85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fasterndsaffer">fasterndsaffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>482</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-32</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/37385"><img src="/kuvat/tuotekuvat/58fbf2120aaf7b1df63719e440e0237d2b244581.jpg?1479088619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37385">1g China White Synthetic Heroin Fentanyl Mix</a> (<span title='175 USD'>142.31&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16441"><img src="/kuvat/tuotekuvat/b3fe816d87e0db023131fb6eb15f93f0603c6006.jpg?1480861436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16441">!!!PROMO PRICE!!!3g Premium Bayer Opium FE </a> (<span title='124.98 USD'>101.63&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>788</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>BLACK TAR HEROIN 85-95% PURE OPIATE ALKALOID CONTENT 1 G</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

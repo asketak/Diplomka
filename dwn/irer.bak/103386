@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SaJWd+e520bRjRu2TbKK8X0VA59KWOjWx+xU9alJoneEBhjnU157TpJIHkshzk7ljA+lrXn5XuKAJAZk9P+HYQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/256480135d265288909236c7bdcb0ce69965f8db.jpg?1518546547"><img src="/kuvat/tuotekuvat/25da0f7a4925c8d7e7533096401dcd9626b0a111.jpg?1518546547" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>0.5g DRY SPEED SAMPLE - Just pay postage</h1>
+<ul class='list-unstyled specs'>
+<li>1.14 EUR <em>(0.000146 BTC)</em></li>
+<li>13 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/thetoothfairy">TheToothFairy</a></span>&nbsp;(<span class='green' title='Positive feedback'>12</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United Kingdom &rarr; United Kingdom</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EkMJm7Av3Kc/1UnEG0NpwEIcfF+ETQoHPMc3klVAqK3f50cLBMh8r3wQTDl3P63UswbabbfsvDN7D2UDCPaNuw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103386" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Grab a sample of my dry speed for next to nothing!</p>
+
+<p>Great quality speed which is untouched by myself, you won't be disappointed!</p>
+
+<p>The speed started off as paste, we all know how much weight is lost after drying, so I have done the drying for you meaning more product for your money!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103668"><img src="/kuvat/tuotekuvat/a02cae3c8f5fb9903411fcd9b2ecaca34018b6fc.jpg?1519315193" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103668">Amfetamiinia 2g Arvonta! (8.3. ARVONTA!)</a> (<span title='1 EUR'>1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nuuskatukku2">NuuskaTukku2</a></span>&nbsp;(<span class='green' title='Positive feedback'>126</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/66890"><img src="/kuvat/tuotekuvat/f1177d201a53fc1df25ccd275fb89add947d9cfb.jpg?1476925431" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66890">♕ How To Make Amphetamine (SPEED) ♕</a> (<span title='1.99 USD'>1.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102049"><img src="/kuvat/tuotekuvat/504b4d40302265e83b09fe53b967249b97ca266e.jpg?1512989057" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102049">Herätys ja ilmoitus!</a> (<span title='1 EUR'>1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/myyntimiesmynttinen">MyyntimiesMynttinen</a></span>&nbsp;(<span class='green' title='Positive feedback'>2640</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>0.5g DRY SPEED SAMPLE - Just pay postage</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

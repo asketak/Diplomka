@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5OpAMEJGElTYCQwWXafNkllbVqQ3PlcFNAHhFte8WGopTg6g9qGyXJvMCesx2wmGqEHwlgSf4TFzybOHigp9fA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/26dc93c735c45b7142a07d00cb14526c47135289.jpg?1475222446"><img src="/kuvat/tuotekuvat/075fbd00b1a7d28d6a9a570e31be43a2e302f2b4.jpg?1475222446" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>WAX PREMIUM [PROMO] 10G</h1>
+<ul class='list-unstyled specs'>
+<li>400 EUR <em>(0.051304 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/johndelasvegas">Johndelasvegas</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>France &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NR6Dasodp4faGiW9UdUbxu/yaurnwV1Nqn9eGpre4qH4us36fvoHj5nfIEA9qd/SHujM2NRg63nttwyLx2jHtw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="59451" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>-------------------------Hello and welcome to all,------------------- --------</p>
+
+<p>Some may believe that these sweets like caramel, but rather a powerful drug. A breathtaking new market.
+<br />THC concentration of the drug up to 90%, while the traditional marijuana contains from 5% to 20%. The "shatter" thus provides a much more powerful effect than marijuana.</p>
+
+<p>Guideline for address format:</p>
+
+<p>Line 1: NAME OF ADDRESSEE
+<br />Line 2: STREET ADDRESS OR POST OFFICE BOX NUMBER
+<br />Line 3: CITY OR TOWN NAME, OTHER PRINCIPAL SUBDIVISION (such as PROVINCE, STATE, or COUNTY) AND POSTAL CODE (IF KNOWN)
+<br />Note: In some countries, the postal code may precede the city or town name
+<br />Line 4: FULL COUNTRY NAME</p>
+
+<p>Average Delivery Times</p>
+
+<p>France range from 2-3 days
+<br />European Orders range from 3-7 days
+<br />Rest of the world shipments range from 6-12days</p>
+
+<p>Tracking number will be use.</p>
+
+<p>PGP encryption is always recommended.</p>
+
+<p>Thank you for your visit.</p>
+
+<p>Cordially</p>
+
+<p>------------------------------------------------------------------------------------------------------</p>
+
+<p>-------------------------Bonjour et bienvenue a tous,---------------------------</p>
+
+<p>Certains peuvent croire qu'il s'agit de sucreries comme du caramel, mais c'est plutôt une drogue puissante. Un nouveau stupéfiant sur le marché.
+<br />La concentration en THC de cette drogue peut aller jusqu'à 90 %, alors que la marijuana traditionnelle en contient de 5 % à 20 %. Le « shatter » procure donc un effet beaucoup plus puissant que la marijuana.</p>
+
+<p>FORMAT DE COMMANDE:</p>
+
+<p>Ligne 1: NOM DU DESTINATAIRE
+<br />Ligne 2: ADRESSE OU POST BOX OFFICE NUMÉRO
+<br />Ligne 3: VILLE NOM, AUTRES LOTISSEMENT PRINCIPAL (comme PROVINCE, ÉTAT ou COUNTY) ET CODE POSTAL (SI CONNU)
+<br />Remarque: Dans certains pays, le code postal peut précéder la ville ou la ville nom
+<br />Ligne 4: FULL NOM DU PAYS</p>
+
+<p>Délais de livraison moyens</p>
+
+<p>En France les délais sont de 2-3 jours.
+<br />Les commandes européennes vont de 3-7 jours
+<br />Reste des expéditions mondiales vont de 6-12 jours.</p>
+
+<p>N'hésitez pas a me mp pour plus d'infos.</p>
+
+<p>Le cryptage PGP est toujours recommandé.</p>
+
+<p>Merci de votre visite.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/58881"><img src="/kuvat/tuotekuvat/66637887ae5f1fc5badac924f32fa77c610b7f2d.jpg?1472669418" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/58881">ONLY FE AMNESIA HAZE 50 GRAM freeshipping</a> (<span title='425 EUR'>425&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/41380"><img src="/kuvat/tuotekuvat/040fa403f9c122538f43e0d035c2583edc92765b.jpg?1516565711" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/41380">Tripple Cheese QP - 112g  *Indoor AAA Quality</a> (<span title='677.75 USD'>551.55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84105"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84105">25g Bubblegum</a> (<span title='331.2 EUR'>331.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/senaatintori">Senaatintori</a></span>&nbsp;(<span class='green' title='Positive feedback'>88</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101971"><img src="/kuvat/tuotekuvat/9606a6258ee344152bc65574424a9c3ca089fe02.jpg?1512684641" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101971">8x10ml 21% CBD OIL +THC &lt;3% FREE SHIPPING *FE</a> (<span title='460 EUR'>460&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thehappycrew">TheHappyCrew</a></span>&nbsp;(<span class='green' title='Positive feedback'>856</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/81403"><img src="/kuvat/tuotekuvat/777ab09eb7bf80688c79e00fefe2933688f57295.jpg?1484870029" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/81403">56G TUNA KUSH - AAAA+ QUADRUPLE GRADE - BEST SMOKE OUT OF CANADA</a> (<span title='435 USD'>354&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/luciphero">Luciphero</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1106">Concentrates</a>
+</li>
+<li class='active'>WAX PREMIUM [PROMO] 10G</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

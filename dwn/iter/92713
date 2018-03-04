@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6/D8lygluLz99wtzPEdWVVtoY74ALOXkwHPoLRRPmRQmVLIHnMIYtL4yDo5QO5JBqnLFjDONU9CHu7q8Sfm8Ag==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/4aadc97221ab5eee4d89de2ad1374629ab361bc5.jpg?1492812039"><img src="/kuvat/tuotekuvat/76834a447d4caf307d543d2fcd1098ed4d464c56.jpg?1492812039" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>♕ DMT: The Spirit Molecule ♕</h1>
+<ul class='list-unstyled specs'>
+<li>0.81 EUR <em>(0.000103 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="55dZQqPCstMI/nPLtrJwHNkSjDXoTfUHf2AzpPNnoMIqMxfSFyUS20s7djbazrQIKAgqB9vsQzM4qGE1rtGF1A==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="92713" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>DMT: The Spirit Molecule: A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences
+<br />"A doctor's revolutionary research into the biology."</p>
+
+<p>A clinical psychiatrist explores the effects of DMT, one of the most powerful psychedelics known.</p>
+
+<p>• A behind-the-scenes look at the cutting edge of psychedelic research.</p>
+
+<p>• Provides a unique scientific explanation for the phenomenon of alien abduction experiences.</p>
+
+<p>From 1990 to 1995 Dr. Rick Strassman conducted U.S. Government-approved and funded clinical research at the University of New Mexico in which he injected sixty volunteers with DMT, one of the most powerful psychedelics known. His detailed account of those sessions is an extraordinarily riveting inquiry into the nature of the human mind and the therapeutic potential of psychedelics. DMT, a plant-derived chemical found in the psychedelic Amazon brew, ayahuasca, is also manufactured by the human brain. In Strassman's volunteers, it consistently produced near-death and mystical experiences. Many reported convincing encounters with intelligent nonhuman presences, aliens, angels, and spirits. Nearly all felt that the sessions were among the most profound experiences of their lives.</p>
+
+<p>Strassman's research connects DMT with the pineal gland, considered by Hindus to be the site of the seventh chakra and by Rene Descartes to be the seat of the soul. DMT: The Spirit Molecule makes the bold case that DMT, naturally released by the pineal gland, facilitates the soul's movement in and out of the body and is an integral part of the birth and death experiences, as well as the highest states of meditation and even sexual transcendence. Strassman also believes that "alien abduction experiences" are brought on by accidental releases of DMT. If used wisely, DMT could trigger a period of remarkable progress in the scientific exploration of the most mystical regions of the human mind and soul.</p>
+
+<p>-You'll receive the download link within 24h from ordering- </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/62845"><img src="/kuvat/tuotekuvat/53c2a1f052d4229eae0d33db2a0cfb2cd582dab9.jpg?1474958502" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/62845">51 High-Tech Practical Jokes for the Evil Genius</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/captain_kirk">captain_kirk </a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/32469"><img src="/kuvat/tuotekuvat/20c3ddf4299b431df0ad25d92bfa4f4a407de186.jpg?1458321363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32469">Male Multiple Orgasms Guide</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99410"><img src="/kuvat/tuotekuvat/cb8714f652db353880ea92aacdbab7d71a82a692.jpg?1505962481" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99410">YouTubify v1.9 [FAST SHIPPING]</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79573"><img src="/kuvat/tuotekuvat/0d568f3013f7617cf2df87227f0b829ab0becfa7.jpg?1484159831" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/79573">Napster Premium Account |LIFETIME WARRANTY|</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/acc4btc">acc4btc</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87573"><img src="/kuvat/tuotekuvat/4f4723e435e7cb4a3b11660291ba609e4703fb90.jpg?1488646926" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87573">Pandora’s Box ★ A man’s guide to the female mind</a> (<span title='0.5 GBP'>0.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/supernova_supplies">Supernova_Supplies</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2901">Guides and tutorials</a>
+</li>
+<li class='active'>♕ DMT: The Spirit Molecule ♕</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

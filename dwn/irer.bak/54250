@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="X5xa5icEtJ6ed84AHPmAZKd/geq8K1C3kpx8c4QnA5GSOBR2k+MUlt2yy/1whURwVmUn2I+K5oPVVC7i2ZEmhw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>100 iu HGH 191AA human growth hormone (Liontropin)</h1>
+<ul class='list-unstyled specs'>
+<li>151.37 EUR <em>(0.019414 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/lionhgh">LionHGH</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="v0UwzcqN2L8GwsEWQ5QXAiLj+PfL0TVHChtILaP33TRy4X5dfmp4t0UHxOsv6NMW0/lexfhwg3NN0xq8/kH4Ig==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="227352">Domestic (included)</option>
+<option value="227353"> (+0.81 EUR)</option>
+<option value="227354"> (+0.81 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="54250" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>6/8/16 ANOTHER RIDICULOUS NUMBER ON LAB WORK</p>
+
+<p>https://www.reddit.com/r/Steroidsourcetalk/comments/4n69lt/review_isosource_teste_lionhgh_bluetops_watsonguy/</p>
+
+<p>I HAVE A MINIMUM ORDER OF $200 BUT ONE LIONTROPIN IS FINE AS WELL</p>
+
+<p>Recent lab just done on my Liontropin!!</p>
+
+<p>https://www.reddit.com/r/Steroidsourcetalk/comments/4egv4v/review_lionhgh_bluetoplion_wbloodwork/</p>
+
+<p>This is my own personal hgh that has been tested and scored very high on recent serum. Blue tops. They come in a plain white box, so they're not as fancy as they grey tops hence the price difference. If you're looking to run HGH and not resell this is perfect</p>
+
+<p>About hgh:</p>
+
+<p>Growth hormone was discovered in the 1920s and was isolated in the form of somatotropin in 1956. The benefits of HGH are immense; even today new research pops up regularly that reveals new uses for it. HGH is present in the body at a rate of 500 micrograms at any time in the blood of males between the ages of 20 and 30.</p>
+
+<p>It's produced by the anterior pituitary gland under the stimulation of the hypothalamus (like LH, the testosterone precursor). The effects on our system are tremendous:</p>
+
+<p>HGH promotes and increases the synthesis of new protein tissues, such as in muscle recovery or repair. This is the way new muscle is built.</p>
+
+<p>Recent research suggests its involvement in the metabolism of body fat and its conversion to energy sources. Tests were conducted in obese people, and medical use in treating obesity was proven beyond a doubt. Some pros have used GH as a way of maintaining and increasing lean mass while dieting for years.</p>
+
+<p>It improves the sleeping pattern, makes for fewer unintended awakenings and betters REM-stage sleep.</p>
+
+<p>HGH produces more energy</p>
+
+<p>It may improve sexual performance</p>
+
+<p>It builds stronger bones</p>
+
+<p>Improves the quality and duration of heart and kidneys </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/13262"><img src="/kuvat/tuotekuvat/8f21d0a75af0d991c21b0f1ff82bd544d1a109f2.jpg?1455970279" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13262"> HYGETROPIN 100IU HGH</a> (<span title='154 GBP'>175.22&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84189"><img src="/kuvat/tuotekuvat/3da6dd5c25be98fe0989bcaf9a7ee9fc42a66dcd.jpg?1487952090" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84189">(Growth Hormone) Genotropin (pre-filled PEN) - 36 IU - Pfizer</a> (<span title='238 EUR'>238&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20026"><img src="/kuvat/tuotekuvat/6786b1f0933d91cf0892e598ab1d5325e9e81f74.jpg?1506762271" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20026">Hygetropin 100iu Human growth hormone </a> (<span title='152 GBP'>172.94&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52296"><img src="/kuvat/tuotekuvat/112836e36951faacc778a55d5160d2314e79f59c.jpg?1468412902" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52296">Primobol Tablets | 60 tabs (50mg/tab) - Balkan Pharmaceuticals</a> (<span title='179 USD'>145.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>100 iu HGH 191AA human growth hormone (Liontropin)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

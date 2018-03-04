@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CNsWlt+X7HFTQIfX5ztsn0xR295gqe84hLK3affhgMnFf1gGa3BMeRCFgiqLR6iLvUt97FMIWQzDeuX4qlel3w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/584ee9b2a5d67362bdf6394ee1579d2d5999a501.jpg?1480628566"><img src="/kuvat/tuotekuvat/55ed0e8da72105b9a3ec4225155494acc050089e.jpg?1480628566" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>50 X 40 mg methadone BEST PRICE!!!</h1>
+<ul class='list-unstyled specs'>
+<li>496 EUR <em>(0.064025 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/eurodrugs">eurodrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>France &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NHGA2W11P/G4iEDvCQMRjdJ6JrjezEVyeIIo0p+P91z51c5J2ZKf+ftNRRJlf9WZI2CAiu1t80Y/SnpDwjnSSg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="358085">FRANCE suivi (included)</option>
+<option value="358086">International tracked (+4 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73594" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>50 capsules X 40mg METHADONE(total: 2000 mg)</p>
+
+<p>BEST PRICE ON THE DARK NET !!!!   :-) </p>
+
+<p>----------------------------------------------------------------------------------------</p>
+
+<p>! AUGUST 10, 2016!!</p>
+
+<p>I have new big stock! 
+<br />about 40 boxes of 7 capsules of 40 mg!
+<br />Total of about 300 capsules.
+<br />Shipments of orders every day! 
+<br />Escrow payment and tracking number on all orders!</p>
+
+<p>----------------------------------------------------------------------------------------</p>
+
+<p>40 mg is the hightest dosage for methadone in gelule (and 60 mg for methadone flask)</p>
+
+<p>French methadone is very good and very strong</p>
+
+<p>treatment and shipment of the order in 24 hours</p>
+
+<p>contact me for informations and questions, thanks</p>
+
+<p>If your delivery address is in France, you will receive the package within 1 to 3 days</p>
+
+<p>France : 1 to 3 days
+<br />Europe: 3 to 7 days
+<br />Rest of world : 3 to 10 days   </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 1.0 EUR (FRANCE suivi) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/14727"><img src="/kuvat/tuotekuvat/af3ad630a2e307ad4a4274020e36f9c6a125f0a5.jpg?1455970648" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14727">50g China White Synthetic Heroin</a> (<span title='456 EUR'>456&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11450"><img src="/kuvat/tuotekuvat/a492daf9ac8e315768019e85f9d64e64df3cb78a.jpg?1455970023" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/11450">Blacktar Heroin 10g</a> (<span title='400 EUR'>400&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103535"><img src="/kuvat/tuotekuvat/9bcb59779526c64f88be70a75bc30dfba1833229.jpg?1518725111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103535">450x Codeine 15 MG Pills (Loose)</a> (<span title='680 USD'>551.75&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87611"><img src="/kuvat/tuotekuvat/331c229c91361cee4903e5bb2e6e4d4c1376c52a.jpg?1488692657" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87611">[USA to USA] 1000 pills Tramadol 100mg ONLY 650$ ULTRAM TopTram</a> (<span title='699.99 USD'>567.97&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89710"><img src="/kuvat/tuotekuvat/c1a219ab369b124cd8708ca0c8431d7dd2c2c2ee.jpg?1490179652" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89710">100 x 10mg Instant Release Oxycodone Pills</a> (<span title='650 EUR'>650&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1308">Metadon</a>
+</li>
+<li class='active'>50 X 40 mg methadone BEST PRICE!!!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

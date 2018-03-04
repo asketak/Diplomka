@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NAOdTd2w325SWaFMMA/gasNpgedtC0x+eF6x+S7NoZH5p9PdaVd/ZhGcpLFccyR+MnMn1V6q+ko/luNoc3uEhw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/dd8d6e213ba15f7c111357e9c599182766344ecb.jpg?1477668659"><img src="/kuvat/tuotekuvat/7765e3d200b27c1c4dadfcce199c9c6757a1c6d2.jpg?1477668659" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>3 g of Fire Black Tar Heroin, Extremely Pure, Express!</h1>
+<ul class='list-unstyled specs'>
+<li>219.73 EUR <em>(0.028212 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/leftcoast">leftcoast</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZKbX++6331XAm7uKzkpo0LWS6uWXNcD1hjH5NPg+KFapAplrWlB/XYNevneiNqzERIhM16SUdsHB+aulpYgNQA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="320713">Domestic USA Priority (3-5 days) (included)</option>
+<option value="320714">Domestic USA Express (1-3 days) (+12.21 EUR)</option>
+<option value="320715">International First Class(~10 days) (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="68183" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This listing is for some of the highest quality black tar available on the West Coast. This is the "puro" uncut product. Trust me when I tell you that extreme caution is required when using this product. INTERNATIONAL ORDERS at the moment we have no way of tracking packages beyond US Customs. If they are seized at US customs we will see but if they are not there will be no more update...</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 8.14 EUR (Domestic USA Priority (3-5 days)) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/37376"><img src="/kuvat/tuotekuvat/b6ab97a7d1cf2367a617af63f022e81d9653f4b8.jpg?1480458441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37376">250mg Fentanyl 99.5%</a> (<span title='335 USD'>272.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16768"><img src="/kuvat/tuotekuvat/68cd756f3d14a16136aa48589200a71bc7fa6e87.jpg?1484476712" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16768">5G TSC&#39;s Original Spanish Bayer Opium ~ FE PRICE ~</a> (<span title='223.49 USD'>181.88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/the-scurvy-crew">The Scurvy Crew</a></span>&nbsp;(<span class='green' title='Positive feedback'>666</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38511"><img src="/kuvat/tuotekuvat/1087156a8d20a54f45e70f222c69497c7ff5ad8a.jpg?1461528191" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38511">5 G ★★ HEROIN UNCUT AAA+ HQ ★★ GERMANY SHIPPING ★★</a> (<span title='275 EUR'>275&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101662"><img src="/kuvat/tuotekuvat/7cf5d0cb7696400297142e2984c6fa1f28406a5c.jpg?1511628253" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101662">10 X OXY 40 OP</a> (<span title='285 USD'>231.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fasterndsaffer">fasterndsaffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>482</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-32</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89677"><img src="/kuvat/tuotekuvat/5f1c72f14d83d8e53dce1b3f58bd1b07053cfb74.jpg?1490173464" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89677">1mg Xanax,10mg Oxycodone,30mg Roxy,10mg METHADONE &amp; others </a> (<span title='200 EUR'>200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>3 g of Fire Black Tar Heroin, Extremely Pure, Express!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

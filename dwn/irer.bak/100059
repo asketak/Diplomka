@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SWxG2uRPK8mKd0qyfxKjkmrCAomAay3CIfCrlaoBPlKEyAhKUKiLwcmyT08TbmeGm9iku7PKm/ZmOPkE97cbRA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8512da06ba16983e68814bf9ca78d19a360315d4.jpg?1508092625"><img src="/kuvat/tuotekuvat/c055aa1b4fe82809510bce9dcf0a447f9e05c150.jpg?1508092625" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1x LSD Vial (100 drops x 100mcg)</h1>
+<ul class='list-unstyled specs'>
+<li>169.27 EUR <em>(0.021707 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/aphelion">Aphelion</a></span>&nbsp;(<span class='green' title='Positive feedback'>23</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OJjUsZDmTS/oUUmhQF9xykkzeI9J4yg/fLrtEOK1Ox71PJohJAHtJ6uUTFwsI7XeuCnevXpCngs7cr+BvwMeCA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100059" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Hello, we're Aphelion.
+<br />Our previous and current vending history includes: Alphabay, Hansa, Traderoute, Dream, Valhalla and Wallstreet markets.</p>
+
+<p>Description:
+<br />Each vial containins between 100 and 115 drops.
+<br />Each drop contains between 100 and 110 micrograms of LSD-25.
+<br />Bottle should appear roughly 1/3 full due to standard vial size (1 dram).
+<br />To produce a standard drop, dropper should be held vertically and squeezed very slowly.
+<br />Our LSD-25 is suspended in an ethanol/water blend.
+<br />The solution will not freeze if stored at low temperature, and protects the LSD against microbial contamination.
+<br />LSD should be kept cold and in the dark to ensure longevity of potency.</p>
+
+<p>Quality:
+<br />We produce our vials in large batches, typically 5 or 10 grams, maximizing dose accuracy.
+<br />All of our laboratory equipment is hospital grade; no part of our process involves cheap Chinese ebay garbage - another part of our quality control. Vials are vaccum sealed, then heat sealed in mylar envelopes. Some condensation is normal, due to our storing our LSD below freeze point.</p>
+
+<p>Shipping &amp; Stealth:
+<br />Items come in the USPS package of your choice. Labels are business grade thermal printed on 4"x6" labels - the most common size.
+<br />Sender address (us) is a fictitious business name, which varies day to day.
+<br />Packages are hot glue sealed from the inside and have no visually distinct or unusual markings of any kind.
+<br />Trackers, for security reasons, will only be issued 2 days beyond the designated shipping interval.</p>
+
+<p>Etc:
+<br />Pricing is fixed and non-negotiable. Any bulk discounted offers are available in our store.
+<br />Potential buyers must have PGP if sensitive communication is in order.
+<br />Please check your shipping address online to ensure proper formatting.
+<br />A recipient name, real or fictitious, is required for all shipments.</p>
+
+<p>Proper Format:
+<br />Your Name
+<br />123 Yourstreet
+<br />Apartment 1
+<br />City, State, Zip</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.12.)</em>
+</td>
+<td><span>
+fi***rl
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+APHELION!!!!!!! Third order from these guys on dream, went smooth yet again. 
+<em>(15.12.)</em>
+</td>
+<td><span>
+og***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (6.51 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102205"><img src="/kuvat/tuotekuvat/c9e31668d9ad0192d89d0286791ccbec0d05b7f2.jpg?1513224889" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102205">❤ 50x LSD-25 ★ ORIGINAL ★ 160ug ❤</a> (<span title='260 USD'>211.59&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99791"><img src="/kuvat/tuotekuvat/d35bc0a338bdbbbeca75f63969332bfe650503b1.jpg?1511793461" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99791">LSD - Morning Star [125mcg] - 50 tabs</a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98316"><img src="/kuvat/tuotekuvat/5cc52ecb770a1bc7cbeb315e3edb198a8f42a01d.jpg?1502706701" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98316">100 2CB BLOTTERS</a> (<span title='150 EUR'>150&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15227"><img src="/kuvat/tuotekuvat/aca96151744df4a411c260f838ddcb83c07d88ae.jpg?1455970770" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15227">54g - Iboga Rootbark - High Quality, Cameroon</a> (<span title='295.2 USD'>240.23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97832"><img src="/kuvat/tuotekuvat/ab3e12b7311e57a36e25ac55846907f9479bfde5.jpg?1501952978" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97832">100 LSD Blotters 150 ug, FE</a> (<span title='205 USD'>166.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1701">LSD</a>
+</li>
+<li class='active'>1x LSD Vial (100 drops x 100mcg)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

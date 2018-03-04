@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mLoU+LW+p9Hvv8vCPulAhfBl8T8hUS4i03b9MGEG+vxVHlpoAVkH2ax6zj9SlYSRAX9XDRLwmBaUvq+hPLDf6g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5ea98abd35bdb413b866397fbfcbe95ba17ac08c.jpg?1513016241"><img src="/kuvat/tuotekuvat/e694a674bf2c0a20953b44adf951baa67ee51567.jpg?1513016241" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Postitukset KJ:n osalta lomalla. Maastokätköt onnistuu. </h1>
+<ul class='list-unstyled specs'>
+<li>1020 EUR <em>(0.130805 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/keisari-julius">Keisari Julius</a></span>&nbsp;(<span class='green' title='Positive feedback'>2386</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-20</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mb/MyC1We2RayeFGhhFcjDAHwzgucRGW7aXAbq+O0rX8G4JYmbHbbBkM5LvqbZiYwR1lCh3Qp6KqbZL/8jj3ow==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="614925">Maastokätkö alle 1000€ (included)</option>
+<option value="657451">Maastokätkö yli 1000€  (-20 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="99930" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b> Maastokätköt minimi 500€/tilaus </p>
+
+<p>Maastokätkömaksu 20e </p>
+
+<p>Yli 1000€ tilauksiin ilmainen maastokätkö. </p>
+
+<p>Hinnasto: </p>
+
+<p>Jatkamaton Amfetamiini 
+<br />40€/g 
+<br />+20g 35€/g </p>
+
+<p>MDMA 
+<br />10g - 50€/g 
+<br />100g - 35€/g 
+<br />500g - 29€/g 
+<br />1000g - 26€/g</p>
+
+<p>Voit tilata tästä listauksesta suoraan niin että lasket tilauksesi arvon ja valitset sen mukaan lukumäärän. </p>
+
+<p>Esimerkiksi tilauksesi maksaa 750€. Valitset siis lukumääräksi 75
+<br /></b></p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+28days later. Nothing.
+<em>(8.1.)</em>
+</td>
+<td><span>
+Li***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tilaus tehty 28 päivää sitten, ei ole saapunut.
+<em>(5.1.)</em>
+</td>
+<td><span>
+de***rd
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Mitään ei koskaan saapunut (28 päivän jälkeen) 
+<em>(5.1.)</em>
+</td>
+<td><span>
+ma***sa
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(4.1.)</em>
+</td>
+<td><span>
+An***68
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei näy tuotteita, 13 arkipäivää odottanut. Jouluruuhkien takia näin pitkä odotus ennen palautteen antamista. Muutan tämän positiiviseksi, jos tulevat vielä perille.
+<em>(29.12.)</em>
+</td>
+<td><span>
+St***yt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Alun pienen epäselvyyden jälkeen reilu kauppa. Ja kiitos ylimääräisestä teslasta.
+<em>(28.12.)</em>
+</td>
+<td><span>
+il***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+2 viikkoa kesti postilla tuoda perille. Hyvä paketointi ja itse tuote 5/5 kuten aiemminkin. Kiitos myös bonarista!
+<em>(22.12.)</em>
+</td>
+<td><span>
+qa***ed
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 20.0 EUR (Maastokätkö alle 1000€) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/24610"><img src="/kuvat/tuotekuvat/d744598c7165bcea3dfc41dadc956c4827185588.jpg?1455972707" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24610">100gr MDMA Crystals 85% PURE</a> (<span title='775 EUR'>775&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97871"><img src="/kuvat/tuotekuvat/a4c0c43a96c3e12d4e0e33eb98d652caa51f7f07.jpg?1501956619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97871">Coca Cola MDMA 84%+, 250 Grams FE </a> (<span title='962 USD'>782.88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23250"><img src="/kuvat/tuotekuvat/bc86011401910459d248554587cdca4ec2273f3b.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23250">500 Green WhatsApp XTC pills 160MG</a> (<span title='900 USD'>732.42&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>580</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102417"><img src="/kuvat/tuotekuvat/717a93a799e758f94f4c2af080c4c5ccdbf90e9b.jpg?1514059908" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102417">Dutch passport</a> (<span title='835 EUR'>835&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fakeid">FakeiD</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103683"><img src="/kuvat/tuotekuvat/fc66b29eb0941854d8f636a44fc3a36977cd5f39.jpg?1519321581" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103683">XTC Grenades (180mg) 100pcs</a> (<span title='1105 EUR'>1105&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ksanori">Ksanori</a></span>&nbsp;(<span class='green' title='Positive feedback'>121</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>Postitukset KJ:n osalta lomalla. Maastokätköt onnistuu. </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Qy/a62EHfsSshEmfCf/hza2n0afll7JeqjjmaSx/lcqOi5R71eDezO9BTGJlgyXZXL13ldY2BGrt8LT4ccmw3A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d27cbb12c0faf92c5a79560976be70c17534addb.jpg?1482330180"><img src="/kuvat/tuotekuvat/6c204ce2d5d567bbed44c80fe3db146b7132cbae.jpg?1482330180" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>BIG PACK ** €5,€10,€20,€50,€100,€200,€500 EURO BILLS TEMPLATES</h1>
+<ul class='list-unstyled specs'>
+<li>60.86 EUR <em>(0.00785 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SSTdm9CWT5u8//FbLtf0V56kelU4W6EsuP3Fp+Vor6+EgJMLZHHvk/869KZCqzBDb77cZwv6Fxj/NZc2uN6KuQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="384794">PM (included)</option>
+<option value="384795"> (+0 EUR)</option>
+<option value="384796"> (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="76999" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>THIS LISTING IS FOR A PACKAGE OF HIGH QUALITY EURO BILLS TEMPLATES {€5,€10,€20 (last and new version),€50,€100,€200,€500}</p>
+
+<p>INCLUDES :</p>
+
+<p>Counterfeiting Guides Included!!</p>
+
+<p>=========================================================
+<br />5 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 5 Euro Package 2013</p>
+
+<p>Contains:
+<br />- Front .png 5657 × 2820
+<br />- Back .png 5657 × 2820
+<br />- Watermark .png 447 × 705
+<br />- Hologram .png 392 × 2900
+<br />- 3 OVI Files [.png] 435 × 665</p>
+
+<p>=========================================================
+<br />10 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 10 Euro Package(Pre-2013)</p>
+
+<p>Contains:
+<br />- Front Edited .png 3600 × 1885
+<br />- Back Edited .png 3600 × 1885
+<br />- Front Unedited .png 3600 × 1885
+<br />- Back Unedited .png 3600 × 1885
+<br />- Watermark .png 1464 × 1683
+<br />- 2 Hologram files [.png] 348 × 1794
+<br />- UV Front .png 1701 × 879
+<br />- UV Back .png 1701 × 879
+<br />- EURO EYPO Stamp .png 359 × 187</p>
+
+<p>The color of this specific note is very hard for some printers</p>
+
+<p>=========================================================
+<br />20 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- NEW! 20 Euro Package - Europa Series 2015</p>
+
+<p>Contains:
+<br />- Front .png 1065 × 581
+<br />- Back .png 1630 × 875
+<br />- Watermark .png 713 × 710
+<br />- Translucent Window .png 714 × 710
+<br />- Front .PSD Including Security Thread</p>
+
+<p>---------------------------------------------------------------------------------
+<br />- High Resolution 20 Euro</p>
+
+<p>Contains:
+<br />- Front .png 26720 × 15312
+<br />- Back .png 27610 × 15862</p>
+
+<p>---------------------------------------------------------------------------------
+<br />- 20 Euro Package</p>
+
+<p>Contains:
+<br />- Front Edited .png 6283 × 3401
+<br />- Back Edited .png 6283 × 3401
+<br />- Front Unedited .png 6283 × 3401
+<br />- Back Unedited .png 6283 × 3401
+<br />- Watermark .psd 1526 × 2182
+<br />- Watermark .png 1526 × 2182
+<br />- 19 Hologram files [.png/.psd] 543 × 3401
+<br />- Silver Strip Back .png 391 × 2004
+<br />- UV Front .png 1570 × 850
+<br />- UV Back .png 1701 × 907
+<br />- Hologram Test Print Sheet .png</p>
+
+<p>=========================================================
+<br />50 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 50 Euro Package</p>
+
+<p>Contains:
+<br />- Front Edited .png 3948 × 2192
+<br />- Back Edited .png 3948 × 2192
+<br />- Front Unedited .png 3948 × 2134
+<br />- Back Unedited .png 3948 × 2134
+<br />- Watermark .png 236 × 397
+<br />- Watermark with Lines.png 3948 × 2186
+<br />- 3 Hologram files [.png/.psd] 586 × 605
+<br />- UV Front .png 3948 × 2186
+<br />- UV Back .png 1701 × 935
+<br />- Back without Serial .png 3948 × 2154
+<br />- Back without Serial .psd 3948 × 2154</p>
+
+<p>=========================================================
+<br />100 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 100 Euro Package</p>
+
+<p>Contains:
+<br />- Front Edited .png 4146 × 2267
+<br />- Back Edited .png 4146 × 2267
+<br />- Front Unedited .png 4146 × 2275
+<br />- Back Unedited .png 4146 × 2275
+<br />- Watermark .png 4146 × 2319
+<br />- 3 Hologram files [.png/.psd] 266 × 300
+<br />- UV Back .png 1701 × 935
+<br />- Print Ready Version</p>
+
+<p>=========================================================
+<br />200 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 200 Euro Package</p>
+
+<p>Contains:
+<br />- Front .PSD 7679 × 4273
+<br />- Back Edited .PSD 7679 × 4273
+<br />- High Quality Watermark .PSD
+<br />- Removable Hologram .PSD</p>
+
+<p>=========================================================
+<br />500 Euro Counterfeit Templates
+<br />=========================================================</p>
+
+<p>- 500 Euro Package</p>
+
+<p>Contains:
+<br />- Front Edited .png 4518 × 2309
+<br />- Back Edited .png 4518 × 2309
+<br />- Front Unedited .png 4518 × 2309
+<br />- Back Unedited .png 4518 × 2309
+<br />- 2 Hologram files [.png] 239 × 239</p>
+
+<p>---------------------------------------------------------------------------------
+<br /> </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/45379"><img src="/kuvat/tuotekuvat/401f3ac71ddb7e8f7ad172777407e628cd4bc4ec.jpg?1464972876" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/45379">★USA CC WITH [1.000 $-10.000 $] ★ - </a> (<span title='49 EUR'>49&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93143"><img src="/kuvat/tuotekuvat/4de86ca899f8d6b7817a428c2d5c10deb28c9072.jpg?1513111017" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93143">5 x €50 Euro Counterfeit Notes (Very Good Quality)</a> (<span title='85 USD'>68.97&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/appleinc">appleinc</a></span>&nbsp;(<span class='green' title='Positive feedback'>2401</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103322"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103322">Copy of swedish passport scan</a> (<span title='50 GBP'>56.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89202"><img src="/kuvat/tuotekuvat/b0c8ff4fc7d00f3491d10efbf2bacaf61315250d.jpg?1489866126" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89202"> ******BMG EXPRESS INTERNATIONAL SHIPPING FEE   $99.99*****</a> (<span title='99.99 USD'>81.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99682"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99682">Tip</a> (<span title='100 USD'>81.14&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/matt1034">Matt1034</a></span>&nbsp;(<span class='green' title='Positive feedback'>14</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2606">Money</a>
+</li>
+<li class='active'>BIG PACK ** €5,€10,€20,€50,€100,€200,€500 EURO BILLS TEMPLATES</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

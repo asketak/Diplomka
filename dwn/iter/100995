@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KtU5SmayYCo/P1UELjG3TG7aNfDc/3XEep1FKANWgnvncXfa0lXAInz6UPlCTXNYn8CTwu9ew/A9VRe5XuCnbQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ff3d0516d1e9aaf6ca9194ec92e6eb267754d0d2.jpg?1510510872"><img src="/kuvat/tuotekuvat/524d37619f25f8cb72ef75028a2b1bb199e865a1.jpg?1510510872" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>*MEGA ALE* 5x Attentin 10mg (dexamfetamin)</h1>
+<ul class='list-unstyled specs'>
+<li>85 EUR <em>(0.010902 BTC)</em></li>
+<li>19 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pillerikauppa">pillerikauppa</a></span>&nbsp;(<span class='green' title='Positive feedback'>1384</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZQugdwcZhN0Ngmr/qA6fnl8spMOjKO8K/uFB72s4Z6yor+7ns/4k1U5HbwLEcluKrjYC8ZCJWT65KRN+No5Cug==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="638023">Kotimaassa 1.lk kirje (included)</option>
+<option value="638024">Kaikki muut tavat, sovi viestillä (+6 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100995" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Suomi apteekin aitoa Vahvaa piriä *ALE* hintaan</p>
+
+<p>5kpl Attentin 10mg, Dexamfetaminsulfat
+<br />Samaa siis ku Dexedrine...</p>
+
+<p>(kuvassa 5mg mutta nämä siis 10mg! )</p>
+
+<p>Luethan AINA toimitusehtomme profiilistamme ennen tilausta KIITOS</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tosi nopea toimitus + sain extraa
+<em>(13.2.)</em>
+</td>
+<td><span>
+ne***af
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+kaikki ok, luotettava myyjä
+<em>(11.2.)</em>
+</td>
+<td><span>
+hu***ka
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.2.)</em>
+</td>
+<td><span>
+ge***at
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++++
+<em>(4.2.)</em>
+</td>
+<td><span>
+ka***ks
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+loisto nousut .💪
+<em>(29.1.)</em>
+</td>
+<td><span>
+Ki***ro
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Lähetys tuli postitse perille luvatusti ja tavara oli sitä mitä pitikin. Siisti pakkaustapa, mukana ilahduttava pieni talvinen yksityiskohta. :-D
+<em>(24.1.)</em>
+</td>
+<td><span>
+el***ag
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(19.1.)</em>
+</td>
+<td><span>
+je***90
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.0 EUR (Kotimaassa 1.lk kirje) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102819"><img src="/kuvat/tuotekuvat/aebd9d767bad256630fee873c76ded6e1b044e14.jpg?1516406323" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102819">❤ 50x XANAX S903 ★ 2mg  ❤</a> (<span title='110 USD'>89.52&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/75752"><img src="/kuvat/tuotekuvat/d11475cb02c38263b64ead4384934759bf068e12.jpg?1481709224" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75752">100x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='90 USD'>73.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98326"><img src="/kuvat/tuotekuvat/864be0870e206333ad1fe3dd4a1b4360fa4039ec.jpg?1515619097" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98326">Roche Rivotril 50 tablettia -escrow -laatutakuu -homma hoidos</a> (<span title='103.5 EUR'>103.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/h1r0ll1ng">H1R0LL1NG</a></span>&nbsp;(<span class='green' title='Positive feedback'>416</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-59</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38078"><img src="/kuvat/tuotekuvat/67ffaa017ce9f2bbf89fc66edade2d84d2276671.jpg?1464325508" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38078">Ritalin 10mg by Novartis - 20 tablets</a> (<span title='65 GBP'>73.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99678"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99678">10kpl Flormidal 15mg</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pur-sang">Pur Sang</a></span>&nbsp;(<span class='green' title='Positive feedback'>1756</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1506">ADHD</a>
+</li>
+<li class='active'>*MEGA ALE* 5x Attentin 10mg (dexamfetamin)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.44 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

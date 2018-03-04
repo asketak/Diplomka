@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CG6ezF6I6GssfUxeqwf9qq2VtgM+fRWHHDW0sBB3uRfFytBc6m9IY2+4SaPHezm+XI8QMQ3co7Nb/eYhTcGcAQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/a050ecb0caaf3a1987279695409881a086c6552c.jpg?1484388208"><img src="/kuvat/tuotekuvat/5d0003c6f2938effce9868d54d28cc8330c495fb.jpg?1484388208" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>12g (half piece) highest quality BTH (gunpowder/huff) on darknet</h1>
+<ul class='list-unstyled specs'>
+<li>657.24 EUR <em>(0.084838 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/chapomart2-0">chapomart2.0</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1Tcg3TePt92WRF6SFaDVs89H59lVgM1oiSs1Tu68/6cYk25Ng2gX1dWBW2953BGnPl1B62Yhe1zO42ffswrasQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="409169">USPS Priority Mail (3 days) (included)</option>
+<option value="409170">USPS Express Mail (1-2 days) (+32.46 EUR)</option>
+<option value="409171">Fedex Gauranteed Overnight (1 day) (+73.03 EUR)</option>
+<option value="409172">Add to existing order (-8.11 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="80198" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Long time Alphabay and Dream Market vendor temporarily calling Valhalla home. Due to recent losses we currently have to require FE on orders of 6g or more. This will never effect shipping time, and orders will always go out same or next day, express orders always going out same day if ordered by noon PST. For FE orders I can provide tracking by early evening on day of shipment. </p>
+
+<p>We guarantee you wont find higher quality BTH anywhere on or most likely off the darknet. We pride ourselves in providing BTH of the highest possible purity  without further refinement into #3 and #4. We bet our reputation on the fact that the best BTH in existence is at absolute best on the same level as our product, but highly unlikely that it will be better. </p>
+
+<p>We provide 100% guarantee on our product and will ALWAYS refund or reship if the product is unsatisfactory or if there are any shipping issues of which we are responsible. We extend this guarantee to ALL orders regardless of FE or escrow.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 8.11 EUR (USPS Priority Mail (3 days)) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/37384"><img src="/kuvat/tuotekuvat/18b9e822d4b37fe47c810ef21298e973af5cf3f2.jpg?1478816741" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37384">10g China White Synthetic Heroin Acetyl Mix</a> (<span title='1110 USD'>900.66&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/80133"><img src="/kuvat/tuotekuvat/6211151651d745fa28e4080d0ade73f948ad8fc6.jpg?1484370329" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/80133">US-US oxycodone 80mg 100 pills - $899.99 HIGH QUALITY!!!</a> (<span title='917.98 USD'>744.85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103535"><img src="/kuvat/tuotekuvat/9bcb59779526c64f88be70a75bc30dfba1833229.jpg?1518725111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103535">450x Codeine 15 MG Pills (Loose)</a> (<span title='680 USD'>551.75&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89710"><img src="/kuvat/tuotekuvat/c1a219ab369b124cd8708ca0c8431d7dd2c2c2ee.jpg?1490179652" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89710">100 x 10mg Instant Release Oxycodone Pills</a> (<span title='650 EUR'>650&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102852"><img src="/kuvat/tuotekuvat/023ab192d028d027b6aabfbedba8e7a6fe5bb3cd.jpg?1516234623" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102852">50g Heroin Pure Uncut #3 ( Normal Quality )</a> (<span title='1050 EUR'>1050&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>12g (half piece) highest quality BTH (gunpowder/huff) on darknet</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

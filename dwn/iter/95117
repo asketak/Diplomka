@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="raQbFeRObRRnEa/rTZyvAj6YN9bB3s+ckxWPxqgN8t1gAFWFUKnNHCTUqhYh4GsWz4KR5PJ/eajU3d1X9bvXyw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9814d5d79dd4e9bccd675d30e48f26a3757ecb4e.jpg?1497006226"><img src="/kuvat/tuotekuvat/5a0bc11308825d69b440a8f6ddafa85288505ab0.jpg?1497006226" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1g Liberty Caps</h1>
+<ul class='list-unstyled specs'>
+<li>11.38 EUR <em>(0.001458 BTC)</em></li>
+<li>9 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/godsgarden">GodsGarden</a></span>&nbsp;(<span class='green' title='Positive feedback'>17</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pwR98/PIbXEPVT3BU8MuitwooArNLEDN1VBZAC1CYfRqoDNjRy/NeUyQODw/v+qeLTIGOP6N9vmSmAuRcPRE4g==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="543259">UK Free (included)</option>
+<option value="543260">Europe (+3.41 EUR)</option>
+<option value="543261">Worldwide (+4.55 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="95117" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Liberty Caps speak for them selves. An amazing trip. These shrooms are perfectly cured for your ultimate expreciance with this product. 1g is more than enough for a good hit.
+<br /> Large amounts will be available again at the end of August.</p>
+
+<p>any questions get in touch</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/15857"><img src="/kuvat/tuotekuvat/b472b130c79a22ebde10da76fb1e855ad8da54cc.jpg?1499838660" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15857">LIQUID MUSHROOMS [Pure Psilocybin]No Nausea, Faster Trip, Cleaner</a> (<span title='19.95 USD'>16.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tripwithscience">TripWithScience</a></span>&nbsp;(<span class='green' title='Positive feedback'>2236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23259"><img src="/kuvat/tuotekuvat/7993a3290c3bc07b590ba8825aafae43507d3cd9.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23259">2 LSD stamps Anonymous SAMPLE (180μg)</a> (<span title='12.5 EUR'>12.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23301"><img src="/kuvat/tuotekuvat/114d94a374a9c873f969f35bcbe13434ff844e83.jpg?1455972451" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23301">2 LSD Blotters 180μg - Anonymous </a> (<span title='12 USD'>9.77&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/30489"><img src="/kuvat/tuotekuvat/ad09debbacd77e5ecfd4f484fee05f82a7cc2fe2.jpg?1457422796" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/30489">SUPER MARIO paper blotter, 10 papers ,</a> (<span title='10 EUR'>10&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94327"><img src="/kuvat/tuotekuvat/73fa083f66f64513036ce80a44bc9f026e1ddcd0.jpg?1495184617" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94327">4-HO-MiPT  100mg 4homipt 4-ho-mipt free shipping</a> (<span title='14 USD'>11.39&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>598</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1702">Mushrooms</a>
+</li>
+<li class='active'>1g Liberty Caps</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

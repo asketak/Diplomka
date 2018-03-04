@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bbCnccaRUNOneF86XT84t5eSd4kn1UvvlCTss4ZC/9CgFOnhcnbw2+S9WscxQ/yjZojRuxR0/dvT7L4i2/Taxg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5d0de1a08567872a8307de273ed1cc7168186eb3.jpg?1494323967"><img src="/kuvat/tuotekuvat/bf2ddf4c4bfca96c49c358317d26b1f29850702b.jpg?1494323967" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sienet 5 g, psilocybe cubensis &quot;Golden Teacher&quot; &amp; &quot;Ecuador&quot;</h1>
+<ul class='list-unstyled specs'>
+<li>40 EUR <em>(0.00513 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/sissikasvattajat">Sissikasvattajat</a></span>&nbsp;(<span class='green' title='Positive feedback'>391</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Huurumadonlakkisienisekoitus. Alalajit Golden Teacher ja Ecuador. Sekoitettu suhteessa 1:1 jolloin psykedeeliset vaikutukset ovat kohdillaan.</p>
+
+<p>Tuote lähetetään vakuumiin pakattuna. Tuotteita lähetetään maanataisin - torstaisin, ennen klo. 16.00 tilatut lähtevät saman päivän aikana.</p>
+
+<p>Sissikasvattajien suosittelemat annoskoot:</p>
+
+<p>0.5 g - 1.0 g - Liian vähän
+<br />1.0 g - 2.0 g - Aloittelevan annoskoko
+<br />2.5 g - 3.5 g - Kohtuullinen annos/vahva annos
+<br />3.5 g - 5.0 g (alle 5.5 g) Erittäin vahva annos</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (1.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102519"><img src="/kuvat/tuotekuvat/7360428f3218e399d38885215633a4e6d606d80b.jpg?1516888247" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102519">2x LSD 200 μg erittäin vahvaa lappua 20€/kpl </a> (<span title='43 EUR'>43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kultaintopii">KULTAINTOPII</a></span>&nbsp;(<span class='green' title='Positive feedback'>379</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/50999"><img src="/kuvat/tuotekuvat/892f949a51e2bf79acec4066a77d90d6d2e525cd.jpg?1467798090" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/50999">LSD 200µg, 5 blotters</a> (<span title='37 EUR'>37&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/projeccao">projeccao</a></span>&nbsp;(<span class='green' title='Positive feedback'>699</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97146"><img src="/kuvat/tuotekuvat/3848a21ef2bf34fa67ba809d1ad78ede0609012d.jpg?1500729100" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97146">5g magic mushrooms shrooms McKennaii</a> (<span title='35 USD'>28.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>598</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14802"><img src="/kuvat/tuotekuvat/89e4454c8ae256588af5a83c855e852396c78e47.jpg?1455970671" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14802">100g / ~4oz - Mimosa Hostilis Rootbark - High Yield, Mexico</a> (<span title='68.4 USD'>55.66&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101859"><img src="/kuvat/tuotekuvat/a603a9905f0b7bbbe46ebdc816e10e78b3f50a5b.jpg?1512295466" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101859">Red Star Microdots 350mics x 1</a> (<span title='25 GBP'>28.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1702">Mushrooms</a>
+</li>
+<li class='active'>Sienet 5 g, psilocybe cubensis &quot;Golden Teacher&quot; &amp; &quot;Ecuador&quot;</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

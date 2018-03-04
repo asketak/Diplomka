@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DZ9O9EiK6q4o2QjQV9vqoryk5IPdgFnHnrnx9h7MCZ/AOwBk/G1KpmscDS07py62Tb5Cse4h7/PZcaNnQ3osiQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★★★1.5 grams 1500mg PURE N,N-DMT★★★$240 [ESCROW]★★★AU ONLY★★★</h1>
+<ul class='list-unstyled specs'>
+<li>153.08 EUR <em>(0.019658 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dimitribros">DImitriBros</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Australia &rarr; Australia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wvrOT9TKO8EygXVH7/BmZAXCrN/3MIL/1BBC9mT8SFgPXoDfYC2byXFEcLqDjKJw9NgK7cSRNMuT2BBnOUptTg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="55988" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Welcome to DimitriBrothers,</p>
+
+<p>This listing is for 1.5 grams of our PURE DMT.</p>
+
+<p>Australia's newest, best and purest DMT supplier. We are providing pure NN-DMT extracted with love and professionalism by experienced chemists from the WA Native Acacia Acuminata.</p>
+
+<p>20+ POSITIVE FEEDBACK ON ALPHABAY IN UNDER 2 WEEKS OF TRADE</p>
+
+<p>http://pwoah7foa6au2pul.onion/user.php?id=DimitriBros</p>
+
+<p>We use the highest degree of environmentally friendly and sustainable methods when harvesting the material (Acacia Acuminata Bark) that we extract our DMT from, we are dedicated in the preservation of these native acacias.</p>
+
+<p>All products are escrow, we wont ask for FE. Please remember to finalize your order when you receive your order.</p>
+
+<p>Terms and Conditions:</p>
+
+<p>SHIPPING &amp; ORDERING:</p>
+
+<p>► I ship only via Aus Post EXPRESS for FREE</p>
+
+<p>► I reship 100% in the event of a non arrival, (tracking draws a blank)</p>
+
+<p>► I will not reship if tracking says delivered.</p>
+
+<p>► All orders are sent next day after we receive your order.</p>
+
+<p>► Encrypt your address using PGP</p>
+
+<p>► No privnote or similar will be accepted when ordering</p>
+
+<p>► Tracking numbers are not released until 4 days have passed from when the order is sent.</p>
+
+<p>Please ensure your address is sent to us in correct format:</p>
+
+<p>John Smith
+<br />123 Some Street
+<br />Suburb State Postcode</p>
+
+<p>FEEDBACK &amp; FINALIZATION</p>
+
+<p>► If you don't finalize your order when you receive and/or let the order auto finalize you will be put on a black list and not allowed to order from us again.</p>
+
+<p>PAYMENT:</p>
+
+<p>► Bitcoin is the only form of payment accepted.</p>
+
+<p>If market goes down we can be contacted on the below email</p>
+
+<p>DimitriBros@sigaint.org</p>
+
+<p>Happy shopping ladies and gents of AlphaBay :)</p>
+
+<p>PRICE LIST:</p>
+
+<p>1/4g 250mg $50</p>
+
+<p>1/2g 500mg $100</p>
+
+<p>1g 1000mg $175</p>
+
+<p>1.5g 1500mg $240</p>
+
+<p>3.5g 3500mg $525 ($150 per gram)</p>
+
+<p>Larger amounts by request.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102205"><img src="/kuvat/tuotekuvat/c9e31668d9ad0192d89d0286791ccbec0d05b7f2.jpg?1513224889" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102205">❤ 50x LSD-25 ★ ORIGINAL ★ 160ug ❤</a> (<span title='260 USD'>211.59&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99791"><img src="/kuvat/tuotekuvat/d35bc0a338bdbbbeca75f63969332bfe650503b1.jpg?1511793461" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99791">LSD - Morning Star [125mcg] - 50 tabs</a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23263"><img src="/kuvat/tuotekuvat/dde9e9d59e5f5b0b0fe44bc2b93b5c8b7b8a2e3e.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23263">50 LSD stamps Anonymous (180μg)</a> (<span title='245 USD'>199.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23304"><img src="/kuvat/tuotekuvat/bdcda043c418b0816d1af1efb9024493943d7e36.jpg?1455972452" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23304">25 LSD Blotters 180μg - Anonymous </a> (<span title='140 USD'>113.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97878"><img src="/kuvat/tuotekuvat/ecdcc130a8c03fabfd508d3af809e9b7574071b3.jpg?1501954771" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97878">2-CB Pills 20 MG, 250 Pills FE</a> (<span title='227 USD'>184.73&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1705">DMT / AMT</a>
+</li>
+<li class='active'>★★★1.5 grams 1500mg PURE N,N-DMT★★★$240 [ESCROW]★★★AU ONLY★★★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

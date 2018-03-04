@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Ha3OoQRE8PvtHkINWoFTTBa/oW26697sBwujXrUibenQCYAxsKNQ867bR/A2/ZdY56UHX4lKaNhAw/HP6JRI/w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/4051f5b470b516b06cfde7c86984778b046c963a.jpg?1471049401"><img src="/kuvat/tuotekuvat/02bd0bbc02ede6df1b9e9ddd39de4b4b9440fcf9.jpg?1471049401" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>$2, 315 PER DAY - ALL NEW FOR JUNE 2016 - Cashout CCs to CLEAN BT</h1>
+<ul class='list-unstyled specs'>
+<li>40.68 EUR <em>(0.005218 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/topofthemorning">topofthemorning</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Hf3bp559xu4thwdZ5WE5dLNzZkmU6V3x2u7Fxt4VKUrQWZU3Kppm5m5CAqSJHf1gQmnAe6dI68WdJpdXg6MMXA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="56201" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>All NEW UPDATED METHOD:</p>
+
+<p>    Expanded Opsec
+<br />    How to verify Credit Cards before Cashing out
+<br />    How To Find The Right Vendors
+<br />    How to stay safe anonymous
+<br />    How to increase your profits</p>
+
+<p>Those of you know about v1.0 of this guide know that people made tons of money with the first one.</p>
+
+<p>My guides ALWAYS make the most money and carry the least risk.</p>
+
+<p>I will show you how take a Credit Card, and using emailing and Social Engineering(Over Email) convert it into pure BTC, undetected, anonymous and ZERO RISK of charge back.</p>
+
+<p>I will show you:</p>
+
+<p>-- What type of cost and time investment is required.
+<br />-- What to say in the emails.
+<br />-- How to run your campaign quickly to make the most Cash
+<br />-- What EXACTLY to say to get the BTC the fastest.
+<br />-- How to run multiple campaigns at once for MAXIMUM PROFIT
+<br />-- EXACT STEP BY STEP , and links to their example campaigns so that you can study the methods</p>
+
+<p>ALPHA LINK: http://pwoah7foa6au2pul.onion/listing.php?id=104987</p>
+
+<p>I MUST SAY THIS IS THE BEST UPDATED TO MY BEST GUIDE EVER!!!!!!!!!!!!!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/101690"><img src="/kuvat/tuotekuvat/8d35fc842faea9432a98bbd23f60b8b3293c8d45.jpg?1511701211" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101690">★ ★ ★ Bank of America Login With 1500$ Ready to cashout ★ ★ ★</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/33029"><img src="/kuvat/tuotekuvat/004f64b78cbe8d16b755f343da01986755899bb5.jpg?1458596551" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/33029">CARDING STARTER PACK : CC&#39;s + 30 GUIDES</a> (<span title='50 USD'>40.69&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/30688"><img src="/kuvat/tuotekuvat/0d25efba0eee84585e0a5e83a38b171ab8f8c2d3.jpg?1457484223" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/30688">300 € Paypal Account From EU</a> (<span title='55 USD'>44.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99416"><img src="/kuvat/tuotekuvat/93df83ea5de9384bd1997571c41e131682d0a13b.jpg?1505963299" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99416">Multi-Hacker | #1 Online Hacking Tool</a> (<span title='49.99 USD'>40.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73364"><img src="/kuvat/tuotekuvat/00b9eccca0b2f4cfeb877fe03b82c283238f3485.jpg?1480453069" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73364">Amazon Money Guide - Amazon Refund [French Only]</a> (<span title='50 EUR'>50&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herboriste">Herboriste</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2901">Guides and tutorials</a>
+</li>
+<li class='active'>$2, 315 PER DAY - ALL NEW FOR JUNE 2016 - Cashout CCs to CLEAN BT</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

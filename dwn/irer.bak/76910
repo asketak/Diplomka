@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RtCDGgSlOXeFiLsNx8naMMskAERDH0UdguuHhuVH5vWLdM2KsEKZf8ZNvvCrtR4kOj6mdnC+8ynFI9UXuPHD4w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/0dfb941e3d42a8dea567dd309c2357d020c20bc7.jpg?1508733517"><img src="/kuvat/tuotekuvat/554340719cf295a96cdad2b7b8882fbe83e2980f.jpg?1508733517" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Comatose 3.5g - 1/8oz  *Indoor AAA Quality</h1>
+<ul class='list-unstyled specs'>
+<li>30.63 EUR <em>(0.003951 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Canada &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rxC7l65syhdFI5DghiIyE4TZEA6YCZvIRBq2xGFfP9titPUHGotqHwbmlR3qXvYHdcO2PKuoLfwD0uRVPOkazQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="383587">Standard Stealth World (included)</option>
+<option value="383588">XpressPost Tracking CANADA ONLY  (+4.06 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="76910" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>-----PICTURES ARE ALWAYS OF CURRENT STRAIN-----
+<br />The Current Strain is Comatose</p>
+
+<p>************************************
+<br />~ BCBUDKING has Been Supplying the World with BCBUD For over 3 Years!
+<br />~ We Offer the BEST Quality for the Lowest Price as we always have!
+<br />~ Orders Shipped within 24 Hours
+<br />~ Quick Response Time to Questions or Concerns
+<br />~ Tracked Xpress Post To Canada 1-3 Business Day Delivery
+<br />*************************************************************</p>
+
+<p>Here is my Feedback link from all the past sites Ive been on:
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0x8B54848676FCDA62</p>
+
+<p>Order are processed Monday-Friday Only!</p>
+
+<p>OK EVERYONE NEED TO START PUTTING THERE ADDRESS IN THIS PROPER FORMAT!</p>
+
+<p>NAME
+<br />STREET NUMBER AND NAME
+<br />CITY
+<br />POSTAL CODE ( WITH THE PROPER SPACEES)
+<br />COUNTRY</p>
+
+<p>Please Read my TOS in my profile Page BEFORE ordering.</p>
+
+<p>All Items are Shipped Standard Stealth Regular Mail</p>
+
+<p>Shipping Estimates are as follows (Best case-Worst Case times)</p>
+
+<p>Canada       - 3-9 Days                     *Holidays     5-9 Days
+<br />USA              -  6-21 Days                        *Holidays    9-21 Days
+<br />International -  7-28 Days             *Holidays   2-6 Weeks</p>
+
+<p>Happy Shopping and Cheers to all!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 12.17 EUR (Standard Stealth World) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102697"><img src="/kuvat/tuotekuvat/81cd3ae4295683f8af6f761fb22efbc5ac67b939.jpg?1515620223" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102697">Blue Dream 7.5g Indoor &#39;AAA&#39;</a> (<span title='48 USD'>38.95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>35.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>263</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100270"><img src="/kuvat/tuotekuvat/0c3ac4901e2d7ed3a030bf6aa68a38cbf8e18392.jpg?1510852244" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100270">3.5g Power Plant / NDD / UK / Best Customer Service</a> (<span title='38 GBP'>43.29&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1348</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101558"><img src="/kuvat/tuotekuvat/250efd797e1775d07525b66a7755067f80c28268.jpg?1511285638" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101558">SUPREME FRUIT GUMMIES 150MG THC  X 2 PCS</a> (<span title='49.98 USD'>40.55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15359"><img src="/kuvat/tuotekuvat/b97ce034bd7afda652f8bbd53a0eed3fc8098390.jpg?1455970809" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15359">7g Royal Swazi (Sativa)</a> (<span title='40 USD'>32.46&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/swazibudbud888">Swazibudbud888</a></span>&nbsp;(<span class='green' title='Positive feedback'>367</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Comatose 3.5g - 1/8oz  *Indoor AAA Quality</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

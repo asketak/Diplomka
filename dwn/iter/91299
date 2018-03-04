@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N2k1qXbR0RgoyNTH63X90h4h2UrWlGCHMx5LlU4UEo36zXs5wjZxEGsN0TqHCTnG7zt/eOU11rN01hkEE6I3mw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1acd8a144c5c3306ad0e852187333217c3cdb635.jpg?1491136234"><img src="/kuvat/tuotekuvat/4cd6638715bcb2603aa23619255bc0207ea5f6a0.jpg?1491136234" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Chase Bank BIG and FULL Account + Routing number</h1>
+<ul class='list-unstyled specs'>
+<li>130.21 EUR <em>(0.016694 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FSD/rFw/hxHID1GYT8Qv8ilnJuMFGpysyM0Q1Pbj6dXYhLE86NgnGYvKVGUjuOvm2H2A0Ta7KpiPBUJFq1XMww==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="494585">PM (included)</option>
+<option value="494586"> (+0 EUR)</option>
+<option value="494587"> (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="91299" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Chase Bank 50K - 100K BALANCE + Full Account &amp; Routing numbers
+<br />~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<p>Fresh hacked US Chase Bank accounts with good balance for discount price.</p>
+
+<p>PLEASE NOTE! I'm not responsible for your movements, cashout method failure! Buy only if you know how use them!</p>
+
+<p>IMPORTANT
+<br />~~~~~~~~~~</p>
+
+<p>These accounts have online access, but I'M NOT RECOMMEND TO LOGIN DIRECTLY. How clever you are or not, 90% you will receive Security Questions.</p>
+
+<p>These accounts will be good for attaching to any e-payment system, which use online verification. (for example: Paypal) or micro-deposit sending.</p>
+
+<p>Example Account
+<br />~~~~~~~~~~~~~~</p>
+
+<p>Login: jkh23a010
+<br />Password: shjlui1</p>
+
+<p>Chase Checking - 5112224911 Cash: 2,439.09
+<br />Chase Savings - 6345123688 Cash: 4,169.08</p>
+
+<p>Total: $6,608.17</p>
+
+<p>RTN: 985144223</p>
+
+<p>Replacement policy
+<br />~~~~~~~~~~~~~~~~
+<br />- All accounts with lower balance or incorrect pass+login will be replaced in 12h after delivery.
+<br />- NO REPLACEMENT FOR SECURITY QUESTIONS</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/101411"><img src="/kuvat/tuotekuvat/c7af4339818e1486ddbed0517942689afdd7402e.jpg?1513114710" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101411">10 x $100 DOLLAR COUNTERFEIT, STRIP, PASS PEN TEST</a> (<span title='190 USD'>154.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/appleinc">appleinc</a></span>&nbsp;(<span class='green' title='Positive feedback'>2401</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101153"><img src="/kuvat/tuotekuvat/8a2546c4be588922bc0a38a1b5267cc257183974.jpg?1510633143" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101153">UK Virtual Bank Account</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101532"><img src="/kuvat/tuotekuvat/b92fa3c2b4ee77d0a81553988435f1e223030ade.jpg?1511200182" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101532">******CUSTOM STEALTH INTERNATIONAL EXPRESS  $149.99*****</a> (<span title='149.99 USD'>122.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90234"><img src="/kuvat/tuotekuvat/374500e4eac62cc25d76eb84cebc63ff69a63202.jpg?1490427799" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90234">BUY  Passport ID Cards Drivers / MMJ License BIRTH CERTIFICATE </a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/71785"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71785">Kätkö PK-seudulle</a> (<span title='95 EUR'>95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/senaatintori">Senaatintori</a></span>&nbsp;(<span class='green' title='Positive feedback'>88</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2606">Money</a>
+</li>
+<li class='active'>Chase Bank BIG and FULL Account + Routing number</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

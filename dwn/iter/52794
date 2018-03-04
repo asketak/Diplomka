@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="W1Y95qmabuVHQ4vUvKgCwBFEDbgFUdxT1hdwG+bCGPGW8nN2HX3O7QSGjinQ1MbU4F6rijbwameR3yKKu3Q95w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d4bcebfe17856f8a23497694967651f1d109f3fc.jpg?1468789948"><img src="/kuvat/tuotekuvat/8cc34c12fda5d7f6b171f79c4428ba40efd7a1f1.jpg?1468789948" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1 G KETAMINE ⓀⒺⓉⒶ S-ISO 99% AAA+ HIGHEST QUALITY</h1>
+<ul class='list-unstyled specs'>
+<li>35 EUR <em>(0.004488 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DStNHPvJ3FrCUTEOEVNWoG4uL2YJ2TV4RSOluXxs7yLAjwOMTy58UoGUNPN9L5K0nzSJVDp4g0wC6/coIdrKNA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52794" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>KETAMINE ⓀⒺⓉⒶ S-ISO 99% AAA+ HIGHEST QUALITY</p>
+
+<p>(BE AWARE HIGH QUALITY - ONLY FOR EXPERIENCED USERS)</p>
+
+<p>STOCK:</p>
+
+<p>SOFT:
+<br />Amnesia Haze BUDS AAA+ HQ
+<br />Amnesia Haze rest weed AAA+ HQ
+<br />Amnesia Haze rest weed B-Quality (only leaf)
+<br />Super critical weed
+<br />Critical + weed
+<br />R28 weed
+<br />Green poison weed
+<br />Moroccan KING HASH HQ</p>
+
+<p>HARD:
+<br />Heroin 4# UNCUT
+<br />COCAINE 90%
+<br />MDMA AAA+ HQ
+<br />XTC 84% AAA+ HQ
+<br />SPEED AAA+ HQ
+<br />LAB MADE KETAMINE</p>
+
+<p>We are also active on Hansa:</p>
+
+<p>http://hansamkt2rr6nfg3.onion/vendor/dutchcandyshop/</p>
+
+<p>PLEASE VISIT OUR PROFILE, BEFORE ORDER!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/16288"><img src="/kuvat/tuotekuvat/bda726259e7a80a2906763a291b9100d5d64e3ec.jpg?1455971004" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16288">1G Ketamine S Isomer 94%  £23 (special price)</a> (<span title='23 GBP'>26.17&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hiddenhands">HiddenHands</a></span>&nbsp;(<span class='green' title='Positive feedback'>981</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98231"><img src="/kuvat/tuotekuvat/e063192e408a01b994360873dddcb5c43507272d.jpg?1506058544" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98231">Salvia Divinorum 20X extract - 1 GRAM</a> (<span title='37.99 USD'>30.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93626"><img src="/kuvat/tuotekuvat/800206c5afa8b3dabe8cd55791ff2d4ac6635a16.jpg?1493830290" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93626">Top quality Ketamine 1g £30 </a> (<span title='34 GBP'>38.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14805"><img src="/kuvat/tuotekuvat/a4246ce876520f8d4187b72492cd671ae87de015.jpg?1455970672" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14805">28g - Dioscorea Dregeana (African Wild Yam) - PHYSICAL SEDATIVE</a> (<span title='37.8 USD'>30.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/49267"><img src="/kuvat/tuotekuvat/d5c0b51109cf244d71764672be4ac93b22d43bb5.jpg?1467006336" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/49267">Deschloroketamine DXE Crystal EU 0,5g</a> (<span title='51 USD'>41.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1800">Dissociatives</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1801">Ketamine</a>
+</li>
+<li class='active'>1 G KETAMINE ⓀⒺⓉⒶ S-ISO 99% AAA+ HIGHEST QUALITY</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

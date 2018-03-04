@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bGXOv1RZ6EUIEmdnD2wnvGPNyj02s50IbnKpMt9rW3ahwYAv4L5ITUvXYppjEOOoktdsDwUSKzwpuvujgt1+YA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/576903221b60106261087086f665ee38757e9480.jpg?1472224408"><img src="/kuvat/tuotekuvat/0c29241c0ebb4a9fa27f8522c6ee9f136994245d.jpg?1472224408" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>UK Viagra 10 x 100mg (Sildenafil Citrate)</h1>
+<ul class='list-unstyled specs'>
+<li>20 EUR <em>(0.002565 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dutchdream">dutchdream</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AaOOIvICip8VZFKEt8gUhSe2pRR2yWsqL4cHy0fyErzMB8CyRuUql1ahV3nbtNCR1qwDJkVo3R5oT1VaGkQ3qg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="251596">international (included)</option>
+<option value="251597">uk (-10 EUR)</option>
+<option value="251598">europe  (-6 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="58273" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p></p>
+
+<p>2 Important notes. </p>
+
+<p>1) We may not be able to ship orders out on time for NDD on 30th August. We will try our best, but can't make any promises. </p>
+
+<p>2) At some point in the next 3 weeks we will be going in to vacation mode. We're not sure when this will happen, or how long it will last. It could be a few days, up to 2 weeks. Again, we will try our best to get back to normal, but it's beyond our control. Orders marked shipped or accepted will be sent. Some orders may be cancelled and refunded though, and for this we apologise in advance. We MAY be able to do some larger xanax orders during this time, but we won't know until nearer the time.</p>
+
+<p>**Important update regarding tracking numbers and minimum orders. As of 17/08/16 the minimum order for Outside of Europe is 200 bars. Tracking numbers will NOT be given out on orders of less than 1k bars. This is due to numerous people openly admitting to me that they have checked the numbers using TOR, which is a massive OPSEC nono. You can request an update of your packs location after 10 days of being marked shipped. Orders of 2.5k and over will be given their Tracking numbers at the usual 5 day mark when reuqested. 25/50/100/200 bar listings are now FE, higher listings will be escrow still. Orders with no name will be cancelled without question too**</p>
+
+<p>Refunds/reships</p>
+
+<p>As of 7/11/15 all non-EU customers who place orders will need to select "International Tracked", as we've had far too many "missing" orders. Any UK-based customers who select "1st Class Standard" or international customers who select "Europe Standard" will NOT be eligible for a reship. ONLY customers who select "UK Special Delivery" or "International Tracked" will be eligible for a reship. Any other reships/refunds will be entirely at our discretion and based on customer feedback scores. Special delivery will need to be signed for, where as International tracked will not.</p>
+
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 12.0 EUR (international) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/75751"><img src="/kuvat/tuotekuvat/b62ff47fd061d28942f10571e1439eb0491b20f9.jpg?1481708928" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75751">20x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='20 USD'>16.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78381"><img src="/kuvat/tuotekuvat/97b094b537593e486e63d8413409f17389ee553b.jpg?1483529087" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78381">Gelenika Bensedin (diazepam) 10mg x 15 **VERY STRONG**</a> (<span title='17 GBP'>19.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103353"><img src="/kuvat/tuotekuvat/7935b8bde1d50c068c76f4978a7677ca0c807c98.jpg?1519069528" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103353">Rivotril 2mg, 10kpl  (Fe-&gt;+1kpl)</a> (<span title='21.3 EUR'>21.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/92177"><img src="/kuvat/tuotekuvat/7e6bdcf89028d9a00463159231748297b9ff57b5.jpg?1491974924" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92177">Generic viagra ® 50 tablets 100mg Sildenafil</a> (<span title='31 USD'>25.23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/82610"><img src="/kuvat/tuotekuvat/c5da198d0c1870b1c8949d319e2446f2c5860bae.jpg?1485386612" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/82610">★ Pfizer Xanax ☛ 30 x 0,5 mg ☚ BEST PRICE ★</a> (<span title='16.5 EUR'>16.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/egregore">Egregore</a></span>&nbsp;(<span class='green' title='Positive feedback'>1141</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>UK Viagra 10 x 100mg (Sildenafil Citrate)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

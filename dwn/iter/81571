@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8W9F2t9c0QOcR/bXUM5aSkthvdPjh5dia8ELlU9U+YI8ywtKa7txC9+C8yo8sp5eunsb4dAmIVYsCVkEEuLclA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/bd0638e1e25a89fa77c432a842db4dd35ef615b8.jpg?1484943250"><img src="/kuvat/tuotekuvat/ce01cf15685ac1cd39931d7a6497cff7677ad98a.jpg?1484943250" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1g BLUEBERRY HEADBANG [hybrid]</h1>
+<ul class='list-unstyled specs'>
+<li>26 EUR <em>(0.003356 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/salamanca">Salamanca</a></span>&nbsp;(<span class='green' title='Positive feedback'>917</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5DsGMOsuOEPl9sWv9Jpwn0OilO19J3zT6Zzf/fMoMWkpn0igX8mYS6YzwFKY5rSLsrgy306GyueuVI1srp4Ufw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="81571" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>BLUEBERRY HEADBANG</b> by NorCal’s Emerald Triangle Seeds
+<br />4.2 / 5 - 196 Reviews on Leafly</p>
+
+<p><i>Several renditions of the Blueberry Headband hybrid are known to exist, which is unsurprising considering the popularity of its parent strains, but the original Blueberry Headband from NorCal’s Emerald Triangle Seeds is the most documented version. Rather than a simple cross of Headband and Blueberry, the ETS version combines ‘76 Blueberry, Emerald OG Kush, Cali Sour D, and Pre-98 Bubba Kush into a 50/50 indica-sativa hybrid that smells of diesel, berries and pepper. Blueberry Headband produces a hybrid-type high, with a nice cerebral rush and relaxing body effect.  </i></p>
+
+<p> 
+<br />** FREE STEALTH SHIPPING **</p>
+
+<p>Please read my profile before purchase. Shipping Monday-Thursday only.
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/99225"><img src="/kuvat/tuotekuvat/8bdeea9c2b7b4a59d44a610214b2f2943537187f.jpg?1505764159" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99225">Black Mamba - Indica - 1g / 17e - ALE-</a> (<span title='21 EUR'>21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/alko">Alko</a></span>&nbsp;(<span class='green' title='Positive feedback'>1132</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102990"><img src="/kuvat/tuotekuvat/7bf260bb76f9f2b33ae9a64a8cc10f914593c945.jpg?1516878190" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/galaxystore">GalaxyStore</a></span>&nbsp;(<span class='green' title='Positive feedback'>241</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-51</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>35.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>263</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/63842"><img src="/kuvat/tuotekuvat/f60f6f12e1cff5c40b1c3adf6c6f28e5b8622351.jpg?1517248970" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/63842">White Rhino 1g, luokka AAA</a> (<span title='28 EUR'>28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/unipuu">UniPuu</a></span>&nbsp;(<span class='green' title='Positive feedback'>245</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15359"><img src="/kuvat/tuotekuvat/b97ce034bd7afda652f8bbd53a0eed3fc8098390.jpg?1455970809" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15359">7g Royal Swazi (Sativa)</a> (<span title='40 USD'>32.46&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/swazibudbud888">Swazibudbud888</a></span>&nbsp;(<span class='green' title='Positive feedback'>367</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>1g BLUEBERRY HEADBANG [hybrid]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

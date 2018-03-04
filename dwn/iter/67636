@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4EIMzgorR8lsUaQSbcKqcrnglZTR5lGBa2vZ0U97CfQt5kJevsznwS+Uoe8Bvm5mSPozpuJH57Uso4tAEs0s4g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2c693cb4548a8367863591c508298a4ed596b19c.jpg?1477359852"><img src="/kuvat/tuotekuvat/7bab2838480b15fc8940c0dcfd13c79c8d772d66.jpg?1477359852" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>NEW BATCH - CANADA - VISA/MASTERCARD CREDIT CARD - Stand. Level</h1>
+<ul class='list-unstyled specs'>
+<li>9.77 EUR <em>(0.001254 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/redgrouper">redgrouper</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Canada &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8aWBmG2mDdbzzc0tVFx2ZXYCFDK9F0yGooe2i36qJ9A8Ac8I2UGt3rAIyNA4ILJxhxiyAI62+rLlT+QaIxwCxg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67636" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Hello everybody!</p>
+
+<p>card will be relaase in 1 day maximum. Normally in couple of hours.</p>
+
+<p>I have success to hack a NEW DATABASE and get FRESH Credit Card from Canada! I have clean my stock, retrieve all debit card and low BIN level and keep only the top credit card for here!!! So, when you order a cvv from this product, you will get automaticly something good. You have the choice between:</p>
+
+<p>-----
+<br />ATTENTION. depending my stock, I will choice what I send between Classic or Signature for the low level and GOLD, Platinum, Infinitie, Premier or World for my High Level. Also, I will select if you receive a VISA or a MASTERCARD depending my stock.</p>
+
+<p>NO BIN REQUEST, NO PROVINCE REQUEST... You order will be canceled!
+<br />-----</p>
+
+<p>Standart LEVEL = 12.00$ ... You will receive something between VISA or Mastercard and a Classic or a Signature</p>
+
+<p>Before buy a card, take ONLY ONE MINUTE for read the following information. It's really importante for you to understand my implication, the limitation and how I make my business. After that, if you buy, it's because you agree!</p>
+
+<p>HOW THE FORMAT LOOK LIKE
+<br />---------------------------------</p>
+
+<p>you will receive the information exactly like that.</p>
+
+<p>Level | Type | Brand | BIN | CLIENT SERIAL | CC | MM | YY | CVV | NAME | ADR | APT (if applicable) | STREET | CITY | ZIP | STATES | COUNTRY | PHONE (if available) | EMAIL (If available)</p>
+
+<p>-----</p>
+
+<p>ATTENTION, THIS IS A CVV = NO DOB, NO MMN, NO SSN!!!</p>
+
+<p>-----</p>
+
+<p>My BUSINESS RULES
+<br />---------------------------------</p>
+
+<p>Understand and following this simple rules make life easly for everybody! We gonna establish a good relation!</p>
+
+<p>- The card information will be automaticly release when you order.
+<br />- I dont test the card before sale, it's possible to get DEAD card.
+<br />- If you get a dead card, I will replace the card (Read remplacement rules)
+<br />- I am a hacker, not a carder, I will not teach you how success your carding.
+<br />- A dead card is a card not active anymore. DECLINED ORDER may result from another reasons too, like your setup, the merchand or the balance...
+<br />- I am not responsible about the balance on the card
+<br />- I am not responsible if you FAIL your carding because your method, I don't know your level and I dont need to know.
+<br />- Carding is a game and I sell a tool for play this game. Understand that before start to complaint!
+<br />- I try my best to be a parnter for you and I love when my client make money.
+<br />- If you have any comment, questions, complaintes, WRITE TO ME!!!
+<br />- I will reply all time in ONE DAY MAXIMUM (a day include 24 hours, remember)</p>
+
+<p>My REPLACEMENT RULES
+<br />---------------------------------</p>
+
+<p>Ok, you get a DEAD card (or you think the card is DEAD). No problem, I will replace. But PLEASE respect this simples rules.</p>
+
+<p>- You have 4 hours from your order time for claim a DEAD. Make sur to buy your card when you are ready to use it.
+<br />- After a DEAD is claim, it's the only time I will use a checker. I use TRY2CHECK
+<br />- TRY2CHECK result will be the only awnser at the question.
+<br />- If the result is: DIE, I replace. If the result is: APPROVAL, I DON'T REPLACE.
+<br />- Replacement will be make with the same level you have buy! (if available)</p>
+
+<p>POSSIBLE OR NOT
+<br />---------------------------------</p>
+
+<p>Because my stock is limited and I want to automate the delivery information for you guys, the only possible option is choice the LEVEL. It will not be possible to request a specefic BIN or STATES with this product! But, if you looking for something specific, you can PM or Jabber me, that's will be a pleasure for me to check what I can do for you!</p>
+
+<p>DISPUTE or MISUNDERSTANDING
+<br />---------------------------------</p>
+
+<p>Friend, friend, friend... From my experience on Dark Market and in the real world too, I know is not possible to make everybody happy. But... I am not here for make you unhappy. I am here to be your partner. I'm good for get FINANCIAL and IDENTITY DATA, I am a hacker. You, you are a carder and you want a valid card for make money. I understand that!!! It's why I replace the DEAD card. But, please, be gentleman and understand something; if the card is not dead but doesnt work on what you try to do, I can't be the only responsible, maybe the merchand have some security, maybe the balance on the card was low, maybe this time, the operation doesn't work for a unexplicate reason.... Don't put this on my back... I sell you a tools and the cost is low. I agree I need to sell a LIVE card but all the other reason is not my fault. Just relaxe and buy another card... it will cost you little bit more money but you will make a good benefice.</p>
+
+<p>It's not necessary to start a dispute, to leave a bad review, to complainte... I am a very good and responsible vendor. Just talk whit me and understand the limitation. Understand the game, understand I am here to help you and I get you what you need to operate!</p>
+
+<p>NEGATIVE FEEDBACK = BLACKLIST FOR EVER</p>
+
+<p>I'm am not here to treath you guys, but I know I will never deserve a bad feedback because I will be here for you and I will work whit you. I will replace the DEAD and i'm not responsible for the other reason the carding can unsuccess so I will not tolerate any bad review.</p>
+
+<p>TALK TO ME!!!!</p>
+
+<p>SPECIAL THANK YOU
+<br />---------------------------------</p>
+
+<p>I personaly want to tell a all my client a special thank you for your business! My objectif is to offer you high quality tools for work in this specific industry! When you buy with me, I make benefice and I can continue to find more quality data!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/93767"><img src="/kuvat/tuotekuvat/b213fa4b94c32a0e30075431c282d94def27389d.jpg?1494001176" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93767">♕ ★ ID TEMPLATES FULL PACK ★ ♕</a> (<span title='9.99 USD'>8.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/88486"><img src="/kuvat/tuotekuvat/884ea100dffd71aef32198fc63be4049f939f8ca.jpg?1489312267" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/88486">200$ US Paypal Balance + 200$ PP Acc For Free [ SUPPER OFFER ]</a> (<span title='18 USD'>14.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/34658"><img src="/kuvat/tuotekuvat/1ce6792454b51a12cb385ff4a7e02713eff456dc.jpg?1459642887" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34658">★ 1 x US PLATINIUM CARD ★</a> (<span title='18 USD'>14.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87922"><img src="/kuvat/tuotekuvat/65d07330b518fbce48b2e20bdb873d1b950be623.jpg?1488887259" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87922">Aziani.com [PORN LIFETIME ACCOUNT]</a> (<span title='9.99 USD'>8.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/wendy">Wendy</a></span>&nbsp;(<span class='green' title='Positive feedback'>318</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/47551"><img src="/kuvat/tuotekuvat/65d56cd22ccb2e70465ec090010a3d27d5c5a2e2.jpg?1466322362" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/47551">PUNISH TUBE PORN ACCOUNT (warranty+freebies)</a> (<span title='9.99 USD'>8.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theonlinesource">theonlinesource</a></span>&nbsp;(<span class='green' title='Positive feedback'>172</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2902">Credit card data</a>
+</li>
+<li class='active'>NEW BATCH - CANADA - VISA/MASTERCARD CREDIT CARD - Stand. Level</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t9Tu45tRaRb3o9HqAsZ58Ci9ChbSvEV2wk9Qj2mEBPx6cKBzL7bJHrRm1Bduur3k2aesJOEd80KFhwIeNDIh6g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/fdc01121d8b8ba6f9cc43ba8f93369e25c3a18b2.jpg?1503755400"><img src="/kuvat/tuotekuvat/93616118a3831fcf38744825109fdef417a40f38.jpg?1503755400" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sealed Pint Promethazine &amp; Codeine Syrup - Par Pharma- 16 oz</h1>
+<ul class='list-unstyled specs'>
+<li>516.76 EUR <em>(0.06628 BTC)</em></li>
+<li>3 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/platinum45">platinum45</a></span>&nbsp;(<span class='green' title='Positive feedback'>26</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LlJ4yOmHy3RhuQQ45CcfObowCTPSqCLSd7D/QXFh5lHj9jZYXWBrfCJ8AcWIW9stSyqvAeEJlOYweK3QLNfDRw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="571106">Domestic Priority + Stealth/ Tracki (included)</option>
+<option value="571107">International Express + Tracking (+28.48 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="97178" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This listing is for a pint or 16 ounces of sealed purple syrup,  Promethazine &amp; Codeine made by Qualitest Pharmaceuticals.</p>
+
+<p>Not that homebrew bullshit that people are putting on the net, these as you can see from photo have a 12 month out expiration of 08/18.</p>
+
+<p>we guarantee delivery for USA domestic buyers of pints.  Regardless, every package is sent extremely well concealed and we have never had a parcel lost or seized.</p>
+
+<p>Orders placed will be shipped out within 2 business days please provide:</p>
+
+<p>Name
+<br />Address
+<br />City, State, Zip Code
+<br />Country</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 8.14 EUR (Domestic Priority + Stealth/ Tracki) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/38086"><img src="/kuvat/tuotekuvat/27a59076456abafa4d4c244868174430ab56bdc1.jpg?1464325442" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38086">Ritalin 10mg by Novartis - 500 tablets</a> (<span title='425 GBP'>483.56&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/59892"><img src="/kuvat/tuotekuvat/562a92ecfa7a95b5e28ecfb5baf2794a5a43cfb3.jpg?1473257318" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/59892">1000mg Alprazolam Powder 99% Xanax API - FREE EU Shipping</a> (<span title='499 USD'>406.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103371"><img src="/kuvat/tuotekuvat/af4252df47ad960031ef9853ed0ce2538d8c8e3c.jpg?1518541833" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103371">650x Ambien 10 MG Pills (Loose)</a> (<span title='935 USD'>760.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85382"><img src="/kuvat/tuotekuvat/0bc70e54cd138831212ee2703009cb0a2d838553.jpg?1486972655" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85382">20Gr Purity Clean Alprazolam (Xanax)  Powder 99% USA Ship 	</a> (<span title='400 EUR'>400&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15678"><img src="/kuvat/tuotekuvat/6baa393960efbad87230f21be815fda6600a4f11.jpg?1455970850" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15678">Xanax (Alprazolam) 2 MG 500 Pills</a> (<span title='691 USD'>562.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/deepmeds">DeepMeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>174</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>Sealed Pint Promethazine &amp; Codeine Syrup - Par Pharma- 16 oz</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

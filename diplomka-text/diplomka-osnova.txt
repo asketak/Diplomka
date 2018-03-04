@@ -1,5 +1,9 @@
 abstract
 uvod
+
+jakej byl prinos, co se povedlo, trochu vysledku
+
+
 podobne prace
 	dle jednotlivych oblasti - btc, media, tor....
 

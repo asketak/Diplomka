@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="azqtQoDveyEP59gQXYOel8ukZ+qUXMLfcYZgZFLKaoWmnuPSNAjbKUwi3e0x/1qDOr7B2Kf9dOs2TjL1D3xPkw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5f4a324ff1addcb7a26db22320a6f47ccdfed31c.jpg?1496926155"><img src="/kuvat/tuotekuvat/ec4514114e9213ac0ce745a0f8c7e562e4d13faa.jpg?1496926155" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>LSD 200µg x 10 Trips - Pure Crystal 99.5%</h1>
+<ul class='list-unstyled specs'>
+<li>75 EUR <em>(0.009681 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>France &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UgSN6po34/Hp6y28aR8QIUFRJPghNgNWfjSgpP+YNwWfoMN6LtBD+aouKEEFY9Q1sEuCyhKXtWI5/PI1oi4SEw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="672133">Standard Mail (included)</option>
+<option value="672134">With Other Order On My Shop (-5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73182" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>★ ★ ★ ★ ★ ★ LSD 200µg Trips - Pure Crystal 99.5% ★ ★ ★ ★ ★ ★</p>
+
+<p>Our LSD is manufactured in France by person over 20 years experience in this field. It's a quality close to perfection.</p>
+
+<p>No bad trip, superb visual effects, a pronounced euphoria. The best trip of your life. Satisfied or refunded. No product will be able to compete with our LSD.</p>
+
+<p>Our crystal, made with the ergot of rye (Claviceps purpurea Tul.) is 99.5% pure, it has been laboratory tested.</p>
+
+<p>Our LSD is manufactured in France by a chemist with more than 20 years of experience in this field. It is a quality close to perfection.</p>
+
+<p>No bad trip, beautiful visual effects, a pronounced euphoria. The best visual trip of your life. Satisfied or refunded. No product will be able to compete with our LSD.</p>
+
+<p>Our crystal, created from the Ergot of rye (Claviceps purpurea Tul.) is 99.5% pure. We had it tested in the laboratory.</p>
+
+<p>Translated with www.DeepL.com/Translator</p>
+
+<p>Picutres of our crystal
+<br />-------------------------
+<br />https://pixsecure.xyz/pfqKgp/xHsqsu.jpeg
+<br />https://pixsecure.xyz/OXMjec/j0qUX4.jpeg
+<br />https://pixsecure.xyz/geBFth/4uSS-e.jpeg
+<br />https://pixsecure.xyz/5qBQPW/XdA9Om.jpeg
+<br />https://pixsecure.xyz/f3xeTH/RUfupx.jpeg</p>
+
+<p>LSD Dosages
+<br />-------------------------
+<br />Threshold				20 ug
+<br />Light					25 - 75 ug
+<br />Common				50 - 150 ug
+<br />Strong					150 - 400 ug
+<br />Heavy					400 + ug</p>
+
+<p>LSD comes in several different forms. The most common is paper blotter. Other forms include gell caps, liquid, and gelatin.
+<br />Each form will contain different quantities and purities of lysergic acid diethylamide.
+<br />The chart above shows dosages for pure LSD measured in micrograms (ug).
+<br />Micrograms are 1/1,000,000 of a gram.</p>
+
+<p>LSD Duration
+<br />-------------------------
+<br />Total Duration			6 - 11 hrs
+<br />Onset					20 - 60 mins
+<br />Coming Up				15 - 30 mins
+<br />Plateau					3 - 6 hrs
+<br />Coming Down			3 - 5 hrs
+<br />After Effects				2 - 5 hrs
+<br />Hangover / Day After		- - -</p>
+
+<p>More informations
+<br />-------------------------</p>
+
+<p>Erowid LSD (Acid) Vault : Dosagehttps://www.erowid.org/chemicals/lsd/lsd_dose.shtml
+<br />Erowid LSD (Acid) Vault: Basics : https://erowid.org/chemicals/lsd/lsd_basics.shtml
+<br />Erowid LSD (Acid) Vault : https://erowid.org/chemicals/lsd/
+<br />Erowid LSD (Acid) Vault : Effects : https://erowid.org/chemicals/lsd/lsd_effects.shtml
+<br />Erowid LSD (Acid) Vault : Fatalities / Deaths : https://erowid.org/chemicals/lsd/lsd_death.shtml</p>
+
+<p>PLEASE CHECK MY PROFILE TO SEE How to buy ?, About My Shop, Shipping Average &amp; Refund Policy.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 5.0 EUR (Standard Mail) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103672"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103672">Magic Mushrooms 28.5 Grams</a> (<span title='94 USD'>76.27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97830"><img src="/kuvat/tuotekuvat/765651ca0ba72f43b3ed642f09ab69d0bae921f1.jpg?1501952973" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97830">25 LSD Blotters 150 ug, FE</a> (<span title='68 USD'>55.18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102203"><img src="/kuvat/tuotekuvat/aad5699f0e7d3e038d56ea11b226d4bf94f0e608.jpg?1513224844" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102203">❤ 10x LSD-25 ★ ORIGINAL ★ 160ug ❤</a> (<span title='100 USD'>81.14&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102765"><img src="/kuvat/tuotekuvat/4a68196bb2e077f7011cb85fcc3aaa3af3ea16f9.jpg?1515764658" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102765">50 X CHAMPAGNE BOTTLES 2CB PILLS</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98198"><img src="/kuvat/tuotekuvat/6e6a3da68beeab2efaa45cc95fde5ef2efa02c84.jpg?1511939384" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98198">4-ACO-DMT [1 GRAM] [FREE SHIPPING WORLDWIDE]</a> (<span title='117.99 USD'>95.74&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1701">LSD</a>
+</li>
+<li class='active'>LSD 200µg x 10 Trips - Pure Crystal 99.5%</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

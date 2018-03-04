@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dNyDB8IKIsAQ/An9y1yKa29SZK2QbowAh5DacTkYNU+5eM2Xdu2CyFM5DACnIE5/nkjCn6PPOjTAWIjgZK4QWQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/81f6b26037efea2d74082c7107b2e9061f274c62.jpg?1480640231"><img src="/kuvat/tuotekuvat/b3cec10c5ea65033c41420c3b495884ec1b47dfa.jpg?1480640231" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★★★★★1 Gram of #3 Heroin►►Best Price in the UK★★★★★</h1>
+<ul class='list-unstyled specs'>
+<li>129.82 EUR <em>(0.016758 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/uncut_and_cheap">Uncut_And_Cheap</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KMu2Gl5MgTzeb65lX9zJmb3/jDlDRis3G2/GnTBJKQblb/iK6qshNJ2qq5gzoA2NTOUqC3DnnQNcp5QMbf8MEA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="358156">Airmail EU (included)</option>
+<option value="358157">Airmail Worldwide (+2.43 EUR)</option>
+<option value="358158">Uk to Uk (-4.87 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73607" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>#3 Heroin</p>
+
+<p>********************************************************</p>
+
+<p>UK - 1-3 working days
+<br />EU - 3-7 working days</p>
+
+<p>All items are sent untracked and as I am not your postman I cannot offer you any more info on where your package is beyond when it was sent!</p>
+
+<p>Proper Address Formatting</p>
+
+<p>Domestic</p>
+
+<p>Mr D Cameron - Name
+<br />10 Downing Street - House Number/Name &amp; Street
+<br />LONDON - Village/Town/City
+<br />SW1A 2AA - Postcode, with a space</p>
+
+<p>International</p>
+
+<p>Mr Z Zidane - Name
+<br />1 Rue De Coup De Tete - House Number/Name &amp; Street
+<br />75007 Paris - Postcode &amp; Locality
+<br />France - Country</p>
+
+<p>Failure to meet the standard postal formatting of your country will result in an increased chance of package non-arrival</p>
+
+<p>I ship Monday to Friday only, all orders will be sent with 36 hours of the order being accepted,</p>
+
+<p>The postage options are
+<br />1st Class - UK to UK only, untracked
+<br />Airmail - UK to WW, untracked</p>
+
+<p>Expected Transit Times
+<br />UK - 1-3 working days
+<br />EU - 3-9 working days
+<br />WW - 10-21 working days</p>
+
+<p>TERMS OF SERVICE
+<br />&gt; Before any feedback less than 5/5 (or neutral/negative depdening on how the market handles feedback) is left, please PLEASE contact us, if you had an issue with your order it is the right thing to do to allow us to resolve it before tarnishing our record, contact us it is the honourable thing to do!</p>
+
+<p>COMPLAINTS SECTION/MISSING ORDERS
+<br />I only consider an order missing when it hasnt arrived after 10 days after the upper end of the expected delivery times, so 13 days for UK, 19 days for within the EU and 31 days for the rest of the world, if you ordered after 2pm then add 1 day to this.</p>
+
+<p>Please do not leave negative/neutral feedback if you want me to bother trying to work with you to find a solution, a negative/neutral feedback means its finished.</p>
+
+<p>A missing item is the only situation in will a refund/reship/partial-refund/partial-reship can be offered, for complaints regarding weight, quality, damage, theft etc no reimbursement is available nor should be sorted. Buyers threatening with negative feedback will be assumed to be scammers and dealt with accordingly.</p>
+
+<p>I will only reship/refund/partial-reship/partial-refund prior to positive feedback being left, if you do not agree with this policy then please do not buy from me.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 9.74 EUR (Airmail EU) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/16768"><img src="/kuvat/tuotekuvat/68cd756f3d14a16136aa48589200a71bc7fa6e87.jpg?1484476712" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16768">5G TSC&#39;s Original Spanish Bayer Opium ~ FE PRICE ~</a> (<span title='223.49 USD'>181.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/the-scurvy-crew">The Scurvy Crew</a></span>&nbsp;(<span class='green' title='Positive feedback'>666</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15741"><img src="/kuvat/tuotekuvat/059465f69b331401662a73955b2bb334d61c34ef.jpg?1457044791" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15741">Codeine 15/500 MG 100 Pills</a> (<span title='201 USD'>163.09&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/deepmeds">DeepMeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>174</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87557"><img src="/kuvat/tuotekuvat/a879cfe93e3d1142f6d8260c43d67f34803f4134.jpg?1488645152" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87557">[US-US] 20 TABS x Oxycodone 30mg K9 imprint $149.99 HIGH QUALITY!</a> (<span title='167.98 USD'>136.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14722"><img src="/kuvat/tuotekuvat/af4d84896b2d758552d3cb584a7faf47364239d5.jpg?1455970648" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14722">10g China White Synthetic Heroin</a> (<span title='115 EUR'>115&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102481"><img src="/kuvat/tuotekuvat/1d74de879eb87d596ee008142c3610b8176131d6.jpg?1514372364" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102481">Dolcontin 60mg - 5 stk</a> (<span title='1140 NOK'>118.31&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/superficialidentity">superficialidentity</a></span>&nbsp;(<span class='green' title='Positive feedback'>305</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1306">Heroin</a>
+</li>
+<li class='active'>★★★★★1 Gram of #3 Heroin►►Best Price in the UK★★★★★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

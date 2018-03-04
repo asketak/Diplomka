@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="z07QDNykSnfjBM7NE0ndinh/zqQC2WNm5Q9CFSL+f/MC6p6caEPqf6DByzB/NRmeiWVoljF41VKixxCEf0ha5Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/df807363d2876a0fe22d045344ac55d7d7e2c4a2.jpg?1476164070"><img src="/kuvat/tuotekuvat/189e95094915db2931565eb9d9cef85c2b6471cc.jpg?1476164070" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>2G ICE Crystal, Methamphetamine, Fire Sale ☺☺☺☺UNCUT</h1>
+<ul class='list-unstyled specs'>
+<li>79.4 EUR <em>(0.010195 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/luciphero">Luciphero</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Canada &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="atupMNedzOH8ErNU79stnFxIjTQ87Tr7Gk18j/+nS5qnf+egY3ps6b/XtqmDp+mIrVIrBg9MjM9dhS4eohFujA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="300907">Domestic (included)</option>
+<option value="300908">International (+0 EUR)</option>
+<option value="300909">Registered &amp; tracked (+23.6 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="65098" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>energy control test results [coming soon]
+<br />====================================
+<br />Ice
+<br />Crystal, Methamphetamine
+<br />High quality, Fire product, like all of my other items.
+<br />Shipping time:
+<br />NA 3-5 DAYS
+<br />EU 4-7 DAYS
+<br />REST OF WORLD 7-14+ DAYS</p>
+
+<p>Please send your address like this:</p>
+
+<p>Name :
+<br />Street :
+<br />Postal code / City :
+<br />Country :</p>
+
+<p>Our stealth:</p>
+
+<p>Product is at least double vaccum sealed and packed in good stealth</p>
+
+<p>**PRODUCT CAN BE UNCRUSHED AT HIGHER QUANTITIES, &gt;7G,
+<br />FOR RESELL PURPOSES, COSMETICS ON THIS PRODUCT ARE AMAZING!**</p>
+
+<p>STEALTH IS EXTREMELY GOOD FOR HIGHER AMOUNTS ALSO</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 4.4 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/14641"><img src="/kuvat/tuotekuvat/af4aac7e73cd8c0f3178e251f6034b77ac5c8028.jpg?1455970625" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14641">Sthompson Speed Paste-20g</a> (<span title='102 EUR'>102&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1220</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89838"><img src="/kuvat/tuotekuvat/58b1241a8bf6dd2c912b4c98d2133b562d469498.jpg?1490228076" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89838">1G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='80 GBP'>91.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1528</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85077"><img src="/kuvat/tuotekuvat/7b3d51dea370cc1ecf3e9fd459a5aaa3fd8d7541.jpg?1486740503" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85077">☆ 50G Speed Paste ☆ A+ Quality ☆</a> (<span title='110 EUR'>110&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/37773"><img src="/kuvat/tuotekuvat/439678cfdcd351dc5750c7b81b1ce642dbd44e31.jpg?1461224612" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37773">3g A-PVP apvp 3g super strong stim. Free shipping from EU</a> (<span title='70 USD'>56.97&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>598</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102811"><img src="/kuvat/tuotekuvat/8b45f70ae7b83c5565b70801523dd3c35ce84c34.jpg?1516039102" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102811">ESCROW hinta +%10 (UUTUUS) 1g Jatkamaton Amfetamiini 50€/g </a> (<span title='59 EUR'>59&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kymppi-maukkaat">Kymppi-Maukkaat</a></span>&nbsp;(<span class='green' title='Positive feedback'>1037</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1203">Metamphetamine</a>
+</li>
+<li class='active'>2G ICE Crystal, Methamphetamine, Fire Sale ☺☺☺☺UNCUT</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

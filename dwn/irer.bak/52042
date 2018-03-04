@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DvxAxBikbFC5F0GFXdPy97b0Exp16l2u8CG7mxduz3TDWA5UrEPMWPrSRHgxrzbjR+61KEZL65q36ekKStjqYg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/39d3e515158f809dd966ff9e4e8197dba46efd2e.jpg?1468271227"><img src="/kuvat/tuotekuvat/f35fdc1ec12af71693f98732c23da3b0f58df9fc.jpg?1468271227" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>25 g &quot;Lemon Kush&quot; /// Free Delivery ///</h1>
+<ul class='list-unstyled specs'>
+<li>230 EUR <em>(0.029495 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/californiadreams">CaliforniaDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>2080</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</li>
+<li>Germany &rarr; France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iPLn0i+OOjw26x2yPodaGv07BD+wR5ucBRP2FXnaa9RFVqlCm2maNHUuGE9S+54ODCGiDYPmLahC26SEJGxOwg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="211911">Free Shipping / Kostenloser Versand (included)</option>
+<option value="211912">Tracking / Einschreiben (+5 EUR)</option>
+<option value="211913">Packstation (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52042" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>/// UPDATE DECEMBER, 2017 ///</p>
+
+<p>!!!IMPORTANT MESSAGE!!!</p>
+
+<p>We will be on Christmas/ New Years Holiday from:</p>
+
+<p>22nd of December to 3rd of January.</p>
+
+<p>Our last day of business will be December 21st and our first day of business in 2018 will be the 4th of January. </p>
+
+<p>We will accept all orders until then and will still be available for you during our clousure, to answer messages, solve disputes etc.  </p>
+
+<p>Thank you all for supporting us in 2017! We are looking forward to helping you with some HAPPY TIMES again in 2018 :)</p>
+
+<p>Cali420 wishes you a great time with your friends and family.</p>
+
+<p>Be blessed, Cheers!</p>
+
+<p>25 g Lemon Kush. You will receive well dried and manicured buds of medicinal quality. Top shelf cannabis. The order be vac-sealed twice and shipped in discrete business letters with printed labels. </p>
+
+<p>German/ Deutsch: 25 g Lemon Kush. Saftige Buds, optimal getrocknet und manikürt. Ein entspanntes Rauchvergnügen, garantiert ohne Zusätze und von medizinischer Qualität. Happy times!</p>
+
+<p>FREE SHIPPING!</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Very Fast Shipping and very good
+<em>(yesterday)</em>
+</td>
+<td><span>
+10***ms
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Echt klasse, alles hervorragend! Besten Dank
+<em>(17.2.)</em>
+</td>
+<td><span>
+JC***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++
+<em>(13.2.)</em>
+</td>
+<td><span>
+zi***st
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Einfach Perfekt! Wie halt schon immer! Hier ist der Kunde König. Bestes Gras und Express Lieferung. Vielen Dank und bis Bald. :))
+<em>(5.2.)</em>
+</td>
+<td><span>
+Ag***tX
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(2.2.)</em>
+</td>
+<td><span>
+mi***tz
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Wie immer top 8 :)
+<em>(29.1.)</em>
+</td>
+<td><span>
+3r***ap
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Very legit trading partner, recommended A+++ !!!
+<em>(27.1.)</em>
+</td>
+<td><span>
+fr***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23221"><img src="/kuvat/tuotekuvat/da63ab0324a3548b7219dbbcfc7dddcbbfef9149.jpg?1455972438" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23221">100G ★★ AMNESIA Haze Rest Weed Cannabis ★★ AAA+ High Quality</a> (<span title='200 EUR'>200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91798"><img src="/kuvat/tuotekuvat/694a8e1f55b327f1855ca2daad2d862184ad966e.jpg?1491450044" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91798">25 gr. Diesel A+++Top-Shelf Hydroponic Weed </a> (<span title='177 EUR'>177&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91735"><img src="/kuvat/tuotekuvat/6c2578c0cb9996833006afafe386327a659e7e01.jpg?1491397735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91735">50 Gramm Curry-Cheese</a> (<span title='420 USD'>341.8&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kraut_ling">kraut_ling</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/77652"><img src="/kuvat/tuotekuvat/f55e06181404665db9cd29e80fe61c4c8502bc01.jpg?1482957693" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/77652">Custom for  	frank</a> (<span title='319.5 EUR'>319.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thegermanbudtender1">TheGermanBudtender1</a></span>&nbsp;(<span class='green' title='Positive feedback'>2002</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-58</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96857"><img src="/kuvat/tuotekuvat/bd2b2a2cfc5b8e42956917983d45cea8249e5acf.jpg?1500363455" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96857">Big Band 20g/Indoor/AAA/Free Shipping</a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>25 g &quot;Lemon Kush&quot; /// Free Delivery ///</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

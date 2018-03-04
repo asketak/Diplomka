@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NxDRUJ40hvKqMbbe+BD0rhXZRGKBCKDacUeOseyo1276tJ/AKtMm+un0syOUbDC65MPiULKpFu42j9wgsR7yeA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/53e6a80d5b5e51c7c2cdd65668e226b509486586.jpg?1468377510"><img src="/kuvat/tuotekuvat/3e3322b190e349d8ab11c6a82f9192f0b765ad44.jpg?1468377510" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>112g Sour Tangie (A+++ Hydroponic)</h1>
+<ul class='list-unstyled specs'>
+<li>577.8 EUR <em>(0.074097 BTC)</em></li>
+<li>25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/kushmasters">kushmasters</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="c9zE3IZS8+esj85sPTN6ljMrA2prKxWapD7oTtPbSqq+eIpMMrVT7+9Ky5FRT76CwjGlWFiKo67j9rrfjm1vvA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="213239">Domestic (included)</option>
+<option value="213240">International (+8.14 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52210" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Grown indoor by local Northern Californian weed scientists :)</p>
+
+<p>Flowers are organic and were trimmed by hand.</p>
+
+<p>Here's some info on the strain:</p>
+
+<p>Sativa Dominant Hybrid - 80% Sativa / 20% Indica</p>
+
+<p>THC: 21% - 22%</p>
+
+<p>Sour Tangie is a sativa dominant hybrid (80% sativa/20% indica) strain created as a cross of the hugely popular East Coast Sour Diesel X Tangie strains. Like its parent strains, this bud is most infamous for its insanely mouthwatering flavor. Sour Tangie has a smell of pungent sour citrus that has an earthy diesel bouquet as the bud is smoked. The taste is of sour earthy citrus that has a sharp pungent diesel aftertaste upon exhale that intensifies as you smoke.
+<br />Sour Tangie buds have medium-sized grape-shaped dark olive green nugs with bright surprisingly pink undertones, rich purple hairs, and a frosty layer of lavender hued fine crystal trichomes. The Sour Tangie high boasts a combination of indica and sativa effects that are powered by a relatively high THC level that falls up to 22% on average. The high starts with an elevating head buzz that jolts you with motivated energy and a slight sense of focus.
+<br />This head high is accompanied by a relaxing and warming body buzz that lulls you into a state of lethargy and ease that doesn’t quite put you to sleep or cause couch-lock. Because of these well-balanced effects, Sour Tangie is said to be perfect for treating conditions such as chronic fatigue, mild to moderate cases of...</p>
+
+<p>Positive Effects</p>
+
+<p>Body Buzz
+<br />Creative
+<br />Energized
+<br />Euphoric
+<br />Relaxed</p>
+
+<p>Relieved Symptoms</p>
+
+<p>Depression
+<br />Fatigue
+<br />Muscle Spasms
+<br />Pain
+<br />Stress</p>
+
+<p>Enjoy :)</p>
+
+<p>...and don't forget to leave feedback after receiving your order. It helps spread the word and we really appreciate it </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 8.14 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102172"><img src="/kuvat/tuotekuvat/ca54308e3455df8643c46c55e900db90ecf80287.jpg?1515222273" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102172">❤224g CRITICAL + ★ Weed ❤</a> (<span title='800 USD'>651.04&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85019"><img src="/kuvat/tuotekuvat/ac778d665a5cf876b2ae4bfb148f60f174c8c3b7.jpg?1486720497" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85019">100 gr. Platinum OG Kush AAA+ Indoor</a> (<span title='700 EUR'>700&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/81987"><img src="/kuvat/tuotekuvat/8ddcf71657d447a2f37639349c0985f380353a51.jpg?1485137728" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/81987">1/2 pound greenhouse og kush or bruce banner</a> (<span title='1010 USD'>821.94&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/port-royal">Port-Royal</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72255"><img src="/kuvat/tuotekuvat/b491d2700c44f6b4ec169a6f9fa41589d922089a.jpg?1479843791" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/72255">112g Grapefruit (Top Shelf Greenhouse)</a> (<span title='570 EUR'>570&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100540"><img src="/kuvat/tuotekuvat/c8c16044b669f080ad221a7a4677d8ac965da527.jpg?1509081443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100540">9 oz GELATO - CALI INDOOR GROWN</a> (<span title='500 GBP'>568.89&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>112g Sour Tangie (A+++ Hydroponic)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

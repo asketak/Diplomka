@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CF4We40Ztv4QKEnveGauTRQkO67IyEyKZlCnU+A9EjjF+ljrOf4W9lPtTBIUGmpZ5T6dnPtp+r4hmPXCvYs3Lg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/32b9cf89e103ecdeb323928daa41167cda5ae912.jpg?1474944160"><img src="/kuvat/tuotekuvat/e8f658e79a23b98a2ca83d3cfd7de641ae2fe7a5.jpg?1474944160" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Lorazepam 2,5 mg - 5 tablets Hemopharm</h1>
+<ul class='list-unstyled specs'>
+<li>19 EUR <em>(0.002436 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/soiidsupply">SoIidSupply</a></span>&nbsp;(<span class='green' title='Positive feedback'>175</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Lorazepam 2,5 mg - 100 tablets Hemopharm</p>
+
+<p>PLEASE READ TERMS AND CONDITIONS BEFORE ORDERING!!</p>
+
+<p>100% legit product, tablets will be repacked into small zipbags.</p>
+
+<p>Generic Name: Lorazepam
+<br />Strength: 2,5 mg
+<br />Manufacturer: Hemopharm
+<br />Trade Name: Ativan / Tavor
+<br />Type: anxiolytic / relaxant
+<br />Imprint: n/a
+<br />Marks: scored
+<br />Color: blue</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 2.0 EUR (Germany) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/75751"><img src="/kuvat/tuotekuvat/b62ff47fd061d28942f10571e1439eb0491b20f9.jpg?1481708928" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75751">20x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='20 USD'>16.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78381"><img src="/kuvat/tuotekuvat/97b094b537593e486e63d8413409f17389ee553b.jpg?1483529087" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78381">Gelenika Bensedin (diazepam) 10mg x 15 **VERY STRONG**</a> (<span title='17 GBP'>19.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103353"><img src="/kuvat/tuotekuvat/7935b8bde1d50c068c76f4978a7677ca0c807c98.jpg?1519069528" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103353">Rivotril 2mg, 10kpl  (Fe-&gt;+1kpl)</a> (<span title='21.3 EUR'>21.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/82610"><img src="/kuvat/tuotekuvat/c5da198d0c1870b1c8949d319e2446f2c5860bae.jpg?1485386612" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/82610">★ Pfizer Xanax ☛ 30 x 0,5 mg ☚ BEST PRICE ★</a> (<span title='16.5 EUR'>16.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/egregore">Egregore</a></span>&nbsp;(<span class='green' title='Positive feedback'>1141</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/92177"><img src="/kuvat/tuotekuvat/7e6bdcf89028d9a00463159231748297b9ff57b5.jpg?1491974924" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92177">Generic viagra ® 50 tablets 100mg Sildenafil</a> (<span title='31 USD'>25.23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>Lorazepam 2,5 mg - 5 tablets Hemopharm</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

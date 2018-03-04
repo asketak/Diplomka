@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3usho4fcnW8+3vVV+DUuX2M7fgnmKwjjqemOve7NbwQTT28zMzs9Z30b8KiUSepLkiHYO9WKvtfuIdwss3tKEg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/a893a944db03da5265a3ffca9bf270f5560d4801.jpg?1475778631"><img src="/kuvat/tuotekuvat/07dfee5928f3b41bdb8d551b3ef46fd6fb4a789e.jpg?1475778631" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>500X ⓅⒾⓁⓁⓈ BUGATTIS</h1>
+<ul class='list-unstyled specs'>
+<li>539 EUR <em>(0.069107 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/lsd-shop">LSD-Shop</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aktKPQO7jVB3LDzJ0iHQiYFtXxZOsdlQPf52XJv7TE6n7wStt1wtWDTpOTS+XRSdcHf5JH0Qb2R6NiTNxk1pWA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="296244">Regular Shipping to Europe (included)</option>
+<option value="296245">Track&amp;Trace to Europe (+10 EUR)</option>
+<option value="296246">Regular Shipping to US&amp;CA&amp;ASIA&amp;RUS (+4 EUR)</option>
+<option value="296247">Track&amp;Trace to US&amp;CA&amp;ASIA&amp;RUS  (+14 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64559" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯UPDATES♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>SEPTEMBER 15 DAY : BACK ON TRACK ! Dream Market loaded!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>MARCH 25 DAY : We are on holidays till September (all summer) , please contact us if you have any problems with delivery we will chat back and solve any problems! Thanks!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>FEBRUARY 20 DAY : Nucleus and Alphabay markets loaded after Agora went down ! Thanks for staying in tune guys!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯♯( ͡° ͜ʖ ͡°)♯Hello and welcome to LSD-SHOP!♯( ͡° ͜ʖ ͡°)♯♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />→We mean business: be confident that you can easily run a good shop without dealing with any stupid scams.
+<br />→Our objective is our happy and returning customers.
+<br />→We are seeing this shop as an company and making everything to run it sucessfully.
+<br />→Our promise is 99.99% sucessful delivery - you will get your package in all cases→
+<br />→We are shipping WORLDWIDE (with few exceptions)
+<br />→For orders over 500EUR contact us - gifts available!
+<br />→Our returning customers always gets discounts!</p>
+
+<p>♯♯( ͡° ͜ʖ ͡°)♯( ͡° ͜ʖ ͡°)♯( ͡° ͜ʖ ͡°)♯♯
+<br />We are former Silk Road I &amp; II, Agora, &amp; Middle Earth vendor, all with a perfect rating.
+<br />History on the Darknet:
+<br />→Four years in the business, still running the game.
+<br />→SR2 - 350+ sales
+<br />→Blue Sky - 50+ sales
+<br />→Cloud 9 - 50+ sales
+<br />→Evolution - 1200+ sales
+<br />→Agora 600+ sales
+<br />→Abraxas 300+
+<br />→Nucleus 1500+ sales
+<br />→Alphabay
+<br />→East India Company 200+
+<br />→DreamMarket
+<br />→Hansa
+<br />→Oasis
+<br />→Valhalla</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯DELIVERY TIMES (in business days)♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>→USA: 7-10 days
+<br />→France: ~3 days
+<br />→Germany: ~3 days
+<br />→Austria: ~4 days
+<br />→Belgium: ~3 days
+<br />→Italy: ~5 days
+<br />→Spain: ~5 days
+<br />→Rest EU: 3-8 days
+<br />→Turkey: 7-10 days
+<br />→UK: ~4 days
+<br />→CA: 7-10 days
+<br />→ RUS: 7-10 days
+<br />→Asia: 7-15 days
+<br />→Australia: 7-15 days
+<br />→Scandinavia: ~6 days
+<br />→South America: 7-12 days</p>
+
+<p>→Small orders always goes without tracking to increase security of our shipping methods!
+<br />→Bigger orders shipping by post.nl with courier option and goes with step by step tracking information!</p>
+
+<p>Terms may vary because of holidays at various countries.</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯READ PROFILE BEFORE ORDERING FROM US♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 3.0 EUR (Regular Shipping to Europe) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/96115"><img src="/kuvat/tuotekuvat/4601e8db7f17e3740026d924447cc18d72b4cdb5.jpg?1498744095" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96115">500 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='650 EUR'>650&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24610"><img src="/kuvat/tuotekuvat/d744598c7165bcea3dfc41dadc956c4827185588.jpg?1455972707" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24610">100gr MDMA Crystals 85% PURE</a> (<span title='775 EUR'>775&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97871"><img src="/kuvat/tuotekuvat/a4c0c43a96c3e12d4e0e33eb98d652caa51f7f07.jpg?1501956619" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97871">Coca Cola MDMA 84%+, 250 Grams FE </a> (<span title='962 USD'>782.88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102419"><img src="/kuvat/tuotekuvat/2316d50487ee7f1dddeae144632e27f88b564776.jpg?1514060138" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102419">French passport</a> (<span title='560 EUR'>560&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fakeid">FakeiD</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102197"><img src="/kuvat/tuotekuvat/58c66dce374b6ec8e55200922a4e4df2ce5fdd05.jpg?1513223793" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102197">❤ 50pcs MDMA pills ★ SILVER ★ 220mg ❤</a> (<span title='500 USD'>406.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>500X ⓅⒾⓁⓁⓈ BUGATTIS</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

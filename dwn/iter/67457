@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NuiLfkjf8iIEERdw6juN6RXmoFxPMyrn6xfOs4h03Bb7TMXu/DhSKkfUEo2GR0n95PwGbnySnNOs35wi1cL5AA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f716b09c51d10b94ac82fd32619550e16b32bf08.jpg?1477251678"><img src="/kuvat/tuotekuvat/eae26051ed084660e3b6fa211a471c3254e8351d.jpg?1477251678" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Fresh USA fullz Cc 100% Live with balance of 10 to 50k guaranteed</h1>
+<ul class='list-unstyled specs'>
+<li>16.28 EUR <em>(0.00209 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/fakemaster">fakemaster</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="c2cvdpBMVqqM6OCjz6EPfGmcrJZvR+KcYmR87smQKjS+w2HmJKv2os8t5V6j3ctomIYKpFzmVKglrC5/lCYPIg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="314661">No addons (included)</option>
+<option value="314662">Bin selection Plus 2$ (+1.63 EUR)</option>
+<option value="314663">Bin &amp; Location Selection Plus 4$ (+3.26 EUR)</option>
+<option value="314664">Non VbV Guaranteed (+3.26 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67457" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>All cards fresh and 100% alive. You dont need to check them. Just use it wherever u like with full confidence. On top of that all cards are High level which means they have balance of atleast 10k and above which will allow them to easily pass transactions of atleast 3k and above without trigerring any alerts any alerts/problems.</p>
+
+<p>The fullz format is as follows:</p>
+
+<p>==============FM FULLZ==============</p>
+
+<p>Name: Elaine Fein
+<br />DOB: 8/4/1978 (MM/DD/YYYY) &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Available most of the times But not guaranteed
+<br />Email: ekzr@att.net</p>
+
+<p>Address: 8343 Morning Mist Court
+<br />City: San Diego
+<br />State: California
+<br />Zip: 75013
+<br />Country: United States</p>
+
+<p>Name (as appears on Card): Elaine M Fein
+<br />Card: 4147202147749889
+<br />CCV2: 162
+<br />Expiry Date: 07 / 17
+<br />Card Issuer: CHASE BANK
+<br />Card Type: VISA CREDIT SIGNATURE</p>
+
+<p>Mothers Maiden Name: kelsey &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Available most of the times But not guaranteed
+<br />Billing Phone: 6194663346</p>
+
+<p>Client IP: 108.62.145.242 (USA)
+<br />Browser &amp; OS: Apple Safari (mac)
+<br />Full Useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7 </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/88486"><img src="/kuvat/tuotekuvat/884ea100dffd71aef32198fc63be4049f939f8ca.jpg?1489312267" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/88486">200$ US Paypal Balance + 200$ PP Acc For Free [ SUPPER OFFER ]</a> (<span title='18 USD'>14.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dr-whit3">Dr.Whit3</a></span>&nbsp;(<span class='green' title='Positive feedback'>147</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/34658"><img src="/kuvat/tuotekuvat/1ce6792454b51a12cb385ff4a7e02713eff456dc.jpg?1459642887" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34658">★ 1 x US PLATINIUM CARD ★</a> (<span title='18 USD'>14.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38302"><img src="/kuvat/tuotekuvat/9e58b4e742ddbdb123213ad9c3db0a05244c4575.jpg?1461441775" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38302">AMAZON ACCOUNT WITH 100$ GIFT BALANCE</a> (<span title='25 USD'>20.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94799"><img src="/kuvat/tuotekuvat/8367c386b1e610e9ddbe98da8487689a605548fa.jpg?1496142073" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94799">SUPER SHEMALE PACKAGE!!! SUPER PROMOTION</a> (<span title='29.99 USD'>24.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/wendy">Wendy</a></span>&nbsp;(<span class='green' title='Positive feedback'>318</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99417"><img src="/kuvat/tuotekuvat/dc7efae8e685cfe4eefb557833ca4711c132e37c.jpg?1505964885" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99417">xBruteforce - Hack Any Account!!! [Special Price]</a> (<span title='29.99 USD'>24.41&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2902">Credit card data</a>
+</li>
+<li class='active'>Fresh USA fullz Cc 100% Live with balance of 10 to 50k guaranteed</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VCnDwDOlIMHctzxDm1H5YNjBtJ7NAFpqUFYiI7pxArOZjY1Qh0KAyZ9yOb73LT10KdsSrP6h7F4XnnCy58cnpQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/da638ec88464c454204dea979c808cc4b0870611.jpg?1473461820"><img src="/kuvat/tuotekuvat/56d7bcf88a510af6bbd7fb476537f5b8333b7349.jpg?1473461820" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>20kpl Xanax 2mg</h1>
+<ul class='list-unstyled specs'>
+<li>80 EUR <em>(0.010257 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pur-sang">Pur Sang</a></span>&nbsp;(<span class='green' title='Positive feedback'>1756</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>2mg Pfizerin Xanax telareita, 20 kappaletta.</p>
+
+<p>Vaikuttava aine alpratsolaami, joka on myös Xanor, Alprox, Alprazolam ym. lääkkeiden vaikuttava aine. Alpratsolaamia voidaan käyttää masennuksen, vaikean ahdistuksen ja paniikkihäiriön hoitoon.</p>
+
+<p>Luethan profiilimme ennen tilaamista.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/98326"><img src="/kuvat/tuotekuvat/864be0870e206333ad1fe3dd4a1b4360fa4039ec.jpg?1515619097" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98326">Roche Rivotril 50 tablettia -escrow -laatutakuu -homma hoidos</a> (<span title='103.5 EUR'>103.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/h1r0ll1ng">H1R0LL1NG</a></span>&nbsp;(<span class='green' title='Positive feedback'>416</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-59</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97303"><img src="/kuvat/tuotekuvat/11d67a38dd415cadea39772b9a591b198ac84c5d.jpg?1500983842" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97303">Tenox 10 x 20 mg (temazepam, tematsepaami)</a> (<span title='76 EUR'>76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/sissikasvattajat">Sissikasvattajat</a></span>&nbsp;(<span class='green' title='Positive feedback'>391</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103185"><img src="/kuvat/tuotekuvat/899d41fc1e2f475f11a69e5a0c796f6dc7178ca3.jpg?1517574248" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103185">Etizolaamiliuos 100mg/10ml</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/a-team">A-team</a></span>&nbsp;(<span class='green' title='Positive feedback'>1339</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102499"><img src="/kuvat/tuotekuvat/4c4384e340b5c9f57a308a3dfcb87365ec8400c9.jpg?1515053098" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102499">Ksalol 1mg 3 levyä (3x15kpl)</a> (<span title='93 EUR'>93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ksanori">Ksanori</a></span>&nbsp;(<span class='green' title='Positive feedback'>121</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103355"><img src="/kuvat/tuotekuvat/6c41efff18842c3fe1e03977c8efc99dff165943.jpg?1519069741" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103355">Rivotril 2mg, 50kpl (Fe-&gt;+4kpl)</a> (<span title='97.1 EUR'>97.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>20kpl Xanax 2mg</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

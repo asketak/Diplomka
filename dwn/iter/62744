@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tjJXCvZWeDURjAxhPpw8CuDyo9ttfupg+UowjtQels97lhmaQrHYPVJJCZxS4PgeEegF6V7fXFS+gmIfiaiz2Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2f71684193091c94ebb62a72aaf1c9e90d525601.jpg?1474955601"><img src="/kuvat/tuotekuvat/3b968c8858f7a06f58835d591e043fa0fb50bf89.jpg?1474955601" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>David Icke Collection (75 Books)</h1>
+<ul class='list-unstyled specs'>
+<li>0.81 EUR <em>(0.000103 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/captain_kirk">captain_kirk </a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pUNqmVAINgTf9ZrU4dfA9ZqfuR8LihlOYaHThT2ytdVo5yQJ5O+WDJwwnymNqwTha4UfLTgrr3omaYEUYASQww==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="62744" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>David Icke (pronounced "Ike") is a former Professional Soccer player, journalist, network anchorman with the BBC, spokesman in the 1980's for the British Green Party, and since 1990 a full time investigator into who and what is really controlling the world.</p>
+
+<p>Many have dubbed Icke as the "most controversial speaker" on the planet. They used to laugh at him, but now they come in the thousands to hear him speak all over the world.</p>
+
+<p>He is an author of many books, among them are: And the Truth Shall Set You Free, The Biggest Secret, Children of the Matrix, Alice in Wonderland and The World Trade Center Disaster ~ why the official story of 9/11 is a monumental lie, and his latest book, Tales from the Time Loop - The most comprehensive expos? of the global conspiracy ever written and all you need to know to be truly free.</p>
+
+<p>David's words are designed to inspire all of us to be who we really are, to fling open the door of the mental prison we build for ourselves and to walk into the light of freedom.</p>
+
+<p>Children Of The Matrix-DavidIcke.pdf (4.7MB)
+<br />David Icke - ...And The Truth Shall Set You Free.pdf (3.3MB)
+<br />David Icke - 911 how is it possible to mastermind.pdf (254.2KB)
+<br />David Icke - A Concise Description of the Illuminati.pdf (10.6KB)
+<br />David Icke - Aids - The Great Con Trick.pdf (20.4KB)
+<br />David Icke - Aids Agenda - Genocide.pdf (61.6KB)
+<br />David Icke - Alice in Wonderland and the WTC Disaster.pdf (263.6KB)
+<br />David Icke - An Other-Dimensional View of the American Catastrophe from a Source They Cannot Silence.pdf (99.5KB)
+<br />David Icke - Are There Aliens Among Us.pdf (87.0KB)
+<br />David Icke - Attack.pdf (254.2KB)
+<br />David Icke - Barack Obama - The Naked Emperor.pdf (1.5MB)
+<br />David Icke - Bible Errors.pdf (51.8KB)
+<br />David Icke - Bloodlines of the Illuminati.pdf (886.6KB)
+<br />David Icke - Bush, Bin Laden, Illuminati.pdf (145.0KB)
+<br />David Icke - CANADA-A TOTALITARIAN STATE.pdf (16.0KB)
+<br />David Icke - Children of the Matrix .pdf (4.7MB)
+<br />David Icke - Claims Conspiracy At Highest Level.pdf (23.6KB)
+<br />David Icke - Credo Mutwa (Zulu Shaman) - Transcription.p df (12.6KB)
+<br />David Icke - Exposing the Dream World We Believe to be Real - (2005).pdf (8.5MB)
+<br />David Icke - Federal Reserve System Fraud.pdf (202.7KB)
+<br />David Icke - Freemasons,Sata nism and Symbolism.pdf (869.5KB)
+<br />David Icke - Hitler And The Rothschilds.pdf (83.2KB)
+<br />David Icke - Holocaust Industries.pdf (21.3KB)
+<br />David Icke - I am me, I am free - The Robots Guide to Freedom.pdf (2.0MB)
+<br />David Icke - Illuminati Mind Controled Slaves.pdf (2.7MB)
+<br />David Icke - Illuminati-The European Spider's Web.pdf (228.4KB)
+<br />David Icke - Infinite Love is the Only Truth, Everything Else is Illusion-Exposing The Dreamworld We Believe T.pdf (8.5MB)
+<br />David Icke - Innocents Attacked.pdf (85.8KB)
+<br />David Icke - Lucid - 666 Human Control System.doc (37.5KB)
+<br />David Icke - Mapped Layout of the U.S. Media.pdf (228.0KB)
+<br />David Icke - Mind Controlled Celebrities.doc (40.5KB)
+<br />David Icke - Mono-Atomic Gold A Secret Of Shapeshifting And The Reptilian Control.pdf (12.5KB)
+<br />David Icke - NASA Masonic Conspiracy Apollo Missions Masonic Symbols.pdf (61.2KB)
+<br />David Icke - Occultic Numerology.pdf (840.8KB)
+<br />David Icke - Origins of Christianity-Religious Frauds Archive.pdf (196.7KB)
+<br />David Icke - Predictions - Global Governance.pdf (11.1KB)
+<br />David Icke - Protocol Of The Of The Learned Elders Of Zion.pdf (160.7KB)
+<br />David Icke - Rare Book Of Scottish Rite Of Freemasonry Rituals-1st to 33rd Degrees.pdf (140.0KB)
+<br />David Icke - Reptilian Research Archives.pdf (123.3KB)
+<br />David Icke - Responds To Charges In Canada.pdf (32.4KB)
+<br />David Icke - Say no to the draft.pdf (297.4KB)
+<br />David Icke - Since When is The TRUTH Negative.pdf (82.0KB)
+<br />David Icke - Tales from the Time Loop.pdf (6.0MB)
+<br />David Icke - Tales Of A Government Sex Slave.pdf (29.8KB)
+<br />David Icke - The Biggest Secret Companion Book Instructions How To Protect.pdf (21.7KB)
+<br />David Icke - The Biggest Secret.pdf (10.1MB)
+<br />David Icke - The Book The Bushes Banned.pdf (87.6KB)
+<br />David Icke - The European Spider's Web.pdf (233.3KB)
+<br />David Icke - The Gold of the Gods (Referenced in Revelations of A Mother Goddess).pdf (107.1KB)
+<br />David Icke - The Hidden Codes In The Bible.pdf (176.7KB)
+<br />David Icke - The Hidden Gears Of Freemasonry.pdf (625.1KB)
+<br />David Icke - The Illuminati Millennium Rituals.pdf (27.9KB)
+<br />David Icke - The Illuminati Rituals On The False Millenium And Coming Age Of Light.pdf (16.2KB)
+<br />David Icke - The New Mark Of The Beast-Part 1.pdf (163.0KB)
+<br />David Icke - The New Mark Of The Beast-Part 2.pdf (156.1KB)
+<br />David Icke - The New Mark Of The Beast-Part 3.pdf (118.6KB)
+<br />David Icke - The New Mark Of The Beast-Part 4.pdf (105.4KB)
+<br />David Icke - The New Mark Of The Beast-Part 5.pdf (114.6KB)
+<br />David Icke - The Reptilian Connection - davidicke.com.p df (130.2KB)
+<br />David Icke - The Reptilian Connection.pdf (130.2KB)
+<br />David Icke - The Robots' Rebellion - The Story of the Spiritual Renaissance.pdf (1.2MB)
+<br />David Icke - The Rothschild Dynasty.pdf (212.1KB)
+<br />David Icke - The Round Table Bilderburg Network.pdf (171.1KB)
+<br />David Icke - The Secret History Of America-The Greatest Conspiracy On Earth.pdf (277.5KB)
+<br />David Icke - The Secret Rituals of the O.T.O..pdf (1.0MB)
+<br />David Icke - The Windsor-Bush Bloodline.pdf (17.3KB)
+<br />David Icke - Turquoise.pdf (22.8KB)
+<br />David Icke - Was Hitler A Rothschild.pdf (146.3KB)
+<br />David Icke - Who really rules the world.pdf (1.6MB)
+<br />David Icke - WTC - Problem - Reaction - Solution.pdf (123.0KB)
+<br />David Icke responds to charges in Canada.doc (69.5KB)
+<br />Dictionary of Symbols.pdf (6.0MB)
+<br />global_freemaso nry.pdf (4.4MB)
+<br />The_David_Icke_ Guide_to_the_Gl obal_Conspiracy .pdf (11.7MB)</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/32469"><img src="/kuvat/tuotekuvat/20c3ddf4299b431df0ad25d92bfa4f4a407de186.jpg?1458321363" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32469">Male Multiple Orgasms Guide</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/66420"><img src="/kuvat/tuotekuvat/0a4575c3138304dd2bb75a19c95c7328b3b5c6ad.jpg?1476663564" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/66420">♕ DIAMOND RAT || LOTS OF FEATURES ♕</a> (<span title='1.49 USD'>1.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99410"><img src="/kuvat/tuotekuvat/cb8714f652db353880ea92aacdbab7d71a82a692.jpg?1505962481" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99410">YouTubify v1.9 [FAST SHIPPING]</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79573"><img src="/kuvat/tuotekuvat/0d568f3013f7617cf2df87227f0b829ab0becfa7.jpg?1484159831" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/79573">Napster Premium Account |LIFETIME WARRANTY|</a> (<span title='1 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/acc4btc">acc4btc</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39335"><img src="/kuvat/tuotekuvat/9cafb57918680631bf5be5006b437f235eab9943.jpg?1461764436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39335">BEST CANNABIS RECIPES ******DELICIOUS*****</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2905">Ebooks</a>
+</li>
+<li class='active'>David Icke Collection (75 Books)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

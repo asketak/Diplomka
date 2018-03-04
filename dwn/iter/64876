@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FAJyfbySnNotqDt85ObwwgMlLDEuFlLzrPXIcSYUSDTZpjztCHU80m5tPoGImjTW8j+KAx235MfrPZrge6JtIg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8a4ae6174658cef21d7a9488dc8a122e5c5f1fd6.jpg?1476024203"><img src="/kuvat/tuotekuvat/b8ce03372a30263f650d3d2798d25900a890b29e.jpg?1476024203" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Sour Diesel Feminized Cannabis Seeds</h1>
+<ul class='list-unstyled specs'>
+<li>8.53 EUR <em>(0.001095 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/crakerjack">crakerjack</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NOWIWg9hCCG4mhwP1yk9LndLVvaSx3yh2KfVrGVQGU/5QcbKu4aoKftfGfK7Vfk6hlHwxKFmypWfb4c9OOY8WQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="299126">Domestic (included)</option>
+<option value="299127">Registered &amp; tracked (+4.55 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64876" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>We have a vendor who supplies Cannabis Seeds which came from a recent grow using Gibberellic Acid on some Female Sour D plants to create this batch of seeds, </p>
+
+<p>On offer are Feminized Sour Diesel Seeds (SEPTEMBER  BONUS for every 10 seeds get 1 FREE!)</p>
+
+<p>£3.50 each - shipped from the UK - all seeds have been pinch tested for QA - any duds replaced free! </p>
+
+<p>for bulk orders - @ £3 each when buying 10 or more
+<br />                              @ £2.50 each for 50 or more</p>
+
+<p>only sending to countries with legal status for having cannabis seeds legally</p>
+
+<p>please PM if any questions - FULL ESCROW for your protection - all seeds sent with tracked postage which requires no signing</p>
+
+<p>****One of Many of the best cannabis strains coming out these days, Sour Diesel comes straight from California. It is a favourite with many smokers and growers. These powerful American genetics will grow well indoors around the world; outdoors, on the other hand, they need a warm climate, similar to California or Spain.</p>
+
+<p>This is a mostly Sativa strain which shows in both its growth structure and the strong high effect it gives when consumed. The plant develops its resinous buds and powerful aroma over a 10-week flowering period. This is after a recommended 3-to-4 week vegetative period. These plants will grow to a height of around 160-200 cm, with some stretching during early flowering.</p>
+
+<p>Sour Diesel is a very pungent, aromatic strain. Heavy chemical, herbal and sour flavours come from its glistening buds. When grown well, it will give yields of 450-600 grams per square metre. This is both a yield in quantity and quality, producing high-quality, resinous, aromatic buds. Full Diesel power! ***</p>
+
+<p>full reship/refund if not arrive - full tracking with all orders and full escrow for your safety</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 4.55 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2100">Cannabis growing</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2101">Seeds</a>
+</li>
+<li class='active'>Sour Diesel Feminized Cannabis Seeds</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

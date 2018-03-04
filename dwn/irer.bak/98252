@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zU8PwH/JtZ9s0x4XICFDDcmDEdARdyJHDY7IkfZfRTAA60FQyy4Vly8WG+pMXYcZOJm34iLWlHNKRpoAq+lgJg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/b517806efebc74a28a7ec8b2dbb203dd6eb4f499.jpg?1506058924"><img src="/kuvat/tuotekuvat/13dee9a0dbc3155653bdd68340ac00f34d09a84a.jpg?1506058924" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>15 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE]</h1>
+<ul class='list-unstyled specs'>
+<li>101.72 EUR <em>(0.013046 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</li>
+<li>Canada &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OYNmrMW3lj80BKRx8Zr4LOK6UizgHNrejvNv+BO93bH0Jyg8cVA2N3fBoYyd5jw4E6D0HtO9bOrJOz1pTgv4pw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="98252" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>AL-LAD was first synthesised by a Japanese research group in the 1970s and made popular by Alexander Shulgin in his book TiHKAL. Since 2013, when AL-LAD was first launched on the RC market, it has gained immense popularity and been touted as one of the greatest research chemicals of modern times. As a derivative of LSD, this compound must be treated with the utmost respect and protective gloves must be worn when conducting research experiments.</p>
+
+<p>-----------------------------------------------------------------------------------------------------------</p>
+
+<p>MORE DRUGS:</p>
+
+<p>(1P-LSD BLOTTERS)
+<br />10 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=488269.610066
+<br />25 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=749773.479545
+<br />50 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=617541.913449
+<br />100 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=355833.555162
+<br />200 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=283861.112441
+<br />500 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=207799.692334
+<br />1000 x 100mcg 1P-LSD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=185099.703439</p>
+
+<p>(5-MEO-MIPT - MOXY)
+<br />250mg 5-MeO-MiPT (MOXY) [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=269380.957094
+<br />500mg 5-MeO-MiPT (MOXY) [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=956029.263225
+<br />1 GRAM of 5-MeO-MiPT (MOXY) [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=584855.227451
+<br />2.5 GRAMS of 5-MeO-MiPT (MOXY) [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=153423.674285</p>
+
+<p>(4-ACO-DMT)
+<br />4-ACO-DMT [1 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=29140.413260
+<br />4-ACO-DMT [2 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=815723.614692
+<br />4-ACO-DMT [5 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=44828.879284
+<br />4-ACO-DMT [10 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=134605.239180
+<br />4-ACO-DMT [20 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=798261.111359
+<br />4-ACO-DMT [50 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/editOffer?offer=281432.211631
+<br />4-ACO-DMT [100 GRAM] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=373084.730615</p>
+
+<p>(ALD-52 BLOTTERS)
+<br />5 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=308998.417631
+<br />10 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=431991.200841
+<br />25 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=355390.101847
+<br />35 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=874193.999785
+<br />50 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=615769.350068
+<br />100 x 100mcg ALD-52 Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=980757.231175</p>
+
+<p>(ETH-LAD BLOTTERS)
+<br />5 x 100mcg ETH-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=977774.192319
+<br />10 x 100mcg ETH-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=993797.963775</p>
+
+<p>(AL-LAD BLOTTERS)
+<br />5 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=574792.332297
+<br />10 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=416993.953260
+<br />15 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=990722.380886
+<br />25 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=929966.7947901
+<br />50 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=186958.480614
+<br />100 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=370204.302922 
+<br />150 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=290076.708318</p>
+
+<p>(SALVIA DIVINORUM)
+<br />Salvia Divinorum 5X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=549509.20403
+<br />Salvia Divinorum 5X extract - 5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=788079.876402
+<br />Salvia Divinorum 5X extract - 10 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=876655.268484
+<br />Salvia Divinorum 10X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=863711.269031
+<br />Salvia Divinorum 10X extract - 5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=901199.937515
+<br />Salvia Divinorum 10X extract - 10 GRAMS [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=659124.901654
+<br />Salvia Divinorum 15X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=810869.94439
+<br />Salvia Divinorum 15X extract - 5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=775830.313882
+<br />Salvia Divinorum 15X extract - 10 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=68809.607425
+<br />Salvia Divinorum 20X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=591947.557774
+<br />Salvia Divinorum 20X extract - 5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=195158.914669
+<br />Salvia Divinorum 20X extract - 10 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=326323.672605
+<br />Salvia Divinorum 30X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=732331.107272
+<br />Salvia Divinorum 30X extract - 5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=813958.242903
+<br />Salvia Divinorum 30X extract - 10 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE]  - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=753590.322932
+<br />Salvia Divinorum 40X extract - 0.5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=145032.221445
+<br />Salvia Divinorum 40X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=145032.221445
+<br />Salvia Divinorum 60X extract - 0.5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=442023.933470
+<br />Salvia Divinorum 60X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=780422.829090
+<br />Salvia Divinorum 80X extract - 0.5 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=932608.918769
+<br />Salvia Divinorum 80X extract - 1 GRAM [TOP QUALITY] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=274982.783982</p>
+
+<p>(FAKE HASH)
+<br />Fake Hash - Sample pack of 40 GRAMS [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=554883.964350
+<br />Fake Bubble Hash - 1kg [SUPER PRICE FOR SHORT TIME ONLY!] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=521084.740228
+<br />Fake Afghan Black Hash - 1kg [SUPER PRICE FOR SHORT TIME ONLY!] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=9326.113188
+<br />Fake Moroccan Caramello Hash - 1kg [SUPER PRICE FOR SHORT TIME ONLY!] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=18098.917189
+<br />Fake Moroccan Primero Hash - 1kg [SUPER PRICE FOR SHORT TIME ONLY!] [FREE SHIPPING WORLDWIDE] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=856800.911669</p>
+
+<p>(MICRODROPER'S SUPER TRYPTAMINE PACK)
+<br />MicroDroper Super Tryptamine Pack - 250mg 4-AcO-DMT, 250mg 4-AcO-DET, 250mg 4-HO-MET, 250mg 4-HO-MPT - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=957141.744289
+<br />MicroDroper Super Tryptamine Pack - 500mg 4-AcO-DMT, 500mg 4-AcO-DET, 500mg 4-HO-MET, 500mg 4-HO-MPT - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=569234.814469
+<br />MicroDroper Super Tryptamine Pack - 1g 4-AcO-DMT, 1g 4-AcO-DET, 1g 4-HO-MET, 1g 4-HO-MIPT - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=589215.805826</p>
+
+<p>(MICRODROPER'S SUPER LYSERGAMIDES PACK)
+<br />MicroDroper's Super Lysergamides Pack - AL-LAD 5X, ETH-LAD 5X, 1P-LSD 5X, 1P-LSD 5X [FREE SHIPPING] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=812742.524796
+<br />MicroDroper's Super Lysergamides Pack - AL-LAD 10X, ETH-LAD 10X, 1P-LSD 10X, 1P-LSD 10X [FREE SHIPPING] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=862496.562565
+<br />MicroDroper's Super Lysergamides Pack - AL-LAD 25X, ETH-LAD 25X, 1P-LSD 25X, ALD-52 25X [FREE SHIPPING] - http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=485468.440102</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102203"><img src="/kuvat/tuotekuvat/aad5699f0e7d3e038d56ea11b226d4bf94f0e608.jpg?1513224844" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102203">❤ 10x LSD-25 ★ ORIGINAL ★ 160ug ❤</a> (<span title='100 USD'>81.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102765"><img src="/kuvat/tuotekuvat/4a68196bb2e077f7011cb85fcc3aaa3af3ea16f9.jpg?1515764658" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102765">50 X CHAMPAGNE BOTTLES 2CB PILLS</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103672"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103672">Magic Mushrooms 28.5 Grams</a> (<span title='94 USD'>76.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23304"><img src="/kuvat/tuotekuvat/bdcda043c418b0816d1af1efb9024493943d7e36.jpg?1455972452" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23304">25 LSD Blotters 180μg - Anonymous </a> (<span title='140 USD'>113.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73182"><img src="/kuvat/tuotekuvat/ec4514114e9213ac0ce745a0f8c7e562e4d13faa.jpg?1496926155" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73182">LSD 200µg x 10 Trips - Pure Crystal 99.5%</a> (<span title='75 EUR'>75&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1713">AL-LAD</a>
+</li>
+<li class='active'>15 x 150mcg AL-LAD Blotters [FREE SHIPPING WORLDWIDE]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

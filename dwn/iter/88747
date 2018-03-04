@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EGF/FjWEPHZ+z7tTIa25Aus64dLPImNZlgOL7MRNC/jdxTGGgWOcfj0Kvq5N0X0WGiBH4PyD1W3Ry9l9mfsu7g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8b6ee67818f96a6400f0d97127ad836bd2b0ca22.jpg?1489461566"><img src="/kuvat/tuotekuvat/777444526b404e0a33eb2d0cef208fe49543b71b.jpg?1489461566" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>707 TRUTHBAND FEMINIZED Seeds X 10</h1>
+<ul class='list-unstyled specs'>
+<li>63.14 EUR <em>(0.008125 BTC)</em></li>
+<li>15 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/qualityhydrobuds">QualityHydroBuds</a></span>&nbsp;(<span class='green' title='Positive feedback'>97</span>)
+</li>
+<li>Australia &rarr; Australia, New Zealand</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qsN1hJQc2kP0c7niDGLEW42YBYzmCTU3ymnRGAKoC+NnZzsUIPt6S7e2vB9gHgBPfIKjvtWogwONoYOJXx4u9Q==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="88747" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>BUY 10 GET 2 FREE !</p>
+
+<p>We are proud at Humboldt Seed Organization to premier the 707 Truthband, one of the most demanded underground strains in California. Created by Ras-Truth, from Emerald Mountain, 707 Truthband is a feminized Sativa-dominant cannabis strain which offers OG Kush fans the chance to cultivate a new state-of-the-art version.</p>
+
+<p>Indoors, you can expect a 10-week finish. The 707 Truthband can be quite easily identified by dominant gassy floral and skunk overtones while expressing beautiful red, orange and purple hues. A strong feeding schedule is recommended to support the 707 Truthband’s high metabolism.</p>
+
+<p>The flavor profile is comprised of a funky gas and spice filled aroma backed by complex skunk and fruity undertones. The 707 Truthband is remarkably cerebral for a Sativa-leaning breed and is great for creative activity, appetite stimulation and works quite well as a sleeping aid.</p>
+
+<p>The 707 Truthband is the first of many releases from Ras-Truth of Emerald Mountain as quality of care and the spiritual aspect of growing run hand and hand from this famous breeder of the Emerald Triangle.</p>
+
+<p>*ADDRESS FORMAT*</p>
+
+<p>5 Dope St
+<br />Bakersville
+<br />NSW 2333</p>
+
+<p>*POSTAGE*</p>
+
+<p>FREE POST
+<br />There is no next day delivery from my location , its only 1 day difference from express to standard post. I dont believe buyers should have to pay $10 express when its not really express post.
+<br />All post is now FREE and it could be Express/Parcel post or Standard, randomly used for enhanced security.</p>
+
+<p>* PGP*</p>
+
+<p>Use PGP when you can, its for your own benefit.</p>
+
+<p>*FE*</p>
+
+<p>No need to Finalize Early.</p>
+
+<p>*STEALTH*</p>
+
+<p>All packages stealth packed, vacuum etc.</p>
+
+<p>*REFUNDS*</p>
+
+<p>A case by case basis, but no refund when tracking says it arrived.</p>
+
+<p>*HONESTY*</p>
+
+<p>I will always be honest with buyers so i expect that in return.</p>
+
+<p>*FEEDBACK*</p>
+
+<p>Any less than 5/5 feedback -contact me first so we can discuss the issue and work something out.</p>
+
+<p>*FINAL WORD*</p>
+
+<p>I aim to provide people with the highest quality strains at the lowest possible price .</p>
+
+<p>PUBLIC KEY</p>
+
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: BCPG C# v1.6.1.0</p>
+
+<p>mQENBFf/2tQBCACrQF4HsEozUY+GgCKEQq+3YJLl4PNrQigQkUpME2rjj2fCxPjg
+<br />3V8p1TvdwboXmb6ih+f+V+I0l76LMpG7CWuvbwfr6CQv1ra1yclfWm/0u+R5rb4v
+<br />unKQZwmMx3AJuyiuyxfW2rCaAoU/4qnfr6SI4HkMpMt5ixV0NfGy0DmgkDGaE41D
+<br />AoEavUE3RK4hXYH79P9jY1WKYriCH28ngpg6hQ6G2vjrg/6hVHbScYjHduR0QYBK
+<br />PxXUpICrxoxykCaA5mOPqrLl0mKy1tEh0ZLmBTtyOK2GlXUGFmrE3AE3hlPZE511
+<br />V9SFRBYkmzCTdNKShZngNkkpTEpuqzIYD+OXABEBAAG0HVFVQUxJVFlNRURJQ0FM
+<br />QERBUktORVQuQ09NLkFViQEcBBABAgAGBQJX/9rUAAoJEHUcAfY0HGiHYwgH/00H
+<br />3hnNYnWYpOQnllHAAR80C6IahbT/3ZAFCi2wbBJEAbg6Igt1ExEotmGjTdPd3M7o
+<br />JBwPNz4R/tuiLc348RyArBQXkYK4jfzoPuOEBwSRxVARd9KBkuYezq6IwR3wR3E7
+<br />n+ZXEGBTp3//+kvP22WRnPIOulUnn8HkccLRro0mV2oToM8LNkWXZQn5S7XXA19b
+<br />lkw+MaH2tfHUZ67jwV5KILl8Y6Q1cy8tuTjXg+02TcJjoH/Hd73CAS49hIpoKQrR
+<br />eXejn/IKEqouY/TYxVQ1V44a95E6MVyJGAR3y8WW4GB+HDAb5JNIGMVveFSIwLiJ
+<br />m91d8y7FQ45/1s/MMpo=
+<br />=Z9Fe
+<br />-----END PGP PUBLIC KEY BLOCK---- </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100948"><img src="/kuvat/tuotekuvat/efdb84f560ad4eda3f45e01e707e2e79ccdabb93.jpg?1515222340" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100948">❤ 14g CRITICAL + ★ Weed ❤</a> (<span title='100 USD'>81.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102762"><img src="/kuvat/tuotekuvat/df9dc93a30e83073fa1b6557553e2921fec7d135.jpg?1515948998" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102762">5g Northern Lights | NDD/UK / Best Customer Service</a> (<span title='52 GBP'>59.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100180"><img src="/kuvat/tuotekuvat/6f2267e08b2d3262cc615ee48c2538a5d64c50f9.jpg?1508254121" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100180">DURBAN POISON  7 GRAMS</a> (<span title='69.98 USD'>56.95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/49040"><img src="/kuvat/tuotekuvat/ea671009ddb2f1f5c46c3bc33322959027989252.jpg?1466994935" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/49040">OGKush 14.5grams &#39;AAA&#39; Indoor</a> (<span title='88 USD'>71.61&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91797"><img src="/kuvat/tuotekuvat/a37453c67dd08e736a891d89f7650c7f9fd0b46a.jpg?1491449993" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91797">10 gr. Diesel A+++Top-Shelf Hydroponic Weed </a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>707 TRUTHBAND FEMINIZED Seeds X 10</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ltUiNhyX+f5pmgz+50Cg7mtp3DKg2sjfywGNYqgZ1IxbcWymqHBZ9ipfCQOLPGT6mnN6AJN7fuuMyd/z9a/xmg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9219c16c2e54abb8b4162e67c7e0cccacd2523ca.jpg?1468239077"><img src="/kuvat/tuotekuvat/87cd4070a2872372708df471131c2571eb72ed67.jpg?1468239077" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>10X 180UG Ohm LSD Blotters Acid's</h1>
+<ul class='list-unstyled specs'>
+<li>48 EUR <em>(0.006156 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dutchdopemasters">dutchdopemasters</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wQExolPHLpUiWkv7QTRl9CNID91sFXXC/XPqDd42E3MMpX8y5yCOnWGfTgYtSKHg0lKp71+0w/a6u7icg4A2ZQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="211346">Express Stealth Shipping (included)</option>
+<option value="211347">Express Shipping (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="51907" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>NOTE: THIS IS A TRY OUT LISTING ONLY 1 PER PERSON !! </p>
+
+<p>NOTER: WE DON'T SHIP TO: USA,CANADA,NEW ZELAND,AUSTRALIA </p>
+
+<p>dutchdopemasters is proudly presenting high quality LSD Blotters form own manufacturing!!</p>
+
+<p>the lsd we produce is the cleanest and purest way that it can be produced,
+<br />there are 3-4 chemical processes that can create lsd we use the most difficult and expensive chemical processes,
+<br />To produce the highest and cleanest acid's you can get !</p>
+
+<p>all of our lsd is created in small quantity's with no more the 500 blotters at a time.
+<br />this is how you get almost perfected dossed blotters witch contain the exact amount as listed. </p>
+
+<p>Like to test is out yourself ? look at our highly discounted try-out offers!!</p>
+
+<p>we will high lighten the chemical processes</p>
+
+<p>synthese of lysergic acid, ergotamine
+<br />reacting N-benzoyl-3-(B-carboxyethyl)-dihydroindole
+<br />growt of ergot alkaloids</p>
+
+<p>after manufacturing every single batch is lab tested to guarantee our high quality standards and goal's.
+<br />In the rare case the cooks don't reach at least 80% purity the batch will NOT BE SOLD.</p>
+
+<p>~~**~~ PRODUCT DESCRIPTION ~~**~~</p>
+
+<p>~ 180ug Potent Ohm design LSD blotters
+<br />~ produced with real  ergotamine
+<br />~ NO CHINESE raw materials are used within the manufacturing ring
+<br />~ shipped within 24h
+<br />~ dutchdopemasters offers both retail as bulk
+<br />~ 100% product satisfaction or refund !!
+<br />- friendly support team to answer all your questions</p>
+
+<p>~~**~~ SHIPPING TIMES ~~**~~</p>
+
+<p>_ NOTE: THE DELIVERY TIMES ARE ESTIMATES ___</p>
+
+<p>~ Western Europe = 5-10 days 
+<br />~ Eastern Europe = 10-15 days 
+<br />~ Scandinavia: = 10-15 days 
+<br />~ Southern America = 10-15 days 
+<br />~ Asia = 10-20days 
+<br />~ Russia = 10-20 days </p>
+
+<p>We do every thing that is in our power to get every parcel at destination the fastest way possible. But unfortunately we have no influence on the delivery times we are not the shipping agency. 
+<br />____NOTE: We prefer not to send to so called anonymous mailboxes since these have proven to cause more problems than a normal address </p>
+
+<p>shipping options:</p>
+
+<p>we provide several shipping options to our customers and we will highlight them shortly:</p>
+
+<p>-Try out shipping this option is only available when ordering a try out order.</p>
+
+<p>-Regular shipping: will be shipped trough express mail services NOTE: no extra stealth measurements are taken</p>
+
+<p>-Stealth shipping: will be shipped with express mail services and extra stealth measurements  are implanted </p>
+
+<p>-Tracking shipping: will be shipped with signed tracking NOTE:  no extra stealth measurements are taken</p>
+
+<p>-Stealth tracking shipping: will be shipped with signed tracking and extra stealth measurements are implanted </p>
+
+<p>NOTE: ONLY LARGER ORDER THAT ARE FE REQUIRED WILL BE SHIPPED WITH THE TRACKING OPTIONS !!
+<br />NOTE: TRACKING DETAILS WILL ONLY BE PROVIDED IN A DISPUTE CASE THIS IS OUT OF SAFETY PROCESSIONS. 
+<br />OF COURSE WE ARE HAPPY THE CHECK THE STATUS OF THE ORDER ON ANY DESIRED TIME.</p>
+
+<p>address format</p>
+
+<p>Please check for international address format:
+<br />http://www.bitboost.com/ref/international-address-formats.html#Formats
+<br />http://www.addressdoctor.com/en/countries-data/address-formats.html</p>
+
+<p>send your address with PGP in the following order:</p>
+
+<p>Name : your name
+<br />Street :
+<br />Postal code / City :
+<br />Country :</p>
+
+<p>Please use PGP encryption or destructingmessage.com message for all private details!
+<br />For security and privacy reasons. </p>
+
+<p>CUSTOMER FEEDBACK
+<br />Customer feedback is more than important to our organization ! 
+<br />We also do everything in our power to solve any problem witch is acceptable for both parties. 
+<br />UNFORTUNATELY there is always a small change that the order does not arrive. 
+<br />Most of the times the parcel is ratter lost then seized ! Before placing any bad feedback please contact us ! 
+<br />And we are sure that we can provide a fitting solution to the problem. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 8.0 EUR (Express Stealth Shipping) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102580"><img src="/kuvat/tuotekuvat/5ad345e3c9f2ebd75d8fe98b42353b5bd5451051.jpg?1515178406" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102580">10 x 180ug LSD Blotters (Buddha)</a> (<span title='45.8 EUR'>45.8&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>428</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97830"><img src="/kuvat/tuotekuvat/765651ca0ba72f43b3ed642f09ab69d0bae921f1.jpg?1501952973" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97830">25 LSD Blotters 150 ug, FE</a> (<span title='68 USD'>55.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23261"><img src="/kuvat/tuotekuvat/88d515171bbe18755db838a7449df8a847b21086.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23261">10 LSD stamps Anonymous (180μg)</a> (<span title='60 USD'>48.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>580</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98314"><img src="/kuvat/tuotekuvat/3c70d6b227d3dc8b5fedb19c7e7d9e83d734ba95.jpg?1502706629" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98314">25 X 2CB BLOTTERS</a> (<span title='50 EUR'>50&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24886"><img src="/kuvat/tuotekuvat/ad9c83976a06fcccc4ef64415977941c1cf2b423.jpg?1455972757" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24886">10x Dutch LSD Blotters *160µg* - FREE SHIPPING!</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchvendor">DutchVendor</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1701">LSD</a>
+</li>
+<li class='active'>10X 180UG Ohm LSD Blotters Acid's</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

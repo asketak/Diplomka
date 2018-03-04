@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RxtAz28F9Ka8M0T4bWeeSSra6ihn5ZCMlVqtEkX4+FyKvw5f2+JUrv/2QQUBG1pd28BMGlREJrjSkv+DGE7dSg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d7c02c558ca78335049d46ae9eeb924fd399fd57.jpg?1485284876"><img src="/kuvat/tuotekuvat/6e6aedb5e9dde28f6aaca64afdba6576fcfa4139.jpg?1485284876" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Model 686 7-Shot .357 Magnum 2.5&quot; 170346</h1>
+<ul class='list-unstyled specs'>
+<li>314.82 EUR <em>(0.040639 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hollanpetters">hollanpetters</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Norway &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Performance Center guns originate from standard designs or are created from the ground up. From hand-cutting and fitting to fine tuning for precision, these firearms are top performers. Products from the Performance Center are the ultimate expression of old-world craftsmanship blended with modern technology.</p>
+
+<p>ALL BACKED BY SMITH &amp; WESSON'S LIFETIME SERVICE POLICY!!</p>
+
+<p>Caliber: .357 Magnum / .38 S&amp;W Special</p>
+
+<p>Capacity: 7 Rounds</p>
+
+<p>Action: Single/Double Action</p>
+
+<p>Barrel Length: 2.5” (6.4 cm)</p>
+
+<p>Front Sight: Red Ramp</p>
+
+<p>Rear Sight: Adjustable</p>
+
+<p>Grip: Custom Wood</p>
+
+<p>Weight: 34.6 oz. (980.9 g)</p>
+
+<p>Overall Length: 7.5” (19.1 cm)</p>
+
+<p>Material: Stainless Steel Frame &amp; Cylinder</p>
+
+<p>Finish: Glass Bead </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/81785"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/81785">Çustomlisting</a> (<span title='387 EUR'>387&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arcre8t0r">ARCre8t0r</a></span>&nbsp;(<span class='green' title='Positive feedback'>1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2500">Self-defence</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2502">Guns and ammo</a>
+</li>
+<li class='active'>Model 686 7-Shot .357 Magnum 2.5&quot; 170346</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

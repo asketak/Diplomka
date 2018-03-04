@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8gwzXV89kCryNyYfzPcbLyyopqJEkkR96QVe3gDYIpg/qH3N69owIrHyI+Kgi9873bIAkHcz8kmuzQxPXW4Hjg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/528e08705f298fc4f7b7512d2b27f3c75a7a78c2.jpg?1516134948"><img src="/kuvat/tuotekuvat/20a53a4964da820b1a0677b16a105758f1449b25.jpg?1516134948" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Citomed (T3) - 60 tb/50 mcg - Balkan Pharma</h1>
+<ul class='list-unstyled specs'>
+<li>53 EUR <em>(0.006803 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FIRA+LO3Q+qehLaP3O1Bhtzd8IuEminkmeXUvYDBQ8HZIA5oB1Dj4t1Bs3KwkYWSLcdWubc7n9DeLYYs3Xdm1w==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="673256">Domestic shipping to Holland (included)</option>
+<option value="673257">Tracked shipping to Europe (+5 EUR)</option>
+<option value="673258">Additional product (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102837" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Cytomel is not an anabolic/androgenic steroid but a thyroid hormone. As a substance it contains synthetically manufactured liothyronine sodium which resembles the natural thyroid hormone tricodide-thyronine. The thyroid of a healthy person usually produces two hormones, the better known L-thyroxine and the aforementioned L-triiodine-thyronine. </p>
+
+<p>Dosage:</p>
+
+<p>As for the dosage, one should be very careful since Cytomel is a very strong and highly effective thyroid hormone. It is extremely important that one begins with a low dosage, increasing it slowly and evenly over the course of several days. Most athletes begin by taking one 25 mcg tablet per day and increasing this dosage every three to four days by one additional tablet. A dose higher than 100 mcg/day is not necessary and not advisable. It is not recommended that the daily dose be taken all at once but broken down into three smaller individual doses so that they become more effective. It is also important that Citomed not be taken for more than six weeks. At least two months of abstinence from the drug needs to follow. It is also important that the dosage is reduced slowly and evenly by taking fewer tablets and not be ended abruptly.</p>
+
+<p>How to use:</p>
+
+<p>It is important to stress that a cycle should last no longer than 6 weeks and it should never be halted abruptly. As slowly as the dosage was built up it should also be lowered, one tablet every 3-4 days. Taking Citomed for too long and/or at too high a dosage can result in a permanent thyroid deficiency. After doing such, one might need to be treated with a drug like Cytomel for life. It is also a good idea to first consult your physician and have your thyroid function tested. An undiagnosed hyperfunction would not mix well with the added hormone. An athlete should also be sure never to purchase an injectable form of the drug. It is generally an emergency room product, much too powerful for athletic use. Since Cytomel is the most powerful thyroid hormone athletes are using, this is generally not the starting point for a beginner. Before using such a powerful item, it is a good idea to become familiar with a weaker substance.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic shipping to Holland) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/67493"><img src="/kuvat/tuotekuvat/b95d8aa8358afec9e31c13da4f0171010368c55c.jpg?1477260067" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67493">Cerberus Pharma Sustanon 250mg</a> (<span title='37 GBP'>42.04&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/13298"><img src="/kuvat/tuotekuvat/20274aa45137cc67f39bf09ec079845fcabd78ff.jpg?1455970285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13298"> ANAVAR 50MG X 60 TABLETS IS PHARMACEUTICALS </a> (<span title='50 GBP'>56.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98425"><img src="/kuvat/tuotekuvat/2ad14c7d1e6070a5433078e716b70bc2d483f4e4.jpg?1502953053" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98425">Metandienone 50tabs/20mg *(UUTUS!)</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52324"><img src="/kuvat/tuotekuvat/88cd55214e327220cf0d512a437b233386a12474.jpg?1515682893" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52324">Clenbuterol Inj | 1vial (10ml) (80mcg/ml) - Bodypharm (Clen)</a> (<span title='49 USD'>39.85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20206"><img src="/kuvat/tuotekuvat/54bba251a922bc43241adba96c1b4cf9682c80b9.jpg?1455971953" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20206">Medigen Dianabol 20mg X 200 Tabs. </a> (<span title='52 GBP'>59.08&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1331</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Citomed (T3) - 60 tb/50 mcg - Balkan Pharma</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

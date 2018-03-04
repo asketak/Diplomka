@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="a+bEj4gr6CgpcZVMe8LLRjEzVFxJeb0X/AqDaccz1JSmQoofPMxIIGq0kLEXvg9SwCnybnrYCyO7wtH4moXxgg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2b47f94d927e389b7afdbd2a819367ae0cdd744e.jpg?1510750865"><img src="/kuvat/tuotekuvat/53ca55bb398a47771c354daf15de2610f51df7f7.jpg?1510750865" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Dol-u-ron forte (Panacod) 1000/60mg 3kpl</h1>
+<ul class='list-unstyled specs'>
+<li>20 EUR <em>(0.002565 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pur-sang">Pur Sang</a></span>&nbsp;(<span class='green' title='Positive feedback'>1756</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>3kpl 1000/60mg Dol-u.ron forte-pillereitä. Sama kuin Panacod, huomaa vahvuus!</p>
+
+<p>Vaikuttava aine metyylimorfiini, joka on opioideihin kuuluva lääkeaine, jota käytetään muun muassa kipulääkkeenä ja yskänlääkkeenä sekä huumausaineena. Kodeiinia saadaan oopiumiunikosta. Kodeiinia voidaan valmistaa joko oopiumista eristämällä tai synteettisesti morfiinista. Kodeiinin teho perustuu sen metaboloitumiseen maksassa morfiiniksi, mutta sen analgeettinen vaikutus on morfiinista vain noin kymmenesosan.</p>
+
+<p>Luethan profiilimme ennen tilaamista.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5 aina 
+<em>(12.1.)</em>
+</td>
+<td><span>
+os***i1
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/14719"><img src="/kuvat/tuotekuvat/5134c7148cbfc037587e45a21cbb03ccaebb0b6e.jpg?1455970647" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14719">1g China White Synthetic Heroin</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102498"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102498">Panacod Pore 30/500 (10kpl) *Suomituote*</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ksanori">Ksanori</a></span>&nbsp;(<span class='green' title='Positive feedback'>121</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18841"><img src="/kuvat/tuotekuvat/bd9ae357cdd7832748ed5ef632d38493ac8ef9e0.jpg?1455971716" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/18841">Zomorph 10mg x10 Capsules</a> (<span title='22 GBP'>25.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38540"><img src="/kuvat/tuotekuvat/5295dd635a65868623219d23e8201caf5c5c2426.jpg?1461531654" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38540">0,25 G ★★ HEROIN UNCUT AAA+ HQ ★★ GERMANY SHIPPING ★★</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/9193"><img src="/kuvat/tuotekuvat/8fe142ee55788ff3cdb1803ffa9c99f079bd9ffb.jpg?1455969712" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/9193">1gm MAGIC MONK SMOKING BALL&#39;S - POWER OF BOOM BOOM</a> (<span title='35 USD'>28.48&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenstore">greenstore</a></span>&nbsp;(<span class='green' title='Positive feedback'>837</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1302">Codeine</a>
+</li>
+<li class='active'>Dol-u-ron forte (Panacod) 1000/60mg 3kpl</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.44 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ek3yWnEtInLNcjL1DqA5/I/+qpzVQWGKwanwQk0vR9e36bzKxcqCeo63Nwhi3P3ofuQMrubg176GYaLTEJliwQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8fefda17ea896a02c82bd27085df6d8b1e04fb12.jpg?1468609801"><img src="/kuvat/tuotekuvat/c5a9401b04d95174f55f737f08239cfeb285267d.jpg?1468609801" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>[PROMO] 1x RED DEFQON.1 [240~250MG DUTCH MDMA]</h1>
+<ul class='list-unstyled specs'>
+<li>6.49 EUR <em>(0.000832 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hank_scorpio">hank_scorpio</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cOxHfSC+JHajTsp1+YK6th53yeVfAtNK2Tk+f5N9abO9SAntlFmEfuCLz4iV/n6i721v12yjZX6e8WzuzstMpQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="215940">Free shipping - GERMANY - untracked (included)</option>
+<option value="215941">EU - untracked (+1.5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52609" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This is an offer for 1x Red Defqon.1 XTC pill containing 240~250mg of the finest dutch MDMA. These pills deliver a wonderful and smooth ecstasy experience.</p>
+
+<p>Successors of the Orange Burger King pills.</p>
+
+<p>Best to start with half a pill.</p>
+
+<p>Higher resolution image: http://www.xup.in/dl,13464463/DEFQON_1200.png/</p>
+
+<p>Substance information: MDMA (https://www.erowid.org/chemicals/mdma/mdma_effects.shtml)</p>
+
+<p>Free shipping within Germany!</p>
+
+<p>Estimated delivery time: 24 hours (same-day shipping if order(s) placed until 17/00!)</p>
+
+<p>And as always:</p>
+
+<p>FULL ESCROW!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23266"><img src="/kuvat/tuotekuvat/ae33386dc610a88742d9935fd5c7cbdeec86950e.jpg?1455972445" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23266">1 gram crystal MDMA SAMPLE 85% pure</a> (<span title='11.5 USD'>9.36&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>580</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/80526"><img src="/kuvat/tuotekuvat/32636520fc24992be83e2fcd306a7a0a85b89656.jpg?1484500796" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/80526">1x Kissing Lips XTC Pills 200mg MDMA </a> (<span title='10 USD'>8.14&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ruffneckrules">Ruffneckrules</a></span>&nbsp;(<span class='green' title='Positive feedback'>45</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/74561"><img src="/kuvat/tuotekuvat/722b0e5a2a24784ed6873029cac62d746a02e5ec.jpg?1481093300" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74561">20 PILS 8MG PROZAC-OFFER-OFFER- (Reconcile/FLUOXETINE)</a> (<span title='5.5 EUR'>5.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/orangeone">Orangeone</a></span>&nbsp;(<span class='green' title='Positive feedback'>33</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24606"><img src="/kuvat/tuotekuvat/066993e3ebbd1cdacf73cf5777294a1e18f27d1c.jpg?1455972706" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24606">SUPER DEAL! 1gr MDMA Crystals 85% PURE</a> (<span title='9.5 EUR'>9.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/21265"><img src="/kuvat/tuotekuvat/fce64a0150a9218d6c6e6c8d626c63a6208743bd.jpg?1459974230" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/21265">0,5 gr MDMA purest (87%)</a> (<span title='8.2 EUR'>8.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>428</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>[PROMO] 1x RED DEFQON.1 [240~250MG DUTCH MDMA]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

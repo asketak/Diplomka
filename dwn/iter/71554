@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SAV9LJ+2Sj0kEqD5aKfTT3wcI0hAnHOITbU6e32oAtmFoTO8K1HqNWfXpQQE2xdbjQaFenM9xbwKfWjqIB4nzw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/24032608484557ffc6e7486656b2e41561c0b7c6.jpg?1479421847"><img src="/kuvat/tuotekuvat/1e93baf4f95a196df82945a7c8526d88b46931c4.jpg?1479421847" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5 PROFESSIONAL CANNABIS SEEDS *Amnesia Haze Feminized Autoflower</h1>
+<ul class='list-unstyled specs'>
+<li>25 EUR <em>(0.003227 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/thehappycrew">TheHappyCrew</a></span>&nbsp;(<span class='green' title='Positive feedback'>856</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0gaCPgyxRAnuyhI5pWYh+hAkUWn/lba6Q+DGB0yBX7AfosyuuFbkAa0PF8TJGuXu4T73W8w0AI4EKJSWETd6pg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="629703">Domestic Netherlands (included)</option>
+<option value="629704">EURO ZONE from NETHERLANDS (+0 EUR)</option>
+<option value="665440">WORLDWIDE STEALTH  (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="71554" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>PROFESSIONAL CANNABIS SEEDS PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>5 SEEDS 25,- Euro  *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>10 SEEDS 47,- Euro  *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>25 SEEDS 112,- Euro  *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>50 SEEDS 200,- Euro *FE *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>100 SEEDS 350,- Euro *FE  *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>250 SEEDS 800,- Euro *FE *custom order, please contact us *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>500 SEEDS 1500,- Euro *FE *custom order, please contact us *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>1000 SEEDS 2500,- Euro *FE *custom order, please contact us *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>1000+ seeds *FE *custom order, please contact us *PICK YOUR STRAIN ALL COMBO'S GO!!!</p>
+
+<p>Please make sure to state the Quantity and desired STRAIN(S) in your order and/or send us a message with your order number, the Quantity and desired STRAIN(S)</p>
+
+<p>AK-47 x Lowryder AUTOFLOWER FEMINIZED
+<br />AK-47 x Lowryder FEMINIZED</p>
+
+<p>AMNESIA HAZE AUTOFLOWER FEMINIZED
+<br />AMNESIA HAZE FEMINIZED</p>
+
+<p>JACK HERER FEMINIZED</p>
+
+<p>NORTHERN LIGHTS AUTOFLOWER FEMINIZED
+<br />NORTHERN LIGHTS FEMINIZED</p>
+
+<p>SILVER HERER FEMINIZED</p>
+
+<p>WHITE WIDOW AUTOFLOWER FEMINIZED
+<br />WHITE WIDOW FEMINIZED</p>
+
+<p>*AK-47 x Lowrider AUTOFLOWER FEMINIZED</p>
+
+<p>An automatic version of the AK47. Created by crossing the AK with the Lowryder, stabilizing her while maintaining the original AK47 characteristics. AK produces hard buds with an exceptional penetrating aroma. AK is an indica/sativa hybrid yet it retains most of its sativa qualities in its high.
+<br />Extremely STRONG odor and smoke. An occasional leaf mutation can occur, but this is familiar with this strain.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : Yes
+<br />• Medical value : Medium
+<br />• Medical use : Mainly for pain and stress relief.
+<br />• Effect : Happy, uplifting and even euphoric
+<br />• Lineage : AK-47 x Lowryder
+<br />• Genetics : Indica (50%) Sativa (50%)
+<br />• Location : Indoor / Greenhouse / Outdoor
+<br />• From seed 2 crop : ± 70 Days (10 weeks)
+<br />• Flowering (indoor) : ± 56 Days (8 weeks)
+<br />• Outdoor (harvest) : n/a
+<br />• THC : Very High 20%
+<br />• CBD : Medium
+<br />• Yield (gr/plant) : 30 -&gt; 50 (± 120 gr/m2)
+<br />• Stature (cm) : Stealthy and Compact (50/70)
+<br />• Grow level : Novice (Easy)</p>
+
+<p>*AK-47 FEMINIZED</p>
+
+<p>This easy to grow strain is one of the most popular. It is of medium height and produces good yields quite quickly. It is an extremely strong smoke, and in turn has a very strong odor. The name was given not out of any idea of violence, but more in association with the ‘one hit wonder’ that the smoke is. These plants have a short flowering period for a sativa, producing compact, not too leafy buds that gleam with a coat of resin crystals.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : Good
+<br />• Medical use : Mainly for pain and stress relief.
+<br />• Effect : Happy, uplifting and even euphoric
+<br />• Lineage : Colombian x Mexican x Thai x Afghani
+<br />• Genetics : 65% Sativa / 35% Indica
+<br />• Location : Indoor / Greenhouse / Outdoor
+<br />• From seed 2 crop : ± 84 Days (12 Weeks)
+<br />• Flowering (indoor) : ± 64 Days (± 9 weeks)
+<br />• Outdoor (harvest) : October
+<br />• THC : Very High (20%)
+<br />• CBD : Medium
+<br />• Yield (gr/m2) : High (450/500)
+<br />• Stature (cm) : Small (50/80)
+<br />• Grow difficulty : Medium / advanced</p>
+
+<p>*AMNESIA HAZE AUTOFLOWER FEMINIZED</p>
+
+<p>The Amnesia Haze Automatic is the result of many years breeding. The biggest downside of Sativa strains like Amnesia is that it can take a while to flower, 12 weeks on average, but some phenotypes can take up 20 weeks. She can also grow quite tall; this can be another issue for some with limited space. The Amnesia Haze Automatic aims to solve these problems. Offering the same euphoric high and spicy, sweet taste as the original Amnesia but with a heavily reduced growth time and a much smaller height. Indoors she will take around 80 days from seed to bud. In this time she can grow quite large, especially when compared to other autoflowering strains. This is a clear sign of her Sativa dominant genetics - tall plants, large thin leaves and long stretching buds. The Amnesia Haze Automatic is a vigorous plant that can grow to heights of around 80-150 cm. This large Sativa dominant autoflowering strains, much like the original Amnesia, gives generous yields of high quality haze buds. After 80 days of growth and flowering you will be left with a good yield, around 40 grams on average and up to 150 grams in ideal conditions. She gives long, fox tail like buds with a sweet, spicy, musky aroma. All in all she has the classic Amnesia aroma, flavor and effect. The Amnesia Haze Automatic is the perfect autoflowering variety for lovers of the Haze.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : Yes
+<br />• Medical value : High
+<br />• Medical use : Stress relief and anti depression.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Amnesia Haze x Ruderalis
+<br />• Genetics : Sativa (50%) – Indica (50%)
+<br />• Location : Indoor / Greenhouse / Outdoor
+<br />• Flowering (indoor) : ± 58 Days (± 8 weeks)
+<br />• From seed 2 crop : ± 76 Days (± 11 weeks)
+<br />• Outdoor (harvest) : n/a
+<br />• THC : High (18%)
+<br />• CBD : Medium/High
+<br />• Yield (gr/plant) : 65 -&gt; 85 (± 210 gr/m2)
+<br />• Stature (cm) : Balanced beauty, Medium Height (± 80)
+<br />• Grow level : Veteran (Medium/Advanced)</p>
+
+<p>*AMNESIA HAZE FEMINIZED</p>
+
+<p>Amnesia is an unforgettable cannabis strain that is roughly 80% Sativa and the remaining 20% Indica. The plant itself is popular as a medicinal cannabis and it smells of cheese while carrying a very strong taste that even has hints of skunk to it.
+<br />One of the reasons for the popularity of Amnesia is its high THC level, typically around the 20% mark, but also because it offers a body buzz as well as a euphoric high which makes for a great combination. It is reported that the high kicks in after around 10 to 15 minutes.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : High
+<br />• Medical use : Anti depression, relaxation &amp; stress relief.
+<br />• Effect : Euphoric, happy feeling, clear uplifting high.
+<br />• Lineage : Amnesia Haze
+<br />• Genetics : 80% Sativa / 20% Indica
+<br />• Location : Indoor / Outdoor / Greenhouse
+<br />• From seed 2 crop : ± 84 Days (± 12 Weeks)
+<br />• Flowering (indoor) : ± 64 Days (± 9 weeks)
+<br />• Outdoor (harvest) : October
+<br />• THC : Very High (20 – 22%)
+<br />• CBD : Medium
+<br />• Yield (gr/m2) : High (450/600)
+<br />• Stature (cm) : Average (80/200)
+<br />• Grow difficulty : Advanced</p>
+
+<p>*NORTHERN LIGHTS AUTOFLOWER FEMINIZED</p>
+
+<p>This incredible Indica offers the best of both worlds - the legendary genetics of the original Northern Lights combined with the most recent advances in auto-flowering feminized cannabis strains. The stunning result is a potent, reliable, pungent feminized plant, able to rapidly produce chunky, crystal-covered buds covering its compact structure. </p>
+
+<p>Both novices and connoisseurs will appreciate this quick and easy new addition to the Northern Lights family of premium marijuana. By being carefully bred as an auto-flowering strain, the classic Northern Lights flavor has been retained, with an addition of refreshing citrus notes. The effect is pleasantly strong and deeply relaxing - inexperienced smokers may wish to enjoy this heavyweight Indica slowly to avoid being overwhelmed.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : Yes
+<br />• Medical value : Good
+<br />• Medical use : Helps with anxiety, migraines, PTSD and PMS.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Northern Lights x Mexican Ruderalis
+<br />• Genetics : 80% Indica dominant
+<br />• Location : Indoor / Greenhouse / Outdoor
+<br />• From seed 2 crop : ± 70 Days (10 weeks)
+<br />• Flowering (indoor) : ± 56 Days
+<br />• Outdoor (harvest) : n/a
+<br />• THC : High (18%)
+<br />• CBD : Medium
+<br />• Yield (gr/plant) : 30 -&gt; 50 (± 120 gr/m2)
+<br />• Stature (cm) : Stealth, high flower to leaf ratio (60/80)
+<br />• Grow difficulty : Novice (Easy) </p>
+
+<p>*NORTHERN LIGHTS FEMINIZED</p>
+
+<p>As far back as the Eighties, Northern Lights was setting the standard by which other Indicas are still judged and she remains one of the most trusted names and sought-after varieties in modern cannabis culture. For many years, Northern Lights dominated the various harvest festivals, winning cup after cup, leading to more than one request that she be retired from competition in order to allow other strains a shot at the title. 
+<br />With this new Northern Lights, the legendary Afghani Indica makes her debut as a feminized strain! With no need to identify and eliminate males, it’s never been easier to grow the definitive example of cannabis Indica - Northern Lights from Sensi Seeds.
+<br />Like most of her family, Northern Lights Feminized is usually grown indoors, under lights, though this strain can also perform very well outdoors in a warm, sunny Mediterranean climate.
+<br />Northern Lights Feminized continues the traditions of her classic ancestors; she produces fast, solid harvests with surprisingly little growing-odour. Nevertheless, her buds are sweetly fragrant and, due to their thick coating of THC-rich trichomes, remarkably powerful!</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : Moderate
+<br />• Medical use : Mainly stress relief and anti depression.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Northern Lights #1
+<br />• Genetics : Indica (80%) Sativa (20%)
+<br />• Location : Indoor / Outdoor / Greenhouse
+<br />• From seed 2 crop : ± 74 Days (± 11 weeks)
+<br />• Flowering (indoor) : ± 60 Days (± 9 weeks)
+<br />• Outdoor (harvest) : Late September
+<br />• THC : High (18%)
+<br />• CBD : Moderate
+<br />• Yield (gr/m2) : Moderate (350/450)
+<br />• Stature (cm) : Average (100/130)
+<br />• Grow difficulty : Medium</p>
+
+<p>*WHITE WIDOW AUTOFLOWER FEMINIZED</p>
+
+<p>One of the most famous names in the Amsterdam coffeeshop scene, White Widow has held its own against newer strains for almost two decades! Building on the success of the regular and feminized versions, White Label has added an auto-flowering version to the family: White Widow Automatic. This powerhouse hybrid blends the 70% indica, 30% sativa composition of the original with carefully selected Ruderalis crosses to create a new variety with all the appeal and strength of the original, but now in a form that’s even easier to cultivate! </p>
+
+<p>The advantages of auto-flowering strains for both indoor and outdoor growers are manifold. Light cycles and even light spectra cease to be a concern in either environment, as the plants will begin flowering at a certain point in their life cycle no matter what the ratio of hours of light to darkness is. Another special quality of this autoflowering cannabis seed strain is its ability to complete its flowering cycle undisturbed, even in a growing environment that would cause problems for regular and feminized strains - for example, one with irregular hours of light and darkness, or even considerable light pollution during the dark hours. </p>
+
+<p>For White Widow Automatic, the first signs of flowering begin to show in the third or fourth week after germinating the autoflowering cannabis seeds. The flowering period continues for another six or so weeks, meaning that White Widow Automatic can go from seed to harvest in as little as 75 days. For outdoor growers in temperate to warm climates, this means the potential to harvest two crops from the same area during one summer; for indoor gardeners, three or even four crops per year could be achieved.</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : Yes
+<br />• Medical value : Medium
+<br />• Medical use : Stress relief and anti depression.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Indian Indica x Brazilian Sativa x Lowryder
+<br />• Genetics : 60% Indica dominant
+<br />• Location : Indoor / Greenhouse / Outdoor
+<br />• From seed 2 crop : ± 70 Days (10 weeks)
+<br />• Flowering (indoor) : ± 56 Days
+<br />• Outdoor (harvest) : n/a
+<br />• THC : High 18%
+<br />• CBD : Medium
+<br />• Yield (gr/plant) : 30 -&gt; 50 (± 120 gr/m2)
+<br />• Stature (cm) : Straight &amp; Stealthy (50/60)
+<br />• Grow difficulty : Novice (Easy) </p>
+
+<p>*WHITE WIDOW FEMINIZED</p>
+
+<p>The backbone of the Dutch coffee-shop industry, the first of the "white weed" strains and an all-round commercial success story, White Widow is one of the most famous cannabis strains in modern growing. While this is partly due to her memorable name, her speed, yield and stunningly thick coating of trichomes have a lot more to do with it! Mostly-Indica, with sweet, thick, acrid smoke that imparts a hammering stone, White Widow is a major part of many visitors’ first experience of Amsterdam. White Widow grown from seed is very easy to clone, and is a good plant with which to perfect your technique. </p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : Medium
+<br />• Medical use : Stress relief and anti anxiety and depression.
+<br />• Effect : Energetic uplifting high, inspiring creativity.
+<br />• Lineage : White Widow
+<br />• Genetics : Indica (60%) – Sativa (40%)
+<br />• Location : Indoor / Outdoor / Greenhouse
+<br />• From seed 2 crop : ± 76 Days (± 11 weeks)
+<br />• Flowering (indoor) : ± 60 Days (± 9 weeks)
+<br />• Outdoor (harvest) : Late September
+<br />• THC : High (18%)
+<br />• CBD : Medium
+<br />• Yield (gr/m2) : Medium (400/500)
+<br />• Stature (cm) : Average (80/120)
+<br />• Grow difficulty : Novice (Easy)</p>
+
+<p>*JACK HERER FEMINIZED</p>
+
+<p>Jack Herer is known as one of the finest cannabis varieties ever created and is often referred to as the 'champagne of strains'. Jack Herer is therefore the Méthode Champagnoise of top-class cannabis hybrids. While not quite in the same league as the true elixir, she's far superior to 'sparkling white wine' and miles ahead of the various low quality 'Jack' copies. </p>
+
+<p>Jack Herer is a subtle f2 variation on the original f1 strain, with parents selected from the award-wining JH gene pool. Phenotype variation remains quite large, with most examples leaning towards Sativa - tall, energetic, Hazey plants with fabulous resin production and an uplifting, almost psychedelic effect. 
+<br />Females with very strong Sativa traits combined with good yield and manageable size are common among plants grown from these seeds, and such individuals should be preserved as mother plants by anyone who wishes to produce ganja that's as good as it gets. </p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : High
+<br />• Medical use : Stress and pain relief, helps with anxiety and arthritis.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Skunk #1 x Northern Lights #5 x Haze
+<br />• Genetics : Sativa (80%) – Indica (20%)
+<br />• Location : Indoor / Outdoor / Greenhouse
+<br />• From seed 2 crop : ± 74 Days (± 11 weeks)
+<br />• Flowering (indoor) : ± 60 Days (± 9 weeks)
+<br />• Outdoor (harvest) : Late September
+<br />• THC : Very High (20%)
+<br />• CBD : Medium
+<br />• Yield (gr/m2) : Medium (450/550)
+<br />• Stature (cm) : Tall and branchy (150/180)
+<br />• Grow difficulty : Medium / Advanced</p>
+
+<p>*SILVER HAZE  FEMINIZED</p>
+
+<p>• Feminized : Yes
+<br />• Autoflowering : No
+<br />• Medical value : Low
+<br />• Medical use : Stress relief and anti depression.
+<br />• Effect : Euphoric, happy and uplifting.
+<br />• Lineage : Haze, Skunk and Northern Lights
+<br />• Genetics : Sativa (90%) – Indica (10%)
+<br />• Location : Indoor / Outdoor / Greenhouse
+<br />• From seed 2 crop : ± 80 Days (± 11 weeks)
+<br />• Flowering (indoor) : ± 65 Days (± 9 weeks)
+<br />• Outdoor (harvest) : October
+<br />• THC : High (18%)
+<br />• CBD : Moderate
+<br />• Yield (gr/m2) : High (400/500)
+<br />• Stature (cm) : Medium (70/100)
+<br />• Grow difficulty : Medium / Advanced</p>
+
+<p>***BY BUYING THIS PRODUCT YOU AGREE ON AND ACCEPT OUR POLICY!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/98304"><img src="/kuvat/tuotekuvat/fe27ceeb09c3e4701ff9786f672ee0e89e5dbe55.jpg?1506059786" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98304">Sour Diesel - [2 SEEDS] [FEMINIZED] [GIFT]</a> (<span title='34.99 USD'>28.47&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91803"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91803">5kpl White Widow siemeniä</a> (<span title='21.2 EUR'>21.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/senaatintori">Senaatintori</a></span>&nbsp;(<span class='green' title='Positive feedback'>88</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2100">Cannabis growing</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2101">Seeds</a>
+</li>
+<li class='active'>5 PROFESSIONAL CANNABIS SEEDS *Amnesia Haze Feminized Autoflower</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+
