@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yVXYKnwFTpq5+PCsSvw5c7ngd3UJaVmcbpQkUjHO73ORkl596vktvu2xqWT4xfAn/fFymxEyMWXDTrAzod6dxQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>UKBargains</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 26 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to UKBargins</p>
+
+<p>We have in our stock Fentanyl HCL, Furanyl Fentanyl; 4-Fluoroisobutyrfentanyl and AcrylFentanyl. All our products have been tested to be over 98%. We get the products directly from the source and that's how we sell it.</p>
+
+<p>We also have professionally mixed two types of synthetic heroin or 'china white' using a V-20 powder mixer.</p>
+
+<p>1- Fentanyl hcl/mannitol mix</p>
+
+<p>2- Furanyl Fentanyl/mannitol mix</p>
+
+<p>The Fentanyl hcl mix is 4x the potency of the Furanyl fentanyl mix.</p>
+
+<p>Our cut off time for orders is 12am GMT.</p>
+
+<p>For bulk orders message us we provide 24/7 support.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFcH9CEBCAC6Nn9LxavWdkYwdIUfv35IaCYYpnBEjpm+RjIfg3kvElwwm0Z/
+UWz7ncEsO4e2UczSZnrKerfns13Clycev7FLR1xfGuHarS1bWevORVbFUbc8/747
+KHQXCzlrCPoIMSGjQWqZzEST9fli50hrGhtQuKJXmFjT+vQAFsQiEtYgcRYWWnc2
+UJBBOmQBs5/tz3Vea+CHqMzeW+IP+JChbE6OxGtBGOBXRtJf9EOMkdQMJ9w74IZy
+yzENf4c6IEdrGa/pqvL3XWG3TB59zDM/wN6gt/jgBXwNsQ4GIsca17NrL9VQkhgW
+jJzB4zPpD5hIePifGprf3JTw6G6feO0MFXjBABEBAAG0GGpvamRkYWQgPGFqZGFr
+ZEBhb2wuY29tPokBOQQTAQgAIwUCVwf0IQIbAwcLCQgHAwIBBhUIAgkKCwQWAgMB
+Ah4BAheAAAoJEO/YtijAhn1RIi0IAIM6P9m/EmZAWX/cHYTPQ75WGpl4lC9ax1RV
+46wrPN1nIM+s/2BbriKVHKw2cUiWMT1I+Pb2rwg8cn/eAjIzOmcuzx25oKpAmcuM
+9LW+00eA/5ho3M4HozUieENiP7iyx2b+JfCOD9irTr/hf2e5iatQV5LpeXvOWKm2
+JFYj/69ZOAO1wS6Jp7Ua543zRef8F3639ivu0uyv4dgci5Oh/PNRZskC7YUdB2wZ
+rytl8puTsHAFRsGchbzkL+RdXaIv/61YRlcl1RPwvjUiFA7uhG/NgsfFywK1Rsdd
+lzEQbVwtZflUluqernIpGow6MnL/FDYeeK6wukTXx9q1VF9chwK5AQ0EVwf0IQEI
+AKzkyViPOX1dvzBnoJGgXnarJ3aPAIkX5vzeaa/4Rw8RoowpVw6pZWvz2NnX95Hw
+O/eSuSqQpM3CBnj3e18fn+wSCXOL1MJofWrWqQnxbULFv78xd9wwJvzV689hlJom
+eHjeIPUP5RFWC6nCAvcN0y129LTXIMwHvaS4cMcvP7JA+PClEUvllggxs0xPUaYC
+k1HBXKJPdmpTxPGxt4c2vezos1BRcDaaUsqh+q/RjVuXxr9rEh66+172WTWfPE96
+d8pPF8GKJ8XRRLYc5qzVQH8eTHndyIybyiPxjG618ImnuX5htwwiEA9eC98RW6DT
+WHQR85phBQlw3mZA2Kf2hr0AEQEAAYkBHwQYAQgACQUCVwf0IQIbDAAKCRDv2LYo
+wIZ9UVJNB/0RS8Ff+0N9ukO1ojYDfrwOxvTmBMjqyVwIsNVen+cqYqoZ/ggm62bD
+GxOAwnD57sg1AIWLg1/bVvl9g/CYdY7VEuiwy6+qkYdevglVodqoviPI13Qq+7JV
+gnIv0zosD+y9v5uv0A0YXrQIdVM8y9Q/vGIyn0ULKpewNJmVqX8WQjswY/sWavgx
+8bzXvgNFuplsBLl2vs7Tw4+NEbHEei+DntSVSHuTzp4WyRsbOKXXCQBMFfyTTPyO
+q1Qoqq/PR0OmV+G6GcipIupgydyDIOMTr7jEbo4aYrDWSDvjaeSWWbLde8fBE4gG
+4GHS4gJK+0kz3eH+IFT/5kL+gxHBBKOE
+=bwg1
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

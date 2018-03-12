@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DDwzeEC31+RW9I3g/E7Gy+Bu5nz0MDPNzXtPY/j3it5U+7Uv1ku0wAK91ChOdw+fpH/jkuxrWzRgodsCaOf4aA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Ipisscodeine</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>6</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 1745 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We are an old vendor from EVO and AlphaBay Marketplace with over 350 sales and 240+ 5/5 feedbacks now vending on Valhalla</p>
+
+<p>We are users of all our products so know the importance of having exceedingly excellent quality. All products are 100% true to description.
+<br />We have over 10 years experience outside of the dark net and have always valued honesty and punctuality.
+<br />We recognize this community is solely based on trust, therefore we will always honor our commitments and will endeavor to be professional with all purchases made through us. Our main forte is pure uncut raw cocaine which is produced deep in the jungle of South America.
+<br />We also have many sources for a variety of other high quality products which will be posted as we come in contact with them!!!</p>
+
+<p>SHIPPING AND PACKAGING</p>
+
+<p>All products ordered before 2pm will be dispatched the same day for next day delivery but we will try fulfill any orders after 2pm for next day.
+<br />All packages will be sent 1st class in packaging that will fit straight through the letterbox.
+<br />Our prices will reflect on our stealth, once you receive you will understand the length of effort we have gone through.</p>
+
+<p>ALL EUROPEAN BUYERS</p>
+
+<p>-new customers without any or little transactions will get no reship or refund
+<br />-returning an frequent buyers on Valhalla with 3+ transactions will receive a 75% reship or 50% refund on the product purchased.</p>
+
+<p>FEEDBACK</p>
+
+<p>Please finalize your product as soon as received and leave honest feedback ASAP.
+<br />Please do not leave any negative feedback before being in contact with ourselves. We will aim to reply within 24 hours of receiving any message.</p>
+
+<p>We are also on AlphaBay with the same name IPISSCODEINE
+<br />Please check our PGP to confirm.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFchLZsBCAC6h2qyCuIxo/SFBEv1vgZfq9ndKIUj1QzHS6KsA74ZuxoWT+p/
+uXmaI9Wkyk1f+VyJzmKYGzsPfPzf9ltL6h+omADW1Vr+u4zgx7XAHWQnMw4U49qJ
+tmb8AX8TxrbVNouDrINCEEd9uEA9l8tk+W6sKjrr7wJk/z8Cqg+ffHahN/SxN9f4
+FGR/4sxuL7HhAeQMl1Fq9YtVqMCNsXcQaEAH76tlamgWwkcDCltmAfxO4wKM4K+k
+r2KXKeAsVsRVX4jaspjZ2uLZ2Bp0IarJI+PIe+uMywtzQFrPk7VGsSSPSxux/NaI
+kkFN45tbTtJYloL2deK25oL3FeFPNT0wAk7dABEBAAG0J3Bpc3Njb2RlaW5lIDxJ
+cGlzc2NvZGllbmVAZHJhbmtnb2QuY29tPokBOQQTAQgAIwUCVyEtmwIbAwcLCQgH
+AwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEDghpJstZUY+rjsH/1MrP3RKX30o0+JA
++o35pWqsBSFSfPt6WuYMdkb4RP7ToRaYOzAJn52n2FQGAQNbSQUVzAIAGe/Fr5f5
+FZoUTO0cL1stOVBa2Bv5zxi2mD5seBh7eKguSm8guJtCOz0PR8H+0V+BpSJarUTd
+nC96utyt55T33WZ7m5rMJJ2o+aaJxq2gLAPwx3Rtm3rAPUuXQbY/i4bKBdUQnlAy
+OwQmgQru5X1xNPfISXkKvoJUJMWhkJtwJuMDRe7k30eH3POZ22Z5mvw9iMzDH94J
+EFIuNeDpNAkFgjPBeDtxRCjFlypioYeZDBgal+50fL3PEL1utgIkI4qNve3f/CPW
+5hxVo+e5AQ0EVyEtmwEIAPD0x62CiZOCuiS5rEq/Diy8IHpo2rg7RdIlGZACXI6V
+3PgunseZQsztN0/gPn+C2VeHnUVe6rallz3RRjbJ7vLLTETSdTlm/J0gKvb/OGOe
+nui1wautldA05waj7gCu8UOTYEnFj65leBiowLogooYESEHJncaGJG9Ja0qvbrGr
+ETV6uYFapn4rrC7HyS+HIPiMebg+o2PTaM+Poj0XRUZhCBD0P6euIA3cdM6+AoBL
+TC0xI8BibGKEetFRT5hCKxQVsutA13sZ/RsqWhL3Ky8m+DIwSvMgVbduZb2/nEmK
+2+yTxmi27vbVPgVymLMBjhdvf4ixiL68RGZkrAyZx9kAEQEAAYkBHwQYAQgACQUC
+VyEtmwIbDAAKCRA4IaSbLWVGPsoBCACtfKKtyF8OoEKd0OEKXZvEjMJfpReE8zaS
+jkoPeDFYWPCMy4AA3VQNIQVWdmEoZjY4OHIB5i5DEOnmzHZNgvL4ZhkNT4tekLAQ
+SMXuqjm3CaV+j/YXaaGyNjuTzvxdDF2PtIPKc6Y6pjehfxr4l+93mvwH1WW7pKOC
+Z3hmcWLxl+4TIznqYx/L5mw3hw8s8Bo+NNEfOYDkHDLD14CjDePgCyTsgQPhuhQT
+qde+Hb9pTjbLUyDTKnsbJIp+Ukm2Hphb/LtAdkfjYSi9X8m0H3WRxqO96cd7xG1e
+fRx40akDobJHfgR0vSzToIzd+wCA5pNzJ85yBbm9N++Si4vIkCeW
+=SJfW
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

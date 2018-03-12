@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pCqNMWhaOft0R8bipH0N/KwbZot7ojmZfFFQ60gtj4P87Qtm/qZa3yAOnyoWRMSo6ApjZWP5UWDRi8SK2D39NQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Mad-Hatter</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to the Mad-Hatter's mystical shop of wonders! I carry high quality psychedelic products designed to blow minds wide the fuck open.</p>
+
+<p>Check out my Grams profile, and drop a review if you feel I've earned it:</p>
+
+<p>http://grams7enufi7jmdl.onion/infodesk/vendor/0x208F1F4341DB7D69</p>
+
+<p>Profile on Dream (over 250 positive reviews!):</p>
+
+<p>http://lchudifyeqm4ldjj.onion/contactMember?member=Mad-Hatter</p>
+
+<p>--------------------------------------------------------------
+<br />SHIPPING TERMS - READ CAREFULLY</p>
+
+<p>1. Please learn to PGP encrypt, and encrypt your address before sending it to me. If you encrypt it already, there is no need to check the "encrypt message" box. If you do, I'll get an encrypted message with an encrypted message. From now on I will cancel unencrypted addresses and send you a message to reorder and encrypt.</p>
+
+<p>2. Please format your address properly, like so:</p>
+
+<p>Roy Gerbil
+<br />2378 W. Cactus St
+<br />Roy, NM 80211</p>
+
+<p>I will always just copy and paste what you give me, so if you send me an incorrect address and it doesn't get to you, that's on you.</p>
+
+<p>3. Refund/reship policy - I will do a full reship on all packages with tracking, I will first check tracking if your package is late and if it shows up as missing I will do a reship or refund if the product is not in stock. For non-tracked orders, I will do 50 percent refund/reship on orders over fifty dollars.</p>
+
+<p>If your order costs more than thirty dollars and you have zero orders and feedback or shitty feedback, I won't do any refund/reship for orders without tracking.</p>
+
+<p>4. Tracking - For OPSEC reasons, I will not send you the tracking number. If you have any concerns about your order, or if it is running late, send me a message. I'll check the tracking, and I'll let you know where it is.</p>
+
+<p>5. Shipping frequency - I typically ship out about three days a week, during the weekdays. I'm still perfecting the logistics of this, I am a one man operation and have to juggle this with a job and family stuff. My weekends are typically pretty busy, so orders placed on or around the weekend will typically ship Monday night.
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFYy12UBCAC2SDSD57Pwy7mEyyivYgLvvnYgKsjiOVt2cOrvu9EMEZWajzPI
+tTIlNCvm7KiRj6beH4a6Vst2M8DkBOcJHdm2O2yel7168wQHFgxzWWioiJsSD3D6
+nH8/JozpYNyf9pr7eJfzs7Ol2R3HwGv87qz4SVqjperAg2wNQYcHAgUvDUs+u7ug
+DGjtuvq40xHy6yyNNp8IEsDQJpfbDusLRGwUforKYCxLCgPvvZ42/QNxdoAE5dKJ
+NJIKAf3xAJJQyXITYfMKTG1wUhR86drk5LAEjgA1j/LU44+dJeBgXAR8FQErujq9
+f2W8s+c1jyHZH5Q70krJs7svNVoHvEjJYE1jABEBAAG0JE1hZC1IYXR0ZXIgPE1h
+ZF9IYXR0ZXJAaHVzaG1haWwuY29tPokBOQQTAQgAIwUCVjLXZQIbAwcLCQgHAwIB
+BhUIAgkKCwQWAgMBAh4BAheAAAoJECCPH0NB231ptzsH/jTr6bEh/wa+OtFkDmSd
+sJGmfi3Pls2n5s83vlua6CpzncGbyoRS6QXfM1GfOCgaM3bS66GCCSNvQBk6w92K
+m+iGZI0jOVd4A7Ea9sJn5w2k+o3Ib1Kqfpn9GB3tuJZUTUV0jLpmmjw1GB3rHxDU
+7JxYWcyGg9joDRzPLwjIbATZlHBk8N5oZnXO2Jb6523AXA90YyRekyEe+xfNpUvy
+J119W5VEp2A7qK5U5/7/m90glSkmIuQAKltbrN6qBrVwchZOycuU5Jdy9tjGp3eC
+EAICXqsLwnF/8jFMKuGkBYkT2zZnVlYZkAUas6f40HQSQ/7KZX5Zl+PaZMVWchDf
+gci5AQ0EVjLXZQEIAM+h0xQFCDu1+GLj2F/10UaJzZZuix8Z+LDYFeqF7x5atyyg
+2rgARNQTOcz3BnkM/nFS7iwlkJtG/gBqVYSYbM+psKfxHtU6riYOTLbmZXeToB6u
+IxSD4BQRO7bkm/vGp56FrqU8CF5btt6Ozf1LgxJcmUxl9lck/WVJlM1D1+rGwqJX
+jUKkJIf0r6Sa7csALJt0/+95tKHltT0d83Duu71tCCMOmgxtQLbyoDOVVH/EBSGF
+kTv5+x2idc8OQZSwA8Om7X32yGFFK6Ws/V7Ai+iMCZEKoRysh64NtNHY2XSRUYJk
+4WfYfdnkE9I/gLrp/Yj87T9MVoB3HxqAdu5LD2cAEQEAAYkBHwQYAQgACQUCVjLX
+ZQIbDAAKCRAgjx9DQdt9aZuUB/98Ov7DIQA+XdQNX9NfMarwDKPw0yVuLrTBfE0x
+6KkbVMrAktCD9gEnzE7VzSHZ4NPhiwc2fYh2+i5da5kSLxT/6TcFcGfnwp7EmsOU
+fZT9iECUiV4Ae2S244NTFu67IECsoTaDR3KpZSvTXl6s2gml3CKWbz7Gp6qno3Ss
+bCRZ51iRuSWSdHYPbNZeDaZxd2YtS/0AFajplIq9xg7Cj/UB6qM3lwA307YVKdTB
+39BAckHxnNYT8BNGvRea78/duFRMiXtZMhdKNSj8jw9TW9wRjnbHzG/4CSzDZ6kU
+zwJ4dcezOaLnWYxRkRa7oS/c6v8KLTzQ+UvNw5olCpQCSvRe
+=He8m
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

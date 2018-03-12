@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EmLPKeoqtn8fmzJKOSOTpdUYRXEf/xHLg0FdQZV5VUEjEQ5yfmzfvDQeIBoZefpAiA02yrYf6Iiw3UIgK1CMoA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/15572">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1a605f194e34f31402b6492b62fcd2bea41e73a3.jpg?1455970835"><img src="/kuvat/tuotekuvat/f22fcedc6af698555cbbc8897d535d4606fa9d4f.jpg?1455970835" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>25 Pills Watson 10/325 MG (5% Extra pills on FE)</h1>
+<ul class='list-unstyled specs'>
+<li>129.58 EUR <em>(0.014102 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pharma-deal">Pharma-deal</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United Kingdom, United States</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Pill imprint WATSON 853 has been identified as Acetaminophen and hydrocodone bitartrate 500 mg / 10 mg. Acetaminophen/hydrocodone is used in the treatment of back pain; pain; rheumatoid arthritis; cough and belongs to the drug class narcotic analgesic combinations.</p>
+
+<p>Good news for buyers:
+<br />If you FE your order you will get 5% Extra Pills on it.</p>
+
+<p>Stay happy and place your order.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

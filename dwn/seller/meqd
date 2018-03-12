@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="V1nLhqPTs6Bs06JrkVwCoy8e6orKYmw8cxkxH+MPIfMPnk3RNS/QhDia+6MjZcv3aw/vZNI5BMXew6V+cx9TRQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>MeQD</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-15</span>
+</li>
+<li>Total revenue: 1224 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Huom!!! Viikonlopun tuotteet kätköön tornioon!!!</p>
+
+<p>Ruotsissa asuva suomalainen doupin myyjä.
+<br />Toimitukset yleensä Ruotsista mutta pari kertaa kuukaudessa Suomesta</p>
+
+<p>Toimitukset ma-to</p>
+
+<p>**** jokainen joka tekee tilin minun suosituksen kautta saa kivan bonuksen 
+<br />http://silkkitiehdg5mug.onion/rekisteroidy/axu9  ****</p>
+
+<p>Escrow käytössä suomesta lähetetyistä tuotteissa.
+<br />Pakkaus todella hyvä, käytämme laminointia sekä mylaria.</p>
+
+<p>Hintataso normaalia Saksan/Ruotsin tasoa</p>
+
+<p>Kysymykset ja custom tilaukset yksityisviestein.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Alpha keys
+
+mQENBFfuZ50BCACZ66O9z1Qk10+alHKvG6YRgDDsXTx2fEtvDapp7NqvpDmyFzXN
+6aaG22sbnU5/UE7mBDRBYHlV6l2IjfYvpkv/iTTVoGFDIWDndL2Ii0Cdglvsniop
+a33IFgCxiXFrPgHlZOgYHrS6i9f1VfydVB8VPasu0Ngm9+Pq0Y3VTo+2CKJ3/0DI
+8hWAFRgxrpwzLsHY3ecNxZPIbIBh+zUytE8taTJWoeVzsrTbItSkXb2EP5PqTBjl
+jHc4Ln69AlKB+JkGvY/b9vi3aOdmBYqEsjjcW3LnhW5ic/3SrLJvvSHiJL6J6hYy
+EX5bWTZ3Ah07ZtvDG8qXLuEQbS6Wed2cxxXXABEBAAG0C2hveEBtb3guZG94iQEc
+BBABAgAGBQJX7medAAoJEANIUaIZchs/shcIAIl07tZMeCgcXEB/phAgQ8Pp9KP8
+/lmbfNx2lnq08KQv7059ikm7yO/al7cAI8zA8L49IaTiK1t1HHKIH2R7WOeISAlR
+bgvesRwi8ywnalYTnBHJra117VAr+6rQ2ZcsHy5SGucVNOsrA1zD7oI+F3UJ8fJm
+h44l9fymQmFwKLikUdiKVGYMrnk0aAvfUDTY3ZfpF3TpveI5ThldnY91ZhVfzFfp
+IEDYLzLvpL209n9KhDr9A03adGcLHCUYelp9Vf5rMvBV8UZcQTqWt6mZoJMW27K3
+VKcW+22I/Cf7sGVWkaS+bxbWArcyiHQMMchgiNhOrKo06bb2IncS7sP77O0=
+=jceV
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-path = '/home/asket/dwn/iter/'
+path = '/home/asket/dddiplomka/dwn/iter/'
 
 for filename in os.listdir(path):
 	vendor = subprocess.getoutput("""cat """ + filename + """ | grep "Visit vendor" | head -1 | cut -d'"' -f4""")

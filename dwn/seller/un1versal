@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t3UTLuXU4WZYTevZjZOfjpIlS0UNa9DlPMgGEQOHeyLvspV5cyiCQgwEshE/qlba1jROqxUwuByREpJwk5cJlA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>un1versal</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to Universal!  </p>
+
+<p>Your place for the best drugs available on the market, with the best prices!</p>
+
+<p>Customer service is my nr. 1 priority and I will do my very best to keep every customer satisfied.</p>
+
+<p>The products I offer are quality tested and all passed the tests with excellence.</p>
+
+<p>Please take a little time to read the terms and conditions.</p>
+
+<p>======== TERMS AND CONDITIONS ========</p>
+
+<p>OPENING HOURS:</p>
+
+<p>Monday to Friday
+<br />I don't accept orders in the weekends. Orders placed in the weekend will be accepted on the monday after.</p>
+
+<p>==========================================</p>
+
+<p> !!!UPDATED!!! 19-06-16</p>
+
+<p>SHIPPING:     </p>
+
+<p>After accepting your order (max 24hrs) it will be shipped within 2 days (monday to friday).
+<br />Due to safety precautions I will not give the exact shipping date, but shipping is guaranteed within 2 days.
+<br />This will result in a expected delivery time of 5 - 10 days. So please hold your shipping questions until the 10 days have passed. If a shipment does not arrive within the estimated time, I will make sure we will find a solution.</p>
+
+<p>All orders are shipped from Germany.</p>
+
+<p>I ship to the folowing countries: 
+<br />Germany, France, Belgium, Portugal, Italy, United Kingdom, Austria, Luxemburg, and Spain.</p>
+
+<p>There will be no exceptions, so please don't ask to ship to another country. These questions will not be anwsered.</p>
+
+<p>Track and Trace is obligated above 250,- Euro! This is due to safety reasons. (exceptions can be made for regular customers).</p>
+
+<p>==========================================</p>
+
+<p>RESHIPPING:</p>
+
+<p>Please wait until 10 days have passed and contact me after. There will be a 50% product refund ( 1 time only ). You will have to leave a positive feedback to get a refund. (when the order has arrived)
+<br />If you are a trusted customer I will make exceptions.</p>
+
+<p>==========================================</p>
+
+<p>PACKAGING:</p>
+
+<p>All orders will be vacuum packed in mylar bags in a stealthy envelope.
+<br />(all cleaned with alcohol).
+<br />Large orders will come in multiple envelope's, no boxes. (up to 1 kg per envelope)</p>
+
+<p>==========================================</p>
+
+<p>ORDERING:</p>
+
+<p>Please make sure all details are correct, I can't accept an order with incorrect adress data.
+<br />Please leave your adress like this:</p>
+
+<p>Firstname Lastname                                 
+<br />Streetname and number
+<br />Zipcode City
+<br />Country</p>
+
+<p>If all went well, then please leave a positive feedback.
+<br />If not, then please contact me before placing a negative feedback, I am sure we can work things out.</p>
+
+<p>------------------------------------------------------------------</p>
+
+<p>Thanks for reading this and I hope to see you soon!</p>
+
+<p>Best regards,
+<br />Universal.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+9CzHpuN+DfQOgYeb7cXDkFWg8A==
+=xzg9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

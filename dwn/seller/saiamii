@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="op9yiXQTwWVDCAMFLvSb/7nPxX37KOuyAKpEYOK1Ekr6WPTe4u+iQRdBWs2czVKr/d7Ak+Nzg0utcNABcqVg/A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>saIamii</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>412</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 7834 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hi welcome on my Drugs Store </p>
+
+<p>Lot of feedback on french market ( Black hand , IBM ) 
+<br />and account on Alphabay too with feedback . </p>
+
+<p>I send my product from france to worldwilde with best stealth for our security . </p>
+
+<p>Double vacuum sealed .
+<br />As every package is shipped with tracking number ,
+<br />the only case of refund possible is that the tracking number don't activate ! </p>
+
+<p>In that case we guaranty a full refund or reship ! </p>
+
+<p>No worries about that .</p>
+
+<p>If you have any question let me know in private mess .</p>
+
+<p>ENJOY my freind ! </p>
+
+<p>---------------------------------------------------</p>
+
+<p>Bonjour a tous , vendeur francais de drogue qui envois dans le monde entier .</p>
+
+<p>beaucoup de feedback sur les market francais ainsi que sur alphabay . </p>
+
+<p>envoi avec suivis en J+3-4 . refund si le suivis ne s'active pas .</p>
+
+<p>Si vous avez des questions , n'hesitez pas a me MP . </p>
+
+<p>ENJOY !! </p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: PGP Desktop 10.1.1 (Build 10) - not licensed for commercial use: www.pgp.com
+
+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
+NCm5fg==
+=Zyga
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

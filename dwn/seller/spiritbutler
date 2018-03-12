@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Pf0EPAI6K1GVQx+zfePCEapHAncQHpSQH2eMRvVueDtlOoJrlMZIdcEKRnvP2gtF7lYHmQhF/GmyvRgnZX4KjQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>SpiritButler</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>SpiritButler is at your service!  Check out our feedback on Alphabay: http://pwoah7foa6au2pul.onion/user.php?id=SpiritButler&amp;tab=4</p>
+
+<p>Highest purity MDMA presses on the DNMs!  Seriously good product, seriously great service, usually same-day shipping, excellent stealth.  We put our customers first!</p>
+
+<p>Enjoy our products responsibly!</p>
+
+<p>- SB</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=06DI
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

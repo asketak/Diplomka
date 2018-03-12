@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CCQD2cjE3n67XStOguCWpxOxGclO8w1zyq7yyJiTDnlQ44WOXji9Wu8UcoYw2V/zV6AcJ1aoZYpndGapCIN8zw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>ApoMann</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Update : </p>
+
+<p>14.8.2016
+<br />Ab heute werden wir hier regelmäßig Online gehen, Bilder wurden den Listngs auch zu gefügt....</p>
+
+<p>Herzlich Willkommen auf dem Profil von ApoMann von DreamMarket</p>
+
+<p>Hier bekommst du sowohl deutsche Originalmedikamente als auch Generika bekannter Marken in höchster Qualtität. Ich verkaufe meine Produkte schon seit einiger Zeit im DarkNet und habe bereits viele zufriedene Kunden von denen die meisten immer wieder bei mir bestellen.</p>
+
+<p>-- VERSAND --</p>
+
+<p>Ich versende täglich mit der Deutschen Post. Die Laufzeit der Sendung beträgt in der Regel einen Werktag. Die Ware wird selbstverständlich so unauffällig wie möglich verpackt. Als Versandarten stehen Kompaktbrief, Großbrief (jeweils auch als Einwurf-Einschreiben ohne Unterschrift) zur Auswahl. Die Bestellung wird grundsätzlich erst nach dem tatsächlichen Versand als versendet markiert und niemals vorher.</p>
+
+<p>-- STEALTH --</p>
+
+<p>Die Stealth-Qualität hängt zwar maßgeblich von der gewählten Versandmethode ab aber auch vom Produkt selbst. Aus diesem Grund stehen bestimmte Versandarten nicht bei allen Angeboten zur Verfügung.</p>
+
+<p>-- KOMBIVERSAND --</p>
+
+<p>Solltest du mehrere Produkte aus meinem Sortiment gleichzeitig bestellen wollen, so kannst du ab dem 2. Artikel KOMBIVERSAND für 0,00 € als Versandart wählen.</p>
+
+<p>-- DATENSCHUTZ --
+<br />Deine Daten (Anschrift/Belege für Einschreiben) werden sofort nach Freigabe der Zahlung (Finalize) vernichtet. Es ist daher besonders wichtig die Zahlung direkt nach Erhalt der Sendung freizugeben. Die Bewertung ist davon nicht betroffen und kann auch gern im Nachhinein, wenn die Artikel getestet wurden, ergänzt werden.</p>
+
+<p>-- ERSATZ BEI SENDUNGSVERLUST --</p>
+
+<p>Ein Ersatz bei Sendungsverlust in Höhe von 50% des gezahlten Warenwertes ist nur möglich, wenn "Einwurf-Einschreiben" als Versandart gewählt wurde und der Fehler eindeutig bei der deutschen Post liegt. Ich übernehme keine Haftung für "unzuverlässige" Dropadressen. </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbZ58ABCAC/me25TuSrucz8gM98660sXwDG8ePjOhhTH0WAfFXluTFLq3bh
+Vj17X8ZRuVOJuuceZh+JBDbeJwSLGmzmi96UYMv7dImCcrer2i0hUbJhmdMsvi88
+SEEz2AQjGksOi3iD+2IThPnfjEC5yx+KivYDBfrGI6j+qoanwnM8/w2vyWnZ96Sg
+Ij+U9WCjHDMRKGWdDRMVxezxAh0cfM0U8rSt0I67R0l2pucbLGioc9mbypCMI62e
+bxlHCsGXmgSVoGJuN/gMDnUz9pclu2aV8BqFpgBFUlpf5KT6v+uV7gW+vWqTz5aS
+NCkYOANg7CO1ePm7qXtuVrkR8Fnh4L7kUhBbABEBAAG0B2Fwb21hbm6JATkEEwEI
+ACMFAlbZ58ACGwMHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRBHjPHIzEOs
+wEpFB/wISCTJANlkHjr5JMRhUUfeCpG8YotwNh+Kv9TPywPi0piqOGB3jP1UqQn/
+1OzdbLnd4Q4Un0vajzqRiwoGzpDJgHogM1OwyX0DYgI6Mwz0Wqw+XZBpK/IO66hx
+glLaibDclUM9npcAgmzZNmAfsiwIAfcwUbeMe3zz32UIACU9a+qpeGS47Iyd6Fvs
+fVahiBuId7/8LfzADjxq3tvW/8aoXkx3bhDiob1CIZVY9GSLmoSxBDCoMITGWVW9
+BoIXJkksAjRtokKcSousLvemxsz8QgQvvH2e7/uG8G5Du5CQ9agMTHlGxI/TC1kB
+t+dA1MP7hScn2rbfrm9A7iaHpVc7uQENBFbZ58ABCAC0NKSnc1wAeqzQNCowJQtx
+40f+YL9A1xjPToGpmh/sdj/izkXlYDJ7v/Zj4cMsSFZ+LMNbunmb+TDR4VLFVMn0
+Il7QDN6vN+ImNYe8Af+PbscY0QDm7ovTsNRKP0FvApqICTitzIusvfYr26o0PVKQ
+g27iOkZQC1vuAYsM1sQfMf3/xkJ5XDuqOXaJK5xIkS+zjv1mv6jwSsQAnUZqN6Nc
+OF6pR3xcQbPObzeG/sRfE6HhCNQwmZhttA6J9n10K6LARsGHzjmYy+CPT7GqaBfu
+Ei7LcqUEiHg5zm69xs3EM+Pk9vJ57hS2z89eKlV0vCnI+mqtz0HhLIYBE8HQRtPj
+ABEBAAGJAR8EGAEIAAkFAlbZ58ACGwwACgkQR4zxyMxDrMDn2Af/VHEcz4xLnW3h
+xy/nOy+5EbQIUPjsst/8jHUoK8TXXX1yiCqF4xg9HF90dpLKFbeX/eGelYAltic5
+FtVJ5hWdJlqSFoo1OGXACjiLQlNBSYVGXxGcobi+Y8+ygLMOwofw0SSkVI1Rt/UK
+J7LwSAO+GSpGYfEFBRcmJBtfJXru6mYLhV1eAemupn6Bj6ym2+IUVioP1I4D3kRG
+veXEWnUu2mo9UpV9FT/LuWqP/XfanGttrgFlZQwRgArKBvdzwpH6aBxTrsP9Ef8Y
+oPcXbYNUliCg2olgnYADzkm+KzqUSsG2CdDwjiLRo/+ItzHYIwyusc/jdsa+Td1r
+eQ/iYWBPHA==
+=ci0N
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

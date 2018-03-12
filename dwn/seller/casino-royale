@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="P0VfjusdKzzDxYHDhrzInjjP1XDjENay7+nuwRLe7BpngtnZfeFIGJeM2As0hQHKfN7QnvtLvktCM3qggs6erA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Casino-Royale</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>165</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 2409 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Casino-Royale.... </p>
+
+<p>Purveyor of fine narcotics.
+<br /> </p>
+
+<p>********** COMMUNICATION ************
+<br />Use PGP where security is required but not for "small talk".</p>
+
+<p>********** SHIPPING************</p>
+
+<p> Know that I am a vendor of narcotics with a proven track record. That means if I have your product in stock I am going to package the amount you order and send it to the address you provide. It is your responsibility to provide a good shipping address with a real name and a proper postal code. We should not be held responsible for problems on your end with the postal service or law enforcement due to your negligence.
+<br /> Should there be an issue with your order we are motivated to make it right, however we also have an accurate system of accounting...</p>
+
+<p>Also,</p>
+
+<p>*I ship promptly from a major US city*</p>
+
+<p>* Tracking information will be withheld and used at my discretion which will not necessarily include handing over the number to the customer*</p>
+
+<p>* Its not safe for you to send your address in clear text, send it PGP encrypted instead.. its better for all party's involved and it is required of my customers..</p>
+
+<p>* make sure your address is properly formatted or I may have to cancel your order*</p>
+
+<p>* Shipping is sometimes delayed by USPS, please allow at least 5 days before contacting me about it to avoid complications*</p>
+
+<p>* no ordering to hotel/motels *</p>
+
+<p>*****CONTACT US***********</p>
+
+<p>** Always contact Casino-Royale before leaving negative feedback to see if we can work it out**</p>
+
+<p>*****DRUGS******************</p>
+
+<p>I have chunks of crystal MDMA that I received from a reliable source straight from the Netherlands. Its of the highest purity which is %84+ and made from PMK oil which is supposed to be very good.</p>
+
+<p> The cocaine is Columbian, mother of pearl looking, flake cocaine with a strong smell, that you would be proud to bust out at any disco in the world.</p>
+
+<p>Some hard pressed high potency 180-200mg dutch E pills with the popular WB logo.</p>
+
+<p>Big bad PCP "laced" on the traditional parsley Joint. </p>
+
+<p>Otherwise, 
+<br />I sell Dexedrine, These are 15Mg Dexedrine capsules labeled BARR which was/is an old school pharmaceutical manufacturer. </p>
+
+<p>************PRIZES************</p>
+
+<p> Novelties</p>
+
+<p>************ ETC **************</p>
+
+<p>*Solicitations for unpaid product samples from non established customers will be deliberated on indefinitely.</p>
+
+<p>*Random questions about DNM activities should be directed toward an appropriate forum where such answers are readily available*</p>
+
+<p>Did I mention prizes?</p>
+
+<p>Oh, and please be over the age of 16.</p>
+
+<p>Thank you</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: CounterMailEngine v1.4
+
+mQENBFH6sDABCACTqWu73ttOCkKDzqtttr1dk7/ostJSZgIiAE9qztf9AT/uxFWo
+43xEtVvmXQKU44lgLyYHQISOtdLO4cir1St5SRIYHMCpLNKuypJVPjRpWQ+TPwbZ
+3nNiDHr6UJAY3eQsvDLZigkoOs2zcvVQ2icb3FGSrVeP8Vxqi7DbSIx8eZpX2mfL
+Rw8E9K7esF9XvtWzRT0jJ1Xl8DYWskCtg0Mh/1ifg9uuvU2I9Onr2s+FPxHyfTyV
+eMi+uG6Zf/Ao7rAeZ46zHAZ7kEWjF3aWFEAU0GrHAK8uJ8fWQ8TSXgaG/o457+y9
+O9P6d/rtCItSlo01moAkuQtUNGsKGAd+Z/qlABEBAAGJATcEHwECACEFAlH6sDAC
+BwEXDIABv5BSpDSPFGRNcdTsQhGqt9CgPCMACgkQNZw/umvW6+usHwf+ITzmwhA2
+WImmtomgMF7gTYq2rtRC+Nme+tnCKJa1eU4YBxR5n8K5WNjWozyBnevjyv3HNVys
+tURuhiyWec3uPqtNySMRQnK5DuTsul8iFKKg8cGv6ku36D1p0Y5JFt8cwVsptZuW
+nalj2O6E59GPgqP6m/PvMiS1K4FJno5Fl1r4uscDNkN1ZmMA1XWlOf6j7n6Tb72M
+pOCGHRnMqyB9CsSh/U3Amy16qeOcu0tWqJIGlVuf6OlreusQAqyfwyzc/7/9tXwf
+CdZteSE+4WT21pZHH58tQE+B5pmDuQvDIQ+KrBdwXXuZwb516X0PaSEmZJvXSyp+
+nXbC28uvYaxRyLQZPHZpbGU4b3JAY291bnRlcm1haWwuY29tPokBNgQTAQIAKgUC
+UfqwMAMWAgEEFQgDAgQLCQoDBQJR+rAwAhkBAhsjCRA1nD+6a9br6wAABw8IAImx
+5Noq1E8s4lpfQ89KHpLpjvrQZg/Wzr2nQG08g5ha51L3sU19otitCbthuvX9UMGV
+I0v87kBvk5UJ6/y6VmN1lg3NJ57PtJDVMB9fkG2zfWzd/ezcGxrV592gqYckD5V0
+RHnLgBn7lJk9kOrV9dTjhC7KIMep6SyB6r8lR6LFfoOdPvgndjyGuh0PCPEaqom0
+BjdGysg//u+XM2MurGj6SDMaqKtcp8BgwqBlV/DqUQTXIwJw8dL86Ippq6bnOQRG
+C85jqv0G1YaJv2Y9rGIp004/XAdpK53IuaCwQTNcgWVTlBXF6anlRho+ftDrcudp
+ksHJwgzfez7J6vUvl1i0Ejx2aWxlOG9yQGNtYWlsLm51PokBHwQQAQIACQIZAAUC
+UfqwMAAKCRA1nD+6a9br67IqB/9u6b4vIJ+peM+QPzaKNzj2bytY2qqqv1s56tBk
+q/mC/1xL2HnlFOsYEuo9WRaremtkBgNx4oNrlGCUTXb0+bFcVnXxQfMAbgDW02JU
+T0vU287I4T0As2yYtLrT369Z52Dr+Pj8TwIi8Vw4WH9IIR0HLfQuopY8T1OcpBJC
+7x8BfadrtJ6UZXxq29y6wNCtV7EkhATcdnJ1fNFDfq4USE02O2BJWeXsmic8y+Jb
+NJYVCDbQ1p6AyWrHr60pbCTKGl3gXAW2KhbQM3jdCyvgjruFgLjns3DQctJ3TVPg
+udcv48CrDF1ZjIULFEiqHT6RJSrbpiwYQydzYDI25XJOZYh0tD0icmVhbGx5dGhv
+dWdoQGNvdW50ZXJtYWlsLmNvbSIgPHJlYWxseXRob3VnaEBjb3VudGVybWFpbC5j
+b20+iQEfBBABAgAJAhkABQJR+rAwAAoJEDWcP7pr1uvrkeQH/1a8UJYdysx1gD2E
+MnRYKV4icqfg9Qw5XeVvJXtGpGT/f2Qr5HF1J8kmIuzh4HbXWecqyftyOCC57Ni4
+c87M2napS7Z+cT/M+A2BbYCP0ilReqa41ei58d6VxmZ9+ljYvofmIWLV96BULZdn
+/ZuFBMWXlI3H5eXstXP8aqAiM/BXPW/6LAoNb2TdYUV6MbwIn0UsWj/ZiKJyL1Yl
+jN/m7ryO47kzwCHONwFHx8W/M6GK4yy/W4kAY76sus30KKL5X3cuVK9s61b4XohG
+0w3q1KAOhKS35/ugNwQuiy5NI4Jap4G7Nzaq6X3miD2Ffy0qmbYTV5YV9+5YYPI/
+SROyJCu0LyJyZWFsbHl0aG91Z2hAY21haWwubnUiIDxyZWFsbHl0aG91Z2hAY21h
+aWwubnU+iQEfBBABAgAJAhkABQJR+rAwAAoJEDWcP7pr1uvrLm8H/2RjCyC1Sgsa
+u/Loz1oDTzkfyNQxvJDh+OcEUQC5scmQ8UiquMm5HXFgwHLKUiWWZ4FmnSsCBurb
+L7K8G5wo/tBtEVudP84v4KokAwFzo569hVUYsvaKnWsSG2HU4x4xwDCk7KllwDS1
+VncDsu90bc3XAOX4pzQ1lIqjNrQG8TCylL/BFt+Jg9wzs64NIiyQmWUK8RG7nMoX
+xtX2NiBUIqJzCQwdlbKRg6QAM8qrvNLHtF/Hpt7maqZqyfCDB6yZUzwtZhxLZYrJ
+GqCvOYmiZs0tku6nvvl4BtSA1X2sirLdF+KyCjgcjqDdfolYAq0DMw+B9Q9isJUg
+4OiLWp4qDu65AQ0EUfqwMAEIAIoHXcCXMQI6v/Fi1qyyjTVMYh0gdIknETTnOe3w
+8Y8ScrNdOSrZVl6fmNOm4Y7gTcihhVHLlQfjhL3vpc8kunA+bVA6JAImK4+5jGXs
+XrbevWAJnkYAyEawntI7VJP9poFjDIAaFBadIXQMa03qyA6ntITHpf0hC3PKXKpE
+fz1L69F7UilGfK7TUrlqhrFbB2c/J4FpLmVsyEJfSdKfaRHwZfKVnLMN39IKjZU0
+aJ/LysgMZjEnF1VQYdkbHYsYWhMAVSFFTtbq7x8W381YoryZbZqtQvYtjDTfXw4c
+ApkkCfcUsHt0FYAaFYz+BT8rlIEyV8buvb/n3BLGHpO5h50AEQEAAYkBHwQYAQIA
+CQIbDAUCUfqwMAAKCRA1nD+6a9br65IeB/9dqmHqObZ2F68z9Dfta9k37GUSnlxx
+SyEdMH6H3g5CQli4ZPAakUtaprwne1QccRBgjKDX3IaMM9pHnF5w6Hs2ztxvQ3dV
+FB+5BxmtnmzYs5QIGTfqxo/4GHdtfkEJfl6HUsEI020/ZRr2iVY6Nl791L0parzP
+Ey8WBUpKQZhHR7oqD9/aZHlzE0RUYRr195MFi3nYS2SnmsBEvwXpLebNTb4pVsTZ
+K7TPKvTZZARGydyfPqqScT3zmzQSlSxkyp+NqAonvb7m8sg29NgSJqRuumi40bfK
+OBKYpeVRbE+VHsIZccF7YKODlqPJlGG1bCIM/Z+QPf4hxaSHsnoN4XKa
+=7CtC
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/dTf2n3eKiFkC5VEAGiSwXQArkWQtgFOob5gbH5mfumlE1mN6yJJBTBCzIyyUVuVMBGrq4jtabcMZPQN7nYMXw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>quimicos.cientificos</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>123</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-4</span>
+</li>
+<li>Total revenue: 2551 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to our online store !
+<br />This is the place were you can find all the drugs what we have to offer you different types,
+<br />quality's,  flavors and textures.
+<br />Our focus is get the best of the bests.
+<br />To serve you have a team with 5 years of experience in drugs business.
+<br />Satisfy the costumers have always been our priority along these years.
+<br />We use MBB bags for the best stealth you can get.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFdVxdcBCADInrXPBf7WCCT0RjvsR/eJSHaOqlwqm/4s2ddLN7cJfcFS/HQe
+jXmPYV5RHdmLtAmLhcSCr8gMV1Cy+j/OZ6+VUM5ZziLcQ4Ogfau98e8i/gnq+WYh
+pyoVxIF8UyI2royfDvtxa+hZbsaj2ozUaOWDVSWYlSNdyyuGbcaKGBmnUS6+ky3g
+rM+e3CBSxS8XXfjbXz0C4hX0Yrr4FrPNGICHVNKUsGEa9MZizoTmNmLmIK6+EMtq
+et0tVZ2xSUgHiFEErWscEJZZefdzbZf80+mHiXV2qxjSYSbNfXQL15DSd6OqIdCI
+UD1b/XCnaDlheZ1fCsuCWAKqsMuSd6j3yUgTABEBAAG0HnF1aW1pY29zLmNpZW50
+aWZpY29zQGdtYWlsLmNvbYkBHAQQAQIABgUCV1XF1wAKCRAofkQJKZ7w0ezCCACz
+0XC3JkLwN+Gh+hBopyiC7WzHSACZyNYurJym6ZZM7GUWV1BN2dcPgS3s847NhVN1
+dhUAlcJ0+ZYENcb1ElX2zF934+06889kUsc9nCkvQU+xzVeM16e/NXvRj6OwGFus
+2X3J6kmY65j9T0/cl5N1sYOuFds7TRL24SRhYORt2XIMqXDChpHb5w15jXsMpEsx
+wy9WY+YYU0zEZPfZU68+yLy0ckNSb5BbEXy3FyHX0Uu2LUcqlDRJoqSW79E7AIIa
+O2rDMTM6H+oUbF5xK/Ktp21KVGjoSl+ccXf64iqQnzaUqgWxthb1k7gp54O8GgP9
+o/vP6X4+jH59R+p95t0m
+=0pjA
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

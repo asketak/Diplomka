@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oxokVGDjBvAS3cLmbHyVs5QFCEWtx66ndmXZinWPNRb73aID9h9l1EaUmy7eRVzn0BQNq7Wcxl7bv03r5Z9HoA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>uncutkingg</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United States</li>
+</ul>
+<div class='description'>
+<p>Until X'Mas we offer to our clients from this market a 10% discount on all our products.
+<br />-------------------------------------------------------------------------------------------------------------------</p>
+
+<p>-Terms and conditions to make sure you will be satisfied with my service:</p>
+
+<p>-Your safety, security and freedom are important to me. I highly recommend the use of PGP ENCRYPTION.</p>
+
+<p>-Please take your time to understand how to use this critical tool and upload a PGP public key to your profile.</p>
+
+<p>-ALL ORDERS MUST BE PGP ENCRYPTED OR ELSE IT WILL BE CANCELED!</p>
+
+<p>-Please use following format:</p>
+
+<p>-FIRST NAME LAST NAME</p>
+
+<p>-1234 YOUR STREET</p>
+
+<p>-APT 1</p>
+
+<p>-CITY, STATE</p>
+
+<p>-ZIPCODE-0000</p>
+
+<p>-Please double check you have not misspelled anything.</p>
+
+<p>-It is your responsibility to provide the correct information such as real name and correct address.</p>
+
+<p>-Be sure I destroy all sensitive info following successful shipments for your protection and mine.</p>
+
+<p>-Once you receive your package I ask you to destroy and dispose of all shipping material immediately.</p>
+
+<p>-Important note !!! When placing your order please pay attention to the amount you pay for the specific item. If by mistake the amount is higher than the price listed and you do not let me know about this before shipping, I will have to consider the extra amount as a tip. Please check carefully all details when placing your order.</p>
+
+<p>-All orders are shipped within 24-48 hours Monday through Friday, excluding holidays.</p>
+
+<p>- Any orders placed on Saturday or Sunday will be shipped the following week, early Monday morning.</p>
+
+<p>-Priority shipping takes 3-5 business days from the day it is marked shipped.</p>
+
+<p>-I DO NOT REFUND OR RESHIP UNLESS I AM AT FAULT.</p>
+
+<p>-In case of not receiving your package please do not rush to leave a negative feedback.</p>
+
+<p>-Contact me and I will first check where is the problem.</p>
+
+<p>-Tracking will not be provided due to security reasons on both sides.</p>
+
+<p>-Tracking is only provided to admin in case of a dispute.</p>
+
+<p>-It can be USPS or double check if you gave me your correct mailing info.</p>
+
+<p>-Please do not message about an order until 5 business days have past.</p>
+
+<p>-Please do not reflect poorly on my job with a negative feedback unless I am at fault.</p>
+
+<p>-Placing an order to UNCUTKING stays under these terms and conditions, whether or not you have read and agreed with.</p>
+
+<p>-Rules are made to make sure both parties get what we want! YOU GET AN AWESOME HIGH AND I GET A HAPPY CUSTOMER!</p>
+
+<p>-UNCUTKING</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFa2OpsBCAC63hslw67f6jsO7ReXmLE/hAp4BjpB4XU7wbAzguWwxMs1Jo/n
+si/eGAqExCcTiivCz/ooD2m8C0Ty7h03G/dFdOoFIeuntSFLi1vGnWRquw+kpH+n
+ds6eao95CwshylPr8XmSbetMnQn6qfchpwSK+kzRPho4QYkYI6P2rcJIXG/rBBj5
+8lcXB/ZH9QPIYEg3EQCIOx5+8wD4/j1cQran/ZsqokzGzECWvvV7hOBm559vZt6M
+cCeYCsJGcjt+V6sIoxDyBzNFryHkl8I2hmywvEWp96j7TeTNsMhcujuLoIJeValF
+VCWdYV3kQbNgMXajV5RlflrBndsrZORU+TobABEBAAG0InVuY3V0a2luZyA8dW5j
+dXRraW5nQHVuY3V0a2luZy5ydT6JATkEEwEIACMFAla2OpsCGwMHCwkIBwMCAQYV
+CAIJCgsEFgIDAQIeAQIXgAAKCRA//2DgI0S54Lq1B/9FXshK3IHl6bM8rATQvOcM
+9aZexmzlh9437oGHvB7nKmv0pAXO6P8S96W8r+G/EfYdp0Z2jDMs2SGgwwZFKwDq
+towGSoBnTNUYV7OGfH/4cqu745iws99usiKnit8tQ0azpgst6j5v826Xi5B2PRPJ
+I9R3S/HqkZwT9BBAzrtbx4mJIGMij9Od8BRM5voX4/bLv9MpkhETTewQDzWeYB0y
+LnMyutKZ60GqlgK9AXJYBy0aLkCkXQEUNwiJ6MqW3QNYTi6AqR7bw9faYFmQnpH8
+xBDIJDHbTcvsh5yQQFiq7x78HFEDOHVg9HmcC79AA7VO5acSkSlTAkE8bW64xWmY
+uQENBFa2OpsBCADIMHRFzb6PS+7H6ZEY8WiYbILsDMrBp4L76qF812v8LxaTof6F
+XAsaywf6279kcbjhknEbn99DXFgUueFYzXhGVnSCOsj7Sf0znWbGXDXa95cNKBNZ
+KYDj6+0I4ucwx1w3wQdD9HaQFC8mk0EbnU4PaTU/P9a7cg2KSjCYefFOAckZaD1c
+zm9d3WhsTcwoq4a4h+AyPbslvN75ZHUHTqvmuerf3igXVYeLuNSjcZzbxrhNcccw
+z6oBThgzhRXhhsMJ757k9/AO+LyoPOsNneUFFSEiJkaNYxz/lpbsvyYhhuLgojst
+3zXZd9XrluxWLwP6SSJFio4LY4B0XOUjjKLhABEBAAGJAR8EGAEIAAkFAla2OpsC
+GwwACgkQP/9g4CNEueBb7Af9E52dLhemGGAH9yxp5cS1P3TOURwNR/Iy13Cmj58B
+y7OEak9hEnTHlMb427fWTIu8FeqF7Ii4KUXbLzb7Ps4OkpkhlGMjYMeX28Q/e8LS
+J0TFzBKPchItFyoyYEwCruiu3iRoFawTqKDgLSWofQ2yYAcSxvmJx1LIw0k0p/P+
+40mlAiYK79aifEbtRmRkNeDM0sFAafkatBoYq+UEENQJ4P/NKNCYbEbAZyJAz3xH
+NqnEY6kMncxgM+Vaq5a4DZ2ln2Oeq5XCODK7NNT+isxDFtN28e4MZYSThse/s/Cx
+ObBaa/1Vlh3cNPVZFk91VNb9pHPNp37ImaidVIqwYfFXXw===96l5
+
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/68077"><img src="/kuvat/tuotekuvat/f3209c9e7ac1a32cd088da58271fe054f708f668.jpg?1477609345" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68077">1.75g PURE FISHSCALE COCAINE FROM UNCUTKING *FAST SHIPPING*</a> (<span title='159.9 USD'>129.47&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68084"><img src="/kuvat/tuotekuvat/125ce20106ef41c04a692ffe02140d94d3b0a1bc.jpg?1477609851" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68084">3.5g BEST A+++ CRYSTAL METH ON THE DARKNET MARKET!!!</a> (<span title='134.9 USD'>109.23&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68085"><img src="/kuvat/tuotekuvat/a8dab24a1d1134077253201fbae65b79230f3d8e.jpg?1477609886" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68085">7g BEST A+++ CRYSTAL METH ON THE DARKNET MARKET!!!</a> (<span title='259.9 USD'>210.44&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68076"><img src="/kuvat/tuotekuvat/d8aa80b0f2c2b42d8a8eec1de7b815146939c9b3.jpg?1477609271" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68076">1g PURE FISHSCALE COCAINE FROM UNCUTKING *FAST SHIPPING*</a> (<span title='94.9 USD'>76.84&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68086"><img src="/kuvat/tuotekuvat/1d950c6edf500318621ad4e1c6f8521bcc9f7e89.jpg?1477609926" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68086">14g BEST A+++ CRYSTAL METH ON THE DARKNET MARKET!!!</a> (<span title='489.9 USD'>396.67&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68083"><img src="/kuvat/tuotekuvat/df898df0b7d0c11e9bc9f3a6d2ef74264e04c0bb.jpg?1477609777" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68083">2g BEST A+++ CRYSTAL METH ON THE DARKNET MARKET!!!</a> (<span title='86.9 USD'>70.36&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68088"><img src="/kuvat/tuotekuvat/0bc4cd9d843bb8cd013f810ce8356ee2b1d59c93.jpg?1477610210" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68088">28g BEST A+++ CRYSTAL METH ON THE DARKNET MARKET!!!</a> (<span title='809.9 USD'>655.77&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68081"><img src="/kuvat/tuotekuvat/15e6ec6bdd98034124932911984efca6254b4b39.jpg?1477609613" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68081">28g PURE FISHSCALE COCAINE FROM UNCUTKING *FAST SHIPPING*</a> (<span title='1709.9 USD'>1384.5&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68079"><img src="/kuvat/tuotekuvat/ff521228b546ff100c64ccebeb347ac3a30267d9.jpg?1477609534" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68079">7g PURE FISHSCALE COCAINE FROM UNCUTKING *FAST SHIPPING*</a> (<span title='534.9 USD'>433.11&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/uncutkingg/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

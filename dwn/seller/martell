@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="c0FPRNXvE3Kmpwe+8AwBT/7jwcBTC+S5fal1UwzTf8ErhskTQxNwVvLuXnZCNcgbuvLELktQjEDQc+EynMMNdw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>martell</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>-----BEGIN PGP SIGNED MESSAGE-----
+<br />Hash: SHA512</p>
+
+<p>Welcome to Martell!</p>
+
+<p>Before you purchase, please be sure to read my entire profile.</p>
+
+<p>***IMPORTANT*** 
+<br />If market is down, email: martell@lelantos.org
+<br />PGP is a MUST!!!
+<br />***IMPORTANT*** </p>
+
+<p>- - - --------------------------------------------Who are we?--------------------------------------------- </p>
+
+<p>We are a new vendor striving to provide the best quality products in the UK and around the world. Our aim is to deliver the most competitively priced products whilst still maintaining the highest of qualities.</p>
+
+<p>- - - -----------------------------------------------Stealth------------------------------------------------</p>
+
+<p>We double seal all our products (drugs) in plastic and mylar bags to ensure a complete airtight seal. The product is then packaged in a professional envelope small enough to fit any mail box to ensure complete discreteness. If we detect your order to be risky, we will message you.</p>
+
+<p>- - - --------------------------------------------Refund Policy---------------------------------------------</p>
+
+<p>REFUNDS AND RE-SHIPS ARE COMPLETELY DISCRETIONARY. I will take into account the country, time frame, conversations, user behavior, and prior buying history in making a decision. In the event of a re-ship, the order MUST be FE'D before I mail out the parcel / letter. Users with NO buying stats are NOT eligible for re-ships or refunds, unless I can personally recollect their username on a previous site.</p>
+
+<p>- - - -----------------------------------------------------------------------------------------------------------</p>
+
+<p>****Please inquire if you have any further questions***</p>
+
+<p>- - - -----------------------------------------------------------------------------------------------------------
+<br />-----BEGIN PGP SIGNATURE-----
+<br />Version: GnuPG v1</p>
+
+<p>iQIcBAEBCgAGBQJYTsPVAAoJEHDke0dQ0du0m5oP/2BdX+aosiAG7mNuusuGgjgT
+<br />/B793Y2aIXwIo5GIPvlASFhsJlGo/NFV+PfJ054VQYttBJ2m7tWH+7GCij63lo10
+<br />5IlScWqb0vyHvTtWTb8n8HgS2yMCUD4Sm2+jgYESi7ZvdRaqpr+UHHFJrNJZr0Zs
+<br />5qi4oS+Ei0a8al5xl813iqKo6OzjXTa3XiDyUhEjfB1+aWQ73nrSfwwz2624rwYH
+<br />/KVVgCdOAc8cApCvXTqzRZJcp8txfQ5H5zbcvgLw3y9+JHS7ITXzpBY77HUceVjS
+<br />g/yRdMxWu4hwr8E8PL82GI2WCa3c9JoWgIt6fRfGuXLlHDrYEUujYv3kCjIx9AuF
+<br />LFwek1xh3QiH2bZVKN9AnfA7Z+9XmiHug/aYhBRWqtsKbDqMDKQGpxTI1ec+PEO1
+<br />Qzs6wtSJSCkoYjheihSxW16Fw7QPVnjqioLA/zNCigHEx1vWDoSvq2eOrCIKz0Jc
+<br />Mfjb76yJLkt9B1jeFHE07BFkVmaV57NPxHejMAsTLAz0T5RbSJp9ftMRF7+xuhRk
+<br />7UdJ1IxR5BINV6AElBUyIK3dkeqqTaCz15NZpEDtEAoFZbEGWntrWlK22x8yQKP1
+<br />XtHI1jnYJSKVq7VAHzKbtXwk4K1jhC6ytdeBr6IGzuDNirPWEt+Yw50pxencoBLt
+<br />6Ew3Nipf5mT8NvxNwEm+
+<br />=4XE0
+<br />-----END PGP SIGNATURE-----</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=Lyf0
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

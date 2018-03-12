@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="aDZ6d0IMMz/4s3BZo/1ux4qzAEaHZhOyZmlrw8v1rqYw8fwg1PBQG6z6KZERxKeTzqIFqJ89e0vLs/+iW+XcEA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>leeroyju</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 77 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to the World of Drugs
+<br />(c) Lee Roy Junkies</p>
+
+<p>I can get u anything u want - that is my order.</p>
+
+<p>I do the buissiness many Years on the Street and now we start with a Team to the Dark Net.</p>
+
+<p>If anything is missing in my shop please send me a Private Message and i create ur Product of Wish.</p>
+
+<p>We ship 48H in Germany - 3 to 7 days Europe - 10 Days Worldwide!</p>
+
+<p>We track the Package, if something failed and it´s not ur Fault we will refund 50% or reship 100% of ur Order</p>
+
+<p>If you dont write your full name, use a house drop, a packstation or even have the wrong address format and the package doesnt arrive, its your fault.</p>
+
+<p>Format of address</p>
+
+<p>name surname 
+<br />streetname with number 
+<br />postal code city 
+<br />country (Complete please)</p>
+
+<p>Delivery Time after marked as send</p>
+
+<p>germany    1-4 working days 
+<br />europe     3-7 working days 
+<br />world      up to 10 working days</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=4deL
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

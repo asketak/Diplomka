@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="I2vFgjsmlajZtxQZytthRYqQLCMK9E+hLNHE5dnd4Wh7rEPVrdr2jI3+TdF44qgRzoEpzRKvJ1iBC1CESc2T3g==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>appleinc</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>2401</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-19</span>
+</li>
+<li>Total revenue: 7890 EUR</li>
+<li>Last signed in: 1 day ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Netherlands</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+BEWARE never received order over 3 weeks now in the united states  NO RESPONSE ARE ANYTHING WILL UPDATE IF IEVER RECEIVE ANYTHING
+<em>(1.3.)</em>
+</td>
+<td>
+<a href="/products/101418">5 x $100 DOLLAR COUNTERFEIT, STRIP, PASS PEN TEST</a>
+(96&nbsp;EUR)
+</td>
+<td><span>
+an***99
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Seems a scam
+<em>(28.2.)</em>
+</td>
+<td>
+<a href="/products/95320">Armodafinil (Waklert) 150mg - 100x</a>
+(95&nbsp;EUR)
+</td>
+<td><span>
+Un***n3
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Scammer. His mother is a bitch.
+<em>(26.2.)</em>
+</td>
+<td>
+<a href="/products/101043">10 x €50 Euro Counterfeit Notes (Very Good Quality)</a>
+(101&nbsp;EUR)
+</td>
+<td><span>
+du***zi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+never arrived
+<em>(22.2.)</em>
+</td>
+<td>
+<a href="/products/101384">Modalert Modafinil 200mg - 200x</a>
+(138&nbsp;EUR)
+</td>
+<td><span>
+ho***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Scammer i see it too late.... NEGATIVE!
+<em>(21.2.)</em>
+</td>
+<td>
+<a href="/products/93125">20 x €50 Euro Counterfeit Notes (Very Good Quality)</a>
+(164&nbsp;EUR)
+</td>
+<td><span>
+so***um
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+scam, whatever.... will save the complete profile and report if I see similar profile somewhere else
+<em>(22.12.)</em>
+</td>
+<td>
+<a href="/products/94891">Modalert Modafinil 200mg - 50x</a>
+(65&nbsp;EUR)
+</td>
+<td><span>
+Pr***ox
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/appleinc/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFcqIGMBCACqJR6s1aI/jxjkN7M5ptzcIYahTLNBHOoKLUzgeggrDKvqj7+s
+oN4gLGI4b1/WPb53fd8xDvVAAnToC7Fi7sZbDgnAq5At4WbTNwxq/ngdmB33cir0
+4SEUR4gQmXO4NX1kMzteykQmIHv/UJRarQ8bf8d0JLd6UNyzsvJzLka2LyoQjeFt
+MYi/0k79xPAoANUaG57PbeliA4ufe/EiolslLiAL6ph5eBc6Nxe1FWlHZTqWnDVL
+ix8UwmcHR3succxCB4Opu+Fk+tT3hyOBnZZG+XmGU/wM9d7TETYhOe/zfKRdZZgD
+hOAffrR87v15/EPOpgY7KE+6YklJs2cNmxsTABEBAAG0IWFwcGxlaW5jIDxhcHBs
+ZWluY0BzYWZlLW1haWwubmV0PokBNgQTAQoAIAUCVyogYwIbAwULCQgHAwUVCgkI
+CwQWAgEAAh4BAheAAAoJEKKlhHU3jGhQyLgH/0SCbSWLjunPJUMOB94yF/cg02Or
+owC/17SGTcJ92nWctd6iCLnpZ/ScRGiOSV24DnRvdRzcOA4adGGPBQtYQq9yspod
+vN3K4IaA7iBwX7TgmO2Mwe0J0a01Xd1WXq6qUcOfrYH48IG2fjIwcYyUj8v27w17
+SXCpQGHIsBbAdM/q9bH71LjsNZLUUMgfXpHT7VvUHyeyfpoOjauY0lnmr3eqHgKy
+KErSNDpxZ818NEnxH0pNWZDNWOEgpcECAgYLSB+Xl+4MN8jtebVEx27D10jRtWaN
+QJnYXj4MNcbPz3hh4+mRB/sA3JJXTpAa4q+RAEgfQR3n3bLl/h7rQLTlv5a5AQ0E
+VyogYwEIAKmbk08U14ZT8f4Y31aTM2yO+3+vg9/756XzWwUnWB6aFLnIAD0LiNG0
+trBY4c4HMJ0mKH5HLV60ZHkPk1jJbrHmZHENCoQVwti1aFO8Iw8XWfRiyFMgFh5w
+Mfcjp3tek53vjha7uD/CCOxjrW8Ypsil3FJfjPWPY3P83FQxbiGfNaYLUYhgeYJK
+0K6CndMFuw9YjRX2beXhvx8bCdVkkwTm8s/V8/QCQ785yd65/G2mXkP+FxA5xCBd
+dSA+KoQZG7tpR7Or/hFY3AnwvULde8m3qeSnByJ1butrG8oIsc0pSB8mJ2E1QrbJ
+X05NBzm/mdUpCA611j8BgCSji1EDl0sAEQEAAYkBHwQYAQoACQUCVyogYwIbDAAK
+CRCipYR1N4xoUE4SB/9LpU/NUVCgGcZEOR1u1EXAzL50HPzT1rZgrd+IaqpS7uFC
+afIR+MbsWrZrWsdDKL1bNb1Cxe+6An4ipK6OujzLgWaupiXBmGTLDqfT4f2iCSI8
+lDXE3iGLX02sfKhpvX/XNvRywQxGlox8dPqLtCDBKHqpaTJvOSuW34H6Q+pKOnbG
+liqaMpwW38nuI8n5PifIqPq0ErQ5y2k4Fwv1b67AOQgJnUKyi0TcURX1GuLcK49R
+f9rlYPSbns7IJAPaKpfCp8ipBiTzTrfg1poxmrfa8Kq1bbgTmeAaFzTzZ4AKdUc6
+6gGFS0UbJ+TdVWBmXasoT8zzAAYN4rQ8aXeZh2BO
+=WCry
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/101043"><img src="/kuvat/tuotekuvat/d5a1d5f7f15f018ed2aa770c70be59edb5df28ad.jpg?1513111757" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101043">10 x €50 Euro Counterfeit Notes (Very Good Quality)</a> (<span title='125 USD'>101.21&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101363"><img src="/kuvat/tuotekuvat/bf51c5e17a9252befb7c761f4ae27118c00b4941.jpg?1510953408" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101363">Modalert Modafinil 200mg - 100x</a> (<span title='100 USD'>80.97&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95289"><img src="/kuvat/tuotekuvat/5ee10d6b1353b396d9b468f82ee9e38c26004c42.jpg?1497208638" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95289">100 x 10mg Roche Diazepam (Loose)</a> (<span title='95 USD'>76.92&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101400"><img src="/kuvat/tuotekuvat/172798d3558d4b2878d036dd629485999847e149.jpg?1510953874" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101400">50 x 10mg Roche Diazepam (Loose)</a> (<span title='63 USD'>51.01&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101117"><img src="/kuvat/tuotekuvat/4bfc1ed43f6f3b56cc6394cd9acc604182c22d8e.jpg?1510605087" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101117">50 x 10mg Roche Diazepam (Loose)</a> (<span title='63 USD'>51.01&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101070"><img src="/kuvat/tuotekuvat/c2f610b636bb5dc2d7fadbc28fee8de1f19e54c5.jpg?1513112290" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101070">5 x €50 Euro Counterfeit Notes (Very Good Quality)</a> (<span title='85 USD'>68.82&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101352"><img src="/kuvat/tuotekuvat/80592df32c8548a3f6e149e305e472ae86d66501.jpg?1510952903" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101352">25 x 1mg Etizolam Pills Best Quality</a> (<span title='43 USD'>34.82&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94906"><img src="/kuvat/tuotekuvat/20263f138b4e4f28a5e427feca9df021373e3295.jpg?1496346338" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94906">25 x 10mg Roche Diazepam (Loose)</a> (<span title='47 USD'>38.06&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94901"><img src="/kuvat/tuotekuvat/c3d55ca435b46019c352f005eb10f62f79cb8a70.jpg?1496346286" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94901">50 x 10mg Roche Diazepam (Loose)</a> (<span title='63 USD'>51.01&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/appleinc/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

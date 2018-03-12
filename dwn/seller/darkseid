@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0amHZ14mbJbdMccfm7KSQPAG+SmhWqptG5TRWhHH0s+JbgEwyNoPsol4ntcpi1sUtBf8x7kBwpS2TkU7gdegeQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Darkseid</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>755</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 5165 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>
+ <h2><i>Darkseid Provider of Stealth guns</i></h2></p>
+
+<p><div>
+<br /><p> </p>
+<br /><p>Welcome to Darkseid the longest running vendor-shop which specializes in  guns of different calibers and sizes. we have in stock the following:</p>
+<br /><li>Rifles</li>
+<br /><li>Handguns</li>
+<br /><li>Silencers</li>
+<br /><li>Body Armour</li>
+<br /><p>My background: I am a professional Arms seller have been in the industry many 
+<br />years and I build and modify small arms.  </p>
+<br /><p>
+<br />My prices are honest and this is my expertise i have shipped successfully to the 
+<br />whole world from the UK for five years on a row with no seized packages.
+<br />  </p></p>
+
+<p><br>
+<br /><p> </p></p>
+
+<p> <h2>FAQ </h2>
+<br />  <p>
+<br />    
+<br />    
+<br />    
+<br />    
+<br />  </p>
+<br /><li>Q: Is encryption necessary? </li>
+<br />   YES, We do not respond any message if you do not encrypt your messages. We are here since 2013 just because we take security <b>VERY</b> <b>SERIOUSLY !</b>.<br>
+<br />    <br>
+<br />    <li>Q:Do you ship to my country? </li>
+<br />  We ship everywhere, always have and always will.   
+<br />  <p>
+<br />    
+<br />    
+<br />    
+<br />    
+<br />  </p>
+<br /><p>Prices are intended to be competitive  and reasonable.<br>
+<br />    For bulk orders please message me.<br>
+<br />    Bitcoin is  the only accepted currency.</p>
+<br />  <p>
+<br />    
+<br />    
+<br />    
+<br />    <br>
+<br />  <br>
+<br />    PRICING  &amp; PAYMENT<br>
+<br />  <br>
+<br />  Prices are intended to be fair and transparent we could overcharge our buyers but we chose to not do this.</p>
+<br />  <p>When ordering  send us your shipping details make the payment to our wallet address on the payment page. We will not do direct wallet to wallet trades, make a account on the marketplace so we can keep things organized and have at least an noncompetitive staff member to assure every deal will be monitored. When the bitcoins show up in our wallet we will ship your order.</p>
+<br /><p>Why?</p>
+<br />  <p>Because it goes against our principals we look to supply individuals with Arms for reasonable prices there is a profit margin but not humongous.</p>
+<br />  <p>At this moment we only accept bitcoin as a form of accepted currency because it is the most accessible we might implement Dash-coin if it proves to be profitable.<br>
+<br />  <br>
+<br />    PACKAGING<br>
+<br />  <br>
+<br />  Expect a large package containing electronics or supplies we cannot disclose more information regarding the topic.<br>
+<br />    <br>
+<br />  SHIPPING</p>
+<br /><p>All orders are shipped with 10 days time with the utmost stealth.</p>
+<br />  <p>As soon as a order is shipped we provide you with a tracking number which you can use to track your package to your destination.</p>
+<br />  <p>All orders are registered mail only!!  We do this to assure that we can check that the package has arrived to the destination in case of any dispute.<br>
+<br />    <br>
+<br />  </p>
+<br /><p><br>
+<br />  <br>
+<br />    </p>
+
+<p></p>
+<br /></div></p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFiKV2EBCAC/4LjEg2VgDUXVNaYmtitmpAWEqxpRhfO2EZDG/bhnMru7hpMr
+NuVEWU9tuTTnElP9A79zcoV9RKZq0brtZnpFPz5KpkuXbcj7UOALC3OkTJxjTjvP
+C3S9T0voXPIT326AxYbfhJLgyW+KCdqcqh/qYBwAjM3F2fAcy+wRBp4wz8tIm+Eq
+ou3EBOgw3pRsymFp9+bv3EGNeZ22T2KrDM+aMAwgJt88uOIGglC4vQ+VFOb0jFhD
+KQVI6veC41xsS3EQMUT8ia8MqqHTi/5zYNr5oUYBI6d0qscNWFuMAsjXvcIfrp+z
+4U18nUl+tQQUeMPWboGhXjdTCvHwda9lFWAHABEBAAG0F2RhcmtlcnNlaWQgPGRh
+a2VkQHNlaWQ+iQE5BBMBCAAjBQJYildhAhsDBwsJCAcDAgEGFQgCCQoLBBYCAwEC
+HgECF4AACgkQzJhMuLPVOEljWAgAu/vRo44+yY+dVYEA3vteYxVJ1G7RN1hfTisr
+gNc+D8IPlBMIQ3mNCYC5WurksxvxvtuqIL6Gz79AAl01slSeEf08SuYkbMcjTWr/
+h0HGp7Y1wmlTXm79QUhEL638WvJt6Kvpw9sLst5LyoQyuJXwMqJ/BgSfj1VvlkNR
+7IQo5I846h+RUMYwXFhc91qYKfa+6sawdVPr44bU0ahgRbc+W+Q2kQ6ZN2elcRVO
+XDnOYUpBEK2KyAF2YvSqlBuUjb089MYblz6sy++MbczGcPG+6Bj+ALLx48E1U1hh
+53HA7bNggOeppnilfZAxzSOtDlQaxaJXYIVPsmYLKtoHV2md3bkBDQRYildhAQgA
+0rYtTOJQyR/Ghty1/bdNOsrluK500tzXuX1W2lY+/Suzirl+18ru5JHEgREsKhkT
+xXZlJg3pcbxb5RFlC24Joe+Kk8v4IlpE780YzQ4nWNe3uY/t29lSR3xFHj4pRIKM
+Zho+aYgQlkY4igUzV6qXIX4HLo8SE8YsThvBqe0TQeeC5PdRaBboFquredFCZEuE
+dTDEycvQYzty8zSfEgWtwI88B7YybJcNVIzzH3/XY1zc6lRAmkDSsjY2GYPDKAvI
+gAlTkrIUpHGdGVpcJk+pzRiSUnIufCB+FNWGMApssuo3wz/7jqdmA7jFgoDmJbRe
+w3rN11EsXjSFsN68uQHvKQARAQABiQEfBBgBCAAJBQJYildhAhsMAAoJEMyYTLiz
+1ThJxSgIAKSRLSQufL4nYDBvx22ZhZ331EDa3PiVYPnN7LjCgwT1tnHO4x72QlFq
+zjiLiD80zOh93JOe/93pP+17I2XPLuPonGdXPZQ9p7CeXIWaMqTYwtVlaFGcR4pZ
+328SD62jf5/I3b3iptVz90xsuCErHB4prKYe7WHW/ICyO1OpLB1+M6lyEVdPnxWw
+CbF99e3qrTi1nyj5+5GyW9qwTzXGkRkzHruDBC8B94w7e3uegJwz77/3ij9lAAMo
+TlmzcHal58eLh8cg/dagL82QHglOjP0RT1L8X+xTCJ0oqeSP4S7RUikDFGyZhHaR
+IhwAKnA45a/XMoLtY15XhRvSzv1k7zM=
+=rtBf
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

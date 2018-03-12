@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Dn7Zk2v9lUrOi53s22i2Ph6GQ7SRnnGj/Qmn++bUpu5WuV/E/QH2bprCxCRpUX9qWpdGWonFGVpQ0zOadsTUWA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>ganja-base</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>196</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-7</span>
+</li>
+<li>Total revenue: 6379 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Wecome here to my store
+<br />We are shipping safely from the Netherlands.
+<br />We only sell top products, this is what we stand for!
+<br />We dont send track and trace.
+<br />We send all our products in stuffed business letters
+<br />with fits in a normal mail box, so that no sign is needed
+<br />It may perhaps take up to 24 hours it will be shipped.
+<br />We ship monday to saturday
+<br />Have a nice time</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFfLd04BCACthKycmLwvvJtn/S4TcVwyfgRGHQLOcx6hVt1+2lBy/cRHaW/+
+TxnEorpUXiAOlw9fJyeLPX2sDnpiL9zaUfY/py2OzFS4wDIDN1ZScCe50WHf/Ugc
+a3SLQYWGDQY39+zTb8oiim8EDXAUZcq8pZVcWrflIj5jmdZJFkhea8gOMs4G9e63
+hDgGXlNsglb+IkTJ8xCoQ0cgkyl5UvFAQWBJFk20+IMsCWinam9w3c4WM7VpLZBF
+2yhz+JfPdwEfpJCOcT9q9wsdyKBZQNzl2Lc86NR77vsh8IZDBgoJqeAWAqrwEQ+I
+FYFypzIwCYkwPfA3PW10vZc2JwJYS3jYi/6vABEBAAG0G3p1ZXMxMjMgPGdoZmdo
+Z2ZAZ21haWwuY29tPokBOQQTAQgAIwUCV8t3TgIbAwcLCQgHAwIBBhUIAgkKCwQW
+AgMBAh4BAheAAAoJEAmi44+h2AnKiC8IAI0VT6yWqNtVmBFbcU6oKMarZcc3/8Ay
+s42KXh1NNLVLyTWuVGJwQpH2iv/hmT1cIK8veVzjHSDWxZcjwAGnGYu8GAQCYtwa
+kAhv98hA/uyYQneQR3ibBOAwVyzG9jfEN5IutoJ3hDoua47Q60iWPAnBDjFcN0tF
+Jh8ll9C963cRQkgyz5eOvyr/m5ftVZVbHSN9bbSmMTnE4l73e5oh/8xbzYAl3S31
+w64n+lYZFdTzmqnV9BB68oGJyhGBDQyO5fE+AAFqt0XD1KT8FVtEXwy7ug6enhNv
+0oEHTo84HKNx01SGqhrqIqFFdvPQh0c4PTPbIHJHbbGGXdR+KbY+AFS5AQ0EV8t3
+TgEIAJ6fMq0kkpZKDKUtJrBwYeyZFNkbTU3BpZX+Zj0YaXf5tNvtXntfjDaTj7KA
+HAvfiNe6pHmiZzzUH5ZGhE16oz0FfnwP7SI1r+tx2Udz/ltHzxrAfvUyaJYhkfOq
+Amuz37FdNFdNZXOXtpDueJ6U/9YbeXwkXDRK9s6Zqr9Wkitag38lmI72djxjbOS1
+nRsajjZp8RU0b3uV/gpEQkm7oMn4Jd3x5M05EbG0H7ZCpyBF8V7juE0VXeF6440J
+S6+tk/EraH9RUq5DVFgj4bvF9L3/l8gBbFx8lP+gvWTDzwSxIKEKt1vyzXMnla/q
+s+QbG9IQL9yTDOf90GML1d8k1WUAEQEAAYkBHwQYAQgACQUCV8t3TgIbDAAKCRAJ
+ouOPodgJyvaOCAClzyHcUht6NYCpV5Z+nqZKpW6w3W4Qzn0FbYbyVNpVXOmZy9qm
+HQE3rQrPqKnATQO3qeg43QpT9EA01S6vtJrL2KWHSXwZuIrspDP+Q9PiwmuxUVOE
+cb21UhdYwX1uSTh1hIOG7l768lKwD6kiuzV3QlGPF6mkO07oCV/6AMjJP6oICcg7
+S/AKTJDT2nyp5UgodUfWCQZ2z1EYSqUTc0MD+xC9RzcqSVIa6l531R0vQLJdMz5J
+9TKbTP7ex9znkzKi6mXX0O5uu+AlEiuDtPftZy8MQcbcRJBQvGaJ8MalpJ5ac+qN
+hnpAYgNuAmUL/GzDBCEd4RcNxZlKKkxN4WTx
+=xcvx
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

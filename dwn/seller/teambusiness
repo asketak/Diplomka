@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OwlbfbEmjIyltPB8P+2fnxd7KAhiQwjjxAk8qaZV37Jjzt0qJ9rvqPH9qbSN1FbLU2ot5noYYBpp06jINkWtBA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>TeamBusiness</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hi Guys,</p>
+
+<p>We are some German Guys, we have specialized on Heroin. with fastest delivery and best Quality Products. We are on other Markets too. ( If you want to see some of our great feedbacks - you can see on Alphabay. Vendorname: Business111 )</p>
+
+<p>Are our Customers happy so are we too :-) if you have any question dont hesitate to ask, we answer all your questions :-) </p>
+
+<p>Best regards,</p>
+
+<p>Your Team Business</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFbZwwwBCACPeyNS9AQi1VEuOp3S+kHdQy4SDlHYpq/X9OBuw3svs5gc6qD3
+JPBXIIoh0jg/SMw9yDdFa8NqyM7icu7xz95pPXaNB/kh0Z8k9ZBnMIU9A1V16zhH
+8AZx82lK4vwutPndEuPhw0EsTdvMlSwULMoQwP7JiYAjwBsrNufLZ5yFo1tUWMMH
+HbUUGRXUv/2l5RU8EOrLXTZrkO6QTZPjFbW84PxJjN1KAKfdwhVOIHEIVngmXfYX
+xR3ZBUrJFFpPuIvm2mo1OCYzCjBD9T3qxpX2fw4ewxLe7/JUw6yKg832UUsZGHrv
+0LE2D3nHNSrHiH8PX/kFMpRh6OiGz2xIAWmhABEBAAG0FmFudG9uaW9lbGNoYXBv
+QG1zbi5jb22JARwEEAECAAYFAlbZwwwACgkQkiV5KbmotDjVOAf7BK4+EK8IAZkv
+JwFXnu+38tlX9e1Q5z/l1i5PfXndwUJLsiqfw0aNakhFDPBBIAFiZ41wkGCFFML1
+WkublDs+h1ZoPFwWeWPbGnnZaLG0NKxQDWeJ1ajCoRWZ7n0mdeFXSgrH4fa1HoQ/
+uHFEArOpcCg9UMxCCnIF/qBXM5HFD9xBmGfwuNpaXJOkG4Hv9eU13BfeHX9bHAlz
+SY/tOC56lLbDCoIRbfUgKjUhil65z1zCKemzxvr/UDlkcjJ8/xJoC4NLXpQHLVvm
+kUSXOkQkb1cCITVZw5J9MEKVT8Tz2TRX0XxH5SYN0HJUNiRH0aPsac46ANhx3cjc
+OFzIVs9T/g==
+=LzZs
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

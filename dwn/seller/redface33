@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MpQWWspOXwapTpG321RMspi3oOoI+OjBqsS1z9VpRZ1qU5ANXLI8Iv0HyH9pbYXm3KalBBCjgDgHHiGuRXk3Kw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>REDface33</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 2761 EUR</li>
+<li>Last signed in: about 1 hour ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Austria</li>
+</ul>
+<div class='description'>
+<p>
+We always have Glocks 17,19 and 26 in stock, if you need something special we can work something out but we would have to outsource that so it will take a bit longer.</p>
+
+<p>We accept orders in Escrow, you will have 3 days to finalize the order after it has arrived.</p>
+
+<p>REDface33</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+OCkpgGDAkZNHItju/nbMLKeo
+=lVOc
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/77063"><img src="/kuvat/tuotekuvat/1e1ff16efbd9f9c519bcfa0523fcb6f32b05d449.jpg?1482422708" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/77063">One Glock 26 </a> (<span title='1920 EUR'>1920&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/77423"><img src="/kuvat/tuotekuvat/476282e07f5e0e89e65ef8d2534048666b30683d.jpg?1482776509" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/77423">2 x Glock 17</a> (<span title='3280 EUR'>3280&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96370"><img src="/kuvat/tuotekuvat/635f08698edc8a004e6d56c10ddbafd2761fb5f0.jpg?1499526498" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/96370">2 x Glock 17</a> (<span title='3280 EUR'>3280&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/77410"><img src="/kuvat/tuotekuvat/30f8cd04567c17fe14b16ca8fc51aaffda93b97b.jpg?1482763925" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/77410">One Glock 26 with Extra Clip</a> (<span title='2150 EUR'>2150&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94482"><img src="/kuvat/tuotekuvat/0e10bf4c1d85474aa5ddc91e7fe87efb4f180ff7.jpg?1495498038" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94482">One Glock 26 with Extra Clip </a> (<span title='2150 EUR'>2150&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78046"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/78046">Custom listing </a> (<span title='923 EUR'>923&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96237"><img src="/kuvat/tuotekuvat/710207859c878f996c2e3421e1d153b8217b925e.jpg?1499074419" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/96237">4x Glock 19 </a> (<span title='4400 EUR'>4400&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/77034"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/77034">Customlisting for TK</a> (<span title='872 EUR'>872&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96371"><img src="/kuvat/tuotekuvat/a549d02de2a2e0c536cf403f708b4bdfa794edbe.jpg?1499526569" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/96371">One Glock 26 </a> (<span title='1920 EUR'>1920&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/redface33/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

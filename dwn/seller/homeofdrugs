@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8MyRVbMgHHV/+UbVu0Z5BhfOMjlHtccjDxRpGBhnJ06oCxcCJdx/USuwHx0Jf7BSU98311/ur9qizv15iHdV+A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>homeofdrugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>225</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 8782 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hi guy's welcome </p>
+
+<p>We are new to the scene however we are offering the best quality XTC pills shipped from UK.</p>
+
+<p>We started off on Nucleus and have now moved our shop  hope to be here for the long run.</p>
+
+<p>We currently only sells quality drugs available on the market. We will soon be offering more
+<br />listings in the near future.</p>
+
+<p>We offer FULL ESCROW &amp; FE lsitings</p>
+
+<p>Our stealth is very high.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFaED7IBCAC10rAj2NQ11suMZqIQGkKtFpHPR24fZ4hOtHoaDBN4LdI5uK9h
+L/LmY/wrNapSqjwvIgjljpAKdZzzEUFVIKbpF3wycuoUiI26UTInamcXpwY5bh9h
+Rkbv3NXtgZQsrNUvrVLdJY6ImZx6e0fnj+atnhyakAZgQHEDs47FY+TxMwn8RFdB
+th//nKlPxkCzH8pyl5iL/I2TXyWHW5MbVS4xzngh1ulVhniGXkWPFjM9D0HKG9Fq
+8LDd+ULGm1e9DDoVHM0u6xT1UXgiqC3mmrkJPiJAg9lp40viClN9hTPdH40bZoVZ
++fUAmZUn5N4AkQw3uPpjnTNW4JdTaAMUz9ApABEBAAG0FFYgQWNjb3VudCA8QnVk
+ZGhhVUs+iQE2BBMBCgAgBQJWhA+yAhsDBQsJCAcDBRUKCQgLBBYCAQACHgECF4AA
+CgkQehituyeR8I2hqwgAr5VeRmIuz3/ECg31P9LV5M7z57veyMweBqk6BtTUw0SP
+wg6sonUoUyXOiUDFrndHQQoV1Enp3uc2B2p3x9ReIh2B+SFNBQOeJ9YaJa1Gtt+b
+B9m1r4liEH988+HmTOnDyFvMg8rJh95eRi8GTp4FO9BpD/CVaxCLROX3rw72ISmf
+xFSyRR4ILiZHRPX+MWiRypWyF58TNYIlhlECr4IhOagK8parMSPaSJ68VdwwjvjP
+K1q30i1wzBzEgc9q0si7KVwgzJlNyztNByczkUav0ttcm62cfPk5I2lAuzWNyL4k
+g1VWmSRb7brZcOZCMK0h39rQJ9xfyPLC56asEoPOVbkBDQRWhA+yAQgA4vjdikTD
+sivZOusfHhlvApk/rVnuprYF+eQU+EjGAV0Ma3Xqok15etcJD3J7wfiIFp+4o1v+
+Xe7aHMdHXP298TTuDcLfWcKuDJqJ2QB+JkzJvxeB514WzxNSHDoVoE27Ad92ZAJx
+560sgMu9bQOOzjgh0bIwlbzlEMKPxKkGE7jISEw1vz4dl3P6HBVMgD2SrPDjDIRI
+q9Rp3rg9ss8DjJO2T1zuVOFQXrPfrtm4OYL1PRT1Z8lM/8gJYp/6nMdX8QdTbYNk
+/zB+ejqt0F2/aTRoYWUVWhTulYKrcw0vBfE8Ynm8Mz06oIpaXy5vUaNkPVWvfkKf
+FSsy5g3/UJA/lQARAQABiQEfBBgBCgAJBQJWhA+yAhsMAAoJEHoYrbsnkfCNvA8H
+/RH4tfq+cwD+zcX310xSPQ9fAc8yNzCd3VabDPk+2vfbfQNsFXTkbmjuG2uTPPHq
+36pXqsKohjfF3HyK3MPabJPkS5spzQBd4Mg1eVaJ5Mz89EH/FZncB8BUlekF96t1
+PJR8SniAO6ATnrRY4T4husZ0Q1EMcjBS61tkDq6eHSm9ff8qFDbSvGQfoE794JWR
+CT6lzSaV5Wm0zk2c3oL/+JEq6tFZNBbVZ3p+BRfrtDP+8xDtniZu0IkCS+tF/dlQ
+7WLrvp8TzZ+eHEPgfI0r/pv5tpUqWwjNCWKJU5nvjmy/sTfjt5mJ1JduoLk9+1t9
+r0YzsZCA8ZrzGVaNLgYcdlg=
+=BUTH
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

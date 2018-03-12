@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DORbVmwajcL4notVc3Z+2WVb1SF1uSpSPQOL8nsxVIZUI90B+ubu5qzX0p3BT7eNIUrQz23iQquQ2R+T6yEmMA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>guidetti</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>guidetti is a Dutch vendor based in The Netherlands. Originally started back in 2013 on the successor of Silkroad, Silkroad 2. At that time the only vendor who'd sell high quality oils for recreational and medicinal users.  
+<br />After the SR2 bust, he had to take a break due to circumstances, but after 2 years, he is back on the Darknet Markets selling his well known high quality oil.
+<br />With a background in medicine and science, he knows what kind of precautions and safety measures he has to take to make the oil high quality.</p>
+
+<p>Every product he makes is done with these precautions and safety measures, so he can ensure our safety, the safety for his environment and the safety of you, his customers. </p>
+
+<p>TERMS AND CONDITIONS</p>
+
+<p>Every order is shipped within 48 hours, with outstanding quality of stealth, to ensure safe delivery of the product.
+<br />We ship worldwide, except for the United States, Australia and Israel. Our arrival rates are 99%.</p>
+
+<p>If the package was seized, we have to ask for proof of this seize in order to issue a refund. </p>
+
+<p>Trusted customers qualify for personal discounts. </p>
+
+<p>You can PM if you'd like to place a large order, we set up a personal sale to fulfill your needs.</p>
+
+<p>If you have any questions or remarks, you can always contact us, we'd love to help you out!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFWw2hMBCADaK6JR+DpFVJM7oDxkrPkUY+2CyzzFft/oH6EP5jNI84aOgoiv
+MLvgPJDj3GSOmbCikPSq7Od0BCSEVj5uSn6DQaVeoBa0XAhJIBXzj9xntNXTbkBa
+Q/wA8xggLehNftY33HshGxcc8xul6jmFadPjxe7+AyKM2suh09S5kjPZp2qxUgjN
+MaFIxOi00W1Ig/CxXDPMfeZJvFPofck8CnhA6KaYOZOfB4q9/Wlz1zTR2i1hbCbh
+7EKI5nJv924bJaqObpK5im5+YS2WbROecas6Gt62HzLLqPwucAwwiUYbwWZ3L/ID
+STcJ6grhUs415d1RCE57wFT9XQ95mUufULVbABEBAAG0Kmd1aWRldHRpIDxndWlk
+ZXR0aUBzaWdhaW50ZXZ5aDJyenZ3Lm9uaW9uPokBPAQTAQoAJgUCVbDaEwIbAwUJ
+CWfczQULCQgHAwUVCgkICwQWAgEAAh4BAheAAAoJEK4AULP9iiiICFkH/jKB6BCc
+JYhQOMx9PLFkoVBVk2nWMApRcOPrtSj/h1lo1UmH5IkTTRNDE91KN2lh7opnUp2Q
+NLbpK6jgabNBMzPxvGN9iV7q0f3EWWwtcr5H9CV/SSZO+KfIiU220bKIHpUyPiRx
+4vzsB9EaRr0jTU+T5htCpyAueTHbc5HFMMGA3Fqq0YPoN1puG69mDjN1sMa9UvQN
++PSN8dXbEP/2TfPZm4D+RADu19vbBF+u6fX60pyVNvJvBChTyCmGasVin85cNo6+
+vQ/bAACM0OBRGV/kjhjrIxZDHreN+IRj4IRSG8gxgirZLhc8hH9Yba2CI7rnDWxC
+TS4fVvYgF8QZztu5AQ0EVbDaEwEIAN0WUghgCTHZsbwhia2aMsHuJ0KOCI8KVrtQ
+Y035B77BAh1rY7MWVdsf/JtsAUAF4ve9GEXxgLAm3Ma2MogFDNwsubQ7WbaAn3/9
+D+mZ6uJ2KXbjL/iJBW6ryLlD6rOdAw82BCu/uhN4gLbOdsOhLarmgd6xZtBXhHdb
+AqmwRUYmrTomZ5GwxA6cgkWnV0dnkIbyRvREBL2XoZcVBuV0OuQc3s9a5F6/AJQC
+sCP5MFwMgef0t87Nw3mHmNvTfHEO374THjUdenSg4Kh1WRPtDW51cEFKsC/Slzz4
+xmszV60skhd1u+K056s4cd8hPlMWEtowRPBdvcqScnTkrLzEU0sAEQEAAYkBJQQY
+AQoADwUCVbDaEwIbDAUJCWfczQAKCRCuAFCz/YooiLHuCADEu3XOBKtWOwhBN6Cw
+FK83t/yr9GNpKbxi+l3t5yotUY7vb4/q+PQ1s3cyJAYK0UMfxFTBu8ToTlEAC/Tv
+lo4pRRjlkBhpTMktoesfyCNsjhJRYSXPDrOn1QlcIJo88aPBXXBxEIcWCMyoXRHM
+eno0Swt2Sku5Y09apb70KwNUx1+ma90VTT9YMSH1VjylFlex4MM3R/jU9CvXEd01
+7a642/ePrfxKh+d5XXSk7Crm1r9cfMQ/ZV7SRiPy71oXhYxm2Y0SQeGb6BFiz+Wp
+4j25/y8kVh63xl41xU2yxfi1qnffJ/nR7jhAM4WTB4SCx07CPl0TQNk4wfBvfGhp
+/X/E
+=2rpL
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

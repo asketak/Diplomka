@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lfN64Rr+2Fjw5iAswzgqrs+xhqtaSgGENUT7rDUiWk/NNPy2jAK7fKSveeRxAeP6i6CDRUIRaX2Ynm/NpTIo+Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Noogz</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1678</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-182</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Noogz at your service!
+<br />                    ***
+<br />Question: How do I need to format my info for ordering?
+<br />Answer: Just like this:
+<br />Name, surname:
+<br />Street, number:
+<br />Postal code, city:
+<br />Country:</p>
+
+<p>Question: What kind of currencies are accepted?
+<br />Answer: Only bitcoins for now.</p>
+
+<p>Question: Do I need to sign for my envelop?
+<br />Answer: No, it's never needed to sign for anything.</p>
+
+<p>Question: Is it possible to drop products at a certain place after payment?
+<br />Answer: No, that's not possible.</p>
+
+<p>Question: Can we interview or meet you?
+<br />Answer: No, that's not possible, commercial stuff is a big no!</p>
+
+<p>Question: Is it possible to ship towards P.O. boxes, packstations or that kind of related ''drops''?
+<br />Answer: Yes of course!</p>
+
+<p>Question: Is it possible to make a custom listing for me?
+<br />Answer: Yes, but the minimum price must be at least 20 dollar.</p>
+
+<p>Question: Can I get a refund or reship when the product doesn't show up?
+<br />Answer: Sure thing! not showing up is a very uncommon thing, but you can choose between a 100% reship or a 100% refund.</p>
+
+<p>Question: When will my order be shipped out?
+<br />Answer Always the next business-day,
+<br />If your order is placed on friday, saturday or sunday, then your order will be shipped out on monday.</p>
+
+<p>Question: Do you ship worldwide?
+<br />Answer: Yes </p>
+
+<p>Question: Why is the shipping-fees for Scandinavia 15 euro on some listings?
+<br />Answer: Because the stealth and shippingfees for these kind of orders is only ment for Scandinavia.</p>
+
+<p>Question: Why are some listings shipping-free towards Scandinavia?
+<br />Answer: Because it doesn't fit the stealth for above.</p>
+
+<p>Question: Do I have to give my adress details again after a new placed order?
+<br />Answer: Yes, your adress will always be deleted after the package(envelop, a5 or a4 type of envelop) is made for shipping.
+<br />                    ***</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+1XhEtoZF
+=JfvE
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

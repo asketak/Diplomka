@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="U4510jbJMk4drUEHJ+lk9V76j/3lwmRqgLU+xXtNvOELSfOFoDVRaknkGM+V0K2hGuuKE/2ZDJMtb6qk613OVw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>FalconbergManor</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>I've had several customers request that I join markets other than AB, and so I've finally decided to branch out. Valhalla seemed like an obvious choice. </p>
+
+<p>I look forward to doing business with you. </p>
+
+<p>Thanks for stopping by.  </p>
+
+<p>****************************************************</p>
+
+<p>All communications containing potentially personally-identifiable information MUST be encrypted. </p>
+
+<p>No fake names or addresses. We reserve the right to cancel any orders based on fake information.  </p>
+
+<p>No refunds will be issued for packages marked "delivered" via USPS tracking.</p>
+
+<p>Please try and release funds from escrow in a reasonable time frame. </p>
+
+<p>If you have any other questions, requests, issues, concerns, etc. -- please contact us and we'll do what we can to find a prompt and satisfactory solution.</p>
+
+<p>In the event of a market outage, you can contact me on AlphaBay or on Hansa Market. 
+</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+mRUiPnW+XIJYMfE=
+=5TB2
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

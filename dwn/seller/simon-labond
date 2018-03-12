@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4UlSb7X36QcnpkhiFM3kM8aNWy+Di4HF09jKr7xtKCa5jtQ4IwuKI3PvEaqm9C1ngpxewZvQ6Tx+Al7OLH1akA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Simon-Labond</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>679</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 1919 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome Friends</p>
+
+<p>I am Simon Labond from Silk Road and Agora.
+<br />Grams profile: http://grams7enufi7jmdl.onion/infodesk/vendor/0x731B625234EDD4EC</p>
+
+<p>Geltabs are made in different colors to avoid confusion. Xanax 2.1mg is Red, Diclazapam 2mg is Aqua Blue, and Fentanyl 500ug is dark brown. If you have any doubt message me!!! </p>
+
+<p>Shipping
+<br />Please be sure to provide me with an accurate address and double check it. Please use a name that regularly receives mail at the address you use! If you want to try using a bogus name ( not recommended ) at least send yourself several letters and several packages and make sure they all get delivered!!!
+<br />It's not my fault if your drop scams you and as long as it was marked delivered there will be no refund!</p>
+
+<p>Payment
+<br />I only accept payment in bitcoin, no exceptions!</p>
+
+<p>Refunds
+<br />If you have a history with me I stand behind my products 100% as countless customers can attest to over the years!   If your order did not arrive and it is for a reason other than "undeliverable to address", new customers will receive a 50% refund or 100% reship, and longtime customers may receive a 100% refund or reship, depending who you are!</p>
+
+<p>Security
+<br />Let me just say your security is my number one concern! I have taken the time and done the research and I believe 100% that my packages are dog proof!  All cannabis products receive 2 layers of MMB! The first MMB is done under a laminar flow hood with a true hepa filter in a "packaging room". After a double seal it is pushed through a flap into the "clean room". It is then cleaned with alcohol and put into the second layer of MMB. Packaging is done at other end of clean room under the room hepa filter with intake from outside fresh air. Dogs are the # 1 way people that are not complete retards get tripped up and should be every vendors # 1 concern! Let me assure you it's mine! SHIPPED FROM A NON DRUG PRODUCING STATE!</p>
+
+<p>simon-labond@sigaint.org</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBE8Dq/8BCAC4lM8hfkU88Y14GC2xEZ69OXBP6XhPa6vg0geUdVSVxQT0vFtM
+tDenk1XjIdCmAyIvGBR5PCtdhHccKnByWarBrRWfhl0dETuGMqgqlARj0ydOaVaB
+8JgLFiEOwe1CrALB0xJjnrC94kO7mnMtghrL/ojrZe3D9lw4PjVXL7gf5QbOGHYx
+rXFclgVDBMN3m+i0+jNU4P5afFRhehH1OJD7mXnd9StwfsFef2qxjuVUI8HcpBxr
+eQeLzC4CXzlgKdCpx6SYh5EloYXEFMsht/AZSIV+lLRpZ4r4ajSke6pGdHIkwzCL
+AiFNX6PoNb9QXOyF6vka+x/31BZXxYQxv6erABEBAAG0I1NpbW9uIExhYm9uZCA8
+c2ltb25sYWJvbmRAZmFrZS5jb20+iQE5BBMBCAAjBQJPA6v/AhsDBwsJCAcDAgEG
+FQgCCQoLBBYCAwECHgECF4AACgkQcrlR5qb977OgAAf+PxaLK9+RO2g20A3yCv6k
+omelx46HB98spXUGQpZEpVHdXsXxb4Zp4m9YrXtpiGyNdz9wHhb+aNFvbJWZvspR
+7zESx1fV8QMehW9Z+MEP/KpB9vo1WAm1giWI/E/Ro/XWOqktLR4HhjizAEAsdHNO
+lzVNPfsKN8WTd//VTfvMquXPALvySfHq90emp4Pp6JOH2OGkUBaMGjfRMsAH3x1f
+XbYcNTN9CeP80QuT938068Zvis5WBGAgXl2QOs0qtdHR75QyvChXIFXfnY/dtB5K
+J8ifiiRirxTCXXs8R5naO/1qlufYSH3uUd3e4Wn+G0sspT+Tdj+iN15DQEqhRZqc
+rbkBDQRPA6v/AQgAtKiNAkhdQnwLkRHoxUf1Lnt4BZL0Wf4ppfn3WD5z+GtErAdp
+/EbzcLuOzW5jIKWkvuEK+KTKrlqnu5tQoPQltsFDNVfEkyt3GA/QY0QPtF+2U90g
+qiCFt6elmgelnA+MF8J5If7gmAtvyhH2u2CdE6NY7MV/D9cYd2fxzAchKpTiCsvQ
+FOhZG331J8apToeAgiKZ+C2j6oKm4SWHgH3BdbHZ48xjDvj+dDkkCg2UTysRIXlh
+iUeeDGHzGP+jZjne7ddJK+pqleO12CwRSftL4vnpBZWW+hfwrHnDhhvv24pMhnbN
+UnwC03zqKBsrW93gGGNgamcclXFCOkK9SU46UwARAQABiQEfBBgBCAAJBQJPA6v/
+AhsMAAoJEHK5Ueam/e+zun8IAICEk+tKiS3RDNgsiVCxbj5rlY4ObteMU9D7qbH4
+3OLmzcXnoNEVWHySEz3cBjWiSh8H1IvstUaDab9VrW0xJDhdhFKSNbHHL2sJ4oIG
+3E6niV/QYsOwgpjSrWXD4iWu1xGFzLGizfiR+ZWGl8+4apXHR9eTaEeNmSFCYt5W
+FF0FcFr2J7fuBrQlLT3NG9hqXK+hD/dwXEyojAFF2tZHrpdD6IFK/GmHic4naV8z
+pwjFCO2PP5b4219bhPLUlEyg8RmjymW/4gSDZYeeyq1V3ynf36TUgnsfKMvlqWCH
+BHyH0GYeV04kr4ahLNP85n7wFGyQxjPiv1AXGN9y1xpIRFg=
+=Ntb/
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

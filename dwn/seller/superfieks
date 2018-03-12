@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FqXRXpWkMu6YVs9PnxYxgjm+reLOepUJZoHTmL5GDN1OYlcJA1hRyswfloctL/jWfa+oDNYh/fDLW0f5LlZ+aw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>SuperFIeks</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>495</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>SuperFleks has over 15 years of experiance in providing the best product for the best price. Our product is Cocaine. More prodcuts will be added in time. We moved our operations from the streets to the deep web simply because this is a bigger market. We are based in Germany. We know what customers need in Europe.</p>
+
+<p>Before we started on sites like this, we ordered some products from other vendors. Our conclusion is that they self even dont know what they are selling. We can do it better. Unlike the other vendors we dont mix our products so it stays pure and original. We like to provide you a pure product so you self can deside what you want to do with it. We manage a big stock of products. Either we buy them from first hand dealers or we import them self. So you always know what you get.</p>
+
+<p>Our top priority is to make serious business with serious people. Hopefully for a long period of time. Scammers are not welcome here. If we have any doubts of your purposes we will not do business whit you.</p>
+
+<p>We only communicate with PGP. Meaning all the PM and emails have to be in PGP otherwise we dont respond. Yours and our safety are a priority so please communicate only in PGP with us. We speak Englisch and German. In the case this site goes down, note our email sow we can go on with our business. </p>
+
+<p>Email: christucker@sigaint.org</p>
+
+<p>We ship from Germany. We ship to all EU countries. For other destinations contact us.  Shipments will take place between monday and friday. In EU it takes 2 - 6 working days. Please send your name and adress correctly so we send the package to the right adress. If the shipment takes longer than one week please contact us.</p>
+
+<p>The packages are always sended in stealth. Meaning sealed, vacuum and in proffesional looking packages. For your and our safety please destroy the package directly after.</p>
+
+<p>Refund is for every customer individualy different. It depends on the customer stats and the destination. Customers with less than 3 succesfull transactions with us will not get a refund. Also we need a proof by documents etc that the package was intercepted. Please always contact us first before you deside to leave negative feedback. We will do our best to solve things in the best way we can. </p>
+
+<p>FOR WHOLESALE (BULK) THERE ARE OTHER PRICES, CONTACT US FOR MORE DETAILS!!!!!</p>
+
+<p>We hope to do serious business with you for a long period of time.</p>
+
+<p>SuperFleks </p>
+
+<p>Nucleus: Down
+<br />Dream: http://lchudifyeqm4ldjj.onion/contactMember?member=SuperFleks</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (MingW32)
+
+mQENBFLbO+YBCAC20jN7aJcCps7n0/JIFjdD1m1/x0BAkfQvm5zwUgDrny5Ku7sH
+toZc+MV1hwFIrM8/QYrKhtPho4BJsEANJ3NX3VHxMrBrEmpfoGvKqOx32oy8Ffgq
+woRX22YAwkAKr2/1EdUU1usjLn0zIr38aFJMUvInkSHjYeMoQsaZBg95A/iQZeeP
+YNISJfKP08aG1v6Ssnr8i1Z+rXbNpW83khH/p/ieVTl+1UFMd5B8RSbLlNI9f+Mh
+8H3gfyRemLVcj6hUCG8sHaJq7An9lsl6q57R6bpseWpAyypLNni4JomZw80n2FEb
+I2Fslj7PUS8Rqg1yrEy35ol+tWQiiZhd5TRnABEBAAG0NHN5bnRoZXRpY3NvbHV0
+aW9ucyA8c3ludGhldGljc29sdXRpb25zQGxlbGFudG9zLm9yZz6JATgEEwECACIF
+AlLbO+YCGwMGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAAAoJELn4nbGuYxruGcQI
+AI8V7C31kOUsRwSar8CSub1Ma/pLm9YwUwrIAscLi2MdMf+b1OmN7PpTNIdpjbGd
+FDS8QmriQcilEsAHVesmshZS2FXuC99JXSwpQvJzbxn2mvwBxtBExacps1Xll1Ql
+i5UxkSahUdfM4o2lu4032rChiE7WDpFFEwoUdxNsLDMeBb+3Snp24/GJHKQBa1UD
++pT85UT8yTs/A/ScGb/FxtqeaAQQaqwCYhK39WTFKLiEvVco64tsnPI+1eWj3+v8
+3YT/CdMRv8N/bWJ+JUsmiCFc96EJ5HEm00KlqoQxTHMCS3rCvscNJ0s+0xlXVGNB
+vUeHvpiLcuuNQeLCOQ8F/6e5AQ0EUts75gEIAMlrSm4M0NV6LFh0ciQFPaCem0Ne
+kmYaOU2lOYBL/gYW+6YIJqamFFlMDdByhZTR1Ebq2XT93ufZ4CCgsBE/SDk/mITV
+wetZ5Y4LHorPZ1AuETKFpcm9+UR/wNri3qy8XHXE0KgYGs1rLYOdj3T6IQ4I2+bS
+hc9XStreaNagY2275h1KDdBWC72euqRE1AQALhVRXrG7sf4Ll8JCngaq0RafVPRO
+kwcETS/Wtjb0deGVhYHrkmnlHFzagUFDkw4UpPqolwBXGKudS+dGJ2RhaCGXeSFO
+bmHIbpwezDs16KZIaUsucCrRqWLSyi3+zCSYG9QeiMeO2Je3WEGfZvnVIScAEQEA
+AYkBHwQYAQIACQUCUts75gIbDAAKCRC5+J2xrmMa7jTWB/9zoH/0UohPZiF1ap7i
+hI4MI/YGd8gUj1tKOKYGkdmqsK5ESNac7t4xd8zubCB8sNiAiHKiAIIfFhM5SNx1
+K7ovFyIHmz/nYdsXT3czhaJ8K0OJBudY0N6hd1FcBKTNtrVJSh0ARDWR7w3dXaMM
+5GZh9+wRhwgVm0KcyfUNcymy6+7HC4TGTPyrq9vR9AYx8ODGzqxtljOdw70rSS+i
+JkCa2ABDeCwZUWSRLS/OlYOkMC3wqx9g1wkEX9XAWE40bykWZR7x1g8S1Fqq1oF5
+TUJkAYccaPduezfLddBdETGq7O9Bud05C2OCllrF1JZp329Z1wuVPDDKVIUSYQF3
+Q09N
+=fOpm
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

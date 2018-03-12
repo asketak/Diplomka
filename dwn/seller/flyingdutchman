@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4nv0YF3T6h1/qmh2yaQwnjRu7dU1d32azg2LljAOsUq6vHI3yy+JOSvjMb57nfnKcH/oOy0sFWNj1x/3oB7D/A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>FlyingDutchman</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1169</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 314 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>FLYING DUTCHMAN
+<br />`` `` `` `` `` `` `` `` `` `` `` ``
+<br />we are a team and we work as a team.
+<br />we help you to be happy with order and to provide the right quality.
+<br />Netherlands we come from the land of the drugs
+<br />and ship from GERMANY so product gets to you SAFELY
+<br />we only send top quality we get our stuff first hand..</p>
+
+<p>WE OFFER</p>
+
+<p>COCAINE, HEROIN, hash, ecstasy, SPEED, ketamine, CRACK, MDMA, WEED</p>
+
+<p>We send out worldwide ..
+<br />MINUS Russia and Japan</p>
+
+<p>We ship our orders in small large parcels and pack boxes, bubbles
+<br />We vacuum 3 times on large orders
+<br />we use 96% alcohol for changing the packet
+<br />and use strong perfume in order to avoid dogs.</p>
+
+<p>MAKE SURE THAT YOUR ADDRESS IS GOOD.</p>
+
+<p>(Example)</p>
+
+<p>Name:
+<br />Address: HOUSE NUMBER !!!!!!!!!
+<br />Zipcode + City
+<br />Country:
+<br /> 
+<br />the address is not sent properly is the fault of yours, put your business well.</p>
+
+<p>###### SHIPPING DAYS ######</p>
+
+<p>MONDAY
+<br />TUESDAY
+<br />WEDNESDAY
+<br />THURSDAY
+<br />FRIDAY
+<br />sunday</p>
+
+<p>If you order before 14:00 we will send the order the same day !!!</p>
+
+<p>for large order we can include halls no problem so that together we can come out.
+<br />we are not hungry salesmen</p>
+
+<p>Why?</p>
+
+<p>because we buy our expensive stuff we give you quality it is difficult for us we take small profit margins ..</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFhMtIIBCACq2XGB/36bSNwmxtFzYEs5QOv1Q4ilw967uFpppwK7Tdt3IPPp
+GJE7CgIkWmILG/p6LblHuXhDaYFkgKpvaBn3guAK3kA+kFHeD6iPItd0uI7uPen7
+YBIBj5B6olkQdiwciptMhzAMoh18rIcoYnmvl+9UFfrRGSyZm0TqfTIg8leqHrCd
++Re0R4I34ECWJ/wmB4rJxzfw7AaqTfb3lHk2r8f3I6yziLrUmj/ZRUfOtXuq6LSs
+hUAXtatZhuOol+KWlMJ9OTFGjHE8qjHfZKTyfxedMEqR1OUaPvuHc01wzaeblrdp
+76Icdi2pUhQCjKfOk5pi+efTObwHzQvhgKb9ABEBAAG0KkZseWluZyBEdXRjaG1h
+biA8Rmx5aW5nRHV0Y2htYW5AU291dGhQb2xlPokBOQQTAQgAIwUCWEy0ggIbAwcL
+CQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJECRn2cSMZajfeq8H/37w/yXIne4U
+gG8wPP1gWebjR8jw77MzvJBuEyE07qf/IA0eso9xTMF1MCA0iYDa841T44wxXuEP
+Z9rhtilU9/WEVHKpIhbToHe897WX4cN30piOSKTYGxMnmDO3A1ZGB21arHj2qiAs
+Mmvd0XcAbmZl6JPL7W/4ZpL7897XmbrTnSL8daahEE5un+9DWYWQk/c4tc6gK/8d
+PPM5xLYubXAG41h5nePGoMoAjFwjJeMhmG6y5eEkR13EI6gK4SHipCFgYfxvaBpX
+DyQMGYFmI/BsiR+kYNvUllVd4prkYXRX0cAuvRSM99K50vh7PKGSoOP223oJ1Umf
+EEt6Mj6Pa3q5AQ0EWEy0ggEIAPbAckBKkX/m9vEW1duW3jYmSBeGEFlpYUPqbPyU
+93tCJ/NdzyLyiIeB1Zh2wU1K4W1olxYZvpIMxUDB32wXowqW/VQQkcbQqplRXnaY
+f0MArDSPrEPZdOxEnaW2+pibw7b5tX3Wx2uE51P4zEv1bQyHsfjCjy3akW4p1cjt
+UY+JvklPSZN8gm2v6uodGagSa9hHDEIHvnpQcmM/UPSusglAWzsowdiQ+aMNh4Bt
+wWR33t/jMHKVpLbPI24Ur9TZLQ9+tmiZSqSxfgR16osafSFo8p3LB5yzZkUSn3eH
+TiAz793dvy4cpZV4z23UalOAKlZrAmpRnRRslIfZCWl6mC8AEQEAAYkBHwQYAQgA
+CQUCWEy0ggIbDAAKCRAkZ9nEjGWo35H/B/462B6EMufZ5iR5lHX/VFmghLjmoy32
+gyDcvPufVc23LZXbkoxA5h5p0ecEfU10WcqAim8RH3/h9Tb1NBVaEmMOJhq9iGvt
+KAdnuDuNt+hkmyfLFR+lkbJxjqE/sXkmZzOCneseabXT6AoSJBnQejY/o17GPfhk
+F2uqDUPfNBwkY2EiG3R/LNryy3Q3y++hLmBrhOymMsI77O6MXAEzyn4BDtF8fTqF
+84I9BkuInr6I49bEXpJrcSft9AGnsaHhVGVWt0v3jmTyyhOCnnasj7WbvC7t9sjk
+yIz8lCyzOQzzPOS3a4wyeDuvWwC4p1CQA9KoDByaTrFUIns3Fg/NNW+x
+=SKaE
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

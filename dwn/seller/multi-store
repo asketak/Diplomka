@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mbSovpBhIji62pTo3hl6CBZgy395ycjsSu4iTTL7vA/Bcy7pBp1BHO6TzSBsILNcUnHOkWGSoBXnNLYsouvOuQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>multi-store</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>232</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-6</span>
+</li>
+<li>Total revenue: 8740 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to our online store.
+<br />We are offering you, high quality drugs, delivered with a very professional service!
+<br />We prefer QUALITY over QUANTITY. All of our products are high quality. No bullshit, or cut products here. Only the best of the best. Which is why our prices may be a bit higher than others. But this is because we refuse to sell bullshit! We will only provide our customers with products that are lab tested!
+<br />In a rare case of non arrival or something else please contact us before starting any kind of dispute or even negative feedback. Every problem has it's solution and together we will get out of it.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFcabhoBCACrtKIDIYRb5+1rm9UnJVuyNvauJd3TsSIme+yP4Yu+VwuR2DJu
+KwSg6sY0e9ei1utzmsaolXL7cABTnS0J6qLafa4iLFnw4Mqw3xwAGxMr2em0ACou
+X53qXopgTsxJMgOh98eVnT9jO1KZxjU1O2+T71sx7gHHcMQRRdLR0XlV9JSEHr05
+flIQYXbwBHIq+wgyWUCia2UOZk3qtU+WKl7tZgJAD+O+kTBBNCLn8YuUm4RCIhfc
+yQfb7L1byntAlsNUuwYWJrSjK8abz8zCBpop8u0S1ipNjUlNw5WkUYycxLW5JOAv
+jeeMLqbKzqXI6eT/bW2VDA40442PHkNL9mdVABEBAAG0FW11bHRpLXN0b3JlQGdt
+YWlsLmNvbYkBHAQQAQIABgUCVxpuGgAKCRCEszZ7qSktLJ+RCACSqFomPnhTt9TI
+AEAm4drYUMvLHNrGvRwu5cloBcpb7KbSOEfrL5KRKVzFSBGVL3wH6jkEloSnXsXm
+nhS65SH1TtHfhLggTIOejW26ZjJHyHKsxm6Em/vLu6+yiSiE20UJVN4ZrVoPamFR
+qIsK6NJZx0TRoRrwdIHmONEs5KexYgpvmkUY3vwXg9mJdy+zZIgjIrJWUW+weye/
+F1PHfQY8YZflKmLQaS2OmQ8nYXmUQQ8hdiUAO8UPLiT87zYj33fEz8rye7k6UGBg
+RhCTZ8dH3/JlGkIIDpxqVJV+lEWikehqgJ/rtWggYwpajgfaQnep5PrTCOm0C6mu
+QOG1ChSB
+=0tmu
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

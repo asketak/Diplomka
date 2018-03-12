@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3EYYk0N7V9KbBkF23F7Qa1zhFjZC1p+D/9eG+LmJ2QaEgZ7E1Yc09s9PGL5uZxk/GPAT2FqN93pSDRKZKZmrsA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>dopedepot</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>18</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 965 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome at our Shop</p>
+
+<p>The place to be and to find highest quality stuff for the best prices on the Dark Market.
+<br />We have a perfect Stealth,If you prefer rocks please ask for it!
+<br />We are a professional team that works with various people who each have different skills 
+<br />to run our shop like a real business.
+<br />We all have our own department and we depend on each other to make sure our buyer 
+<br />is given the best customer service, security, great stealth and of course the best products to be find.
+<br />When you have placed an order and it is marked as shipped we will always try to send it within 24 hours. Except if it is marked as shipped on Saturday or Sunday. Than we send it on Monday, because we don't want it to lay at the post offices in the weekend.
+<br />We will always try to respond to all your questions within 24 hours, however in weekends we are not always able to answer within this time.
+<br />Hope you will enjoy our our Shop.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+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
+BpZDGB3PSA==
+=ZOY4
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

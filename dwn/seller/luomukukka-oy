@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/d9cPI48zlEgwm1frEsVaQQR8lVm3Oc49qbvRyhTVgClGNprGMCtdXSLNJcectw9QAD3u36Hj8FbfHsmuEMktg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>LuomuKukka Oy</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>208</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: 1 day ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>Myynnissä Suomessa sisäkasvatettua kukintoa.</p>
+
+<p>Postitus Ma - To. Ennen klo 14 tehdyt tilaukset lähtevät varmuudella päivän postiin.</p>
+
+<p>Uudelleenlähetykset katsotaan tapauskohtaisesti.</p>
+
+<p>Maksuna Escrow, eli vapautat maksun kun saat tuotteen.</p>
+
+<p>Testattu ja toimiva stealth.</p>
+
+<p>Rehellinen palaute on tervetullutta! Toimintaa kehitetään palautteen pohjalta.</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(23.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+uf***la
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Laatutavaraa.
+<em>(21.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(46&nbsp;EUR)
+</td>
+<td><span>
+An***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(21.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+Ma***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Maukasta kukkaa! +++
+<em>(21.2.)</em>
+</td>
+<td>
+<a href="/products/94125">Sweet Tooth 3g</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+gy***ck
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki ok     5/5
+<em>(20.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+do***am
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+bu***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5, hyvää kukintoa nopealla toimituksella. On kyllä mielenkiintoinen tuoksu tuotteessa :D Kiitos
+<em>(15.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(46&nbsp;EUR)
+</td>
+<td><span>
+Tm***ky
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.2.)</em>
+</td>
+<td>
+<a href="/products/94125">Sweet Tooth 3g</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+ai***th
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvää budia nopeasti toimitettuna.
+<em>(14.2.)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+An***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/luomukukka-oy/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFkPGiABCADeWP0J/z63WSK/AKMDCno31z6QlopFQpKXAngKIYHRfCj0R4FC
+azpRVU5No+JN4U9ysRnrxDxCxXw/Djg5rE3igO1uF6XwhHF0CdUzBC7twtjDYJig
+fJenUpoZh0TkLVu947Wy+R26Y7zq+cAvYTE6Mtp4Wam0JKB+3KEU2CRIOhJSD7HY
+3w7yNoc0h3td3QmXakOIN9IyeH3RmuL0HDmeMNIcDVkFnbm+dn8yRVionxcTaJlv
+epsYZN9/hD/wiLIP4Jz6ktr/BjbUTSg3NAK+Spkp30DTAqRnCGsZ8+ve3fbHwItv
+Ts1b4CuJtf+nIjX9VKl/Ln1TfubBRfLmXMK9ABEBAAG0IGFzZGYgPGFzZXd0ZGFz
+ZEBhc2Rhc2R1dXlpby5jb20+iQE5BBMBCAAjBQJZDxogAhsDBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQJg5w7dbe82VNJQgAzViHqGmDcH5RHJb0edfZTAbH
+s3yGKV/TO/tblrX7UQCHFEGTX5QvpgV0ladeSuM/57cKoV/QAW8rcXxESheE2A6z
+GE9Bs68aP83CZZ/yUqZ4tJSfygakZ9b3LFiu85jJ/WLx+Tn2oRPBbTj1SEIoJJRV
+ezV0iDbb/4J7spfYt9t33Zse4Nt7smmYfuqGvRWElQOYuxZQBFlsPRcAwBjNW61s
+oJ7PdhP1AXLxhKdOCAI0hxUW4GAIJ38NrC1MWWSak7IS8VBOEkOcMz2ul7ooUhLR
+uPe4sDLOsVa6ogW9eriA6QYdHfu6sq6a+BqRzXDznZIfSiNNqvOhq0K5V9kmAbkB
+DQRZDxogAQgAx6v9ZT9rUiEZa/0HsKiMIzs5jdIVEJGQQOLMdLnl2Gnajm7eur6o
+mgxggbtd0/i7+DQ09gE2y/BVRjYzu5iOmu+6ISsxUVVpVV7je/LRxYIyFkYBtlWT
+g0EnKtLZiskY9p6YVFd4kBR7w9sp4hYor7NuyNg7jqFuqQuMhpJIqMB3UVqZYd+J
+hlMOMFU9MGaqOuFvDYU39j6PP7vfjJQP1dPvT4icnl3K/PzKw4qrNQEKm6QnITz8
+Ah1rO9qjJYWeDkVOyQM4yq6CAj6mwpNEl0c1sTegXo57cOUqrkbXFIJOIwvFyD8f
+4gbLtU2Z0KYhwkzsS8m19JiN59jvxLdvgwARAQABiQEfBBgBCAAJBQJZDxogAhsM
+AAoJECYOcO3W3vNlQK8H/1hiYWYKHNb6j/Ba+q7Lj2K+FpSgCBMYrLsFpHcOXgSo
+uf0gu+35CUvhKioRuK5BeHD09yYzt5J3+EJoDEUAAcoMm17qtZ2YDEUKHNL5wlux
+sWKLlyCryDpt5K012tTNNtT10acWBrrEi4JXK0RLBjC5q9HdPzxpJOd03+5J+/IG
+739sZTA/aB5ZekusyBbb+WYsNoWuROxzsmBGmafUZQbiz4oaXjZ+R8SiI0E7Z2FW
+1uMvA0KYBbciNUCl0elM8mEBZwBHk3hePjquLwxgW5KTWYAqO09RV+oX2tUDZBa4
+zHekTEx7RVsWBtUmlZGie1Pl0M5kkArSxeeViI91hRM=
+=Pyjy
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

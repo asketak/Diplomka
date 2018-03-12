@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mrxhMvLOUSNHuhr7I6G0XMGNir5rkrMAK9+uKv/YtpjCe+dlZDIyBxPzQzORmH0IhZyPUHPJ2/mGBTpLb8jELg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>chohanzia</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>19</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 3880 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Ilmainen kokaiini:
+<br /><a href="http://silkkitiehdg5mug.cf/kirjaudu/">http://silkkitiehdg5mug.onion/tuotteet/99929</a></p>
+
+<p>Tervetuloa uuden suomalaismyyjän kauppaan!</p>
+
+<p>Nyt sinulla on mahdollisuus tilata Escrow:lla tai FE:llä (jolloin saat halvemmalla hinnalla).</p>
+
+<p>Mahdollisuuksien mukaan teemme asiakkaillemme customeja. Vain yli 250€:n tilauksia.
+<br />Customit pitää maksaa etukäteen (FE).</p>
+
+<p>Toimitukset 24tunnin sisällä tilauksesta (ma-pe), viikonloppuna tulleet tilaukset postitetaan seuraavana arkipäivänä.</p>
+
+<p>Postitamme myös perjantaisin. Jos et halua tilaustasi perjantaipostitukseen, laita siitä meille viestiä.</p>
+
+<p>Toimitukset paketoidaan ammattitaitoisesti siten, että ne täyttävät postin kirjelähetyksille asettamat enimmäismitat ja -painot.</p>
+
+<p>Toimitukset postitetaan 1lk:ssa.</p>
+
+<p>Postikulujen osuus (2 euroa) sisältyy tuotteiden hintaan.</p>
+
+<p>Toimitus merkitään postitetuksi samana päivänä, kun se on jätetty postin kuljetettavaksi.</p>
+
+<p>Ennen klo 12 tulleet lähetykset pyritään lähettämään vielä samana päivänä.</p>
+
+<p>Pidätämme oikeuden peruuttaa tilauksen jos bitcoinin kurssi muuttuu merkittävästi.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFnk1F8BCADO//Aw0mqPKZ3ZXZ0aPhYRcVKAsMk1q39HoFCARdTfpINxXWWU
+OtlLD69Uj73LNABZuSLnHbSq08vEP9FPXOITrla7RntZbuwZIiPvsKtrns/knTNW
+LUvkxvDC2TBi89vJchfaif2FGT8LiZjLyLsBJH7OB+cYGOeYgZ/n69IH/PVskLtb
+rHbcBSHzVPqceHWfF5gqSzI39KiqVTirQpNQdQmq4+adkhbkNRtMCyfiqy4+Pj1D
+SoyFP6lwDV30V1hEBQhUNk8Nb9RSkPdJySuLzzShWRSRxbpXKYA01lrSKUNFfQ8G
+rY5ae7o1KfMhkRtZZUX/Dp7AsAvN+1D2+1yVABEBAAG0H29mZWFrZWZhb2sgPG9r
+ZWZha29lZkBmZWFmLmNvbT6JAU4EEwEIADgWIQT2fUqgfIPEyphpEH7BtLSMRmkc
+jQUCWeTUXwIbAwULCQgHAgYVCAkKCwIEFgIDAQIeAQIXgAAKCRDBtLSMRmkcjQEq
+B/9FI38jvkLQJffeTfve/D7KPssSvc9/4Snanjf31Cdx76QmS3heUy4+/li+oagJ
+k34VhzqM+cPMk0KHFdIv0MbYZh7r4kucKKk88wz0ZZCMDU+/xUeSPTppELB135jX
+6Vpd+xcr8EChp3+yBaFnzIUCLs+ESlSKynXVwghCLuZc/8lPFk6Dk8LoDyLpjrim
+zzUIAdppvPKDz5gPf7XaeWnIW2BbIFofuwt6Fr/DdogXD62mTINuAoX5H8ncbkHk
+1ZuFViBh7rFCfWwFoxHhEsNukhj7fjbrtloLHgxeT7FLwArBy5H2/TF3uqnNULmp
+O+0PNPSpedho6vdDcJNxIlAluQENBFnk1F8BCADU2U9zLOKdHYf0RHiGU24h3812
++j5X9wrVWEZ0+FvOcmFOZAlqzut6KJv166h4bC3mQGg2fDIfscd1KB7tILeuwECb
+OkMuH1oam0EDe+c1Uj5dbetEN+/T+kCv/taewMVabLgTW0Uf3HmGY0a8gCKJzupE
+URppi4MwvRbk31qRKG3qUYHO3f89QROgA80yHaxTlpOBj+uwJdzBx4PD8w0saC1i
+XDS0iyRpKUSKJ7SqwVBBQpWKVexcwAsj88awJSh8087vPJoquPWRUGuxj0fnc3cV
+qt7UydavA5CD+DvRx1D2ELzJV73PNYZaqkS3GUm5HIS4Ssi4GCJauXJdcMmtABEB
+AAGJATYEGAEIACAWIQT2fUqgfIPEyphpEH7BtLSMRmkcjQUCWeTUXwIbDAAKCRDB
+tLSMRmkcjfkQCADKWLEDhNKsJOMYKqQxjHnnf3voyFjg8Y5aSUlVmxAOwfNmWODj
+RU9rHsAa0ZT/AggliCNXUpTwF/I7RVBjwv8C5d1Y8LGUa1DQmKIldoGedpg5wytH
+0m9N5fumLDWAbK+eJ/WsWOfEUBCkrynm8n/HwQEJ42rKSqJ94xe+fTSpMcYyWpme
+IvJmVVoDKyea8geyn+34QdyYTGLPiABQcHYZPcUlAUCf1E3cZydFHBRRRWsgew87
+50FG0gxrr2ehiaPBScpIPk2w6PxmJLQw/yEWJojw0w5W0lwM2NrJWqm8nlJ5cTR6
+w13mcsIqRzl59me9nucuvGijDil/T38OkJJD
+=B+xb
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

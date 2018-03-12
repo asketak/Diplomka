@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="v4pAZocRY8WQMEcZaXWnis3EBq8njynFMA29mF70IEjnTcYxEe0A4cR5HtHbTG7eidUDQT/UQTyd1yn5zuRS/g==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>COPSNEVERBUSTU</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hey there,
+<br />We are a highly professional team of vendors. We made very good buisness experience on Nucleus untill it went down, and on dream market ever since. We hereby expand our buisness to the next trustful market. As former buyers we share the philosophy of not wanting to get fucked over. We never expect customers to finalize early. We provide the possibilty to convert money into btc or vice versa. We want people using the internet more freely to live a selfdetermend life without any government telling them what to do and what not.  </p>
+
+<p>We will never ask for shipping costs. </p>
+
+<p>The product is always as described! Otherwise money back guarantee. 100 Percent!</p>
+
+<p>If package is missing or lost: 100 Percent refund. Although we send bigger packages (500€) always via tracking.</p>
+
+<p>We believe in free will and secure internet.</p>
+
+<p>And never forget:</p>
+
+<p>COPSWONTBUSTU</p>
+
+<p>We proved how legit we are. We still want to get better!!! So let us know!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+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
+FoxPVmwkyfpisqQ2ccY=
+=0pPG
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

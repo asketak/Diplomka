@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="S3O38WZX5A12HAGoLza7pY5E3EIrddNTSqn1dAt+vKoTtDGm8KuHKSJVWGCdD3LxylXZrDMuu6rnc2EVm27OHA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>highadventure</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Respect that which is Sacred.</p>
+
+<p>It is wise to treat your body like a Temple.</p>
+
+<p>If you would like to become familiar with psychedelics and their usage then the resources available at Erowid.org are an excellent starting point and reference.</p>
+
+<p>In life sometimes we get knocked down and have to start back from the ground up. As a vendor there have been hits and losses such as SR1 / SR2 / BlackBank / Middle Earth. Everyone is treated the same. No rush on this end, only patience. Always happy to build rapport! Honesty and loyalty are rewarded. The attempted scammers continue to scam themselves from the deals. Everything is priced to move. It is possible to re-list items but not make custom listings.</p>
+
+<p>Everything is Shipped USPS priority and packed professionally. Shipping all orders that are placed from Friday 12:00pm til Monday at 11:00am on Monday afternoon.</p>
+
+<p>Please make sure you can receive mail using the name and postal address you provide. **Delivery confirmation number will only be given to market administration if a dispute arises** Unable to provide refund or reship for confirmed deliveries.</p>
+
+<p>Please Encrypt Name and Address When Placing Order otherwise it will be cancelled!</p>
+
+<p>Please follow Address Format:
+<br />John Doe
+<br />Somewhere St.
+<br />City, XX(Postal Abbreviation) Zipcode</p>
+
+<p>If you have a question or request please send a PGP message to email or message center.</p>
+
+<p>Currently only processing Domestic USA orders.</p>
+
+<p>Thank You! </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFSoaKcBCADWntElyvEHtTj9phjl/gHfEaCDctWqZhOL5LgRn86B49FJhmgJ
+GnW5M3ecb7JNLXxpydlb/u7D/VDhcJx3F6pm7jBcU/0lZFEzdUXxnzpJ+5z+JotV
+qebj4+wkUKgCQHy5fiEJfbG/EG7NaFEZorZZeWcKF5V8T/Z3GWySt9n7tCqZa/Pj
+cbBS34k9B9MKb8G8mAD3hxlvLtovgiiExqCtRgFyKW3rfCmEaH+fysgaCtPV5hcV
+EjT35zE5JayqkTLqxgNxgsccXr/RIrJ5HT9aupsVNXCoadlem8d1Pz+OtNN1psgS
+XcoRXPQiXv4jyxEv9BMJ1QyTemEXSlTdL4KBABEBAAG0LUhpZ2ggQWR2ZW50dXJl
+IDxoaWdoYWR2ZW50dXJlNTY3QGhtYW1haWwuY29tPokBPAQTAQoAJgUCVKhopwIb
+AwUJCWZhqQULCQgHAwUVCgkICwQWAgEAAh4BAheAAAoJEL9EWfeyHWXCo6kIALpI
+BtCzcz09VE+TBv6Oh0Ksfz+8XrIkD9V5cRCNMOI8ZnHYo6oYkPfhHfx3JLmkdSil
+SG3V7ZkdknMQ6LANO/xWWn49E2qJtocfyugHxo5Z1G9UGueG/HhP9BPPa5goIKmH
+sChMTUPbMr4w/8ixo8IhppKjaEH5OJR42N9VOZIngVUx+rfrAz6U2LLjOIPxTwXs
+cJFA9igy4ZAq0uqOzqCK9zVyH6HfWiAPrZs3RznkMzA0m1xAWbsz1cFEXY2ZfwJB
+qKUAJFVOw4SiSR8cUXBLHJATONVPoYE/kqfu5gG/fyaEaXbK4LcvpG7j6vUdi+RP
+E/ToW6DE2jDmVm4jNia5AQ0EVKhopwEIALZqOrIICOafloDvgE15x07emnEJaQTs
+LdekkeO14VoHgPws09wt16C4pMWhEQXSHJMfoPFXguIbrHQyhf2wFHqrogDHRsjR
+6WchuZznRnD26cvAi4bF8TrHjhq2vvoQ5G+LarsRXi6Ianv+DUX781dGafYUSPkX
+ES6RRxRiDN9FNxDskPy7sAfHQXGE4nFNWaUv2imIZ1tGzufai6HoU1cJiZma8zMo
+7LvH38sGOYMLRtcHHHe9Mn4sc1I7u+bZ0AaObJ7mmScsXO5FchR85IpAzu81LdhT
+3Ba5hl/58n/wrSFF6wt0wBBgKNbKOWTGg1MWFqKlvJ6qn/84aEFNP0sAEQEAAYkB
+JQQYAQoADwUCVKhopwIbDAUJCWZhqQAKCRC/RFn3sh1lwiWLCACCaMTSFMPlWA2X
+k6WIMROwacubEGtDligKKIgPwZyzUPjfCZZ/eSTuED9grWVyOf+qfpiMunpVPQkM
+4w+XfAsfS9C4xQng56iN2umDvvHW5yNd5K3rUUiF45Vg0rWaYITuR1my+pYjMKMi
+LOHsCUmSOMQmZzbhEIYh+NvKbb2OQw2vfH1aNuxLTpbsJztMCIoRUFHvn1UYBvKV
+fm+e9u/EiHVwd+eK4NWRpbCBO4RsOhEllGLcNwlwT+vPjo4hr493Gy9NuxyAYPpc
+B/8QHIKR9mZRampjZjXQdXSYfAD4Uh3f7bIKl+dAiN8MboVqdhmi8QFRfwx0c1G/
+47hTS2P3
+=k+7t
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

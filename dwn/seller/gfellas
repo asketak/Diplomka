@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6eGMBQz5WFKKUidCqmlHAelsUo4Nh5FpZr8RRnTPtCixJgpSmgU7dt4bfooYUI5VrX1XYBXc+ZDLZYUn5N/Gng==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Gfellas</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>GOODFELLAS
+<br />We are your number one vendor for several pharmaceutical products. Our supply comes directly from the manufacturers. We sell the real deal, pharmaceutical grade in original boxes and blisters. </p>
+
+<p>We're currently active on just Dream Market.</p>
+
+<p>SHIPPING
+<br />✔We will always try to ship your order as soon as possible. We ship from Monday until Friday. 
+<br />✔Free shipping on all orders!</p>
+
+<p>The etizolam pellets are removed from the blisters and boxes and are put into bags. This is done in order to improve stealth as the blisters are very noisy. If you don't want this for your order, please let us know in the order message - be aware, this is at your own risk. Modafinil will always be sent in original blisters as they make no noise. </p>
+
+<p>DELIVERY TIMES
+<br />✔Netherlands 1 - 2 days*
+<br />✔Rest of Europe: 3 - 7 days*</p>
+
+<p>*Working days. These are estimated delivery times, your delivery may fall outside of these times. This is just a guideline!</p>
+
+<p>WE DO NOT SHIP OUTSIDE EUROPE. ALSO NO SHIPPING TO SCANDINAVIA.</p>
+
+<p>Our commitment is to send to the delivery address you provide which we copy and paste onto the parcel. Once shipped the deal is done. </p>
+
+<p>PRODUCTS 
+<br />✔ ETIZEST - 1 MG - Consern Pharma
+<br />✔ MODALERT - 200 MG - Sun Pharma</p>
+
+<p>No bathtub productions, no fakes, no counterfeit bullshit. Authentic, pharmaceutical grade products only.</p>
+
+<p>Custom listings can be made on request. </p>
+
+<p>CANCELLED ORDERS
+<br />✔ We can cancel any order without reason. Your money will be automatically returned immediately.</p>
+
+<p>REFUND POLICY
+<br />✔ Refunds/reships will be dealt with on a case to case basis. No reships for new accounts or accounts with bad ratings.  </p>
+
+<p>CONTACT  
+<br />✔ Our standards for good customer service and communication are extremely high, feel free to contact us if you have any questions.
+<br />✔ Can't contact us? Drop us an e-mail: gfellas@protonmail.com</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+mQENBFl3cfMBCADbemgxIvET2KX82aRS/sSMaOZ8UHUDA1HMYUvoRypTDxJh2ivs
+WIP615I/pKOsK6L8Zwm1qlClY/VbYR1hodhHvmsVDxWM49+bXreXVI6h7oj/u0AB
+YAYIwDAC4gB3WkRYRl7Ojrmdy0nufo0+6hb0Y9b0bXco6dw6+rJwj2XPfGLrGB+j
+XbUemCWUZkWSehj8gzNRT5azWQytiU78hLqSQZ5uMUUrqtowP9f9H+Efe50D4rm/
+r2PffXfeydz7q/jDKjgZaQVVAK+OqaWslhX9/dvmHDZAV4tivaozE1Z2k9UqbZ8z
+XWjwjGZzMRlyOzWnEOOsSdKc/HAkkJWmM6oVABEBAAG0IEdmZWxsYXMgPGdmZWxs
+YXNAcHJvdG9ubWFpbC5jb20+iQE5BBMBAgAjBQJZd3HzAhsDBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQedjAcK4tGUnv+AgAjeuQFNUTvwnRr7mITvdA4noP
+G3AYbbzjypexr/neTItNeEiZPrQRVYInx64AMV8T3cNJi0OanKDcuo0t3x3yG5Yk
+wNvjj/my/rfC+E02rD1O9lM4bo3UU+LzCnJQaMPx4EewicSdygcx/130jq77/O/Q
+A/u3M/p5hM9KMA+nf4fZ+7Hvh4dIp0vDiDekS74x4cX8dt13Wh0HeMWvnsY7OBKj
+DvbanIYXdigneaq9Z+uOBH3KVwifHvjDfuT649BS/0PE7d9zvuvbx3ZOgwUWO6hm
+it40R01WDyrelCKmeS5mdS7M15kNsjgxBhV15SZxgvPjvM4MSqojymASmuyDpbkB
+DQRZd3HzAQgAsasTvG1PoIijS+0aRy2w+gykqHag4f3IvT6esYI9m6XD1PReFT6H
+SKiwpfsNjtXnVLEu2UdxtQDNhAO4AbRTVYBAr9hpPcSu6OLnbX0YuQJv76E5M/bE
+hHa0YRttATvff0HDp9aPhJfp+1d4y21IfeOVW/yZjcIk7lr1Ju3RM5ft34su4KuI
+fRTLs31zi8PNantNy6T+im0XOuPifDiOuVezpKAl5zoEfqlS1ujMBjPcpVZAFgCE
+y3uvHXzOxzl4qps/fiElE5LVe5873+5agIUqqFLBf9yAxBjgAlFg2iDb/Cfo7ysv
+vY/d1qclsPaNBToe5u9s/tG7DIsSdayZZQARAQABiQEfBBgBAgAJBQJZd3HzAhsM
+AAoJEHnYwHCuLRlJMJAH/0E7fh969cMi3TvlKaC/2biIUKcsHahWpWQnOHS5K1WM
+SWTcEQt+eu9v1bhse/HWzP9sqoIGIGNlordJydjCkPkRasFhYVYDn5z3NcsJszaw
+WdTYNHpAqVK26EUC811006sUT0A5m45S2wl6vK1hd9eFITJWmFqHyEWkHMDImfXz
+BmRj/xsALarRQpOraNXOkbWzBVHbQAX9bzC6AYdkgtXaWSr1ICR6w85U3+g/0N2i
+b9WGdrME5q9mF7Q4erPEd9mgrVSmePHKOFdAKKB573kIXua/dtChz68RWmkUax1R
+o/ValHRsNbuRCLqqt5PkFRF1Hy3+l6Eo/AGaHmJLGMs=
+=ox8M
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

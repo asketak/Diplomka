@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Sp+TSVYxeglz/ckkWnkQvZHMuB46L12J3C0pFKaMjRUSWBUewM0ZLSe0kOzoQNnp1d298CJ0NXBx9711Npz/ow==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Lieferando</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 48 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>***FAQS ENGLISH***</p>
+
+<p>What languages can I contact you ?
+<br />English or German</p>
+
+<p>Do you use stealth?
+<br />Yes! All our packages are carefully prepared to ensure there are no problems. Our products are vacuum-packed and completely odorless! Please understand that for security reasons we cannot provide further details about our stealth methods</p>
+
+<p>I ordered multiple products; can they be shipped together?
+<br />We try to ship all products from multiple orders together in one parcel</p>
+
+<p>Why was my order canceled ?
+<br />If you provide us with your address in the incorrect format your order will be canceled
+<br />Please double check the required address format for your country and then resubmit your order
+<br />Your adress should look like:</p>
+
+<p>Name
+<br />Adress
+<br />Zip + City
+<br />Country </p>
+
+<p>Can you notify me when my order has been sent ?
+<br />YES! Your order will be sent within 24 hours once marked as “Shipped/Completed“</p>
+
+<p>Can you provide me with me tracking number?
+<br />Tracking numbers are only given out after the estimated shipping time , but we can check it for you</p>
+
+<p>Do you offer free samples ?
+<br />We DO NOT send out free samples, so please don’t ask</p>
+
+<p>Is the weed pressed ?
+<br />Yes! The weed must be pressed a little bit and vacuum-packed for security reasons, however, we do try our best to send it as unpressed as possible</p>
+
+<p>Do you keep a record of my address?
+<br />I have to keep a record of your address in case there are any problems, however, as soon as you’ve received your order your address will be deleted.</p>
+
+<p>ALL DATA ARE EXTERNALLY CRYPTED WITH PGP &amp; TRUECRYPT
+<br />Have you more Questions please write our Support !</p>
+
+<p>Lieferando</p>
+
+<p>***FAQS DEUTSCH***</p>
+
+<p>Welche Sprachen sprechen Sie?
+<br />Englisch oder Deutsch</p>
+
+<p>Versenden Sie „Stealth“ ?
+<br />Ja ! Alle unsere Pakete werden sicher verpackt &amp; vorbereitet somit gibt es keine Probleme. Unsere Produkte sind vakuumverpackt und völlig geruchlos! Bitte haben Sie Verständnis, dass aus Sicherheitsgründen wir weitere Details über unsere Stealth-Methoden nicht zur Verfügung stellen können.</p>
+
+<p>Ich bestellte mehrere Produkte; können sie zusammen versendet werden?
+<br />Wir versuchen, alle Produkte von mehreren Aufträge in einem Paket zusammen zu versenden</p>
+
+<p>Warum wurde meine Bestellung storniert?
+<br />Wenn Sie uns Ihre Adresse im falschen Format mitgeteilt haben wird Ihre Bestellung storniert
+<br />Bitte das erforderlichen Adressformat zwei mal für Ihr Land zu überprüfen und dann erneut Ihre Bestellung senden.
+<br />Bitte verwendet folgende Schreibweise für deine Adresse:</p>
+
+<p>Name
+<br />Adresse
+<br />PLZ + Stadt
+<br />Land </p>
+
+<p>Können Sie mir mitteilen, wenn mein Auftrag gesendet wurde?
+<br />JA! Ihre Bestellung werden innerhalb von 24/48 Stunden gesendet werden, sobald diese als „Versendet / Completed“ markiert wurde.</p>
+
+<p>Bekomme ich eine Tracking-Nummer?
+<br />Tracking-Nummern werden erst nach dem Versandzeitraum rausgegeben, aber wir können es für Sie überprüfen</p>
+
+<p>Haben Sie kostenlose Proben anbieten?
+<br />Wir senden keine kostenlose Proben, fragen sie bitte NICHT nach !</p>
+
+<p>Ist das Weed gepresst ?
+<br />Ja! Das Weed muss ein wenig gepresst und vakuumverpackt werden, aus Sicherheitsgründen, aber wir werden unser Bestes versuchen, es so ungepresst wie möglich zu senden
+<br />Bewahren Sie eine Aufzeichnung meine Adresse?</p>
+
+<p>Ich habe eine Aufzeichnung Ihrer Adresse , falls es irgendwelche Probleme gibt, aber, sobald Sie Ihre Bestellung angekommen ist wird Ihre Adresse sofort gelöscht.</p>
+
+<p>ALLE DATEN WERDEN EXTERN VERSCHLÜSSELT GESPEICHERT MIT PGP UND TRUECRYPT
+<br />Haben Sie weitere Fragen wenden Sie sich bitte an unseren Support !
+</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+elxwI2W1
+=g8fe
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

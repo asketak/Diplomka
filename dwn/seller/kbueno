@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="l5fQYIsiafm7VxBSqANL+7wopCVUTUTnZ45/z/BnL4LPUFY3Hd4K3e8eSZoaOoKv+Dmhy0wWLB7KVOuuYHddNA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Kbueno</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We ship from Germany.
+<br />We ship your order fast and safe
+<br />We don't offer track or trace
+<br />We only sell high quality weed and hash</p>
+
+<p>If you're not happy with the product we have shipped you,
+<br />try to stay calm and let us know, so we can TRY TO work it out?</p>
+
+<p>Refund Policy</p>
+
+<p>- We will reship 60% to customers who have made more than 5 orders with us.only 1 time
+<br />- To Prove your amount of transactions you must leave Feedback. This is the only way I can check your transactions with me.
+<br />- You need min 7 positive Transactions.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFeSE2ABCADCIH8DPAdKrD/BCxbHfcRWw27Coesg6IOw8122eBTaFS0T/j0p
+dSzfj8Jd7QegHjG/P/gBFVPFbC0TEQepfirCO5QAixXNTeLHU3NEeuCOrbATXulJ
+Uocv2q9SxdVwGKwlX5OFqBYQSDkjZas14FdoUxGzXwDkQW7DdPRCiVQmkQIWdrwT
+IXxWbIlzq9ZJ4WiQ0ORABfGa1Ymco9Dj60Xyzb/yku1AKe0i0UFOVgbo25yxCiRn
+zTkcmu0aLvEg0ccewWvhK/v5GCQpPQoWLymMAy0r8dEQk5lNU1pmtnbLmg+mOOYk
+Hm0Ua7+2TYvTURuz/46viBMP1Ax8VorNNuhrABEBAAG0G0tCdWVubyA8S0J1ZW5v
+QGhtYW1haWwuY29tPokBNwQTAQgAIQUCV5ITYAIbAwULCQgHAgYVCAkKCwIEFgID
+AQIeAQIXgAAKCRC1XtCKkqMXDWV7B/4zYEH1lQoaxkFreiTX4qkXfjoEDQstCUBg
+NUWi7x1aNPiRpl8HfU+aW4z7mwlf9oS2dhh2EteSGtS+UdlbCGQKKKpDbiUQW2fn
+JmNGDE/oYJIgnseyUYAD/s39aK6tAWsKDf4E9Z7xU8x9AG4Sqh+ktmOD2U4fOCX7
+z8nvddWRdxM8x4ZqkXPlD0IZigg+zCJIsCrU0+EQXZN5qgKKH+cGal/vQQnFgZB2
+AM3qV/LNOXOyDtMj7B20qB6YKlutZIaD4BstikDWK1z4mOKYG5EyGuLRi0ZVKv52
+NfBMfFUYuOOQUeKpS94F2jnlq0gHgjhL+tATzVE+eb9Fw2Dquzd+uQENBFeSE2AB
+CACdY/XZUDBniozwNhkCGMV1DN7o41edaz0l+YWWdverCeM4v3jWwsGE+bm7Jw/4
+BIilw1EnCnaO/QYnkOF8b7NMYgqBjVUhGKU+klin15RVhyskJ+3JuVzEU2U/b0BU
+0dBmeIy8CyZ7st556uiL/Vasb4zgtYeZsOQLXe3cXdn9g6dDuAKR3cg8Ejgv947s
+o0dz09Si3OiSQU8nnFg1YRZ6q43pt2N/CoeMyuAyc6Vzukc0JlcVgw55aM6pZc5/
+n9NqaC/ODbscR91HXUxhrql0QKL2ZpVhbOKAUnw0dRHdDQDve/jQPQHO8pmIhy//
+PqKmLH2vVmPOsWQ0tIUUS4nfABEBAAGJAR8EGAEIAAkFAleSE2ACGwwACgkQtV7Q
+ipKjFw1MRQgAhHAIDmPZ9tGkMHa9fVelNDGWcXkj8nK7qXeUvsmvM9NREbmiB0Iq
+oDsGfVDTb5KRohojAICH14tj+9o7zrojbA0bYZHp5Ox6bjOeAKpgjrFnWrwvLXbH
+ZYV7fiG9bPxnvLGmcwVe7pTL8joEkchsX3h6fJsKMdth77ueeB0dT7Lmo107U8eX
+KkSSwWkG1oisda/LwMN/8Ipaqy2VdH+7RfaEgxbFgLY6FSDPsUerZPMmll6zfYsJ
+JApKgLnjhM+jRXjK2HjO0x6OI6QM2rIyyXmvtIZspQzhrY6T4W/pbTK79wt9ns9w
+C3jbi2xHKzjKRHON2ldAmYhq38bBmB/SjQ==
+=ETcl
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

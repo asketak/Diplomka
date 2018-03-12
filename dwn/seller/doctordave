@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ujHCTmiCDBIvZz3G5Q90t8dVy9v1VxdD8xospjKq8dzi9kQZ/n5vNnsuZA5XNr3jg0TONe0Mf7pewLjHorqDag==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>doctordave</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Supplier of UK NHS Branded meds. Codeine, Tramadol, Dihydrocodeine, Diazepam, Nitrazepam, Zopiclone and some rarer stuff (Temazepam, Zolpidem) from time to time. Started on Alpha a couple of months back now also vending on Dream and now here. We endeavor to ship orders the same day if they are place in time to do so. Please contact us for support before leaving negitive feedback.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+ZpXk27Kduql2H/jIpmoVnN4a8dtzKg==
+=/jHp
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zDjmvYIrU4ZYGAD5ZRnALHs90/rxqGh55NToCJXSYraU/2DqFNcwogxRWTHXIAl4PyzWFOnzAIBJDnxpBcIQAA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>soul-budz</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>296</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-7</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome at my shop</p>
+
+<p>The place to be and to find highest quality stuff for the best  prices on DNM.
+<br />All our products are Lab tested.
+<br />We have a perfect STEALTH .
+<br />The STEALTH can send orders in rock form. 
+<br />We are a professional team that works with various people who each have different skills to run our shop like a real business.
+<br />We  make sure our buyer is given the best customer service, security, great stealth and of course the best products to be find.
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFcQ+B8BCADSCi8Q8xsvYtwPNil5K0bS6JX8XborUoeyjrofu0VlSTyzmneV
++7kxNhv62GON6P3cCXJjrZxKPG25dJMPmGyWoAdwmftd5BEtZw3IzBosC+igrlDv
+4YFkfVxLhy5nPKdv7jrF0pLBOz+q+qQ/pb2PT+qFBjSpfDSz+cGyeTRpXt7opUnV
+QNydIYmdAFp1GHIHs9FycH+lR/IyipfCoZiteGqnVpdmK/PnwgF+zeaCWg+a+PFO
+6oGPB8ARvBo8bs4v90zZdwRONrmdQ/VmeSWlscMgkmm6oqiVrCqun3nyooRWpces
+IF8ABOQl/DKVBZNVT7/ST7YPgaHmQJYnRrvvABEBAAG0E3NvdWwtYnVkekBnbWFp
+bC5jb22JARwEEAECAAYFAlcQ+B8ACgkQA1DUJiWlvcvIaAf/Q2rtl4ki6C/tokW3
+3NkFyIv2X32En0fI9vzf/NEukH1U7tR6ATXZNkB0tSB/R968zADMLw6/6Qye5hyl
+J5DKVyD48GobbBvY3afL7ZL3nYm2ZFOAporw0H5aXfAYubu2w8w/f+PUdnnxJDrD
+FY9EqDZMISGwcT9u6kLKNUerydEOIr2QQoLHp7rMpZ/m9aHSbgOOWws2R3p+M+TK
+WIL2fMboX1yZfKlOgups1qQSAguc9nvjJttH9q8LopAjuymozSvesZg/pM9thpxK
+V6u562hbDrnjaq8BGdltEmOa7k2xrPxa0FO09mOZ7Ia6EpcEvwosc390t/lAAFyo
+fDhcJA==
+=SL3d
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MMuPmWH/6Myn2wrXeDkJqDXmEife7dNc3xSoiupxOFZoDAnO9wOL6POSUx/KAMD8cfcXyca2u6VyzjzremFK4A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>NordiskeApoteket</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>284</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 1 hour ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Norway</li>
+</ul>
+<div class='description'>
+<p>24.02.2018
+<br />OBS OBS. Vår gamle shop(Nordiskeapoteket2) ble hacket. Ikke legg inn bestillinger på vår gamle profil som det er linket til under. Klassisk Phizingforsøk der en person ønsket btc for å gi tilbake profilen til oss.</p>
+
+<p>http://valhallaxmn3fydu.onion/nordiskeapoteket2</p>
+
+<p>Vi har også lagt ut info om dette på reddit. Vi har ingen skyld i dette og det er beklagelig at slikt skjer,men det kan skje med hvem som helst når noen forsøker seg på slike ting. Ta kontak tmed oss på mail eller her. Har du en ordre på vår gamle profil så åpne disput.</p>
+
+<p>KONTAKTINFO :  NORDISKEAPOTEK@PROTONMAIL.COM</p>
+
+<p>WICKR : NORAPO</p>
+
+<p>Øsnker du marked med full escrow løsning finner dere oss også på Dream Market og Zion</p>
+
+<p>Dream Market : http://ocan7onexbaad3g7.onion/profile</p>
+
+<p>Zion: http://n2vvxr73is5bfwpe.onion/products/show</p>
+
+<p>Priser :</p>
+
+<p>Selges i blister
+<br />xanax 30 stk 550,-
+<br />xanax 60 stk 850,-
+<br />xanax 105 stk 1250,-
+<br />xanax 200 stk 2300,-</p>
+
+<p>Gi oss beskjed om du ønsker blister eller løsvekt
+<br />rivotril 25 stk 450,-
+<br />rivotril 50 stk 700,-
+<br />rivotril 100 stk 1150,-</p>
+
+<p>diazepam 25 stk 450,-
+<br />diazepam 50 stk 700.-
+<br />diazepam 100 stk 1000,-
+<br />diazepam 200 stk 1850,-
+<br />diazepam 500 stk 4300,-</p>
+
+<p>LSD 5 stk 550,-
+<br />LSD 10 stk 950,-
+<br />LSD 20 stk1700,-</p>
+
+<p>MDMA 1 g 500,-
+<br />MDMA 2 g 900,-
+<br />MDMA 5 g 1800,-
+<br />MDMA 10 g 3400,-
+<br />MDMA 20 g 6200,-</p>
+
+<p>zolpidem 25 stk 600,-
+<br />zolpidem 50 stk 850,-
+<br />zolpidem 100 stk 1600,-</p>
+
+<p>ketamin 1 g 1350,-
+<br />ketamin 2 g 2400,-</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<p class='text-warning'>
+Vendor has changed PGP public key recently!
+<a href="/nordiskeapoteket/pgp-historia">See previous keys</a>
+</p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFm//80BCACi3cwiVUuYdL6rlqreo5IYgEuNx+KZenvbajxNH0XzqEqykLVt
+xVRzOV+8cdyTvUrNRDJu02Q2WYKnK3ouz3q84PKH26u4HUd53Wqvf2EvJZT49OO/
+TTwkh7YKdCHtQfIwnGLMh3dHsTka6pV+Yo0hnqvTPcV0CtDkMQ46OhHrzguSNkJs
+x8h3iV8UI3dgNzEe7XwKn/6PIxxOITEExtTOacfGgWCYLdQ73/wuWU1bPeW1yEkr
+nnXjyOQbUYtGIZyBE2YC4TPcgbBcxLrxepJ86TXRVbVPOgh/MAaurDOpI+QF+5NZ
+9PSdhJ0UuGqlgXJkq+S4RLZ0cZdyBVIQwYeDABEBAAG0K2Zha2VrZXlAZmFrZW5l
+d3MuY29tIDxmYWtla2V5QGZha2VtYWlsLmNvbT6JATkEEwEIACMFAlm//80CGwMH
+CwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRDM2FEfiRMlg8c5B/9uNpVRVSmb
+C7YFpAzROd+vB+obujhjdSfBJpc0iCN0rGI1bcdVb44MgZddIefvPE8HKMnzVFln
++4o2R/Ndimj0WyEQQe98t06z1jRqnu7FrwlMj+aAhLEoKqNlSYY5yiqdk1mdwKsT
+GZylD+0Oh3K1PZRbM6q8JqBVQhXhbfJsmwAMeJ1rwj2bM5BqsVok7eNXieg6iY0y
+X/ZVBCorq0Z56mA/AHsn4e52UsZfak8lOHAw6Vza1298InmPM/W/0ztZmRT+t1/b
+OrNGiK4J2sLNN0S2qRx+1b2U0YL9cOLiFFyVuuG8hUObPp0+v8zD+G3s7UMgjMvD
+KdRotKsOMK9KuQENBFm//80BCACk5jd1mlHCTHo0OVFyo1kMbiHoHQB4sTUm0ifT
+ViadTWYUmTY6h8oxIuu25Br14W9ikWym4xoFiPdCfsO7EGEi2szubvEyVXFrLUY4
+CbDcQrOr/iyzfH9ngkbBY3UHjtfFW0kfZ1az+xkkrgSXMjAMv8691ba6LnFMm3Bg
+F+6dik/acerYfMMax3BJO+OgexYdZU/J8a1GMuq/p/96OJ5xzEq7RI0nUie3sI9n
+SLtsYf3TV6iPzIt1oJImkQJEq9vIf9DFupRU0lJ2hY8xlUPRtHvABwzbdanhKn8+
+tld92QQSBgv6sHlV+wpnC3BTSPD82fvkYbihBqb8b0xQ4ahtABEBAAGJAR8EGAEI
+AAkFAlm//80CGwwACgkQzNhRH4kTJYMF1Qf/ZfYDVmfAxgWdViyiigj1zjq8HlVM
+tkCqGQzFXYXKW2TjjuUfbH+4KfnfSb5aGbPPccguCWpQdFY9pbjpxfCffR6P4QRT
+bhyT4Zx0Hi/Ppnup16X0aX/bUzwGYJYHeh/76b+VPUwMGoGYlYPV8GsdqGP+Twb0
+JRRGegy2mBNyiPaVli3Gww0AK9JOlKCMUPrVjyB1vfr8xvFgivgCWTvYVfdiBf7D
+ZmOKFUnMbiV69oKSCFMMhNk6PRo7WvVQNJB4iCWzSpmRs1BZ1WrXko7pTWm3oqMB
+pimvnHydNYi0ghA2sf/cKYi2iKQYvjbySopaaVMWdoNZJ3yCAMVvTLVe9w==
+=0jMp
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/99807"><img src="/kuvat/tuotekuvat/de7fad64421d585f27cee2e9b9f23821889fad50.jpg?1519509654" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/99807">Rivotril 2 mg 25 stk </a> (<span title='470 NOK'>48.99&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103711"><img src="/kuvat/tuotekuvat/fc4fa6e41e93748b2f87a34cc6e1f2fe541f2893.jpg?1519511437" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103711">LSD blotters 180 ug 5 stk </a> (<span title='620 NOK'>64.62&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103715"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103715">Diazepam 10 mg 50 stk</a> (<span title='670 NOK'>69.83&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99824"><img src="/kuvat/tuotekuvat/2f8ab10b880ae2671ae0aea0cff296e20b945144.jpg?1519510484" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/99824">MDMA 5 g</a> (<span title='1920 NOK'>200.12&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90344"><img src="/kuvat/tuotekuvat/6e7f2cbd824199135e6aeb04a20f86233e05afe2.jpg?1519510787" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/90344">Xanax alprazolam 1 mg Galenika 60 tbl i blister</a> (<span title='870 NOK'>90.68&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90396"><img src="/kuvat/tuotekuvat/752f8ae4ff0f301e7990dba7f47c511b6febffb2.jpg?1519511191" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/90396">Xanax alprazolam 1 mg Galenika 205 tbl</a> (<span title='2420 NOK'>252.23&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90475"><img src="/kuvat/tuotekuvat/685c4e90fc43e8f0c840c5e461d24ac04a5466df.jpg?1519510672" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/90475">Xanax alprazolam 1 mg Galenika 30 tbl i blister</a> (<span title='570 NOK'>59.41&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103716"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103716">Diazepam 10 mg 100 stk</a> (<span title='1120 NOK'>116.74&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103718"><img src="/kuvat/tuotekuvat/23b5ea6d320afba5d33e4af8b30f42f202e551f6.jpg?1519514865" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103718">Ketamin 1 g</a> (<span title='1370 NOK'>142.79&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/nordiskeapoteket/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

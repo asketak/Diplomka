@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Kp+Oy3b5MU3VcTPkKJnL+EpJ9WoOIrSHPY9McDimZbkb7E+Q4r9Yjv70IbQIw6IdF1yG0afCTcQOE1MRho+8WA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/39012">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2d08eaec44dec8f521ec555d1253586122a35694.jpg?1461695067"><img src="/kuvat/tuotekuvat/37c30b2f36d5bdd096033c322f2319f378b3d769.jpg?1461695067" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>Build your own Tor Market ! UNIQUE !</h1>
+<ul class='list-unstyled specs'>
+<li>4054.52 EUR <em>(0.433853 BTC)</em></li>
+<li>9 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Hi,</p>
+
+<p>You get a fully Ready an Secure Marketplace script ! </p>
+
+<p>Features:</p>
+
+<p>User:
+<br />-Register
+<br />-Login
+<br />-Deposit
+<br />-Withdraw
+<br />-Vendor Account with a fee of 75$ to pay in btc from balance
+<br />-Balance of the user that can be loaded with unique deposits address
+<br />-Dispute options for Buyers
+<br />-Escrow feature (User will be able to finalize order and release funds to vendor) or dispute.
+<br />- Password reset tool with a Mnemonic they got one time when registering
+<br />- 2FA with PGP decryption
+<br />- BTC address that keeps working for 7 days even if a new one has been assigned
+<br />- See history of orders and amount spent
+<br />- Favorite a listing
+<br />- Report Button
+<br />- Force feedback system, a user HAS to leave feedback within 5 days after finalising otherwise $5 will de deducted in btc from their account.
+<br />- Feedback: Positive, Neutral and Negative with optional description.</p>
+
+<p>Vendor:
+<br />-Create listing with images price etc
+<br />-Manage listing/delete/add/edit
+<br />-Autofulfill listing
+<br />- Create a hidden listing
+<br />- Multi-Sig (Can be added later)
+<br />- Can only apply to be a vendor if the user has a PGP key in their profile.</p>
+
+<p>Overall Market Options:</p>
+
+<p>- All orders and notes will be deleted within 30 days</p>
+
+<p>CONTACT ME FOR A DEMO SITE!</p>
+
+<p>WITH ADMIN PANEL!</p>
+
+<p>YOU CAN CUSTOMIZE IT FULLY ;) You get an zip file with the Full Script.</p>
+
+<p>Evolution Clone Marketplace Ready Script!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2900">Digital items</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2906">Other digital</a>
+</li>
+<li class='active'>Build your own Tor Market ! UNIQUE !</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vOQm/So3KoEC6wcP8PAuhL3KDrfZRlXUEEdL28uiZ2LkI6CqvMtJpVaiXsdCyefQ+dsLWcEdPS29nd+6W7IV1A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>expressdude</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>159</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 5984 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+
+<p>We are shipping safely from the Netherlands.
+<br />We only sell HIGHQUALITY products, this is what we stand for!
+<br />We send to PO box at own risk
+<br />No tracking
+<br />We send all our products in plain envelopes
+<br />Fit in a normal mail box
+<br />No need to sign for the package</p>
+
+<p>It may perhaps take up to 24 hours it will be shipped.</p>
+
+<p>We don't do bulk orders and no custom listing
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFbJSlYBCACyq+xh/eESbE+eX3gNQeAPmZmy4j5cxEOH2pgYgHyuFv21PWpK
+gm4yDF97SGmnp+QFtf+lAmW3Oq7dY3kQtQG1iuWRxq3hSRUQL6QplDqq1uOKw2yX
+GStuOIWqFIO5EvwJbMxZuT+eSMPcXAqJ8MOo05pIy5rYn2GWJcQpLm6vm/iFVe1l
+1WMCVH/WQdgYtfhHpGn0L+NBdZPHZGZbmycgDRFMPKiYWRIpMdCBEcSaM0fDaLDp
+9NYVeiBxVVBaz2L8HzhJ/f2fbonfAmM6V7R0zWVeYzEP5B5SndvShi1f9TmGPGvx
+MrFGRtuv9wb/aG9zLVidYnojJ2GcbaVbcJA/ABEBAAG0K0V4cHJlc3MgRHVkZSA8
+ZXhwcmVzc2R1ZGVAQXNrTWVGb3JUaGlzLmNvbT6JATcEEwEKACEFAlbJSlYCGwMF
+CwkIBwMFFQoJCAsFFgIDAQACHgECF4AACgkQE1efeHrsVcZvMAgAhJc/368iJstX
+tt0gzAhuyi/kaI2CSkV54v1o/rxL3FTuqXgRwjHtsMGDLnObMbpWJ6jJWEtxbvB9
+sOq6EGw9NJgPzl8L0fEi/VUQNcRV8Pq8Jmujp6pWR6KkFCm+1L5haO/6TQSeDskJ
+bCMJRZN8elqkZZIzWYKCbE2nLvWPGS4YFqjnvnMaKf8Ee8Mk7eWHaeQgK75IJ3sd
+AEIEeEnb/MebEmWe95xy8M/KGxkFsif8wfC3uGc9asdiTfgCJHOdJaYOXe1siCnp
+dlaXLQDWxXoJtc+Fi1l2Mg0tnBV0azzxGLVEcJ7PDFQmEpeiUQaTei/Tim8ONnoL
+pOrK2D1+E7kBDQRWyUpWAQgArVKMURMqaPhWMBFsTzjudAE2gmqyYeAaZQo8AS3W
+THJajt/EGwg0KxfGP2J5LUyiRKeaVL6sGO+o6CG2bHELAf284yIniMSizNVz78JB
+yoIWXy7PaHRwIMch/qcHLsMmtVB/unGk6ijUg1KDp21twzhexxMEn5v4d9EXJb+i
+dEZjs07MfQdWZQu5SQGuwh1Acqgl39RSLMCL2qE8FoDvRPG6IqBlWazeUcwedBfg
+99OYLRfFEDAmkpe0lWToT/6E6cJW4OnO+U6odNUu5/bMFq9fVfb2DhT3p/jtaUbH
+A70rIl4qJVsq0Elq7YfMuGP++f0yVrCwJMqgIRcSrW+mhQARAQABiQEfBBgBCgAJ
+BQJWyUpWAhsMAAoJEBNXn3h67FXG4MoIAJi+HtuBoM8uF8msXETYZBNIF37EljSq
+/mJqn2EtLpI7K29OYoHP75Hgd5gm9Zai/YfbqDknuFF31ObU/xd+31tgwvKHBWip
+f3wWNfU3UgVMOSihn+efoeLnJaE5FBJKRaCNf64CoOLdTSmmYstoTnoC7o7ypcOY
+H4qOUFKwwJwSKEqj76+++FHr5z1wvehm4Ipd5MmUA7e42Xt9obSJcA6y0fbO0L1W
+ZnVjMLU/sCBajHq5848l4+Xlrkav2iYq+sqTcDNIXYwKrAUkiR7tAgaPWzyyDPeZ
+b6m+a5o/uxwNcXuooztPUh8ctljFWjRZ/kzS2p/c0hY9xDso4LFc6+s=
+=DNtN
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

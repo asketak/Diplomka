@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PDcmf8vpMSJPb+TSFh+xLR837lBzn6Tvl6zv+sBf1Ypk8KAoXRVSBhsmvRqkJnh5WybrvmvEzBY6dnubUE+nPA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>drugs2sell</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>109</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 2768 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to drugs2sell store</p>
+
+<p>We are shipping safely from the Netherlands.
+<br />We only sell high Quality products, this is what we stand for!
+<br />We send to PO box at own risk
+<br />No tracking
+<br />We send all our products in plain envelopes
+<br />Fit in a normal mail box
+<br />No need to sign for the package
+<br />It may perhaps take up to 24 hours it will be shipped.
+<br />We don't do bulk orders and no custom listing</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+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
+Sptyc6qq2llbvUR6
+=xqYz
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RdXfmcSceO+wblOYUrXwAPUsqirnSaHJRzj9VmmrxcMdElnOUmAby+QnClDgjDlUsT2vxP8SyTDq4mk3+bu3dQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>FinnishFinest</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>571</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 7181 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+
+<p>About US
+<br />We are a long time member of this community and after a long good rest we are finally back in business.
+<br />People who dealt with us know we don't play games. We have not been only one of the oldest vendors on this market but we also have NEVER received 1 NEGATIVE feedback. All our customers have been utmost satisfied and we are proudly known for our Next Level stealth, we already made a fortune and have had a small break, now we are back at your service.</p>
+
+<p>Contact
+<br />Please do not send us encrypted messages unless it is address sensitive information.  We will also will answer all messages in plain text unless it is personal sensitive information.
+<br />If you have more than 1000 EURO in sales we can make a escrow listing for you, just pm me us with your inquiry and we will create the listing.</p>
+
+<p>In case the market goes down contact me here:
+<br />finnishfinest@sigaint.org</p>
+
+<p>Shipping
+<br />Please be sure to provide me with an accurate address and double check it. Please use a name that regularly receives mail at the address you use! If you want to try using a bogus name ( not recommended ) at least send yourself several letters and several packages and make sure they all get delivered!!!
+<br />It's not my fault if your drop scams you and as long as it was marked delivered there will be no refund!</p>
+
+<p>Shippingtimes
+<br />EU 1-7
+<br />USA 5-9
+<br />UK 5-9
+<br />AU 12-18
+<br />ASIA 7-12</p>
+
+<p>Payment
+<br />I only accept payment in bitcoin, no exceptions!</p>
+
+<p>Refunds
+<br />If you have a history with me I stand behind my products 100% as countless customers can attest to over the years! If your order did not arrive and it is for a reason other than "undeliverable to address", new customers will receive a 50% refund or 100% reship, and longtime customers may receive a 100% refund or reship, depending who you are!</p>
+
+<p>Security
+<br />Let me just say your security is my number one concern! I have taken the time and done the research and I believe 100% that my packages are dog proof! All products receive 2 layers of MMB! The first MMB is done under a laminar flow hood with a true hepa filter in a "packaging room". After a double seal it is pushed through a flap into the "clean room". It is then cleaned with alcohol and put into the second layer of MMB. Packaging is done at other end of clean room under the room hepa filter with intake from outside fresh air. Dogs are the # 1 way people that are not complete retards get tripped up and should be every vendors # 1 concern! Let me assure you it's mine! </p>
+
+<p>customer's satisfaction is our highest priority. Our stealth is professional, creative. We are happy that we can provide Extreme stealth to keep everyone safe.
+<br />Safety goes always first. Order in confidence, So just order sit back and wait for the mailman.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'></pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

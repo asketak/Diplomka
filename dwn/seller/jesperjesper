@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="TbBVidv+Xh8m/4WuxQbXuYydI+87ZgAUWx7Wc1HTKSAVd9PeTQI9O3K23GZ3Px7tyIwmASM9aO32xEISwcNblg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>JesperJesper</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>******** WELCOME ALL******</p>
+
+<p>Long term vendor from back in the Agora days!  have also had years of selling experiences before even the dark markets existed.</p>
+
+<p>Please enjoy looking at all my products in my store. They are all on Sale to celebrate my return!</p>
+
+<p>****************************  INFO*********************</p>
+
+<p>- I ship from the United Kingdom to Worldwide.
+<br />- i offer help and I am online a lot to answer most questions.
+<br />- I offer custom on tracking on large orders.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFeYe2gBCADY63dF77vaGVc2LNSrUge5KdzJBE+MFIxrUpz5u3fmnunXjsMP
+M2C0nFcVuu5aCP/1RjsmT9A2M+ysoYsmPnHKA0LOygjt15qYYaUlTBpule2mpNS4
+e9+9yd4yXjNXtT6bYSkLkMZHus2JS+LeGapGDO/7q7Ws4U2fPjgm5Pk+Vj3/4m37
+iMuVot9Z8/a6+JLdSBnD42fAUwMh65hbzSI8edb65yIbLy874U0afY9eu+c17pl2
+B3GcQMH2DcKCxBYusNXDlN8EkNI585Y807FlUxGGu8LHMGnYSL6nBczAMItyNJQZ
+/7sSbCkGeEEUrECEJgUFusMaeYQVUkovEl2vABEBAAG0IFBpYW5vSnVtcCA8UGlh
+bm9KdW1wQGZha2UuY28udWs+iQE5BBMBCAAjBQJXmHtoAhsDBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQhlMQIOXmjUVJvQf/YdabP9Cu0urjl7VAUmllFOO/
+/aNWiTGCvqWn6eVIP3S+dOgM6gvVKmhB85e7Nz1UFVkNslwu318TJR6RGFQ8FRa1
+dXhSAszTCgji8cCb1Oj1LjdSzGFHeegnC39uIohBoSkOQ4iWKd/+92wGcntp4PFo
+UgsrEDhv5eZ2EG72l5Yx4Dmq0gEzgCc+HABPOGXRQjx/Wz9/om7HjFO/n/GfKbPS
+4I9brXTgyZxITS7vCobd8uhR1myr76zGNfmBBBgkKzSuqWTKNI3yvzBx+MInNu1X
+/2Tmp6m2tL62Cs86b/Zse9JCr0qShQZS4szc+ROT58WNA7V7RtfCzlkYrLIuBbkB
+DQRXmHtoAQgAksSZNNlnke4X1AXqSp8w7wFXO0xUt0VXpIX/MWlZvqH8K+AO35V+
+fmtxOUD8sP6mMXCZWLZUAvmNh1sONewP7cZcmqyncbliSbqk0aHg5A+itmTcFvQe
+txrI+Hj9w/vme2cnUIlUS9Kag9Nda+pyQtocOyxSevcB+r7uPg8LJU19R5IsgaCA
+9EFObf7qaqHyno+tZAQj2f446m9SomBklukSmOluixUkQPN48bodzUPiwSKzwUOF
+jqIoCACR/s43pbRkOL7DCQiHRyW00u02f/cc1zVaPDvqIf/IpXOtmFeb4h0AmX28
+gJnrRMDcQ16IBQri99iEFBVxqBdexIpq7wARAQABiQEfBBgBCAAJBQJXmHtoAhsM
+AAoJEIZTECDl5o1F2gMH/2QloTCItYgZzWfz7RQucvrfsGZvOjslwCqQ45Ld4rG/
+xWsT5fFlr8mYdLmKs3/pm77gY1Yzl0fkAkdCqJYswt76T3KpsHagQb5KBfL3kTMF
+JGbLIIS8Z5cn9WF8KZca3g8IW6qMzV8wbM5otwkIk/eyCedpcgOgEuTugjAyaZ5Q
+Z58WzvWccW+hCZtX6haS0I4j8a0JElEoAA1dgLPS3ydSqQAgLjdOiSsPuxkS6EYJ
+EiFRiRxMPC8K7KXhUUPgMHMPwlH31EYZ10vtIFsJRfHqEZPuT8draKWiZ2aPzVjQ
+GlwJSXoro6nv9npkWExggPrnNZHHLITGUwAz3ybaDDg=
+=E0f/
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2EK5kNXGo0ch5b21cn4OX40qq7lOI67I1WDjfGN+8BqAhT/HQzrAY3Ws5H3AR8cLyTuuV1Z4xjF4uncd826CrA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>GonnaHappen</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 20 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>GH</p>
+
+<p>We require finalizing early for your product in order for us to bring the best weed and deals direct to you.</p>
+
+<p>We take a lot of risk in bringing this in and we want to ensure we don't lose the money that we have invested and that is why we ask FE.</p>
+
+<p>This is the reason we have maintained our 976 positive feedback you trust us and we trust you its as simple as that you receive your order leave your detailed feedback.</p>
+
+<p>You as the buyer will receive your order the day after I have processed the sale, we will use MBB bags and vac seal bags depending on what you order from the shop.</p>
+
+<p>We understand that finalizing early is a risk to the buyer but we are not going to scam anyone for the likes of building a bad relationship between our customers, the market and ourselves as it is bad for business.</p>
+
+<p>We will pack orders using a letter in a style that it will not be any different from your every day mail.</p>
+
+<p>We make sure that you will never have to sign for your package for yours and our security unless you have purchased tracking.</p>
+
+<p>We will use stealth and the real product (your order) will be disguised as a genuine product.</p>
+
+<p>We take security seriously as it is all we have in this nature of selling illicit goods so therefore we delete all data and use encryption where possible at every opportunity.</p>
+
+<p>We can not ship outside of the United Kingdom for less then the prices stated in the listings.</p>
+
+<p>All our orders will be sent out promptly and the day they are received is the day they will be shipped you can order up to 3pm to qualify for same day shipping any orders later than this will shipped the next working day.</p>
+
+<p>Royal Mail have a high delivery success rate 99% we will not offer any refund on orders which did not arrive as we know our stealth is good enough to go undetected through the UK mail.</p>
+
+<p>We can not offer refunds on samples as we are practically giving them away !</p>
+
+<p>We will offer a 50% reship for international mail.</p>
+
+<p>We require that encryption be used where possible if you don't have PGP or know how to use it PM me I will help you.</p>
+
+<p>If you still cant do it then you may use the check button which you will only see under notes when making an order this button will encrypt the message to me using my own key thus we will decrypt your message.</p>
+
+<p>Please make sure there are no mistakes in your address as we copy and paste directly to label so details must be entered correctly and we can not be liable for a mistake in an address.</p>
+
+<p>GH</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFfH5GgBCADFlI7OC2IcuTbyDocchuPKfrssuSZykzvxLEwAmgMLqEv7EoWP
+5MGclfyqLNvUBAHnKiSmUT0tW+W6CAJjsoqbYV36zWucVfnivpX93TrBO3wBstfi
+hOG3AOSobw2um5u8EoY0sOxHtmPqE97mdmX2HiAI7GGsBTInrCaPuCz2yHSRQ1+u
+i0KZYvKDLzfQMwgdYIEmoDkdu2qVnFH67aRpUl8gl9/97NdyBFNs4hpApG8Xdu51
+oLBllV5Hqca6xKRGy3xCD8PNU7RCwFNH3nVxxjA6XLfd9T+9uCBZh5BRpehBX6ib
+BVA8PMlKQQWfxk+jMXtzuI/fDJC9i9R0mFTBABEBAAG0KEpvaG4gTmV3bWFuIDxK
+b2hubmV3bWFuLjEyM0Bub3RtYWlsLmNvbT6JATcEEwEKACEFAlfH5GgCGwMFCwkI
+BwMFFQoJCAsFFgIDAQACHgECF4AACgkQ/ccCefpYmfDmXQf+LGBRGISkc1NGl/rz
+tzEaiNPTIzPI0Zb8sxk0+hHyWoEhNIi+iGcKvfCBpdSbnFTDvXXukIpQra36PstB
+kgw4fq3FIkHN6mNxZcpIvX4ppqWf2IFisn68WnUlWZ+H8OT5dO51sQfOqvVTzlv4
+efu4SbI8vkiQLheV/LWQ35yDbktzF9waQrY3OhNKzWVkYfwv4y27VubSthfTavlS
+6Vmpi3koqGkLrvKuEZg1zvsFAXqkZFsddH6xPwYrjfRbWUvdL83/CQcd0y1UOd5o
+3Xi+mKrGShODQXmVsdR1brfcmoC5unHdIJYTmR/zlwdFw52kGMAb30H4QTp/yqTh
+b4yYHbkBDQRXx+RoAQgA1JCfzY2fLOF0Hp61DbhRjBkdkRdvoOydsi0ZMhvGK9+e
+uxr2Nz6YRfLrshTT4NyhGHUYmRgCLoIprjfBGyeddYxq3O4t6Qs8CkUvMuQVU0QR
+FpebEiA3UVYgpHY05fQO+ovj2n+PCgWk2QenBwavVk43BoXrP+BPvUOyTu38tUv/
+OB1yck4sSSUkCKLA0REsbb98IqkPFmWj8qw/t2y350h3c+jeuQo94nrX7MQtVaPp
+xUiZGOQFjO0QQFpYetPxPuQDJ3/DchF5P2qkvOFGKOufj+utm3oyxyZlsB/RE9nX
+6TPPw/CHCLkAQh2WRICtlRh3OkOuDqTs1eNzPPAn5QARAQABiQEfBBgBCgAJBQJX
+x+RoAhsMAAoJEP3HAnn6WJnwhcEIAIHMKjCQlfVYL/zF7TJi+kvII93xixIySQqm
+xmvT+xqdrrFtjKJl/KgqAQ8Jzuxj3100xAcu6ZSg5GxUkBBXPkqzxcq3utQypLxl
+1rEDMsAj7j9TfSfbddHs+dPRMRQsfLJPvxwoaAQBwuQzhjt5xJtw+NJCSZ7AgF7l
+SMs/iZ632GQPizfIINAYJAJLCW/oVmlAUmxmoarUTvFKGMKDqz1a5+dkN57hTT3o
+fcfJS9SqyRLb8jg64+gIMf/+ToqEdU/iq+jRrJMqxHvpnDeep+UPcqy2tL5a+bqV
+NPINqWEj1s4zgpDqxkkTfXrR37sN8nMf257pCJZkNiI/mWh0pR4=
+=BT1w
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

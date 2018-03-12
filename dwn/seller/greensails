@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="gnzfBdAp3/zs/COU6JLBtnbHU9uuxxuuWn30HR5TUEbau1lSRtW82Li1elxaqwjiMtZWNbacc1f3p2B8jkMi8A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>GreenSails</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>===============
+<br />NEWS / UPDATES
+<br />===============</p>
+
+<p>We hope to be up and running on Valhalla soon</p>
+
+<p>==================
+<br />PRODUCT PICTURES
+<br />==================</p>
+
+<p>Check https://greensails.imgur.com/ for product pictures</p>
+
+<p>======
+<br />ABOUT
+<br />======</p>
+
+<p>Welcome to Green Sails' marketplace presence.  Medicinal cannabis growers since 2004 and bitcoin believers since roughly 2010, my husband and I have sourced cannabis for several vendors on a handful of marketplaces, including the original Silk Road, Black Market Reloaded, Sheep Marketplace, Silk Road 2, and a few others of lesser renown.</p>
+
+<p>In the past, for both security and convenience, we grew and finished the cannabis ourselves while trusted partners managed their own marketplace presences and handled the shipping.  The time has come, however, for us to represent ourselves and our own produce, and we are proud to offer our wares to United States customers.  We are not new to this business, but rather only new to representing ourselves--cutting the middleman out between you and us, reducing the cost to you, the end consumer, and increasing customer satisfaction (as you'll be able to give feedback directly to the growers.)</p>
+
+<p>We hope to make some good business relationships :)</p>
+
+<p>==================
+<br />QUALITY STANDARDS
+<br />==================</p>
+
+<p>All of our bud is at least A-grade, that is: medicinal-quality (potent,) nice smelling, and good looking (trimmed, cured, and finished well.)  We never have and never will source "B" grade bud or below: no bricks, no sticks, no hemp--ever.  Guaranteed.</p>
+
+<p>All bud is rated on a scale of A to AAA.  Whereas A may typically represent outdoor-grown bud, AA greenhouse, and AAA indoor-grown bud, that's not necessarily the case for my cannabis.  Sometimes bud grown in our greenhouse is AAA-quality, while sometimes an indoor grow just doesn't wash out for whatever reason and we have to designate it as A-grade.</p>
+
+<p>A grade does NOT mean low quality.  All of the bud we grow is dispensary-worthy.  And our A grade would not be "bottom shelf" in a typical dispensary, either.</p>
+
+<p>AAAA is rarely seen.  If you have to have the best of the best, get it while it's in or ask us to add you to the notification list.</p>
+
+<p>I'll keep updating this profile as I think of more important information and/or encounter good questions from customers.</p>
+
+<p>Cheers,
+<br />Stay safe
+<br />Green Sails</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQINBFnwnosBEADVTwsmYcJc8kQ1lvqqLtBRE8TRp0eTjmKkcu2cAqYuNu9SJnvi
+U2VUYnbVslVhURSnexxs4CBsecQaf4vVJ8iUujkMpGxie8ZurdQ5pxkQRBQcugPt
+s62yeMcAlRWl5BXn9eRJZDqHmUuiTP9S3k9SaKAZ8g0/Ouz+xyPGVz7RoXY7LBPs
+t/9KV+/R1l0MbcTpapcuGQXTPyIHdPb/FEWkYH5NjYVJ4Gs9y5IOpA7VPwXP0/qz
+I0WE5vVQPu/zp+WcKZaI8wt6E90RWta8+SFqOeGrg0Y9tDoMT730LWthOz+s3eMT
+0jYegZ4GsQAnrQ93BsbATeQ2ZaSGC3OeBmsFttrcls5QzU8jPlevJ/DZ31mXX2Lq
+p8pybizCK5QsT/ZzcFt8r4DISXYL6NRSyTFhxgwekt2SCZM88yCi6K8M03xYi49D
+1yaVWaPQHqhoueuiuD9h9uSa2Lx+phEaNHJS+tpXZGsh/En516NEZFNKlh7UqrVP
+Jt88fx0prJvusmkvRdvXiGQY04zpp7dEr5bLunpsG+y4RHbhU9UulygdSs7MoXEK
+abpiPeIANP+yEF78iivmXbcoNukwlaCrO8xxDET8IOzp/l2VibYN2Yeg/CZXtr3F
+bpf7z1tfqLI6oUsZEnzPIeIDUKJhfbpDUrXG4lgruf//4FNAzQyGJ+YgAQARAQAB
+tPRHcmVlblNhaWxzIChXSUxMIE5PVCBDSEVDSyBFTUFJTFMgVU5MRVNTIE1BUktF
+VFMgSU5BQ0NFU1NJQkxFKSA8R3JlZW5TYWlsc0Bwcm90b25tYWlsLmNvbSwgQk0t
+MmNYUENVdEpRbjJYb1dOM0pIdUtrV1hvUUtzdkVhRGJxZUBCaXRNZXNzYWdlLCBH
+cmVlblNhaWxzQENHTUMsIEdyZWVuU2FpbHNARHJlYW0sIEdyZWVuU2FpbHNAV2Fs
+bFN0TWFya2V0LCBHcmVlblNhaWxzQFJzQ2x1YiwgR3JlZW5TYWlsc1ZlbmRvckBy
+ZWRkaXQ+iQI2BBMBCgAgBQJZ8J6LAhsDBQsJCAcDBRUKCQgLBBYCAQACHgECF4AA
+CgkQFWCQ0UhLy1oQ6RAAmHDdd8gBzMglq3J+6WyPMBo1qjSzakoRbFxXTO9jd5ga
+8aVVDkGU9prJp15q+X5FwxnQgZPgAEyEPjZH0SjkrPxloQSuHriZC7QR/5J1SAPW
+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
++qHC9i2ypMmRA5hfMpjM4uo=
+=I5zW
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

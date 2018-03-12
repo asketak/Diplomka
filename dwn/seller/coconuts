@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LwVTGE8nqkcfO3xjncjEqjzENRCtiBnYjnbWFap0T5R3wtVP2dvJY0tyJasv8Q3+eNUw/rXTcSEjrEJ0OmQ9Ig==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Coconuts</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>114</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-14</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello and welcome to my shop. I am fully verified and trusted!</p>
+
+<p>Back from 3 months off i have also previously vended on Agora, Alphabay and Dream
+<br />I sell very high quality and purity Ketamine, Cocaine, Mephedrone and weed.</p>
+
+<p>I ship WORLDWIDE from the U.K. I offer TRACKING on larger orders. Just ask and i will get one! :)</p>
+
+<p>Large custom orders are available on request.</p>
+
+<p>i buy my product in large amounts so i can offer products at a much greater reduced price to other vendors.</p>
+
+<p>I have also been selling many years offline also with a 100% SHIPPING SUCCESS RATE. I have very high ULTRA STEALTH.</p>
+
+<p>I am always online to answer any questions. Happy shopping :)</p>
+
+<p>----------------------------------------------------</p>
+
+<p>Refunds/reships:</p>
+
+<p>Available for all orders if from some reason your package is not received.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFaABmYBCAC6opag7jnwYXAuwR5M/loOdpJ96JOs68HAMbeZ5ojyxYDPqh7X
+TCrGU4o48w6lt5y4dOLx0p6i4cBDjhZi5VtOuqKgeDdSngaEqRSkHJHbaeAiz1W0
+2anfYAEj4okfIEXRO7nEjJMeZHi15S+OXK2UafoV/MewL8soTi/JJE5CIjDlHCG9
+ahfb9a1fukyjeKkVrSVDCyDZjtJT3arWK4T+l2i+DvcpWl6nT2uiOidyE3QLNd3g
+IXRIGDlsQ6WyDPjdd4V/vluC/Z5Wb0E5UCSTVH5Pbxtpsu9H4o+Jlkugk47vTWXv
+bJj8AdqABEHkAi+JhyXiFD4RbJ6QGcATOXQpABEBAAG0H0NvY29udXRzIDxDb2Nv
+bnV0c0Bub3RyZWFsLmNpbT6JATkEEwEIACMFAlaABmYCGwMHCwkIBwMCAQYVCAIJ
+CgsEFgIDAQIeAQIXgAAKCRC1gP+n6Uyjw8j4CAC5D3b18Z67xuWgUWvTRcMJPJPO
+B7Wxi8IURdCwthBaRVnZ+SDSaeabIiuFsO7ldauQBSmeZI1RuvQ3PpqyJ/TZHJOs
+kI57ZTptUvhYHzeUGO57HyJqR4tmLWlo2D+gRJvmnG3P+Plv2iEQP958Tks+FvKL
+p/mqUcR7NwgQhb0DmKbOq9bYXvFdoYog2m3fRLPimoTUQsrHq6QjhYEPeTPjDuci
+kj/YpzF2QiaL/eDasn8W/ELyvEfEWInbJbqKXhDLDYX4P2vnEqJfiot2SNuK9KQJ
+70mOiE7xXZQRSbiFReaOcA8iNqG8iAPfhP9xwlBnScEyjzl3MYyCZpj1WXCduQEN
+BFaABmYBCADERfyrFtL6skMMR8KPiYSvz0jJdpJQZxpnX1KXAp5XzvXJuGV1SwdO
+gysEOLDFxNOrL+B/jhs2GaK6THrTvxIxcKJXmza6jPMy/bLZDX1a+dNmEZpsUjB0
+IjaUgiDqdgsj0u3N2THTb0pbaUV+pbb1jxnAxpl9U0f2lpwwgTKd7H3aFFbewHgN
+tnyfZxAirVroZIZrIfHpQJvZvmKPUn4P2R2oHjurtQW29JrlIkNMxtyAR5kXyKS3
+LEMpmtlJ6tgug4CCXeU7t9zncTWnQ76811LwnqB58wr3LLpnI+25QPPfe22Pl1Ac
+Wj7oN350kMK1Q6abgxe9n9L2JpJk3Jl1ABEBAAGJAR8EGAEIAAkFAlaABmYCGwwA
+CgkQtYD/p+lMo8NuvAgAgZnkh/aoJ0+cmygAHUB1VBFIh+E06ulfusprFt2LVedn
+fsYtS0Fk4puVqDmEvXbdTFX9CCvZbhhvVURPQAeLyTzC3mUWzUTcP2uQk6OtOpyt
+d/WaxcHLlDG9EzmVaRAWPyYz7f7FjUfNII/2fVCe4mpjYTc0TGTuRBRMM2EakZJp
+OdHuMiKP654ocV2NUPk/wpjN4KH7fs2TZ5vWL2uPR/rUhscWT+LyQ98+cm1fnlEW
+avu/4nM9pWhO+oo67Fxm53m+l6TzF54ZwTdRetgnpobe+uVoQrmd2cC1N+FsclHq
+RZuDwLKDqE26215wiomnZ3aPdiMd0raFgr2o172iow==
+=L94w
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

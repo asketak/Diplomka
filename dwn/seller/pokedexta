@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8wOSRSfs1QZapPyU9hQ1FqQF2zo93o8wdtj1y/YiBFCrxBQSsRC2Ig7tpVxELfxC4BTe1CWF58nbAmGqZjJ25g==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Pokedexta</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello,
+<br />French XTC seller on French boards, we decided to move on International markets to get more visibility.
+<br />We only offer for now one style of XTC but other Pokemons will come like : Jigglypuff Pink 150mg (Rondoudou) and Metamorph Blue 260mg. We plan to sell cocaine, LSD, speed and more !</p>
+
+<p>Shipping : We ship your order the day you order it if it's before 15h, if not it's shipped the next day, we are very reactive and we have good communication.  </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFaYCdYBCADhWnB2jlSNY5EV2APFkZNGx0/GwnjheQMnC3Vq4ttRycD3Qf6z
+PAFVR/wmEK/fOYy/nj9JsmydlWjacccdW3ncywXMJTaZs/dJz9loKzwjC3Iy2bAj
+SiSq3fsxHuCB1PNgyXnLrd+1xWe5EsSe/YzBvwWLrI00hLz+uuxdoV/2nWNK69FJ
+JruQCbqyP+lwHkLtuXBdPKKh3uF7zVpptwnv3AGOevha+yKVS7i7HT4SXCCX1Lau
+vYWHHI+AMrsKupTomG9NOZc9Lhh4KVa/ksNdzALXb3nNn4NwBPeXGgSe6I6ciFIu
+CBOy3g0QZebIm30Os3I3yqfaswy1QPMAsY+LABEBAAG0I3Bva2VkZXh0YSA8cG9r
+ZWRleHRhQHBva2VkZXh0YS5jb20+iQE3BBMBCgAhBQJWmAnWAhsDBQsJCAcDBRUK
+CQgLBRYCAwEAAh4BAheAAAoJEOa5+549t7qoI4AIAI/QaX1aHhe4CxZy5mlJLt+u
+3id7bQwNGf9Ep71p85bq6f0/nO7BRCPmrO222THu3R3DgGd+jp9/9aBhqGYPAI/1
+sGat5qLdu4gqre2x6XEFeCM5SBZm+UZbOCZltTx++qKr6E3mtxyuqb/mF4tfo8xV
+Y0Q3C9bT8EjXFv6xeKSFF0DeNI3kA02pmxsO4fPfV+W9mOy7TJfmpZJa48pJOK5Z
+kxtwQ/jQUntW1elU+CIlvfnmOJvQZkDG49RdeQ6ispE4i5uJHJrW+ue9mv+dB/m2
+atZOkoWFeC9P1OXGnn2drL/6BUloepcJpG/yWmJp2Gmyw3fzdSamOUvO5gc08lq5
+AQ0EVpgJ1gEIAKiLVsddIH4DpFMyWyjrQO3zkoTbPxS3xYogCSjYkVJxYFhZng2U
+/uwc13lUQbtkowXL1GJZ40sRpy6m1YnIzPpOqQy8WO/Jy/nxYE6oKS/Azx+vlAOe
+4FyKJTZwzAHKG4/f8Awxbnydry4Rma/9Nd6aigOKFs3qLpLTTwKd10duPNdDjxLl
+AER1KanBxx9r3V62D+KK2sGoVMaHgaABQwlnqOr9vNdHnLZ3kFhPBNW++JJKCGi1
+larfCLXNzyJdaLKJWDXUL3gZbMLl2vwFx0+/EiZKUDdzfTfhl2/R/4rNuFcV78gO
+9D7EmUUdPA2cpJzoMzPBN1wl2pMO757PUYUAEQEAAYkBHwQYAQoACQUCVpgJ1gIb
+DAAKCRDmufuePbe6qKQqCAC9DMREAP9eh99BL4cT9kqj+YqzWdREN/dGoswsfnGc
+lHLqP2PcSUj8AOTsmLDg258XKYX9gQccaTWqH9g1Qn/M7LYXroR112o6PO3O9k+O
+Of7g0c9Pavk0dNWqFeHbGKAPGTRsIDYJ2DhV5nFL2Xza7gn3H+Wxt/90IuT+Jf30
+MgcuXptlNzUAGIo+81EqfH8OtFK1VX1pVtruYw/8+naVtgmi6E9TbeCRjFoRW0xq
+J+pQJTb7cwk+xzMvsVp6EvwzWAOYiYaC5pQRl5J1sB1BNuo9BRFKlr0AIr7YU6wx
+8ZU1ggyGKINpSb575EkvihjVyh5JaJwe+p8DAqFDezn9
+=Exrf
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

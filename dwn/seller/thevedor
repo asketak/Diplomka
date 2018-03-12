@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="svXlpIxg9TwI3BBFTmVQyK2r+tZmmryU1iCTUXqdOcnqMmPzGpyWGFyVSY38XJmc6br/OH7B1G17+gcw6o1Lfw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>TheVedor</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-8</span>
+</li>
+<li>Total revenue: 6886 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>All orders are processed &amp; shipped out within 48 hours of placing order.
+<br />Please choose "free shipping" option only for second item ordered to the same address. </p>
+
+<p>UPDATES:</p>
+
+<p>All the junkies threatening  me with negative feedback to get free drugs please don't bother, your messages will be ignored! Always!</p>
+
+<p>jan 16
+<br />New butch of MDMA crystals, more pure and potent stuff from Netherlands! Pictures updated.</p>
+
+<p>jan 5
+<br />sorry guys, I'm not selling cocaine anymore.</p>
+
+<p>dec 23
+<br />I do not offer samples anymore, so don’t even ask.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.11 
+
+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
+=5Vk1
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KhR1/65jkQdctkNHIEDLpsQf356/Y3HFDuYsrgoVJmNy0/OoOJ/yIwj/Go+SeQLygA7acKc4GTyjPLjPmgVU1Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>DoktorGreen</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 56 EUR</li>
+<li>Last signed in: 2 days ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Germany</li>
+</ul>
+<div class='description'>
+<p>
+INDEX:
+<br />- Now in Stock
+<br />- Updates
+<br />- Service &amp; Quality
+<br />- Ordering
+<br />- PGP
+<br />- Track &amp; Trace
+<br />- Shipping Times
+<br />- Refund Conditions
+<br />- Terms &amp; Conditions
+<br />- Contact</p>
+
+<p>**************NOW IN STOCK**************</p>
+
+<p>- Amnezia AAA+++ </p>
+
+<p>**************UPDATES**************</p>
+
+<p>**************SERVICE &amp; QUALITY**************</p>
+
+<p>DoktorGreen makes every effort to keep your transactions safe and anonymous, providing you fast reliable service as well as top quality products.</p>
+
+<p>- Very professional stealth, no problems with worldwide orders
+<br />- Accurate picture of the product "What you see is what you get"
+<br />- Thoroughly prepared in a clean environment
+<br />- Professionally double vacuum sealed and packed in Mylar
+<br />- Disguised to blend in with legitimate mail
+<br />- Up to date on customs screening protocols
+<br />- Your information will be handled confidentially and discreetly
+<br />- NEVER REVEAL ANY DETAILS OF THE PACKAGING YOU RECEIVE, NOR MATTERS DISCUSSED IN PRIVATE</p>
+
+<p>**************ORDERING**************</p>
+
+<p>Use a correct name and address format:</p>
+
+<p>Name
+<br />Street Number
+<br />Postal code City (State)
+<br />COUNTRY</p>
+
+<p>Choose the right Postage option.</p>
+
+<p>With Tracking:
+<br />- Domestic Tracked 
+<br />- Europe/Worldwide Tracked </p>
+
+<p>NO Tracking:
+<br />- Domestic NOTrack
+<br />- Europe/Worldwide NOTrack </p>
+
+<p>Only when you purchase another listing at the same time, you can choose postage option:
+<br />- Combined Shipment</p>
+
+<p>*All orders are shipped, properly concealed, in a package which fits in any standard size mailbox.</p>
+
+<p>DoktorGreen is not accountable for incorrectly provided names/addresses and reserves the right to cancel your order.</p>
+
+<p>************** PGP **************</p>
+
+<p>For your own safety, always encrypt your address details with PGP.</p>
+
+<p>Do your research on PGP and learn how to use it.</p>
+
+<p>It is recommended to use a GnuPG application.</p>
+
+<p>BCPG and JavaScriptPG are not safe and known to cause errors.</p>
+
+<p>-Name your PGP key the same as your username</p>
+
+<p>-Do not use your real name or an email address linked to your real identity to create your PGP key pair</p>
+
+<p>- PRIVNOTE AND SMS4TOR ARE NOT SAFE AND NOT ACCEPTED -</p>
+
+<p>**************TRACK &amp; TRACE**************</p>
+
+<p>Tracking is available as Postage option on all listed items !!!!!</p>
+
+<p>As a security measure tracking numbers will not be provided.</p>
+
+<p>If requested and only after the indicated shipping time has passed, the tracking information will be consulted.</p>
+
+<p>*Tracked orders require a signature in most countries.</p>
+
+<p>*Tracking doesn't function inside NO REFUND COUNTRIES.</p>
+
+<p>*Tracking is NOT possible for PO boxes and Packet-stations.</p>
+
+<p>**************SHIPPING TIMES**************</p>
+
+<p>All shipments are transferred from Germany.</p>
+
+<p>Your order will be processed within 24 hours.
+<br />Shipments are made Monday to Friday.</p>
+
+<p>Estimated shipping times:</p>
+
+<p>Germany 1-5 days
+<br />Benelux: 3-7 days
+<br />EU: 5-14 days
+<br />Worldwide: 12-21days</p>
+
+<p>*days are business days only, times may vary</p>
+
+<p>- DO NOT ASK TO LOCATE YOUR ORDER BEFORE THE ESTIMATED SHIPPING TIME HAS PASSED -</p>
+
+<p>**************REFUND CONDITIONS**************</p>
+
+<p>NO REFUNDS or RESHIPS on orders without Tracking.</p>
+
+<p>NO Tracking = NO REFUND/RESHIP</p>
+
+<p>Max. 50% REFUND depending on the tracking information or 100% RESHIP.</p>
+
+<p>All orders to the following destinations are at your own risk and will have NO REFUNDS:</p>
+
+<p>- PO boxes and Packet-stations</p>
+
+<p>- Africa
+<br />- Asia
+<br />- Middle East
+<br />- Russia
+<br />- Scandinavia</p>
+
+<p>- NO EXCEPTIONS -</p>
+
+<p>By ordering, you agree to these conditions.</p>
+
+<p>**************TERMS &amp; CONDITIONS**************</p>
+
+<p>Only Bitcoin accepted.</p>
+
+<p>There is no other currency or method of transaction to do business with DoktorGreen.</p>
+
+<p>The prices of the listed products are clearly stated and are not negotiable.</p>
+
+<p>Never reveal any details of the packaging you receive, nor matters discussed in private.</p>
+
+<p>- If you are not satisfied with DoktorGreen, no matter what the reason is:</p>
+
+<p>  NEVER give negative feedback right away!</p>
+
+<p>- Always contact DoktorGreen in the first place.</p>
+
+<p>- By ordering, you agree to all Terms &amp; Conditions on this page.</p>
+
+<p>- If you violate the conditions in any way, Service will be discontinued.</p>
+
+<p>**************CONTACT**************</p>
+
+<p>- Write all messages in English or German</p>
+
+<p>- Clearly state the subject</p>
+
+<p>- Encrypt sensitive information with PGP</p>
+
+<p>- Read this page before sending a message</p>
+
+<p>- Do NOT ask when your order was shipped</p>
+
+<p>- Do NOT ask to locate your order before the estimated shipping time has passed</p>
+
+<p>- NO Bitcoin donation requests</p>
+
+<p>- NO free samples</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Good!
+<em>(28.2.)</em>
+</td>
+<td>
+<a href="/products/60347">1g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a>
+(28&nbsp;EUR)
+</td>
+<td><span>
+Sp***88
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/doktorgreen/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+TvBcwAnqZw==
+=y74A
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/60347"><img src="/kuvat/tuotekuvat/cb6c06b4a3dd9b5477478f62f2b4beb50ed39266.jpg?1473620682" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/60347">1g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='16 EUR'>16&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95794"><img src="/kuvat/tuotekuvat/79405ce29055a14bab2259cfe1870e6a59a81410.jpg?1498038958" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95794">10g Enemy of the State Worldclass Medical Cannabis AAA++</a> (<span title='99 EUR'>99&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/60349"><img src="/kuvat/tuotekuvat/cb937714f04bb66b38683afb45a770afc6f078fe.jpg?1473621322" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/60349">5g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='59 EUR'>59&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95795"><img src="/kuvat/tuotekuvat/d62ec1ea1ed594f10395652be9533afc43cafea2.jpg?1498038991" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95795">25g Enemy of the State Worldclass Medical Cannabis AAA++</a> (<span title='229 EUR'>229&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95800"><img src="/kuvat/tuotekuvat/379f46bd308da4affc9a9124a35ead636f907c10.jpg?1498039952" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95800">20g Rest Weed Amnesia  Worldclass Medical Cannabis</a> (<span title='69 EUR'>69&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95792"><img src="/kuvat/tuotekuvat/caec2872a1450cbdec596eb70b836a3cc0bc5547.jpg?1498038530" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95792">1g Enemy of the State Worldclass Medical Cannabis AAA++</a> (<span title='16 EUR'>16&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95798"><img src="/kuvat/tuotekuvat/df9d652f7458efb4c81c0ae57b3887c761bb87b3.jpg?1498039859" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95798">5g Rest Weed Amnesia  Worldclass Medical Cannabis</a> (<span title='24 EUR'>24&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95793"><img src="/kuvat/tuotekuvat/57f0d9e4508c235273b98829aed3b6e5797bce7e.jpg?1498038848" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95793">5g Enemy of the State Worldclass Medical Cannabis AAA++</a> (<span title='59 EUR'>59&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95801"><img src="/kuvat/tuotekuvat/9bc29ecd7336f43f2d75ba12e2200fd3d4d76034.jpg?1498040034" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/95801">50g Rest Weed Amnesia  Worldclass Medical Cannabis</a> (<span title='149 EUR'>149&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/doktorgreen/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

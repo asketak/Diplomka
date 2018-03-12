@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QmY/ZbpqmXqKpLLH/sAFQrf0dv3GsmaEGdSjbHD5P2kaobkyLJb6Xt7t6w9M+cwW8+VzE97pDn20DjcN4OlN3w==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>BCDreamer</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 42 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>
+For your safety all orders come double smell proofed by a vac seal and Mylar seal. Then cleaned by ISO alcohol, absolutely
+<br />no smell. Product will be compressed for extra stealth. After receiving package please open and leave nugs in an airtight jar
+<br />for an hr for buds to loosen up and return to natural shape.</p>
+
+<p>IMPORTANT! When ordering, please use your REAL name, and full, complete address. If you're not willing to do this, then please DO NOT ORDER FROM ME!!! Please make sure your address is correct and in the proper format for shipping.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFc2Hs4BCADbyjnQhImP1pQJzK0RwD2gLie1C1QzQUMtxH4jhy8rbAGJWvGo
+BoGlcK2Ze/7nsFMFA+Qt1kI2ZSvv/CvNNYJLNhgPXW6Gl0JP2reQrG4GO8F0jS5H
+lCMkqE1LiJlERNW+fETTuhqAa7Xkm+iukvhhWxvfnlGE7seeEQ976bFZKPE9csx7
+MPK0EvVqyeKOoOzPoFWB5NelUVqGcqFTg3kSO/1VUjJ60BzqRekCRYoBEaCTEVog
+QzwlYL9gOHdJgMb4+ScLlTPWwwv4Wfbe9xcHbCw0cfc/9n0sBIyiLqU+uYXoLlZF
+QhhIQFsBE5UEvkS3iE9dRRVnjVRaS8R7Zeg7ABEBAAG0HkJDIERyZWFtZXIgPGRy
+ZWFtaW5AZW1haWwuY29tPokBOQQTAQgAIwUCVzYezgIbAwcLCQgHAwIBBhUIAgkK
+CwQWAgMBAh4BAheAAAoJEK5rrt/ADwVz6w8IAIw3JeCRUfC8o85JXRhfvbW7q1+W
+zvhiHCNizwPyxh/QClPDukV9wlw8uQs/PzI6hD7BnHEar7iu7OHmekTmU/kQXQJ+
+r1yWL6/LFy0GlkDH/pYUtV22DHM0hOnrXf+hU7k8ORc0Mz5tSsaIBLuBYqvoOTyS
+p7MYtlFjhCkcBEu+Cp+Bg4zpPnbPzk/1sj1pFePYejPpNLhGhNeWLxvAfRdd/hU2
+Jh7qDn5ab9aUQ0b/Qj/O3IZIswXNfvVrrVvmiT6DrTROAGwXNxVDoa+f2Ifunrpj
+t0cx1lPwDcz496LFk3cyNJsV8d/MxtMTf1cj3ToVaIBWc9LzMigR2RCly2W5AQ0E
+VzYezgEIANWkohFoizRJUgzTaw0znZB42K6C2eL4WsDjD/7bME2oeU0iMDeDBjfA
+N+pdVEqu4eN+J7L1EWDFQyQblIsAybnqFem5o5wxy8uIhPSPiE9uVvesDvc0FVbK
+4fIgA++4cyKQ0fXaleiHHPtXUZKidi/IlKQV3ypxC1xTYKUIaNPDPGc6qBa2wbsV
+DxO4jazFjTVIbcm0SH8/FI9oPncu9V27am2F96tPXJqNOGlkb58AeX7CfePrjTvJ
+54+2cUzN/edX9bH197w9PzMEowCvuy7IIMVpx56xDNuXEXCmLC9P1nnuPz7K+0yt
+FC3AjYkRUZpjNq4sMgw/9E986b/9JYkAEQEAAYkBHwQYAQgACQUCVzYezgIbDAAK
+CRCua67fwA8Fc3O8CADalRWYMT5UOaSlzT/0nlPhNE75sicmnHblGCMU9lwiBTEL
+40tdqhLkyBFkkfbEUlpKpsTk7wPsKID+A8SRSmhGwFvz5qOtOLmwdPpKLfjc+DRB
+sIAvdnJLmwITdFOI1SBChLTfCHSeLR3f7tZSe9OYGNKL259i6OeUh1+IwAqjK31c
+qk0EBMZm9zkGM6jViCp4ZWC5pClxHNUWnpjGETP6GPYQ+AxPG26En6U63VKURZmT
+DYPxhQX+qbnmZWbJOuJRUMnnpWUNC2WvkksPj/+d0vCZW0tQjTLVYL1P+xFdIt3i
+sgV4GWh/Z4lVR5J5KQIJ1VyT5eERnNJnccRYPq1N
+=EUPZ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

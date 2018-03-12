@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pKXFKGfIWeLpxPNLsbz2UUt7KYY3K5pu43FOLpqWfTiV1gRz844wIcJB4RuR5p+0Fm5aPZ7LYy3Q7VFPJL+k2Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/44768">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/b85e5600410c851e7bcbd75382fc733bf391af20.jpg?1466388391"><img src="/kuvat/tuotekuvat/766f4eacdd3836462483e71519f65cd960256639.jpg?1466388391" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>Clean - Rossi - .380 special - Revolver </h1>
+<ul class='list-unstyled specs'>
+<li>182.65 EUR <em>(0.019606 BTC)</em></li>
+<li>1 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/calicartel">calicartel</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Used but clean Rossi, very reliable gun. Comes with extra ammo upon request
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 40.59 EUR (U.S Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2500">Self-defence</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2502">Guns and ammo</a>
+</li>
+<li class='active'>Clean - Rossi - .380 special - Revolver </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

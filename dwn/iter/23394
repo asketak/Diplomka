@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="c0HtIGbGoEMugAZXSaT+Rl/KPFQDBySeA6HZkBUxsAFCMix78oDJgAUFFAdp/pejAt9P76rn3d0wPcbxqxhp4A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/23394">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/c3f4472257c8384518826fc9cd9567bce6ade0ff.jpg?1455972467"><img src="/kuvat/tuotekuvat/6b0a40c364cd885f1aa5c1318f18fc72b16f8f72.jpg?1455972467" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>50 Gramm Trimmreste von meinem Curry-Cheese</h1>
+<ul class='list-unstyled specs'>
+<li>178.18 EUR <em>(0.019226 BTC)</em></li>
+<li>5 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/kraut_ling">kraut_ling</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Germany &rarr; Germany</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Das sind die Trimmreste von meiner letzten Ernte. Es sind nur die kleinen harzigen Blätter die direkt aus den Buds wachsen und kleine Minibuds. Da sind keine Stengel oder große Blätter drin. Wahrscheinlich sind meine Trimmreste immer noch deutlich besser als das Zeug, das ihr auf der Straße bekommt.</p>
+
+<p>Ich verschicke absolut stealth und geruchsfrei im Luftpolsterumschlag. Bestellungen die bis 20:00 Uhr eingehen werden von Mo - Fr am nächsten Tag verschickt, Bestellungen die später eingehen am Tag darauf. im Regelfall habt ihr eure Ware dann am Tag darauf.</p>
+
+<p>Alle meine Listings sind Escrow oder Multisig Listings, ich werde auch nach Bestelleingang nicht nach FE fragen. 
+<br />Leider habe ich auf Abraxas ziemlich viel Geld verloren und werde deshalb meine Escrow Ausstände nicht mehr zu hoch anwachsen lassen. Wenn mein Limit erreicht ist müsst ihr leider warten bis genug Bestellungen finalisiert wurden.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/86649"><img src="/kuvat/tuotekuvat/9270a0dcf79f6222705b5d06ddb55090166132e2.jpg?1487891144" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/86649">Lemon Haze AAA+++ 14g FREE UK NDD</a> (<span title='165 USD'>133.63&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4120</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-83</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103578"><img src="/kuvat/tuotekuvat/347f7430e80a26a96b97e74d57699b1faa6b3434.jpg?1518813653" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103578">TAHOE OG G.H. 28 GRAMS</a> (<span title='169.98 USD'>137.67&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1157</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1241</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100967"><img src="/kuvat/tuotekuvat/461148878732ff93ab19577fa7dff0689333b65c.jpg?1515222331" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100967">❤ 28g CRITICAL + ★ Weed ❤</a> (<span title='160 USD'>129.58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>486</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102785"><img src="/kuvat/tuotekuvat/fd64a2aded3a66022b5168a5be2f9a7e462ef39d.jpg?1516565607" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102785">Tripple Cheese 1oz - 28g  *Indoor AAA Quality</a> (<span title='191.75 USD'>155.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1103">Leaf</a>
+</li>
+<li class='active'>50 Gramm Trimmreste von meinem Curry-Cheese</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

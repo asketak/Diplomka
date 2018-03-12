@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mSCiwkZF9fYwdqC2rX18LFn0aMvn2ki6VmMLtSN9OHLB5ySV0LmW0mQ/+X4fRLV4HeVtJf+BIEP7uZ/Us21KxA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Hätäapteekki</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>324</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-17</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: 2 days ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>Huom!  ti 27.2.  ei toimitusta.
+<br />PGP-avain ei toimi, joten osoitteet viestillä tai esim privnote.comin kautta! Hävitämme ostajien osoitteet, kun osoite on kirjeessä. Ennakkomaksu käytössä yli 80 euron tilauksille.</p>
+
+<p>Postituspäivät maanantaista torstaihin. Vaihtelevien työvuorojen takia ainakin edellispäivänä klo 22 mennessä tilatut tuotteet ehtivät varmasti lähtemään seuraavan postituspäivän aamuksi laatikkoon. 
+<br />Ilta- ja yövuoropäivinä saattaa olla poikkeuksia ja voin postittaa klo 10 mennessä tilatut tuotteet, varsinkin jos tiedän, jonkun ilmoittavan tilaavansa, mutta odottelee bitcoinien siirtymistä ostostililleen.</p>
+
+<p>Turvallisuutesi on ykkösasiamme:
+<br />Toimitamme tablettitilaukset huomaamattomissa kuplamuovikirjeissä ja kaikki tilaukset laitetaan myös vähintään 3 mylanin mylarvakuumipusseihin, jotka ovat läpivalaisemattomia sekä haju-, vesi- ja ilmatiiviitä. 
+<br />---------------------------------------------------------------------------------------------------------------------------------
+<br />Silkkitien sisäinen vallankumous alkanut. Koitamme tarjota aina halvimmalla, mikäli se ei tuota tappiota. Vakituisille asiakkaille kuukausittain bonuskilpailuja, arvontoja yms. Emme kerää nimiä tai osoitteita vaan näemme Silkkitiellä palautteiden antajat 3kk:n ajalta, josta näemme useinko joku on tilannut Eli palautteen jättö kannattavaa. </p>
+
+<p>Oletko KANTA-ASIAKAS? 
+<br />Uudistimme kaupankäyntimme tuomalla siihen lisäpetuja ja bonuksia vakkariasiakkaille. Asiakkaat ja turvallisuus ovat tärkeitä, mutta koska olen täällä itsekin satunnaisostajana niin arvostan reiluutta ja edullisia hintoja, laatua ja taattua tilauksen perille tuloa. Joten mietin miten itse olisin mahdollisimman hyvä kauppias.  Koitan pitää hinnat silkkitien alhaisimpina verrattuna muihin suomalaisiin vendoreihin. Kunhan ei sentään tappiolle sentään, elanto on saatava perheelle eikä täällä käy bonuskortit, joten päätin tehdä kunnon investoinnin palvelun kehittämiseen ja katsotaan miten toimii "ISOMPI TILAUS, ISOMPI ALENNUS".</p>
+
+<p>--------------------------------------------------------------------------------------------------------------------------------
+<br />Jos tuotetta ei tule 1-2 viikon aikana niin ota ensisijaisesti yhteyttä meihin ennen kuin annat negatiiivisen palautteen niin katsotaan tapauskohtaisesti korvaus/uudelleen lähetys. Mutta tämä edellyttää, ettei ole ensin laittanut negatiivista palautetta. Mikäli poliisi vie lähetyksen niin lähetämme uudelleen, kun olemme nähnyt poliisin paperin asiasta.
+</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+kaikki ok! 5/5++
+<em>(24.1.)</em>
+</td>
+<td>
+<a href="/products/87773">Custom ilkjeh</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+il***eh
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+++
+<em>(4.1.)</em>
+</td>
+<td>
+<a href="/products/88526">Rivatril 2mg x 5kpl Suomen apteekista</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+ta***ar
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+++
+<em>(4.1.)</em>
+</td>
+<td>
+<a href="/products/32213">Lyrica 300mg x 14 kpl (Ratiopharm)</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ta***ar
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki ok! nopea toimitus ja hyvä palvelu 5/5
+<em>(3.1.)</em>
+</td>
+<td>
+<a href="/products/88526">Rivatril 2mg x 5kpl Suomen apteekista</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+bo***88
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Vähän kesti mutta perille tuli. Paketointi aivan loistava ja tuote mitä pitikin. 10- :) 
+<em>(3.1.)</em>
+</td>
+<td>
+<a href="/products/87773">Norspan 10 mikrog depot-kipulaastari (alkuperäinen MundiPharma)</a>
+(49&nbsp;EUR)
+</td>
+<td><span>
+Fr***te
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeasti tuli paketti perille!
+<em>(18.12.)</em>
+</td>
+<td>
+<a href="/products/9249">Lyrica 300mg x 56kpl avaamaton purkki (Orion)</a>
+(253&nbsp;EUR)
+</td>
+<td><span>
+mi***81
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Näin ne ostokset toimii!!! Eilen postiin ja tänään mun laatikkoon! Vittu kun VIELÄKIN porukka uskoo et postiin jos vie että kestää viikko tolkulla??!! Tämä myyjä EI lupaile turhia...! 5/5+++
+<em>(13.12.)</em>
+</td>
+<td>
+<a href="/products/10644">custom jukebox</a>
+(159&nbsp;EUR)
+</td>
+<td><span>
+ju***3+
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Erittäin hyvin hoidettu! Rehdimpää / reilumpaa meininkiä ei ole ollut ihan lähiaikoina! Kiitos vielä kerran bonareistakin!
+<em>(12.12.)</em>
+</td>
+<td>
+<a href="/products/32213">Lyrica 300mg x 7 (Ratiopharm)</a>
+(49&nbsp;EUR)
+</td>
+<td><span>
+ho***to
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/hataapteekki/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFbbGrUBCADMlVazmMe6XE4B+90q3fP9LS3/ATnYfUzv/XM3Pv7bmzxwQ/Fc
+yJb1CPUQkbw+VdAM7/0iWWBBzS5DxhPaXj0H4hhQYEWENvLdOhn+r3umiPktjsQH
+FRtx8UCwtiajwwRYBtiDHM8y9Z/FdISvNV7RLKPYPaX452w1dHQrqc15PrA/IX4U
+8ZA7CL4NpGATYpFmj3AuNIvbcZ8GG8ekDCjf/36AGDFkKWOuRypEVrujRcFR4DJQ
+Oh0/w2tMUQygmZXZlBDLfe3T8INRfraYsIFKndwujojy13hSROenlf/Hzeg/NY1K
+CS+GAKdvoK/snD6cG9XnZS3JvqcgZtTJJGznABEBAAG0IEhhdHRpdmF0dGkgPGph
+cmtrZUBtYWlsMnRvci5jb20+iQE8BBMBCgAmBQJW2xq1AhsDBQkJZj2rBQsJCAcD
+BRUKCQgLBBYCAQACHgECF4AACgkQuaIdQ04cfaf6ngf/XKLn4wrZ7A8vn1ClqCif
+lm7bsU/5ywAfzCQc2KEOnnDr6C/SUh9MfL1i37qPA+9x9A58dvqlf8ZckXQ3+rqj
+5gtrKE0r/EZI2uYAC9XjsfCkTxSDhPWRpGCaUV7b3KigJjLviuWtKYz+CM5t+sCT
+nYhii0gymc7PjUHhE6oYzbGrqRIEj0/W1D4pMq/tF65yjjijIPxbpqsn3Ku65pnq
+nfEp2JqdiZ+AldcGW9h46ssNTeecP687KPms3oOUTlRn6dSPBEjW+cetHqooG4IA
+QlWOeFAOM1O6eld/cROjEIG/PBPNTkAp7mERvDyQPcJAHEt546Vd/imI6z8+s+Wk
+4LkBDQRW2xq1AQgAtoSmuEftxCtuXqGQuzf187JUTY6ei2JnaPe2kNm8+Zr1zfNu
+GXX/cHFLRqRN09L9Ixa1b4rcjmTQLOPgOSCW0nrYLi/e5XBAocQb5aR/byL32b6E
+HSwFsAHLq7239wRjs4PGwT+hicHhk9WU/ZdsI49dJ2tB5I1tVJi6WAa4snM3gNud
+prJ04MHxE9JnewLxMEUt6k71xiqQviM3PYm0EhN2Yw1HgI273+liyONF3VP0NAwJ
+8aqvfqA3dcDdv/xqkbuxD9bH2k6QpWRtHNIyAMxzy/ic2sflWQDaYLUY/XL+yuyZ
+cqb0SBmgf7v6xEUi9gsv8jkZNAt0ZJbBzygavwARAQABiQElBBgBCgAPBQJW2xq1
+AhsMBQkJZj2rAAoJELmiHUNOHH2nvxsIALMcpUxJMsMZUpDUJiyHkX2Rh8T9kXbX
+7k0AQTRQHu1z7rUDcbsyeo7NWO+REnU86oIYut/I+9WRmEnXJzYlLBuDJqGL2XfO
+R0pMcsGvfg78V/2vf6/kC3y2S3jG1RSoe5kwaeeGDgLdXbP5Ib7WuSDxYyWy75Uc
+aqEtcvhHnq8rc80UTUxLYMfXQry1Gq1WCrvP2iozd7/T0vOH8bgKsYFzL6WvJqzU
+Ktcea/4WcKNnwZJlVKR7suK1bCjvuZwInyECKcM7FVVggRp4dsqvU0Q/uygxJKMq
+QGU6NFmTVwmAgQ5tvQmRsK4geTI/UFH+fewelQ3JrXAlxjDGYqZjPVI=
+=bm+9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/87773"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/87773">Lyrica (pregabaliini) 300g x 7</a> (<span title='39 EUR'>39&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/9249"><img src="/kuvat/tuotekuvat/af68160a6a865ab6f8dead5d1bcfc299d007a488.jpg?1471464096" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/9249">Metyylifenidaatti 36mg Sandoz depot</a> (<span title='19 EUR'>19&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/hataapteekki/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

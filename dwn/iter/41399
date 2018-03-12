@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QLq8AzuJxnEsymkVFsbM6gCzVw0623HMSArIM+8xLZtxyX1Yr8+vsgdPe0U2nKUPXaYktpM7iI97ltdSURj0eg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/41399">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ac6494182ca8a7d8be61899b65ab0dd2066f3911.jpg?1462912840"><img src="/kuvat/tuotekuvat/384150190451859550c026f67403b266817bfae1.jpg?1462912840" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>Complete Sniff Kit - Large Size</h1>
+<ul class='list-unstyled specs'>
+<li>17.96 EUR <em>(0.001924 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/planet-pluto">planet-pluto</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide (<em>except</em> Lithuania, United States)</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; Bargain Price &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<br />Everything you need in one handy kit!
+<br />Contents
+<br />Powder Bottle with plastic spoon lid
+<br />Single edged Chopping Blade
+<br />Spoon Tool
+<br />Sniff Tube
+<br />Small Mirror
+<br />All handily packed in a leather roll pouch with velcro fastening.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.37 EUR (UK Domestic 1st Class) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/74562"><img src="/kuvat/tuotekuvat/fac19be0ecc9a65364518233eca880b31b0c5f6e.jpg?1481093436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74562">10 units of 2/3ml. xyringes for I.V or intramuscle inject-10 free</a> (<span title='16 EUR'>16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/orangeone">Orangeone</a></span>&nbsp;(<span class='green' title='Positive feedback'>33</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102832"><img src="/kuvat/tuotekuvat/9b74ff180dac9d9e45d486067035514b5b039012.jpg?1516134407" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102832">Sterile needle (22G) - 20 pieces</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>501</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2300">Paraphernalia</a>
+</li>
+<li class='active'>Complete Sniff Kit - Large Size</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

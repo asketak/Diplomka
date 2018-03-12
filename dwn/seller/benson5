@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="q4yCSRSrzRqEOTeHDVLRtj870GS+q9EyLo7pm+iWjqXzSwQegleuPtBwbk+/axjieyrViqbwucuDVH36eIb8Ew==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>benson5</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 11 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Here some information for customers.
+<br />The weed will be send all over the world and depending on distance you have to pay the suitable postage.
+<br />If you need an insurance during the delivery, make sure that you choose tracked postage. Otherwise lost orders are your problem.
+<br />the packaging is odorless(without smell) and unobtrusively(without eyecatching optic).</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFco5/0BCADsaPj+8CZiUVcWhm6BHk8+k141b0ijnrecEFj1IHSXCl8eNuCy
+5Hl1nSUNgS+EAQIpPLnGcguQfIuxJNXk5hyydjFlj9YEYHXZpzdaFfKuV7tY4M8W
+tUwcyDrbQp6VB7Zyuu4ymuvlwEirHoOKCFyZFB06J2JSx1BIBwwQXVibg1tgP5ia
+7E8aT383ZKjVEp6HdFguQmbz3skR9oUlezjEBtBWyNIImoeedTj2jjki8vElyDXk
+ECrFql/gGtBYe0QP7Lvc5dDwUHVXNi872Inn0s79+GFdnlxudOKBOpzJE1xhAF7J
+eDqfVgUlB86WTk7Ff5fFXmBf1W2q5+Fpzn45ABEBAAG0FGdpbmdlcmFsZUBzbHVj
+aWEuY29tiQEcBBABAgAGBQJXKOf9AAoJEMNjY4np4ulupnMH/0o9SdXteNoz4qOL
+jKEV2AyBZIR+1MR/HAwYzLoiLddfip2rj6hd7wEtIYLCzHq3ABUx18ZC3eeoX4ZD
+BDaBKOXPuNJHF7iiUgurJijH8Uja0ybg/uf98bI3pRgomXzDxYJQjN4dLFGwU5nV
+XnwhzdlKnNnHQF9MQ8tQ7YAjpzzkzMHacDh48xzf/yJkfMQDGDC21GEVU1DsuOy6
+xDd+i8DjH1l17XVB2FMtCLnuoOwkBKmj7FcoTuoQv7nkvjzAh19QIR2NfCOhJaLJ
+Czwdih2IT9Cj7xY6fPXIC57euJwqdKHlCtRzx+gUQGX1ssVZB9C4OyUu8msnxuI/
+p8PmLRI=
+=WMOL
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

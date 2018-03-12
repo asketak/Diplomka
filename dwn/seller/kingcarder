@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9/2ndpJPEfci0sR0nxoyIxwl4fkr1XXkLHyh4a8goQWvOiEhBLNy03abnbwtI/t3WDTkFzOOHR2BpjWAPzDTsw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>KingCarder</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1908</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Last signed in: about 18 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: United Kingdom</li>
+</ul>
+<div class='description'>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<br />&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<br />&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+
+<p>You can find me and any of my products on DREAM MARKET.</p>
+
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<br />&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<br />&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFUfCpcBCAC983ng8ejT41/2qEAJWQ7IUf3bgSHANQj9YKE3ciG0G0CXtufE
+TQG4XvKzgDJJowm6I5ylWQmPYvDBPsS4UCKjKwJpEpxtCCSUn0em0YG7YCHMLO8M
+pZbem6n7jfwJdr5t9mDtM04E6xdMw3v8qn+lCzNVvalZ8gL2yf29/7WVwgIdFIN4
+tQvsTDydSF85DMp/PBn/BzPyoJsD3Z8KY95C31qrzmi1dJo0kymGgYAQ5gBfYZO/
+OjrLBb98brQTgTXzzkkQT+T/C0hFoo9l1hsRuyqpNMKVhVokZSCEmqXdoBs8lRAZ
+ascFILV5s1at8TOZiDXsg86ojxa4hPl281EXABEBAAG0KmRhc2tpbmdhdWZkZW1s
+YW5kIDxtZWluZW1haWxAZGFzYmVybGluLmRlPokBOQQTAQgAIwUCVR8KlwIbAwcL
+CQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJECqnMB0+1Zdnud8H/1O2J04Z/EXv
+BhBHdM85nWvwebgClZnSjLT6LEp3gVI2ovz3/2YL1VMFmETv8wUWCC6kEQ/z3TPw
+Rw+LVtqwCVaHjAfpOv/drVnfK5lTouocvmTdTJ24J7eEe24wWdFqdknpSpz6hocw
+HzMv2S+EYT+vg9mRPpUm0kK/TqgIVHlFNqCUprd8L5e3yTTkzZ9Po8k/R8sA/HFe
+6RodKhE/SJoPBT+Spu0oX4cF4F4xt4eduXyYHqERFnYyXRQAvC6kLjppaqFLpDT1
+dCPX3TkmpxlpdklQfMdTXUB9lB56O9HliQO9U/wbTaugS1a9UDIaFCk214xev2p8
+D+xcQIDuZbS5AQ0EVR8KlwEIAM/T67XstJtv8ZmY+YnPfiWSdeyc4YWSRrW6uMZ8
+1yxX7sOEHIsRwLFiVXHcLUmBfSWq1yjuKJGO1ivgdIG/pS0GBzgSeUvE0Sbql5lN
+5KwWQzntuFlucQRdgqJAUsk6NCqSB1fYNXK1jwXMHb1uaCZFG7RnqChLNqalyR6i
+GaVTvVkcXXpugOnaszuGZBfgcL0Wzqsvm+zvhV+Tl13z28euqe0y3VGATL3MftM8
+VEf67vT9Zd6Gl+KtUi2zfYzBKeBp3dxEhzxBaAB1HLAmaQ8vlRxwIB6o1jtPsr7g
+bI9HoKWWe/Ync0OgudYW+8U31bcA8Quao9QoolO1MWUC698AEQEAAYkBHwQYAQgA
+CQUCVR8KlwIbDAAKCRAqpzAdPtWXZwIrCAC7auSwB4q2Fff/DcwskU99HaQMnXb0
+d5PJnLIlpPJKaxEtCIdY5uVjNLNrN1ERPeLVXUzj3znw+Dzm95a1KhIjFEiVCvI6
+PZw5PZG8mMkRPPysXUHgWUXDH0rFgKvopNDUIOFAsM7/xmK47eOG4ZlT8ibqK2Uf
+3GJrxtRueGcl3KL/01W3vk5uoHegi5dDGgioSvb4CV4WxNw3MYXr74+KHUQN6jAn
+RoKtXdrAf3p27p0zYl0+oLaC9e0kDyt2Sx1n3PlwcnhuorkRr5JbG1XoMFbc/TE4
+CwAZNsevT8tUTWCnUXIdurD5GY8ialDvKObMBg2zDYMAoQZf3raPNs+w
+=H6Ru
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/24926"><img src="/kuvat/tuotekuvat/aea5abb99c119fbfe3ee6d815515cbdee51627a6.jpg?1455972765" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24926">CARDING SERVICE *FREE*</a> (<span title='0 USD'>0&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24925"><img src="/kuvat/tuotekuvat/3422b7bf1de62124223ec8df01e05fe1538c3fea.jpg?1455972765" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24925">CARDING SERVICE *FREE*</a> (<span title='0 USD'>0&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/11947"><img src="/kuvat/tuotekuvat/0c7a6f47a1be31906389fdc5ffe4b64127f1c843.jpg?1455970118" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/11947">CARDING SERVICE *FREE*</a> (<span title='0 USD'>0&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/kingcarder/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

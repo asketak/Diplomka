@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t3khWfwXPKINPtwI2xpmqlhhIJiQaQvet6wLU5RTMQeGCuACaFFVYSa7zlj7QA9PBXRTIzmJ8p2EMBQyKnro5g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/10980">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8e6ec260c651584f832c494c517d7824aad5cb69.jpg?1455969978"><img src="/kuvat/tuotekuvat/0e163f2dbc8195c52f49819a430cd0beaef852a9.jpg?1455969978" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>iphone style taser</h1>
+<ul class='list-unstyled specs'>
+<li>38 EUR <em>(0.004162 BTC)</em></li>
+<li>9 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dionysos">dionysos</a></span>&nbsp;(<span class='green' title='Positive feedback'>381</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</li>
+<li>Austria &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, United States, Canada, Mexico, Brasil, Australia, New Zealand, India, Russia, Japan, Argentina</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>iphone style taser</p>
+
+<p>specification:</p>
+
+<p>Voltage : 3.800.000 V
+<br />Current : 3.0 A @ shock / 0.4A @ ilumination
+<br />Light : Standard white LED
+<br />Size : 11, 5 x 6 cm
+<br />Charging: 1.5 hours
+<br />Charger : 220V EU-plug</p>
+
+<p>instructions:</p>
+
+<p>- Push the lower switch to "ON" to turn on
+<br />- Push the upper switch to upper position for shock
+<br />- Press the push-button to shock
+<br />- Push the upper switch to middle position for light
+<br />- Push the lower switch to "OFF" to turn off</p>
+
+<p>the shipment includes:</p>
+
+<p>1. Cellphone-stype Taser
+<br />2. charging cable</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 7.0 EUR (postal service) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/16069"><img src="/kuvat/tuotekuvat/4f9b6c6cd5891dbb1541b16e5ca504f66b6cac10.jpg?1455970916" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16069">★ ★ ★ LOCKPICKING 007 STEALTH CARD ★ ★ ★</a> (<span title='35 USD'>28.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bank">bank</a></span>&nbsp;(<span class='green' title='Positive feedback'>2591</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2500">Self-defence</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2505">Tazers</a>
+</li>
+<li class='active'>iphone style taser</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

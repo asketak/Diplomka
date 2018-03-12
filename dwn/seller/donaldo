@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rL2atsfi3GB5/tY6Qr/UMfip/bAyzt0/4SFl+LVGRIX0ehzhUR6/RC23j/Lwhh1lvLj4XiqVtcZM+/GZJVY2Mw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Donaldo</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>3</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 1807 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello, I am donaldo.  I am a vendor dedicated to re-selling drugs sold by foreign vendors.  If you are uncomfortable with signing for a package (any package that comes through customs must be signed for), or you don't want to wait two weeks for your product to arrive, I am your man!  Some of our products are also available for a cheaper price shipped from our source in Germany / NL, however.
+<br />We are also a top vendor on Grams: http://grams7enufi7jmdl.onion/infodesk/vendor/0x8D700BD1988BA039
+<br />If you have any questions please don't hesitate to ask!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+=jfjp
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

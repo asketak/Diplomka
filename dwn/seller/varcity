@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rBHPMbOw7Ov3y6UzDgrLjlw/hPitUT3yq2B6nwrK9en01klmJUyPz6OC/Pu8MwLaGC6BFrUKVQsGuu7+mtqHXw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>VarCity</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>QUALITY ORAL STEROIDS</p>
+
+<p>*Products*
+<br />We use every product we sell and we strive to make safe, clean, potent products that in every way exceed our customers expectations. </p>
+
+<p>Oral Anavar (pink) 15mg/ml x 100ml
+<br />Oral Winstrol (orange) 30mg/ml x 100ml
+<br />Oral Turinabol (light green) 20mg/ml x 100ml
+<br />Oral Dianabol (dark green) 30mg/ml x 100ml
+<br />- Our products are packaged in unlabeled containers, differentiated by color coded stickers. </p>
+
+<p>*Shipping*
+<br />- US Domestic only.
+<br />- Shipping is $7 flat rate. (1 item or 1,000 items, same price)
+<br />- We ship 3x a week (shipping safely is time consuming!)
+<br />- Packages will arrive within 3 - 10 days of payment.
+<br />- We don't give out tracking numbers. 
+<br />- No signature required on package delivery.
+<br />- Addresses MUST use the following format:
+<br />      Name (first, last)
+<br />      Street name and number
+<br />      City, State, Postal Code</p>
+
+<p>*Security*
+<br />For our clients safety as well as our own, the following security measures have been implemented:
+<br />-To ensure communication takes place over secure channels, email is checked and answered once every day. Allow 24 hrs to recieve a response to a messege.
+<br />-To maintain patterns above suspicion, packages ship 3x/week. Allow 1-3 business days for orders to ship.
+<br />-We do not share tracking numbers.
+<br />-No signiture required on delivery.
+<br />-We only accept Bitcoin.</p>
+
+<p>*Off-market contact*
+<br />- varcity@tutanota.com
+<br />- email is checked and answered once every day. Allow 24 hrs to recieve a response to a messege.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=dU1C
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

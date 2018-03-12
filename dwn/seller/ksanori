@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6SZYgBQJ13gNiL8ptIqSrfkTJuD7jSWxtDkgdTkaA5Gx4d7XgvW0XFnB5uEGs1v5vQIjDuPWTUgZ47QUqQpxJw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Ksanori</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>123</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-13</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 3 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>TUOTTEET:
+<br />Suomessa valmistettuja apteekkituotteita, joissa on päiväykset kunnossa.</p>
+
+<p>PAKKAUS:
+<br />Tuotteet pakataan kestämään kosteutta ja kolhuja.</p>
+
+<p>TOIMITUS JA KESTO:
+<br />Pyrimme toimittamaan ennen klo 15 tulleet tilaukset saman arkipäivän postikeräilyyn. 
+<br />Postitoimituksia lähetetään joka arkipäivä, mutta halutessasi voit päättää postituspäivän. Suurin osa toimituksista on perillä 1-3 arkipäivässä, mutta haja-asutusalueille toimitus voi kestää pidempään. </p>
+
+<p>MAKSU:
+<br />Escrow käytössä kaikilla! Muistathan vapauttaa maksun heti kun tuote on saapunut ja olet tarkastanut sen kunnon.</p>
+
+<p>CUSTOM-TILAUKSET, ALENNUKSET &amp; KYSYMYKSET
+<br />Isompia custom-tilauksia on mahdollista saada alennetuin hinnoin, kyselyt niistä tai muista tuotteisiimme liittyvistä asioista yksityiviesteillä. Vastaamme kyselyihin mielellämme ja pyrimme tekemään sen 24 tunnin sisällä.</p>
+
+<p>HUOM! TEHDESSÄSI TILAUSTA LÄHETÄ OSOITETIETOSI YKSITYISVIESTILLÄ privnote.com SIVUSTON KAUTTA (PGP AVAIN EI OLE KÄYTÖSSÄ JA LUPA VAIHDOLLE HAETTU KAPTEENILTA).
+<br />1. Tee tilaus 
+<br />2. Mene privnote.com 
+<br />3. Kirjoita keltaiseen viestikenttään osoitetietosi ja paina "Create note"
+<br />4. Saat linkin. Lähetä linkki meille yksityisviestillä
+<br />Huom! Älä avaa linkkiä, sillä sen voi lukea vain kerran. Voit varmistaa asian kun oleme kirjanneet tilauksen postitetuksi.</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Rahat meni, mitään ei tullut
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/102500">Ksalol 1 mg 1levy (15kpl) *Silkkitien halvin*</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+lu***ma
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Laudalla ilmottanu myyjä että tili viety, nykynen tilin hallitsija merkitsee postitetuksi ja sit seuraavana päivänä phishing linkkiä! ÄLKÄÄ KLIKATKO!
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/102495">OxyNorm 20mg (5kpl) Mundipharma *Suomituote*</a>
+(89&nbsp;EUR)
+</td>
+<td><span>
+ca***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+tuote ei tullu koskaan pysykää kaukana rahat kyllä kelpas 10--------------
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/102500">Ksalol 1 mg 1levy (15kpl) *Silkkitien halvin*</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+mr***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Oli laudalla sanonut että tili on kaapattu ja että älkää tilatko tällä hetkellä mitään,tietenkin tilasin ensin ja sitten vasta kyseisen langan huomasin!
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/103265">Jatkamaton Amfetamiini 1g</a>
+(70&nbsp;EUR)
+</td>
+<td><span>
+ga***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Pysykää kaukana... Rahat viermäristä alas tän myyjän kans.
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/100637">1g Ketamiini S-isomer kristalli </a>
+(163&nbsp;EUR)
+</td>
+<td><span>
+Wr***3w
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+plaah taas yks kusettaja
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/102500">Ksalol 1 mg 1levy (15kpl) *Silkkitien halvin*</a>
+(67&nbsp;EUR)
+</td>
+<td><span>
+Ra***ri
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Rahat kelpas, tavaraa ei näy. ”Vanhat arvostaa”...
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/94715">Panacod 10kpl Suomi apteekki tuote</a>
+(99&nbsp;EUR)
+</td>
+<td><span>
+ve***pu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Rahat meni, tuotetta ei tullut!
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/102498">Panacod Pore 30/500 (10kpl) *Suomituote*</a>
+(103&nbsp;EUR)
+</td>
+<td><span>
+re***us
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/102498">Panacod Pore 30/500 (10kpl) *Suomituote*</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+ta***us
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/ksanori/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+mQENBFKNRU4BCAC2OcBQoZRUHucxfpe3flC+m411j6T1VBBOAVfYyR/pCHTMdT8v
+5CmTozWzlH0UigDuDAYCENPkBpPAaQo6xYZmBFpFw8FxkYk222WwHRcoE06i6Cor
+acjf7InDB2dkxWo//6JNLKVDE4ngQblwsyoXb7fldAXE+MCOJyJ7iXiIyI+MjO1F
+K2CD4pzHwgmmRLZNe5Xn37Vd4yWa9PNaWYMRdhTAPtz1eGj3+4zW1tTlBfTlVnt1
+a5S2O/CZQB4wZYL21ikT2quXBKPV6leHyW72Eu/ZEmBsr96knYM4FmcVTvUvlF76
+YxXQpJtmWIsNQ3gXXWIsH4KiAmk200oMntz7ABEBAAG0HWt1a2thIChraykgPFVT
+QWFhYUBnbWFpbC5jb20+iQE5BBMBAgAjBQJSjUVOAhsPBwsJCAcDAgEGFQgCCQoL
+BBYCAwECHgECF4AACgkQXdCwipnax4lozgf/dHSxYEVL1An43d81Q0xtqZnGZ26A
+WmGRm9HgBJvrxSgpYNp6iQ1CRZtZnrSsbDQu7sZvL1LUVQYuwXlNr+0QIUVh04vF
+d4kQ/Dp7o43l8cBYcTv2ZL5njZNS110Ww18fJXxJ/ACHjZI1AjufyFNPv3k+SVDu
+3dI+ti+CqYLlDQfZ+UxHszHmwELSRD3w0C9Vcqy6AgXZINgecrOJTsWUbRl0raHE
+2OOFAJvEeKrTHnp0gwNg1p6QJyAenTI53vbSkSe8R93fpeRnoqgPGBWvxeYHOUBf
+b9XjdaPnyegLYK0RwCQDB+ITa+qFn90jWLGqrN3sVE/Zg0ewQoDci1QCKQ==
+=0T3z
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/103265"><img src="/kuvat/tuotekuvat/dfdfb61d39dc583dffae0d8186e056970e3c630d.jpg?1519320003" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103265">Jatkamaton Amfetamiini 1g</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102500"><img src="/kuvat/tuotekuvat/2d1f4ec325d65a3e2f897c88db3927a6a3f49e2a.jpg?1515053032" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102500">Ksalol 1 mg 1levy (15kpl) *Silkkitien halvin*</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100637"><img src="/kuvat/tuotekuvat/b31f374c020229a18ac8f2ffe87a19a5e4b8ef9e.jpg?1509362715" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/100637">1g Ketamiini S-isomer kristalli </a> (<span title='163 EUR'>163&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102497"><img src="/kuvat/tuotekuvat/0f27ab8a701ef4b17261f3e8f6c2d91468f75cdf.jpg?1515053237" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102497">OxyContin 80mg (1kpl) Mundipharma *Suomituote*</a> (<span title='78 EUR'>78&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94715"><img src="/kuvat/tuotekuvat/e2cb28ae10a3bef5d247a6dcff1ea8024f119620.jpg?1496030684" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94715">Panacod 10kpl Suomi apteekki tuote</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102495"><img src="/kuvat/tuotekuvat/81253a11436c1743594c62fe1da3d54133f21da0.jpg?1515053439" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102495">OxyNorm 20mg (5kpl) Mundipharma *Suomituote*</a> (<span title='89 EUR'>89&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102498"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102498">Panacod Pore 30/500 (10kpl) *Suomituote*</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102496"><img src="/kuvat/tuotekuvat/d6f8ff98a0afa163965cd24ce36fe4c4e89b2624.jpg?1515053375" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102496">OxyNorm 20mg (1kpl) Mundipharma *Suomituote*</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102499"><img src="/kuvat/tuotekuvat/4c4384e340b5c9f57a308a3dfcb87365ec8400c9.jpg?1515053098" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102499">Ksalol 1mg 3 levyä (3x15kpl)</a> (<span title='93 EUR'>93&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/ksanori/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

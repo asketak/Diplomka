@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oY2DbZF42Ok+yt1Rj3UJklM1B1tVnoEnKaB5E87Ny2L5SgU6B4S7zWqDhJk9TMDGFyQCtU3F6d6Eeu1yXt251A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>TopGeorge</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>10</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 1165 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to my webshop!!</p>
+
+<p>Top Quality Weed and Hasch!! 
+<br />Also have very affordable Weed!
+<br />Very good stealth!
+<br />Shipp: Sunday-Thursday</p>
+
+<p>Mycket bra kvalite till bra priser!
+<br />Har Weed sorter som slår det mesta.
+<br />Packar med 100% bra stealth med snabba leverans tider.</p>
+
+<p>Varmt Välkomna !!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFizUjkBCADMBRd2SY8JnUItb58//BcNwd/b8eX7u66mfCft+SoWxNi2C4aH
+xGEz5h+F+tQGDqEdUXHPYUjV2P1uGDgFKt8lD2m7q7i72ppUz3YVEMGJzWwQJntc
+59zTAjK5xmaBv/P3y7Nw1Mq+yR+VkpA5OPksb1VXZAP3u+Da/NBP5B861w5hYOdu
+6WgQhLcMgNEuVnJt01+u9ydzudDrtcZJcTzw1qD6N1pFACe6SRc52aWs5A9rUzWw
+tBLaX9hdFrYvzflA11rGPYNAvHr/IKjYzmPcxZiQNZcCW/27/yjnRAo694qeStLq
+7u/qoz3db/BVg8bgfvj5sIkNqR9thDHowhG7ABEBAAG0BXRnZW9yiQE2BBMBCgAg
+BQJYs1I5AhsDBQsJCAcDBRUKCQgLBBYCAQACHgECF4AACgkQ3rXvRH+fnljenwf/
+aQaa/rxuIbpTFVZcNs8AOaWnX9u7WALe29KXpf+e5AMjiLclWXxo9OtqMAdyRpRf
+1Dk+4qHotxhHbmRwfLxDJO7bZHwAxPz57PtFcmKD0Vht8JI7VOHdzbkVVoDBdb/G
++pIhFHtuONYUpcAClp7QAtgK7gdN8SJctAyuduZxDXpC0w3lrbTc3F/MRlig41vB
+g+clWvC/nD8wWna/E5m4rZkc1EadX2wNxwubRYZW0XZJ5mE16CidLbImsVgZX4Rg
+1/YYH3auBPfAdrHhwmwlcbNzVqhch2HPqEwLlAux5na4JARxKN+il3xVo36luca8
+w2PCEPxl5EKLodA4ZSgIJ7kBDQRYs1I5AQgAuQhOKtPypxd9sEPvP8nN50gHT32U
+NkNutKNF1X8668bEXibcDf41ge20D6ENunKGakzuRpPdLbjpLV4A139p0M902BAf
+aACO2f9PB5/jC79xrd7BVNIiJ8DPdLabrPcoT1XhVKII0qNwnHT94j+wwBXFsTNG
+2ixj4KvEXVIBm3Ic25Ds9D9NiRN2ZpKdCNXSKp4/W8ZdE8mygqRFAwvgOnbkS2zk
+c4NfgFkVyVyTDoB4qyAC9G1qQ2jtwkdudDED7fnjboMjRGopSFFWhBH0qLbY8kKN
+hpBOXexh8iOGYG5Cr/s27MRWfCONhitX9Ffoys4UTkjiIpzcKX1yZyEoewARAQAB
+iQEfBBgBCgAJBQJYs1I5AhsMAAoJEN6170R/n55Y/9kH/R4EvHMqjtSNCMxX4HQ3
+LwScf/78tsu8wtMId4xenQtJpl32a4oYwe9aEcaz1wxRrCX0WqDBvRXprg38YgVi
+mUtr9nnpQiTZtDtnAQV3VMjH8wtS9apzIn6Y9SKgC+rnud7JKptwcvdzniP4aCvW
+8B+vp1IU14595Jr4HVZVynaTQIX8KqP1ZTESEQJ1xcEWxi3UV8JWFI5s4hEsojIp
+BdUcsj89p1twEvYWUINrFPb/3MTslMmYTLv4k1ZqHt5Yioo7838e4DQmxDXZUnC+
+sIBWdMigEt9zoBkqYMeyB62u0Sv9AwRfRDd1TBp6J2ZBJ9dmufXRMWv1q/jAj1Tz
+LJs=
+=xvIF
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

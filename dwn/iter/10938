@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oAg9q0YHXXFE/HrsFKNyi7FIzgLBTeeXmeHrOmFv/cCRe/zw0kE0sm95aLw0+Rtu7F29uWitHtSqffRb30YkIQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/10938">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>Pick n' Mix - 10kpl Suomalaisia valitsemiasi Bentsoja</h1>
+<ul class='list-unstyled specs'>
+<li>55 EUR <em>(0.006025 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/tohtori-outolempi">Tohtori Outolempi</a></span>&nbsp;(<span class='green' title='Positive feedback'>19</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Valitse vapaasti yhteensä 10kpl pillereitä erilaisten nappien joukosta. Joitakin yhden sijaan useampi kpl.</p>
+
+<p>-Vaihtoehtoina ovat:</p>
+
+<p>-2mg Rivatrillit</p>
+
+<p>-0,5mg Rivarit (Näitä 3kpl yhden sijaan jos valitset tuotteen)</p>
+
+<p>-30mg Opamox</p>
+
+<p>-5mg Diapam</p>
+
+<p>-20mg Tenox</p>
+
+<p>-Etizolam 3mg blotter</p>
+
+<p>-Alprazolam 1.75mg blotter</p>
+
+<p>-100mg Sildenadil Sandoz (Viagra)</p>
+
+<p>-Panacod - 2kpl</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103156"><img src="/kuvat/tuotekuvat/5754bc53a4cb1fc6bea71c87b9f5c73e321b751e.jpg?1518139841" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103156">30kpl Rivotril 2mg. Roche 1.4€/kpl + 5€/postit</a> (<span title='47 EUR'>47&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/teknojeesus">TeknoJeesus</a></span>&nbsp;(<span class='green' title='Positive feedback'>225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98985"><img src="/kuvat/tuotekuvat/fbf7d7c44f8d07ed6e4f27a27554127e4cdc0ffa.jpg?1510749804" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98985">Diazepam 10mg 15kpl</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pur-sang">Pur Sang</a></span>&nbsp;(<span class='green' title='Positive feedback'>1795</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-16</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97303"><img src="/kuvat/tuotekuvat/11d67a38dd415cadea39772b9a591b198ac84c5d.jpg?1500983842" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97303">Tenox 10 x 20 mg (temazepam, tematsepaami)</a> (<span title='76 EUR'>76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/sissikasvattajat">Sissikasvattajat</a></span>&nbsp;(<span class='green' title='Positive feedback'>395</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96027"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96027">Tenox 20mg (10kpl) *Suomituote*</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ksanori">Ksanori</a></span>&nbsp;(<span class='green' title='Positive feedback'>123</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87769"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/87769">AITO XANOR 2 Mg 5KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mr-nice">Mr Nice</a></span>&nbsp;(<span class='green' title='Positive feedback'>99</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>Pick n' Mix - 10kpl Suomalaisia valitsemiasi Bentsoja</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oDx2UawR3IJyFhiCNPhHH5NSaqXG8XNkzGyPLUmQEcf4+/AGOu2/piZfQUqGwY5L10NvS96qG51hthtM2YBjcQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>german-stuff</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>44</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-12</span>
+</li>
+<li>Total revenue: 3068 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Dear customer,
+<br />thank you for being interested in our offers. Please read and understand this page carefully before ordering.
+<br />We ran a couple of very successful darknet shops in the past three years and have more than a decade experience of supplying drugs offline.
+<br />All our shops have had outstanding reputations regarding reliability and quality.
+<br />All products we sell are first hand from suppliers we now for years
+<br />We have experience will all products we sell! We will never sell something, we don't know ourselves
+<br />All data needed to process an order will be stored
+<br />on highly encrypted devices and deleted after the order was processed
+<br />All shipments are packed clean and smel free, not even dogs
+<br />will be able to smell the content
+<br />We want you to be high</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+mQENBFEwuhwBCACf0u05hz5Y+Jv5dTDEfe+tywdOiznqHLAZh0ac1kV0+gokkxes
+oAYDMIvDdPN7Nb4OrF0jRhIMGjz9I4CSJDhDHS2ZvOwdfXVZ8MtR88kNhFJi9p+V
+Se2qu1UjopsIkWTfvMedwjkP3z5pLt6cnoE5YxrUEplJVnzJ2H/ZnbB5tdsa65vZ
+2czl2EVry8guGa7ZBCxpotLtmKKyeRHtO8PKJFKvYqGyLzLo5OCDPY0Ys+82TmPo
+OJTOViqazhMuVFeBtj6sQLHLB/S+dg31lj7s85dcnwgU4U/x2raH7+E0EsORehcZ
+LPiD21WPnizoBT9komnY5qk3b3mnWkxDV4TnABEBAAG0IW1lZHNmb3J5b3UgPGpp
+bXBob25lQHRvcm1haWwub3JnPokBOAQTAQIAIgUCUTC6HAIbAwYLCQgHAwIGFQgC
+CQoLBBYCAwECHgECF4AACgkQzToVsUtq0HAVlggAm7rF1WUopdsxRdDTJ4UdvrP5
+yD4Cy1nw6DosqeyFq1ZHK4gw+Cnp2hq0EfHQM5IOtt2N1BuPrVQ1jcYG4N0k4IOr
+Y9xN8XP3kCsS5ikuW8x/B51HQ5IZpXhfawIB8J03OAS0yb0//4HYSPoJyIVIFYic
+LBgbVNBGplCKNxABStYnonmMi9fx1cMxmvZytiIvIGmMI0+EZjDs8NyPeURNvy1C
+9fr78dseYjVhBPPqTFiplWIWktYEkA8nLcEpR069feUT4zIVQqxsIAApWSXWJoCK
+hKgiFjYnxDCf4jKTGrWCblpAL4Su6Uk11Tiotlu19+DaWgLXyuDZ0FvNj3aJ4rkB
+DQRRMLocAQgAug1UqObUJlJm3zl8gIkWvx4J34R5HEnFJPaSelXwPczUdU4lZcqL
+vXUwGDzXgf0zqZdarki6ITC45J+9BHSk8++zVY1mWG5D+K2PFGajQGRf4rSl4GcC
+/Cn3JwlsZZBPLTSVrQTDhfm4EhpMdwJqV7RgEpZswGoQp0LV/kz61PKNS2YyN3LV
+SD4/5Loo4SLQ75Hivm6yKY8xUrSEFkXWBTa7v8rHygYVyMDQnzw5Lz2VZHJZ+jKX
+IrGFNtKJZCCT2lnE6FEoivfNI8kb9FSZk9GGvl3CHe23H627Ga8zZiollnkrMB08
+lrrA++9ZV2fjQOd0yuHqF9v+Gs5svnFB/wARAQABiQEfBBgBAgAJBQJRMLocAhsM
+AAoJEM06FbFLatBwRRkH/R+6/PCLSy1JJzFnUsJ7vEKeY/zBxkoRFmDzv14UZ7n3
+YZ7NAUgHqTU+Ym8wJZtjnECI1QWOFqHsT0lACzc6vKpUOk81hhWwNJK1M2uk2yb/
+LM3TdwJAC2KJccT0g78JcARrgTZi7cP2KcYogLuKMA9DmdR22+fz+mnTGr6IX8Ef
+7A8fj1YOuAvVxlhJa8xsNNMjnhD+5UvqSSol8KUiCVi4WgIFAIGX/FT3r88W8/0Q
+xaBhLNB78N+n0NYkuOFisynnBqCNX4eilYv4OgVxP7dFfJG4pRC1riCc11Gjug0l
+SPd90QGiEPyGcElY29wDci60LRMGbKdl5qsJPIIGTks=
+=pLio
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

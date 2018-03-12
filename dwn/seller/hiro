@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DdfzV2Z0aNSX9rvLAz/xQdw9h4OGanbQuiUNX1CXwetVEHUA8IgL8MO/4gOxBjgVmCyCbZ4xHikX/5k+wIezXQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>Hiro</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1521</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 2 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>Postituspäivät Ma-To. Ennen klo 14:00 tehdyt tilaukset ehtivät saman päivän postiin ja vielä klo 15:30 asti tilauksilla on hyvä mahdollisuus lähteä jo samana päivänä (mahdollisista poikkeuksista pyritään ilmoittamaan). Tilaus merkitään postitetuksi aina vasta kun kirje on jo viety Postin toimitettavaksi!</p>
+
+<p><b>Escrow on käytössä kaikilla ostajilla. Pyydämme kuitenkin vapauttamaan maksun etukäteen, mikäli tilauksesi arvo ylittää 200€.</b></p>
+
+<p>Erikoistumme substansseihin jotka auttavat ihmisiä saavuttamaan täyden potentiaalinsa. Valikoimaamme sisältyy / tulee sisältymään laaja kattaus nootrooppeja, SARM:eja sekä terapeuttiseen käyttöön soveltuvia päihteitä (rauhoittavat, psykedeelit).
+<br />Käytämme itse tarjoamiamme tuotteita ja laitamme myyntiin vain sellaiset aineet, joista koemme oikeasti olevan hyötyä. Kaikki viihteellisetkin aineet testataan ennen kun laitetaan listoille, eli voit olla varma että saat juuri sen mistä olet maksanutkin!</p>
+
+<p>Jos tulee kysymyksiä tuotteisiimme liittyen niin ole rohkeasti yhteydessä, neuvomme mielellämme! </p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki ok
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/103461">4kpl Modafinil 200mg 7€/kpl</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+Ta***qo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus. Tavara sitä mitä pitääkin olla 5/5
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/103461">4kpl Modafinil 200mg 7€/kpl</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+ti***ii
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/55999">10g Phenibut</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+si***ie
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/103461">4kpl Modafinil 200mg 7€/kpl</a>
+(61&nbsp;EUR)
+</td>
+<td><span>
+st***im
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(3.3.)</em>
+</td>
+<td>
+<a href="/products/103461">4kpl Modafinil 200mg 7€/kpl</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+st***im
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/55999">10g Phenibut</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+el***le
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+10+teen kauppoja jatkossakin!
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/55999">10g Phenibut</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+re***12
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€25+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hiro älä koskaan lopeta, sun tekemiset on tarkoitusta täynnä jos vertaa kehen tahansa täällä. Oli hienoa ostaa Noopeptia sen piri-pussukan sijaan. Sulta oppii trendejä, ilmaista tietoa, hienot kuvaukset; aspa: palvelutarjonnalle 5/5. Annostelija bonarina!
+<em>(2.3.)</em>
+</td>
+<td>
+<a href="/products/51183">Noopept 1000mg</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+Vi***on
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+hienosti pelaa homma... suosittelen ja kiitän
+<em>(1.3.)</em>
+</td>
+<td>
+<a href="/products/64531">LGD-4033 jauhe 500mg</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+Bu***ti
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/hiro/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbAougBCADS/FNyPLxhaEr6klevRvuZlaNUevE+2RPR50eOCAHesuz1hQkE
+n8dyy1LQ4XGWLDMkFU36q9XtRRaEX7VzUN0BGxef5tq4COUeOrz1p3zg7vfwO9tQ
+L0HLG2JKFRq6MhfOvBCjTbnqRnDEg97xBdDCuF7eZZmQqpTSwGoC/dbyE7bTpjKi
+rRBIG3KXQsv+HZvnBghgpEFz/lPCy/9M7Ghakx8oQr/xQ/jLqjYtpwphsVBf2wJk
+28fLrfxQlT5cjAuylghh+O1TgoIu6QIuap28vD0itrUilWd4mOytnF9iE+5bGLDe
+V+5O7ND8m2oAr+3omRzJEp5UJ3TElV9wJ6jFABEBAAG0JEZvbGlvaGF0ZSA8dGhp
+c2FpbnRtZUBub3RyZWFsbHkuY29tPokBOQQTAQgAIwUCVsCi6AIbAwcLCQgHAwIB
+BhUIAgkKCwQWAgMBAh4BAheAAAoJEBg11R/yPUB/Am8H/icV2KynzpTMt6JWvEoD
+4fbZM80Na3JSNI/zRD4ewo58gGpXPRTnQxJh0RMmnyNimammgYKHbaI5tQ43RLNl
+zqy77H9c/LKlXpFubDFAMuZH8LVSH9T66Pnw8teW0RYHFn3xXKkvq/E86ks2TNGX
+iHSMqaWehwZJxYn0zDmbgowo3eFjnenSRMTC9zewTwa9XZmtC7zg1IUZqqNG8zdK
+PVQ2R/zO5YuVbIqvGRyifc0zxnNsNmddo8/HLJXzN76oU0HZUSV+OVZ/IRAtu3oW
+C2+ju93EqrvJ7D7E0IlBVGwJ8oxjnAs7MfxNQe69iGmJeKI+2ARHDwcjSgSzHmNY
+jyC5AQ0EVsCi6AEIANH9bjdepYPXWnLfNVNRdolaclWF1aBf3l1QA+r4zlnvTtqn
+L16nX3WX2b68WYYAei1EB0D8Y6uETh+UEysnRBKBA970S8J7YBPfreNzOWjFkL7h
+6qIDFVwO1mBWSBLhnMAWCuHm3/5ISSTDldWT3tni1br0drTELv9Lz6OeZXoARaGm
+NG8zn6N/l0xBfIETPHywKHnDqzJEFGFmez3LO4DBqwULKS6cBbHgIIg9tz4L+rSU
+TjJfLKHtNzlSJP5WbaX1eoJQa96Enq9FPr6aeUAoqOn/HHw6CV/by0dlBx2bbIQS
+4vvPUqh86uNCUPVg9n+oscv5fghfl95HHfSZ6PcAEQEAAYkBHwQYAQgACQUCVsCi
+6AIbDAAKCRAYNdUf8j1Af8xTCACrrVsRrdFrQ2mQ/Df7f2ZiasBLZc3W/UqZq0W/
+WfQBonkiij9q2uZZ3kHXdfKnA99Gkdqd26oUErOvdwr44iC5AGGP7QjfAWAUnVBL
+yYz7aRq9iWW/vGuWCY55Y8GUeozhjhdMJekY7LOqej0xb8x4aauTK3DbS3kDmPje
+p9R7GcYkAVBeqlOuKTioKiLcyMoO4QKqL4cahw9T145kmXv0hE4NDpAj86cLb5Nv
+WLzdHxYRLHmGRS/FF4QEYkSJ/rY5acIb4YOITqVUTQMFXXwTMa7FvInEj9OXKcoR
+BYjCDxizaXXI4w4vbq9aHU3HXiIS5UslF8XM95tFk/avTdGe
+=e2n4
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/64531"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/64531">LGD-4033 jauhe 500mg</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/hiro/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

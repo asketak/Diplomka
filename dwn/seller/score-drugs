@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6pK/4UTOmy0CdUuss0tw4ELaMNtWxVrFflBqfYaWbKqyVTm20jL4CVY8EmQBcrm0Bss1NU6eMjzTiv4cFoYeHA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>score-drugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>156</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 6584 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We welcome and salute you,</p>
+
+<p>We are located in UK, work in UK and ship from UK
+<br />We are offering the only premium high grade products.
+<br />We always ship from monday to friday.
+<br />We have done extensive research on the best packaging methods, 
+<br />we have found the perfect methods, which assure a very high success rate.
+<br />Use of MBB bags
+<br />All products are double sealed and packaged</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFObdiYBCAChQXTrHf5LyW1uFfUFwiq6FRZIcEZPqiOqlUS5FJ6D1bTmFHOe
+Ih/2fSbl8MOxMJPM0zEIhNixxvPU8jqlNo61qdEgZD5Bnq682VzRk35xjO6PgzyA
+XV2k7YHYPlnP1yeVsOFg9ByuSKpPPLcxtE3xWir5VYKr6D2U6mCWWu+KJoEBEsDN
+cNyc+8ByPSMRaClC9hjXnj120T2r6GgBYYyobGSMjDbusMb6k+lNo3DaJrKdiZdb
+WyOYyXe3drtrVN295oB7Lx2Ja+7BVlB43W1Rm+Gu0To/XMtWyQ3USnhxVxFOkxef
+ZAKOrpOXYztjVatMZIXI0QyfeuXCN/Bqz34lABEBAAG0Lm1hcmtldGNlcnQgKG15
+bmV3bWFya2V0KSA8bm9tYWlsQG5vc2VydmVyLmNvbT6JAT4EEwECACgFAlObdiYC
+Gw8FCQln+foGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAAAoJEG7yNHh+NmhXsMsH
+/R7MAdfdXo58BiJ01+TQrf6E96z+nPNQmSLOewshbOZ0sqaVIuGyAan+2MpUgeS5
+0V0D3pxfeMmZmFArf/EaZusly2jcwmI88c+OC6YRtVUvsH1VFX1WtQLAMGPoSAwv
+IdV+6jlBkkCLSjE5iN9tiCOfnwuzG2AFmQ7lNQ6+Z3+3k2LSz3vbO9hC1bWeos0p
+bwbeY7a8V2u7C99cm+jJ0qx3+ZVnC91GRbkHI/tBK1WKkubwSadW5I75XS/mco+e
+8cfH0tf56a2lkXvRD+VjY17eFphFKbRXaDMcYXWhRK7EBCh9ox4hyAGbiHYhAgDC
+jMSVbIK7VqztKYcm4tjG68E=
+=Ob2D
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

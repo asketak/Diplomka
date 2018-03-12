@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="aEYujCqSL838KawJMPRrxLwUDuePpgxaJfas1d5AjzUwgajbvG5M6ahg9cGCzaKQ+AULCZf9ZKOILDi0TlD9gw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>Michaels</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>146</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>Tulen toimimaan varmasti mielestäsi huomaavaisimpana myyjänä ketä kohtaat. Koen kunniaa hyvistä asiakassuhteista ja tyytyvistä asiakkaista. Minun kanssa kauppoja tehdessä et tule pettymään. Joskus minulta myös löytyy tuotteita, joita ei juuri mistään muualta saa.</p>
+
+<p>Postitan pääsääntöisesti joka päivä paitsi perjantaina etteivät vaan mene huonoksi lojutessaan ties missä postikeskuksessa.</p>
+
+<p>FE vaaditaan nykyisin kaikissa tuotteissa, koska ikinä ei tiedä milloin kurssi romahtaa ja olen jo menettänyt 3 kuukauden palkkani pelkästään viimeisen 12 kk aikana sen takia kun ostajat eivät vapauttaneet coineja heti tuotteen saatuaan. Mutta ihan yhtä luotettavasti asiakkaat saavat ja ovat saaneet tuotteensa perille kuin ennenkin.</p>
+
+<p>Pahoitteluni erään hattaratilauksen automaattisesta peruuntumisesta. Jos teet tilauksen uudestaan, saat extraa.</p>
+
+<p>Kohteliaimmin,
+<br />Michaels</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbkfO0BCADI1KCtlDS2RjHGLEjmk6zS/5QvmVydwbcIBovriC+eSj8iQvxT
+Ml8HEa90JIT0825lIiEZ7OBpAE612vyYbu9ea9KIkzo6RJ0rz0SurDxQmbTIKRTR
+UnLhn2lKb7ZzDWmTaDaicj5SL/s6xG/kp7UlgdFh6yO28sIHuck1R82spZIP6zPd
+jl0Z04tE7oqToYgPNG18sSct9eb4kV5sPuJEDodqfIaNyCFXqr9Cc6TIeo8xXGD1
+LcldP1SXkuOVxaqXk84fjegP+20zpG/DlHWwflQdYrvkRidEDsbY3cnX8euPwwOO
+623ypiBzYZpT3CFhu+Z/Qsze9rCw2zmT9BFdABEBAAG0GW1jZWxzIDxjYTlAc2Fm
+ZS1tYWlsLm5ldD6JATkEEwEIACMFAlbkfO0CGwMHCwkIBwMCAQYVCAIJCgsEFgID
+AQIeAQIXgAAKCRBrfmp3Eguot6buCACrAd2utSspzuOqMPIJyso+SdPYMlz1/NG2
+uYInxZwsmmCQDGmpTJkGq9QbFKEDwPmvcVUBLihpZPRNtWTTWZN95Pvlov21XlTu
+/Wm7N1CC+0TPofetoWOum/LCPZtJggwZCK53oRmp0BQnadA+3Rjc3lAtFk7n0c9f
+pJPaQ9Ki2q0neHmmeXFovpYBegv+Ffpmnbfby0yYdVBPlQG7kipv7Ti7gj7Z9VWQ
+cJpZGJsVsdGpa8CL7DEAcxHyPqabrqHNOFXmVz5jGpCrsdvox7jIEXM2SWGeUkXL
+dKA+/NXC+cAT0OA9ntFrrCO4RLtAMPdBbNsQZqQ73vj3R4Nh5nvmuQENBFbkfO0B
+CADf6Z2hlb3m2wHjEG1v4aSO773e/a4e/+IZCq+xlDn7zIbVnfa1cE+3dWAzKbjr
+UiBxrhAgQi5CQjPwF05k6PaHrzpCsa7dMvpRAvPlZstHa8apopHaM5DjO7zskC6X
+VAvTUKTx6EkmmnjpAN1X7FcJPtPO3+MaQXkXktWEKJeSNHh3sg8CBQRHZvSUiK7X
+2nJ1/dvteSok6S0/KaWXgumzgwtoMVR9ePEzLWDFOlDdkANPAXGQ4Sdl6p3kQQRg
+3ULF538x0bg15HT5TTrX3XIT1ikA3Ac//i64TboFltakeC4FiAsknezCL43pEWsv
+Cb1O21Zr3X3lmmhwZU8f0VXrABEBAAGJAR8EGAEIAAkFAlbkfO0CGwwACgkQa35q
+dxILqLdZaggAiPPiqtweksWLR8uvrCUv0uPVPtNG1ZKQsHsAJ/9SsM4oWWobfMJq
+i3Be6GWvlUJjQVbyPULNYE1ZcRkDRYtTGQnBijJfcmwjUETr0wjD9jOrPsdqB3uO
+XNyq3L9TPTFePbxyUQ30fhO3IUpWhKc/5HjiZvI0HUazJT9OW9fVXuoY56EIwAYy
+AZ6GDC91qJclXwRD2Z+yCYJJ+KS+Tdx8HH/l0oubBOFn0qykaaErIAXCt4aCDwVh
+A4sfrkRpDUhPpfUIeq9fcWBs/N/UM4Mj8k2mWXjtUXoBuq0RaommlenbznsUcvix
+hcNgK3+MXsgQEmp7zgs2hCveF+vEj9Cy2w==
+=vR9A
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

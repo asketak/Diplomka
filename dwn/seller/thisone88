@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZH9s1w09Q7hwHnVP5ts5g//K5D3hkLMoImCDBncK/0k8uOqAm8EgnCRXLIdU4vDXu9vh0/nL29GPuhdn5xqN/w==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>ThisOne88</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Herzlich Willkommen bei ThisOne88
+<br />    °°°DER EINE DER VIELEN EINZELNEN°°°</p>
+
+<p>Bei BitMessage im Betreff ausschließlich „Auftrag“ bzw. „Anfrage“!)</p>
+
+<p>Für alle Bestellungen (Sämtliche Produkte + Produktanfragen!) verwendet ihr bitte folgende Bitmessage-Adresse.</p>
+
+<p>BESTELLHOTLINE-&gt;  </p>
+
+<p>&gt;HiT to MESSAGE a BIT&lt;</p>
+
+<p>Bestellvorlage -&gt; Kurzformat
+<br />DATUM:
+<br />NICKNAME:
+<br />GPG/PGP public key des Absenders:</p>
+
+<p>ARTIKEL/Produkt#XXX:
+<br />MENGE:</p>
+
+<p>DROP/Lieferanschrift:</p>
+
+<p>Kommentar/Frage (optional):
+<br />Bitte um eure Auftragsbestätigung/Rechnung mit sämtlichen erforderlichen Angaben.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFccHzYBCADqNO96GoRRn4AYq5PTwEf0f8TKPlQQfLfIL2DzYK89eQAhX57a
+HlggZhOl/wW441e4YyrPYl09d+CM5x5hbgfI8+r1rpqFWzV4i404jiCmp8SLwYt5
+WPa9UMsDbJ+N1t8b1JX30Mp7Y4c/I0UoxWUUOZM30mDes8xdKQ2rSWq3xpXH7gVR
+yLDGiKAQDNRvemxpN0i+qqWuRhZFo3MgWkqS2PjYu/QRAcZkRU1b7Q0U1qKPx9sV
+erLvLe3BrH2uQO2bbFPe93n6vE8t3mux1iffC/n2sQm+yGmvT+usCnnaY9shi7rK
+Xk94eeBeqOWHF0U7jdWhgCRpR4Xrj/zFFWFfABEBAAG0EXNjaHdhcnp3YWxka2xp
+bmlriQE8BBMBCgAmBQJXHB82AhsDBQkJZyQqBQsJCAcDBRUKCQgLBBYCAQACHgEC
+F4AACgkQYG2qI1dhcfwoiQgA4EsWNMUk4dnIt2R7rbCBLBYxbw1jH8HUjulcbsBM
+kJ/0acZW2Sm95f9Nb+QVE4e/qHUFRCtsFbCQYR/wff/Huf3vLX5/acxtcKHUQajI
+6MQNeT+dSPaIARU0ENtTjbcXv/N5eFIArNUjYquYZ7c4NFR3BtgkKqMVIH8bRfEX
+Q0NrEtNpBGXzGpEIi5rIkVZqg5OfCBreXJx4xdBJ/XVkd1KsDV/jK2LINFDl7TQ3
+UBhBRms+kMZFlRzHgDOutHOvV2Z4ng+oSQxmIFLPa7UZFqBiMfMfi3Z/K7wupX6k
+RN/C/Z3klzsZEFg0NFm87Nfnm19rUfpnOqklabwRbb66yLkBDQRXHB82AQgA0TjP
+eFZHtmVc7duookgt8S1LVEnBLpd8WX3CbB/OZHuRPd56Z+S4vWMXOM2kSmj/hj2v
+hrmeGltOpBlZh7y+gcoEQQ+hasxmVaj68eDsUHop6wE80UhVvtTGDcjGpZN0Jxil
+e7BgLBrsaS5pv2zkSTrVLwPhvxOIANiuSXsaUR2jqe84MVhHzGxKgPcORhQI8G7G
+O9BxmnaOOV+dYi29mfUhIoHTuySKscgtYvPfo2dsaANoEoynIGRKjIyo6R9Oa/15
+l2uG/XIQHb+7okPqME5qbOd8kUFF7S0CPdokzBB8N564TPpjLfHMZ49N+kgkipHv
+V0PZ80ryfbLc8YLHawARAQABiQElBBgBCgAPBQJXHB82AhsMBQkJZyQqAAoJEGBt
+qiNXYXH8XKsIANJTfC5jK0ulAhmNZxIswfPquOFKPSge2LWVhbpsIRG+TM2SxENk
+/LU/Sxp3Wr7+qAjkPXBmoebqt7KPjNuUPP3V4HpmZQLABrDPPQNWog3gUlt281hH
+8KJXjV0AsrwnEpjZ7kFplOPIiYLZzSKZ6OZMDSgxEOJZCMZpbaBGGNJYq+BkO1hk
+/o5Kcz2joG+ta9eioDIlMU18MQUHZOH+dXIw4kkGMfmdZs3p+cvrwrQ+AR0fDZ/I
+DLYMCivbwy9QtVMt+1LYwhTPkOK4B6QuOSkMDl0wJ6m7dENqbNdSaPmDWz2YQ5Ic
+j4j4sNhzA28lyULcCMiz4vKgQuJYGgcM25M=
+=RlMB
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

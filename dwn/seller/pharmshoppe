@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yCsg+/yI9+w9Ne58yMbWtAustQ995s/MTd5AY4vf3xOQ7KasanSUyGl8t7R6/x/gT72w4WW9pzXgBNQCG8+tpQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>PharmShoppe</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>130</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-4</span>
+</li>
+<li>Total revenue: 4732 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to PharmShoppe.  We are a domestic (USA) reseller of quality Dutch products - if you have thought about ordering some of the MDMA pills or speed paste/powder from overseas but have been skeptical about receiving a package from another country, we are perfect for you!  All of our products are shipped from within the USA using top-notch stealth so you will always receive your package with as little risk to you as possible.</p>
+
+<p>Refund Policy: Domestic USA customers are entitled to a 50% refund or 100% reship, so long as you have provided me with the correct address and a name which matches up to that address - IE, the post office does not mark it "undeliverable as addressed".  International customers are entitled to a 50% refund or 50% reship, unless the item has been confiscated by customs and you can prove it, in which case you are entitled to a 75% refund or 100% re-ship (however, if you choose re-ship and that is confiscated as well, I cannot provide another).  Australia/NZ orders are at the buyers own risk.  If you have left bad feedback you will not receive a refund, and accepting said refund is akin to a promise not to leave bad feedback.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFXKlqcBCAC2jPUU0+OpJPHATENqUt5dq5Cpmun8yqsHiWchATm3fKBIvuH6
+AkonRgRWErcjIeaWeFdFlAFXpsquEzhCmuA5iNa/sNuMwKnViLSzEvIs2i7IySjC
+iQ7ucgVDzxYjDwxEAqBApnJDWb4L91GcwvtDaA1npO1SGfG6VGNtgqc/wZ9bwT0b
+gouI8zfCU8IpHL/iTVu1X4z7rXjWrt1dcgPK+nBceo3oh5mLTCDKnjwhOC93dpXs
+NEZeAHDyhM5F/H9ezziolu8LltmR0Dznxce592gDUonidRr84X2lG1E3p6l5tRmv
+/v99zaJPCxQ9am8wE31q43/coRF+JG1AJ3VDABEBAAG0JU1yLiBBbmRlcnNvbiA8
+bXIuYW5kZXJzb25AMnlvdXIuZG9vcj6JATkEEwEIACMFAlXKlqcCGwMHCwkIBwMC
+AQYVCAIJCgsEFgIDAQIeAQIXgAAKCRBQTFDi3Dw21zwyCACPJaLtKvqL5yOCr48F
+iZ7ZxFoHE4Hc8hksx6ErjoynPRQ18z3vAWS5PUGPsuoiOQs7CKJbRT8+2mMMw0PG
+hWbRxmSBm9RcEo7SNTKczSfKU3LmMVCFZh4zOjgEP1Gu+ps76tTDUkWw5+NTyKp9
+fkU3bUN//qTKb2I+Le5u3G8z4fXnnzXbgPX7i4veflEc7IXdWLT6+YtKctMN/exh
+7lsgOKXN/fhfmOWFi04sxgKoZyet74OgGdUdKXFPE4iU9CZL3YCpqKKqwO6UPEfN
+EuaM9NmB0bHrhPpMUFsVqKeZsZfidaC3l5GK03NO32/SP2Ug+FDmCsaCqxzNSTgD
+IVpvuQENBFXKlqcBCACrdMR303qAdwHCeNCnHyeU57ioB+a9SPbHK5YTJO/LqG1Q
+pRIaMHO2QRQzPnggiOkPzVuWUUbe/8QNIsYC4aaFWHZhFWV8fnp07Bi/5935f7mr
+JYuRjWQm6lcJCcIUrozb4e6cqenWoAICTc+l9gJtJiMphNcpxXydUXs6ogNYFG3h
+Wbx+YOXGcoVPL30kYizyBWXW8ica0lmhdO5bgTg0TFHCErkoVeCKZZJledV33L10
+guEgoDa3Ex+eY/VO2JmNGobeRxylbkmj60yIYwYQdJBeaNu22Ag1mzVfsLGZYh5P
+/5LAFTOpg0qvd94I2LgIwv1Ot9cmqaegi8ovzuftABEBAAGJAR8EGAEIAAkFAlXK
+lqcCGwwACgkQUExQ4tw8NtdZkQf/Z1onAkRj1RIgQZtBZ4LuXVHk0AOy9J7QAHeM
+N7sdy7ql4XpFChnauaEiEdYY0QTlALrGfgppX9sSwjBZt7+GWTz2qsco8KMo30Dg
+i/8CS7Jn6REXHbFjkzVHECFj0PnkWy0A7zmKHmMy6AJG0G8s/ErnnSa/vRmebYHc
+CBQ9fGcLkyJbhNpFvDY0NQe+vFw7/Fn47LIz9KwdBXeDTVTDkaK9qUkGvVRPjbBu
+CiBC13pVmzyjtshtoWVif9YUrMCL3GNejLWG0s9XeK7UObEfUIIrEMJla5KMoRH8
+NPs/7aJp2PFy/TImLaPrdb/OuIEm7qqXt2cWijlLuW9YE/8POg==
+=D42L
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

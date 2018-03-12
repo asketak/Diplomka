@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HjZ7Gf1R6ND8RmaG9LmIkYCmxRuCOjZuw10jXj5M6gFG8f1Oa62L9KgPP05GgEHFxLfA9ZphXpduh7c/rlyYtw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>DarkCandy</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>  --------------DarkCandy-Store----------------</p>
+
+<p>We have 5 shipping days</p>
+
+<p>*Monday
+<br />*Tuesday
+<br />*Wednesday
+<br />*Thursday
+<br />*Friday </p>
+
+<p>Shipping FREE cost to Denmark!!</p>
+
+<p>WE NOT TAKE ORDERS IF THE ADRESS IS NOT CORRECT!!!!!!!!
+<br />REMEMBER!!!</p>
+
+<p>NAME SURNAME
+<br />STREET WHIT HOME NUMBER
+<br />ZIPCODE 
+<br />CITY
+<br />COUNTRY</p>
+
+<p>Estimated shipping time:
+<br />Denmark      1-3  workdays
+<br />Scandinavia 2-5  workdays
+<br />Germany      3-7  workdays
+<br />UK                4-10 workdays
+<br />Europe 	      3-14 workdays</p>
+
+<p> 
+<br />We are shipping all packages 1 day after we confirmed the order.
+<br />Don't ask us when you receive package,just wait until your shipping time is finished please.
+<br />We are using normal mail letters so all packages are fit in a mailbox.
+<br />shipping time</p>
+
+<p>When your package did not arrived there is 0% refound .
+<br />We take risks to be available and send items out , we do not take responsibility for the record reaches it's up to you whether you trust in postal service or think it will go through customs .
+<br />It is the same  when you going to your local dealer and by a lump at your local drug d, so it is not his responsibility if you are caught on the street. When the letter is in the mailbox , it is not our responsibility anymore.</p>
+
+<p>We take the responsibility up to the mailbox and no longer . It is extremely rare letters disappear , but it's the risk the buyer now once .</p>
+
+<p>This is not a problem for honest buyers . only for scammers and if we are to continue to have such low prices that we have , we can not send goods out to people who make trouble.</p>
+
+<p>We answering all messages within 24 hours and sending all orders within 48 hours.</p>
+
+<p>We handle all messages with respect so we ask you to do the same </p>
+
+<p>We using one of the best stealth METHODE  you can get. 
+<br />Receive it just keep it between us please 
+<br />Always encrypt your address details with PGP,other Encrypted methods normal message we don't open.</p>
+
+<p>We also delete all the address and names after we confirmed the order,so don't be scared that we keep it in our message history.</p>
+
+<p>By making the booking you accept the above conditions.
+<br />We only accepting BITCOINS and no other pay method.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFfqbN4BCADf2kKMYkzT8ABsCAwLjm1RnU64zSMzXcsKp8tUvdSNn5xMQ58/
+4WhMpGBKoyhugjVwa0HPO+Amp/aiE1xStqUk4DvnzuqQ7VhDUyjihkLqaDWzJI4A
+uvMGdOp7SUSraABOfhMVlKnKvHFOaMdb3YL3IYUP2X3hyBMkPqyeyYh0Q590i/ek
+NL4h7VbTM0eCdRdetuGtVwpHZQsjKYBz6cbo08yxCtwQErHHyp2XvMINmjHx8laa
+SDA+Z8ydb7aDvZkYO/lDFFwkEGAwegPcVgIa/Cqpt2cs110pKmxr+yCHs+N2SfoT
+vx3jtDGxBP/LYLL4qE1j2JMVJg07LcVqgpbvABEBAAG0IkNhbmR5VGhlRGFyayA8
+aHJsYXNzZUBob3RtYWlsLmNvbT6JATkEEwEIACMFAlfqbN4CGwMHCwkIBwMCAQYV
+CAIJCgsEFgIDAQIeAQIXgAAKCRDKbewLuZSmHOycCADDZR2tjmEr21cxBzcmEEqq
+KrA/ZrlCRSruYySGW5+FmZ2xg5FwnUTuq2wwrdnx/3GsFAq/VZ0wi8D/JJi7QqGu
+DPTyjfa9gCZdQO4+0VeCtnF8EMjG8PMHSxG8HOpCs+oK5bR9K6hcnnX6EhJETvPz
+O66bu0sOaOfBQtQzpwSBx3r1pqDS6K07npzSj5Ec76GJc7vxlT0ayH+CugpGGXic
+X2kS6TyfZnVlC/hiu08S1TvcSted1Nl14IolWz3MnS/sW4VYKhg9UZEf+ubaF0QI
+i6GBeutRfHaItOxM6MNf3tej4m3WyLLietJxoRRLZj3yh7SyDvkklp02x5AoqwTR
+uQENBFfqbN4BCADvuDpZjYF/F+pZxdnRvxrAS2+MKNAugpq1XeNFXyqdCygDJF5Y
+5PQ/Llq/+ESpa684ewAiia+xLMRbFzbK7Ot7KjRUaXiI4RZ55K5p0J3kMKF/ZWGV
+ieErnL4W8RIjjVESKYU7VgdFQuM7VlmwuOSCzJVwVAhXSyfqbUkUnZyoA2tieZui
+qeTjhmUD2gRtCQPK7aYHnbJxWiCEAoAQJOnrTYBYrwmahX3ADCRZfkb1rIFKjF/q
+GQT9JBApPF6XDlJZkQpEssBQ56LxEYVjsvJXi1pwnJdvq58BvnyQ3WRKrURwfhT+
+E/DiCh6RPnE5z97VQYO8lddoXd2wjliBWHgZABEBAAGJAR8EGAEIAAkFAlfqbN4C
+GwwACgkQym3sC7mUphyNMwgAr5xbJcQ89gSvNCMSUeQayXI30xI9wabA+H99Fpx3
+vZ4guapWP41LgcJ2tGnZ9avgSmkCk7Z0BDX/jQy56L4sISQqJkj7c8QJeKTXiiCs
+8dkEajqzYlnXREan5hP0YtRF3fy/F4Lxkdh/0ox5bzXVcUnQvO+cvJxJESD/iIWK
+lidKNCAQ96K1lhi63ye2uuyuuIZTQJkIykKGzQDCPyriRrZ4xKLIUas3KrweJlfG
+QYfvok/8+eOQzXwZgbPYksbzpoqcRWGbwTWBcqYwOUJzbVknKQZv5IrOHMxue8zX
+Ouy7BSJC0N8BHhmEzyaFwHvqsxuelpX9V5k85Q7HtCwkgg==
+=LSEz
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="A6RA1a+O+WGPCmaiQWjV/o/+opwtlF4fsrdM1tjFRCNbY8aCOXKaRdtDP2rzURyqy++ncjXPNuYfbdi3SNU2lQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>theEZYcrew</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>All i sell is high quality weed, grown by me, for me.
+<br />I only send weed that i smoke myself.
+<br />All plants are flushed for the last 10 days of growth.
+<br />All my produces are dried for 14 days.
+<br />I never send a bag out under weight.
+<br />All orders received before 5, will be sent the sameday for next day delivery.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFZJPk8BCADcuBjand0JDXQNQHNcXFrMG2g0EPIMrBAbhG5O3SvDHSL7LwA0
+7Uk0QROgJOtD/kC2yfYLsOB+p1rCh1mTpNYYezy1xOnQB/zHpGxSv9VhkOm8tkvi
+RcPibmgTj+yC70rh0DvBMgdzkYFb2Sl79XyIvGpLzcrizvyEzujlEINy9Opp3XNe
+UsxiyN53plWhZ0JEYZh0bufNoLDmxemiLlkT5L/PcEx7fpmFiMcAo9Zg5cnOcC40
+A3DIMm9rfxlMK+Mk9ZGF/g4HEQW/qnO54CvYujcXNQC/85wxpoxXc/TTlW5nzlWL
+31QtLb5AHep0N382RcDUrTXiFa6R70oj3lHdABEBAAG0FXRoZUVaWWNyZXcgPEVa
+WUBjcmV3PokBOQQTAQgAIwUCVkk+TwIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4B
+AheAAAoJEAXtcO2QDJqIjnUH/3NKeOwmDel4lfNSzgHfJf03v8jjF75fqMm8+30Q
+eZlUBFV5SoUG698Cz38Xam+5T7fL4jJ907LW5MupGPSDVoWzSrBhcjttoo9GJzoD
+BwxRPBTSknN31ror4TfR6f3QTb3pwGVW1qVPKB/AYDETN8Z6oPaALjSS1oq77IFg
+4U/x5CHI8nhzO7BnjmMm/tt1nJ5kz0YUYTPH6OHV0r0CYeEM2AW3JbVdk1PklvCo
+LAzDiOdxbfgCX+U2H09KjtvC74+Bif2KhpuRvK1rYy+GvFYetO6yRGj1BODN6pwq
+Q2W+obhFND7n1PsJVoWNYTtj3poFgedMsIkQLMedEyTLG9i5AQ0EVkk+TwEIAMnr
+RxvMPE1QC0uryeAk7EPVO6HIZmweC7yH16DckcjkcbFMcSvxDGXDdwqnr/CxFWmJ
+hDAA2Yc4KRUiSwoKRvkhKcKdbm2X/dBlzECVWUKLqHr40r5JH38tM/YkzK/+u+sp
+xe2KR6NiVbnoQupDqfAYfy2mcs5SxFrex9yjPmdgRIgau2HDGjKcko6bS3XNad+H
+QzDWaRtcgZlwaxSv4wH7sbR+66lDChSFiBy5roFPv+PTY07orERP/VREUuhitJTF
+Ih4PPaDTCR0N8pdTWw4gyavg9rYEHj7yNkF0Qj1lmJ9fAH7ftXpVO4eTgwBlx0l/
+Zb/g2RCnzRlRyFOLolUAEQEAAYkBHwQYAQgACQUCVkk+TwIbDAAKCRAF7XDtkAya
+iAlqB/4kKc0PevMOLQkzWDfLdkMwX8JVfDmatYo3Dj/kbCnuzxDliL6SQEd09oBQ
+IzIkt676+KY+/ch1FFMt56QyC3bOdCapbKpQkVINaSQk9tYJdkU2qZKajhqX46FN
+WYTWAV7Ef6Y1xw4c92KozY5fuJVthOMMAM5xx+bx1zdH24Z7M55baqJ2wZ1F6WB5
+gRRNxse+ThhhU3TyAVw8hWFpmciFftcDJZmnXRs0scE2tVpyq97GA0DK4EkLcP2t
+uZ198KezPYXpLRgfsIkNf/Vdzd/IsSDFmJKXqhBDHYYF+ZmlZZoS+cWQuHT3FuI7
+K8NzUBFhA29PUvn9yilvCfZSKAaO
+=mynJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

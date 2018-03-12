@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CF9AYVmLwS5avj4V158WkCiYMQX9UKP6S2C0dkM+YG45LIE6zc2o7XE7LEX3xX91dY1CvlSwWrl4/KsX/Re5jw==" />
+
+</head>
+<body class='sessions new'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/kirjaudu">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li class="active"><a aria-current="page" href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<form class="simple_form form-signin" novalidate="novalidate" action="/sessions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eAd+eDDS4LlT6w9gp4SvE0KUV+YJdXKHGjlRvvoILUpJdL8jpJSJenhuHTCH3sb2H4EkXaCVi8QppU7fRCH0qw==" /><div class="form-group string required user_name"><input autocomplete="off" class="string required form-control" autofocus="autofocus" placeholder="Your user name" type="text" name="user[name]" id="user_name" /></div>
+<div class="form-group password required user_password"><input autocomplete="off" class="password required form-control" placeholder="Your password" type="password" name="user[password]" id="user_password" /></div>
+<div id='captcha'>
+<p class='challenge'>Select all images with <em>cannabis</em>.</p>
+<div class="form-group boolean optional user_captcha_0"><input name="user[captcha_0]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_0]" id="user_captcha_0" /><label class="boolean optional control-label" for="user_captcha_0"><img src="/kuvat/captcha/57eb4c398b04a2ea.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_1"><input name="user[captcha_1]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_1]" id="user_captcha_1" /><label class="boolean optional control-label" for="user_captcha_1"><img src="/kuvat/captcha/da8b48fdfae91858.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_2"><input name="user[captcha_2]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_2]" id="user_captcha_2" /><label class="boolean optional control-label" for="user_captcha_2"><img src="/kuvat/captcha/24c9a90e335d33af.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_3"><input name="user[captcha_3]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_3]" id="user_captcha_3" /><label class="boolean optional control-label" for="user_captcha_3"><img src="/kuvat/captcha/7a2cae6889789851.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_4"><input name="user[captcha_4]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_4]" id="user_captcha_4" /><label class="boolean optional control-label" for="user_captcha_4"><img src="/kuvat/captcha/87292a40eb051183.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_5"><input name="user[captcha_5]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_5]" id="user_captcha_5" /><label class="boolean optional control-label" for="user_captcha_5"><img src="/kuvat/captcha/bd0ab1dc51d3aabf.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_6"><input name="user[captcha_6]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_6]" id="user_captcha_6" /><label class="boolean optional control-label" for="user_captcha_6"><img src="/kuvat/captcha/fc8107efd11aabdb.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+<div class="form-group boolean optional user_captcha_7"><input name="user[captcha_7]" type="hidden" value="0" /><input autocomplete="off" class="boolean optional" type="checkbox" value="1" name="user[captcha_7]" id="user_captcha_7" /><label class="boolean optional control-label" for="user_captcha_7"><img src="/kuvat/captcha/5c631647439153f0.jpg" width="81" alt="" class="img-rounded" height="81" /></label></div>
+</div>
+<input type="submit" name="commit" value="Log in" class="btn btn-default" data-disable-with="Log in" />
+</form>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

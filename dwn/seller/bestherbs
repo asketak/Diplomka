@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tM30iEnepyoDsEWnSfztig6hIh2a+ldUBPVLEJaba4rsCnLf3yLEDlf5HG/7xSTeSrAn84KhP62pL99xBosZPA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>BestHerbs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 10 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>we have multiple years experience in business with speed, weed, pills, mdma and also some other drugs.</p>
+
+<p>in most cases we ship within 48h. we also ship all with tracking but never share them to you. we do that to prevent bust and make it harder for the police. we update you on status of order.</p>
+
+<p>read listings before you order! its not allowed to leave a bad feedback for something you miss in the description or before you try to contact us.</p>
+
+<p>if tracking show that package is lost and its not your fault, we gonna refund 50% or reship 100% your order. if you try to scam us, we gonna give you nothing and share your list on forum to alert other vendors. better search for someone else.</p>
+
+<p>if you dont write your full name, use a house drop, a packstation or even have the wrong address format and the package doesnt arrive, its your fault.</p>
+
+<p>format:</p>
+
+<p>name surname
+<br />street with number
+<br />postal code city
+<br />country (DONT FORGET THIS)</p>
+
+<p>shipping time (after marked as shipped):</p>
+
+<p>germany/domestic - 1-4 working days
+<br />europe - 3-7 working days
+<br />world - up to 10 working days</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=aM/5
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+sNk0+yJXRrcoIdFZByEOiwi+jvC1AjQaLe2vdHvk6CiBOKEenU+Pojp3o3WJU1uaDP/1dqPYCnFbSLcQf/hFg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>quality-express</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>164</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-4</span>
+</li>
+<li>Total revenue: 6328 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We are quality-express, a german grass and drugs vendor, and offer you products of high and highest quality only. You won't find here cheap, average stuff - this store is intended for consumers that depend mainly on quality.
+<br />Our offer is for end users, therefore the amounts are kept small.
+<br />I DO NOT SELL BULK! All questions about that will be ignored as well as requests for price-discounts, free samples or alternative payment methods. I trade on div. Markets  and i accept just payments in BTC.
+<br />Shipping is usually within 24 to 48 hours maximum after accepting the order. Please do not ask whether if it is sent, if it is marked as sent - it is sent! Normally you have four to five days(DE) or ten days(EU)after ordering the letters in your mailbox. Each relevant questions will be not answered earlier.
+<br />We will ship your order in a stable mailer as a non regged standard letter. You don't need to sign for it.
+<br />Should it happen that a shipment won't arrive within the 7 or 14 days we offer a 100% resend or 50% refund ONLY ONE TIME. In case the resend will also not arrive, or in case a buyer is missing his order repeatedly times we need to take it as a risk for me and for you, then i will not send to this drop anymore
+<br />We use MBB bags, this means your order arrives smellfree in A4 Business Letter.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=1yrq
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

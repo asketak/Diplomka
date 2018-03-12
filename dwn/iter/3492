@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="htizwmMelYKL6kB04miBMTjRHf2A2OWdbbkwMVLeioC3q3KZ91j8QaBvUiTCMujUZcRuRik4HN5eJS9Q7PdTYQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/3492">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1a2054b89f14d505170b9a53e209e1fcbef7d1b0.jpg?1455969139"><img src="/kuvat/tuotekuvat/808301bb2d4314375a6dea59259f7e4526aac2b8.jpg?1455969139" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>1 x AK-48 Autoflower fem</h1>
+<ul class='list-unstyled specs'>
+<li>9.2 EUR <em>(0.001036 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>674</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Kolme termejä: nopea, satoisa, helppo. </p>
+
+<p>AK-48 autoflower on poikkeus.</p>
+
+<p> Nopea, <b>satoisa</b>, <b>helppo</b></p>
+
+<p>Mutta, kun se on autoflower, se on silti nopea. Ehkä viikko, pari hitaampi kuin Blue mystic, mutta silti todella nopea. Ja aivan hullu määrä autoflowerille.</p>
+
+<p>Helppo, niin kuin muutkin autofloweit.
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (0.2 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/85893"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85893">5 kpl Midnight-siemeniä 2€/kpl</a> (<span title='13 EUR'>13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pottipukki">Pottipukki</a></span>&nbsp;(<span class='green' title='Positive feedback'>120</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2100">Cannabis growing</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2101">Seeds</a>
+</li>
+<li class='active'>1 x AK-48 Autoflower fem</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

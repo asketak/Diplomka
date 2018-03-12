@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZBVHScMb9kF1TP31bNzjtoVINMaGkpw440iCLRT6EQc80sEeVeeVZSEFpD3e5SriwVkxKJ7J9MFOkhZMhOpjsQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/inEi">Suomeksi</a></li>
+<li><a href="/register/inEi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/inEi">register an account</a>.</p>
+</div>
+
+<h1>lieferheld</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Zurzeit erfolgt der Versand nur nach - und aus Deutschland!</p>
+
+<p>In der Regel werden alle Order die bis 17 Uhr Werktags eingehen, am darauffolgenden Werktag versendet. 
+<br />Nur in Ausnahmefaellen kann es zu Verzoegerungen kommen.
+<br />Bestellungen bis zu einem Produktgewicht von 100g werden als Maxi oder Grossbrief mit Tracking versendet.
+<br />Nein, ihr müsst nicht unterschreiben oder es persönlich entgegennehmen. Der Briefträger wird den Umschlag
+<br />einfach in euren Briefkasten werfen. 
+<br />Achtet bitte darauf, dass euer Briefkasten einen Einwurfschlitz von mindestens 3 cm hat ab einer 50g Order!
+<br />Sendungen mit einem Gewicht von 100g oder höher gehen als Paketsendung mit Tracking ID raus.
+<br />Stealth heißt bei mir: Geruchloser, verkehrsfähiger, unauffälliger Umschlag inkl. Absenderadresse. </p>
+
+<p>Bestellungen mit einem Produktgewicht ab 100g aufwaerts werden natuerlich als Paket mit Tracking versendet. 
+<br />Die Nummern werden nie vorher herausgegeben. </p>
+
+<p>Adressdaten von Kunden verweilen verschluesselt bis zum finalisieren der Order auf einemverschlüsselten Linux System
+<br />und werden nach Freigabe des Geldes gelöscht.
+<br />Dasselbe sagt zwar jeder Seller, aber ich stehe nie vom PC auf ohne ihn vorher zu sperren.
+<br />Somit ist ein Zugriff auf das entschlüsselte Medium während meiner Arbeitszeiten unmöglich.
+<br />Nutzt bitte zu EURER Sicherheit fuer den Versand eurer Adressdaten die PGP Funktion und achtet auf die korrekte Form:</p>
+
+<p>VOLLSTAENDIGER Vorname + Nachname
+<br />Strasse und Hausnummer
+<br />Postleitzahl und Ort</p>
+
+<p>Bitte schickt mir einen Vornamen Leute!!
+<br />Ich sehe immer wieder Bestellungen wie: M. Mustermann
+<br />Dann muss ich mir einen ausdenken!</p>
+
+<p>Bestellungen auf Packstation werden auch akzeptiert!
+<br />Die meisten Seller wissen wohl nicht wie man auch diese Sendungen mit Tracking versehen kann.</p>
+
+<p>Wichtig:</p>
+
+<p>Ich bin nicht dafür verantwortlich wenn ihr es nicht schafft die Sendung zu droppen.
+<br />Dieser Bereich liegt komplett in eurer Verantwortung.</p>
+
+<p>Bitte kontaktiert mich zum Status eurer Bestellung nicht vor 5 Tagen!
+<br />Bei verlorengegangenen Sendungen schaue ich mir die Umstaende sowie den Kaeufer an und entscheide dann ueber einen Reship.
+<br />SUPER SUPER WICHTIG:</p>
+
+<p>Tut mir bitte den Gefallen und gebt direkt nach dem Erhalt der Ware das Geld frei. Wenn der Kursverfall mir mal das Genick
+<br />brechen sollte, muss ich leider auf FE Listings umstellen. Ich biete gerne Escrow an, also verlasse ich mich da auf euer mitwirken.  </p>
+
+<p>Bei einer Bestellung erklärt ihr euch mit den oben aufgeführten Bedingungen einverstanden und versichert mir außerdem
+<br />dass ihr volljährig seid.</p>
+
+<p>An alle Staatsdiener die mich mit abstrusen deanonymisierungsversuchen aus meinem dunklen Zimmerchen locken wollen:</p>
+
+<p>Lasst es bleiben, die Mühe ist es nicht wert!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+4j2k6zWfcuqhZrKi1GSVvuI1oS0QZMzd
+=shP/
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="W2YoWDjOF4jq8SXoAcpsZgLtzOtEwqST4luP70lf5cNqFekDrIh+S8F0N7ghkAWDX/i/UO0iXdDRx5CO93Y8Ig==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/14643">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/systeemi/original/puuttuu.jpg"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>Sthompson Speed Paste-50g</h1>
+<ul class='list-unstyled specs'>
+<li>252 EUR <em>(0.027424 BTC)</em></li>
+<li>0 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/huntersthompson">huntersthompson</a></span>&nbsp;(<span class='green' title='Positive feedback'>1229</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>50g from our paste</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.2.)</em>
+</td>
+<td><span>
+Ja***s8
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+alles bestens
+<em>(29.1.)</em>
+</td>
+<td><span>
+ha***vo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (2.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/74114"><img src="/kuvat/tuotekuvat/68415dbbdbd933e4e66ce77438ab29feccbc36c8.jpg?1502924359" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74114">UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g FREE UK </a> (<span title='260 USD'>210.57&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4125</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-83</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39394"><img src="/kuvat/tuotekuvat/ae326efc42577717e17698567c810b3c53666548.jpg?1489457751" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39394">3.5G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='240 GBP'>269.01&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1537</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85078"><img src="/kuvat/tuotekuvat/a310ff9a17649e601d6cf07f74c7d2f3a92e0133.jpg?1486740537" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85078">☆ 100G Speed Paste ☆ A+ Quality ☆</a> (<span title='180 EUR'>180&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2395</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-72</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98801"><img src="/kuvat/tuotekuvat/340ec4c0e1cff2fbffb7c578e32198288b8152df.jpg?1508024378" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98801">3gr Pure Cocaine Flakes 93%</a> (<span title='280 EUR'>280&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cocaboss">CocaBoss</a></span>&nbsp;(<span class='green' title='Positive feedback'>1204</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93651"><img src="/kuvat/tuotekuvat/6b2b3b72d81fa70840de2669bd4a80518a072bc5.jpg?1513837704" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93651">☢3.5G☢COCAINE☢ </a> (<span title='192 GBP'>215.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1768</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1201">Amphetamine</a>
+</li>
+<li class='active'>Sthompson Speed Paste-50g</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+
