@@ -1,0 +1,25 @@
+
+
+o tom, jak v rku udelat grafy
+
+dat <- read.delim( "/home/asket/dddiplomka/dwn/sellerclean.txt", header=T, sep=',', dec = '.', stringsAsFactors=T , quote = "'" ,   fill = TRUE  )
+plot(sort(rev), xlab = 'Sellers', ylab = 'Total revenue') // graf revenue
+
+dat <- read.csv(file="/home/asket/dwn/iter/un.txt", header=TRUE, sep=",")
+x = sort(table(dat$seller),increasing=T)
+plot(x, log = 'y', xlab='Sellers', ylab='Active offers')
+
+x = sort(table(dat$price))
+
+plot(x, log='y', xlab='Offers', ylab='Offer price')
+
+
+dat <- read.delim( "/home/asket/dddiplomka/dwn/un-nod.txt", header=T, sep=',', dec = '.', stringsAsFactors=T ,   fill = TRUE  , quote = '"') // finalni prikaz pro loadnuti dat
+
+
+ theshop      :  745   Min.   :0.000000  
+ hollanpetters:  347   1st Qu.:0.003227 
+ cerberus     :  321   Median :0.010514
+ noogz        :  300   Mean   :0.051875
+ md           :  287   3rd Qu.:0.040639
+ captain_kirk :  256   Max.   :8.770000
