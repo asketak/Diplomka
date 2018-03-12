@@ -40,27 +40,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\bfseries Statistics of drug markets}{14}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}\slshape Financial flows in dream market}{14}{section.6.1}
+\contentsline {section}{\numberline {6.1}\slshape Methodology}{14}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{14}{section.6.2}
+\contentsline {section}{\numberline {6.2}\slshape Overall statistics of Walhalla drug market}{14}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries POC application}{15}{chapter.7}
+\contentsline {section}{\numberline {6.3}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{17}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}\slshape Implementation}{15}{section.7.1}
+\contentsline {chapter}{\numberline {7}\bfseries POC application}{18}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}\slshape Usage}{16}{section.7.2}
+\contentsline {section}{\numberline {7.1}\slshape Implementation}{19}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}\slshape Future development possibilities}{16}{section.7.3}
+\contentsline {section}{\numberline {7.2}\slshape Usage}{20}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Testing and verification of the created tool}{17}{chapter.8}
+\contentsline {section}{\numberline {7.3}\slshape Future development possibilities}{20}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}\slshape Method of testing}{17}{section.8.1}
+\contentsline {chapter}{\numberline {8}\bfseries Testing and verification of the created tool}{21}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}\slshape results}{17}{section.8.2}
+\contentsline {section}{\numberline {8.1}\slshape Method of testing}{21}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}\bfseries Conclusion}{18}{chapter.9}
+\contentsline {section}{\numberline {8.2}\slshape results}{21}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{19}{chapter*.8}
+\contentsline {chapter}{\numberline {9}\bfseries Conclusion}{22}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{23}{chapter*.8}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
