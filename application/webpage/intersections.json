@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {"id": "A1", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
+    {"id": "A2", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
+    {"id": "A3", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
+    {"id": "A", "text": "Adresa", "group": 2, "value": 500, "value2": 500},
+    {"id": "B", "text": "vystupni TX", "group": 3, "value": 300, "value2": 300},
+    {"id": "C", "text": "vystupni TX", "group": 3, "value": 500, "value2": 500},
+    {"id": "D", "text": "vystupni TX", "group": 3, "value": 100, "value2": 100},
+    {"id": "E", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50},
+    {"id": "F", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50},
+    {"id": "G", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50}
+
+
+  ],
+  "links": [
+    {"source": "A1", "target": "A", "value": 1},
+    {"source": "A2", "target": "A", "value": 1},
+    {"source": "A3", "target": "A", "value": 1},
+    {"source": "A", "target": "B", "value": 1},
+    {"source": "A", "target": "C", "value": 1},
+    {"source": "A", "target": "D", "value": 1},
+    {"source": "D", "target": "E", "value": 1},
+    {"source": "D", "target": "F", "value": 1},
+    {"source": "F", "target": "G", "value": 1}
+  ]
+}
