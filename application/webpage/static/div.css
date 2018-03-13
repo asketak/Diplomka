@@ -1,0 +1,135 @@
+html, body, .container
+{
+    height: 100%; 
+    min-height: 100%;
+}
+
+.first {
+    float: left;
+    width: 50%;
+    height: 20%;
+    background-color: red;
+}
+
+.second{
+    float: left;
+    width: 50%;
+    height: 40%;
+    background-color: green;
+}
+
+.fourth{
+    float: left;
+    width: 50%;
+    height: 40%;
+    background-color: #DDDDAA;
+}
+
+.third{
+    float: right;
+    width: 50%;
+    height: 60%;
+    background-color: blue;
+}
+
+
+
+/*
+.fourth {
+    float: right;
+    width: 30%;
+    height: 40%;
+    background-color: #DDDDAA;
+}*/
+
+.last{
+    float: right;
+    width: 50%;
+    height: 40%;
+    background-color: yellow;
+}
+
+
+  .links line {
+    stroke: #999;
+    stroke-opacity: 0.6;
+  }
+
+  .nodes {
+    /*stroke: #000;*/
+    /*stroke-width: 1.5px;*/
+    opacity: 0.8;
+  }
+
+  .nodes2 {
+    /*stroke: #000;*/
+    /*stroke-width: 1.5px;*/
+    opacity: 0.8;
+  }
+
+  .container {
+    float: left;
+  }
+  #top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    height: 283px;
+  }
+
+  #whole {
+    position: fixed;
+    top: 250px;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    /*height: 183px;*/
+    overflow:auto;
+    display: none;
+  }
+
+  #info1 {
+    position: fixed;
+    top: 250px;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    /*height: 183px;*/
+    overflow:auto;
+  }
+    .chart rect {
+        fill: steelblue;
+    }
+
+        .chart rect:hover {
+            fill: turquoise;
+        }
+
+    .chart .rectM {
+        stroke: green;
+        stroke-width: 1;
+        fill: green;
+        fill-opacity: .2;
+    }
+
+        .chart .rectM:hover {
+            fill: green;
+            fill-opacity: .5;
+        }
+
+    .chart text {
+        font: 10px sans-serif;
+    }
+
+    .chart .title {
+        font: 15px sans-serif;
+    }
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
