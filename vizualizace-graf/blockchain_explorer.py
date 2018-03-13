@@ -18,9 +18,37 @@ def index():
 
 
 def generateJson(address):
-    params = ""
-    info = check_output(["/root/velke/neo4j-community-3.3.2/bin/cypher-shell",params,unicode(address).encode('utf8') ,"1","0","10000"])
+    params = "searchrawtransactions"
+    info = check_output(["./bitcoin-cli",params,unicode(address).encode('utf8') ,"1","0","10000"])
+    text_file = open("info.txt", "w")
+    text_file.write(info)
+    text_file.close()
 
+    with open('info.txt') as data_file:    
+        data = json.load(data_file)
+        tx_count = 0
+        jsonString = """ {"nodes": [ """
+        jsonString += "  {\"id\":0, \"tx\": \"https://blockchain.info/address/" + address + "\", \"size\":450  } "
+
+        for transaction in data:
+            tx_size = 0
+            out_transaction_flag = 0
+            for out in transaction[u'vout']:
+                tx_size+= out[u'value']
+                if address in out[u'scriptPubKey'][u'addresses']:
+                    out_transaction_flag = 1
+
+            jsonString += ','
+            tx_count += 1
+            txid = (transaction[u'txid'])
+            jsonString += "  {\"id\":"  + str(tx_count) + ", \"tx\": \"https://blockchain.info/tx/" + str(txid) +  "\", \"size\":"  + str(tx_size) + ",  \"out\":"  + str(out_transaction_flag) +"  } "
+
+        jsonString +=  """ ], "links": [ """
+        for x in xrange(1,tx_count+1):
+            if x > 1:
+                jsonString += ',' 
+            jsonString +=   """  {"source": 0, "target": """ + str(x) + "}"
+        jsonString += "  ] }"
 
     text_file = open("static/miserables.json", "w")
     text_file.write(jsonString)
@@ -30,7 +58,6 @@ def generateJson(address):
 
 app.secret_key = 'L\xaf\xca\x1e(\x8dZ\xcc69\xe8\x19\x83\x80\xe9\x18\xe1L^]m\xab\x086'
 app.run(threaded=True)
-
 
 
 
