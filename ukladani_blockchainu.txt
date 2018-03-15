@@ -28,14 +28,49 @@ CALL algo.pageRank('match (n) return id(n) as id','match (a)-[]-(b) return id(a)
 
 
 opravdu zalezi na poradi
-explain MATCH (start:Address {address: '18QfPX9eM9M2ijHe96sgTAHHbB5UFppP2H'})<-[:USES]-(o1:Output)
-             -[:INPUT|OUTPUT*]->(o2:Output)-[:USES]->(end:Address {address: '1AEfmTfVsWMWhnw96FiF5jpzTy57wSQRjs'}),
-  p = shortestpath((o1)-[:INPUT|OUTPUT*..5]->(o2))
-  with p
+profile MATCH (start:Identity)-[]-(strt:Address )<-[:USES]-(o1:Output)
+             -[:INPUT|OUTPUT*1..6]->(o2:Output)-[:USES]->(end:Address {address: '1AEfmTfVsWMWhnw96FiF5jpzTy57wSQRjs'}),
+  p = shortestpath((o1)-[:INPUT|OUTPUT*1..6]->(o2))
+  with start,p
   limit 1
-  return p
+  return start,p
 
-  MATCH (start:Address{address: '34tu3tAVgyVawkFLkwbirMoQQKDPe3Q88z'}), (end:Address{address: '1AEfmTfVsWMWhnw96FiF5jpzTy57wSQRjs'})
+profile MATCH (start:Identity)-[]-(strt:Address )<-[:USES]-(o1:Output)
+             -[:INPUT|OUTPUT*1..8]->(o2:Output)-[:USES]->(end:Address {address: '1B9GeBaij3y9YsGr4h9qA43kib5oiSMwjf'}),
+  p = shortestpath((o1)-[:INPUT|OUTPUT*1..8]->(o2))
+  with start,p
+  limit 10
+  return start,p
+
+
+  MATCH (start:Address{address: '1MnJK5LBmeFi1JHhqmF2fWJvFJpfEkfEfG'}), (end:Address{address: '1AEfmTfVsWMWhnw96FiF5jpzTy57wSQRjs'})
 CALL algo.shortestPath.stream(start, end, 'cost')
 YIELD nodeId, cost
-RETURN nodeId, cost LIMIT 20
+RETURN nodeId, cost LIMIT 1
+
+
+
+CALL algo.labelPropagation('', '','BOTH',
+  {iterations:10,partitionProperty:'partition', write:true})
+YIELD nodes, iterations, loadMillis, computeMillis, writeMillis, write, partitionProperty;
+
+pred louvainem markni zdrojove nody jako jeden label
+
+
+caspar@jumpy:~/nctest/a/mydir$ ls
+file_a.txt  file_b.log
+caspar@jumpy:~/nctest/a/mydir$ tar -cz . | nc -q 10 -l -p 45454
+Computer 2
+
+caspar@jumpy:~/nctest/b$ ls
+caspar@jumpy:~/nctest/b$ nc -w 10 localhost 45454 | tar -xz
+caspar@jumpy:~/nctest/b$ ls
+file_a.txt  file_b.log
+
+
+LOAD CSV WITH HEADERS FROM "file:///allid.csv" AS row
+MERGE (a:Address {address: row.address})
+CREATE (a)-[:HAS]->(i:Identity
+  {name: row.tag, link: row.link})
+
+  MATCH (n:Identity) OPTIONAL MATCH (n)-[r]-() DELETE n, r

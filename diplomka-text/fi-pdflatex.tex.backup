@@ -222,21 +222,49 @@ pay-to-script-hash (P2SH) with MERKLE-BRANCH-VERIFY, and "Tail Call Execution Se
 
 
 \section{TOR - the onion routing}
-Tor is free software for enabling anonymous communication. The name is derived from an acronym for the original software project name "The Onion Router". 
-Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location
-and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user: this includes 
-"visits to Web sites, online posts, instant messages, and other communication forms". The intent for Tor's use is to protect the personal privacy of its users,
-as well as their freedom and ability to conduct confidential communication by keeping their Internet activities from being monitored.
 
-Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user's privacy,
-but does not hide the fact that someone is using Tor. Some websites restrict allowances through Tor. For example, the MediaWiki TorBlock extension automatically restricts edits made through Tor,
-although Wikipedia allows some limited editing in exceptional circumstances.
+Tor is an free open source software, that provides access to tor network. Tor network is a network of TOR nodes.
+The goal of TOR project is to provide it's users encrypted access to internet in order to to prevent third parties
+from evesdropping and analysis of the transmitted data.
+The communication of the user's computer with network is encrypted and rerouted through multiple TOR nodes using onion routing technology.
+The usage of TOR can be detected by third party, but the third party can not decryptsa user's data, that are transmitted via tor.
+Some websites restrict access from TOR, due to many risks involved.
 
-Onion routing is implemented by encryption in the application layer of a communication protocol stack, nested like the layers of an onion. 
-Tor encrypts the data, including the next node destination IP address, multiple times and sends it through a virtual circuit comprising successive, random-selection Tor relays.
-Each relay decrypts a layer of encryption to reveal the next relay in the circuit to pass the remaining encrypted data on to it. The final relay decrypts the innermost layer of encryption and sends
-the original data to its destination without revealing or knowing the source IP address. Because the routing of the communication is partly concealed at every hop in the Tor circuit,
-this method eliminates any single point at which the communicating peers can be determined through network surveillance that relies upon knowing its source and destination.
+Communication between browser and webserver is usually done via encrypted HTTPS protocol.
+This protocol use assymetric cryptography. The webserver and browser exchange their public keys at start of communication
+and encrypt the data using these keys. Decrypting the data is possible only by corresponding private keys,
+which the browser and webserver keep locally. This protocol is suspectible to man in the middle attacks.
+If the attacker has control over the transmission from the start of communication, he can place himself in the middle
+ of communication and act as webserver for user and as a user for webserver. To prevent these types of attact
+ a certification authority is needed, which is a institution, that sign public keys, belonging to webserver.
+ When browser recieves the public key, it automatically checks, if it is signed by any authority from it's list of authorities
+ and if not, it displays warning or error message.
+ 
+The HTTPS protocol encrypts data, but doesn't hide the identity of the user from webserver,
+ and also the internet provider can see, where is the user connecting to.
+ In TOR, the user's identity is hidden from webserver, and internet provider can only see, that user is connecting to TOR,
+ but can not see where is the destination of the data that are transmitted via TOR.
+ Tor uses Onion routing technology. When user visits website, there TOR software picks randomly few TOR nodes from the network
+ and estabilish a circuit, as we can see on \ref{tor-routing}. 
+ 
+ \begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{tor-routing}
+    \caption{Neo4j database ER diagram}
+    \label{TOR routing schema}
+\end{figure}
+ 
+  \begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{tor-packet-prejate}
+    \caption{Neo4j database ER diagram}
+    \label{TOR routing schema}
+\end{figure}
+ 
+ 
+ 
+ 
+ 
 
 \section{Online drug marketplaces}
 A darknet market or cryptomarket is a commercial website on the web that operates via darknets such as Tor or I2P
@@ -376,12 +404,14 @@ the amount of positive and negative reviews that vendor recieved.
 We can see, that vast majority only 2 vendors out of 666 have recieved more negative feedback than positive.
 Only 19 vendors out of 666 managed to get more than 50 negative feedbacks, while all of the these 19 vendors had more
  than 400 positive reviews.
-Only 40 vendors got more negative feedbacks 
+Only 40 vendors got more negative feedbacks than positive feedbacks.
  If we look at statistics of reviews from popular e-shop amazon(http://minimaxir.com/2017/01/amazon-spark)
   and consider one and two star reviews as negative, we can see, that amazon sellers on
   average gets between 5-25\% negative reviews, depending on category of the goods.
   On the walhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
-  Also, only 40 vendors h
+  Also, only 40 vendors have less than 80\% positive reviews and out of that 36 have less 50 reviews in total.
+  These numbers indicate, that the customers of valhalla market are much more picky about the vendor they choose
+  than regular e-shop cuystomers. If \ref{Vendors by total revenue}
   
 
 \begin{figure}[!htb]
