@@ -51,7 +51,7 @@ var distancedata=[ { x: 0, y: 0, c: 0, size: 0 }, { x: 2, y: 3, c: 0, size: 500 
 
 }"""
 
-refstring = """var tabledata=[
+    refstring = """var tabledata=[
     {
         "address": "14BzdTwZyJTWewiZdYMGafiNUxmSYm9K91",
         "distance": "7",
