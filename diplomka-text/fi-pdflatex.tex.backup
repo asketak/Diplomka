@@ -181,7 +181,7 @@ There are only few articles focusing on describing the economy of fully operatin
 In this work, we bring analysis of the micro-economy of two fully operating drug markets and present interesting statistics about vendors,
 size and frequency of the deals and their sortiment and availability.
 
-\chapter{Technology and terms}
+\chapter{Darknet market's economy and technology }
 
 In this chapter, I explain the terms, tools and related technology used for achieving the goal of this thesis.
 
@@ -245,20 +245,23 @@ The HTTPS protocol encrypts data, but doesn't hide the identity of the user from
  In TOR, the user's identity is hidden from webserver, and internet provider can only see, that user is connecting to TOR,
  but can not see where is the destination of the data that are transmitted via TOR.
  Tor uses Onion routing technology. When user visits website, there TOR software picks randomly few TOR nodes from the network
- and estabilish a circuit, as we can see on \ref{tor-routing}. 
+ and estabilish a circuit, as we can see on \ref{TOR routing schema}. 
+ The packet of data is encrypted with the each public key of the node in circuit, starting from last node as on \ref{TOR packed encryption schema}.
+ Each node of the network only knows the previous node he recieved the data from and it gets the address 
+ of next node by decrypting the packet and reading the added metadata.
  
  \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{tor-routing}
-    \caption{Neo4j database ER diagram}
+    \includegraphics[width=1\textwidth]{tor-prejate}
+    \caption{TOR routing schema}
     \label{TOR routing schema}
 \end{figure}
  
   \begin{figure}[!htb]
     \centering
     \includegraphics[width=1\textwidth]{tor-packet-prejate}
-    \caption{Neo4j database ER diagram}
-    \label{TOR routing schema}
+    \caption{TOR packed encryption schem}
+    \label{TOR packed encryption schema}
 \end{figure}
  
  

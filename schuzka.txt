@@ -232,3 +232,6 @@ Co s 0/0 pos/neg daty?
 
 ginni index
 Vysvetlit, proc poouzivam grep ve scrapovani, ze by mala zmena stranky rozbila i beautifuol soup , 
+
+
+koukni na top 100 vendoru dle revenue a domysli ditribuci dle mnozstvi / pomeru recenzi ktere maji

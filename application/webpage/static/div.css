@@ -8,28 +8,28 @@ html, body, .container
     float: left;
     width: 50%;
     height: 20%;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 .second{
     float: left;
     width: 50%;
     height: 40%;
-    background-color: green;
+    /*background-color: green;*/
 }
 
 .fourth{
     float: left;
     width: 50%;
     height: 40%;
-    background-color: #DDDDAA;
+    /*background-color: #DDDDAA;*/
 }
 
 .third{
     float: right;
     width: 50%;
     height: 60%;
-    background-color: blue;
+    /*background-color: blue;*/
 }
 
 
@@ -46,7 +46,7 @@ html, body, .container
     float: right;
     width: 50%;
     height: 40%;
-    background-color: yellow;
+    /*background-color: yellow;*/
 }
 
 
