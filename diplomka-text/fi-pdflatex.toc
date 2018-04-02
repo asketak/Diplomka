@@ -14,13 +14,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}\slshape Behaviour of drug markets users and operators}{4}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}\bfseries Technology and terms}{5}{chapter.3}
+\contentsline {chapter}{\numberline {3}\bfseries Related technology }{5}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}\slshape Bitcoin and blockchain}{5}{section.3.1}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}\rmfamily Transactions and addresses}{5}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}\rmfamily Mining}{6}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}\rmfamily Decentralisation}{6}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}\slshape TOR - the onion routing}{6}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}\slshape Online drug marketplaces}{7}{section.3.3}
+\contentsline {section}{\numberline {3.3}\slshape PGP}{7}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}\slshape Online dark markets}{9}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}\rmfamily Escrow}{9}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}\rmfamily Tumbler}{9}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}\rmfamily Feedback}{9}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}\bfseries Methods and tools to get and analyze data}{10}{chapter.4}
 \defcounter {refsection}{0}\relax 
@@ -46,7 +60,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{18}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries POC application}{19}{chapter.7}
+\contentsline {chapter}{\numberline {7}\bfseries Application}{19}{chapter.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.1}\slshape Implementation}{20}{section.7.1}
 \defcounter {refsection}{0}\relax 

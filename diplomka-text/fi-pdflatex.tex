@@ -104,12 +104,18 @@
 %\addcontentsline{toc}{chapter}{Introduction}
 
 The relative anonymity of internet offer an incentive for criminal parties to use internet as a tool for their activities.
-Internet facilitated some forms of existing crimes(Selling drugs and guns, counterfeits selling, Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and carding.
-Police statistics show, that crime happening online is much less likely to be discovered and criminals persecuted. Criminals value their anonymity very high and use various means to make them even more anonymous,
-like VPNs and TOR. The big problem for criminals were getting the money they got from criminal activity to their possession(In banknotes, or to their bank account), since that requires some form physical presence.
-Also, it was hard for two anonymous entities engaging in criminal activity to transfer money to each other, since none could be sure about the origin of money they are receiving.
+Internet facilitated some forms of existing crimes(Selling drugs and guns,
+counterfeits selling, Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and carding.
+Police statistics show, that crime happening online is much less likely to be discovered and criminals persecuted.
+Criminals value their anonymity very high and use various means to make them even more anonymous,
+like VPNs and TOR.
+The big problem for criminals were getting the money they got from criminal activity to their possession(In banknotes,
+or to their bank account), since that requires some form physical presence.
+Also, it was hard for two anonymous entities engaging in criminal activity to transfer money to each other,
+since none could be sure about the origin of money they are receiving.
 
-For bitcoin, there is no central authority requiring bitcoin address( bitcoin equivalent of bank account number) to be linked to person's identity.
+For bitcoin, there is no central authority requiring bitcoin address
+( bitcoin equivalent of bank account number) to be linked to person's identity.
 Criminals can use their anonymous connection to internet to both recieve and send bitcoins and therefore not disclose their identity.
 This feature of bitcoin and other cryptocurrencies gave rise to drug markets, which can be publicly accessed via TOR. However,
 the history of all bitcoin transactions is publicly available and so each bitcoin can be tracked through the whole transaction history.
@@ -120,12 +126,12 @@ number of users, revenues) and also to see, if these data can be used for disclo
 
 \section{Goals}
 
-The main goal of this thesis is to map two currently available drug markets 
-and try multiple approaches for deanonymization of identities related to these drug markets.
-Another outcome of this work is a proof of concept tool, that uses the data mentioned above to help investigator to disclose transactions,
+The main goal of this thesis is to analyze one available drug market 
+and try multiple approaches for deanonymization of identities related to this drug market.
+The outcome of this work is gathering data about the trades, which happened on the drug market and
+ computing interesting statistics about the whole market as well as actors operating there.
+Another outcome of this work is a tool, that uses the data mentioned above to help investigator to disclose transactions,
 addresses and identities related to online drug markets.
-The secondary outcome of this work is gathering data about the trades, which happened on the drug markets and
- gather interesting statistics about the whole market as well as actors operating there.
 
 \section{Structure of thesis}
 
@@ -181,45 +187,60 @@ There are only few articles focusing on describing the economy of fully operatin
 In this work, we bring analysis of the micro-economy of two fully operating drug markets and present interesting statistics about vendors,
 size and frequency of the deals and their sortiment and availability.
 
-\chapter{Darknet market's economy and technology }
+\chapter{Related technology}
 
-In this chapter, I explain the terms, tools and related technology used for achieving the goal of this thesis.
+In this chapter, I explain the terms and technology related to online drug markets.
+The online drug markets use several technologies, that are crucial for their anonymous operation.
+The Bitcoin enables different parties to exchange value in an anonymous way.
+TOR allows users and administrators of marketplace to hide from any third party doing packet sniffing on network,
+that they are accessing drug marketplace. It also hides the location on drug market webserver from it's users.
+PGP enables sellers and vendors to communicate between them in encrypted way,
+so that drug market administrators can not eavesdrop on that communication.
+Drug markets also employ
+
 
 \section{Bitcoin and blockchain}
-Blockchain
-For a broader coverage related to this topic, see Blockchain.
 
-Number of unspent transaction outputs
-The blockchain is a public ledger that records bitcoin transactions.
-A novel solution accomplishes this without any trusted central authority: the maintenance of the blockchain is performed by a network of communicating nodes
-running bitcoin software.Transactions of the form payer X sends Y bitcoins to payee Z are broadcast to this network using readily available software applications.
-nodes can validate transactions, add them to their copy of the ledger, and then broadcast these ledger additions to other nodes. The blockchain is a distributed database – to achieve independent verification of the chain of ownership 
-of any and every bitcoin amount, each network node stores its own copy of the blockchain. Approximately six times per hour, a new group of accepted transactions, a block, is created, added to the blockchain, and quickly published to all nodes.
-This allows bitcoin software to determine when a particular bitcoin amount has been spent, which is necessary in order to prevent double-spending in an environment without central oversight. 
-Whereas a conventional ledger records the transfers of actual bills or promissory notes that exist apart from it, the blockchain is the only place that bitcoins can be said to exist in the form of unspent outputs of transactions.
+Bitcoin is  the first decentralized peer2peer cryptocurrency, created by anonymous author(s) known by pseudonym Satoshi Nakamoto in 2009.
+Bitcoin transactions are not verified by central authority, they are  
+processed by peer2peer network of bitcoin nodes instead. 
+The entire history of transactions is stored in distributed public ledger called blockchain.
 
-Transactions
+The nodes collect transactions broadcasted by users and send them to other nodes.
+The source code of bitcoin nodes is open source and can be downloaded and run locally. 
 
-Number of bitcoin transactions per month (logarithmic scale)
-See also: Bitcoin network
-Transactions are defined using a Forth-like scripting language.Transactions consist of one or more inputs and one or more outputs.
-When a user sends bitcoins, the user designates each address and the amount of bitcoin being sent to that address in an output. 
-To prevent double spending, each input must refer to a previous unspent output in the blockchain. The use of multiple inputs corresponds to the use of multiple coins in a cash transaction.
-Since transactions can have multiple outputs, users can send bitcoins to multiple recipients in one transaction. As in a cash transaction, the sum of inputs (coins used to pay) can exceed the intended sum of payments.
-In such a case, an additional output is used, returning the change back to the payer.Any input satoshis not accounted for in the transaction outputs become the transaction fee.
+\subsection{Transactions and addresses}
+In order to recieve bitcoins, user need to have a bitcoin address. In order to send bitcoin from bitcoin address,
+ user needs to have private key associated with the given bitcoin address.
+Storing and using bitcoin addresses and associated private keys is automatically managed
+by software called bitcoin wallet. There exists many third party software wallets.
 
-Privacy
-Bitcoin is pseudonymous, meaning that funds are not tied to real-world entities but rather bitcoin addresses. Owners of bitcoin addresses are not explicitly identified, but all transactions on the blockchain are public. 
-In addition, transactions can be linked to individuals and companies through "idioms of use" (e.g., transactions that spend coins from multiple inputs indicate that
-the inputs may have a common owner) and corroborating public transaction data with known information on owners of certain addresses. Additionally, bitcoin exchanges, where bitcoins are traded for traditional
-currencies, may be required by law to collect personal information.
+Bitcoin address is string of 26 to 35 alphanumerical characters.
+All the transactions of every address are stored in blockchain, the balance and all transactions related to address are
+publicly available.
+In order to not see the whole history of transactions of address's owner,
+the bitcoin wallets generate new bitcoin address for each new incoming transactions and when spending bitcoins, it use one or more of the addresses the wallet generated.
+Therefore, when pairing the address to identity, we can directly obtain just the history of transactions related to the address,
+but can not get all transactions and balance of the user, as he is likely to own multiple bitcoin addresses.
 
-To heighten financial privacy, a new bitcoin address can be generated for each transaction. For example, hierarchical deterministic wallets generate pseudorandom "rolling addresses"
-for every transaction from a single seed, while only requiring a single passphrase to be remembered to recover all corresponding private keys. Researchers at Stanford University
-and Concordia University have also shown that bitcoin exchanges and other entities can prove assets, liabilities, and solvency without revealing their addresses using zero-knowledge proofs.
-"Bulletproofs," a version of Confidential Transactions proposed by Greg Maxwell, have been tested by Professor Dan Boneh of Stanford. Other solutions such Merkelized Abstract Syntax Trees (MAST),
-pay-to-script-hash (P2SH) with MERKLE-BRANCH-VERIFY, and "Tail Call Execution Semantics, have also been proposed to support private smart contracts.
+\subsection{Mining}
+Users of bitcoin can be roughly separated in two groups, end users and miners.
+End users use bitcoin wallets to recieve and send bitcoins.
+Miners are verifying transactions. When the transactions is send from the address, 
+it is signed with private key associated with that address and send to the neares bitcoin node.
+The transaction is immidiately broadcasted to other bitcoin nodes.
+Miners are running bitcoin mining software, which enables them to create a new block of transactions, add it to blockchain
+and broadcast new, longer version, of blockchain to other nodes.
+Finding new block of transactions is a hard problem from computanional perspective.
+The difficulty of algorithm is adjusted every X block, so that new block is generated roughly every 10 minutes.
 
+When miner finds new block, he can claim all of the fees of transactions included in that block,
+also he is able to create a special transaction called coinbase transaction, that sends bitcoins from nowhere to his address.
+By these coinbase transactions, new bitcoins are emmitted into network.
+
+\subsection{Decentralisation}
+
+Since anyone can run bitcoin node or mine bitcoins, and every node
 
 \section{TOR - the onion routing}
 
@@ -265,9 +286,31 @@ The HTTPS protocol encrypts data, but doesn't hide the identity of the user from
 \end{figure}
  
 \section{PGP}
+
+PGP is a program for encrypting data and communication between two parties using public key cryptography.
+PGP is used for signing, encrypting and decrypting messages, mostly e-mails.
+PGP was developed in 1991 as open source, with the intention 
+to provide an open widely used standart for encrypted communication.
+Nowadays, PGP program is not open source any more, but the standart is used by open source GPG software.
+
+PGP uses public key cryptography, unlike symmetric cryptography, pgp uses two different keys for encrypting and decrypting.
+The user generate a pair of keys, public key for encrypting mails sent to them and private key, which the user
+ keeps for himself and use for decrypting messages encrypted with associated public key. The user also publish his public
+ key, so other users can send him necrypted messages.
+
+PGP is used in the context of online drug markets as a means of communication between vendors and customers.
+Both vendor and customer has their public keys published on their profile page and use the public key of the other
+party to encrypt messages to them. This enables vendors and sellers to keep their communication private also 
+from the administrators of marketplace.
+
+
 \section{Online dark markets}
 
 A dark market is  
+
+\subsection{Escrow}
+\subsection{Tumbler}
+\subsection{Feedback}
 
 
 \chapter{Methods and tools to get and analyze data}
@@ -432,9 +475,9 @@ asdf
 
 
 
-\chapter{POC application}
+\chapter{Application}
 
-This chapter describes the proof of concept application for investigating bitcoin address.
+This chapter describes the application for investigating bitcoin address.
 The application consists of three parts.
 The scraping module, that downloads bitcoin blockchain and also scrape data from publicly available sites mention in section XXX.
 The computanional module, which imports data to the database and also transform data. so that searching in these data would be fast.
