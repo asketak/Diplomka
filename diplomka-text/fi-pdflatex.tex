@@ -59,10 +59,10 @@
     author        = Tomáš Šíma,
     gender        = m,
     advisor       = {RNDr. Martin Stehlík, Ph.D, Mgr. Jaroslav Šeděnka},
-    title         = {OSINT: Correlation and inference of information from social media},
-    TeXtitle      = {OSINT: Correlation and inference of information from social media},
-    keywords      = {blockhain, bitcoin, OSINT, darkweb, drug market, TOR, cryptocurrency, anonymity, metadata},
-    TeXkeywords   = {blockhain, bitcoin, OSINT, darkweb, drug market, TOR, cryptocurrency, anonymity, metadata},
+    title         = {Darknet market analysis and user de-anonymization},
+    TeXtitle      = {Darknet market analysis and user de-anonymization},
+    keywords      = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
+    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
     abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize publicly available data, which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to help investigators with collecting intelligence on entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or services.
     
     We scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit, blockchain.info...) and drug markets thereself using python. Westored all these data into AgensGraph database, which is a graph database based on PostgreSQL. Wecreated a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users,drug markets, social media and blockchain. Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the nearest adresses that are mentioned in scraped websites. 
@@ -103,26 +103,30 @@
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
-The relative anonymity of internet offer an incentive for criminal parties to use internet as a tool for their activities.
+The relative anonymity of internet offers an incentive for criminal parties to use internet as a tool for their activities.
 Internet facilitated some forms of existing crimes(Selling drugs and guns,
 counterfeits selling, Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and carding.
 Police statistics show, that crime happening online is much less likely to be discovered and criminals persecuted.
 Criminals value their anonymity very high and use various means to make them even more anonymous,
 like VPNs and TOR.
-The big problem for criminals were getting the money they got from criminal activity to their possession(In banknotes,
-or to their bank account), since that requires some form physical presence.
+The big problem for criminals was getting the money they got from criminal activity to their possession(In banknotes,
+or to their bank account), since that required some form physical presence or identification.
 Also, it was hard for two anonymous entities engaging in criminal activity to transfer money to each other,
-since none could be sure about the origin of money they are receiving.
+since none of them could be sure about the origin of money they are receiving.
 
 For bitcoin, there is no central authority requiring bitcoin address
-( bitcoin equivalent of bank account number) to be linked to person's identity.
+(bitcoin equivalent of bank account number) to be linked to person's identity.
 Criminals can use their anonymous connection to internet to both recieve and send bitcoins and therefore not disclose their identity.
-This feature of bitcoin and other cryptocurrencies gave rise to drug markets, which can be publicly accessed via TOR. However,
+This feature of bitcoin and other cryptocurrencies gave rise to online drug markets, which can be publicly accessed via TOR. However,
 the history of all bitcoin transactions is publicly available and so each bitcoin can be tracked through the whole transaction history.
 
-In this work we collect multiple public sources of data about bitcoin transactions, bitcoin adresses and drug markets.
-We examine these data in order to describe the behaviour of drug markets users (distribution of sellers, availability of drugs,
-number of users, revenues) and also to see, if these data can be used for disclosing identity of users and operators of drug markets.
+We scraped and examined data from Valhalla market, one of the most popular currently operating drug markets,
+in order to do statistical analysis of it's operations.
+
+We collect data from multiple public sources related to drug market and bitcoin transactions and explore
+ possibilities to de-anonymize drug market's users by linking publicly known identities to nearby bitcoin addresses.
+We also created a tool, that visualize data obtained from blockchain, drug market, and social networks,
+ that will help with user deanonymization.
 
 \section{Goals}
 
@@ -185,9 +189,9 @@ the online drug marketplace economy mostly focused on data related to silkroad m
 Few authors described, how is the whole drug trafficking crime changing overtime with the coming of the new technologies.
 There are only few articles focusing on describing the economy of fully operating drug market at the time of data collection.
 In this work, we bring analysis of the micro-economy of two fully operating drug markets and present interesting statistics about vendors,
-size and frequency of the deals and their sortiment and availability.
+size and frequency of the deals, sortiment and availability.
 
-\chapter{Related technology}
+\chapter{Related terms}
 
 In this chapter, I explain the terms and technology related to online drug markets.
 The online drug markets use several technologies, that are crucial for their anonymous operation.
@@ -196,8 +200,8 @@ TOR allows users and administrators of marketplace to hide from any third party 
 that they are accessing drug marketplace. It also hides the location on drug market webserver from it's users.
 PGP enables sellers and vendors to communicate between them in encrypted way,
 so that drug market administrators can not eavesdrop on that communication.
-Drug markets also employ
-
+Drug markets also use bitcoin mixers, services designed to mix their funds with others, in order to obstruct
+analysis of their cashflow and improve anonymity of users and administrators.
 
 \section{Bitcoin and blockchain}
 
@@ -303,14 +307,48 @@ Both vendor and customer has their public keys published on their profile page a
 party to encrypt messages to them. This enables vendors and sellers to keep their communication private also 
 from the administrators of marketplace.
 
-
-\section{Online dark markets}
-
-A dark market is  
+\section{Online cryptomarkets}
+A cryptomarket is an online commercial shopping website, usually accesible only via TOR service.
+On cryptomarkets, users can sell and buy  drugs, weapons, hacking tools, stolen credit cards,
+counterfeit currency, forged documents and other illegal goods and services.
+Most cryptomarkets forbid selling the most unambigously harmful goods, such as
+ child pornography or hitman services.
 
 \subsection{Escrow}
+Escrow service is a service offered by cryptomarket for their customers.
+Escrow means, that the money transfered between two actors(vendor and seller) are held by third party(cryptomarket)
+ and are released when both of the parties agree, that they are satisfied with the trade.
+ Disputes are resolved by the operator of the cryptomarket.
+
+ Using the Escrow service is usually required.
+ Some cryptomarkets allow vendors with long history of satisfied customers to bypass escrow service and recieve money immidiately.
+ 
 \subsection{Tumbler}
-\subsection{Feedback}
+
+Bitcoin transactions are publicly available, but it is not easy to identify their owners.
+It might seem, that bitcoin transactions are anonymoous, but when user send bitcoins to
+someone(exchange) who knows their identity, the reciever can pair the bitcoin address the bitcoins came from
+to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses are still 
+suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know.
+
+Bitcoin Tumblers exist in order to prevent such analysis. User sends bitcoins to the tumbler service, the service mix his bitcoins
+with bitcoins of other users by performing multiple transactions between it's bitcoin addresses.
+The structure of these transactions differs for different tumbler services.
+User generate new bitcoin address with no tie to his previous addresses and bitcoins are recieved from the service to this address.
+ There also exists peer-to-peer tumblers(CoinJoin,SharedCoin,coinswap),
+that enable multiple users to directly create transactions to mix bitcoins among themselves.
+The transaction can be performed multiple types with different actors.
+
+\subsection{Vendor's feedback}
+
+Cryptomarkets usually employs reputation systems, where buyers can publish their satisfaction with the vendor.
+These systems are similar to systems used in popular e-commerce websites like amazon or e-bay.
+Users can give feedback only to vendors with whom thay have traded with.
+On some cryptomarkets it is only possible to upvote and downvote vendors, on some others people can
+rate different parts of their interaction with seller, like the easyness of communication,
+speed of sending the goods and unsuspiciousness of packaging.
+
+\subsection{Valhalla cryptomarket}
 
 
 \chapter{Methods and tools to get and analyze data}
