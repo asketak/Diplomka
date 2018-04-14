@@ -1,16 +1,16 @@
-[1] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:340> INFO - This is Biber 2.4
 [1] Config.pm:343> INFO - Logfile is 'fi-pdflatex.blg'
-[73] biber:287> INFO - === So dub 14, 2018, 04:01:26
-[237] Biber.pm:348> INFO - Reading 'fi-pdflatex.bcf'
-[485] Biber.pm:742> INFO - Found 8 citekeys in bib section 0
-[498] Biber.pm:3151> INFO - Processing section 0
-[562] Biber.pm:3308> INFO - Looking for bibtex format file 'citations.bib' for section 0
-[620] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[672] bibtex.pm:974> INFO - Found BibTeX data source 'citations.bib'
-[675] Utils.pm:147> WARN - Duplicate entry key: 'androulaki2013evaluating' in file 'citations.bib', skipping ...
-[1041] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1042] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1042] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'cs_CZ'
-[1074] bbl.pm:519> INFO - Writing 'fi-pdflatex.bbl' with encoding 'UTF-8'
-[1140] bbl.pm:615> INFO - Output to fi-pdflatex.bbl
-[1141] Biber.pm:109> INFO - WARNINGS: 1
+[61] biber:287> INFO - === So dub 14, 2018, 15:04:26
+[209] Biber.pm:348> INFO - Reading 'fi-pdflatex.bcf'
+[460] Biber.pm:742> INFO - Found 9 citekeys in bib section 0
+[471] Biber.pm:3151> INFO - Processing section 0
+[539] Biber.pm:3308> INFO - Looking for bibtex format file 'citations.bib' for section 0
+[594] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[644] bibtex.pm:974> INFO - Found BibTeX data source 'citations.bib'
+[646] Utils.pm:147> WARN - Duplicate entry key: 'androulaki2013evaluating' in file 'citations.bib', skipping ...
+[1000] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1001] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1001] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'cs_CZ'
+[1026] bbl.pm:519> INFO - Writing 'fi-pdflatex.bbl' with encoding 'UTF-8'
+[1085] bbl.pm:615> INFO - Output to fi-pdflatex.bbl
+[1086] Biber.pm:109> INFO - WARNINGS: 1

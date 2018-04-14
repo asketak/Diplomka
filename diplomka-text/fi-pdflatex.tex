@@ -209,7 +209,7 @@ the sender. The change output is needed, because that the only way to split
  with two outputs, one worth of 1 BTC with the recipent address and second output worth 2 BTC 
  with the recipent address of sender. This way, sender can split his bitcoins for smaller transaction.
  They also employed multiple clustering techniques based on behaviour of users.
- They tested succes of their clustering techniques in their simulated bitcoin simulation
+ They tested succes of their clustering techniques in their simulated bitcoin 
  environment.
 
 Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
@@ -227,6 +227,14 @@ Ron and Shamir \parencite{ron2013quantitative} focus on bringing
 interesting statistics about bitcoin transaction graph
 and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
 through transactions in the network.
+In their other study \parencite{ron2014did}, they analyzed transactions performed by Ross Ulbricht,
+who was administrator of Silkroad marketplace.
+The FBI published their bitcoin address, which they used to collect all seized bitcoins from Ross Ulbrict.
+They took the size and frequency of transactions related to the seized bitcoins prior to the seizure and compared 
+it to the estimated income of Silkroad. They found discrepencies between the
+relatively stable income of Silkroad marketplace and unsstable balances in bitcoin addresses
+that were seized by FBI. They conclude, that FBI seized around 22\% of Ross Ulbrich bitcoins
+and found addresses that posses a some of these bitcoins, which has not been used since Ross' arrest.
 
 In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
 doesn't only passively scan blockchain, they actively send bitcoins to addresses of

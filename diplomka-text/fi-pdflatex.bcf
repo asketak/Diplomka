@@ -2058,8 +2058,9 @@
     <bcf:citekey order="6">spagnuolo2014bitiodine</bcf:citekey>
     <bcf:citekey order="7">fleder2015bitcoin</bcf:citekey>
     <bcf:citekey order="8">ron2013quantitative</bcf:citekey>
-    <bcf:citekey order="9">meiklejohn2013fistful</bcf:citekey>
-    <bcf:citekey order="10">androulaki2013evaluating</bcf:citekey>
+    <bcf:citekey order="9">ron2014did</bcf:citekey>
+    <bcf:citekey order="10">meiklejohn2013fistful</bcf:citekey>
+    <bcf:citekey order="11">androulaki2013evaluating</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

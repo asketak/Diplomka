@@ -209,29 +209,37 @@ the sender. The change output is needed, because that the only way to split
  with two outputs, one worth of 1 BTC with the recipent address and second output worth 2 BTC 
  with the recipent address of sender. This way, sender can split his bitcoins for smaller transaction.
  They also employed multiple clustering techniques based on behaviour of users.
- They tested succes of their clustering techniques in their simulated bitcoin simulation
+ They tested succes of their clustering techniques in their simulated bitcoin 
  environment.
- 
-Ron and Shamir \parencite{ron2013quantitative} focus on bringing
-interesting statistics about bitcoin transaction graph
-and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
-through transactions in the network.
-
-Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
-This paper use data from bitcointalk, the most popular bitcoin forum. 
-They apply simple algorithm to group multiple bitcoin adresses belonging to one user together.
-Than they use the scraped data to show
-that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
-
-In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
-send 
-
 
 Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
 and performed clustering to get graph of transaction between users.
 Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses.
 They tested the tool on few popular transactions related to seizure of silkroad marketplace.
 
+Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
+This paper use data from bitcointalk, the most popular bitcoin forum. 
+They apply simple algorithm to group multiple bitcoin adresses belonging to one user together.
+Than they use the scraped data to show
+that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
+ 
+Ron and Shamir \parencite{ron2013quantitative} focus on bringing
+interesting statistics about bitcoin transaction graph
+and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
+through transactions in the network.
+In their other study \parencite{ron2014did}, they analyzed transactions performed by Ross Ulbricht,
+who was administrator of Silkroad marketplace.
+The FBI published their bitcoin address, which they used to collect all seized bitcoins from Ross Ulbrict.
+They performed analysis of addresses related to the seized bitcoins and 
+
+
+
+In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
+doesn't only passively scan blockchain, they actively send bitcoins to addresses of
+well known services to track their bitcoins in the following transactions executed by the service.
+They also used the same two heuristics for clustering of addresses
+as Androulaki. \parencite{androulaki2013evaluating}
+They concluded, that the network does not offer enought anonymity and large transactions can be traced.
 
 All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year. 
 My work is unique in that way, that it utilize much more sources of data, than the works previous mentioned. Also, the aim of this tool is to be able
