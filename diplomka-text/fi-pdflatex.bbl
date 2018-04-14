@@ -19,35 +19,83 @@
 
 \refsection{0}
   \sortlist[entry]{nyt/global}
-    \entry{borgman03}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=7b56eb6c4bb5707c93e5a90d103b3713}{%
-           family={Borgman},
-           family_i={B\bibinitperiod},
-           given={Christine\bibnamedelima L.},
-           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
+    \entry{fbcyber}{book}{}
       \list{location}{1}{%
-        {Cambridge (Mass)}%
+        {https://pdf.ic3.gov/2010_IC3Report.pdf}%
       }
       \list{publisher}{1}{%
-        {The MIT Press}%
+        {Internet Crime Complaint Center}%
       }
-      \strng{namehash}{7b56eb6c4bb5707c93e5a90d103b3713}
-      \strng{fullhash}{7b56eb6c4bb5707c93e5a90d103b3713}
-      \field{sortinit}{B}
-      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
-      \field{labelyear}{2003}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{2010 Internet Crime Report}
+      \field{year}{2011}
+    \endentry
+    \entry{androulaki2013evaluating}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=f5c17868bc40b8f88d6b6465fd2d4ab5}{%
+           family={Androulaki},
+           family_i={A\bibinitperiod},
+           given={Elli},
+           given_i={E\bibinitperiod}}}%
+        {{uniquename=0,hash=e93aa9b69032b0c90cc025969eae3052}{%
+           family={Karame},
+           family_i={K\bibinitperiod},
+           given={Ghassan\bibnamedelima O},
+           given_i={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{uniquename=0,hash=061b7226b811819df8de2c15658c294e}{%
+           family={Roeschlin},
+           family_i={R\bibinitperiod},
+           given={Marc},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=f181cb53c2383d6ab7b3f393cd8ddbfe}{%
+           family={Scherer},
+           family_i={S\bibinitperiod},
+           given={Tobias},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=028ff5c4d1eab5a2f2b2a92fb4d9bf88}{%
+           family={Capkun},
+           family_i={C\bibinitperiod},
+           given={Srdjan},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3f4b7cc5200bc62e87c626dc68eec5c5}
+      \strng{fullhash}{603eea92a8ece738f81fcf1b539c87a4}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2013}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{1}
-      \field{isbn}{0-262-52345-0}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Evaluating user privacy in bitcoin}
+      \field{year}{2013}
+      \field{pages}{34\bibrangedash 51}
+      \range{pages}{18}
+    \endentry
+    \entry{fbi10}{book}{}
+      \list{location}{1}{%
+        {https://www.fbi.gov/stats$-$services/publications/bank$-$crime$-$statistics$-$2010/bank$-$crime$-$statistics$-$2010}%
+      }
+      \list{publisher}{1}{%
+        {Federal bureau of investigation}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{pagetotal}{xviii, 324}
-      \field{subtitle}{access to information in the networked world}
-      \field{title}{From Gutenberg to the global information infrastructure}
-      \field{year}{2003}
+      \field{subtitle}{Federal Insured Financial Institutions, January 1, 2010 – December 31, 2010}
+      \field{title}{Bank Crime Statistics (BCS)}
+      \field{year}{2011}
     \endentry
     \entry{fleder2015bitcoin}{article}{}
       \name{author}{3}{}{%
@@ -79,124 +127,60 @@
       \field{title}{Bitcoin transaction graph analysis}
       \field{year}{2015}
     \endentry
-    \entry{greenberg98}{incollection}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=c4edcbc9098cbc42d6f4f092859463df}{%
-           family={Greenberg},
-           family_i={G\bibinitperiod},
-           given={David},
+    \entry{meiklejohn2013fistful}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=b2dd6953fa6beeacfdd192e8898e9254}{%
+           family={Meiklejohn},
+           family_i={M\bibinitperiod},
+           given={Sarah},
+           given_i={S\bibinitperiod}}}%
+        {{uniquename=0,hash=1525ae935600570fc60f32e5006ec12f}{%
+           family={Pomarole},
+           family_i={P\bibinitperiod},
+           given={Marjori},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=7feb7e3819b6e83e8f899611965ed1a0}{%
+           family={Jordan},
+           family_i={J\bibinitperiod},
+           given={Grant},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=e994af962190d488ae5fec4d6529da12}{%
+           family={Levchenko},
+           family_i={L\bibinitperiod},
+           given={Kirill},
+           given_i={K\bibinitperiod}}}%
+        {{uniquename=0,hash=5aa95937949aa05ba5443b2869aa21e6}{%
+           family={McCoy},
+           family_i={M\bibinitperiod},
+           given={Damon},
            given_i={D\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=75b3f28eec4f2e1a741608f83bd8480d}{%
-           family={Hawkins},
-           family_i={H\bibinitperiod},
-           given={B.L},
-           given_i={B\bibinitperiod}}}%
-        {{hash=51bf9218a426d21c857baf89489013a4}{%
-           family={Battin},
-           family_i={B\bibinitperiod},
-           given={P},
-           given_i={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Washington (D.C.)}%
-      }
-      \list{publisher}{2}{%
-        {Council on Library}%
-        {Information Resources; Association of American Universities}%
-      }
-      \strng{namehash}{c4edcbc9098cbc42d6f4f092859463df}
-      \strng{fullhash}{c4edcbc9098cbc42d6f4f092859463df}
-      \field{sortinit}{G}
-      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
-      \field{labelyear}{1998}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booksubtitle}{reconfiguring academic information resources for the 21st century}
-      \field{booktitle}{The mirage of continuity}
-      \field{langid}{english}
-      \field{subtitle}{quality control in the digital research library}
-      \field{title}{Camel drivers and gatecrashers}
-      \field{year}{1998}
-      \field{pages}{105\bibrangedash 116}
-      \range{pages}{12}
-    \endentry
-    \entry{thanh01}{thesis}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=87f64950621a1cf87049f20f0cca6254}{%
-           family={Hàn\bibnamedelima Thé},
-           family_i={H\bibinitperiod\bibinitdelim T\bibinitperiod},
-           given={Thành},
-           given_i={T\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {The Faculty of Informatics, Masaryk University}%
-      }
-      \list{location}{1}{%
-        {Brno}%
-      }
-      \strng{namehash}{87f64950621a1cf87049f20f0cca6254}
-      \strng{fullhash}{87f64950621a1cf87049f20f0cca6254}
-      \field{sortinit}{H}
-      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
-      \field{labelyear}{2001}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{title}{Micro-typographic extensions to the \TeX{} typesetting system}
-      \field{type}{phdthesis}
-      \field{urlday}{09}
-      \field{urlmonth}{12}
-      \field{urlyear}{2016}
-      \field{year}{2001}
-      \verb{url}
-      \verb http://www.pragma-ade.nl/pdftex/thesis.pdf
-      \endverb
-    \endentry
-    \entry{muni}{online}{}
-      \list{location}{1}{%
-        {Brno}%
-      }
-      \list{publisher}{1}{%
-        {Masaryk University}%
-      }
-      \field{sortinit}{M}
-      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
-      \field{labelyear}{1996\bibdatedash 2009}
-      \field{datelabelsource}{}
-      \field{labeltitlesource}{title}
-      \field{endyear}{2009}
-      \field{langid}{english}
-      \field{title}{Masaryk University}
-      \field{urlday}{09}
-      \field{urlmonth}{12}
-      \field{urlyear}{2016}
-      \field{year}{1996}
-      \verb{url}
-      \verb https://www.muni.cz/en
-      \endverb
-    \endentry
-    \entry{nakamoto2008bitcoin}{misc}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=1977190f018b398e43ede3de043de8ea}{%
-           family={Nakamoto},
-           family_i={N\bibinitperiod},
-           given={Satoshi},
+        {{uniquename=0,hash=2e507c8534952cbc00876d7c8fbd5f64}{%
+           family={Voelker},
+           family_i={V\bibinitperiod},
+           given={Geoffrey\bibnamedelima M},
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=dee88ab507f218ded58a2f13c4801dfc}{%
+           family={Savage},
+           family_i={S\bibinitperiod},
+           given={Stefan},
            given_i={S\bibinitperiod}}}%
       }
-      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
-      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
-      \field{sortinit}{N}
-      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
-      \field{labelyear}{2008}
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{499fcf8fa646ec1493122d91323a1459}
+      \strng{fullhash}{042ed4cde97163e19975712e0985209e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2013}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Bitcoin: A peer-to-peer electronic cash system}
-      \field{year}{2008}
+      \field{booktitle}{Proceedings of the 2013 conference on Internet measurement conference}
+      \field{title}{A fistful of bitcoins: characterizing payments among men with no names}
+      \field{year}{2013}
+      \field{pages}{127\bibrangedash 140}
+      \range{pages}{14}
     \endentry
     \entry{reid2013analysis}{incollection}{}
       \name{author}{2}{}{%

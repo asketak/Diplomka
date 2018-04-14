@@ -58,14 +58,18 @@
     type          = mgr,
     author        = Tomáš Šíma,
     gender        = m,
-    advisor       = {RNDr. Martin Stehlík, Ph.D, Mgr. Jaroslav Šeděnka},
+    advisor       = {RNDr. Martin Stehlík},
     title         = {Darknet market analysis and user de-anonymization},
     TeXtitle      = {Darknet market analysis and user de-anonymization},
     keywords      = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
     TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
     abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize publicly available data, which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to help investigators with collecting intelligence on entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or services.
     
-    We scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit, blockchain.info...) and drug markets thereself using python. Westored all these data into AgensGraph database, which is a graph database based on PostgreSQL. Wecreated a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users,drug markets, social media and blockchain. Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the nearest adresses that are mentioned in scraped websites. 
+    We scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit,
+    blockchain.info...) and drug markets thereself using python.
+    We stored all these data into AgensGraph database, which is a graph database based on PostgreSQL.
+    We created a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users,drug markets, social media and blockchain.
+    Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the nearest adresses that are mentioned in scraped websites. 
     
     To test the efficiency of this tool, we created multiple profiles on these dark markets and performed multiple transactions to deposit and withdraw bitcoins. The tool identified these and these percent of transactions.
     },
@@ -98,85 +102,138 @@
   stringstyle     = \color{teal},%
   commentstyle    = \itshape\color{magenta}}
 \usepackage{floatrow} %% Putting captions above tables
+\usepackage{geometry}
 \floatsetup[table]{capposition=top}
 \begin{document}
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
 The relative anonymity of internet offers an incentive for criminal parties to use internet as a tool for their activities.
-Internet facilitated some forms of existing crimes(Selling drugs and guns,
-counterfeits selling, Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and carding.
-Police statistics show, that crime happening online is much less likely to be discovered and criminals persecuted.
-Criminals value their anonymity very high and use various means to make them even more anonymous,
-like VPNs and TOR.
-The big problem for criminals was getting the money they got from criminal activity to their possession(In banknotes,
-or to their bank account), since that required some form physical presence or identification.
-Also, it was hard for two anonymous entities engaging in criminal activity to transfer money to each other,
-since none of them could be sure about the origin of money they are receiving.
+Internet facilitated some forms of existing crimes (selling drugs, guns and
+counterfeits, running Ponzi schemes) and also enabled many new types of frauds like hacking, phishing, carding and identity theft.
+
+Publicly available statistics show, that cyber criminals are much
+ less likely to be discovered and persecuted.
+ In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10}  % [https://www.fbi.gov/stats-services/publications/bank-crime-statistics-2010/bank-crime-statistics-2010]
+ FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber}  % [https://pdf.ic3.gov/2010_IC3Report.pdf]
+Criminals value their anonymity very high and use various means to prevent them from being caught by police forces.
+
+Big problem for criminals was getting the money they got from criminal activity to their possession,
+since that required some form of physical presence or identification.
+Also, it was hard for two anonymous entities engaging in criminal activity to transfer value to each other,
+ because it's hard to setup anonymous bank account and neither party could be sure about the origin of
+ money they are recieving.
 
 For bitcoin, there is no central authority requiring bitcoin address
-(bitcoin equivalent of bank account number) to be linked to person's identity.
-Criminals can use their anonymous connection to internet to both recieve and send bitcoins and therefore not disclose their identity.
-This feature of bitcoin and other cryptocurrencies gave rise to online drug markets, which can be publicly accessed via TOR. However,
-the history of all bitcoin transactions is publicly available and so each bitcoin can be tracked through the whole transaction history.
+(bitcoin equivalent of bank account number) to be linked to person's identity and so 
+criminals can use their anonymous connection to internet to both recieve and send bitcoins without disclosing their identity.
+This property of bitcoin and other cryptocurrencies gave rise to cryptomarkets.
+ Cryptomarkets are online marketplaces accesible via TOR network, which offers illegal goods and services.
+Hovewer, all bitcoin transactions are publicly available and so each bitcoin can be tracked through the whole transaction history.
 
-We scraped and examined data from Valhalla market, one of the most popular currently operating drug markets,
-in order to do statistical analysis of it's operations.
+We scraped and examined data from Valhalla market,
+ one of the most popular and well estabilished currently (February 2018) operating drug markets,
+in order to do statistical analysis of the scale of it's operations.
 
-We collect data from multiple public sources related to drug market and bitcoin transactions and explore
+We collected data from multiple public sources related to drug markets and bitcoin transactions and explored
  possibilities to de-anonymize drug market's users by linking publicly known identities to nearby bitcoin addresses.
-We also created a tool, that visualize data obtained from blockchain, drug market, and social networks,
- that will help with user deanonymization.
+We also created a tool to visualize data obtained from these public sources and search for nearby bitcoin addresses.
 
 \section{Goals}
 
-The main goal of this thesis is to analyze one available drug market 
-and try multiple approaches for deanonymization of identities related to this drug market.
-The outcome of this work is gathering data about the trades, which happened on the drug market and
- computing interesting statistics about the whole market as well as actors operating there.
+The main goal of this thesis is to analyze Valhalla drug market
+and try multiple approaches to deanonymize users related to this drug market.
+The main results of this work are gathered data from cryptomarket and
+ showing interesting statistics about the whole market as well as actors operating there.
+ Also, we gathered addresses tied to some form of identification, like usernames, from social networks and publicly available forums.
 Another outcome of this work is a tool, that uses the data mentioned above to help investigator to disclose transactions,
-addresses and identities related to online drug markets.
+bitcoin addresses and identities related to online drug markets.
+
+We managaed to partly fill our goals. We succesfully scraped data from cryptomarket and did an analysis.
+We scraped data about identities linked to bitcoin addresses and created a tool to visualize them.
+We were just partly succesfull with finding heuristics, that would cluster multiple bitcoin addresses belonging to the same owner.
 
 \section{Structure of thesis}
+XXX - mozna se zmeni jmena kapitol, jinak povidani stejne
 
-The following text describes individual chapters forming structure of this thesis.
-The chapter Related works give overview of work already done on similar topics and 
-how this work differ or extend the previous done research.
+The following text describes individual chapters of this thesis.
+Chapter Related works gives overview of works already done on similar topics. 
 
-The chapter Technology and terms gives quick introduction to bitcoin and blockchain, which is used for paying on crypto markets.
-Then it describes how the dark markets operate within dark web.
+Chapter Technology and terms starts with a quick introduction to bitcoin and blockchain,
+which is used for paying on crypto markets.
+It also descibes how cryptomarkets work and tools that are used by cryptomarkets' users and administrators.
 
-The chapter Methods and tools to get and analyze data describe the proccess of collecting the data from bitcoin blockchain,
-drug markets and pubicly available sites(Mainly forums and social networks). 
+The chapter Methods and tools describes the proccess of collecting and storing the data from bitcoin blockchain,
+drug markets and pubicly available forums and social networks. 
 
-The Deanonymization techniques chapter descibe heuristics and methods that are later used by the proof of concept application to detect 
+Deanonymization techniques chapter descibe heuristics and methods that are later used by the application to detect 
 addresses used by drug markets and link the users of drug markets to publicly found identities.
 
-The chapter Statistics of drug markets describes various statistics about drug markets, that were gathered during drug market website scraping.
-It contains two parts, the first is focused on statistics related to money, the second part is giving insight about non-money related statistics.
+Chapter Statistics of drug markets consists of various statistics about drug markets, that were gathered during drug market website scraping.
+It contains two parts, the first is focused on statistics related to cash flows, the second part is giving insight about non-money related statistics.
 
-POC application chapter describes the functionality, implementation and 
+Chapter called Application describes the functionality, implementation, usage and 
 possible future development of application for investigating bitcoin addresses, which was created as part of this thesis.
 
-Testing and verification of the created tool descibes the proccess by which the proof of concept application was tested and the results
-
-The last chapter Discussion is about achieving goals, problems of implementation and future work.
+Testing and verification is about the testing of the created application.
+Last chapter is discussion about achieved goals, problems of implementation and possible future improvements.
 
 \chapter{Related works}
-\section{Pairing blockchain transactions with public data}
-Multiple papers were published regarding analysis of blockchain graph. The \parencite{reid2013analysis} was published in 2013 and dealt with much smaller number of people using bitcoin and smaller transaction graph.
-Their analysis also focus on danonymization through multiple aspects of bitcoin protocol, while this thesis focus on deanonymization from transaction graph and public data.
-The \parencite{ron2013quantitative} focus on bringing interesting statistics about bitcoin transaction graph and track only really big(>50000 BTC)
-transactions on the network. The authors of this paper also had to deal with much smaller blockchain graph.
+\section{Blockchain analysis and linking bitcoin addresses}
 
-Similar work to this thesis was done by \parencite{fleder2015bitcoin}. This paper use data from bitcointalk, the most popular bitcoin forum. 
-They apply simple algorithm to group multiple bitcoin adresses belonging to one user together. Than they use the scraped data to show
-that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
+Multiple papers and tools were published regarding analysis of blockchain.
+Blockchain contains all bitcoin transactions and anyone can simply check,
+the source and destination addresses of every transaction in the system.
+It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
+ and every major bitcoin wallet (software, for recieving and sending bitcoins) do so.
+ It is therefore a big challenge to cluster addresses belonging to same user.
+ 
+The authors of first research article \parencite{reid2013analysis}
+ parsed blockchain files to create graph of bitcoin transactions, with vertices as transactions
+ and edges between them represented bitcoins flowing from one transaction to another.
+ They created so called user graph by clustering addresses belonging to same user.
+ They used simple heuristics, that the owner off all input addresses used
+ in a transaction must be the same. First version of this article  
+was published in 2011 and dealt with much smaller number of people using bitcoin and smaller transaction graph.
+Their analysis also focus on danonymization through multiple aspects of bitcoin protocol,
+while this thesis focus on deanonymization from transaction graph and public data.
+
+Androulaky \parencite{androulaki2013evaluating} performed clustering using two heuristics.
+The first one is the same as \parencite{reid2013analysis} did, that all inputs of transaction
+belongs to same user. The second heuristics is clustering some outputs of transaction with it inputs.
+Most transactions have two outputs, one is owned by the transaction recipent,
+the other one is called change. The change is output of transaction, that is owned by
+the sender. The change output is needed, because that the only way to split
+ bitcoin value of output is to use it as input for transaction.
+ If the user owns 3BTC in one output and need to transfer 1 BTC, it generates a transaction
+ with two outputs, one worth of 1 BTC with the recipent address and second output worth 2 BTC 
+ with the recipent address of sender. This way, sender can split his bitcoins for smaller transaction.
+ They also employed multiple clustering techniques based on behaviour of users.
+ They tested succes of their clustering techniques in their simulated bitcoin simulation
+ environment.
 
 Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
 and performed clustering to get graph of transaction between users.
 Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses.
 They tested the tool on few popular transactions related to seizure of silkroad marketplace.
+
+Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
+This paper use data from bitcointalk, the most popular bitcoin forum. 
+They apply simple algorithm to group multiple bitcoin adresses belonging to one user together.
+Than they use the scraped data to show
+that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
+ 
+Ron and Shamir \parencite{ron2013quantitative} focus on bringing
+interesting statistics about bitcoin transaction graph
+and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
+through transactions in the network.
+
+In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
+doesn't only passively scan blockchain, they actively send bitcoins to addresses of
+well known services to track their bitcoins in the following transactions executed by the service.
+They also used the same two heuristics for clustering of addresses
+as Androulaki. \parencite{androulaki2013evaluating}
+They concluded, that the network does not offer enought anonymity and large transactions can be traced.
 
 All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year. 
 My work is unique in that way, that it utilize much more sources of data, than the works previous mentioned. Also, the aim of this tool is to be able
@@ -573,4 +630,6 @@ Than marking the addresses from where the bitcoins were recieved as
 \chapter{Conclusion}
 
 Here you can insert the appendices of your thesis.gg
+
+\printbibliography
 \end{document}

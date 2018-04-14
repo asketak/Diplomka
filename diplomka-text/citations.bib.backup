@@ -17,14 +17,6 @@
   author={Nakamoto, Satoshi},
   year={2008}
 }
-@inproceedings{androulaki2013evaluating,
-  title={Evaluating user privacy in bitcoin},
-  author={Androulaki, Elli and Karame, Ghassan O and Roeschlin, Marc and Scherer, Tobias and Capkun, Srdjan},
-  booktitle={International Conference on Financial Cryptography and Data Security},
-  pages={34--51},
-  year={2013},
-  organization={Springer}
-}
 
 @inproceedings{meiklejohn2013fistful,
   title={A fistful of bitcoins: characterizing payments among men with no names},
@@ -80,7 +72,7 @@
   date      = {2011},
   title     = {Bank Crime Statistics (BCS)},
   subtitle  = {Federal Insured Financial Institutions, January 1, 2010 – December 31, 2010},
-  location  = {https://www.fbi.gov/stats$-$services/publications/bank$-$crime$-$statistics$-$2010/bank$-$crime$-$statistics$-$2010},
+  location  = {https://www.fbi.gov/stats-services/publications/bank-crime-statistics-2010/bank-crime-statistics-2010},
   langid    = {english}
 }
 
