@@ -61,23 +61,36 @@
     advisor       = {RNDr. Martin Stehlík},
     title         = {Darknet market analysis and user de-anonymization},
     TeXtitle      = {Darknet market analysis and user de-anonymization},
-    keywords      = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
-    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymization},
-    abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize publicly available data, which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to help investigators with collecting intelligence on entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or services.
+    keywords      = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
+n},
+    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
+n},
+    abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
+ which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to hel
+p investigators with collecting intelligence on entities related to these drug markets. Users and operators of these mar
+kets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is
+ often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or servic
+es.
     
     We scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit,
     blockchain.info...) and drug markets thereself using python.
     We stored all these data into AgensGraph database, which is a graph database based on PostgreSQL.
-    We created a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users,drug markets, social media and blockchain.
-    Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the nearest adresses that are mentioned in scraped websites. 
+    We created a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users
+,drug markets, social media and blockchain.
+    Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the n
+earest adresses that are mentioned in scraped websites. 
     
-    To test the efficiency of this tool, we created multiple profiles on these dark markets and performed multiple transactions to deposit and withdraw bitcoins. The tool identified these and these percent of transactions.
+    To test the efficiency of this tool, we created multiple profiles on these dark markets and performed multiple trans
+actions to deposit and withdraw bitcoins. The tool identified these and these percent of transactions.
     },
-    thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík Ph.D for guiding me and providing technical support for my work. 
+    thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík Ph.D for guiding me and providing technica
+l support for my work. 
     
     I would also like to thank Mgr. Jaroslav Šeděnka for his continuous stream of helpful comments and ideas.
     
-    Access to computing and storage facilities owned by parties and projects contributing to the National Grid Infrastructure MetaCentrum provided under the programme "Projects of Large Research, Development, and Innovations Infrastructures" (CESNET LM2015042), is greatly appreciated.},
+    Access to computing and storage facilities owned by parties and projects contributing to the National Grid Infrastru
+cture MetaCentrum provided under the programme "Projects of Large Research, Development, and Innovations Infrastructures
+" (CESNET LM2015042), is greatly appreciated.},
     bib           = citations.bib
 }
 
@@ -108,14 +121,18 @@
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
-The relative anonymity of internet offers an incentive for criminal parties to use internet as a tool for their activities.
+The relative anonymity of internet offers an incentive for criminal parties to use internet as a tool for their activiti
+es.
 Internet facilitated some forms of existing crimes (selling drugs, guns and
-counterfeits, running Ponzi schemes) and also enabled many new types of frauds like hacking, phishing, carding and identity theft.
+counterfeits, running Ponzi schemes) and also enabled many new types of frauds like hacking, phishing, carding and ident
+ity theft.
 
 Publicly available statistics show, that cyber criminals are much
  less likely to be discovered and persecuted.
- In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10}  % [https://www.fbi.gov/stats-services/publications/bank-crime-statistics-2010/bank-crime-statistics-2010]
- FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber}  % [https://pdf.ic3.gov/2010_IC3Report.pdf]
+ In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10}  % [htt
+ps://www.fbi.gov/stats-services/publications/bank-crime-statistics-2010/bank-crime-statistics-2010]
+ FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber}  % 
+[https://pdf.ic3.gov/2010_IC3Report.pdf]
 Criminals value their anonymity very high and use various means to prevent them from being caught by police forces.
 
 Big problem for criminals was getting the money they got from criminal activity to their possession,
@@ -126,10 +143,12 @@ Also, it was hard for two anonymous entities engaging in criminal activity to tr
 
 For bitcoin, there is no central authority requiring bitcoin address
 (bitcoin equivalent of bank account number) to be linked to person's identity and so 
-criminals can use their anonymous connection to internet to both recieve and send bitcoins without disclosing their identity.
+criminals can use their anonymous connection to internet to both recieve and send bitcoins without disclosing their iden
+tity.
 This property of bitcoin and other cryptocurrencies gave rise to cryptomarkets.
  Cryptomarkets are online marketplaces accesible via TOR network, which offers illegal goods and services.
-Hovewer, all bitcoin transactions are publicly available and so each bitcoin can be tracked through the whole transaction history.
+Hovewer, all bitcoin transactions are publicly available and so each bitcoin can be tracked through the whole transactio
+n history.
 
 We scraped and examined data from Valhalla market,
  one of the most popular and well estabilished currently (February 2018) operating drug markets,
@@ -145,13 +164,16 @@ The main goal of this thesis is to analyze Valhalla drug market
 and try multiple approaches to deanonymize users related to this drug market.
 The main results of this work are gathered data from cryptomarket and
  showing interesting statistics about the whole market as well as actors operating there.
- Also, we gathered addresses tied to some form of identification, like usernames, from social networks and publicly available forums.
-Another outcome of this work is a tool, that uses the data mentioned above to help investigator to disclose transactions,
+ Also, we gathered addresses tied to some form of identification, like usernames, from social networks and publicly avai
+lable forums.
+Another outcome of this work is a tool, that uses the data mentioned above to help investigator to disclose transactions
+,
 bitcoin addresses and identities related to online drug markets.
 
 We managaed to partly fill our goals. We succesfully scraped data from cryptomarket and did an analysis.
 We scraped data about identities linked to bitcoin addresses and created a tool to visualize them.
-We were just partly succesfull with finding heuristics, that would cluster multiple bitcoin addresses belonging to the same owner.
+We were just partly succesfull with finding heuristics, that would cluster multiple bitcoin addresses belonging to the s
+ame owner.
 
 \section{Structure of thesis}
 XXX - mozna se zmeni jmena kapitol, jinak povidani stejne
@@ -169,11 +191,14 @@ drug markets and pubicly available forums and social networks.
 Deanonymization techniques chapter descibe heuristics and methods that are later used by the application to detect 
 addresses used by drug markets and link the users of drug markets to publicly found identities.
 
-Chapter Statistics of drug markets consists of various statistics about drug markets, that were gathered during drug market website scraping.
-It contains two parts, the first is focused on statistics related to cash flows, the second part is giving insight about non-money related statistics.
+Chapter Statistics of drug markets consists of various statistics about drug markets, that were gathered during drug mar
+ket website scraping.
+It contains two parts, the first is focused on statistics related to cash flows, the second part is giving insight about
+ non-money related statistics.
 
 Chapter called Application describes the functionality, implementation, usage and 
-possible future development of application for investigating bitcoin addresses, which was created as part of this thesis.
+possible future development of application for investigating bitcoin addresses, which was created as part of this thesis
+.
 
 Testing and verification is about the testing of the created application.
 Last chapter is discussion about achieved goals, problems of implementation and possible future improvements.
@@ -192,7 +217,8 @@ analysis of their cashflow and improve anonymity of users and administrators.
 
 \section{Bitcoin and blockchain}
 
-Bitcoin is  the first decentralized peer to peer cryptocurrency, created by anonymous author(s) known by pseudonym Satoshi Nakamoto in 2009.
+Bitcoin is  the first decentralized peer to peer cryptocurrency, created by anonymous author(s) known by pseudonym Satos
+hi Nakamoto in 2009.
 Bitcoin transactions are not verified by central authority, they are  
 processed by peer to peer network of bitcoin nodes instead. 
 The entire history of transactions is stored in distributed public ledger called blockchain.
@@ -210,8 +236,10 @@ Bitcoin address is string of 26 to 35 alphanumerical characters.
 All the transactions of every address are stored in blockchain, the balance and all transactions related to address are
 publicly available.
 In order to not see the whole history of transactions of address's owner,
-the bitcoin wallets generate new bitcoin address for each new incoming transactions and when spending bitcoins, it use one or more of the addresses the wallet generated.
-Therefore, when pairing the address to identity, we can directly obtain just the history of transactions related to the address,
+the bitcoin wallets generate new bitcoin address for each new incoming transactions and when spending bitcoins, it use o
+ne or more of the addresses the wallet generated.
+Therefore, when pairing the address to identity, we can directly obtain just the history of transactions related to the 
+address,
 but can not get all transactions and balance of the user, as he is likely to own multiple bitcoin addresses.
 
 \subsection{Mining}
@@ -220,13 +248,15 @@ End users use bitcoin wallets to recieve and send bitcoins.
 Miners are verifying transactions. When the transactions is send from the address, 
 it is signed with private key associated with that address and send to the neares bitcoin node.
 The transaction is immidiately broadcasted to other bitcoin nodes.
-Miners are running bitcoin mining software, which enables them to create a new block of transactions, add it to blockchain
+Miners are running bitcoin mining software, which enables them to create a new block of transactions, add it to blockcha
+in
 and broadcast new, longer version, of blockchain to other nodes.
 Finding new block of transactions is a hard problem from computanional perspective.
 The difficulty of algorithm is adjusted every X block, so that new block is generated roughly every 10 minutes.
 
 When miner finds new block, he can claim all of the fees of transactions included in that block,
-also he is able to create a special transaction called coinbase transaction, that sends bitcoins from nowhere to his address.
+also he is able to create a special transaction called coinbase transaction, that sends bitcoins from nowhere to his add
+ress.
 By these coinbase transactions, new bitcoins are emmitted into network.
 
 \subsection{Decentralisation}
@@ -238,27 +268,34 @@ Since anyone can run bitcoin node or mine bitcoins, and every node
 Tor is an free open source software, that provides access to tor network. Tor network is a network of TOR nodes.
 The goal of TOR project is to provide it's users encrypted access to internet in order to to prevent third parties
 from evesdropping and analysis of the transmitted data.
-The communication of the user's computer with network is encrypted and rerouted through multiple TOR nodes using onion routing technology.
-The usage of TOR can be detected by third party, but the third party can not decryptsa user's data, that are transmitted via tor.
+The communication of the user's computer with network is encrypted and rerouted through multiple TOR nodes using onion r
+outing technology.
+The usage of TOR can be detected by third party, but the third party can not decryptsa user's data, that are transmitted
+ via tor.
 Some websites restrict access from TOR, due to many risks involved.
 
 Communication between browser and webserver is usually done via encrypted HTTPS protocol.
-This protocol use assymetric cryptography. The webserver and browser exchange their public keys at start of communication
+This protocol use assymetric cryptography. The webserver and browser exchange their public keys at start of communicatio
+n
 and encrypt the data using these keys. Decrypting the data is possible only by corresponding private keys,
 which the browser and webserver keep locally. This protocol is suspectible to man in the middle attacks.
 If the attacker has control over the transmission from the start of communication, he can place himself in the middle
  of communication and act as webserver for user and as a user for webserver. To prevent these types of attact
  a certification authority is needed, which is a institution, that sign public keys, belonging to webserver.
- When browser recieves the public key, it automatically checks, if it is signed by any authority from it's list of authorities
+ When browser recieves the public key, it automatically checks, if it is signed by any authority from it's list of autho
+rities
  and if not, it displays warning or error message.
  
 The HTTPS protocol encrypts data, but doesn't hide the identity of the user from webserver,
  and also the internet provider can see, where is the user connecting to.
- In TOR, the user's identity is hidden from webserver, and internet provider can only see, that user is connecting to TOR,
+ In TOR, the user's identity is hidden from webserver, and internet provider can only see, that user is connecting to TO
+R,
  but can not see where is the destination of the data that are transmitted via TOR.
- Tor uses Onion routing technology. When user visits website, there TOR software picks randomly few TOR nodes from the network
+ Tor uses Onion routing technology. When user visits website, there TOR software picks randomly few TOR nodes from the n
+etwork
  and estabilish a circuit, as we can see on \ref{TOR routing schema}. 
- The packet of data is encrypted with the each public key of the node in circuit, starting from last node as on \ref{TOR packed encryption schema}.
+ The packet of data is encrypted with the each public key of the node in circuit, starting from last node as on \ref{TOR
+ packed encryption schema}.
  Each node of the network only knows the previous node he recieved the data from and it gets the address 
  of next node by decrypting the packet and reading the added metadata.
  
@@ -284,9 +321,11 @@ PGP was developed in 1991 as open source, with the intention
 to provide an open widely used standart for encrypted communication.
 Nowadays, PGP program is not open source any more, but the standart is used by open source GPG software.
 
-PGP uses public key cryptography, unlike symmetric cryptography, pgp uses two different keys for encrypting and decrypting.
+PGP uses public key cryptography, unlike symmetric cryptography, pgp uses two different keys for encrypting and decrypti
+ng.
 The user generate a pair of keys, public key for encrypting mails sent to them and private key, which the user
- keeps for himself and use for decrypting messages encrypted with associated public key. The user also publish his public
+ keeps for himself and use for decrypting messages encrypted with associated public key. The user also publish his publi
+c
  key, so other users can send him necrypted messages.
 
 PGP is used in the context of online drug markets as a means of communication between vendors and customers.
@@ -308,20 +347,25 @@ Escrow means, that the money transfered between two actors(vendor and seller) ar
  Disputes are resolved by the operator of the cryptomarket.
 
  Using the Escrow service is usually required.
- Some cryptomarkets allow vendors with long history of satisfied customers to bypass escrow service and recieve money immidiately.
+ Some cryptomarkets allow vendors with long history of satisfied customers to bypass escrow service and recieve money im
+midiately.
  
 \subsection{Tumbler}
 
 Bitcoin transactions are publicly available, but it is not easy to identify their owners.
 It might seem, that bitcoin transactions are anonymoous, but when user send bitcoins to
 someone(exchange) who knows their identity, the reciever can pair the bitcoin address the bitcoins came from
-to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses are still 
-suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know.
+to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses a
+re still 
+suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know
+.
 
-Bitcoin Tumblers exist in order to prevent such analysis. User sends bitcoins to the tumbler service, the service mix his bitcoins
+Bitcoin Tumblers exist in order to prevent such analysis. User sends bitcoins to the tumbler service, the service mix hi
+s bitcoins
 with bitcoins of other users by performing multiple transactions between it's bitcoin addresses.
 The structure of these transactions differs for different tumbler services.
-User generate new bitcoin address with no tie to his previous addresses and bitcoins are recieved from the service to this address.
+User generate new bitcoin address with no tie to his previous addresses and bitcoins are recieved from the service to th
+is address.
  There also exists peer-to-peer tumblers(CoinJoin,SharedCoin,coinswap),
 that enable multiple users to directly create transactions to mix bitcoins among themselves.
 The transaction can be performed multiple types with different actors.
@@ -371,9 +415,11 @@ the sender. The change output is needed, because that the only way to split
  They tested succes of their clustering techniques in their simulated bitcoin 
  environment.
 
-Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
+Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to
+ the database
 and performed clustering to get graph of transaction between users.
-Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses.
+Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-ch
+ain data and identities to bitcoin adresses.
 They tested the tool on few popular transactions related to seizure of silkroad marketplace.
 
 Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
@@ -402,8 +448,10 @@ They also used the same two heuristics for clustering addresses
 as Androulaki. \parencite{androulaki2013evaluating}
 They concluded, that the network does not offer enought anonymity and large transactions can be traced.
 
-All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year. 
-My work is unique in that way, that it utilize much more sources of data than the works previously mentioned. Also, the aim of this tool is to be able
+All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew expo
+nentionally over the last year. 
+My work is unique in that way, that it utilize much more sources of data than the works previously mentioned. Also, the 
+aim of this tool is to be able
 to identify even just regular users of drug markets, not just big and important transactions.
 
 \section{Behaviour of drug markets users and operators}
@@ -422,7 +470,8 @@ and criminology perspective and performing qualitative analysis.
 
 There are only few articles focusing on statistically describing fully operating drug market and it's vendors
 by collecting and analyzing data from cryptomarket webpage. Short description of works like that follows.
-Aldridge \parencite{aldridge2017delivery} scraped Silkroad in September 2013, the most popular cryptomarket of that time.
+Aldridge \parencite{aldridge2017delivery} scraped Silkroad in September 2013, the most popular cryptomarket of that time
+.
 He focus on how the vendors and buyers percieve risk of arrest and attempt to limit them.
 He concludes that users of cryptomarket are aware of the risks both related to their physical and online activity
 and actively reduce their risk.
@@ -436,7 +485,8 @@ Broseus \parencite{broseus2016studying} restricted his reseach to vendors shippi
 and track their activity through multiple markets. His findings include, that same vendors
 use same usernames and sometimes PGP keys on multiple marketplace, because reputation
 is highly valued in these cryptomarkets and so vendors try to keep it when moving to new marketplace.
-Also by his findings, some vendors are highly specialized in selling on category of drugs, while others offer a wide range of drugs.
+Also by his findings, some vendors are highly specialized in selling on category of drugs, while others offer a wide ran
+ge of drugs.
 
 Article by Doliver \parencite{dolliver2016characteristics} is most similar to this work.
 They scraped and analyzed two popular cryptomarkets, agora nad evolution and quantitatively asses
@@ -454,31 +504,45 @@ the characteristics of vendors from both markets, focusing on the difference
 \chapter{Methods and tools to get and analyze data}
 
 \section{Walhalla markets web scraping and data collection}
-We scraped data from dream market and valhalla, 2 big popular drug markets available via TOR. Wescraped the vendor nicknames, buyer reviews and the sortiment that each vendor sells.
-We tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain. Wesent 0.05 bitcoins to both markets,
-bought a virtually deliverable legally service(link to secret forum) and checked, if the bitcoins that I have sent to deposit adress left.
-For both markets, there was no transaction happening for days after the transaction was done. This means, that markets don't transfer bitcoins,
-when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug market account,
+We scraped data from dream market and valhalla, 2 big popular drug markets available via TOR. Wescraped the vendor nickn
+ames, buyer reviews and the sortiment that each vendor sells.
+We tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain. Wese
+nt 0.05 bitcoins to both markets,
+bought a virtually deliverable legally service(link to secret forum) and checked, if the bitcoins that I have sent to de
+posit adress left.
+For both markets, there was no transaction happening for days after the transaction was done. This means, that markets d
+on't transfer bitcoins,
+when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug mar
+ket account,
 withdraw bitcoins and money laundering bitcoins.
-We made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfered and where the withdrawn bitcoins originated.
+We made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfere
+d and where the withdrawn bitcoins originated.
 These deposits and withdrawals are used to test the resulting application
-We scraped 158 vendor PGP keys from dream market and 70 PGP keys from walhalla. Wetested these keys, if they are vulnerable to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
-All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of thesearches for user-Ids(both nicknames and mail addresses) returned any results.
+We scraped 158 vendor PGP keys from dream market and 70 PGP keys from walhalla. Wetested these keys, if they are vulnera
+ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
+All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
+hesearches for user-Ids(both nicknames and mail addresses) returned any results.
 
 We thought that metadata from the photos of drugs, which are available on the drug markets might be useful.
 We downloaded hundreds of pictures both from walhalla and dream market.
 Only metadata directly dependending on image content(like amount of red, green and blue colors) differ,
-metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software version) were the same.
+metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software ve
+rsion) were the same.
 The software version contained line: $ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org$
 We created vendor account on both markets and uploaded an image with custom made metadata to see,
 if the metadata were scraped and same version of software version appears. It happened so for both markets,
-therefore we believe, that markets automatically scrape metadata from uploaded images in order to protect privacy of the users.
+therefore we believe, that markets automatically scrape metadata from uploaded images in order to protect privacy of the
+ users.
 
 \section{Drug market server fingerprinting}
-We tried to scan ports of drug markets servers and fingerprint their webserver, in order to find any vectors of further information gathering.
-We scanned both drug markets servers using netcat, finding, that the only opened port is number 443(HTTPS), which is used by webserver.
-We used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP requests and comparing the webserver output with the database of responses by different webservers.
-The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver.
+We tried to scan ports of drug markets servers and fingerprint their webserver, in order to find any vectors of further 
+information gathering.
+We scanned both drug markets servers using netcat, finding, that the only opened port is number 443(HTTPS), which is use
+d by webserver.
+We used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP reques
+ts and comparing the webserver output with the database of responses by different webservers.
+The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver
+.
 The results of port scan and webserver printing doesn't indicate any way how to gather data about drug markets servers.
 
 \section{Walhalla cryptomarket scraping}
@@ -495,6 +559,7 @@ accesing them without being logged in.
 We wrote a small script in bash to iterate through all of the listings and download them using wget command line tool.
 After downloading all the pages of products, we parsed the downloaded files using python and common linux command 
 line tools(cat,grep,cut,sed). We have not used python HTML parsing libraries, like beautifulsoup, for parsing downloaded
+
 webpages , as the HTML elements
 are not named in any way, so change 
 From the listing, we parsed vendor's nickname, the subcategory where the listing was placed and title of listing.
@@ -512,18 +577,25 @@ The exact commands to generate these figures and plots can be found in attachmen
 
 
 \section{Publicly available data scraping}
-In order to have some bitcoind addresses and bitcoins linked to identities, We searched internet for pages, where are bitcoin adresses tied to real or virtual identities.
+In order to have some bitcoind addresses and bitcoins linked to identities, We searched internet for pages, where are bi
+tcoin adresses tied to real or virtual identities.
 The interesting sites that I decided to scrape were bitcointalk forum, bitcoin-OTC, reddit, twitter, bitcoin.info.
-The bitcointalk and bitcoin-OTC are the most popular internet forums related to cryptocurrencies. The script bitcointalk-scraper.py visits profile pages of all profiles on both forums (even those without any posts)
+The bitcointalk and bitcoin-OTC are the most popular internet forums related to cryptocurrencies. The script bitcointalk
+-scraper.py visits profile pages of all profiles on both forums (even those without any posts)
  and matched with bitcoin address regular expression.
  
-The reddit and twitter were scraped by twitter-reddit-scraper.py. The script contain several hardcoded phrases like "Donate bitcoin" and "bitcoind address" and scrapes the results of search page.
+The reddit and twitter were scraped by twitter-reddit-scraper.py. The script contain several hardcoded phrases like "Don
+ate bitcoin" and "bitcoind address" and scrapes the results of search page.
 Bitcoin.info is a webpage that serves primarly as bitcoin blockchain explorer, secundary,
-it gathers multiple statistics about bitcoin blockchain and also offers for third parties to have their bitcoin address and identity listed on their webpage.
-Some of these identities are verifies by signaturing custom made message with the bitcoin address associated private key.
+it gathers multiple statistics about bitcoin blockchain and also offers for third parties to have their bitcoin address 
+and identity listed on their webpage.
+Some of these identities are verifies by signaturing custom made message with the bitcoin address associated private key
+.
 
-We scraped data with the intention to link identities to bitcoin addresses. The data scraped from public sources are rows with thre collums: bitcoin addres, URL where was the addres scraped and username of the associated identity.
-All data scraped from the public sources(bitcointalk, reddit,twitter, bitcoin-OTC) are imported to the same neo4j graph database as metadata belonging to the nodes representing given address.
+We scraped data with the intention to link identities to bitcoin addresses. The data scraped from public sources are row
+s with thre collums: bitcoin addres, URL where was the addres scraped and username of the associated identity.
+All data scraped from the public sources(bitcointalk, reddit,twitter, bitcoin-OTC) are imported to the same neo4j graph 
+database as metadata belonging to the nodes representing given address.
 
 \section{Detecting wallets owned by drug markets}
 \section{Using own transactions to get market wallets}
@@ -611,21 +683,27 @@ asdf
 
 This chapter describes the application for investigating bitcoin address.
 The application consists of three parts.
-The scraping module, that downloads bitcoin blockchain and also scrape data from publicly available sites mention in section XXX.
-The computanional module, which imports data to the database and also transform data. so that searching in these data would be fast.
+The scraping module, that downloads bitcoin blockchain and also scrape data from publicly available sites mention in sec
+tion XXX.
+The computanional module, which imports data to the database and also transform data. so that searching in these data wo
+uld be fast.
 The scraping, import and computanional modules are available for linux only.
 The GUI written in HTML/JS/CSS, that is connecting to neo4j database REST endpoint and provides visualisation of data.
-The GUI can be given a configuration string, to connect to neo4j REST API endpoint, so the gui can be viewed in broser from any device, as long as 
+The GUI can be given a configuration string, to connect to neo4j REST API endpoint, so the gui can be viewed in broser f
+rom any device, as long as 
 the server with neo4j data is reachable from that device.
 
 
 \section{Retrieving,storing and analyzing blockchain data}
 In order to create a tool, that will effectively search and visualize blockchain data,
 we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
-We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind store blockchain in multiple *.blk files.
-These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser to parse these files and create csv files of transactions, outputs and adresses.
+We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind st
+ore blockchain in multiple *.blk files.
+These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser 
+to parse these files and create csv files of transactions, outputs and adresses.
 
-Than we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to compute statistics and heuristics.
+Than we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to comp
+ute statistics and heuristics.
 All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
 \begin{figure}[!htb]
     \centering
@@ -637,8 +715,10 @@ All entities in the \ref{neo4jschema} are represented as graph nodes, the relati
 \section{Implementation}
 
 The importing module is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
-The importing module take two parameters, the directory of .blk files, which store blockchain data and directory for creating neo4j graph database.
-The import module firstly parses the .blk files and save blockchain as multiple .csv files. This intermidiary step is useful for debugging and also simplifies importing to neo4j database.
+The importing module take two parameters, the directory of .blk files, which store blockchain data and directory for cre
+ating neo4j graph database.
+The import module firstly parses the .blk files and save blockchain as multiple .csv files. This intermidiary step is us
+eful for debugging and also simplifies importing to neo4j database.
 
 \begin{figure}[!htb]
     \centering
@@ -647,7 +727,8 @@ The import module firstly parses the .blk files and save blockchain as multiple 
     \label{application_architecture}
 \end{figure}
 
-The next importing script is scrape\_identities.py script, which crawl popular forums and multiple websites and creates identities.csv.
+The next importing script is scrape\_identities.py script, which crawl popular forums and multiple websites and creates 
+identities.csv.
 File identities.csv contains 3 collumns.
 \begin{itemize}
   \item Address - bitcoin address the identity is associated with
@@ -655,7 +736,8 @@ File identities.csv contains 3 collumns.
   \item URL - Url where the Identity and Address were scraped
 \end{itemize}
 
-If the user has his own data about the owners of different bitcoin addresses, he can import it through the web GUI later.
+If the user has his own data about the owners of different bitcoin addresses, he can import it through the web GUI later
+.
 
 
 \section{Usage}
