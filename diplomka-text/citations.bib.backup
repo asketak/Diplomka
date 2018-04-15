@@ -17,6 +17,16 @@
   author={Nakamoto, Satoshi},
   year={2008}
 }
+
+@inproceedings{ron2014did,
+  title={How did dread pirate roberts acquire and protect his bitcoin wealth?},
+  author={Ron, Dorit and Shamir, Adi},
+  booktitle={International Conference on Financial Cryptography and Data Security},
+  pages={3--15},
+  year={2014},
+  organization={Springer}
+}
+
 @inproceedings{androulaki2013evaluating,
   title={Evaluating user privacy in bitcoin},
   author={Androulaki, Elli and Karame, Ghassan O and Roeschlin, Marc and Scherer, Tobias and Capkun, Srdjan},
@@ -74,7 +84,71 @@
   pages={281--310},
   year={2015}
 }
+@article{walsh2011drugs,
+  title={Drugs, the Internet and change},
+  author={Walsh, Charlotte},
+  journal={Journal of psychoactive drugs},
+  volume={43},
+  number={1},
+  pages={55--63},
+  year={2011},
+  publisher={Taylor \& Francis}
+}
+@article{barratt2014use,
+  title={Use of Silk Road, the online drug marketplace, in the United Kingdom, Australia and the United States},
+  author={Barratt, Monica J and Ferris, Jason A and Winstock, Adam R},
+  journal={Addiction},
+  volume={109},
+  number={5},
+  pages={774--783},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+@article{van2013silk,
+  title={‘Silk Road’, the virtual drug marketplace: A single case study of user experiences},
+  author={Van Hout, Marie Claire and Bingham, Tim},
+  journal={International Journal of Drug Policy},
+  volume={24},
+  number={5},
+  pages={385--391},
+  year={2013},
+  publisher={Elsevier}
+}
 
+@article{dolliver2015criminogenic,
+  title={Criminogenic Asymmetries in Cyberspace: A Comparative Analysis of Two Tor Marketplaces},
+  author={Dolliver, Diana S and Love, Katherine L},
+  journal={Journal of Globalization Studies},
+  volume={6},
+  number={2},
+  pages={75--96},
+  year={2015},
+  publisher={Общество с ограниченной ответственностью" Издательство" Учитель"}
+}
+
+@inproceedings{christin2013traveling,
+  title={Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace},
+  author={Christin, Nicolas},
+  booktitle={Proceedings of the 22nd international conference on World Wide Web},
+  pages={213--224},
+  year={2013},
+  organization={ACM}
+}
+@article{barratt2012silk,
+  title={Silk Road: eBay for drugs},
+  author={Barratt, Monica J},
+  journal={Addiction},
+  volume={107},
+  number={3},
+  pages={683--683},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+@article{aldridge2014not,
+  title={Not an'Ebay for Drugs': the Cryptomarket'Silk Road'as a paradigm shifting criminal innovation},
+  author={Aldridge, Judith and D{\'e}cary-H{\'e}tu, David},
+  year={2014}
+}
 @BOOK{fbi10,
   publisher    = {Federal bureau of investigation},
   date      = {2011},

@@ -178,85 +178,7 @@ possible future development of application for investigating bitcoin addresses, 
 Testing and verification is about the testing of the created application.
 Last chapter is discussion about achieved goals, problems of implementation and possible future improvements.
 
-\chapter{Related works}
-\section{Blockchain analysis and linking bitcoin addresses}
-
-Multiple papers and tools were published regarding analysis of blockchain.
-Blockchain contains all bitcoin transactions and anyone can simply check,
-the source and destination addresses of every transaction in the system.
-It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
- and every major bitcoin wallet (software, for recieving and sending bitcoins) do so.
- It is therefore a big challenge to cluster addresses belonging to same user.
- 
-The authors of first research article \parencite{reid2013analysis}
- parsed blockchain files to create graph of bitcoin transactions, with vertices as transactions
- and edges between them represented bitcoins flowing from one transaction to another.
- They created so called user graph by clustering addresses belonging to same user.
- They used simple heuristics, that the owner off all input addresses used
- in a transaction must be the same. First version of this article  
-was published in 2011 and dealt with much smaller number of people using bitcoin and smaller transaction graph.
-Their analysis also focus on danonymization through multiple aspects of bitcoin protocol,
-while this thesis focus on deanonymization from transaction graph and public data.
-
-Androulaky \parencite{androulaki2013evaluating} performed clustering using two heuristics.
-The first one is the same as \parencite{reid2013analysis} did, that all inputs of transaction
-belongs to same user. The second heuristics is clustering some outputs of transaction with it inputs.
-Most transactions have two outputs, one is owned by the transaction recipent,
-the other one is called change. The change is output of transaction, that is owned by
-the sender. The change output is needed, because that the only way to split
- bitcoin value of output is to use it as input for transaction.
- If the user owns 3BTC in one output and need to transfer 1 BTC, it generates a transaction
- with two outputs, one worth of 1 BTC with the recipent address and second output worth 2 BTC 
- with the recipent address of sender. This way, sender can split his bitcoins for smaller transaction.
- They also employed multiple clustering techniques based on behaviour of users.
- They tested succes of their clustering techniques in their simulated bitcoin 
- environment.
-
-Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
-and performed clustering to get graph of transaction between users.
-Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses.
-They tested the tool on few popular transactions related to seizure of silkroad marketplace.
-
-Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
-This paper use data from bitcointalk, the most popular bitcoin forum. 
-They apply simple algorithm to group multiple bitcoin adresses belonging to one user together.
-Than they use the scraped data to show
-that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
- 
-Ron and Shamir \parencite{ron2013quantitative} focus on bringing
-interesting statistics about bitcoin transaction graph
-and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
-through transactions in the network.
-In their other study \parencite{ron2014did}, they analyzed transactions performed by Ross Ulbricht,
-who was administrator of Silkroad marketplace.
-The FBI published their bitcoin address, which they used to collect all seized bitcoins from Ross Ulbrict.
-They took the size and frequency of transactions related to the seized bitcoins prior to the seizure and compared 
-it to the estimated income of Silkroad. They found discrepencies between the
-relatively stable income of Silkroad marketplace and unsstable balances in bitcoin addresses
-that were seized by FBI. They conclude, that FBI seized around 22\% of Ross Ulbrich bitcoins
-and found addresses that posses a some of these bitcoins, which has not been used since Ross' arrest.
-
-In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
-doesn't only passively scan blockchain, they actively send bitcoins to addresses of
-well known services to track their bitcoins in the following transactions executed by the service.
-They also used the same two heuristics for clustering of addresses
-as Androulaki. \parencite{androulaki2013evaluating}
-They concluded, that the network does not offer enought anonymity and large transactions can be traced.
-
-All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year. 
-My work is unique in that way, that it utilize much more sources of data, than the works previous mentioned. Also, the aim of this tool is to be able
-to identify even just regular users of drug markets, not just big and important transactions.
-
-\section{Behaviour of drug markets users and operators}
-
-Papers describing the drug market users,vendors and the dynamic of
-the online drug marketplace economy mostly focused on data related to silkroad marketplace seizure. 
-Few authors described, how is the whole drug trafficking crime changing overtime with the coming of the new technologies.
-There are only few articles focusing on describing the economy of fully operating drug market at the time of data collection.
-In this work, we bring analysis of the micro-economy of two fully operating drug markets and present interesting statistics about vendors,
-size and frequency of the deals, sortiment and availability.
-
-\chapter{Related terms}
+\chapter{Related terminology}
 
 In this chapter, I explain the terms and technology related to online drug markets.
 The online drug markets use several technologies, that are crucial for their anonymous operation.
@@ -270,9 +192,9 @@ analysis of their cashflow and improve anonymity of users and administrators.
 
 \section{Bitcoin and blockchain}
 
-Bitcoin is  the first decentralized peer2peer cryptocurrency, created by anonymous author(s) known by pseudonym Satoshi Nakamoto in 2009.
+Bitcoin is  the first decentralized peer to peer cryptocurrency, created by anonymous author(s) known by pseudonym Satoshi Nakamoto in 2009.
 Bitcoin transactions are not verified by central authority, they are  
-processed by peer2peer network of bitcoin nodes instead. 
+processed by peer to peer network of bitcoin nodes instead. 
 The entire history of transactions is stored in distributed public ledger called blockchain.
 
 The nodes collect transactions broadcasted by users and send them to other nodes.
@@ -415,23 +337,123 @@ speed of sending the goods and unsuspiciousness of packaging.
 
 \subsection{Valhalla cryptomarket}
 
+\chapter{Related works}
+\section{Blockchain analysis and linking bitcoin addresses}
+
+Multiple papers and tools were published regarding analysis of blockchain.
+Blockchain contains all bitcoin transactions and anyone can simply check,
+the source and destination addresses of every transaction in the system.
+It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
+ and every major bitcoin wallet (software, for recieving and sending bitcoins) do so.
+ It is therefore a big challenge to cluster addresses belonging to same user.
+ 
+The authors of first research article \parencite{reid2013analysis}
+ parsed blockchain files to create graph of bitcoin transactions, with vertices as transactions
+ and edges between them represented bitcoins flowing from one transaction to another.
+ They created so called user graph by clustering addresses belonging to same user.
+ They used simple heuristics, that the owner off all input addresses used
+ in a transaction must be the same. First version of this article  
+was published in 2011 and dealt with much smaller number of people using bitcoin and smaller transaction graph.
+Their analysis also focus on danonymization through multiple aspects of bitcoin protocol,
+while this thesis focus on deanonymization from transaction graph and public data.
+
+Androulaky \parencite{androulaki2013evaluating} performed clustering using two heuristics.
+The first one is the same as \parencite{reid2013analysis} did, that all inputs of transaction
+belongs to same user. The second heuristics is clustering some outputs of transaction with it inputs.
+Most transactions have two outputs, one is owned by the transaction recipent,
+the other one is called change. The change is output of transaction, that is owned by
+the sender. The change output is needed, because that the only way to split
+ bitcoin value of output is to use it as input for transaction.
+ If the user owns 3BTC in one output and need to transfer 1 BTC, it generates a transaction
+ with two outputs, one worth of 1 BTC with the recipent address and second output worth 2 BTC 
+ with the recipent address of sender. This way, sender can split his bitcoins for smaller transaction.
+ They also employed multiple clustering techniques based on behaviour of users.
+ They tested succes of their clustering techniques in their simulated bitcoin 
+ environment.
+
+Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to the database
+and performed clustering to get graph of transaction between users.
+Than they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-chain data and identities to bitcoin adresses.
+They tested the tool on few popular transactions related to seizure of silkroad marketplace.
+
+Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
+This paper use data from bitcointalk, the most popular bitcoin forum. 
+They apply simple algorithm to group multiple bitcoin adresses belonging to one user together.
+Than they use the scraped data to show
+that some of the bitcointalk users were using silkroad marketplace or other popular services accepting bitcoin.
+ 
+Ron and Shamir \parencite{ron2013quantitative} focus on bringing
+interesting statistics about bitcoin transaction graph
+and provided a detailed analysis of really big bitcoin movements ( more than 5000 BTC) 
+through transactions in the network.
+In their other study \parencite{ron2014did}, they analyzed transactions performed by Ross Ulbricht,
+who was administrator of Silkroad marketplace.
+The FBI published their bitcoin address, which they used to collect all seized bitcoins from Ross Ulbrict.
+They took the size and frequency of transactions related to the seized bitcoins prior to the seizure and compared 
+it to the estimated income of Silkroad. They found discrepencies between the
+relatively stable income of Silkroad marketplace and unsstable balances in bitcoin addresses
+that were seized by FBI. They conclude, that FBI seized around 22\% of Ross Ulbrich bitcoins
+and found addresses that posses a some of these bitcoins, which has not been used since Ross' arrest.
+
+In contrast to previously mentioned papers, Meiklejohn \parencite{meiklejohn2013fistful} 
+doesn't only passively scan blockchain, they actively send bitcoins to addresses of
+well known services to track their bitcoins in the following transactions executed by the service.
+They also used the same two heuristics for clustering addresses
+as Androulaki. \parencite{androulaki2013evaluating}
+They concluded, that the network does not offer enought anonymity and large transactions can be traced.
+
+All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentionally over the last year. 
+My work is unique in that way, that it utilize much more sources of data than the works previously mentioned. Also, the aim of this tool is to be able
+to identify even just regular users of drug markets, not just big and important transactions.
+
+\section{Behaviour of drug markets users and operators}
+
+Emerging cryptomarkets brought attention of scientific community
+and lots of articles have been published related to the phenomena of drug trafficking via internet.
+Most of these papers were investigating the topic from the social
+and criminology perspective and performing qualitative analysis.
+\parencite{aldridge2014not}
+\parencite{barratt2014use}
+\parencite{christin2013traveling}
+\parencite{dolliver2015criminogenic}
+\parencite{van2013silk}
+\parencite{walsh2011drugs}
+\parencite{martin2014lost}
+
+There are only few articles focusing on statistically describing fully operating drug market and it's vendors
+by collecting and analyzing data from cryptomarket webpage. Short description of works like that follows.
+Aldridge \parencite{aldridge2017delivery} scraped Silkroad in September 2013, the most popular cryptomarket of that time.
+He focus on how the vendors and buyers percieve risk of arrest and attempt to limit them.
+He concludes that users of cryptomarket are aware of the risks both related to their physical and online activity
+and actively reduce their risk.
+
+Decary \parencite{decary2017repeat} focus on answering the question, how loyal are buyers 
+on cryptomarkets to vendors. It seems, that popular vendors succesfully build their loyal
+customer base. These findings make sense, given the natural health risk srelated to using drugs,
+customers prefer vendors with high reputation and trust.
+
+Broseus \parencite{broseus2016studying} restricted his reseach to vendors shipping from Canada
+and track their activity through multiple markets. His findings include, that same vendors
+use same usernames and sometimes PGP keys on multiple marketplace, because reputation
+is highly valued in these cryptomarkets and so vendors try to keep it when moving to new marketplace.
+Also by his findings, some vendors are highly specialized in selling on category of drugs, while others offer a wide range of drugs.
+
+Article by Doliver \parencite{dolliver2016characteristics} is most similar to this work.
+They scraped and analyzed two popular cryptomarkets, agora nad evolution and quantitatively asses
+the characteristics of vendors from both markets, focusing on the difference
+ between different markets' vendor populations.
+
+ All previous works were analyzing no longer existing cryptomarkets,
+ This work focus on describing the vendors from currently operating drug market walhalla 
+ and see, if the behaviour of vendors or the nature of cryptomarkets
+ has significantlly changed. We also not only passivelly scrape cryptomarket's webpage,
+ but also create user account on marketplace and send/recieve bitcoins from marketplace
+ in order to get data about the cryptomarket's money flow.
+ 
 
 \chapter{Methods and tools to get and analyze data}
-\section{Obtaining,storing and analyzing blockchain data}
-In order to create a tool, that will find data related to bitcoin adresses, we need to store the blockchain locally in that way, that common graph algorithms can be applied.
-We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind store blockchain in multiple *.blk files.
-These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser to parse these files and create csv files of transactions, outputs and adresses.
 
-Than we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to compute statistics and heuristics.
-All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[width=1\textwidth]{neo4j-schema}
-    \caption{Neo4j database ER diagram}
-    \label{neo4jschema}
-\end{figure}
-
-\section{Drug markets web scraping and data collection}
+\section{Walhalla markets web scraping and data collection}
 We scraped data from dream market and valhalla, 2 big popular drug markets available via TOR. Wescraped the vendor nicknames, buyer reviews and the sortiment that each vendor sells.
 We tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain. Wesent 0.05 bitcoins to both markets,
 bought a virtually deliverable legally service(link to secret forum) and checked, if the bitcoins that I have sent to deposit adress left.
@@ -459,6 +481,36 @@ We used httprecon to fingerprint used HTTP server. The fingerprinting consists o
 The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver.
 The results of port scan and webserver printing doesn't indicate any way how to gather data about drug markets servers.
 
+\section{Walhalla cryptomarket scraping}
+The data was collected from walhalla drug market on 20.1.2018.
+We used official TOR daemon and privoxy, to create a local proxy that will redirect all
+incoming traffic through TOR network. The privoxy was needed, because TOR 
+daemon offers SOCKS proxy and using it results in, that wget and other tools use 
+configured DNS servers and are not able to resolve .onion links.
+
+For webscraping Walhalla market, we did not have to implement any login and captcha solving functionality,
+because url's of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where 
+xxx is number incrementing with each new listing and these urls are accessible and showing same data when 
+accesing them without being logged in.
+We wrote a small script in bash to iterate through all of the listings and download them using wget command line tool.
+After downloading all the pages of products, we parsed the downloaded files using python and common linux command 
+line tools(cat,grep,cut,sed). We have not used python HTML parsing libraries, like beautifulsoup, for parsing downloaded
+webpages , as the HTML elements
+are not named in any way, so change 
+From the listing, we parsed vendor's nickname, the subcategory where the listing was placed and title of listing.
+
+By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the walhalla 
+market in similar way.
+From the vendor's profile pages, we scraped name of vendor, his total revenue, number of positive and negative reviews 
+and the countries from which the vendor ships.
+The shortcoming of this method is, that we can download and analyze only sellers, 
+that have at least one active listing at the time of data collection. 
+Hovewer, we managed to download 20000 listings out of 100000.
+
+The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
+The exact commands to generate these figures and plots can be found in attachments in file named 'valhalla-r.txt'.
+
+
 \section{Publicly available data scraping}
 In order to have some bitcoind addresses and bitcoins linked to identities, We searched internet for pages, where are bitcoin adresses tied to real or virtual identities.
 The interesting sites that I decided to scrape were bitcointalk forum, bitcoin-OTC, reddit, twitter, bitcoin.info.
@@ -473,35 +525,12 @@ Some of these identities are verifies by signaturing custom made message with th
 We scraped data with the intention to link identities to bitcoin addresses. The data scraped from public sources are rows with thre collums: bitcoin addres, URL where was the addres scraped and username of the associated identity.
 All data scraped from the public sources(bitcointalk, reddit,twitter, bitcoin-OTC) are imported to the same neo4j graph database as metadata belonging to the nodes representing given address.
 
-
-\chapter{Deanonymization techniques}
 \section{Detecting wallets owned by drug markets}
 \section{Using own transactions to get market wallets}
 
-\chapter{Statistics of drug markets}
-Since we are trying to identify 
+\chapter{Statistics of Walhalla cryptomarket}
 
 
-\section{Methodology}
-The data was collected from walhalla drug market on 20.1.2018.
-This url's of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where 
-xxx is incrementing with each new listing.
-We wrote a small script in bash to iterate through all the listings and download them using wget.
-To be able to download via wget from .onion links, I had to use privoxy, to redirect the wget through locally ran TOR daemon.
-After downloading all the pages of products, we parsed the downloaded files using python and common linux command 
-line tools(cat,grep,cut,sed)
-From the listing, we parsed vendor's nickname, the subcategory where the listing was placed and title of listing.
-
-By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the walhalla 
-market in similar way.
-From the vendor's profile pages, we scraped name of vendor, his total revenue, number of positive and negative reviews 
-and the countries from which the vendor ships.
-The shortcoming of this method is, that we can download and analyze only sellers, 
-that have at least one active listing at the time of data collection. 
-Hovewer, we managed to download 20000 listings out of 100000.
-
-The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
-The exact commands to generate these figures and plots can be found in attachments in file named 'valhalla-r.txt'.
 
 \section{Overall statistics of Walhalla drug market}
 
@@ -589,6 +618,21 @@ The GUI written in HTML/JS/CSS, that is connecting to neo4j database REST endpoi
 The GUI can be given a configuration string, to connect to neo4j REST API endpoint, so the gui can be viewed in broser from any device, as long as 
 the server with neo4j data is reachable from that device.
 
+
+\section{Retrieving,storing and analyzing blockchain data}
+In order to create a tool, that will effectively search and visualize blockchain data,
+we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
+We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind store blockchain in multiple *.blk files.
+These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser to parse these files and create csv files of transactions, outputs and adresses.
+
+Than we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to compute statistics and heuristics.
+All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{neo4j-schema}
+    \caption{Neo4j database ER diagram}
+    \label{neo4jschema}
+\end{figure}
 
 \section{Implementation}
 
