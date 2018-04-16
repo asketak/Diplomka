@@ -14,24 +14,30 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Neo4j database ER diagram}}{15}{figure.4.1}
+\addvspace {4\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Positive reviews of vendors}}{21}{figure.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Positive/negative reviews of vendors}}{21}{figure.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Number of reviews for vendors}}{22}{figure.5.3}
+\defcounter {refsection}{0}\relax 
+\addvspace {4\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Total revenue of vendors}}{23}{figure.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Neo4j database ER diagram}}{24}{figure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Neo4j database ER diagram}}{25}{figure.6.2}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Positive reviews of vendors}}{21}{figure.6.1}
+\select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Positive/negative reviews of vendors}}{22}{figure.6.2}
+\select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Number of reviews for vendors}}{23}{figure.6.3}
+\select@language {english}
 \defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Total revenue of vendors}}{24}{figure.6.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Neo4j database ER diagram}}{25}{figure.7.1}
-\defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
-\defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
+\select@language {english}

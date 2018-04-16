@@ -40,10 +40,10 @@
 %% For non-Latin scripts, it may be necessary to load additional
 %% fonts:
 \usepackage{paratype}
-
+\bibliographystyle{unsrt}
 \usepackage[
    backend=biber        % if we want unicode
-  ,style=authoryear % or iso-numeric for numeric citation method
+  ,style=numeric % or iso-numeric for numeric citation method
   ,autolang=other       % to support multiple languages in bibliography
   ,sortlocale=cs_CZ     % locale of main language, for sorting
   ,bibencoding=UTF8     % this is necessary only if bibliography file is in different encoding than main document
@@ -129,10 +129,8 @@ ity theft.
 
 Publicly available statistics show, that cyber criminals are much
  less likely to be discovered and persecuted.
- In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10}  % [htt
-ps://www.fbi.gov/stats-services/publications/bank-crime-statistics-2010/bank-crime-statistics-2010]
- FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber}  % 
-[https://pdf.ic3.gov/2010_IC3Report.pdf]
+ In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10} 
+ FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber} 
 Criminals value their anonymity very high and use various means to prevent them from being caught by police forces.
 
 Big problem for criminals was getting the money they got from criminal activity to their possession,
@@ -259,10 +257,6 @@ also he is able to create a special transaction called coinbase transaction, tha
 ress.
 By these coinbase transactions, new bitcoins are emmitted into network.
 
-\subsection{Decentralisation}
-
-Since anyone can run bitcoin node or mine bitcoins, and every node
-
 \section{TOR - the onion routing}
 
 Tor is an free open source software, that provides access to tor network. Tor network is a network of TOR nodes.
@@ -380,6 +374,22 @@ rate different parts of their interaction with seller, like the easyness of comm
 speed of sending the goods and unsuspiciousness of packaging.
 
 \subsection{Valhalla cryptomarket}
+
+We selected Valhalla cryptomarket based on three considerations.
+The first consideration is it's size. Walhalla market has is well known operating cryptomarket. It has XXX listings and YYY vendors.
+This is the second most listing and vendor's, just behind dream market.
+Among significant cryptomarkets (dream market, Point market, Wall Street Market), Valhalla
+have been operating for longest time. This is to advantage of our analysis, as we can 
+analyze vendors, who have been selling for longer time and their reviews.
+Third, it provides best information about vendors and buyers.
+When we look at feedback page of given vendor, for each given feedback we can see the comment, when the feedback was given,
+what was the listing the user gave feedback for, what was the price and first and last 2 digits of buyer,
+the amount, how much the buyer bought overall on the Valhalla market and how many trades have buyer done.
+The 2 first and last digits of buyer's username are really unique for valhalla market,
+other markets offer first and last character of buyer's username at most.
+This will drastically help with granularity of recognizing different/same buyers and detecting,
+which listings brought the vendor most money.
+
 
 \chapter{Related works}
 \section{Blockchain analysis and linking bitcoin addresses}
@@ -503,55 +513,19 @@ the characteristics of vendors from both markets, focusing on the difference
 
 \chapter{Methods and tools to get and analyze data}
 
-\section{Walhalla markets web scraping and data collection}
-We scraped data from dream market and valhalla, 2 big popular drug markets available via TOR. Wescraped the vendor nickn
-ames, buyer reviews and the sortiment that each vendor sells.
-We tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain. Wese
-nt 0.05 bitcoins to both markets,
-bought a virtually deliverable legally service(link to secret forum) and checked, if the bitcoins that I have sent to de
-posit adress left.
-For both markets, there was no transaction happening for days after the transaction was done. This means, that markets d
-on't transfer bitcoins,
-when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug mar
-ket account,
-withdraw bitcoins and money laundering bitcoins.
-We made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfere
-d and where the withdrawn bitcoins originated.
-These deposits and withdrawals are used to test the resulting application
-We scraped 158 vendor PGP keys from dream market and 70 PGP keys from walhalla. Wetested these keys, if they are vulnera
-ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
-All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
-hesearches for user-Ids(both nicknames and mail addresses) returned any results.
+\section{Valhalla cryptomarket webscraping}
+We scraped data from valhalla cryptomarket, one of the most popular drug markets available via TOR.
+For each vendor, we scraped his nickname, number of positive and negative reviews,
+revenue, his listings' prices and categories and reviews by buyers.
+Each review was scraped for rating, date, first and last 2 characters of buyers nickname,
+total amount of money the author of review spent on Valhalla market and his total amount of trades.
+We also scraped vendor's PGP key, if it was available. 
 
-We thought that metadata from the photos of drugs, which are available on the drug markets might be useful.
-We downloaded hundreds of pictures both from walhalla and dream market.
-Only metadata directly dependending on image content(like amount of red, green and blue colors) differ,
-metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software ve
-rsion) were the same.
-The software version contained line: $ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org$
-We created vendor account on both markets and uploaded an image with custom made metadata to see,
-if the metadata were scraped and same version of software version appears. It happened so for both markets,
-therefore we believe, that markets automatically scrape metadata from uploaded images in order to protect privacy of the
- users.
+We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
+incoming traffic through TOR network. The privoxy was needed, because when we locally run TOR daemon,
+it creates SOCKS proxy
 
-\section{Drug market server fingerprinting}
-We tried to scan ports of drug markets servers and fingerprint their webserver, in order to find any vectors of further 
-information gathering.
-We scanned both drug markets servers using netcat, finding, that the only opened port is number 443(HTTPS), which is use
-d by webserver.
-We used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP reques
-ts and comparing the webserver output with the database of responses by different webservers.
-The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver
-.
-The results of port scan and webserver printing doesn't indicate any way how to gather data about drug markets servers.
-
-\section{Walhalla cryptomarket scraping}
 The data was collected from walhalla drug market on 20.1.2018.
-We used official TOR daemon and privoxy, to create a local proxy that will redirect all
-incoming traffic through TOR network. The privoxy was needed, because TOR 
-daemon offers SOCKS proxy and using it results in, that wget and other tools use 
-configured DNS servers and are not able to resolve .onion links.
-
 For webscraping Walhalla market, we did not have to implement any login and captcha solving functionality,
 because url's of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where 
 xxx is number incrementing with each new listing and these urls are accessible and showing same data when 
@@ -574,6 +548,46 @@ Hovewer, we managed to download 20000 listings out of 100000.
 
 The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
 The exact commands to generate these figures and plots can be found in attachments in file named 'valhalla-r.txt'.
+
+\section{Valhalla cryptomarket metadata scraping and analysis}
+We tested these keys, if they are vulnera
+ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
+All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
+he searches for user-Ids(both nicknames and mail addresses) returned any results.
+
+We thought that metadata from the photos of drugs, which are available on the drug markets might be useful.
+We downloaded hundreds of pictures both from walhalla and dream market.
+Only metadata directly dependending on image content(like amount of red, green and blue colors) differ,
+metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software ve
+rsion) were the same.
+The software version contained line: $ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org$
+We created vendor account on both markets and uploaded an image with custom made metadata to see,
+if the metadata were scraped and same version of software version appears. It happened so for both markets,
+therefore we believe, that markets automatically scrape metadata from uploaded images in order to protect privacy of the
+ users.
+For both markets, there was no transaction happening for days after the transaction was done. This means, that markets d
+on't transfer bitcoins,
+when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug mar
+ket account,
+withdraw bitcoins and money laundering bitcoins.
+We made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfere
+d and where the withdrawn bitcoins originated.
+These deposits and withdrawals are used to test the resulting application
+\section{Drug market server fingerprinting}
+
+We tested, if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain.
+We se
+nt 0.05 bought a virtually deliverable legally service(Link to secret forum) and checked
+
+We tried to scan ports of drug markets servers and fingerprint their webserver, in order to find any vectors of further 
+information gathering.
+We scanned both drug markets servers using netcat, finding, that the only opened port is number 443(HTTPS), which is use
+d by webserver.
+We used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP reques
+ts and comparing the webserver output with the database of responses by different webservers.
+The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache webserver
+.
+The results of port scan and webserver printing doesn't indicate any way how to gather data about drug markets servers.
 
 
 \section{Publicly available data scraping}

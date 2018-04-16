@@ -1,0 +1,623 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{fbcyber}{book}{}
+      \list{location}{1}{%
+        {https://pdf.ic3.gov/2010_IC3Report.pdf}%
+      }
+      \list{publisher}{1}{%
+        {Internet Crime Complaint Center}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{2010 Internet Crime Report}
+      \field{year}{2011}
+    \endentry
+    \entry{aldridge2017delivery}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a6f5a4cc84eedc4212088834a5fb05d7}{%
+           family={Aldridge},
+           family_i={A\bibinitperiod},
+           given={Judith},
+           given_i={J\bibinitperiod}}}%
+        {{hash=068fba3dd3ed554d176e24d256380414}{%
+           family={Askew},
+           family_i={A\bibinitperiod},
+           given={Rebecca},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0a35b7ededf800f853a772b1c96be52c}
+      \strng{fullhash}{0a35b7ededf800f853a772b1c96be52c}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Drug Policy}
+      \field{title}{Delivery dilemmas: How drug cryptomarket users identify and seek to reduce their risk of detection by law enforcement}
+      \field{volume}{41}
+      \field{year}{2017}
+      \field{pages}{101\bibrangedash 109}
+      \range{pages}{9}
+    \endentry
+    \entry{aldridge2014not}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a6f5a4cc84eedc4212088834a5fb05d7}{%
+           family={Aldridge},
+           family_i={A\bibinitperiod},
+           given={Judith},
+           given_i={J\bibinitperiod}}}%
+        {{hash=7f29c05ffd8987581c3b62e6a7b5c6b4}{%
+           family={Décary-Hétu},
+           family_i={D\bibinithyphendelim H\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d5b2c882253a98aef752a12f6417ce9}
+      \strng{fullhash}{9d5b2c882253a98aef752a12f6417ce9}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Not an'Ebay for Drugs': the Cryptomarket'Silk Road'as a paradigm shifting criminal innovation}
+      \field{year}{2014}
+    \endentry
+    \entry{androulaki2013evaluating}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=f5c17868bc40b8f88d6b6465fd2d4ab5}{%
+           family={Androulaki},
+           family_i={A\bibinitperiod},
+           given={Elli},
+           given_i={E\bibinitperiod}}}%
+        {{hash=e93aa9b69032b0c90cc025969eae3052}{%
+           family={Karame},
+           family_i={K\bibinitperiod},
+           given={Ghassan\bibnamedelima O},
+           given_i={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=061b7226b811819df8de2c15658c294e}{%
+           family={Roeschlin},
+           family_i={R\bibinitperiod},
+           given={Marc},
+           given_i={M\bibinitperiod}}}%
+        {{hash=f181cb53c2383d6ab7b3f393cd8ddbfe}{%
+           family={Scherer},
+           family_i={S\bibinitperiod},
+           given={Tobias},
+           given_i={T\bibinitperiod}}}%
+        {{hash=028ff5c4d1eab5a2f2b2a92fb4d9bf88}{%
+           family={Capkun},
+           family_i={C\bibinitperiod},
+           given={Srdjan},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3f4b7cc5200bc62e87c626dc68eec5c5}
+      \strng{fullhash}{603eea92a8ece738f81fcf1b539c87a4}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Evaluating user privacy in bitcoin}
+      \field{year}{2013}
+      \field{pages}{34\bibrangedash 51}
+      \range{pages}{18}
+    \endentry
+    \entry{fbi10}{book}{}
+      \list{location}{1}{%
+        {XXX}%
+      }
+      \list{publisher}{1}{%
+        {Federal bureau of investigation}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{subtitle}{Federal Insured Financial Institutions, January 1, 2010 – December 31, 2010}
+      \field{title}{Bank Crime Statistics (BCS)}
+      \field{year}{2011}
+    \endentry
+    \entry{barratt2014use}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2d52acfbf03bf3b5dbfef75df612e77}{%
+           family={Barratt},
+           family_i={B\bibinitperiod},
+           given={Monica\bibnamedelima J},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2bfca73c506b80326a0d6900fb1a423e}{%
+           family={Ferris},
+           family_i={F\bibinitperiod},
+           given={Jason\bibnamedelima A},
+           given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cda3f967f1aed91a4fb3fd4b5c33d441}{%
+           family={Winstock},
+           family_i={W\bibinitperiod},
+           given={Adam\bibnamedelima R},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{9c5a8d76bdb286dfbb96578e78e36c60}
+      \strng{fullhash}{9c5a8d76bdb286dfbb96578e78e36c60}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Addiction}
+      \field{number}{5}
+      \field{title}{Use of Silk Road, the online drug marketplace, in the United Kingdom, Australia and the United States}
+      \field{volume}{109}
+      \field{year}{2014}
+      \field{pages}{774\bibrangedash 783}
+      \range{pages}{10}
+    \endentry
+    \entry{broseus2016studying}{article}{}
+      \name{author}{6}{}{%
+        {{hash=e25c5e2aa0d186f25ef69e649e13be2d}{%
+           family={Broséus},
+           family_i={B\bibinitperiod},
+           given={Julian},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d606d338933e9d382bb56fe2e5665fd0}{%
+           family={Rhumorbarbe},
+           family_i={R\bibinitperiod},
+           given={Damien},
+           given_i={D\bibinitperiod}}}%
+        {{hash=754ec4114b6d12642265033102c76cec}{%
+           family={Mireault},
+           family_i={M\bibinitperiod},
+           given={Caroline},
+           given_i={C\bibinitperiod}}}%
+        {{hash=fad3c1dd665155252e485bf01e5f7cf9}{%
+           family={Ouellette},
+           family_i={O\bibinitperiod},
+           given={Vincent},
+           given_i={V\bibinitperiod}}}%
+        {{hash=8ec0fd846ff5fd9eed5bfeb5656f1460}{%
+           family={Crispino},
+           family_i={C\bibinitperiod},
+           given={Frank},
+           given_i={F\bibinitperiod}}}%
+        {{hash=7f29c05ffd8987581c3b62e6a7b5c6b4}{%
+           family={Décary-Hétu},
+           family_i={D\bibinithyphendelim H\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31ac2800a172b0b4228b10feae3ace91}
+      \strng{fullhash}{a52bf17aa83fdcb96085683b547f27bc}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forensic science international}
+      \field{title}{Studying illicit drug trafficking on Darknet markets: structure and organisation from a Canadian perspective}
+      \field{volume}{264}
+      \field{year}{2016}
+      \field{pages}{7\bibrangedash 14}
+      \range{pages}{8}
+    \endentry
+    \entry{decary2017repeat}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f29c05ffd8987581c3b62e6a7b5c6b4}{%
+           family={Décary-Hétu},
+           family_i={D\bibinithyphendelim H\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+        {{hash=7337f9e7dfa7750cb4a74c77a1e2df27}{%
+           family={Quessy-Doré},
+           family_i={Q\bibinithyphendelim D\bibinitperiod},
+           given={Olivier},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{b241322963a155ce76666a64aafc7f21}
+      \strng{fullhash}{b241322963a155ce76666a64aafc7f21}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Behavioral Scientist}
+      \field{number}{11}
+      \field{title}{Are repeat buyers in cryptomarkets loyal customers? Repeat business between dyads of cryptomarket vendors and users}
+      \field{volume}{61}
+      \field{year}{2017}
+      \field{pages}{1341\bibrangedash 1357}
+      \range{pages}{17}
+    \endentry
+    \entry{dolliver2016characteristics}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cd18b0064c842e16bedf781cdf33cc8e}{%
+           family={Dolliver},
+           family_i={D\bibinitperiod},
+           given={Diana\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5e2d8060d57d79364270494ff2f67acb}{%
+           family={Kenney},
+           family_i={K\bibinitperiod},
+           given={Jennifer\bibnamedelima L},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{cc6c51ae6632dc4bd9641914d31075c9}
+      \strng{fullhash}{cc6c51ae6632dc4bd9641914d31075c9}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Victims \& Offenders}
+      \field{number}{4}
+      \field{title}{Characteristics of drug vendors on the Tor network: a cryptomarket comparison}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{600\bibrangedash 620}
+      \range{pages}{21}
+    \endentry
+    \entry{dolliver2015criminogenic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cd18b0064c842e16bedf781cdf33cc8e}{%
+           family={Dolliver},
+           family_i={D\bibinitperiod},
+           given={Diana\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b5feb7a03e558720ed7bfd1e6220cca3}{%
+           family={Love},
+           family_i={L\bibinitperiod},
+           given={Katherine\bibnamedelima L},
+           given_i={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Общество с ограниченной ответственностью" Издательство" Учитель"}%
+      }
+      \strng{namehash}{85fa3bbfe978e8dbff9fd422cebd9d4a}
+      \strng{fullhash}{85fa3bbfe978e8dbff9fd422cebd9d4a}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Globalization Studies}
+      \field{number}{2}
+      \field{title}{Criminogenic Asymmetries in Cyberspace: A Comparative Analysis of Two Tor Marketplaces}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{75\bibrangedash 96}
+      \range{pages}{22}
+    \endentry
+    \entry{fleder2015bitcoin}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a278e596b201a4eef9b8294bf47999c3}{%
+           family={Fleder},
+           family_i={F\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3a601f052a1b2621524494faad6124a3}{%
+           family={Kester},
+           family_i={K\bibinitperiod},
+           given={Michael\bibnamedelima S},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=811690b7cfd2f118925bb59c0313cfb5}{%
+           family={Pillai},
+           family_i={P\bibinitperiod},
+           given={Sudeep},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1252b42d828e050e065db981ea3132a7}
+      \strng{fullhash}{1252b42d828e050e065db981ea3132a7}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1502.01657}
+      \field{title}{Bitcoin transaction graph analysis}
+      \field{year}{2015}
+    \endentry
+    \entry{christin2013traveling}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=49b6e4efae3e3fb3bde55e0e65e09c8d}{%
+           family={Christin},
+           family_i={C\bibinitperiod},
+           given={Nicolas},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{49b6e4efae3e3fb3bde55e0e65e09c8d}
+      \strng{fullhash}{49b6e4efae3e3fb3bde55e0e65e09c8d}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd international conference on World Wide Web}
+      \field{title}{Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace}
+      \field{year}{2013}
+      \field{pages}{213\bibrangedash 224}
+      \range{pages}{12}
+    \endentry
+    \entry{martin2014lost}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9a9b23864bfb154d68897e7817cedf0}{%
+           family={Martin},
+           family_i={M\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{f9a9b23864bfb154d68897e7817cedf0}
+      \strng{fullhash}{f9a9b23864bfb154d68897e7817cedf0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Criminology \& Criminal Justice}
+      \field{number}{3}
+      \field{title}{Lost on the Silk Road: Online drug distribution and the ‘cryptomarket’}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{351\bibrangedash 367}
+      \range{pages}{17}
+    \endentry
+    \entry{meiklejohn2013fistful}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=b2dd6953fa6beeacfdd192e8898e9254}{%
+           family={Meiklejohn},
+           family_i={M\bibinitperiod},
+           given={Sarah},
+           given_i={S\bibinitperiod}}}%
+        {{hash=1525ae935600570fc60f32e5006ec12f}{%
+           family={Pomarole},
+           family_i={P\bibinitperiod},
+           given={Marjori},
+           given_i={M\bibinitperiod}}}%
+        {{hash=7feb7e3819b6e83e8f899611965ed1a0}{%
+           family={Jordan},
+           family_i={J\bibinitperiod},
+           given={Grant},
+           given_i={G\bibinitperiod}}}%
+        {{hash=e994af962190d488ae5fec4d6529da12}{%
+           family={Levchenko},
+           family_i={L\bibinitperiod},
+           given={Kirill},
+           given_i={K\bibinitperiod}}}%
+        {{hash=5aa95937949aa05ba5443b2869aa21e6}{%
+           family={McCoy},
+           family_i={M\bibinitperiod},
+           given={Damon},
+           given_i={D\bibinitperiod}}}%
+        {{hash=2e507c8534952cbc00876d7c8fbd5f64}{%
+           family={Voelker},
+           family_i={V\bibinitperiod},
+           given={Geoffrey\bibnamedelima M},
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dee88ab507f218ded58a2f13c4801dfc}{%
+           family={Savage},
+           family_i={S\bibinitperiod},
+           given={Stefan},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{499fcf8fa646ec1493122d91323a1459}
+      \strng{fullhash}{042ed4cde97163e19975712e0985209e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2013 conference on Internet measurement conference}
+      \field{title}{A fistful of bitcoins: characterizing payments among men with no names}
+      \field{year}{2013}
+      \field{pages}{127\bibrangedash 140}
+      \range{pages}{14}
+    \endentry
+    \entry{reid2013analysis}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=c5e2ae7fc0bf005cd2c7daa2eef77243}{%
+           family={Reid},
+           family_i={R\bibinitperiod},
+           given={Fergal},
+           given_i={F\bibinitperiod}}}%
+        {{hash=b238cccf6242310ae7aced282f605170}{%
+           family={Harrigan},
+           family_i={H\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d5be0feb1d30f2d953e83a1a0d912b38}
+      \strng{fullhash}{d5be0feb1d30f2d953e83a1a0d912b38}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Security and privacy in social networks}
+      \field{title}{An analysis of anonymity in the bitcoin system}
+      \field{year}{2013}
+      \field{pages}{197\bibrangedash 223}
+      \range{pages}{27}
+    \endentry
+    \entry{ron2014did}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1b3893fdeb078dfbca468535cf59fe84}{%
+           family={Ron},
+           family_i={R\bibinitperiod},
+           given={Dorit},
+           given_i={D\bibinitperiod}}}%
+        {{hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           family_i={S\bibinitperiod},
+           given={Adi},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \strng{fullhash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{How did dread pirate roberts acquire and protect his bitcoin wealth?}
+      \field{year}{2014}
+      \field{pages}{3\bibrangedash 15}
+      \range{pages}{13}
+    \endentry
+    \entry{ron2013quantitative}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1b3893fdeb078dfbca468535cf59fe84}{%
+           family={Ron},
+           family_i={R\bibinitperiod},
+           given={Dorit},
+           given_i={D\bibinitperiod}}}%
+        {{hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           family_i={S\bibinitperiod},
+           given={Adi},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \strng{fullhash}{9f8ee25fe1c02ed3dc44b29a5fce86f4}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Quantitative analysis of the full bitcoin transaction graph}
+      \field{year}{2013}
+      \field{pages}{6\bibrangedash 24}
+      \range{pages}{19}
+    \endentry
+    \entry{spagnuolo2014bitiodine}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=521fe047caace8937dc668a165c3e2b2}{%
+           family={Spagnuolo},
+           family_i={S\bibinitperiod},
+           given={Michele},
+           given_i={M\bibinitperiod}}}%
+        {{hash=33c39d2a14f0a87e48c597722550e31f}{%
+           family={Maggi},
+           family_i={M\bibinitperiod},
+           given={Federico},
+           given_i={F\bibinitperiod}}}%
+        {{hash=a53063063aa9f3b678c152d8e4b34e17}{%
+           family={Zanero},
+           family_i={Z\bibinitperiod},
+           given={Stefano},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1866ecfd860583a41c0d928db3f01cfa}
+      \strng{fullhash}{1866ecfd860583a41c0d928db3f01cfa}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Bitiodine: Extracting intelligence from the bitcoin network}
+      \field{year}{2014}
+      \field{pages}{457\bibrangedash 468}
+      \range{pages}{12}
+    \endentry
+    \entry{van2013silk}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d2cfe7d2f0a498302b2570261a52ed19}{%
+           family={Van\bibnamedelima Hout},
+           family_i={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Marie\bibnamedelima Claire},
+           given_i={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=251fd5fbf9f7c46bb834ef921706659d}{%
+           family={Bingham},
+           family_i={B\bibinitperiod},
+           given={Tim},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b6989d141760cfc01e7234b4a54f838}
+      \strng{fullhash}{1b6989d141760cfc01e7234b4a54f838}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Drug Policy}
+      \field{number}{5}
+      \field{title}{‘Silk Road’, the virtual drug marketplace: A single case study of user experiences}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{pages}{385\bibrangedash 391}
+      \range{pages}{7}
+    \endentry
+    \entry{walsh2011drugs}{article}{}
+      \name{author}{1}{}{%
+        {{hash=85e552bc1c061901fb237d5d6c5e3dfb}{%
+           family={Walsh},
+           family_i={W\bibinitperiod},
+           given={Charlotte},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{85e552bc1c061901fb237d5d6c5e3dfb}
+      \strng{fullhash}{85e552bc1c061901fb237d5d6c5e3dfb}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of psychoactive drugs}
+      \field{number}{1}
+      \field{title}{Drugs, the Internet and change}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{pages}{55\bibrangedash 63}
+      \range{pages}{9}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

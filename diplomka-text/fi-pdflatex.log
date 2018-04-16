@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  15 APR 2018 20:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  16 APR 2018 19:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -715,7 +715,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count142
@@ -809,11 +809,11 @@ File: biblatex_.def
 \c@biburllcpenalty=\count279
 \c@smartand=\count280
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -822,18 +822,22 @@ File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count281
 \c@bbx:relatedtotal=\count282
 ))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -1408,14 +1412,14 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )))
-Package hyperref Info: Option `unicode' set `true' on input line 107.
+Package hyperref Info: Option `unicode' set `true' on input line 120.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 107.
+Package hyperref Info: Option `unicode' set `true' on input line 120.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
@@ -1438,24 +1442,24 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (./fi-pdflatex.aux)
 \openout1 = `fi-pdflatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
 \c@lstlisting=\count350
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'UTF8' specified.
@@ -1463,11 +1467,11 @@ Package biblatex Info: Data encoding 'UTF8' specified.
 \openout3 = `fi-pdflatex.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'fi-pdflatex.bbl' not found.
+Package biblatex Info: ... file 'fi-pdflatex.bbl' found.
+ (./fi-pdflatex.bbl)
+Package biblatex Info: Reference section=0 on input line 120.
+Package biblatex Info: Reference segment=0 on input line 120.
 
-No file fi-pdflatex.bbl.
-Package biblatex Info: Reference section=0 on input line 107.
-Package biblatex Info: Reference segment=0 on input line 107.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count351
@@ -1542,7 +1546,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-LaTeX Info: Redefining \microtypecontext on input line 107.
+LaTeX Info: Redefining \microtypecontext on input line 120.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1557,7 +1561,7 @@ Package microtype Info: Redefining babel's language switching commands.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 107.
+Package hyperref Info: Link coloring OFF on input line 120.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1567,9 +1571,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count357
 )
-LaTeX Info: Redefining \ref on input line 107.
-LaTeX Info: Redefining \pageref on input line 107.
-LaTeX Info: Redefining \nameref on input line 107.
+LaTeX Info: Redefining \ref on input line 120.
+LaTeX Info: Redefining \pageref on input line 120.
+LaTeX Info: Redefining \nameref on input line 120.
 
 (./fi-pdflatex.out) (./fi-pdflatex.out)
 \@outlinefile=\write8
@@ -1585,12 +1589,12 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<fithesis/logo/mu/fithesis-fi.pdf, id=158, 291.0875pt x 292.09125pt>
+<fithesis/logo/mu/fithesis-fi.pdf, id=150, 291.0875pt x 292.09125pt>
 File: fithesis/logo/mu/fithesis-fi.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-fi.pdf used on input line 10
-7.
+Package pdftex.def Info: fithesis/logo/mu/fithesis-fi.pdf used on input line 12
+0.
 (pdftex.def)             Requested size: 113.81102pt x 114.20036pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/14.4'.
@@ -1599,28 +1603,28 @@ Package microtype Info: Character `029' is missing
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fithesis/logo/mu/fithesi
 s-fi.pdf>]
-<fithesis/logo/mu/fithesis-fi-color.pdf, id=169, 291.0875pt x 291.0875pt>
+<fithesis/logo/mu/fithesis-fi-color.pdf, id=161, 291.0875pt x 291.0875pt>
 File: fithesis/logo/mu/fithesis-fi-color.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi-color.pdf>
 Package pdftex.def Info: fithesis/logo/mu/fithesis-fi-color.pdf used on input l
-ine 107.
+ine 120.
 (pdftex.def)             Requested size: 113.81102pt x 113.80792pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 \begin{document}
+l.120 \begin{document}
                        [2 <./fithesis/logo/mu/fithesis-fi-color.pdf>]pdfTeX war
 ning (ext4): destination with the same identifier (name{page.}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 \begin{document}
+l.120 \begin{document}
                        [0] [1] [2] [3
 
 ]
-Overfull \hbox (17.96106pt too wide) in paragraph at lines 107--107
+Overfull \hbox (17.96106pt too wide) in paragraph at lines 120--120
 \T1/qpl/m/n/12 (-20) blockhain, bit-coin, dark-net, drug mar-ket, TOR, cryp-toc
 ur-rency, anonymity,
  []
@@ -1696,12 +1700,6 @@ Package microtype Info: Loading generic settings for font family
  [8]
 Chapter 1.
 
-LaTeX Warning: Citation 'fbi10' on page 1 undefined on input line 117.
-
-
-LaTeX Warning: Citation 'fbcyber' on page 1 undefined on input line 118.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1709,157 +1707,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [2] [3]
 Chapter 2.
-[4] [5] <images/tor-prejate.jpg, id=304, 746.01291pt x 559.50967pt>
+[4] [5] <images/tor-prejate.jpg, id=298, 746.01291pt x 559.50967pt>
 File: images/tor-prejate.jpg Graphic file (type jpg)
 
 <use images/tor-prejate.jpg>
-Package pdftex.def Info: images/tor-prejate.jpg used on input line 267.
+Package pdftex.def Info: images/tor-prejate.jpg used on input line 298.
 (pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
 
-<images/tor-packet-prejate.png, id=305, 592.2125pt x 380.42125pt>
+<images/tor-packet-prejate.png, id=299, 592.2125pt x 380.42125pt>
 File: images/tor-packet-prejate.png Graphic file (type png)
 
 <use images/tor-packet-prejate.png>
-Package pdftex.def Info: images/tor-packet-prejate.png used on input line 274.
+Package pdftex.def Info: images/tor-packet-prejate.png used on input line 305.
 (pdftex.def)             Requested size: 361.34999pt x 232.12627pt.
  [6]
-Underfull \vbox (badness 2644) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./images/tor-prejate.jpg>] [8 <./images/tor-packet-prejate.png>] [9]
+ [7 <./images/tor-prejate.jpg>] [8 <./images/tor-packet-prejate.png>] [9] [10]
 Chapter 3.
 
-Overfull \hbox (19.37938pt too wide) in paragraph at lines 343--349
+Overfull \hbox (19.37938pt too wide) in paragraph at lines 397--403
 \T1/qpl/m/n/12 (-20) Multiple pa-pers and tools were pub-lished re-gard-ing ana
 l-y-sis of blockchain.
  []
 
 
-LaTeX Warning: Citation 'reid2013analysis' on page 10 undefined on input line 3
-50.
-
-
-Overfull \hbox (28.48949pt too wide) in paragraph at lines 350--359
-[]\T1/qpl/m/n/12 (-20) The au-thors of first re-search ar-ti-cle ([]) parsed bl
-ockchain
- []
-
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 10 undefined on inpu
-t line 360.
-
-
-LaTeX Warning: Citation 'reid2013analysis' on page 10 undefined on input line 3
-61.
-
-
-LaTeX Warning: Citation 'spagnuolo2014bitiodine' on page 10 undefined on input 
-line 374.
-
-
-Overfull \hbox (6.02507pt too wide) in paragraph at lines 374--378
-[]\T1/qpl/m/n/12 (-20) Advanced and sim-i-lar work was done by ([]).
- []
-
-
-Overfull \hbox (8.08035pt too wide) in paragraph at lines 374--378
-\T1/qpl/m/n/12 (-20) de-vel-oped a tool, which scraped data from mul-ti-ple lo-
-ca-tions(bitcointalk
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-
-LaTeX Warning: Citation 'fleder2015bitcoin' on page 11 undefined on input line 
-379.
-
-
-LaTeX Warning: Citation 'ron2013quantitative' on page 11 undefined on input lin
-e 385.
-
-
-LaTeX Warning: Citation 'ron2014did' on page 11 undefined on input line 389.
-
-
-LaTeX Warning: Citation 'meiklejohn2013fistful' on page 11 undefined on input l
-ine 398.
-
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 11 undefined on inpu
-t line 402.
-
-
-Overfull \hbox (68.04196pt too wide) in paragraph at lines 398--404
+ [11]
+Overfull \hbox (0.48285pt too wide) in paragraph at lines 454--460
 []\T1/qpl/m/n/12 (-20) In con-trast to pre-vi-ously men-tioned pa-pers, Meik-le
--john ([])
+-john [[]14[]] doesn't
  []
 
+[12]
+Underfull \vbox (badness 4634) has occurred while \output is active []
 
-Overfull \hbox (41.41454pt too wide) in paragraph at lines 398--404
-\T1/qpl/m/n/12 (-20) heuris-tics for clus-ter-ing ad-dresses as An-droulaki. ([
-])
- []
-
-[11]
-
-LaTeX Warning: Citation 'aldridge2014not' on page 12 undefined on input line 41
-5.
-
-
-LaTeX Warning: Citation 'barratt2014use' on page 12 undefined on input line 416
-.
-
-
-LaTeX Warning: Citation 'christin2013traveling' on page 12 undefined on input l
-ine 417.
-
-
-LaTeX Warning: Citation 'dolliver2015criminogenic' on page 12 undefined on inpu
-t line 418.
-
-
-LaTeX Warning: Citation 'van2013silk' on page 12 undefined on input line 419.
-
-
-LaTeX Warning: Citation 'walsh2011drugs' on page 12 undefined on input line 420
-.
-
-
-LaTeX Warning: Citation 'martin2014lost' on page 12 undefined on input line 421
-.
-
-
-Overfull \hbox (80.94261pt too wide) in paragraph at lines 411--422
-\T1/qpl/m/n/12 (-20) ([]) ([]) ([]) ([])
- []
-
-
-LaTeX Warning: Citation 'aldridge2017delivery' on page 12 undefined on input li
-ne 425.
-
-
-LaTeX Warning: Citation 'decary2017repeat' on page 12 undefined on input line 4
-30.
-
-
-LaTeX Warning: Citation 'broseus2016studying' on page 12 undefined on input lin
-e 435.
-
-
-LaTeX Warning: Citation 'dolliver2016characteristics' on page 12 undefined on i
-nput line 441.
-
-[12] [13]
+ [13]
+[14]
 Chapter 4.
-<images/neo4j-schema.jpg, id=342, 603.25375pt x 481.8pt>
-File: images/neo4j-schema.jpg Graphic file (type jpg)
 
-<use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 464.
-(pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
- [14]
-Overfull \hbox (43.66553pt too wide) in paragraph at lines 481--489
+Overfull \hbox (43.66553pt too wide) in paragraph at lines 536--546
 \OML/zplm/m/it/12 ImageMagick\OT1/ppl/m/n/12 6.8.9 \OMS/zplm/m/n/12 ^^@ \OT1/pp
 l/m/n/12 9\OML/zplm/m/it/12 Q\OT1/ppl/m/n/12 16\OML/zplm/m/it/12 x\OT1/ppl/m/n/
 12 86[]42017 \OMS/zplm/m/n/12 ^^@ \OT1/ppl/m/n/12 07 \OMS/zplm/m/n/12 ^^@ \OT1/
@@ -1868,61 +1756,68 @@ OT1/ppl/m/n/12 .\OML/zplm/m/it/12 imagemagick\OT1/ppl/m/n/12 .\OML/zplm/m/it/12
  org$
  []
 
-[15 <./images/neo4j-schema.jpg>] [16] [17]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16] [17] [18]
 Chapter 5.
-[18]
-Chapter 6.
 
-Overfull \hbox (83.7561pt too wide) in paragraph at lines 521--529
-\T1/qpl/m/n/12 (-20) url's of all mar-ket list-ings are in pat-tern http://valh
-allaxmn3fydu.onion/products/xxx
- []
-
-
-Overfull \hbox (24.42583pt too wide) in paragraph at lines 550--567
+Overfull \hbox (24.42583pt too wide) in paragraph at lines 626--643
  []    [] 
  []
 
 
-Overfull \hbox (40.91142pt too wide) in paragraph at lines 569--582
+Overfull \hbox (40.91142pt too wide) in paragraph at lines 645--658
 \T1/qpl/m/n/12 (-20) views from pop-u-lar e-shop amazon(http://minimaxir.com/20
 17/01/amazon-
  []
 
-[19] [20] <images/pospercent.png, id=380, 579.66562pt x 558.58687pt>
+<images/pospercent.png, id=401, 579.66562pt x 558.58687pt>
 File: images/pospercent.png Graphic file (type png)
 
 <use images/pospercent.png>
-Package pdftex.def Info: images/pospercent.png used on input line 586.
+Package pdftex.def Info: images/pospercent.png used on input line 662.
 (pdftex.def)             Requested size: 231.86214pt x 223.43079pt.
 
-<images/posneg-log.png, id=381, 582.67688pt x 591.71063pt>
+<images/posneg-log.png, id=402, 582.67688pt x 591.71063pt>
 File: images/posneg-log.png Graphic file (type png)
 
 <use images/posneg-log.png>
-Package pdftex.def Info: images/posneg-log.png used on input line 593.
+Package pdftex.def Info: images/posneg-log.png used on input line 669.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/reviews-count-log.png, id=382, 582.67688pt x 591.71063pt>
+<images/reviews-count-log.png, id=403, 582.67688pt x 591.71063pt>
 File: images/reviews-count-log.png Graphic file (type png)
 
 <use images/reviews-count-log.png>
-Package pdftex.def Info: images/reviews-count-log.png used on input line 600.
+Package pdftex.def Info: images/reviews-count-log.png used on input line 676.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/total-rev.png, id=383, 582.67688pt x 591.71063pt>
+<images/total-rev.png, id=404, 582.67688pt x 591.71063pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 607.
+Package pdftex.def Info: images/total-rev.png used on input line 683.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
+ [19] [20]
 
-Underfull \vbox (badness 5832) has occurred while \output is active []
+LaTeX Warning: Text page 21 contains only floats.
 
- [21 <./images/pospercent.png>] [22 <./images/posneg-log.png>]
-Chapter 7.
+[21 <./images/pospercent.png> <./images/posneg-log.png>]
+Chapter 6.
 
-Overfull \hbox (11.14839pt too wide) in paragraph at lines 630--633
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./images/reviews-count-log.png>]
+<images/neo4j-schema.jpg, id=426, 603.25375pt x 481.8pt>
+File: images/neo4j-schema.jpg Graphic file (type jpg)
+
+<use images/neo4j-schema.jpg>
+Package pdftex.def Info: images/neo4j-schema.jpg used on input line 720.
+(pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
+
+Overfull \hbox (11.14839pt too wide) in paragraph at lines 727--732
 \T1/qpl/m/n/12 (-20) ule take two pa-ram-e-ters, the di-rec-tory of .blk files,
  which store blockchain
  []
@@ -1930,32 +1825,34 @@ Overfull \hbox (11.14839pt too wide) in paragraph at lines 630--633
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./images/reviews-count-log.png>]
-<images/application_architecture.jpg, id=399, 1133.23375pt x 357.335pt>
+ [23 <./images/total-rev.png>]
+<images/application_architecture.jpg, id=432, 1133.23375pt x 357.335pt>
 File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 636.
+ 735.
 (pdftex.def)             Requested size: 361.34999pt x 113.9406pt.
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 644.
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 744.
 
-LaTeX Font Info:    No file OMSqpl.fd. on input line 644.
+LaTeX Font Info:    No file OMSqpl.fd. on input line 744.
 
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 644.
+(Font)              for symbol `textbullet' on input line 744.
 
+[24 <./images/neo4j-schema.jpg>]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) [24 <./images/total-rev.png>]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 655.
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 756.
 
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -1963,49 +1860,72 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (16.56487pt too wide) in paragraph at lines 656--657
+Overfull \hbox (16.56487pt too wide) in paragraph at lines 757--758
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [25 <./images/application_architecture.jpg>]
-Chapter 8.
+Chapter 7.
 [26]
-Chapter 9.
-
-LaTeX Warning: Empty bibliography on input line 677.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 678.
+Chapter 8.
 [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 678.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.779 \end
+          {document}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.779 \end
+          {document}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (16.57443pt too wide) in paragraph at lines 779--779
+[]\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (-20) . https://p
+df.ic3.gov/2010$[]\OML/zplm/m/it/12 C\OT1/ppl/m/n/12 3\OML/zplm/m/it/12 Report\
+OT1/ppl/m/n/12 .\OML/zplm/m/it/12 pdf$\T1/qpl/m/n/12 (-20) :
+ []
+
+
+Overfull \hbox (4.35976pt too wide) in paragraph at lines 779--779
+[]\T1/qpl/m/n/12 (-20) Judith Aldridge and David Décary-Hétu. ^^P  Not an'Ebay 
+for Drugs':
+ []
+
+[28]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 779.
+ [29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 779.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 678.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 678.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 779.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 779.
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
-(rerunfilecheck)             Checksum: 126EEB77703E4E3C9946D5BFBCC1AAD3;3047.
+(rerunfilecheck)             Checksum: 555AF04CC9E93E6B7FF5D6D8BEE31ED5;2947.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                fi-pdflatex
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 \openout1 = `fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25916 strings out of 493826
- 412100 string characters out of 6156380
- 868553 words of memory out of 5000000
- 28608 multiletter control sequences out of 15000+600000
- 66206 words of font info for 106 fonts, out of 8000000 for 9000
+ 25978 strings out of 493826
+ 413658 string characters out of 6156380
+ 866012 words of memory out of 5000000
+ 28644 multiletter control sequences out of 15000+600000
+ 67491 words of font info for 109 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 51i,9n,51p,1156b,1903s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,9n,51p,1156b,2287s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.en
 c}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/te
@@ -2015,10 +1935,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type
 ype1/public/tex-gyre/qplri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
 alatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on fi-pdflatex.pdf (38 pages, 414182 bytes).
+Output written on fi-pdflatex.pdf (40 pages, 425026 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
- 403 compressed objects within 5 object streams
- 93 named destinations out of 1000 (max. 500000)
- 15227 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 446 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 15211 words of extra memory for PDF output out of 17280 (max. 10000000)
 
