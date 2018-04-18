@@ -226,6 +226,29 @@
       \field{pages}{7\bibrangedash 14}
       \range{pages}{8}
     \endentry
+    \entry{cox2016staying}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8151fb3103f1707ad765275bd9cf64cc}{%
+           family={Cox},
+           family_i={C\bibinitperiod},
+           given={Joseph},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publications Office of the European Union, Luxembourg}%
+      }
+      \strng{namehash}{8151fb3103f1707ad765275bd9cf64cc}
+      \strng{fullhash}{8151fb3103f1707ad765275bd9cf64cc}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet and drug markets, EMCDDA insights}
+      \field{title}{Staying in the shadows: The use of bitcoin and encryption in cryptomarkets}
+      \field{year}{2016}
+      \field{pages}{41\bibrangedash 47}
+      \range{pages}{7}
+    \endentry
     \entry{decary2017repeat}{article}{}
       \name{author}{2}{}{%
         {{hash=7f29c05ffd8987581c3b62e6a7b5c6b4}{%
@@ -562,6 +585,47 @@
       \field{pages}{457\bibrangedash 468}
       \range{pages}{12}
     \endentry
+    \entry{tzanetakis2016transparency}{article}{}
+      \name{author}{4}{}{%
+        {{hash=86f406bee3b105ae010c1a885533fc3e}{%
+           family={Tzanetakis},
+           family_i={T\bibinitperiod},
+           given={Meropi},
+           given_i={M\bibinitperiod}}}%
+        {{hash=30010cb31d6986b27e6d458f59cc557c}{%
+           family={Kamphausen},
+           family_i={K\bibinitperiod},
+           given={Gerrit},
+           given_i={G\bibinitperiod}}}%
+        {{hash=4bb553543e009de525ac876b90a49c20}{%
+           family={Werse},
+           family_i={W\bibinitperiod},
+           given={Bernd},
+           given_i={B\bibinitperiod}}}%
+        {{hash=7c42b7b1204e9ff9b6755cd44c51ebc9}{%
+           prefix={von},
+           prefix_i={v\bibinitperiod},
+           family={Laufenberg},
+           family_i={L\bibinitperiod},
+           given={Roger},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{878b88c075a846afc2f6eaf7d8fc3c82}
+      \strng{fullhash}{566f4f39f04a656e732e15340be5224a}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Drug Policy}
+      \field{title}{The transparency paradox. Building trust, resolving disputes and optimising logistics on conventional and online drugs markets}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{58\bibrangedash 68}
+      \range{pages}{11}
+    \endentry
     \entry{van2013silk}{article}{}
       \name{author}{2}{}{%
         {{hash=d2cfe7d2f0a498302b2570261a52ed19}{%
@@ -591,6 +655,36 @@
       \field{year}{2013}
       \field{pages}{385\bibrangedash 391}
       \range{pages}{7}
+    \endentry
+    \entry{van2013surfing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d2cfe7d2f0a498302b2570261a52ed19}{%
+           family={Van\bibnamedelima Hout},
+           family_i={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Marie\bibnamedelima Claire},
+           given_i={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=251fd5fbf9f7c46bb834ef921706659d}{%
+           family={Bingham},
+           family_i={B\bibinitperiod},
+           given={Tim},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b6989d141760cfc01e7234b4a54f838}
+      \strng{fullhash}{1b6989d141760cfc01e7234b4a54f838}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Drug Policy}
+      \field{number}{6}
+      \field{title}{‘Surfing the Silk Road’: A study of users’ experiences}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{pages}{524\bibrangedash 529}
+      \range{pages}{6}
     \endentry
     \entry{walsh2011drugs}{article}{}
       \name{author}{1}{}{%

@@ -28,7 +28,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.3}\rmfamily Vendor's feedback}{9}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.4}\rmfamily Valhalla cryptomarket}{9}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.4}\rmfamily Valhalla cryptomarket}{10}{subsection.2.4.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}\bfseries Related works}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -38,11 +38,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}\bfseries Methods and tools to get and analyze data}{15}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}\slshape Walhalla markets web scraping and data collection}{15}{section.4.1}
+\contentsline {section}{\numberline {4.1}\slshape Valhalla cryptomarket webscraping}{15}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}\slshape Drug market server fingerprinting}{16}{section.4.2}
+\contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{16}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Walhalla cryptomarket scraping}{16}{section.4.3}
+\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{17}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{17}{section.4.4}
 \defcounter {refsection}{0}\relax 

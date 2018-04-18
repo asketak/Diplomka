@@ -65,23 +65,26 @@
 n},
     TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
 n},
-    abstract      = {The goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
+    abstract      = {This thesis has two goals. First goal is to perform quantitative statistical analysis of
+    valhalla cryptomarket. We scraped Valhalla cryptomarket website for information about vendors, listings and buyers
+    and brought up a lot of interesting statistics about them.
+    
+    The second goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
  which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool is to hel
 p investigators with collecting intelligence on entities related to these drug markets. Users and operators of these mar
-kets employ multiple means to prevent their deanonymization. The markets are operated ad TOR services, PGP encryption is
- often required to use in communication between multiple parties and bitcoin is used as a way to pay for goods or servic
-es.
-    
+kets employ multiple means to prevent their deanonymization. Cryptomarkets are operated ad TOR services, PGP encryption is
+ often required to communicate between multiple parties and bitcoin is used as a way to pay for goods or servic es.
+ 
     We scraped multiple publicly available social sites and websites related to bitcoin(twitter,bitcointalk, reddit,
     blockchain.info...) and drug markets thereself using python.
-    We stored all these data into AgensGraph database, which is a graph database based on PostgreSQL.
+    We stored all these data into neo4j database, which is a graph database based on PostgreSQL.
     We created a tool, which uses these data and multiple heuristics to analyze and visualize data and metadata of users
 ,drug markets, social media and blockchain.
     Tool can also for given adress find the nearest adresses or transactions related to drug markets and also find the n
 earest adresses that are mentioned in scraped websites. 
     
     To test the efficiency of this tool, we created multiple profiles on these dark markets and performed multiple trans
-actions to deposit and withdraw bitcoins. The tool identified these and these percent of transactions.
+actions to deposit and withdraw bitcoins. 
     },
     thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík Ph.D for guiding me and providing technica
 l support for my work. 
@@ -132,6 +135,9 @@ Publicly available statistics show, that cyber criminals are much
  In USA in 2010, there were 5628 robberies and the loot was recovered in more than 20\% cases. \parencite{fbi10} 
  FBI recieved 303809 complaints related to cyber crime in 2010, resulting in just 6 convictions. \parencite{fbcyber} 
 Criminals value their anonymity very high and use various means to prevent them from being caught by police forces.
+\parencite{tzanetakis2016transparency}
+\parencite{van2013surfing}
+\parencite{aldridge2014not}
 
 Big problem for criminals was getting the money they got from criminal activity to their possession,
 since that required some form of physical presence or identification.
@@ -143,10 +149,11 @@ For bitcoin, there is no central authority requiring bitcoin address
 (bitcoin equivalent of bank account number) to be linked to person's identity and so 
 criminals can use their anonymous connection to internet to both recieve and send bitcoins without disclosing their iden
 tity.
-This property of bitcoin and other cryptocurrencies gave rise to cryptomarkets.
- Cryptomarkets are online marketplaces accesible via TOR network, which offers illegal goods and services.
 Hovewer, all bitcoin transactions are publicly available and so each bitcoin can be tracked through the whole transactio
-n history.
+ Cryptomarkets are online marketplaces with listings offering illegal goods and services.
+ Cryptomarkets are accesible via TOR network and users of cryptomarkets use PGP to communicate. 
+n history. These mechanisms make it possible for cryptomarkets to publicly operate, yet be hard to reach by law enforcment.
+\parencite{cox2016staying}
 
 We scraped and examined data from Valhalla market,
  one of the most popular and well estabilished currently (February 2018) operating drug markets,
@@ -160,13 +167,12 @@ We also created a tool to visualize data obtained from these public sources and 
 
 The main goal of this thesis is to analyze Valhalla drug market
 and try multiple approaches to deanonymize users related to this drug market.
-The main results of this work are gathered data from cryptomarket and
+The results of this work are data from cryptomarket and
  showing interesting statistics about the whole market as well as actors operating there.
  Also, we gathered addresses tied to some form of identification, like usernames, from social networks and publicly avai
 lable forums.
-Another outcome of this work is a tool, that uses the data mentioned above to help investigator to disclose transactions
-,
-bitcoin addresses and identities related to online drug markets.
+Another goal of this work is to create a tool, that uses the data mentioned above to help investigator to disclose transactions
+, bitcoin addresses and identities related to online drug markets.
 
 We managaed to partly fill our goals. We succesfully scraped data from cryptomarket and did an analysis.
 We scraped data about identities linked to bitcoin addresses and created a tool to visualize them.
@@ -174,7 +180,7 @@ We were just partly succesfull with finding heuristics, that would cluster multi
 ame owner.
 
 \section{Structure of thesis}
-XXX - mozna se zmeni jmena kapitol, jinak povidani stejne
+XXX - mozna se zmeni lehce jmena/poradi kapitol, jinak povidani stejne
 
 The following text describes individual chapters of this thesis.
 Chapter Related works gives overview of works already done on similar topics. 
@@ -207,7 +213,7 @@ In this chapter, I explain the terms and technology related to online drug marke
 The online drug markets use several technologies, that are crucial for their anonymous operation.
 The Bitcoin enables different parties to exchange value in an anonymous way.
 TOR allows users and administrators of marketplace to hide from any third party doing packet sniffing on network,
-that they are accessing drug marketplace. It also hides the location on drug market webserver from it's users.
+that they are accessing drug marketplace. It also hides the location on drug marketplace webserver from it's users.
 PGP enables sellers and vendors to communicate between them in encrypted way,
 so that drug market administrators can not eavesdrop on that communication.
 Drug markets also use bitcoin mixers, services designed to mix their funds with others, in order to obstruct
@@ -215,56 +221,91 @@ analysis of their cashflow and improve anonymity of users and administrators.
 
 \section{Bitcoin and blockchain}
 
-Bitcoin is  the first decentralized peer to peer cryptocurrency, created by anonymous author(s) known by pseudonym Satos
-hi Nakamoto in 2009.
+Bitcoin \parencite{nakamoto2008bitcoin} is the first decentralized peer to peer cryptocurrency,
+created by anonymous author(s) known by pseudonym Satoshi Nakamoto in 2008.
 Bitcoin transactions are not verified by central authority, they are  
-processed by peer to peer network of bitcoin nodes instead. 
-The entire history of transactions is stored in distributed public ledger called blockchain.
-
-The nodes collect transactions broadcasted by users and send them to other nodes.
+processed by distributed peer to peer network of bitcoin nodes instead. 
 The source code of bitcoin nodes is open source and can be downloaded and run locally. 
+The entire history of transactions is stored in distributed public ledger called blockchain.
+Bitcoin combine multiple cryptography algorithms to achieve consensus among nodes
+on the state of blockchain. Anything once written in the blockchain
+can not be removed or modified. State of blockchain can be modified only in that way, that new
+block of transactions is added at the end of blockchain.
 
-\subsection{Transactions and addresses}
-In order to recieve bitcoins, user need to have a bitcoin address. In order to send bitcoin from bitcoin address,
- user needs to have private key associated with the given bitcoin address.
+\subsection{Addresses, bitcoins and transactions representation}
+In order to recieve and send bitcoins, user need to have a bitcoin address.
+Bitcoin address is simply a BASE58 encoded public key with 4 bytes added for checksum.
+Each address has it's associated private key.
+In order to send bitcoin from bitcoin address, user needs to have private key associated with the given bitcoin address.
 Storing and using bitcoin addresses and associated private keys is automatically managed
 by software called bitcoin wallet. There exists many third party software wallets.
 
-Bitcoin address is string of 26 to 35 alphanumerical characters.
-All the transactions of every address are stored in blockchain, the balance and all transactions related to address are
-publicly available.
+All the transactions, bitcoins and addresses are stored in blockchain,
+the balance of all addresses and all transactions are publicly available.
 In order to not see the whole history of transactions of address's owner,
-the bitcoin wallets generate new bitcoin address for each new incoming transactions and when spending bitcoins, it use o
-ne or more of the addresses the wallet generated.
-Therefore, when pairing the address to identity, we can directly obtain just the history of transactions related to the 
-address,
-but can not get all transactions and balance of the user, as he is likely to own multiple bitcoin addresses.
+the bitcoin wallets generate new bitcoin address for each new incoming transactions. When spending bitcoins, it use o
+ne or more of the addresses the wallet generated previously.
+Therefore, when pairing the address to identity, we can directly obtain just the history of transactions related to the given
+address, but can not get all transactions and balance of the user, as he is likely to own multiple bitcoin addresses.
+
+Bitcoins in blockchain are represented as inputs and outputs of transaction.
+Each transaction has some inputs and outputs. 
+Input and output is the same data structure, it only differs in it's relationship to given transaction.
+Each input/output consists of it's unique identifier, it's value in bitcoins and it's owner address.
+Every output can be used exactly once as input of new transaction, and therefore the owner of output can not
+spend one output multiple times.
+
+When sender sends bitcoin to reciever, he generates a transaction.
+The new transaction must satisfy:
+\begin{itemize}
+  \item He owns address of the inputs = He can spend only bitcoins he own
+  \item Each input has not been used as input in any other transaction = He can not spend one output multiple times
+  \item The sum of bitcoins of transaction's inputs is equal as sum of bitcoins of transaction's output + fees
+\end{itemize}
+
+The new transaction must have 1 or more outputs.
+There can be multiple outputs in transaction with different associated addresses and bitcoin value,
+however, there happens to be a common pattern. When sender sends bitcoins to one reciever,
+the transaction contains two outputs.
+One output contains reciever's address and the volume of bitcoins he recieves.
+One output is called "change output". Because sender usually doesn't own outputs 
+ that sums to be equal to number of bitcoins he wants to send, he adds a second output
+ to the transaction. The second output has address he owns and amount of bitcoins, he will recieve from the transaction back.
+ This is the only way to split bitcoins to smaller parts. 
+
+When sending transaction,
+ wallet software creates transaction data and sign it with keys of addresses that are sending the bitcoins.
+ Than it sends it to one or multiple bitcoin nodes.
+Nodes collect transactions from users and broadcast them to other nodes on best effort basis.
+The validity of transaction is later checked by miners and if everything is ok, they add it to the blockchain.
 
 \subsection{Mining}
-Users of bitcoin can be roughly separated in two groups, end users and miners.
-End users use bitcoin wallets to recieve and send bitcoins.
-Miners are verifying transactions. When the transactions is send from the address, 
-it is signed with private key associated with that address and send to the neares bitcoin node.
-The transaction is immidiately broadcasted to other bitcoin nodes.
-Miners are running bitcoin mining software, which enables them to create a new block of transactions, add it to blockcha
-in
-and broadcast new, longer version, of blockchain to other nodes.
-Finding new block of transactions is a hard problem from computanional perspective.
-The difficulty of algorithm is adjusted every X block, so that new block is generated roughly every 10 minutes.
 
-When miner finds new block, he can claim all of the fees of transactions included in that block,
+Miners are verifying transactions.
+Miners are running bitcoin nodes and mining software, which enables them to create a new block of transactions, add it to blockcha
+in and broadcast new, longer version, of blockchain to other nodes.
+Finding new block of transactions is a hard problem from computanional perspective.
+Miners looks for solution to the problem by bruteforce and when they find solution, the are able to generate
+new block of transaction. The difficulty of problem is adjusted every 2016 block,
+so that new block is generated on average every 10 minutes.
+
+Some of the variables for the problem are dependent on the last block in blockchain, so it is impossible
+to precompute the problem for blocks that will come in the future. 
+Miner and anyone else know the definition of the problem just for the block that will immidiately follow.
+
+When miner generates new block, he can claim all of the fees of transactions included in that block,
 also he is able to create a special transaction called coinbase transaction, that sends bitcoins from nowhere to his add
-ress.
-By these coinbase transactions, new bitcoins are emmitted into network.
+ress. By these coinbase transactions, new bitcoins are emmitted into network.
+He also broadcast his new block, so other miners can update their blockchains. 
 
 \section{TOR - the onion routing}
 
-Tor is an free open source software, that provides access to tor network. Tor network is a network of TOR nodes.
-The goal of TOR project is to provide it's users encrypted access to internet in order to to prevent third parties
+Tor is a free open source software, that provides access to Tor network. Tor network is a network of Tor nodes.
+The goal of Tor project is to provide it's users encrypted access to internet in order to to prevent third parties
 from evesdropping and analysis of the transmitted data.
-The communication of the user's computer with network is encrypted and rerouted through multiple TOR nodes using onion r
+The communication of the user's computer with network is encrypted and rerouted through multiple Tor nodes using onion r
 outing technology.
-The usage of TOR can be detected by third party, but the third party can not decryptsa user's data, that are transmitted
+The usage of Tor can be detected by third party, but the third party can not decrypt user's data, that are transmitted
  via tor.
 Some websites restrict access from TOR, due to many risks involved.
 
@@ -515,29 +556,47 @@ the characteristics of vendors from both markets, focusing on the difference
 
 \section{Valhalla cryptomarket webscraping}
 We scraped data from valhalla cryptomarket, one of the most popular drug markets available via TOR.
-For each vendor, we scraped his nickname, number of positive and negative reviews,
-revenue, his listings' prices and categories and reviews by buyers.
-Each review was scraped for rating, date, first and last 2 characters of buyers nickname,
-total amount of money the author of review spent on Valhalla market and his total amount of trades.
-We also scraped vendor's PGP key, if it was available. 
-
-We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
-incoming traffic through TOR network. The privoxy was needed, because when we locally run TOR daemon,
-it creates SOCKS proxy
-
 The data was collected from walhalla drug market on 20.1.2018.
+We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
+incoming traffic through TOR network. The privoxy was needed, because TOR daemon creates SOCKS proxy,
+which can not be used by wget. So we created a HTTP proxy by privoxy, which redirected the traffic through
+TOR SOCKS proxy.
+
 For webscraping Walhalla market, we did not have to implement any login and captcha solving functionality,
-because url's of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where 
-xxx is number incrementing with each new listing and these urls are accessible and showing same data when 
-accesing them without being logged in.
+because valhalla listings and vendor pages are accessible and showing same data when accesing them without being logged in.
+
+Addresses of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where 
+xxx is number incrementing with each new listing. Only 1/3 of numbers let to valid listing page.
+Rest of the numbers led to 404 error. We believe, that these numbers refer to listings that were disabled by vendor
+ or administrator.
+
+From each listing, we parsed vendor's nickname, the subcategory where the listing was placed, title and price.
+We got 666 unique vendor names by scraping the available listings.
+
+Vendor profile pages were in format http://valhallaxmn3fydu.onion/xxx and their reviews in format
+ http://valhallaxmn3fydu.onion/xxx/palautteet where xxx is vendor username.
+ We were therefore able to parse profile and feedback page of each vendor who had active listing. 
+ 
+From each vendor, we scraped his
+- nickname = string
+- number of positive and negative reviews - 2 integers
+- revenue = integet 0<x<10 000USD, for vendors with higher revenue it shows 10000+
+- PGP key = string, is not mandatory for all vendors
+
+We scraped his feedback page and for each review was scraped
+vendor nickname = string
+rating = 1-5
+date = Timestamp, days resolution
+first and last 2 characters of buyers nickname = string of length 4
+money the author of review spent on Valhalla market = int
+trades the author of review done = int
+
 We wrote a small script in bash to iterate through all of the listings and download them using wget command line tool.
 After downloading all the pages of products, we parsed the downloaded files using python and common linux command 
-line tools(cat,grep,cut,sed). We have not used python HTML parsing libraries, like beautifulsoup, for parsing downloaded
-
-webpages , as the HTML elements
-are not named in any way, so change 
-From the listing, we parsed vendor's nickname, the subcategory where the listing was placed and title of listing.
-
+line tools(cat,grep,cut,sed). We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
+webpages , as the HTML elements of valhalla webpages don't have any unique identifiers and so these libraries bring
+ us no advantage.
+ 
 By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the walhalla 
 market in similar way.
 From the vendor's profile pages, we scraped name of vendor, his total revenue, number of positive and negative reviews 
