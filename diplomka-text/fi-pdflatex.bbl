@@ -279,6 +279,37 @@
       \field{pages}{1341\bibrangedash 1357}
       \range{pages}{17}
     \endentry
+    \entry{dingledine2004tor}{report}{}
+      \name{author}{3}{}{%
+        {{hash=9c2faaae20084eaed8aa8df64e8339c7}{%
+           family={Dingledine},
+           family_i={D\bibinitperiod},
+           given={Roger},
+           given_i={R\bibinitperiod}}}%
+        {{hash=1ee2592c88d805ce30055d25a49a8327}{%
+           family={Mathewson},
+           family_i={M\bibinitperiod},
+           given={Nick},
+           given_i={N\bibinitperiod}}}%
+        {{hash=ab5ed679e78db4d6fd5091d79c026cd3}{%
+           family={Syverson},
+           family_i={S\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Naval Research Lab Washington DC}%
+      }
+      \strng{namehash}{1f04bf1c60d75fb7a0e14cfc7d308350}
+      \strng{fullhash}{1f04bf1c60d75fb7a0e14cfc7d308350}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tor: The second-generation onion router}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
     \entry{dolliver2016characteristics}{article}{}
       \name{author}{2}{}{%
         {{hash=cd18b0064c842e16bedf781cdf33cc8e}{%
@@ -468,6 +499,83 @@
       \field{pages}{127\bibrangedash 140}
       \range{pages}{14}
     \endentry
+    \entry{motoyama2011analysis}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=92a11619947fd9cd7aad5248369eee47}{%
+           family={Motoyama},
+           family_i={M\bibinitperiod},
+           given={Marti},
+           given_i={M\bibinitperiod}}}%
+        {{hash=5aa95937949aa05ba5443b2869aa21e6}{%
+           family={McCoy},
+           family_i={M\bibinitperiod},
+           given={Damon},
+           given_i={D\bibinitperiod}}}%
+        {{hash=e994af962190d488ae5fec4d6529da12}{%
+           family={Levchenko},
+           family_i={L\bibinitperiod},
+           given={Kirill},
+           given_i={K\bibinitperiod}}}%
+        {{hash=dee88ab507f218ded58a2f13c4801dfc}{%
+           family={Savage},
+           family_i={S\bibinitperiod},
+           given={Stefan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=2e507c8534952cbc00876d7c8fbd5f64}{%
+           family={Voelker},
+           family_i={V\bibinitperiod},
+           given={Geoffrey\bibnamedelima M},
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ba769d7762167892380352ffa301997a}
+      \strng{fullhash}{151e1f821b95368ed6e5ad8b7ce2fb9e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement conference}
+      \field{title}{An analysis of underground forums}
+      \field{year}{2011}
+      \field{pages}{71\bibrangedash 80}
+      \range{pages}{10}
+    \endentry
+    \entry{nakamoto2008bitcoin}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           family_i={N\bibinitperiod},
+           given={Satoshi},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A peer-to-peer electronic cash system}
+      \field{year}{2008}
+    \endentry
+    \entry{paquet2017cryptomarkets}{article}{}
+      \name{author}{1}{}{%
+        {{hash=12af1a0aaec26059a3802c95438c0a24}{%
+           family={Paquet-Clouston},
+           family_i={P\bibinithyphendelim C\bibinitperiod},
+           given={Masarah-Cynthia},
+           given_i={M\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{12af1a0aaec26059a3802c95438c0a24}
+      \strng{fullhash}{12af1a0aaec26059a3802c95438c0a24}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Are Cryptomarkets the Future of Drug Dealing? Assessing the Structure of the Drug Market Hosted on Cryptomarkets}
+      \field{year}{2017}
+    \endentry
     \entry{reid2013analysis}{incollection}{}
       \name{author}{2}{}{%
         {{hash=c5e2ae7fc0bf005cd2c7daa2eef77243}{%
@@ -626,6 +734,36 @@
       \field{pages}{58\bibrangedash 68}
       \range{pages}{11}
     \endentry
+    \entry{van2014responsible}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d2cfe7d2f0a498302b2570261a52ed19}{%
+           family={Van\bibnamedelima Hout},
+           family_i={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Marie\bibnamedelima Claire},
+           given_i={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=251fd5fbf9f7c46bb834ef921706659d}{%
+           family={Bingham},
+           family_i={B\bibinitperiod},
+           given={Tim},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b6989d141760cfc01e7234b4a54f838}
+      \strng{fullhash}{1b6989d141760cfc01e7234b4a54f838}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Drug Policy}
+      \field{number}{2}
+      \field{title}{Responsible vendors, intelligent consumers: Silk Road, the online revolution in drug trading}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{183\bibrangedash 189}
+      \range{pages}{7}
+    \endentry
     \entry{van2013silk}{article}{}
       \name{author}{2}{}{%
         {{hash=d2cfe7d2f0a498302b2570261a52ed19}{%
@@ -710,6 +848,53 @@
       \field{year}{2011}
       \field{pages}{55\bibrangedash 63}
       \range{pages}{9}
+    \endentry
+    \entry{wehinger2011dark}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7afec7e6575d6082c234bd139b8904d3}{%
+           family={Wehinger},
+           family_i={W\bibinitperiod},
+           given={Frank},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7afec7e6575d6082c234bd139b8904d3}
+      \strng{fullhash}{7afec7e6575d6082c234bd139b8904d3}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intelligence and Security Informatics Conference (EISIC), 2011 European}
+      \field{title}{The Dark Net: Self-regulation dynamics of illegal online markets for identities and related services}
+      \field{year}{2011}
+      \field{pages}{209\bibrangedash 213}
+      \range{pages}{5}
+    \endentry
+    \entry{Zimmermann:1995:OPU:202735}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7775ea1b8b59fbd5c0ff2a3c715f05ad}{%
+           family={Zimmermann},
+           family_i={Z\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           given_i={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{7775ea1b8b59fbd5c0ff2a3c715f05ad}
+      \strng{fullhash}{7775ea1b8b59fbd5c0ff2a3c715f05ad}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-262-74017-6}
+      \field{title}{The Official PGP User's Guide}
+      \field{year}{1995}
     \endentry
   \endsortlist
 \endrefsection

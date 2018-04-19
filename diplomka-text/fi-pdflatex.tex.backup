@@ -232,7 +232,7 @@ on the state of blockchain. Anything once written in the blockchain
 can not be removed or modified. State of blockchain can be modified only in that way, that new
 block of transactions is added at the end of blockchain.
 
-\subsection{Addresses, bitcoins and transactions representation}
+\subsection{Addresses, bitcoins and transactions}
 In order to recieve and send bitcoins, user need to have a bitcoin address.
 Bitcoin address is simply a BASE58 encoded public key with 4 bytes added for checksum.
 Each address has it's associated private key.
@@ -255,7 +255,7 @@ Each input/output consists of it's unique identifier, it's value in bitcoins and
 Every output can be used exactly once as input of new transaction, and therefore the owner of output can not
 spend one output multiple times.
 
-When sender sends bitcoin to reciever, he generates a transaction.
+When sender sends bitcoin to recipent, he generates a transaction.
 The new transaction must satisfy:
 \begin{itemize}
   \item He owns address of the inputs = He can spend only bitcoins he own
@@ -265,9 +265,9 @@ The new transaction must satisfy:
 
 The new transaction must have 1 or more outputs.
 There can be multiple outputs in transaction with different associated addresses and bitcoin value,
-however, there happens to be a common pattern. When sender sends bitcoins to one reciever,
+however, there happens to be a common pattern. When sender sends bitcoins to one recipent,
 the transaction contains two outputs.
-One output contains reciever's address and the volume of bitcoins he recieves.
+One output contains recipent's address and the volume of bitcoins he recieves.
 One output is called "change output". Because sender usually doesn't own outputs 
  that sums to be equal to number of bitcoins he wants to send, he adds a second output
  to the transaction. The second output has address he owns and amount of bitcoins, he will recieve from the transaction back.
@@ -280,59 +280,56 @@ Nodes collect transactions from users and broadcast them to other nodes on best 
 The validity of transaction is later checked by miners and if everything is ok, they add it to the blockchain.
 
 \subsection{Mining}
- 
-Each time the miners add new block, they are able to generate one new transaction,
-that send bitcoins from `nowhere` to given address.
 
-Users of bitcoin can be roughly separated in two groups, end users and miners.
-End users use bitcoin wallets to recieve and send bitcoins.
-Miners are verifying transactions. When the transactions is send from the address, 
-it is signed with private key associated with that address and send to the neares bitcoin node.
-The transaction is immidiately broadcasted to other bitcoin nodes.
-Miners are running bitcoin mining software, which enables them to create a new block of transactions, add it to blockcha
-in
-and broadcast new, longer version, of blockchain to other nodes.
+Miners are verifying transactions.
+Miners are running bitcoin nodes and mining software, which enables them to create a new block of transactions, add it to blockcha
+in and broadcast new, longer version, of blockchain to other nodes.
 Finding new block of transactions is a hard problem from computanional perspective.
-The difficulty of algorithm is adjusted every X block, so that new block is generated roughly every 10 minutes.
+Miners looks for solution to the problem by bruteforce and when they find solution, the are able to generate
+new block of transaction. The difficulty of problem is adjusted every 2016 block,
+so that new block is generated on average every 10 minutes.
 
-When miner finds new block, he can claim all of the fees of transactions included in that block,
+Some of the variables for the problem are dependent on the last block in blockchain, so it is impossible
+to precompute the problem for blocks that will come in the future. 
+Miner and anyone else know the definition of the problem just for the block that will immidiately follow.
+
+When miner generates new block, he can claim all of the fees of transactions included in that block,
 also he is able to create a special transaction called coinbase transaction, that sends bitcoins from nowhere to his add
 ress. By these coinbase transactions, new bitcoins are emmitted into network.
+He also broadcast his new block, so other miners can update their blockchains. 
 
 \section{TOR - the onion routing}
 
-Tor is an free open source software, that provides access to tor network. Tor network is a network of TOR nodes.
-The goal of TOR project is to provide it's users encrypted access to internet in order to to prevent third parties
+Tor \parencite{dingledine2004tor} is a free open source software, that provides access to Tor network. Tor network is a network of Tor nodes.
+The goal of Tor project is to provide it's users encrypted access to internet in order to to prevent third parties
 from evesdropping and analysis of the transmitted data.
-The communication of the user's computer with network is encrypted and rerouted through multiple TOR nodes using onion r
+The communication of the user's computer with network is encrypted and rerouted through multiple Tor nodes using onion r
 outing technology.
-The usage of TOR can be detected by third party, but the third party can not decryptsa user's data, that are transmitted
+The usage of Tor can be detected by third party, but the third party can not decrypt user's data, that are transmitted
  via tor.
 Some websites restrict access from TOR, due to many risks involved.
 
-Communication between browser and webserver is usually done via encrypted HTTPS protocol.
+Communication between browser and webserver is usually done via HTTPS protocol.
 This protocol use assymetric cryptography. The webserver and browser exchange their public keys at start of communicatio
 n
 and encrypt the data using these keys. Decrypting the data is possible only by corresponding private keys,
 which the browser and webserver keep locally. This protocol is suspectible to man in the middle attacks.
 If the attacker has control over the transmission from the start of communication, he can place himself in the middle
- of communication and act as webserver for user and as a user for webserver. To prevent these types of attact
- a certification authority is needed, which is a institution, that sign public keys, belonging to webserver.
+ of communication and act as webserver for user and as a user for webserver. To prevent these types of attack
+ a certification authority is needed. Certification authority is an institution, that sign public keys, belonging to webserver.
  When browser recieves the public key, it automatically checks, if it is signed by any authority from it's list of autho
-rities
- and if not, it displays warning or error message.
+rities and if not, it displays warning or error message.
  
 The HTTPS protocol encrypts data, but doesn't hide the identity of the user from webserver,
  and also the internet provider can see, where is the user connecting to.
  In TOR, the user's identity is hidden from webserver, and internet provider can only see, that user is connecting to TO
-R,
- but can not see where is the destination of the data that are transmitted via TOR.
+R, but can not see where is the destination of the data that are transmitted via TOR.
  Tor uses Onion routing technology. When user visits website, there TOR software picks randomly few TOR nodes from the n
-etwork
- and estabilish a circuit, as we can see on \ref{TOR routing schema}. 
+etwork and estabilish a circuit, as we can see on \ref{TOR routing schema}. 
  The packet of data is encrypted with the each public key of the node in circuit, starting from last node as on \ref{TOR
  packed encryption schema}.
- Each node of the network only knows the previous node he recieved the data from and it gets the address 
+ No TOR node knows the whole path of the packet, only his neighbour nodes on the path.
+ The TOR node knows the previous node he recieved the packet from. It gets also the address 
  of next node by decrypting the packet and reading the added metadata.
  
  \begin{figure}[!htb]
@@ -351,30 +348,47 @@ etwork
  
 \section{PGP}
 
-PGP is a program for encrypting data and communication between two parties using public key cryptography.
+PGP \parencite{Zimmermann:1995:OPU:202735} is a program for encrypting data
+and communication between two parties using public key cryptography.
 PGP is used for signing, encrypting and decrypting messages, mostly e-mails.
 PGP was developed in 1991 as open source, with the intention 
 to provide an open widely used standart for encrypted communication.
 Nowadays, PGP program is not open source any more, but the standart is used by open source GPG software.
 
-PGP uses public key cryptography, unlike symmetric cryptography, pgp uses two different keys for encrypting and decrypti
-ng.
-The user generate a pair of keys, public key for encrypting mails sent to them and private key, which the user
- keeps for himself and use for decrypting messages encrypted with associated public key. The user also publish his publi
-c
- key, so other users can send him necrypted messages.
+PGP uses public key cryptography. Unlike symmetric cryptography, public key cryptography
+uses two different keys for encrypting and decrypting.
+User generates a pair of keys, public key for encrypting mails sent to him and private key, which the user
+ keeps for himself and uses for decrypting messages encrypted with associated public key.
+ The user also publish his public key, so other users can send him encrypted messages.
 
 PGP is used in the context of online drug markets as a means of communication between vendors and customers.
 Both vendor and customer has their public keys published on their profile page and use the public key of the other
 party to encrypt messages to them. This enables vendors and sellers to keep their communication private also 
 from the administrators of marketplace.
 
-\section{Online cryptomarkets}
-A cryptomarket is an online commercial shopping website, usually accesible only via TOR service.
-On cryptomarkets, users can sell and buy  drugs, weapons, hacking tools, stolen credit cards,
+\section{Cryptomarkets}
+
+Illegal online markets have been around for more than 30 years \parencite{motoyama2011analysis}.
+On these markets, users can sell and buy drugs, weapons, hacking tools, stolen credit cards,
 counterfeit currency, forged documents and other illegal goods and services.
-Most cryptomarkets forbid selling the most unambigously harmful goods, such as
- child pornography or hitman services.
+Most markets forbid selling the most unambigously harmful goods, such as child pornography or hitman services.
+ 
+In 2011 appeared a new type of illegal online marketplace called cryptomarket. 
+A cryptomarket is an illegal online market accesible only via TOR network and using bitcoins
+as a means of making payments. These two technologies provided a safer environment
+than previous markets hosted on forums and chatrooms.
+
+Physical products, like drugs, are sent to buyer via ordinary mail to address provided by buyer.
+Package is disguised as packages containing common goods sent by big online retailers.
+\parencite{paquet2017cryptomarkets}
+
+Cryptomarkets are popular by vendors,
+because they offer high traffic, secure and anonymouse environment for conducting their bussiness\parencite {van2014responsible}.
+Cryptomarkets offer safer, more comfortable and more professional way of buying drugs, avoiding 
+the need to meet face toery competitive environment f face with dealers \parencite{barratt2014use}.
+Nowadays, there exists multiple cryptomarkets competing against each other and the risk
+of a failure of a deal is still high. \parencite{wehinger2011dark}
+
 
 \subsection{Escrow}
 Escrow service is a service offered by cryptomarket for their customers.
@@ -387,10 +401,10 @@ Escrow means, that the money transfered between two actors(vendor and seller) ar
 midiately.
  
 \subsection{Tumbler}
-
+moser2013inquiry
 Bitcoin transactions are publicly available, but it is not easy to identify their owners.
 It might seem, that bitcoin transactions are anonymoous, but when user send bitcoins to
-someone(exchange) who knows their identity, the reciever can pair the bitcoin address the bitcoins came from
+someone(exchange) who knows their identity, the recipent can pair the bitcoin address the bitcoins came from
 to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses a
 re still 
 suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know
