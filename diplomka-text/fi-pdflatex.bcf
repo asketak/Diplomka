@@ -2063,26 +2063,27 @@
     <bcf:citekey order="12">van2014responsible</bcf:citekey>
     <bcf:citekey order="13">barratt2014use</bcf:citekey>
     <bcf:citekey order="14">wehinger2011dark</bcf:citekey>
-    <bcf:citekey order="15">reid2013analysis</bcf:citekey>
-    <bcf:citekey order="16">androulaki2013evaluating</bcf:citekey>
-    <bcf:citekey order="17">reid2013analysis</bcf:citekey>
-    <bcf:citekey order="18">spagnuolo2014bitiodine</bcf:citekey>
-    <bcf:citekey order="19">fleder2015bitcoin</bcf:citekey>
-    <bcf:citekey order="20">ron2013quantitative</bcf:citekey>
-    <bcf:citekey order="21">ron2014did</bcf:citekey>
-    <bcf:citekey order="22">meiklejohn2013fistful</bcf:citekey>
-    <bcf:citekey order="23">androulaki2013evaluating</bcf:citekey>
-    <bcf:citekey order="24">aldridge2014not</bcf:citekey>
-    <bcf:citekey order="25">barratt2014use</bcf:citekey>
-    <bcf:citekey order="26">christin2013traveling</bcf:citekey>
-    <bcf:citekey order="27">dolliver2015criminogenic</bcf:citekey>
-    <bcf:citekey order="28">van2013silk</bcf:citekey>
-    <bcf:citekey order="29">walsh2011drugs</bcf:citekey>
-    <bcf:citekey order="30">martin2014lost</bcf:citekey>
-    <bcf:citekey order="31">aldridge2017delivery</bcf:citekey>
-    <bcf:citekey order="32">decary2017repeat</bcf:citekey>
-    <bcf:citekey order="33">broseus2016studying</bcf:citekey>
-    <bcf:citekey order="34">dolliver2016characteristics</bcf:citekey>
+    <bcf:citekey order="15">moser2013inquiry</bcf:citekey>
+    <bcf:citekey order="16">reid2013analysis</bcf:citekey>
+    <bcf:citekey order="17">androulaki2013evaluating</bcf:citekey>
+    <bcf:citekey order="18">reid2013analysis</bcf:citekey>
+    <bcf:citekey order="19">spagnuolo2014bitiodine</bcf:citekey>
+    <bcf:citekey order="20">fleder2015bitcoin</bcf:citekey>
+    <bcf:citekey order="21">ron2013quantitative</bcf:citekey>
+    <bcf:citekey order="22">ron2014did</bcf:citekey>
+    <bcf:citekey order="23">meiklejohn2013fistful</bcf:citekey>
+    <bcf:citekey order="24">androulaki2013evaluating</bcf:citekey>
+    <bcf:citekey order="25">aldridge2014not</bcf:citekey>
+    <bcf:citekey order="26">barratt2014use</bcf:citekey>
+    <bcf:citekey order="27">christin2013traveling</bcf:citekey>
+    <bcf:citekey order="28">dolliver2015criminogenic</bcf:citekey>
+    <bcf:citekey order="29">van2013silk</bcf:citekey>
+    <bcf:citekey order="30">walsh2011drugs</bcf:citekey>
+    <bcf:citekey order="31">martin2014lost</bcf:citekey>
+    <bcf:citekey order="32">aldridge2017delivery</bcf:citekey>
+    <bcf:citekey order="33">decary2017repeat</bcf:citekey>
+    <bcf:citekey order="34">broseus2016studying</bcf:citekey>
+    <bcf:citekey order="35">dolliver2016characteristics</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>

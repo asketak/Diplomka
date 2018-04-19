@@ -387,68 +387,88 @@ because they offer high traffic, secure and anonymouse environment for conductin
 Cryptomarkets offer safer, more comfortable and more professional way of buying drugs, avoiding 
 the need to meet face toery competitive environment f face with dealers \parencite{barratt2014use}.
 
-Nowadays, there exists multiple cryptomarkets competing against each other and the risk
+Nowadays, there exist multiple cryptomarkets competing against each other and the risk
 of a failure of a deal is still high \parencite{wehinger2011dark}.
 In order to protect buyers, cryptomarkets use Escrow and vendors' feedback to identify scammers and minimize losses.
 Cryptomarkets also use Tumbler services, which makes it harder to detect and analyze bitcoin transactions
  related to these illegal activities.
 
-\subsection{Escrow}
-Escrow service is a service offered by cryptomarket for their customers.
-Escrow means, that the money transfered between two actors(vendor and seller) are held by third party(cryptomarket)
- and are released when both of the parties agree, that they are satisfied with the trade.
- Disputes are resolved by the operator of the cryptomarket.
+\subsection{The proccess of ordering}
+Most of the supermarket are publicly available and there is no fee
+for creating a user account. The act of buying drugs from them is
+ considered user friendly by buyers and is nearly identical to the
+ proccess of buying goods from popular lawfull e-shops like amazon.
 
- Using the Escrow service is usually required.
- Some cryptomarkets allow vendors with long history of satisfied customers to bypass escrow service and recieve money im
-midiately.
+ The whole proccess consists roughly of these steps:
+\begin{enumerate}
+\item User creates an account on cryptomarket, if he doesn't have one already
+\item He top up his account by sending bitcoins to bitcoin address,
+that was generated for his deposits.
+\item He than find an offer, that he is interested in and buy it in similar
+way as in any other e-shop.
+\item Buyers money are now locked by cryptomarket.
+\item Buyer and vendor communicate out the way of delivery.
+\item If the buyer recieves goods or services, he confirms it and money are unlocked to vendor.
+\item Buyer gives feedback to vendor. 
+\end{enumerate}
+
+Vendors value their feedback ratings very high, so they encourage buyers to leave
+ positive feedback when the transaction goes well.
  
 \subsection{Tumbler}
-moser2013inquiry
 Bitcoin transactions are publicly available, but it is not easy to identify their owners.
 It might seem, that bitcoin transactions are anonymoous, but when user send bitcoins to
-someone(exchange) who knows their identity, the recipent can pair the bitcoin address the bitcoins came from
-to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses a
-re still 
-suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know
-.
+someone(exchange) who knows their identity, the recipent can pair the bitcoin address
+the bitcoins came from to identity of sender.
+Although bitcoin users usually use multiple bitcoin addresses,
+their transactions and addresses are still 
+suspectible to blockchain cashflow analysis,
+which might identify other addresses of the owner of addres we already know.
 
-Bitcoin Tumblers exist in order to prevent such analysis. User sends bitcoins to the tumbler service, the service mix hi
-s bitcoins
-with bitcoins of other users by performing multiple transactions between it's bitcoin addresses.
+Bitcoin Tumblers exist in order to prevent such analysis.
+User sends bitcoins to the tumbler service, the service mix his bitcoins
+with bitcoins of other users by performing multiple transactions
+between it's bitcoin addresses. \parencite{moser2013inquiry}
+  
 The structure of these transactions differs for different tumbler services.
-User generate new bitcoin address with no tie to his previous addresses and bitcoins are recieved from the service to th
-is address.
+User send their bitcoins to address owned by tumbler,
+than he generates new bitcoin address with no tie to his previous addresses
+and recieves bitcoins from tumbler service to his new bitcoin address.
  There also exists peer-to-peer tumblers(CoinJoin,SharedCoin,coinswap),
 that enable multiple users to directly create transactions to mix bitcoins among themselves.
-The transaction can be performed multiple types with different actors.
+Transactions can be performed multiple types with different actors.
 
 \subsection{Vendor's feedback}
 
-Cryptomarkets usually employs reputation systems, where buyers can publish their satisfaction with the vendor.
+Cryptomarkets usually employ reputation systems,
+where buyers can publish their satisfaction with the vendor.
 These systems are similar to systems used in popular e-commerce websites like amazon or e-bay.
 Users can give feedback only to vendors with whom thay have traded with.
-On some cryptomarkets it is only possible to upvote and downvote vendors, on some others people can
-rate different parts of their interaction with seller, like the easyness of communication,
+On some cryptomarkets it is only possible to upvote and downvote vendors,
+on some others people can rate different parts of their interaction with seller,
+like the easyness of communication,
 speed of sending the goods and unsuspiciousness of packaging.
 
 \subsection{Valhalla cryptomarket}
 
-We selected Valhalla cryptomarket based on three considerations.
-The first consideration is it's size. Walhalla market has is well known operating cryptomarket. It has XXX listings and YYY vendors.
-This is the second most listing and vendor's, just behind dream market.
+We selected Valhalla cryptomarket based on three metrics.
+The first metric is it's size. Walhalla market is well known operating cryptomarket.
+It has more than 20 000 active listings and 600 vendors.
+This is the second most listings and vendors, just behind dream market.
+
 Among significant cryptomarkets (dream market, Point market, Wall Street Market), Valhalla
 have been operating for longest time. This is to advantage of our analysis, as we can 
-analyze vendors, who have been selling for longer time and their reviews.
-Third, it provides best information about vendors and buyers.
-When we look at feedback page of given vendor, for each given feedback we can see the comment, when the feedback was given,
-what was the listing the user gave feedback for, what was the price and first and last 2 digits of buyer,
+analyze matured cryptomarek with vendors, who have been selling for longer time and have more reviews.
+
+Valhallca cryptomarket also provides most information about vendors and buyers.
+The feedback page of given vendor consists of feedbacks, where
+each given feedback contains comment, when the feedback was given,
+what was the listing the user gave feedback for, what was the price and first, last 2 digits of buyer,
 the amount, how much the buyer bought overall on the Valhalla market and how many trades have buyer done.
-The 2 first and last digits of buyer's username are really unique for valhalla market,
-other markets offer first and last character of buyer's username at most.
+The 2 first and last digits of buyer's username are really unique property for valhalla market,
+other markets offers first and last character of buyer's username at most.
 This will drastically help with granularity of recognizing different/same buyers and detecting,
 which listings brought the vendor most money.
-
 
 \chapter{Related works}
 \section{Blockchain analysis and linking bitcoin addresses}
@@ -569,7 +589,6 @@ the characteristics of vendors from both markets, focusing on the difference
  but also create user account on marketplace and send/recieve bitcoins from marketplace
  in order to get data about the cryptomarket's money flow.
  
-
 \chapter{Methods and tools to get and analyze data}
 
 \section{Valhalla cryptomarket webscraping}

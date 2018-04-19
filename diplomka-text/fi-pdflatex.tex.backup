@@ -386,36 +386,53 @@ Cryptomarkets are popular by vendors,
 because they offer high traffic, secure and anonymouse environment for conducting their bussiness\parencite {van2014responsible}.
 Cryptomarkets offer safer, more comfortable and more professional way of buying drugs, avoiding 
 the need to meet face toery competitive environment f face with dealers \parencite{barratt2014use}.
-Nowadays, there exists multiple cryptomarkets competing against each other and the risk
-of a failure of a deal is still high. \parencite{wehinger2011dark}
 
+Nowadays, there exist multiple cryptomarkets competing against each other and the risk
+of a failure of a deal is still high \parencite{wehinger2011dark}.
+In order to protect buyers, cryptomarkets use Escrow and vendors' feedback to identify scammers and minimize losses.
+Cryptomarkets also use Tumbler services, which makes it harder to detect and analyze bitcoin transactions
+ related to these illegal activities.
 
-\subsection{Escrow}
-Escrow service is a service offered by cryptomarket for their customers.
-Escrow means, that the money transfered between two actors(vendor and seller) are held by third party(cryptomarket)
- and are released when both of the parties agree, that they are satisfied with the trade.
- Disputes are resolved by the operator of the cryptomarket.
+\subsection{Ordering stuff from cryptomarket}
+Most of the supermarket are publicly available and there is no fee
+for creating a user account. The act of buying drugs from them is
+ considered user friendly by buyers and is nearly identical to the
+ proccess of buying goods from popular lawfull e-shops like amazon.
 
- Using the Escrow service is usually required.
- Some cryptomarkets allow vendors with long history of satisfied customers to bypass escrow service and recieve money im
-midiately.
+ The whole proccess consists roughly of these steps:
+\begin{enumerate}
+\item User creates an account on cryptomarket, if he doesn't have one already
+\item He top up his account by sending bitcoins to bitcoin address,
+that was generated for his deposits.
+\item He than find an offer, that he is interested in and buy it in similar
+way as in any other e-shop.
+\item Buyers money are now locked by cryptomarket.
+\item Buyer and vendor communicate out the way of delivery.
+\item If the buyer recieves goods or services, he confirms it and money are unlocked to vendor.
+\item Buyer gives feedback to vendor. 
+\end{enumerate}
+
+Vendors value their feedback ratings very high, so they encourage buyers to leave
+ positive feedback when the transaction goes well.
  
 \subsection{Tumbler}
-moser2013inquiry
 Bitcoin transactions are publicly available, but it is not easy to identify their owners.
 It might seem, that bitcoin transactions are anonymoous, but when user send bitcoins to
-someone(exchange) who knows their identity, the recipent can pair the bitcoin address the bitcoins came from
-to identity of sender. Although bitcoin users usually use multiple bitcoin addresses, their transactions and addresses a
-re still 
-suspectible to blockchain cashflow analysis, which might identify other addresses of the owner of addres we already know
-.
+someone(exchange) who knows their identity, the recipent can pair the bitcoin address
+the bitcoins came from to identity of sender.
+Although bitcoin users usually use multiple bitcoin addresses,
+their transactions and addresses are still 
+suspectible to blockchain cashflow analysis,
+which might identify other addresses of the owner of addres we already know.
 
-Bitcoin Tumblers exist in order to prevent such analysis. User sends bitcoins to the tumbler service, the service mix hi
-s bitcoins
-with bitcoins of other users by performing multiple transactions between it's bitcoin addresses.
+Bitcoin Tumblers exist in order to prevent such analysis.
+User sends bitcoins to the tumbler service, the service mix his bitcoins
+with bitcoins of other users by performing multiple transactions
+between it's bitcoin addresses. \parencite{moser2013inquiry}
+  
 The structure of these transactions differs for different tumbler services.
-User generate new bitcoin address with no tie to his previous addresses and bitcoins are recieved from the service to th
-is address.
+User generates new bitcoin address with no tie to his previous addresses
+and bitcoins are recieved from the service to this address.
  There also exists peer-to-peer tumblers(CoinJoin,SharedCoin,coinswap),
 that enable multiple users to directly create transactions to mix bitcoins among themselves.
 The transaction can be performed multiple types with different actors.

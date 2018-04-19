@@ -499,6 +499,39 @@
       \field{pages}{127\bibrangedash 140}
       \range{pages}{14}
     \endentry
+    \entry{moser2013inquiry}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=659c0e0a866ea3813fb982b7d2bc120b}{%
+           family={Moser},
+           family_i={M\bibinitperiod},
+           given={Malte},
+           given_i={M\bibinitperiod}}}%
+        {{hash=4e8ac33c3abfbab73d1d0a4e28e7bdbe}{%
+           family={Bohme},
+           family_i={B\bibinitperiod},
+           given={Rainer},
+           given_i={R\bibinitperiod}}}%
+        {{hash=1fed70a2b9afd958e6e2f18b11b2fa94}{%
+           family={Breuker},
+           family_i={B\bibinitperiod},
+           given={Dominic},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b050e76a5cd0f0126e24e5303842acc2}
+      \strng{fullhash}{b050e76a5cd0f0126e24e5303842acc2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{eCrime Researchers Summit (eCRS), 2013}
+      \field{title}{An inquiry into money laundering tools in the Bitcoin ecosystem}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+    \endentry
     \entry{motoyama2011analysis}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=92a11619947fd9cd7aad5248369eee47}{%
@@ -556,7 +589,7 @@
       \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Bitcoin: A peer-to-peer electronic cash system}
+      \field{title}{Bitcoin: A peer--to--peer electronic cash system}
       \field{year}{2008}
     \endentry
     \entry{paquet2017cryptomarkets}{article}{}
