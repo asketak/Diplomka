@@ -589,7 +589,7 @@
       \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Bitcoin: A peer--to--peer electronic cash system}
+      \field{title}{Bitcoin: A peer-to-peer electronic cash system}
       \field{year}{2008}
     \endentry
     \entry{paquet2017cryptomarkets}{article}{}
@@ -692,6 +692,31 @@
       \field{year}{2013}
       \field{pages}{6\bibrangedash 24}
       \range{pages}{19}
+    \endentry
+    \entry{soska2015measuring}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b8a14cedd7825f78af62a5f66cff6db7}{%
+           family={Soska},
+           family_i={S\bibinitperiod},
+           given={Kyle},
+           given_i={K\bibinitperiod}}}%
+        {{hash=49b6e4efae3e3fb3bde55e0e65e09c8d}{%
+           family={Christin},
+           family_i={C\bibinitperiod},
+           given={Nicolas},
+           given_i={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb5949b4252f0df9c97aaf12a93a72e5}
+      \strng{fullhash}{cb5949b4252f0df9c97aaf12a93a72e5}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{USENIX Security Symposium}
+      \field{title}{Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem.}
+      \field{year}{2015}
+      \field{pages}{33\bibrangedash 48}
+      \range{pages}{16}
     \endentry
     \entry{spagnuolo2014bitiodine}{inproceedings}{}
       \name{author}{3}{}{%

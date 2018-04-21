@@ -36,43 +36,43 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}\slshape Behaviour of drug markets users and operators}{15}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}\bfseries Methods and tools to get and analyze data}{17}{chapter.4}
+\contentsline {chapter}{\numberline {4}\bfseries Methods and tools of data retrival and analysis}{17}{chapter.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.1}\slshape Valhalla cryptomarket webscraping}{17}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{18}{section.4.2}
+\contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{19}{section.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{19}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{19}{section.4.4}
+\contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{20}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}\slshape Detecting wallets owned by drug markets}{20}{section.4.5}
+\contentsline {section}{\numberline {4.5}\slshape Detecting wallets owned by drug markets}{21}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}\slshape Using own transactions to get market wallets}{20}{section.4.6}
+\contentsline {section}{\numberline {4.6}\slshape Using own transactions to get market wallets}{21}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\bfseries Statistics of Walhalla cryptomarket}{21}{chapter.5}
+\contentsline {chapter}{\numberline {5}\bfseries Statistics of Walhalla cryptomarket}{22}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}\slshape Overall statistics of Walhalla drug market}{21}{section.5.1}
+\contentsline {section}{\numberline {5.1}\slshape Overall statistics of Walhalla drug market}{22}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{21}{section.5.2}
+\contentsline {section}{\numberline {5.2}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{22}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}\bfseries Application}{24}{chapter.6}
+\contentsline {chapter}{\numberline {6}\bfseries Application}{25}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}\slshape Retrieving,storing and analyzing blockchain data}{25}{section.6.1}
+\contentsline {section}{\numberline {6.1}\slshape Retrieving,storing and analyzing blockchain data}{26}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}\slshape Implementation}{26}{section.6.2}
+\contentsline {section}{\numberline {6.2}\slshape Implementation}{27}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}\slshape Usage}{27}{section.6.3}
+\contentsline {section}{\numberline {6.3}\slshape Usage}{28}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}\slshape Future development possibilities}{27}{section.6.4}
+\contentsline {section}{\numberline {6.4}\slshape Future development possibilities}{28}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{28}{chapter.7}
+\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{29}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}\slshape Method of testing}{28}{section.7.1}
+\contentsline {section}{\numberline {7.1}\slshape Method of testing}{29}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}\slshape results}{28}{section.7.2}
+\contentsline {section}{\numberline {7.2}\slshape results}{29}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Conclusion}{29}{chapter.8}
+\contentsline {chapter}{\numberline {8}\bfseries Conclusion}{30}{chapter.8}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 

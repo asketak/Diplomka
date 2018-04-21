@@ -441,13 +441,17 @@ Transactions can be performed multiple types with different actors.
 \subsection{Vendor's feedback}
 
 Cryptomarkets usually employ reputation systems,
-where buyers can publish their satisfaction with the vendor.
+where buyers can share their satisfaction with vendors.
 These systems are similar to systems used in popular e-commerce websites like amazon or e-bay.
 Users can give feedback only to vendors with whom thay have traded with.
 On some cryptomarkets it is only possible to upvote and downvote vendors,
 on some others people can rate different parts of their interaction with seller,
 like the easyness of communication,
 speed of sending the goods and unsuspiciousness of packaging.
+
+Feedback is not mandatory, but vendor's encourage buyers to give them positive feedback
+\parencite{aldridge2014not}\parencite{soska2015measuring}, because positive feedback
+ratio gives vendor significant advantage over vendors with worse feedback.
 
 \subsection{Valhalla cryptomarket}
 
@@ -458,17 +462,21 @@ This is the second most listings and vendors, just behind dream market.
 
 Among significant cryptomarkets (dream market, Point market, Wall Street Market), Valhalla
 have been operating for longest time. This is to advantage of our analysis, as we can 
-analyze matured cryptomarek with vendors, who have been selling for longer time and have more reviews.
+analyze matured cryptomarket with vendors, who have been selling for longer time and have more reviews.
 
-Valhallca cryptomarket also provides most information about vendors and buyers.
+Among cryptomarkets mentioned above,
+Valhalla cryptomarket provides most information about vendors and buyers.
 The feedback page of given vendor consists of feedbacks, where
 each given feedback contains comment, when the feedback was given,
-what was the listing the user gave feedback for, what was the price and first, last 2 digits of buyer,
-the amount, how much the buyer bought overall on the Valhalla market and how many trades have buyer done.
-The 2 first and last digits of buyer's username are really unique property for valhalla market,
+what was the listing the user gave feedback for, what was the price,
+the amount, how much the buyer bought overall on the Valhalla market,
+how many trades have buyer done and first, last 2 digits of buyer.
+
+The 2 first and last digits of buyer's username are really unique for Valhalla market,
 other markets offers first and last character of buyer's username at most.
-This will drastically help with granularity of recognizing different/same buyers and detecting,
-which listings brought the vendor most money.
+This will drastically help with granularity of recognizing same buyer among multiple reviews.
+The fact, that feedback also contains related listing allows us to
+detect, which vendor's listings are popular and earning most money for vendor.
 
 \chapter{Related works}
 \section{Blockchain analysis and linking bitcoin addresses}
@@ -589,7 +597,7 @@ the characteristics of vendors from both markets, focusing on the difference
  but also create user account on marketplace and send/recieve bitcoins from marketplace
  in order to get data about the cryptomarket's money flow.
  
-\chapter{Methods and tools to get and analyze data}
+\chapter{Methods and tools of data retrival and analysis}
 
 \section{Valhalla cryptomarket webscraping}
 We scraped data from valhalla cryptomarket, one of the most popular drug markets available via TOR.
@@ -612,34 +620,40 @@ We got 666 unique vendor names by scraping the available listings.
 
 Vendor profile pages were in format http://valhallaxmn3fydu.onion/xxx and their reviews in format
  http://valhallaxmn3fydu.onion/xxx/palautteet where xxx is vendor username.
- We were therefore able to parse profile and feedback page of each vendor who had active listing. 
+ We were therefore able to scrape profile and feedback page of each vendor who had active listing
+ at the time of scraping. 
  
-From each vendor, we scraped his
-- nickname = string
-- number of positive and negative reviews - 2 integers
-- revenue = integet 0<x<10 000USD, for vendors with higher revenue it shows 10000+
-- PGP key = string, is not mandatory for all vendors
+From each vendor, we parsed:
+\begin{itemize}
+\item nickname = string
+\item number of positive and negative reviews - 2 integers
+\item revenue = integet 0<x<10 000USD, for vendors with higher revenue it shows 10000+
+\item PGP key = string, is not mandatory for all vendors
+\item Country = string, country from which vendor ships if available
+\end{itemize}
 
-We scraped his feedback page and for each review was scraped
-vendor nickname = string
-rating = 1-5
-date = Timestamp, days resolution
-first and last 2 characters of buyers nickname = string of length 4
-money the author of review spent on Valhalla market = int
-trades the author of review done = int
+From feedback page , we parsed the following variables of each feedback:
+\begin{itemize}
+\item vendor nickname = string
+\item rating = 1-5
+\item date = Timestamp, days resolution
+\item first and last 2 characters of buyers nickname = string of length 4
+\item money the author of review spent on Valhalla market = int
+\item trades the author of review done = int
+
+\end{itemize}
 
 We wrote a small script in bash to iterate through all of the listings and download them using wget command line tool.
-After downloading all the pages of products, we parsed the downloaded files using python and common linux command 
+After downloading all the listing pages, we parsed the downloaded files using python and common linux command 
 line tools(cat,grep,cut,sed). We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
 webpages , as the HTML elements of valhalla webpages don't have any unique identifiers and so these libraries bring
  us no advantage.
  
 By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the walhalla 
-market in similar way.
-From the vendor's profile pages, we scraped name of vendor, his total revenue, number of positive and negative reviews 
-and the countries from which the vendor ships.
+Valhalla market in similar way.
 The shortcoming of this method is, that we can download and analyze only sellers, 
 that have at least one active listing at the time of data collection. 
+
 Hovewer, we managed to download 20000 listings out of 100000.
 
 The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
