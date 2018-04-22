@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{19}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{19}{section.4.3}
+\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{20}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{20}{section.4.4}
 \defcounter {refsection}{0}\relax 

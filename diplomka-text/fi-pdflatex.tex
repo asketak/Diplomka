@@ -43,6 +43,7 @@
 %% fonts:
 \usepackage{paratype}
 \bibliographystyle{unsrt}
+\usepackage{hyperref}
 \usepackage[
    backend=biber        % if we want unicode
   ,style=numeric % or iso-numeric for numeric citation method
@@ -50,6 +51,7 @@
   ,sortlocale=cs_CZ     % locale of main language, for sorting
   ,bibencoding=UTF8     % this is necessary only if bibliography file is in different encoding than main document
 ]{biblatex}
+
 \def\textrussian#1{{\usefont{T2A}{PTSerif-TLF}{m}{rm}#1}}
 %%
 %% The following section sets up the metadata of the thesis.
@@ -114,8 +116,11 @@ n},
   commentstyle    = \itshape\color{magenta}}
 \usepackage{floatrow} %% Putting captions above tables
 \usepackage{geometry}
+\usepackage{pythontex}
+
 \floatsetup[table]{capposition=top}
 \begin{document}
+\setpygmentsfv{xleftmargin=4ex}
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
@@ -559,47 +564,60 @@ They scraped and analyzed two popular cryptomarkets, Agora and Evolution and qua
 the characteristics of vendors from both markets, focusing on the difference
  between different markets' vendor populations.
 
- All previous works were analyzing no longer existing cryptomarkets,
- This work focus on describing the vendors from currently operating drug market Valhalla 
- and see, if the behaviour of vendors or the nature of cryptomarkets
- has significantly changed. We also not only passively scraped cryptomarket's webpage,
+ All previously mentioned works were analyzing cryptomarkets that are not operational nowadays,
+ while this work focus on describing the vendors from currently operating drug market Valhalla 
+ and examine, if the behaviour of vendors or the nature of cryptomarkets
+ has changed significantly. We also not only passively scraped cryptomarket's webpage,
  but also created a user account on the marketplace and sent/received bitcoins from the marketplace
- in order to get data about the cryptomarket's money flow.
+ in order to get data about the cryptomarket's flow of money.
  
 \chapter{Methods and tools of data retrieval and analysis}
 
 \section{Valhalla cryptomarket webscraping}
-We scraped data from Valhalla cryptomarket, one of the most popular drug markets available via TOR.
+We scraped data from Valhalla\footnote{Available at http://valhallaxmn3fydu.onion} cryptomarket,
+one of the most popular drug markets available via TOR.
 The data was collected from Valhalla drug market on 20.1.2018.
 We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
 incoming traffic through TOR network. The privoxy was needed because TOR daemon creates SOCKS proxy,
-which can not be used by wget. So we created an HTTP proxy by privoxy, which redirected the traffic through
-TOR SOCKS proxy.
+which can not be used by wget. So we created an HTTP proxy by privoxy,
+which redirected the traffic through TOR SOCKS proxy.
 
-For web scraping Walhalla market, we did not have to implement any login and captcha solving functionality,
-because Valhalla listings and vendor pages are accessible and showing same data when accessing them without being logged in.
+For web scraping Walhalla market,
+we did not have to implement any login and captcha solving functionality,
+because Valhalla listings and vendor pages are accessible
+and showing same data when accessing them without being logged in.
 
-Addresses of all market listings are in pattern http://valhallaxmn3fydu.onion/products/xxx where xxx is number incrementing with each new listing. Only 1/3 of numbers let to the valid listing page.
-Rest of the numbers led to 404 error. We believe, that these numbers refer to listings that were disabled by the vendor
- or administrator.
+Addresses of all market listings are in pattern
+\textbf{\url{http://valhallaxmn3fydu.onion/products/xxx}} where \textbf{xxx}
+is a number incrementing with each new listing.
+Only 1/3 of numbers let to the valid listing page.
+Rest of the numbers led to 404 error. We believe,
+that these numbers refer to listings that were disabled by the vendor or administrator.
 
-From each listing, we parsed vendor's nickname, the subcategory where the listing was placed, title and price.
-We got 666 unique vendor names by scraping the available listings.
-
-Vendor profile pages were in format http://valhallaxmn3fydu.onion/xxx and their reviews in the format
- http://valhallaxmn3fydu.onion/xxx/palautteet where xxx is vendor username.
+Vendor profile pages were in format \textbf{\url{http://valhallaxmn3fydu.onion/xxx}}
+and their reviews in the format
+ \textbf{\url{http://valhallaxmn3fydu.onion/xxx/palautteet}} where \textbf{xxx} is vendor username.
  We were able to scrape profile and feedback page of each vendor who had active listing at the time of scraping. 
  
+From each listing, we parsed
+
+\begin{itemize}
+ \item Vendor's nickname = string
+ \item Subcategory = 3 string tags
+ \item Title of listing = string
+ \item Price = float
+\end{itemize}
+
 From each vendor, we parsed:
 \begin{itemize}
-\item nickname = string
-\item number of positive and negative reviews - 2 integers
-\item revenue = integet 0<x<10 000USD, for vendors with higher revenue it shows 10000+
+\item Vendor's nickname = string
+\item number of positive and negative reviews = 2 integers
+\item revenue = integet 0<=x<=10000USD, for vendors with higher revenue it shows 10000+
 \item PGP key = string, is not mandatory for all vendors
 \item Country = string, country from which vendor ships if available
 \end{itemize}
 
-From feedback page, we parsed the following variables of each feedback:
+From feedback page, we parsed the following variables for each feedback:
 \begin{itemize}
 \item vendor nickname = string
 \item rating = 1-5
@@ -607,32 +625,29 @@ From feedback page, we parsed the following variables of each feedback:
 \item first and last 2 characters of buyers nickname = string of length 4
 \item money the author of review spent on Valhalla market = int
 \item trades the author of review done = int
-
 \end{itemize}
 
-We wrote a small script in bash to iterate through all of the listings and download them using wget command line tool.
-After downloading all the listing pages, we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed). We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
-webpages because HTML elements of Valhalla web pages don't have any unique identifiers and so these libraries bring
- us no advantage.
+We wrote a small script in bash to iterate through all of the listings
+and download them using wget command line tool.
+After downloading all the listing pages,
+we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
+We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
+webpages because HTML elements of Valhalla web pages don't have any unique identifiers
+and so these libraries bring us no advantage.
  
-By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the Valhalla 
-Valhalla market in a similar way.
+By scraping the listings pages, we got unique vendor nicknames,
+which we used for downloading and scraped the vendor's profile and feedback pages. 
 The shortcoming of this method is, that we can download and analyze only sellers, 
 that have at least one active listing at the time of data collection. 
 
-However, we managed to download 20000 listings out of 100000.
-
-The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
-The exact commands to generate these figures and plots can be found in attachments in file named 'valhalla-r.txt'.
-
 \section{Valhalla cryptomarket metadata scraping and analysis}
-We tested these keys, if they are vulnera
-ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
+
+We tested these keys, if they are vulnera ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
 All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
 he searches for user-Ids(both nicknames and mail addresses) returned any results.
 
 We thought that metadata from the photos of drugs, which are available on the drug markets might be useful.
-We downloaded hundreds of pictures both from Valhalla and dream market.
+We downloaded hundreds of pictures both from Valhalla.
 Only metadata directly depending on image content(like the amount of red, green and blue colours) differ,
 metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software ve
 rsion) were the same.
@@ -678,8 +693,7 @@ ate bitcoin" and "bitcoind address" and scrapes the results of search page.
 Bitcoin.info is a webpage that serves primarly as bitcoin blockchain explorer, secundary,
 it gathers multiple statistics about bitcoin blockchain and also offers for third parties to have their bitcoin address 
 and identity listed on their webpage.
-Some of these identities are verifies by signaturing custom made message with the bitcoin address associated private key
-.
+Some of these identities are verifies by signaturing custom made message with the bitcoin address associated private key.
 
 We scraped data with the intention to link identities to bitcoin addresses. The data scraped from public sources are row
 s with thre collums: bitcoin addres, URL where was the addres scraped and username of the associated identity.
@@ -843,7 +857,6 @@ This chapter describes the way, the POC application was tested.
 
 The testing were performed by sending bitcoins to drug markets and withdrawing them.
 Than marking the addresses from where the bitcoins were received as 
-
 \section{Method of testing}
 \section{results}
 
