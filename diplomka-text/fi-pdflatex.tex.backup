@@ -70,7 +70,7 @@ n},
     TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
 n},
     abstract      = {This thesis has two goals. First goal is to perform quantitative statistical analysis of
-    valhalla cryptomarket. We scraped Valhalla cryptomarket website for information about vendors, listings and buyers
+    Valhalla cryptomarket. We scraped Valhalla cryptomarket website for information about vendors, listings and buyers
     and brought up a lot of interesting statistics about them.
     
     The second goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
@@ -439,7 +439,7 @@ ratio gives vendor significant advantage over vendors with worse feedback.
 \subsection{Valhalla cryptomarket}
 
 We selected Valhalla cryptomarket based on three metrics.
-The first metric is its size. Walhalla market is well known operating cryptomarket.
+The first metric is its size. Valhalla market is well known operating cryptomarket.
 It has more than 20 000 active listings and 600 vendors.
 This is the second most listings and vendors, just behind dream market.
 
@@ -494,15 +494,15 @@ the sender. The change output is needed, because that is the only way to split b
 Advanced and similar work was done by \parencite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed to
  the database
 and performed clustering to get a graph of transactions between users.
-Then they developed a tool, which scraped data from multiple locations(bitcointalk and bitcoin-OTC forum) to link off-ch
+Then they developed a tool, which scraped data from multiple locations(Bitcointalk and bitcoin-OTC forum) to link off-ch
 ain data and identities to bitcoin addresses.
-They tested the tool on few popular transactions related to the seizure of SilkRoad marketplace.
+They tested the tool on few popular transactions related to the seizure of Silkroad marketplace.
 
 Similar work to this thesis was done by \parencite{fleder2015bitcoin}.
-This paper use data from bitcointalk, the most popular bitcoin forum. 
+This paper use data from Bitcointalk, the most popular bitcoin forum. 
 They apply a simple algorithm to group multiple bitcoin addresses belonging to one user together.
 Then they use the scraped data to show
-that some of the bitcointalk users were using SilkRoad marketplace or other popular services accepting bitcoin.
+that some of the Bitcointalk users were using Silkroad marketplace or other popular services accepting bitcoin.
  
 Ron and Shamir \parencite{ron2013quantitative} focus on bringing
 interesting statistics about bitcoin transaction graph
@@ -574,32 +574,44 @@ the characteristics of vendors from both markets, focusing on the difference
 \chapter{Methods and tools of data retrieval and analysis}
 
 \section{Valhalla cryptomarket webscraping}
-We scraped data from Valhalla\footnote{Available at http://valhallaxmn3fydu.onion} cryptomarket,
-one of the most popular drug markets available via TOR.
-The data was collected from Valhalla drug market on 20.1.2018.
+We scraped data from Valhalla\footnote{Available at http://Valhallaxmn3fydu.onion} cryptomarket
+during january and february 2018. 
 We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
 incoming traffic through TOR network. The privoxy was needed because TOR daemon creates SOCKS proxy,
 which can not be used by wget. So we created an HTTP proxy by privoxy,
 which redirected the traffic through TOR SOCKS proxy.
 
-For web scraping Walhalla market,
-we did not have to implement any login and captcha solving functionality,
-because Valhalla listings and vendor pages are accessible
-and showing same data when accessing them without being logged in.
+For web scraping Valhalla market,
+we did not have to implement any login and captcha solving functionality.
+We at first logged in manually and provided HTTP cookie with assigned session ID to the wget,
+so that wget could use that session ID to browse Valhalla logged in.
 
-Addresses of all market listings are in pattern
-\textbf{\url{http://valhallaxmn3fydu.onion/products/xxx}} where \textbf{xxx}
+Addresses of all market listings are in pattern\newline
+\texttt{http://Valhallaxmn3fydu.onion/products/\textbf{xxx}} where \texttt{\textbf{xxx}}
 is a number incrementing with each new listing.
-Only 1/3 of numbers let to the valid listing page.
-Rest of the numbers led to 404 error. We believe,
-that these numbers refer to listings that were disabled by the vendor or administrator.
+The last listing had number 10377 and only 32488 numbers lead to the valid listing page.
+Rest of the numbers lead to 404 error. We believe,
+that these numbers refer to listings that were delisted by the vendor or administrator.
 
-Vendor profile pages were in format \textbf{\url{http://valhallaxmn3fydu.onion/xxx}}
+Vendor profile pages were in format \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}}
 and their reviews in the format
- \textbf{\url{http://valhallaxmn3fydu.onion/xxx/palautteet}} where \textbf{xxx} is vendor username.
- We were able to scrape profile and feedback page of each vendor who had active listing at the time of scraping. 
+ \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}/palautteet} where \texttt{\textbf{xxx}}
+is a vendor nickname. 
  
-From each listing, we parsed
+We wrote a small script in bash to iterate through all of the listings
+and download them using wget command line tool.
+After downloading all the listing pages,
+we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
+We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
+webpages because HTML elements of Valhalla web pages don't have any unique identifiers
+and so these libraries bring us no advantage.
+ 
+By scraping the listings pages, we got unique vendor nicknames,
+which we used for downloading and scraping vendor's profile and feedback pages. 
+The shortcoming of this method is, that we were able to download and analyze only sellers, 
+that have at least one active listing at the time of data collection. 
+
+From each listing, we parsed:
 
 \begin{itemize}
  \item Vendor's nickname = string
@@ -627,59 +639,53 @@ From feedback page, we parsed the following variables for each feedback:
 \item trades the author of review done = int
 \end{itemize}
 
-We wrote a small script in bash to iterate through all of the listings
-and download them using wget command line tool.
-After downloading all the listing pages,
-we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
-We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
-webpages because HTML elements of Valhalla web pages don't have any unique identifiers
-and so these libraries bring us no advantage.
- 
-By this, we got 666 unique vendors name, so we downloaded and scraped the vendor's profiles pages from the Valhalla 
-Valhalla market in a similar way.
-The shortcoming of this method is, that we can download and analyze only sellers, 
-that have at least one active listing at the time of data collection. 
-
-However, we managed to download 20000 listings out of 100000.
-
-The statistics, tables and plots in this chapter were produced by statistical and data analysis software R.
-The exact commands to generate these figures and plots can be found in attachments in file named 'valhalla-r.txt'.
-
 \section{Valhalla cryptomarket metadata scraping and analysis}
-We tested these keys, if they are vulnera
-ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
+
+We tested these keys, if they are vulnera ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
 All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
 he searches for user-Ids(both nicknames and mail addresses) returned any results.
 
-We thought that metadata from the photos of drugs, which are available on the drug markets might be useful.
-We downloaded hundreds of pictures both from Valhalla and dream market.
-Only metadata directly depending on image content(like the amount of red, green and blue colours) differ,
-metadata that could potentionally help dislosing user identity(date of creation nad modification, signature, software ve
-rsion) were the same.
-The software version contained line: $ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org$
-We created vendor account in both markets and uploaded an image with custom-made metadata to see,
-if the metadata were scraped and the same version of software version appears. It happened so for both markets,
-therefore we believe, that markets automatically scrape metadata from uploaded images in order to protect privacy of the
- users.
-For both markets, there was no transaction happening for days after the transaction was done. This means, that markets d
-on't transfer bitcoins,
-when there is filled order, all the transactions that these drug markets do are just for depositing bitcoins on drug mar
-ket account,
-withdraw bitcoins and money laundering bitcoins.
-We made multiple deposits and withdraws from drug markets in order to track, where were the deposited bitcoins transfere
-d and where the withdrawn bitcoins originated.
-These deposits and withdrawals are used to test the resulting application
+We thought that metadata from the photos of drugs, which vendors upload
+to show in their listing, might contain some information leading to identity disclosure.
+We downloaded 20 images from valhalla market and examined 
+EXIF metadata using \texttt{identify} command line tool.
+
+Only metadata directly depending on image content, like the amount of red, green and blue colours,
+were different for different images.
+Metadata that could potentionally help dislosing user identity,
+like date of creation nad modification, signature and name of software version were the same for all images.
+The software version contained exactly this string:
+$"ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org"$
+ImageMagick is popular software library used for manipulating images, so it seems
+that market automatically rewrite EXIF metadata in uploaded images in order to preotect privacy of users.
+To test this hypothesis, we created vendor account and uploaded an image with
+custom-made EXIF metadata. We than downloaded the uploaded image from webpage and 
+saw, that EXIF metadata were indeed overwritten.
+
+We tested if every transaction that is happening on drug market has its counter transaction
+in bitcoin blockchain.
+We deposited some BTC to cryptomarket and bought a virtually deliverable
+legally service(Link to secret forum) and checked if anything happened to the deposited bitcoins.
+There was no follow up transaction happening for weeks after the deposit transaction was done.
+This means, that markets don't transfer bitcoins when service or goods are bought.
+All of bitcoin transactions that these drug markets do 
+are accepting bitcoins deposits,
+sending bitcoins to withdrawing users and bitcoin tumbler transactions for
+obstructing analysis of their bitcoin cashflows.
+We made multiple deposits and withdrawals from Valhalla in order to track,
+where were the deposited bitcoins later transfered and where have the withdrawn
+bitcoins been transfered from. These deposits and withdrawals have been
+used for our application for detecting bitcoin addresses owned by Valhalla cryptomarket.
+
 \section{Drug market server fingerprinting}
 
-We tested if every transaction that is happening on drug market has its counter transaction in bitcoin blockchain.
-We se
-nt 0.05 bought a virtually deliverable legally service(Link to secret forum) and checked
-
-We tried to scan ports of drug markets servers and fingerprint their web server, in order to find any vectors of further 
-information gathering.
-We scanned both drug markets servers using netcat, finding, that the only opened port is number 443(HTTPS), which is use
-d by web server.
-We used httprecon to fingerprint used HTTP server. The fingerprinting consists of sending multiple malformed HTTP requests and comparing the web server output with the database of responses by different web servers.
+We tried to scan ports of drug markets servers and fingerprint their web server,
+in order to find any vectors for further information gathering.
+We scanned Valhalla server using netcat.
+We found that the only opened port is number 443(HTTPS), which is used by web server.
+We used httprecon to fingerprint this HTTP server.
+The fingerprinting consists of sending multiple malformed HTTP requests and
+comparing the web server output with the database of responses by different web servers.
 The results of fingerprinting can be see in figure xxx, the best matches are various modern versions of apache web server
 .
 The results of port scan and web server printing doesn't indicate any way how to gather data about drug markets servers.
@@ -688,12 +694,12 @@ The results of port scan and web server printing doesn't indicate any way how to
 \section{Publicly available data scraping}
 In order to have some bitcoind addresses and bitcoins linked to identities, We searched internet for pages, where are bi
 tcoin adresses tied to real or virtual identities.
-The interesting sites that I decided to scrape were bitcointalk forum, bitcoin-OTC, reddit, twitter, bitcoin.info.
-The bitcointalk and bitcoin-OTC are the most popular internet forums related to cryptocurrencies. The script bitcointalk
+The interesting sites that I decided to scrape were Bitcointalk forum, bitcoin-OTC, Reddit, twitter, bitcoin.info.
+The Bitcointalk and bitcoin-OTC are the most popular internet forums related to cryptocurrencies. The script Bitcointalk
 -scraper.py visits profile pages of all profiles on both forums (even those without any posts)
  and matched with bitcoin address regular expression.
  
-The reddit and twitter were scraped by twitter-reddit-scraper.py. The script contain several hardcoded phrases like "Don
+The Reddit and twitter were scraped by twitter-Reddit-scraper.py. The script contain several hardcoded phrases like "Don
 ate bitcoin" and "bitcoind address" and scrapes the results of search page.
 Bitcoin.info is a webpage that serves primarly as bitcoin blockchain explorer, secundary,
 it gathers multiple statistics about bitcoin blockchain and also offers for third parties to have their bitcoin address 
@@ -702,19 +708,19 @@ Some of these identities are verifies by signaturing custom made message with th
 
 We scraped data with the intention to link identities to bitcoin addresses. The data scraped from public sources are row
 s with thre collums: bitcoin addres, URL where was the addres scraped and username of the associated identity.
-All data scraped from the public sources(bitcointalk, reddit, twitter, bitcoin-OTC) are imported to the same neo4j graph 
+All data scraped from the public sources(Bitcointalk, Reddit, twitter, bitcoin-OTC) are imported to the same neo4j graph 
 database as metadata belonging to the nodes representing given address.
 
 \section{Detecting wallets owned by drug markets}
 \section{Using own transactions to get market wallets}
 
-\chapter{Statistics of Walhalla cryptomarket}
+\chapter{Statistics of Valhalla cryptomarket}
 
 
 
-\section{Overall statistics of Walhalla drug market}
+\section{Overall statistics of Valhalla drug market}
 
-Walhalla was originally founded as local Finnish market,
+Valhalla was originally founded as local Finnish market,
 that seems the reason for surprisingly many vendors shipping from Finland.
 The reader can see the frequency of countries the vendors are shipping from in table \ref{shipcount}.
 
@@ -749,9 +755,9 @@ Only 40 vendors got more negative feedbacks than positive feedbacks.
  If we look at statistics of reviews from popular e-shop amazon(http://minimaxir.com/2017/01/amazon-spark)
   and consider one and two star reviews as negative, we can see, that amazon sellers on
   average gets between 5-25\% negative reviews, depending on category of the goods.
-  On the walhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
+  On the Valhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
   Also, only 40 vendors have less than 80\% positive reviews and out of that 36 have less 50 reviews in total.
-  These numbers indicate, that the customers of valhalla market are much more picky about the vendor they choose than regular e-shop cuystomers. If \ref{Vendors by total revenue}
+  These numbers indicate, that the customers of Valhalla market are much more picky about the vendor they choose than regular e-shop cuystomers. If \ref{Vendors by total revenue}
   
 
 \begin{figure}[!htb]
@@ -861,7 +867,7 @@ If the user has his own data about the owners of different bitcoin addresses, he
 This chapter describes the way, the POC application was tested.
 
 The testing were performed by sending bitcoins to drug markets and withdrawing them.
-Than marking the addresses from where the bitcoins were received as 
+Than marking the addresses from where the bitcoins were received as 'a
 \section{Method of testing}
 \section{results}
 

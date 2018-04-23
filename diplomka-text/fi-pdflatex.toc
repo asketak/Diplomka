@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{19}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{20}{section.4.3}
+\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{19}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{20}{section.4.4}
 \defcounter {refsection}{0}\relax 
@@ -52,9 +52,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.6}\slshape Using own transactions to get market wallets}{21}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\bfseries Statistics of Walhalla cryptomarket}{22}{chapter.5}
+\contentsline {chapter}{\numberline {5}\bfseries Statistics of Valhalla cryptomarket}{22}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}\slshape Overall statistics of Walhalla drug market}{22}{section.5.1}
+\contentsline {section}{\numberline {5.1}\slshape Overall statistics of Valhalla drug market}{22}{section.5.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{22}{section.5.2}
 \defcounter {refsection}{0}\relax 
@@ -75,11 +75,3 @@
 \contentsline {section}{\numberline {7.2}\slshape results}{29}{section.7.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}\bfseries Conclusion}{30}{chapter.8}
-\defcounter {refsection}{0}\relax 
-\select@language {english}
-\defcounter {refsection}{0}\relax 
-\select@language {english}
-\defcounter {refsection}{0}\relax 
-\select@language {english}
-\defcounter {refsection}{0}\relax 
-\select@language {english}
