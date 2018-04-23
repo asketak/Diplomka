@@ -44,13 +44,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{19}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Drug market server fingerprinting}{19}{section.4.3}
+\contentsline {section}{\numberline {4.3}\slshape Publicly available data scraping}{20}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}\slshape Publicly available data scraping}{20}{section.4.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}\slshape Detecting wallets owned by drug markets}{21}{section.4.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}\slshape Using own transactions to get market wallets}{21}{section.4.6}
+\contentsline {section}{\numberline {4.4}\slshape Using own transactions to identify market wallets}{21}{section.4.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}\bfseries Statistics of Valhalla cryptomarket}{22}{chapter.5}
 \defcounter {refsection}{0}\relax 
