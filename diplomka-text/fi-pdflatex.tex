@@ -751,13 +751,14 @@ The second heuristics focus on detecting change address, as it was described in 
 If transaction has two outputs with two different addresses, when one address was used and one not,
 than we can safely assume, that the not used address is a change address belonging to the same user \parencite{androulaki2013evaluating}.
 
-Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
-addresses not belonging to the same user.
 We labeled each address in our blockchain transaction graph with unique user number
 and alternately run first and second heuristics until there were no changes in the user number property of addresses.
+Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
+addresses not belonging to the same user.
 There exist few proposals for anonymization methods that could make
 these heuristics missleading( like CoinJoin and dark wallet), but
-these are still in alpha version and there does nto exist easy to use implementation for regular user. 
+these are just concepts or in experimental alpha versions, not easily
+used by even advanced users.
 
 \chapter{Statistics of Valhalla cryptomarket}
 
