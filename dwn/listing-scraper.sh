@@ -1,13 +1,13 @@
 #!/bin/sh
 
-if [ $# -lt 3 ]; then
-        echo "Usage: $0 url_format seq_start seq_end [wget_args]"
-        exit
-fi
+url_format="http://valhallaxmn3fydu.onion/products/%05d"
+seq_start=1
+seq_end=103711
 
-url_format=$1
-seq_start=$2
-seq_end=$3
-shift 3
+for i in `seq $seq_start $seq_end`;
+do
+   sleep 3
+   printf "$url_format\\n" $i | wget --load-cookies cookies.txt  -P ./listings/ -i- "$@"
+done
 
-printf "$url_format\\n" `seq $seq_start -1 $seq_end` | wget --load-cookies cookies.txt -i- "$@"
+

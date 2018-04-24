@@ -234,4 +234,11 @@ ginni index
 Vysvetlit, proc poouzivam grep ve scrapovani, ze by mala zmena stranky rozbila i beautifuol soup , 
 
 
+Walhalla -> Valhalla - vsude
+web server vs webserver?
+silkroad -> SilkRoad
+bitcointalk -> Bitcointalk
+reddit -> REddit
+
+= v odrazkach??
 koukni na top 100 vendoru dle revenue a domysli ditribuci dle mnozstvi / pomeru recenzi ktere maji

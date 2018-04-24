@@ -181,8 +181,6 @@ XXX - mozna se zmeni lehce jmena/poradi kapitol, jinak povidani stejne
 The following text describes individual chapters of this thesis.
 Chapter Related works give an overview of works already done on similar topics. 
 
-\section{Structure of thesis}
-
 Chapter Technology and terms starts with a quick introduction to bitcoin and blockchain,
 which is used for paying on crypto markets.
 It also describes how cryptomarkets work and tools that are used by cryptomarkets' users and administrators.
@@ -718,6 +716,26 @@ The identities are stored as rows in csv files that have 3 collumns:
  \item nickname of the associated identity
 \end{enumerate}
 
+\section{Retrieving, storing and analyzing blockchain data}
+XXX - dodelat
+In order to create a tool, that will effectively search and visualize blockchain data,
+we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
+We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind st
+ore blockchain in multiple *.blk files.
+These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser 
+to parse these files and create csv files of transactions, outputs and addresses.
+
+Then we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to comp
+ute statistics and heuristics.
+All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{neo4j-schema}
+    \caption{Neo4j database ER diagram}
+    \label{neo4jschema}
+\end{figure}
+XXX - dodelat
+
 \section{Using own transactions to identify market wallets}
 
 Valhalla cryptomarket generates uniue deposit address for each new user.
@@ -751,10 +769,14 @@ The second heuristics focus on detecting change address, as it was described in 
 If transaction has two outputs with two different addresses, when one address was used and one not,
 than we can safely assume, that the not used address is a change address belonging to the same user \parencite{androulaki2013evaluating}.
 
-Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
-addresses not belonging to the same user.
 We labeled each address in our blockchain transaction graph with unique user number
 and alternately run first and second heuristics until there were no changes in the user number property of addresses.
+Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
+addresses not belonging to the same user.
+There exist few proposals for anonymization methods that could make
+these heuristics missleading( like CoinJoin and dark wallet), but
+these are just concepts or in experimental alpha versions, not easily
+used by even advanced users.
 
 \chapter{Statistics of Valhalla cryptomarket}
 
@@ -830,40 +852,19 @@ asdf
 
 \section{Statistics about vendors, drugs availability and distribution and buyers satisfaction}
 
-
-
 \chapter{Application}
 
-This chapter describes the application for investigating bitcoin address.
+This chapter describes the application for searching in gathered data.
 The application consists of three parts.
-The scraping module, that downloads bitcoin blockchain and also scrape data from publicly available sites mention in sec
-tion XXX.
-The computanional module, which imports data to the database and also transform data. so that searching in these data wo
-uld be fast.
-The scraping, import and computanional modules are available for linux only.
-The GUI written in HTML/JS/CSS, that is connecting to neo4j database REST endpoint and provides visualisation of data.
-The GUI can be given a configuration string, to connect to neo4j REST API endpoint, so the gui can be viewed in broser f
-rom any device, as long as 
-the server with neo4j data is reachable from that device.
+
+\begin{itemize}
+ \item The scraping module, that downloads bitcoin blockchain and also scrapes data from publicly available sites mentioned in section XXX.
+ \item The computanional module, which imports data to the database, create indexes and compute heuristics from chapter XXX.
+ \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
+ \item Webserver, that handles GUI requests and retrieve data from database.
+\end{itemize}
 
 
-\section{Retrieving, storing and analyzing blockchain data}
-In order to create a tool, that will effectively search and visualize blockchain data,
-we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
-We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind st
-ore blockchain in multiple *.blk files.
-These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser 
-to parse these files and create csv files of transactions, outputs and addresses.
-
-Then we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to comp
-ute statistics and heuristics.
-All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[width=1\textwidth]{neo4j-schema}
-    \caption{Neo4j database ER diagram}
-    \label{neo4jschema}
-\end{figure}
 
 \section{Implementation}
 
