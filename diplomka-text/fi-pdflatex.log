@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  23 APR 2018 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  24 APR 2018 02:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2198,62 +2198,62 @@ LaTeX Warning: Citation 'reid2013analysis' on page 21 undefined on input line 7
 42.
 
 
-LaTeX Warning: Citation 'raghavan2007near' on page 21 undefined on input line 7
-44.
+LaTeX Warning: Citation 'androulaki2013evaluating' on page 21 undefined on inpu
+t line 752.
 
-[21]
+[21] [22]
 Chapter 5.
 
-Overfull \hbox (40.91142pt too wide) in paragraph at lines 776--788
+Overfull \hbox (40.91142pt too wide) in paragraph at lines 792--804
 \T1/qpl/m/n/12 (-20) views from pop-u-lar e-shop amazon(http://minimaxir.com/20
 17/01/amazon-
  []
 
-<images/pospercent.png, id=382, 579.66562pt x 558.58687pt>
+<images/pospercent.png, id=386, 579.66562pt x 558.58687pt>
 File: images/pospercent.png Graphic file (type png)
 
 <use images/pospercent.png>
-Package pdftex.def Info: images/pospercent.png used on input line 792.
+Package pdftex.def Info: images/pospercent.png used on input line 808.
 (pdftex.def)             Requested size: 231.86214pt x 223.43079pt.
 
-<images/posneg-log.png, id=383, 582.67688pt x 591.71063pt>
+<images/posneg-log.png, id=387, 582.67688pt x 591.71063pt>
 File: images/posneg-log.png Graphic file (type png)
 
 <use images/posneg-log.png>
-Package pdftex.def Info: images/posneg-log.png used on input line 799.
+Package pdftex.def Info: images/posneg-log.png used on input line 815.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/reviews-count-log.png, id=384, 582.67688pt x 591.71063pt>
+<images/reviews-count-log.png, id=388, 582.67688pt x 591.71063pt>
 File: images/reviews-count-log.png Graphic file (type png)
 
 <use images/reviews-count-log.png>
-Package pdftex.def Info: images/reviews-count-log.png used on input line 806.
+Package pdftex.def Info: images/reviews-count-log.png used on input line 822.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/total-rev.png, id=385, 582.67688pt x 591.71063pt>
+<images/total-rev.png, id=389, 582.67688pt x 591.71063pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 813.
+Package pdftex.def Info: images/total-rev.png used on input line 829.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
- [22] [23]
+ [23] [24]
 
-LaTeX Warning: Text page 24 contains only floats.
+LaTeX Warning: Text page 25 contains only floats.
 
-[24 <./images/pospercent.png> <./images/posneg-log.png>]
+[25 <./images/pospercent.png> <./images/posneg-log.png>]
 Chapter 6.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25 <./images/reviews-count-log.png>]
-<images/neo4j-schema.jpg, id=406, 603.25375pt x 481.8pt>
+ [26 <./images/reviews-count-log.png>]
+<images/neo4j-schema.jpg, id=411, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 850.
+Package pdftex.def Info: images/neo4j-schema.jpg used on input line 866.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
 
-Overfull \hbox (11.14839pt too wide) in paragraph at lines 857--862
+Overfull \hbox (11.14839pt too wide) in paragraph at lines 873--878
 \T1/qpl/m/n/12 (-20) ule take two pa-ram-e-ters, the di-rec-tory of .blk files,
  which store blockchain
  []
@@ -2261,38 +2261,38 @@ Overfull \hbox (11.14839pt too wide) in paragraph at lines 857--862
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26 <./images/total-rev.png>]
-<images/application_architecture.jpg, id=413, 1133.23375pt x 357.335pt>
+ [27 <./images/total-rev.png>]
+<images/application_architecture.jpg, id=417, 1133.23375pt x 357.335pt>
 File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 865.
+ 881.
 (pdftex.def)             Requested size: 361.34999pt x 113.9406pt.
- [27 <./images/neo4j-schema.jpg>]
+ [28 <./images/neo4j-schema.jpg>]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-Overfull \hbox (16.56487pt too wide) in paragraph at lines 887--888
+Overfull \hbox (16.56487pt too wide) in paragraph at lines 903--904
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[28 <./images/application_architecture.jpg>]
+[29 <./images/application_architecture.jpg>]
 Chapter 7.
-[29]
+[30]
 Chapter 8.
 
-LaTeX Warning: Empty bibliography on input line 907.
+LaTeX Warning: Empty bibliography on input line 923.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 908.
-[30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 908.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 924.
+[31]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 924.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 908.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 908.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 924.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 924.
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
 (rerunfilecheck)             Checksum: 21A0F1348BF9DDE1E0FA366F26209118;2873.
 
@@ -2309,9 +2309,9 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27706 strings out of 493826
- 446392 string characters out of 6156380
- 902330 words of memory out of 5000000
+ 27707 strings out of 493826
+ 446399 string characters out of 6156380
+ 902313 words of memory out of 5000000
  30348 multiletter control sequences out of 15000+600000
  70132 words of font info for 112 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
@@ -2326,10 +2326,10 @@ ublic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on fi-pdflatex.pdf (41 pages, 429062 bytes).
+Output written on fi-pdflatex.pdf (42 pages, 430258 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 417 compressed objects within 5 object streams
- 104 named destinations out of 1000 (max. 500000)
+ 498 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 105 named destinations out of 1000 (max. 500000)
  20323 words of extra memory for PDF output out of 20736 (max. 10000000)
 

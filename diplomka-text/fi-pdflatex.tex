@@ -740,8 +740,7 @@ bitcoin tumblers in order to obstruct analysis of blockchain data
 that aims to identify cryptomarket's users and administrators.
 In order to address this issue, we used two heuristics, that were widely used
 in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
-for clustering bitcoin addresses belonging to same user and also used a label propagation
-algorithm \parencite{raghavan2007near} for detecting communities inside graphs.
+for clustering bitcoin addresses belonging to same user.
 
 The first heuristics simply states, that all inputs of one transaction belong to same user. This is logical,
 since users generally don't share their private keys and collaborate on creating one transaction.
@@ -751,16 +750,14 @@ owned by these addresses and find new
 The second heuristics focus on detecting change address, as it was described in chapter XXX.
 If transaction has two outputs with two different addresses, when one address was used and one not,
 than we can safely assume, that the not used address is a change address belonging to the same user \parencite{androulaki2013evaluating}.
-Both of these heuristics are pretty strict and have just a small chance of falsely merging
-addresses not belonging to one user.
 
-Label propagation algorithm it is popular algorithm for clustering and community detection
-in extremely big graphs because of its linear complexity.
-
-We labeled each address in our blockchain transaction graph representation with unique user number
+Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
+addresses not belonging to the same user.
+We labeled each address in our blockchain transaction graph with unique user number
 and alternately run first and second heuristics until there were no changes in the user number property of addresses.
-We than ran the label propagation algorithm on the 
-
+There exist few proposals for anonymization methods that could make
+these heuristics missleading( like CoinJoin and dark wallet), but
+these are still in alpha version and there does nto exist easy to use implementation for regular user. 
 
 \chapter{Statistics of Valhalla cryptomarket}
 
