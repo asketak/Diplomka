@@ -44,7 +44,5 @@ for filename in os.listdir(fpath):
 	if len(buyer_eur_num) == len(title) and len(buyer_eur_num) == len(price):
 		for x in range(len(buyer_eur_num)):
 			print("'" + vendor + "'" + "," + buyer[x] + "," + buyer_eur_num[x] + ",'" + title[x] + "'," + price[x]  )
-	else:
-			print("'" + vendor + "'" + "," + buyer[0] + "," + buyer_eur_num + ",'" + title + "'," + str(len(price))  )
 
 sys.stdout.flush()
