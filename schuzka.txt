@@ -242,3 +242,4 @@ reddit -> REddit
 
 = v odrazkach??
 koukni na top 100 vendoru dle revenue a domysli ditribuci dle mnozstvi / pomeru recenzi ktere maji
+prejmenovat pgp klice
