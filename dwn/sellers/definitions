@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bZNM5f6pXfpmmZuY17YWBDXJYq3vGDAazAEoAtRYFImoFglrSe3TdR27RFvPnLljrXgbNcJVVJkaFBkrCtiFbg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/aurP">Suomeksi</a></li>
+<li><a href="/register/aurP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/aurP">register an account</a>.</p>
+</div>
+
+<h1>Definitions</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 16 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Definitions</p>
+
+<p>About Us:
+<br />Welcome to our shop, We are Definitions here to offer THC products worldwide. We are stocked with marijuana and THC concentrates. We operate Monday-Friday, we ship orders only Monday through Friday as well. We are previous vendors from Abraxas, Evolution, Nucleus with tons of reviews from the past year from various sites  </p>
+
+<p>Current Stock
+<br />- Green Crack A+
+<br />- Purple Kush AA++
+<br />- Maui Waui AAA+++ </p>
+
+<p>SHIPPING AND PROCESSING:
+<br />1-2 day processing on most orders made, please allow 1-2 business days between the time the item is marked SHIPPED until it has been received by the post office. ESTIMATED SHIPPING TIME is 3-5 days via USPS Priority.
+<br />Please don't sign messages with your own key unless specified otherwise.
+<br />Use your full real address and your real first and last name. 
+<br />A proper address should be submitted in the format below.</p>
+
+<p>BOB SMITH
+<br />3962 Marina Street
+<br />Los Angeles, CA 92150</p>
+
+<p>Terms:</p>
+
+<p>We don't provide tracking unless the order has been marked shipped for 7 days.</p>
+
+<p>We do not ship to EVERY international country, message for details.
+<br />(All EUROPEAN COUNTRIES ARE COVERED)</p>
+
+<p>The maximum amount we can put in a single large box is 2 lbs (896grams). the maximum amount we sell is 6 lbs for a single order. If you order 6 lbs, it will be shipped in 3 boxes.</p>
+
+<p>For custom deals send us a message to inquire.</p>
+
+<p>IF YOU ARE UNSATISFIED FOR ANY REASON, contact us before leaving anything below a 5-star review
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFcfydcBCAC+T6X6J/XWu0E46emveJN48M199bJ4YVuawq9lkJ/QOfxg8MVM
+TXu+dpe9a1sjT6UqJMQ0zA3GHGoLT0KZ4Xb9JnVj3ImgE6YBwkcayqHG7S0CXrud
+VgLBBVMSRgJJMr28vrEe/2L3gpPVa1pqXuCYI2SSV4y8S5i9y9heLNVP4N/qBPAt
+f6WTHgtEd7Opw5qxmG6nVvBvDOiTNBpkIMoeg79JYgnsJx9H7skJHWRMujzuY/Kg
+4hju/Pt093L/2cFs2bSVPZUbpsG3efKSK9MpEQQJGvKfFLcpZQ4ZnJMRWsLrhPky
+wFDAgyMWMdB1NvR5wj8+pGWsB4ONcwzcxSHBABEBAAG0J0RlZmluaXRpb25zIDxE
+ZWZpbml0aW9uc0BzYWZlLW1haWwubmV0PokBOQQTAQgAIwUCVx/J1wIbAwcLCQgH
+AwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJELekMQr8ZpxynyUH/R9i9UCDOZRh98jn
+8ZoDLZRLKjmrwHhaQmEOLadlqEKx8bszWwOs1gqNSK/EzYDvoAk0riAfIa6uLSw9
+HuAjoJWzCwZJf16IULsAq+5hjmhr4RPxAid6nDTzsIFDXjqHNWqPTJ1KCmyNaNa2
+mlmvtXfSNZEhNjxZ4e9LMi6Dl2vOSYJhUMBZtbjcXZlALcMzvxMlaqQNxspj6bJc
+wSz+mn2vLAnoCnDXvD73JVdRNT3d+pa+tJrI7htTOh22RwmLWWuXo2FcuT8oS5lj
+TQ1IT/XOePSkbNi5Pm9oI5wGk6DR8JzfgXkMwxoBMk8IijCvZhZKQIYAdTLBWtU1
+HVeUi1u5AQ0EVx/J1wEIAPm4kQSEemUBFs0PvLGehYF8z483pOSZSpfBSWf1mNwW
+Q+gX2NkDnyiaFuQzxT0Y+8dlcymz6RIFbCkrkTSvxAviWTEIlHU01qmPPqiKwgq4
+jIMNfRTS8T9eNcUO7wcXlT34K6/fF9srtN0n4ja4Knk8BIElcU4m5lNdsXitZO5R
+38UHB29v7oHTyOgpm0ZA50qJpMABCvNVdc+JW4tFSEhJYahvIN0CRa/++ON0V6s2
+ILtfjKLYOcxvQraDJsSPe7Kr6CwnwiuFRk8s2kh7Bv0R88Ozb1gIOP2uOlsePJkF
+MI2XfzKdv6Q+eng1BdG3y9b8JM6IzpQb+pwy0UN+5ScAEQEAAYkBHwQYAQgACQUC
+Vx/J1wIbDAAKCRC3pDEK/GacchMOB/sEvrh1wws2/0/7ZG/yptuQRZMw00Un1FxL
+igs8jjc837f4iNSOyw3CITlR8d9KoDMQ72//EQyMt0J+N0iQghDpi6XfO2Qstuch
+1qzZ2QFe+KvZmXxwwyd4NV+hcjr7M685vgu1mOdm+23bmDqn57ykDxPJhpd+l0H2
+DlOXLWDKvYIYJtpF8D/B4P+Aqz0PV/as5MClRUhmJ9E7hxIDJBQd97UPKFFRPSqv
+iUAqsI0KL7+uFQnk4Tx01jpmuZDL7tPwIxOXdVSV3sq93uzsK3ARq6mcGoDrDnVv
+ycpJ4wr/2VWShKmanq0qjq7w8JAi/Ku6FceE8C3oXqJH/GtRxds3
+=bDpM
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

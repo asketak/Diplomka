@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GYROYVKyfF9vjWJZv/t1YI9+UfAl/1j1zHVqfCMQAfrTnPc+En+Qz5rRSnc2d4renEDfFTYrjegNWiUPqPAZQw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Qxax">Suomeksi</a></li>
+<li><a href="/register/Qxax">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Qxax">register an account</a>.</p>
+</div>
+
+<h1>Rxlabs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>***TERMS &amp; CONDITIONS***</p>
+
+<p>PLEASE READ BEFORE ORDERING</p>
+
+<p>DO NOT message us about the whereabouts of your order unless it has been 7 days since it was marked shipped and you have not received it</p>
+
+<p>Provide ACCURATE MAILING INFO encrypted with OUR PUBLIC KEY
+<br />REAL NAME
+<br />NUMERICAL ADDRESS  (Include apartment/Unit number)
+<br />CITY, ****STATE ABBREVIATION*** , ZIP CODE
+<br />            (2 Letters!)</p>
+
+<p>IF THE SERVICE YOU RECEIVED DOES NOT QUALIFY FOR A 5 STAR RATING, SEND US A MESSAGE PRIOR TO RATING SO WE CAN FIX THE ISSUE</p>
+
+<p>Do not send us a message with stupid questions, IE How much for a product that is clearly listed with a set price</p>
+
+<p>***ANSWERS TO FAQ***</p>
+
+<p>Transactions are only conducted on site/ 
+<br />Bit Coin being the only acceptable form of payment</p>
+
+<p>Only Ship within the U.S.</p>
+
+<p>Priority Shipping Only (3-4 days/account for holidays and weekends)</p>
+
+<p>Stealth is top of the line</p>
+
+<p>All orders are tracked</p>
+
+<p>Tracking numbers are only provided to administration in case of a dispute</p>
+
+<p>If an order has a "Delivered" status it is considered a successful delivery meaning 
+<br />we are not responsible for stolen mail </p>
+
+<p>If an order, if for some reason, does not reach a "delivered" 
+<br />status, buyer vendor 50/50 split</p>
+
+<p>"Undeliverable Address" means buyer takes the loss</p>
+
+<p>Yes you can FE, it is actually appreciated for various reasons that should be obvious</p>
+
+<p>Orders are typically shipped next day Mon- Fri, as in the day after they are accepted
+<br />this means if your order Thursday night and it is accepted on Friday, it wont be shipped until Monday </p>
+
+<p>Free samples listings are sometimes available, check back if it is not listed</p>
+
+<p>Free samples of various products are also available in exchange for in depth Reddit reviews
+<br />describing the product and overall service
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFdIwnQBCAC7JbBNnSqMst+Z9seFdATBbcDG2roEqiKVKr8y56YlezFE7itx
+vRUGoHVfpt20OYuOqK8xpN55RGU550mVrEJeGT36wKDgCZBk0iZLjfmcQ1Py6Hmb
+Qeej5RRxNTpKtS/8EKhRvScp1cuh3KjPj3HPsBGHG1OFkRH+3N4GvuXUqrkVL18A
+K8nXOudhhHPYZhh84bAgxYjRxDxCi6/Talfb73xI1fwmqsk7L2xQZJ7bCiaKrbg4
+QIqWVHglRJ4PWVW8HqdsSCmTz/IZGh1uZGqW3Gmhyyw7c62Vn9+TumYRtT44H2T/
+mJCqi41jhWzrhp/w5317W/wNxN7QNqAVh3RpABEBAAG0GlJ4TGFiczEgPFJ4TGFi
+czFAbWFpbC5jb20+iQE5BBMBCAAjBQJXSMJ0AhsDBwsJCAcDAgEGFQgCCQoLBBYC
+AwECHgECF4AACgkQAUTNJ8TSKLnIHgf/SQaeRDYC2bDJAyVMG+271jMKhf2BK8nS
+Jfh5mHBvNJDOI7D9sni6dYrVbp4eGEuoVA8A138QU3ONOgJQLoG1aweiNWf6GGIU
+MNCzeyjNM20cXYCqqY6Xo3ko39W7gfPo2f7fm8BKJtbAsFcqRAaVzvaXgFJYpn9q
+lJsv6EytT1istIy4Oxr8SzacQ1lf+zOi5AYhiqZ6h2sqe6942UTycx98vu1dtcqx
+qq/ejqz+cNiVDY2eyUlWmYX6tOGLkHeEtqL//rq9Bd4p2OcCLrduH9Tk9dDI6CP+
+pXtUFIOr2bItYWKeeYt85RararN/YpaLxo+2qj3aQMecJN/zcobIrbkBDQRXSMJ0
+AQgArxa//KUfBnSjBKL6idNR4CvnUY/cwttP2x9RYtHcfwx5H8fLdvfv4H8GEEZe
+CG6RiW86XeWOCzd6avxux9S18fv1qK6/VcEwadw83ycYjHWOKp0nLBS3iVB0SCNe
+fWnOdvz+q7Jssd+dhDbTmXlKPFS1NUF7ZgRpB4/4bD/cxZtYsUyEPlhlKL1FWoHt
+K6e01Ze5Juf1czEf4Yg2vm/IxgEjIUO5uthTCf1EXRb5dBAgF+u0ab1rmr/A9i6g
+8KMsU4K/zYwe8WYYy9ZjX9Bl9Gp4A3eHjMyqjxq5nnvB6ji5xbZg68PpyUzpomGg
+vk8OXs/6uuX/9CdrOaVVRgL/6wARAQABiQEfBBgBCAAJBQJXSMJ0AhsMAAoJEAFE
+zSfE0ii5CLoIAJ8402a717HUg+oojRy9OQBZ6CsDg0XJg2iryQSrnn3puiQswS94
+3R+S8sLR48mMQQI/e2CnUuhSRcGCeH034tkLV0hE21tyOgpd97KMXvz1Ac5CmINF
+7xS+FLZK921VtesBVwvWtDz6OAbR3UwCXvNve1thyI1fXe2SUmEctis+AJVutEyH
+a38Lq0zB9jkBqdcat4AL4wcTZP7osBC1lXd1Z8YRbjaR1Y+omrfnbMgUJvS2PTmD
+EoMJv87PIs/vnExdUwN6TXD9azLHV6RHltkLhK6Ierh+pgUcFx7pEd3JmXSSEz3R
+vEUy3tcj5xXqsi30R2rDEo7qa4OxFrFh2gg=
+=2SwT
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

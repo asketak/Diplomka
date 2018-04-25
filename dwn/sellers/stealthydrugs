@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MHeISWmBRWHoOzMkNkOe2ip9huqQMgY7FkEtqIW5T/hfPy03Ru7jZYp6szgQ1X+nJkf+E4iqXxCQqKXqXFkxHQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/xUVh">Suomeksi</a></li>
+<li><a href="/register/xUVh">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/xUVh">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>stealthydrugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>217</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 7274 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome buyers
+<br />All orders are shipped from Netherland
+<br />We sell only high quality drugs like XTC, coke, meth, weed etc.
+<br />Send us your Address always PGP secured.
+<br />Your order is always packed in Smell Proof Bags.
+<br />Rocks are not smashed, no powder. Only rocks.
+<br />Mail-Support in English and German</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFeQr1wBCADKL1xiq8Tq7AW5MLKJrXKsetUkP7DhgwUQfPFsmlbitLiFwiMq
+hWHmJOfI4zd3ElcPq8AKJ2cgYjAKyLHd73f9nVmRMhNuVj+9wAgV4QiugXWhnuDv
+B+aSVuJCOXauLFgvAtC9PvCnbjQ8hrK7/CNG+Dz3tU55k1bANhygUpETC0DaougW
+xuxqEjUW8kSkseyp8MUjDRdM7Tma5gZIYoIa2b/sGc0mzZsDD1mJ8W1rzvAy4r6a
+24B7W+5gmZkPXNtQwB5aHA1RvoZYNfdmneyDRSCux6ycIiS+CucHyKG2id9RcN84
+++qsnEI/8hU5zR5Z+kkYW8rK2DdrnJsYHLFHABEBAAG0HXJnYW5qYXIgPHJnYW5q
+YXJAc2lnYWludC5vcmc+iQE5BBMBCAAjBQJXkK9cAhsDBwsJCAcDAgEGFQgCCQoL
+BBYCAwECHgECF4AACgkQpla6BAiNmfFMFAf/eRgJf52pgFGbo4N67v/uphmUHpqi
+3NepW8aaUIkmtD3ULQ7K4DoN8Gi2C+v6XCxdpLoobIHVDz9daRD43CFvo9pBbeQT
+gyUUYFeQHk3Gnf2lRnhqrWYx+CEtMDTlR3k+nXLVi0Ewf/HwoZo+eFvy1O5FfrTe
+z24IJXo6Sn+aO153CmZrU6eId7OdXjzniiVBUF2Q4yk+tldqOtihffcEc4IToJDm
+aqhtq1SN8dc9Kl+miW5HqCEe5Cqlyjia9M0xM8BIUna8ERkzyoY26jLf8yl8g+NX
+vvvAgcs3kc19W1/aQl3/ayk0Zd7TG+N2peTsLeopyVB3GIvzYKpJusgmq7kBDQRX
+kK9cAQgAsYdnbO0/Gzw91kpsJBuef7BJ/rrnWnLKAdzQIxYxuBWi+1wCpCCttjL1
+2T7zgvpmRMkWMXSNZEMe07oO6L36+vKn0K8bt0cevfzeaD8BFaDnejeQ3A4e+8AY
+c9kYJq9e866xsw0Q3t4ywMVWOSsxWStjYBSd3IS8o3osSAsIPx7EIorlACMDwyEx
+z4ZGgfcfGGGDr2BwxKgbbaYBvm1+c7agAQ0yGAs/rWsxxtPfxtLaS0hIDjuGgGgi
+83QTCkUT+trAnUrT5BFW0r8QNua+5BJYrDoQOzLV/KUAPs9CDR6hviqP/EVvou9P
+W0L7EOsf0BOhsBkSMyWeQk192LGsUQARAQABiQEfBBgBCAAJBQJXkK9cAhsMAAoJ
+EKZWugQIjZnxXE8IALq/brSostdvhEzS7VdeRQvFUEGUfXUzgpA7v2kTt83EFEoW
+uUKx36ePBC16KpP0CapmCdg8ZxNF1+3gCs0PISwjmg8mjALC5TWiv0xkJcCcuupO
+ha9AsLDN+K4UDan+aUC6TQqmT/3CnGDuBYGw5P9oDmLgVAuB3Vfwv0Od6Fkj631V
+AP9KPigobzQUURMkpUmBX4jrFPWXMhMM4A/SKi7Gsd6xw5jnB49QTeVsK/VfQae6
+9mWX6yHabRYq5TiljsHETDnV8lG4TjLZx1wiUP14vVsb5biBSfcmEQF+LlO53cj3
+5KdTCRvI+zKofoI8gzs0U8KJtAuTK9J1ur+RwIs=
+=+/ek
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

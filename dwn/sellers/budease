@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kaIl+3+b/CbujFC9Fvk+uXaMT9yHQ/J2Tyf1vWcDbGy2GmKe90GVfL+CSoQueuXpQ9MwEAdlVy0o8dABzBgL1Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/vzfA">Suomeksi</a></li>
+<li><a href="/register/vzfA">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/vzfA">register an account</a>.</p>
+</div>
+
+<h1>BudEase</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 103 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Ships within 48 hours except weekends to USA only. </p>
+
+<p>Plain package shipping, safely and securely packed with love.
+<br />Guaranteed shipping, with tracking. Tracking number will not be given out unless an issue after one week, this is for security reasons. Do not use fake addresses or names as this only causes more problems.</p>
+
+<p>Please Send info accordingly:
+<br />John Doe
+<br />123 RANDOM ST.
+<br />NEW YORK CITY, NEW YORK, 10001</p>
+
+<p>Trusted on AGORA &amp; DREAM MARKET!
+<br /> DM LINK:http://lchudifyeqm4ldjj.onion/contactMember?member=BudEase</p>
+
+<p>About BudEase:
+<br />* We're open Monday - Friday
+<br />* FAST and SECURE shipping for ONLY $6.99! ON ALL ORDERS!
+<br />* We currently only ship within the U.S. (Sorry to our foreign friends, but you know customs...)
+<br />*Check back with us frequently for our AMAZING, rotating deals!
+<br />*Bitcoin is our currency. We cannot accept PayPal, Western Union, Bank transfers, and will not meet you in person.
+<br />* If there are any questions we will be more than happy to give answers. 
+<br />* Tracking numbers on all orders will be given out after 10 days if an issue occurs. 
+<br />* YOU MUST PROVIDE US WITH A REAL NAME AND ADDRESS OR A REFUND WILL NOT BE GIVEN!!
+<br />*PGP not required.</p>
+
+<p>** We handle all our packages with love, and pack as safely as we would a close friend. **
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFVW5ZABCAC/6AVOOB/pSfj4PK4mAjkZ7CC0irgV/ZbTxyYSIGABGYZdd7D2
+Qod/za+H3aVCd31iKp+fbESFZUfkUs4XU0jn4DVU8tsxqdK00K3DyRfYNdc5DtU3
+S/n1sBWu12qX8HPe1x9NEkmSBeC097hW0P+TMYvPb4rQSGthMGzjxhBFlrANZDlD
+Om5ZmaKjXtJIs5gH5u+sWmv2SGN8rveDuPqiXfPT0+9+r/16gKMVMYlgLTDw+bEI
+FYCTGjQHV3ustDS4HrwxcumHsXv5p1jmUj/1Hy9qWwLWVy91SaDLkM4G4j2YINyf
+sR0b9vpIwHwUqsk7U9vRDeh/oAozcgFqxcjnABEBAAG0KEJ1ZEVhc2UgPGJ1ZGVh
+c2VAc2lnYWludGV2eWgycnp2dy5vbmlvbj6JATkEEwEIACMFAlVW5ZACGwMHCwkI
+BwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRAvqWBlzLVwF41KB/0WVbBnZ8XZSPFv
+7VA0hndFSC56dof7ZoQl/L2rxQPQmMKaa/7XMVi0fJrHyqSJnxyy0NVOZjXJEz3s
+XkH+WPKbByqXZ/+3logSrt62VT2BfpExdXPXH3pjXf2CPNRsx/YunDUo9Vlpq29p
+A8Cu4PdAghBErSF9trIGeiOAqz4kCDTXoyMrRsZ6CzXeFNgITB/M6Lq4jyQYEngm
+T34U3jRIl7C/XkuvBdz+hKw8Xmb114ZMKMYDplpP051Tm963LRcStRiyOgTsLEYo
+pvNfaEA5NAqyGBoB7oSWGoT7+Zvll4zQr8BGrkzeULjTbyBQOvPs+3B+MjpcsjEa
+Q8KjTscXuQENBFVW5ZABCADSE1Gd1JwdVHTwEsh9yoAeI7kTs9s6X2tKbRAHfba7
+fghLcp/3qHdOcVctRg/xxuj66XOzGm9HWjGQMa4PkW/+jHxYKiM1Qepmu9yO6phN
+9wWNahKrwEt/raVFNifYTGkoMyYpgxOqLD08878wBCXBTxbADNsoBZIFAIBLITpF
++U6BNrLWCxr8rGDlbYkLFAfvd1guBs6cU6yKvFCT04koZlPDcNMQAHJaICZAQncX
+K2v/D8x//MNXyd6tSkiItZP0rna5dLMo5QHMwiFQPhYwMZJePRf75YEuhg30SHe9
+lnnfhTIAerZf+W+Udh2dMcwC3uZr1GLcl8BuKfkG9Q75ABEBAAGJAR8EGAEIAAkF
+AlVW5ZACGwwACgkQL6lgZcy1cBfTYQf+LzZ6WI4qNk5q3xKbTKHuqjRmsc8jN13+
+z6AZIB5jc7g1WpEQSaDRH7DK9Lr9RhtNK9M3uu2Mq11gclT7iecf4t0w52XhxFde
+KzCDC92bYydahQfBghguEnn34uT1rpPDnXRF+g8lDo5maZfAXw+TvQYoJSkw5wXe
+JtDwj9ivKRHK6w43k+utYMxhg5dpQ8+fUmuMpTCV2WBLqGujFxCaI6e1re+ZhR8t
+MMCWRtXa95toFHah/TdnGn7mpthihBcStVGgR1ZMs3z6nm3MKdMEx1ZVNQkvq32o
+DCmzT0Iq/8xom77DqoETBNdFinqlRpjT/8p6qhZTqSzTAYhajwbGPQ==
+=P1cn
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

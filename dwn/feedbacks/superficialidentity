@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QOhSj6RBtJieR0mK5chsgpijY4XLQjZZjzmeZOlMI0oD6D16s2VXZYMnAz8Xm9+mvfivkLnBG/7yN9oD5sLpzw==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/superficialidentity">superficialidentity</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A+
+<em>(1.3.)</em>
+</td>
+<td>
+<a href="/products/101182">Oxycontin 20 mg 5 stk</a>
+(107&nbsp;EUR)
+</td>
+<td><span>
+L1***nd
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tok en uke, men ellers er alt som det skal.
+<em>(20.2.)</em>
+</td>
+<td>
+<a href="/products/101182">Oxycontin 20 mg 5 stk</a>
+(106&nbsp;EUR)
+</td>
+<td><span>
+pe***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

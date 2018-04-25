@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lMfKoJ6veb1VTNxfDzCNHEtYTNP5BG++GJ96k407xtntg6xocMZ0JyonTUWSJbi4pJ1TyKCoFlbplAS9EvCR6A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/MG2T">Suomeksi</a></li>
+<li><a href="/register/MG2T">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/MG2T">register an account</a>.</p>
+</div>
+
+<h1>HypeSupply</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 39 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>★★★ABOUT US★★★
+<br />We are a US based company dedicated to selling top quality methamphetamine to our customers. We have been vending on Alphabay under the username "anonsek7" for almost a full year and have proven ourselves as a reputable and trustworthy vendor. Our product is made with only the best ingredients and the most rigorous manufacturing processes to ensure that the end result is some of the purest meth you will find on the market. Untouched until it arrives on your doorstep, our meth comes directly from the source. We promise you will not be disappointed.</p>
+
+<p>★CUSTOMER SERVICE★
+<br />With over 500 deals to date and hardly any negative feedback, you know you can trust us to sort out any problems there may be and get your product to you at all costs. I am always willing to work with you if you are unsatisfied with your product, all you have to do is PM me with any complaints.</p>
+
+<p>★STEALTH★
+<br />We take our stealth very seriously, and our process guarantee the safety of your product. We have never had a package seized, and our customers are always satisfied with our concealment.</p>
+
+<p>Note: Please encrypt all sensitive data in the buyer's notes for your own security.</p>
+
+<p>★SHIPPING★
+<br />As we ship US domestic, products usually take between 2-4 days to arrive once shipped. If you think your item is taking too long to arrive, please contact us and we will gladly try to help. Items are marked as shipped as soon as we ship, no delay. Please format your address in this manner in the buyer's notes:</p>
+
+<p>Full Name
+<br />Street Address
+<br />City
+<br />State (if applicable)
+<br />ZIP (if applicable)
+<br />Country</p>
+
+<p>★MARKET EXPANSION★
+<br />We have decided to expand our business and start vending on new marketplaces and you can now find us on Hansa, Valhalla, Dream along with our "AnoNSek7" profile over on Alphabay.</p>
+
+<p>★FAQ★
+<br />Q: Do I have to sign for my package?
+<br />A: You will never have to sign for one of our packages.</p>
+
+<p>Q:Can you deliver to a PO box?
+<br />A: We sure can.</p>
+
+<p>Q: Can I pay you in x currency?
+<br />A: Currently we only accept bitcoin and any other cryptocurrency commonly accepted on DNMs.</p>
+
+<p>Feel free to PM us if you have any further questions.
+<br />regards,
+<br />-HypeSupply </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFX3pxUBCADB/j/CdE7hHABuUKIyX1WqLKV4qNAl8UNpLWxcZSPjrYgGgHJe
+RCGpdPgRDyMFyRaIqRJaFr6tC2UomJxVWFhA+ZVpl5EJKkcfTKdRxWaKLd3evY5J
+tM0SrhBasSItylAIWaEUa5p4rhDq2aB2YT6r+Wkc58PwnH9SOHe/RCVm+QW8+PbR
+qaUHNv1eDQYulgVka6Xi8jjv5u6AIFGtH10w0PT6oeqEOAsHXv8VBb/QW8eXUPDr
+OlTf3A6qnd9pi3DFmRPC6XD3YzeVJMfIy58TWXFgi54BtgsEnpP2zUS7PdjFftNh
+LdauI8kpEcGj/jy6a7eVAlgbfpNo1zrhl/EvABEBAAG0IFBHUCBLRVkgPGFkbWlu
+QHplbG9zYW5nZWxlcy5jb20+iQE5BBMBCAAjBQJV96cVAhsDBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQ7VkC+hvIHHLfpgf/XN1yXauN152LMFgH9bljV0H3
+BPns3fAggoAN2uVV+Sm5ueG9XlqZ7VdUSRyzSEAVH5j++O3XWrDw4D8tl0A1efc5
+LFvdOIGplYIRBfkcvFF/MdzFNA4+wHA2T3QlGAQdBbRPsMA6pYbpEPtXasJYc1hR
+xw+Pu4+OGC7P4KjR9dDCGE595MpJbR7dmwS0k9BgXE9zEymssl0foMX1EujBAOvI
+P9ybyGQKthqDBKATMDof2gBG0U+7eb8KIIKtHHoonxjLiyaVz39OfyPfIvFzsPXo
+Xxme0CPkSWrYs5xAsLz5g9bz4vrnMZBylaz5vt1yQEVbxPXbco/FQgbtEdrZ8LkB
+DQRV96cVAQgAt2k/ErV4+zRRZcgs2irXcWvYYvuV69ezhCfQ5IFiMStIDi8c3+uU
+twUfviNyUOCY8NYmcmd4rr890P+dCGbGhcR29Kny7ShbuyTQ77oV18f+Bg7FEMNY
+J/ejxoc4u4Ob3B3U7kUtqJZDGdt1ym46BNTHoOICUk0pYJaA8e8WSlyEqa6RhfDG
+WfS2QwgPBuyadMq79lV9Vrj8JiDNeb9jjVp78ViL6+YZCgbF7jdlQ2g2ehX5zZew
+uMoZbNih05zal5ZBzbmnLf6l6BZP1WXlO60xiMsNz9/qLMHAXg/Xgt0oxDn6CiAr
+xQz2SREMLkoI3TltLbQxITMcD2pqclf5xwARAQABiQEfBBgBCAAJBQJV96cVAhsM
+AAoJEO1ZAvobyBxyVcQH/RLDKXyvLU6O5IEpr4tHo4t/PLQ6syYaO+tOjV0iNTNk
+hcmiACQI6D7q+hJZjar6FnBDj6rWw3tjMBfZusHkeDIVsnSJ/BaHv6bqheUnsu0+
+dJC5V5IfrlRlIFPNAegO4h+FF/T7AHWdnkJIfxVRJQWpmn8Qaj1r6KzW1XiVKyfM
+OZ5AQ/Zw/q/t5JVCIRsrhFySFp/b1NXFzHINo8HVSJlku/hn6npkZlKSJY6YnEhO
+ufOkuQE84lz5bTT4QjiqnEPfsSqlYErrqeKLxqvX2dP7OpkIJ1KnPUzTPwfiuvCF
+6ttK4YopiiBu/fVtmmOCVGm1iTSD28CWk8iaRtg7vno=
+=ghMJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

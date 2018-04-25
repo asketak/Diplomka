@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="r3Zq75pESMGC3SnGZOHf91vX0Mk7Ucifcb4xZjVFP20/l/aXFmN+6I678ti1LUANxKXyn3IJXdZvI7a3oTlEjQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/rsxP">Suomeksi</a></li>
+<li><a href="/register/rsxP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/rsxP">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>party-fruits</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>128</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 4818 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>welcome to the spanisch coffeeshop
+<br />here you get high quality drugs.
+<br />Our stealth is realy high, so that we 
+<br />send our product worldwide.
+<br />If you have more questions, please
+<br />contact us.
+<br />Our other outdoor products most ready for 
+<br />sell. we will offer them soon</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFc5vnMBCADH6bR9CIo3/CetfBEkbRqKYrf/VQB8wratXkUedhVACoKHpXSP
+kqhOoHzysAEL0ynv9aOehwOMXbBo7HwjoFOB3OXgycEanD0irJqMqsd7ToOlUgnf
+hgEHMl4eh9OakU+rqMCA4Spz0zdBURgzKyLPesSrxN7hks8ftcEuFVfxegwsss1r
+kmX0chy5GAva+6baw5AWD1de1B2+EwVMyELf+LIOCVlKQYysdUCnV1GWvs4M3sEY
+e3qXCQuixprT1K9us6urDi9tllbQ/ESXoQc01lz7hsP5jQNkLVWYhmtsj3PFjCOs
+FKEV6AQDZIYRBJyWl++zme1i2Fwl2+Bt7m11ABEBAAG0K0JMQVpFUkUgPGJsYXpl
+cmVzaG9wQGFscGhhYmF5LURyZWFtLVZhbGhhbD6JATkEEwEIACMFAlc5vnMCGwMH
+CwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRBsBXi1RqozOw9ECACNVFJ+AVBA
+raeiYnr7K8iR/8QUXvfLXWqbsgkhox6LdGCEN++Wg3dsmbE2fYzVuSUQequTeEBo
+yI3WId+FoV23kjKxcYpxVTm2H3uO6f62mx7O/QQeLsYgevB4UE8I2b7w+ZloU5Y1
+M1l2+EO0+HLqUoa50KAiFw6RE9eJR7PA/BU7F2mMhtDTc8Sa8kxGxVfI0UIOfmsU
+TisT/tbKliY/pB55gwSAOSl0DMDBBsdb2wh64VtKieP54XHk+Llp77c7bsAMmWGt
+fFCATY70IF/qZNQBFmgf67dKtl6uu8Ozsis2QeoDqlUHt59IhGKJdBH8punjKd9B
+uL+pieoIBfNQuQENBFc5vnMBCADLxMqf9kIiqGStOC6bZTuTg+JJ0pIX5QG5urGL
+LIgCzZjIezoRFvH9BYb93vE4lQHEALYp6Iia3jKMef17AZj3UrQFn0E9Fev8ckQ/
+6k2m54htIHq7C7xl1JkOXd1tGcFONACqiynhhanJIMOcoP2Hq73Zd3MMjY6aIQmo
+0Z5drWBss8RDtiLntsxnk3pNr/Sk6obQqetLEpz9cG6/FezmbMp42ghh853SC7Fe
+ZyHi0hAekUEq+RDDsmCxElEvI7Nw45Rs7jS8wMSq5GN4N8zmsC0dErBH/8+ZAZWD
+RJM7ff2jZlIWS3IP7oQfnFlgKmndCU+SgrK1bMkdgchdrmv5ABEBAAGJAR8EGAEI
+AAkFAlc5vnMCGwwACgkQbAV4tUaqMzv9lAf/dPJaFaKmz541LQzUp/bYl2+379wd
+FeLMYEWOeANvMhI4X03mIESqnEvuphmuAGOekliN6JrW7rN1VuK3JAIsXcj1+r/J
+3yV4TCwej5o//cWinhp+MTcG6l6/teGXDfo+taPU/UFNcdtriCXftuP/YIpIh0fL
+9sJFDvx/BiRsr45H3/Eykk0a+JoElQ8B8kJVoFau1cTYBKH6TpBMcI131TBKtx+V
+lFbAAx/MpAVe0sB6Gc5ghDaPK0+DNN01paZccDPCWXSAmMQPwgKGCTEb0BARtXaA
+Gbs7ykMdzjgNCIyaRNESiI5j4isSl2+Sk2pJNg14rs+77KKWK/XIH9/l5g==
+=99yT
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

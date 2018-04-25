@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ekHydr7TJTi56Db/qqREzroprviuUpaRwLLMYBqzii+ziYOhRB/GVWXxdNPRMpfyK659VShWlE/j/fn3KDHFLQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/zxQ4">Suomeksi</a></li>
+<li><a href="/register/zxQ4">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/zxQ4">register an account</a>.</p>
+</div>
+
+<h1>Canna-Juice</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 82 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Canna Juice is THE ORIGINAL THC Vaporizer Juice (e-liquid) AND Canna Cap purveyor on the DNM's. </p>
+
+<p>We are a coast to coast cannabis club located exclusively online.  All are welcome to our little cannabis club. </p>
+
+<p>Our focus is to offer alternative cannabis items for discreet, easy consumption with applications both medical and recreational.</p>
+
+<p>We take great care and pride in what we do and use only the purest and finest ingredients available with all of our items.</p>
+
+<p>If you have any questions or concerns, please feel free to ask.</p>
+
+<p>We ask that you use discretion with any sensitive information and only disclose such info via PGP.  For a proper response, please also include your own public key when submitting inquiries. </p>
+
+<p>market downtime/closure reach us at: CannaJuice@Sigaint.org OR</p>
+
+<p>on Grams: http://grams7enufi7jmdl.onion/vendor/Canna-Juice</p>
+
+<p>We want to live in a happier, healthier and yes,.....higher world.  And we can make it happen one mailbox at a time.</p>
+
+<p>CJ</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+mQENBFUQB9MBCAC7tyxpnedpyIPeFwQ+NGMhV7JU6eMzUGQWwLc4QTm+9QyJ9WbP
+1NTh+Epggrtng7b435IhO2I2FNAKLphLSocHJBkH8FCYpQ8WeGhKK/DudjbKZaiy
+gz5PUs8GbrKZ7IjtpNy7varikoZ1xGJrw+KaakysgodISedqts1FJ/qSNbhy3qwi
+Z+ruvWQPEZVpw0WqTHZPOv9a0rgi30ya5jzW0LFfqz5n4AmvI6Rer9NcKUarA+ey
+h4Am2VDqNzLqFksXr2ZsxafOnBzcoU/Tj2HY6yLPl382CnioKmYBMsVR+mXQaaHJ
+j4rR7sUO3wyeKBfKupbLpN5M5bgklVyovPt9ABEBAAG0MUNhbm5hSnVpY2UgKGpr
+amtqKSA8Q2p1aWNldmVuZG9yQHJ1Z2dlZGluYm94LmNvbT6JATkEEwEIACMFAlUQ
+B9MCGw8HCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRCVoV+HonolzfpGB/0c
+ZrY4NBtgwP+TIrngAZ/5oI4bZLYiGHK2NYTD1C8rcNxEktOhJaC5P9nP7WTXuBMB
+0b0aMgjB8ONp+LselcXQDEMfEd9Ea4aiIUPoR/2spUWQdx0Zxs89hbjTYuJxwWQ+
+cK4mkrEhQsVNPlLKnsngViWHt5do0q3w03GzPh60mHMtzq12+c36B0EpIwPngZud
+ufejlkGvLy/j6Fu/4knhgBDL4550C8cxlokrgvxM/HhvWm73QheAKdR/uw03vrky
+zWUVwO2k28vnsuvhXJ7OOclyXdzUdTMZzF/zJWWOrZJDiSwVvHVauvGEyOLkZvOt
+wETVRhxVmVzrFtYnQcLR
+=krUf
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

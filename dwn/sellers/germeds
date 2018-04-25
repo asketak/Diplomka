@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4hsvVXk1RZSTnhV24svUjrHMP1FqMRRSX3WBZSsGM8EPRlxuGwx5y94qRQJeqRQWIwu/VvqiOQ31Jw5LqHr8Mg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Xs6M">Suomeksi</a></li>
+<li><a href="/register/Xs6M">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Xs6M">register an account</a>.</p>
+</div>
+
+<h1>GerMeds</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>I'm here to serve you with Oxycodone and Morphine Sulphate in original blister:
+<br />I was a vendor on Evolution and Agora. I only have a new name and PGP Keys, but I still can encrypt message with the keys from Grams Info Desk.
+<br />I still on Nucleus, Alpha, East India and Hansa.</p>
+
+<p>I ship from Germany to European Union from Monday to Friday.
+<br />All orders till 6 o'clock pm UTC +2, will be send till 9 o'clock am UTC +2 next day.
+<br />That means for domestic orders, they will be right at your doorstep 48 hours after your order has been placed.</p>
+
+<p>Please use PGP encryption for your shipping information.</p>
+
+<p>I check my store and the community randomly a few times a day, to take a look, if there are new orders or messages.</p>
+
+<p>DISCLAIMER/ ToS</p>
+
+<p>TERMS AND CONDITIONS:</p>
+
+<p>1. For domestic (Germany )
+<br />For non arrived orders, we offer 50%
+<br />reship on next order of equal size or 50%
+<br />BTC refund.</p>
+
+<p>2. For European Union orders with registered
+<br />priority mail:
+<br />For non arrived orders, we offer 100%
+<br />reship on next order of equal size or 40%
+<br />BTC refund.</p>
+
+<p>For order without registered priority mail, we
+<br />don't offer any reship and/or refund.</p>
+
+<p>3. For European Union orders:
+<br />If you have a non arrival, you need to provide
+<br />us with the seizure notice.</p>
+
+<p>4. I will not take the responsibility for any
+<br />postal companies.</p>
+
+<p>5. It's not allowed to post negative feedback, if
+<br />one of the above written terms and
+<br />conditions fits to your problem. The feedback
+<br />will get into dispute.</p>
+
+<p>-----------------------------------------------------</p>
+
+<p>Check your shipping address twice. If your address is not correct formated and your order will not shown up, you will get no refund and or Re-Ship.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=/ZXn
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

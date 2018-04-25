@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="A33IIQ8vLRbMysy0XQx7sGzeiTrhx4n/au6my9D7Y4zYv9oNu8OtMYU7iO+iLwkGiBcch6zqGLsIvbqJTZ3iIw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/2xKM">Suomeksi</a></li>
+<li><a href="/register/2xKM">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/2xKM">register an account</a>.</p>
+</div>
+
+<h1>Hätäapteekki</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>340</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-17</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 1 hour ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>Huom! 
+<br />Ma 30.4—1.5. ei postitusta
+<br />PGP-avain ei toimi, joten osoitteet viestillä tai esim privnote.comin kautta! Hävitämme ostajien osoitteet, kun osoite on kirjeessä. Ennakkomaksu käytössä yli 70 euron tilauksille ja alle 10 tilausta tehneille ostajile. Ja muista kysyä customeista, sillä isommalla tilausmäärällä saat alennusta.</p>
+
+<p>Postituspäivät maanantaista perjantaihin. Vaihtelevien työvuorojen takia ainakin edellispäivänä klo 22 mennessä tilatut tuotteet ehtivät varmasti lähtemään seuraavan postituspäivän aamuksi laatikkoon. 
+<br />Ilta- ja yövuoropäivinä saattaa olla poikkeuksia ja voin postittaa klo 11 mennessä tilatut tuotteet, varsinkin jos tiedän, jonkun ilmoittavan tilaavansa, mutta odottelee bitcoinien siirtymistä ostostililleen.</p>
+
+<p>Turvallisuutesi on ykkösasiamme:
+<br />Toimitamme tablettitilaukset huomaamattomissa kuplamuovikirjeissä ja kaikki tilaukset laitetaan myös vähintään 3 mylanin mylarvakuumipusseihin, jotka ovat läpivalaisemattomia sekä haju-, vesi- ja ilmatiiviitä. 
+<br />---------------------------------------------------------------------------------------------------------------------------------
+<br />Silkkitien sisäinen vallankumous alkanut. Koitamme tarjota aina halvimmalla, mikäli se ei tuota tappiota. 
+<br />Uudistimme kaupankäyntimme tuomalla siihen lisäetuja ja bonuksia vakkariasiakkaille. Asiakkaat ja turvallisuus ovat tärkeitä, mutta koska olen täällä itsekin satunnaisostajana niin arvostan reiluutta ja edullisia hintoja, laatua ja taattua tilauksen perille tuloa. Joten mietin miten itse olisin mahdollisimman hyvä kauppias.  Koitan pitää hinnat silkkitien alhaisimpina verrattuna muihin suomalaisiin vendoreihin. Kunhan ei sentään tappiolle sentään, elanto on saatava perheelle eikä täällä käy bonuskortit, joten päätin tehdä kunnon investoinnin palvelun kehittämiseen ja katsotaan miten toimii "ISOMPI TILAUS, ISOMPI ALENNUS".</p>
+
+<p>--------------------------------------------------------------------------------------------------------------------------------
+<br />Jos tuotetta ei tule 1-2 viikon aikana niin ota ensisijaisesti yhteyttä meihin ennen kuin annat negatiiivisen palautteen niin katsotaan tapauskohtaisesti korvaus/uudelleen lähetys. Mutta tämä edellyttää, ettei ole ensin laittanut negatiivista palautetta. Mikäli poliisi vie lähetyksen niin lähetämme uudelleen tai maksamme rahat takaisin, kun olemme nähnyt poliisin paperin asiasta.
+</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki toimii niinkuin pitääkin
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/10644">Norspan (Bubrenorphine ratiopharm) 10mikrog depot-kipulaastari </a>
+(40&nbsp;EUR)
+</td>
+<td><span>
+Ru***la
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tuli perille loistavasti, kiitos! 
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/104029">Venlafaxin Orion 150mg x 14 (10e+postikulut)</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+as***ry
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvää työtä myyjältä. 5/5 kaikinpuolin. 
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/10644">Norspan (Bubrenorphine ratiopharm) 10mikrog depot-kipulaastari </a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+Fr***te
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/9249">Ketipinor (Seroquel) 25mgx10</a>
+(123&nbsp;EUR)
+</td>
+<td><span>
+pe***da
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/104029">Venlafaxin Orion 150mg x 14 (10e+postikulut)</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+pe***da
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/32213">Norspan (Bubrenorphine ratiopharm)10mikrog depot-kipulaastari x 2</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+Ra***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+pientä bonariaki oli mukana
+<em>(29.3.)</em>
+</td>
+<td>
+<a href="/products/88526">Lyrica (pregabalin ratiopharm) 300mg x 7 kpl</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+th***xx
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(22.3.)</em>
+</td>
+<td>
+<a href="/products/9249">Lyrica (pregabalin ratiopharm) 300mg x 14</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+mi***81
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(22.3.)</em>
+</td>
+<td>
+<a href="/products/9249">Lyrica (pregabalin ratiopharm) 300mg x 14</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+mi***81
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/hataapteekki/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFbbGrUBCADMlVazmMe6XE4B+90q3fP9LS3/ATnYfUzv/XM3Pv7bmzxwQ/Fc
+yJb1CPUQkbw+VdAM7/0iWWBBzS5DxhPaXj0H4hhQYEWENvLdOhn+r3umiPktjsQH
+FRtx8UCwtiajwwRYBtiDHM8y9Z/FdISvNV7RLKPYPaX452w1dHQrqc15PrA/IX4U
+8ZA7CL4NpGATYpFmj3AuNIvbcZ8GG8ekDCjf/36AGDFkKWOuRypEVrujRcFR4DJQ
+Oh0/w2tMUQygmZXZlBDLfe3T8INRfraYsIFKndwujojy13hSROenlf/Hzeg/NY1K
+CS+GAKdvoK/snD6cG9XnZS3JvqcgZtTJJGznABEBAAG0IEhhdHRpdmF0dGkgPGph
+cmtrZUBtYWlsMnRvci5jb20+iQE8BBMBCgAmBQJW2xq1AhsDBQkJZj2rBQsJCAcD
+BRUKCQgLBBYCAQACHgECF4AACgkQuaIdQ04cfaf6ngf/XKLn4wrZ7A8vn1ClqCif
+lm7bsU/5ywAfzCQc2KEOnnDr6C/SUh9MfL1i37qPA+9x9A58dvqlf8ZckXQ3+rqj
+5gtrKE0r/EZI2uYAC9XjsfCkTxSDhPWRpGCaUV7b3KigJjLviuWtKYz+CM5t+sCT
+nYhii0gymc7PjUHhE6oYzbGrqRIEj0/W1D4pMq/tF65yjjijIPxbpqsn3Ku65pnq
+nfEp2JqdiZ+AldcGW9h46ssNTeecP687KPms3oOUTlRn6dSPBEjW+cetHqooG4IA
+QlWOeFAOM1O6eld/cROjEIG/PBPNTkAp7mERvDyQPcJAHEt546Vd/imI6z8+s+Wk
+4LkBDQRW2xq1AQgAtoSmuEftxCtuXqGQuzf187JUTY6ei2JnaPe2kNm8+Zr1zfNu
+GXX/cHFLRqRN09L9Ixa1b4rcjmTQLOPgOSCW0nrYLi/e5XBAocQb5aR/byL32b6E
+HSwFsAHLq7239wRjs4PGwT+hicHhk9WU/ZdsI49dJ2tB5I1tVJi6WAa4snM3gNud
+prJ04MHxE9JnewLxMEUt6k71xiqQviM3PYm0EhN2Yw1HgI273+liyONF3VP0NAwJ
+8aqvfqA3dcDdv/xqkbuxD9bH2k6QpWRtHNIyAMxzy/ic2sflWQDaYLUY/XL+yuyZ
+cqb0SBmgf7v6xEUi9gsv8jkZNAt0ZJbBzygavwARAQABiQElBBgBCgAPBQJW2xq1
+AhsMBQkJZj2rAAoJELmiHUNOHH2nvxsIALMcpUxJMsMZUpDUJiyHkX2Rh8T9kXbX
+7k0AQTRQHu1z7rUDcbsyeo7NWO+REnU86oIYut/I+9WRmEnXJzYlLBuDJqGL2XfO
+R0pMcsGvfg78V/2vf6/kC3y2S3jG1RSoe5kwaeeGDgLdXbP5Ib7WuSDxYyWy75Uc
+aqEtcvhHnq8rc80UTUxLYMfXQry1Gq1WCrvP2iozd7/T0vOH8bgKsYFzL6WvJqzU
+Ktcea/4WcKNnwZJlVKR7suK1bCjvuZwInyECKcM7FVVggRp4dsqvU0Q/uygxJKMq
+QGU6NFmTVwmAgQ5tvQmRsK4geTI/UFH+fewelQ3JrXAlxjDGYqZjPVI=
+=bm+9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/87773"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/87773">Lyrica (pregabalin ratiopharm) 300mg x 14</a> (<span title='99 EUR'>99&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/10644"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/10644">Norspan (Bubrenorphine ratiopharm) 10mikrog depot-kipulaastari </a> (<span title='59 EUR'>59&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104626"><img src="/kuvat/tuotekuvat/d4407918621c4a4a8bf63f4cb7569d4cd2867097.jpg?1524060240" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104626">Ketipinor (Seroquel)100mg x 5</a> (<span title='20 EUR'>20&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104703"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104703"> Lyrica (pregabalin ratiopharm) 300mg x 7</a> (<span title='59 EUR'>59&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/88526"><img src="/kuvat/tuotekuvat/fe757a37904b0cb634e2ad9f1230db1400ec5549.jpg?1523087062" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/88526">Trileptal 300mg x50</a> (<span title='15 EUR'>15&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/9249"><img src="/kuvat/tuotekuvat/af68160a6a865ab6f8dead5d1bcfc299d007a488.jpg?1471464096" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/9249">Ketipinor (Seroquel) 25mgx20</a> (<span title='15 EUR'>15&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104029"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104029">Venlafaxin Orion 150mg x 14 efexor)</a> (<span title='14 EUR'>14&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/hataapteekki/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="x6c8x+dzpN3/tV1dR+yAjFawLxK5vwiqjwhYGstW0YKm8xQySGk2EO8Yq/bybmq8IA0g05iV6rooj6cLvRVOLw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/6uax">Suomeksi</a></li>
+<li><a href="/register/6uax">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/6uax">register an account</a>.</p>
+</div>
+
+<h1>sweettoothh</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello and welcome to the sweettoothh shop</p>
+
+<p>We are new to valhalla however we are not new vendors we are also operating on AlphaBay and DreamMarket.</p>
+
+<p>We can offer these intro prices for a limited time and quantity only as we know we are new here after we have enough sales the price will increase (not by much) but it will for outdoor blueberry.</p>
+
+<p>All orders will come with stealth and vacuum packaging to ensure the safety of your delivery.</p>
+
+<p>UK orders will take 1-2 Days if ordered before the cut off time 4.15pm  EU orders will take 3-5 business days.</p>
+
+<p>All our orders will be processed on the day they are received unless the order was placed after 4.15pm then your order will be shipped the next day.</p>
+
+<p>Any orders placed over the weekend will be processed and shipped on Monday or next working day if any bank holidays are due to fall.</p>
+
+<p>Please make sure when you order you are using the correct shipping info as we will copy and paste address directly to a label so please double check, we wont be liable for mistakes in an address.</p>
+
+<p>Tracking will be available to those who want it and pay for it otherwise all other orders will be delivered via regular 1st class, If you choose tracked mail you will need to sign upon receiving the letter if your not comfortable with that please choose regular.</p>
+
+<p>All orders will be able to fit through your letterbox buds will never be compressed unless stated in the listing.</p>
+
+<p>In the case that an order did not arrive we first ask you to allow 4 working days from the shipping date and 10 days for EU before contacting us as there may sometimes be delays at the mail centers, this is beyond our control.
+<br />If it has still not arrived please contact us and we will assess the situation if challenged however we will only offer refunds for tracked orders so to ensure a re-ship of 100% and 100% refund please choose the tracking upon ordering, anything else will be assessed on a case by case basis. 
+<br />If the delivery was attempted and no one was home to take the delivery there will be no refund for tracked items. "Attempted Delivery" but you should be able to pick it up from your post office before it is returned to sender. </p>
+
+<p>When ordering you will place an order which will be encrypted  an message with your pgp key </p>
+
+<p>If your happy to send in clear text then please do I just won't open links although we would advise against doing so but if your happy. </p>
+
+<p>Now please take a look at the store if you make an order my pgp key can be 
+<br />found on my profile.</p>
+
+<p>If you have any questions then please feel free to send me a message and I will get back to your message as soon as I see it.</p>
+
+<p>We look forward to seeing your orders</p>
+
+<p>Thanks</p>
+
+<p>Peace.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFblvd4BCADiRzOGkU6IIAJMCcpmK3V/yPQejEVKvkpXNpByAc+lftExyT0p
+NY0gu/hiF8V7pBZGCYOjikOrns8v2dh0u3VnWSRngSRo+QsfDJe/cHsBe5rezXG4
+oQ4etwh0sq7uYDjWwFsbrfWyOm2VWf5hd+PaHvjGP36Un7y/oTvlNLZ1aBYYhsE5
+6uzasMu2A8suhndw61fPhNOQEQNkmNS+rF3Z5y6aaWDvQV1Yk0Q9qYFqTJsbYi9N
+bmTCm9MZOKrqZxa98wTFpSbgfgm5y+G4vYoN+AqPl937GFr36S81MNEPqlHlTBfr
+akrNrL1eE8zqg/12jAqhxrCJa2j/mEQrIc/zABEBAAG0KWFkcmlhbiBqaG9uc29u
+IDxhZHJpYW5qaG9uc29uQGhvdG1haWwuc3Q+iQE5BBMBCAAjBQJW5b3eAhsDBwsJ
+CAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQ9KjThO2nGRdNmgf9Hi02wKTEgHaQ
+1aATHCj8w3MmMM87InY8uvVgzY/E6yroX8wAv7Tcenu8ybceYuYeybt08pvms+Ck
+fFA4meHIVouz4TzJi7f70lSH13v6anQRX+/XIeIsI15Gw5eODy/GxG+D/243nVI2
+VGAGkO+j1fVr7SpmA6k3Vf1VAzskDMnNdFNvMOLVpbgb+bR1ikTqokzEEHFezS4O
+xO/ASCYaoXs1ogyYhow1MoEdAVQKCCgQRFaeuk0OrQUt8R3Y7rAzOa4btuT3Xw33
+roE6JoqG7nZGuA4W1GscQgKWyMV3aUmiz41F3ZbgnUk3S+lke5bYOc4MbgEa3NHI
+BGgTUDpNsbkBDQRW5b3eAQgAwWBulem5YG68ilcLJYLszCS0CXRdwTCWKHZcs7aG
+ub3UxN6u/JVK9lLaqlwyhVtG712q9INEw/Gk2VlLHlQjzZolUQribkWz7/Z2ZjnF
+ZJ+pCHICduk0ZcDETvYQADamOzOJKFtQPrH5RgVgUOwO5491DhdD5tjDA1TTfb7X
+GZIWMr5ejLn3oSEL4rf+g5e4luzJQPifCdjJHnMArjiW0T7NIYbbwxfQRODS1r+o
+GsHfhwwf9zZaLmB9CZbGchcvi08EO3hclQd7/hV5pfKJgALj4L4AGUNtOrbN2Low
+17K09jDM903wuOfYo9jmuEntXg00ToX35t3ZvWZBQGSlbwARAQABiQEfBBgBCAAJ
+BQJW5b3eAhsMAAoJEPSo04TtpxkXY0wIAJ+9tDKYbSu+kjkQtg8+EGBQcVtoL8pJ
+7cqwFxt78BV/c8n33GwX7LO3ndEqvCArkt45D2gxgkH0TTG0OYnI0hHeTisfzAPe
+UNkXsnCbk60L9b8KOxtsqOFniGwiVHzdJs5IdwpMf3UlWi2+CcGB2aw4IRxTHc/9
+d685UsVWAS0nv0nwpHfLT/kXgGPR5Stip5acBiM/ti7zWszkH40pqZRAgBrzxk6S
+Cm586H3OLD1CIvn3o7keA+qoZZMutn+0GiuskFiBCAYuWE7CsknPpb/wIf6AR20y
+GGH8Ml4AAVUHcFh7FRizgdXVSrz1vSKd3llNDJYKSfOWW2po36ZrxFc=
+=Oeyk
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="npCcJR41VfjbZfAzVubHc6qHkzLWORp0pMPYQ5pabAIT/Y+yQgIrXc12Xk4yvYTTB7O6AUKQKswpfnoHfvDe7A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/RGMp">Suomeksi</a></li>
+<li><a href="/register/RGMp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/RGMp">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>coin2drugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>148</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 4843 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We offer only the best quality (AAA+) for the best price  on ALL orders !! 
+<br />If you order before 14:00, than we will send the order the same day !!
+<br />We are the PERFECT PARTNER for local or international dealers.shipping times
+<br />Our stealth is perfect, we use MBB Bags, absulute smellfree</p>
+
+<p>Shipping times
+<br />• Western Europe = 1-5 days 
+<br />• Eastern Europe = 2-10 days 
+<br />• Scandinavia = 3-10 days 
+<br />• Middle East = 12-24 days 
+<br />• Africa = 12-24 days 
+<br />• North America = 12-24 days 
+<br />• South America = 12-24 days 
+<br />• Asia = 10-14 days 
+<br />• Russia = 10-15 days 
+<br />• Australia / New Zealand = 12-24 days</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFdpWpkBCADRsTeVZ4px1j5Wlnqr+QmucYVmsPnKlq5VJxaWpI3dNFHOTNt+
+hPZcPVVu8NVEh+Bef2PBcYzEKb5Awn/GkmYcLZrvbQ7gX7mQxS/D7wUFsw6vUCxN
+0Hkr1+4kaZBlm3mQIa2Tm72iQTcHfzMni84Aqm7atrZqyqwp2p66jjKQpGQ3x4aF
+vUA/7rXNMUhnf0f98GjRNKlUSBarswwDzqBkU1K06wsRHmnRrNYLRLeh11v9wHgF
+RfF0Z6vvVDQMtFwWt1TKBF01sU1K6GOneIRGB+qPLUBXbPtYQAS2gqlSFMJjlp/T
+ytOwQnwSaCw/iPTJBga0PGKkw14BEJCu/bEHABEBAAG0KENob29wZXItUmVhZCA8
+Y2hvcHBlcl9yZWFkQG1haWwydG9yLmNvbT6JATYEEwEKACAFAldpWpkCGwMFCwkI
+BwMFFQoJCAsEFgIBAAIeAQIXgAAKCRCgoqX9Iuu2zpJZB/94uN6baINGFQJ1mkoT
+2IK1Y3A6tWhV1JVrSZqO/dFI3YCPQQiHdy7CjUDpSEWatYkXcP5jjWzuhGR7Qbk1
+7XthtIcuoHmbrdKmnqcCHMmsK5OmHyYwv1ruugnDdxSWO9KWEif+RW4ESO2yDn04
+pv2YogUe28LvpcWCz9YwbTlYlvS9uO3VXFk+H/XMZJOMnZCcX/efgI7z7SngJQj4
+l9cwFZ8sDnAppeZHPJM0MtMpBnYB8m3d7+x6Ev1kyc+c/XK8L0pIQ7LS1ZczvTYw
+aPCiJmUXH9hdoJ9oMJ3HiTqs8xez5x1+cMkE1vbKJ/nzq7Nr54SP2PEegLGwFSdj
+iDlNuQENBFdpWpkBCADQchrXBBUQZYZzHUTl97h5d2Tw/gSlR+WJlPpdiQc8NgFi
++kJRKmL4xCROf6GvmIY7yEzDSxvqmVl7nNWmKK4o3G2OaVIaScU2l82+V+W0kV7N
+dl96zw3GBCYLKQ8uKyMMo9lQLMJmx3G5rPlr9dREAHa0j7l9OJ0QkkN68l+5NlMN
+SIrr14ZSF5qfNrxE4RK0xLKM/VnGacjYNrzgdnF9tcqiTpkZqgYMGwK7vNnI2dPT
+StbAyqkduWSvF9hezN3OtiyDN6OCpbMPM/HADdaRcEaFPEb0BZeljCOv1dZdkEjz
+O7D6DyQIpKhxJHfQRxDqRieDwZhMcMQ6tAs3VKvXABEBAAGJAR8EGAEKAAkFAldp
+WpkCGwwACgkQoKKl/SLrts7awgf9E5eA71fF4vbfYiS8WxreHVBoIOcSan9wopMH
+ZqNzMNHCQ6rQIi2zTkF492YigD8uvfxfullQRASu689sEaL0UW85Ot8Dc5jcXR2V
+idmS70Xix9Y9TKL6xUZQBb/puwMT7cSVB6IXALlH5R9IEQvvTFbsK7aQL+VcG9Dd
+KoNhQJApegX1qr9d5id01ZYMdZYhkQ79sqRUCebAj9B5HvjFG4xpA4NDbywy1Toq
+FjbV++oKjtT0xsNnfaVI3iudspx1ITMg5sCZry2+Gp38h+DOc0IFsnyNh7lbVsNw
+rnRh7TNCxa8bTQEs6gVZJ8XUEhWhxc4ThPeN9HONV5OYeMcmEA==
+=A70p
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

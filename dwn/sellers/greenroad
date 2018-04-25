@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IeJ5SlM1OZmprvuubj6z5T2f9+G8Qu/6uJ5dCyzPfCumpjgEcsFM0upLMuHKQTxxwuE/XdzwgfJWUVyeX3anCw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/W9ii">Suomeksi</a></li>
+<li><a href="/register/W9ii">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/W9ii">register an account</a>.</p>
+</div>
+
+<h1>GreenRoad</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Willkommen bei GreenRoad,</p>
+
+<p>unser Ziel ist es, euch mit unseren Sorten aus den Niederlanden, ein Lächeln ins Gesicht zu zaubern!
+<br />Wir antworten allen Nachrichten am gleichen Tag bzw. in den nöchsten 12 Stunden so schnell es möglich ist.
+<br />Ihr bekommt das was ihr auch den Fotos seht.
+<br />Falls ihr Bewertungen lesen wollt, schaut auf Dream oder Alpha vorbei, haben dort ungefähr 250 Bewertungen.</p>
+
+<p>Versand:
+<br />Eure Bestellungen werden maximal nach 24 Stunden verschickt,
+<br />habt ihr weniger als 3 erfolgreiche Bestellung MÜSST ihr per Einwurf Einschreiben bestellen.</p>
+
+<p>- Deutschland 1-3 Tage
+<br />- Europa 2-12 Tage</p>
+
+<p>Für eure eigene Sicherheit wäre es von Vorteil, eure Adressdaten mit PGP zu verschlüsseln.
+<br />Schreibt bitte eure Adresse wie folgt:</p>
+
+<p>Name 
+<br />Adresse
+<br />PLZ + Stadt
+<br />Land</p>
+
+<p>Eure Adresse wird sofort wieder gelöscht.</p>
+
+<p>Verpackung und Stealth:
+<br />Eure Bestellungen werden doppelt vakuumiert und unauffällig verpackt, sodass sie ohne Probleme in eurem Briefkasten hinterlassen werden können. Das eine Bestellung nicht durchgeht, ist nahezu unmöglich.</p>
+
+<p>Erstattung:
+<br />Du bekommst eine 50% Nachlieferung oder 50% Geld zurück wenn du per Tracking bestellt hast, falls etwas schief geht.
+<br />Hast du weniger als 5 erfolgreiche Bestellungen getätigt, wirst du keine Erstattung bekommen.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=nrHd
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

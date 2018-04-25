@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="E7+173h317C2KgZw7BMZoIZvoyaA7y0Z9atjenucXBKr5uoMD7H0h0ZZFh/DgwRPUB8jpUXM1LRL82c3p+ZFXA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Z5Jr">Suomeksi</a></li>
+<li><a href="/register/Z5Jr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Z5Jr">register an account</a>.</p>
+</div>
+
+<h1>DeepMeds</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>178</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-9</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 1 hour ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United States</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5! Ahipping did take about 3 weeks. Otherwise all is well!
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/16751">Valium (Diazepam) 10 MG By Roche 70 Pills </a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+ze***45
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+You dont know where they will ship from.. other that all good
+<em>(4.4.)</em>
+</td>
+<td>
+<a href="/products/15743">Codeine 15/500 MG 200 Pills</a>
+(289&nbsp;EUR)
+</td>
+<td><span>
+sk***ep
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(12.3.)</em>
+</td>
+<td>
+<a href="/products/15658">Restoril (temazepam) 30 MG 100 Caps</a>
+(153&nbsp;EUR)
+</td>
+<td><span>
+Vi***go
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Product arrived and appears to be good quality! Thx!!
+<em>(11.3.)</em>
+</td>
+<td>
+<a href="/products/15741">Codeine 15/500 MG 100 Pills</a>
+(163&nbsp;EUR)
+</td>
+<td><span>
+pn***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/deepmeds/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+JHNgpaOs0HMQ0S+KsrekaJl53KUejg==
+=Vmj9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/15658"><img src="/kuvat/tuotekuvat/b1c831d25dc48a1068bcaf8ddf9d00383c7da7dc.jpg?1455970848" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/15658">Restoril (temazepam) 30 MG 100 Caps</a> (<span title='210 USD'>171.99&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16731"><img src="/kuvat/tuotekuvat/6faaa81cc56fce50db099897633a0e5de45c3ae7.jpg?1455971145" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16731">Ambien (zolpidem) Generic 10 MG 60 Pills</a> (<span title='150 USD'>122.85&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16734"><img src="/kuvat/tuotekuvat/32b151578d5b8a27c1251d5282e74710293366b5.jpg?1455971147" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16734">Ambien (zolpidem) Generic 10 MG 90 Pills</a> (<span title='195 USD'>159.7&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16751"><img src="/kuvat/tuotekuvat/ef6186ea2f102e74ff2e1dd8ccaecfd4a632409d.jpg?1457032827" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16751">Valium (Diazepam) 10 MG By Roche 70 Pills </a> (<span title='125 USD'>102.37&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16708"><img src="/kuvat/tuotekuvat/dee9a7bc64e8f30724e8ac4d3d162c90113cb2e4.jpg?1455971135" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16708">Rivotril (Clonazepam) 2 MG 90 Pills</a> (<span title='155 USD'>126.94&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16975"><img src="/kuvat/tuotekuvat/694937021344e2d24908b6aba97b292189531af8.jpg?1455971254" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16975">Phentermine (k25) 37.5 MG 120 Pills</a> (<span title='195 USD'>159.7&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16974"><img src="/kuvat/tuotekuvat/ce4044e3a954af662489bb2d46dea66bf1b734b0.jpg?1455971254" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16974">Phentermine (k25) 37.5 MG 100 Pills</a> (<span title='170 USD'>139.23&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16972"><img src="/kuvat/tuotekuvat/aece8940fee1dbd1a284bf9969dc28c69ff972c1.jpg?1455971253" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16972">Phentermine (k25) 37.5 MG 80 Pills</a> (<span title='150 USD'>122.85&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16812"><img src="/kuvat/tuotekuvat/5c5c533d229b1f977b18d4f923a82305d0ff9940.jpg?1457036954" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/16812">Ritalin (Methylphenidate) 10 MG 40 Pills</a> (<span title='125 USD'>102.37&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/deepmeds/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

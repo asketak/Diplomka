@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xx3vl1UrnCGgAFzTLG5j4JXnlKd7szSWbPvtGXGT+xkKuaEH4cw8KePFWS5AEqf0ZP0ylUgSgqIrM7+ILCXeDw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/995ad7991f2d4bb5fd4e1bc3317ad68361c2b676.jpg?1480457632"><img src="/kuvat/tuotekuvat/358e6c2c5b0dd310bf3109146edaccd4cf13e8d8.jpg?1480457632" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1> **New** 500mg Carfentanil 99.9% pure **EXTREME CAUTION**</h1>
+<ul class='list-unstyled specs'>
+<li>758.66 EUR <em>(0.097931 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cg8IiX9UEqJeyi6FIXVQQiiuN7sw0PK51Bl97ETGVoa/q0YZy7Oyqh0PK3hNCZRW2bSRiQNxRI2T0S99GXBzkA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="355703">Domestic (included)</option>
+<option value="355704">International (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73389" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>This listing is for carfentanil which is the ultimate opioid EXTREMLY STONG this is not for a novice it is 100x stronger than Fentanyl HCL.</p>
+
+<p>**This chemical is kept in another location so there is no error in shipping the wrong chem as welhave fentanyl hcl as well. So there is no possible error in sending the wrong chem as it can be dangerous we assure you.</p>
+
+<p>Here is more information on this chem:
+<br />Carfentanil or carfentanyl (also known as 4-carbomethoxyfentanyl) is an analog of the synthetic opioid analgesic fentanyl. It was found to be four orders of magnitude or 10,000 times more potent than morphine, making it one of the most potent known and the most potent commercially used opioids.Carfentanil was first synthesized in 1974 by a team of chemists at Janssen Pharmaceutica which included Paul Janssen.It is marketed under the trade name Wildnil as a general anaesthetic agent for large animals.</p>
+
+<p>Side effects of fentanyl analogs are similar to those of fentanyl itself, which include itching, nausea and potentially serious respiratory depression.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 8.11 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103565"><img src="/kuvat/tuotekuvat/3dfbcdb80162a7169fe3de60c4e670905593ea1a.jpg?1518784950" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103565">Buprenorphine / Subutex 8mg x 15 boxs (105 Tablets)</a> (<span title='980 EUR'>980&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103551"><img src="/kuvat/tuotekuvat/2a5ea63b461dc34b4a6c93eac88f813d09d4adc8.jpg?1518725922" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103551">850x Codeine 15 MG Pills (Loose)</a> (<span title='1165 USD'>945.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/80133"><img src="/kuvat/tuotekuvat/6211151651d745fa28e4080d0ade73f948ad8fc6.jpg?1484370329" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/80133">US-US oxycodone 80mg 100 pills - $899.99 HIGH QUALITY!!!</a> (<span title='917.98 USD'>744.85&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/89710"><img src="/kuvat/tuotekuvat/c1a219ab369b124cd8708ca0c8431d7dd2c2c2ee.jpg?1490179652" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/89710">100 x 10mg Instant Release Oxycodone Pills</a> (<span title='650 EUR'>650&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14728"><img src="/kuvat/tuotekuvat/d0fc246a6f628eb214d119b31034af238dd4f0d9.jpg?1455970648" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14728">100g China White Synthetic Heroin</a> (<span title='805 EUR'>805&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/happydrugs">HappyDrugs</a></span>&nbsp;(<span class='green' title='Positive feedback'>809</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-13</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1304">Fentanyl</a>
+</li>
+<li class='active'> **New** 500mg Carfentanil 99.9% pure **EXTREME CAUTION**</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

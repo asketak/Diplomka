@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lQfjX2cWkcYcbNofoGPJ0ivljv28FHeHhPeEQbjKyt1Yo63P0/Exzl+p3+LMHw3G2v8oz4+1wbPDP9bQ5Xzvyw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5e7da3930e90add24631a0678078529279c36a64.jpg?1484597741"><img src="/kuvat/tuotekuvat/1bc62859e353d20f7eaa5381d993153d71b95f69.jpg?1484597741" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>10 gr COKE **94% pure Labtested** Bulk **** Bulk price!!! ***** </h1>
+<ul class='list-unstyled specs'>
+<li>500 EUR <em>(0.064542 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/robert-e">Robert-E</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Dn7cT3rKbhU2wQdqawiNhuc6RJwq3+bUEiGQC6/JkwHD2pLfzi3OHXUEApcHdEmSFiDirhl+UOBV6cKa8n+2Fw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="80784" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Pure coke direct from the Brick,
+<br />labtested 94% of purity.</p>
+
+<p>Do not waste your healty and your time. ORDER NOW! for the best Supplier on the market.</p>
+
+<p>Order and enjoy.</p>
+
+<p>ORDER PROCESS</p>
+
+<p>after you select your product provide me your adress on the correct way.</p>
+
+<p>Send the sensetive information like your adress with pgp. All of the rest in plain message.</p>
+
+<p>Jhon Doo
+<br />Long street 1
+<br />96000 z New York
+<br />USA</p>
+
+<p>David Doo
+<br />1 Long street
+<br />London AB2C 1DE
+<br />UK</p>
+
+<p>I will copy and paste your adress that is why you have to write your adress correct.
+<br />When you write your adress wrong and your delivery is not arrived is on your own risk and means no reship.</p>
+
+<p>Do not use any other method to send your sensetieve information in an other format which I have to open it extern like onenote. I won't open it.
+<br />If you do not know to use pgp send me yor adress in plain tekst.</p>
+
+<p>PACKING</p>
+
+<p>All of the products are depending on the demand will be crushed and sealed in several bags.
+<br />All the orders will be sent by standard business envelopes.
+<br />All the orders will be delivered by regular post, means no sign for delivery and no tracking.</p>
+
+<p>All of the orders will be sent on the same day of ordering till 16.00 hours on working days. Monday - Friday.
+<br />Weekend the post offices are not working so we are also free.
+<br />This doesn't mean we do not preparing your order in the weekends, Yes we will make your order finish to send it on the next business day.</p>
+
+<p>SHIPPING TIMES</p>
+
+<p>EU 2 - 21 DAYS
+<br />ASIA 5 - 28 DAYS
+<br />CANADA 5 - 21 DAYS
+<br />AFRICA 5 - 21 days
+<br />USA 7 - 28 days
+<br />AUS 9 - 28 DAYS</p>
+
+<p>RESHIPS POLICY</p>
+
+<p>Reships will done on a case by case study
+<br />For a reship you must have at least 5 transactions
+<br />Escrow orders have to be finalized before a reship !!!
+<br />50% reship (max 1 x reship)!
+<br />Refusel means blacklist and no reship.
+<br />Refund is not allowed.</p>
+
+<p>No reships to the following countries:</p>
+
+<p>- Scandinavian countries
+<br />- Australia
+<br />- New Zealand
+<br />- Russia
+<br />- Ukraine
+<br />- poland</p>
+
+<p>Order at own risk!!</p>
+
+<p>QUESTIONS</p>
+
+<p>Do not ask unneccessery questions like:</p>
+
+<p>- when can I except my shipment? check the shipping times
+<br />- Have you sent me my order? shipped is shipped on the day that your order has been updated.
+<br />- How long would it takes to reiceve my order? check the shipping times again
+<br />- Can I get free samples first? no!
+<br />- ......??</p>
+
+<p>Leaving FEEDBACK after Receiving or experience</p>
+
+<p>Please left your feedback on the feedback page.</p>
+
+<p>Let me inform before you left negatieve feedback for a reasonable solution.
+<br />Negatieve feedback = No reship!</p>
+
+<p>For Bulk orders PM me!!
+<br />Bulk orders are allways FE.</p>
+
+<p>By ordering you accept these terms and conditions.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/94002"><img src="/kuvat/tuotekuvat/25d47dee71b2c4c1fa43bc27882b8862ef2d0872.jpg?1502924387" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94002">UNCUT Peruvian 89% FISHSCALE COCAINE 14g FREE UK </a> (<span title='880 USD'>714.03&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93652"><img src="/kuvat/tuotekuvat/98035f9a0a4f986a3f9652aaf16dae073d5f6fe9.jpg?1508531484" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93652">PURE.COCAINE.7G</a> (<span title='410 GBP'>467.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85079"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85079">☆ 250G Speed Paste ☆ A+ Quality ☆</a> (<span title='400 EUR'>400&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/33579"><img src="/kuvat/tuotekuvat/3075e3a02238fd2eed1ecc38a2c441d88ceb6e1b.jpg?1458852938" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/33579">Diethylphenidate 100g</a> (<span title='789 USD'>640.2&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103208"><img src="/kuvat/tuotekuvat/b4ee8099eaa61055ccf14a83ac6326816c79eca0.jpg?1517583582" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103208">CAFFEINE anhydrous 98,5% ★ shipping from EU ★ 10 kg</a> (<span title='899 USD'>729.45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>10 gr COKE **94% pure Labtested** Bulk **** Bulk price!!! ***** </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

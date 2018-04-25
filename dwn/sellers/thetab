@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="voZSX0E322N9FwYd1+FMyKfD9LGRfv/5ckinSUv1p3cuIJzif+NiLRcmmkXQsGW7MzTEfDkMhlKgJ2nftF4n7Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/4yeF">Suomeksi</a></li>
+<li><a href="/register/4yeF">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/4yeF">register an account</a>.</p>
+</div>
+
+<h1>theTab</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>FREE TABS FOR EVERYONE WHO LEAVES A REVIEW!</p>
+
+<p>24/08/2016 Update
+<br />Full stock added to site, LSD, DOM, Blotters, Geltab molds
+<br />25/07/2016 Update
+<br />Profile added to Valhalla
+<br />DOM in stock</p>
+
+<p>*** SHIPPING ***
+<br />In usually shipping 3 times a week. I ship more often if I get more orders OR large orders. I pack up orders even on the weekends. I do my best to let my customers know when the order is ready, I am generally pretty quick to respond. </p>
+
+<p>Letter mail to Canada and Letter mail to USA with improved stealth. </p>
+
+<p>I do not ship express but I try to get orders out as fast as possible so generally my shipping times are fairly fast.</p>
+
+<p>*** ADDRESS FORMAT ***
+<br />John Doe
+<br />123 Main St
+<br />Baniff AB A1A 1A1
+<br />Canada</p>
+
+<p>Please for the love of god and your safety use PGP when sending making purchases over the darknet.  </p>
+
+<p>If you need to contact me directly you can find me on TMG as "theTab" 
+<br />GRAMS URL - http://grams7enufi7jmdl.onion/infodesk/vendor/0x07466753923BE131</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFW2ZIoBCACiSuNj68aNFcvZrmritpilf87N+SXqjQwGrqrnujmezZ6SQklp
+/G6slD/Q76t0XwjY4j0HZso5zG2vjhtc6tKd/87bx87/wkJZCmKzf/NUxQ/HRjWk
+duK0ZkPPejJiHiRqQNDhM5hIX+8QeJCYo3NauAKpme5zVnQzVnFeGqoMiGMvRXfh
+BDck4diABnWEYCAbi6F4kgiCO+L7mQzqYFVQyxFZEITxYJ24J0bvSw/F5i5nu+1I
+Cpt8riqzRbQSdHSGuigevIO+19O4xuzDdA2v6lSzC41UjUdbS5jim9Xh5HxbhD0Q
+t9cQrBLxwzYK2bkUYI6Srgg0jETcLTyYF2P3ABEBAAG0MHRoZVRhYiAoRS1tYWls
+IG9yIGZpbmQgb24gVE1HKSA8dGFiQHNpZ2FpbnQub3JnPokBOQQTAQgAIwUCVbZk
+igIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEAdGZ1OSO+Ex+3IH/RmL
+/1QH4qLgr76XRcyYUgumkXK/qti4T6DjS3gsUSE2NTf44x/22vNgLbY+JMrfSQOC
+HKfwinwgTUAEq46mFcH01YgjBzzgCiLPpBI6yiQzlSh70r8koQfvpXCaEVzhvrLy
+qxKdFu74UlzKKqiK384jLzLvRcNwhuf+JMui9PGZj1B9SIKZEeChP7mMmrItc36G
+LHBcsINXFfHPqBdgvnbLH+YKud/Da4eKlB2rJCWNmLqeo4ryIgUPOU8qEhidd1PM
+BgywTIyJoa6ZGbsm5knQcj74LS7miEVKYZ8UX9DyWlMb1eQY2jFfhd+geOKZMfmi
+z8Ak6o93x6ooa3wUL325AQ0EVbZkigEIAM/LS2HMDT+C3fGS2AeFnqcaLvXOCdp9
+fbHB4BaCfCsnKQ71SZi59v5wuZlYj6Lu2eZhYs9XBxJt4RSM+4AfmsOvdu44g6Lz
+K1N0uOsvYBWDCp+ebTZ8qhzHWRI9CDCad5QY4uSX14x7qLJPMMBAWjmw0x4ZmxLC
+jU+b6nGxIoeuTFYu0sXY37fypGy2BVkJeukJ0DeBJG9Aa6Djg7e6wp3NOQ/bNI0R
+UaXw5kJ+8F05tCGO+h21znAAs2oQI7jK6+MHSKUTk4lbh8haSlOGloxnQ+oaDwzM
+JfoIqW7KN8Bp41vE7mfxN9vux3bmS25A0lYGAxTffscL0IE+46wc2OEAEQEAAYkB
+HwQYAQgACQUCVbZkigIbDAAKCRAHRmdTkjvhMfTBB/4/VQCQyJccHXpBy9VxBM2T
+iuWyBEAnDyxV+3hQwhneAHccd25rDI5Wlo6amhb5z/oofvJ0jqfHrSJ2fdlg3jfU
+Bdx3IR6EETaGvzbq85Oe4cGshqZ3thmfVvQ2uwwyMJG4gJJrDBb5Dmn02YfjZyUO
+9k2gKU5OctMG6P2oGN7y8bzaIHIkjuwWX9CM51QQ73prnuTdKjp+JbJfy0mu+FZz
+DYQONI67z8YZZB2WXOjmhl3eNMH48xSHCRBU+nBWwBkVjwLLEvkTVY46xFwp5pNr
+AI2UxfFAJU1+HpTrLiNjz5ByKfxnq3u2ShzDp1G8Ckds3vC7C2JiqQJLNc2MLTkr
+=UaCl
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

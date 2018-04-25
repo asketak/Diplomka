@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="TxUwOrgFRTF0KFE8RaE85dpS4xu8yxCWPDiEhCiy3jlxqKnMHm5ti7IwnyfiuK5oW+/c5oZDNaopf9HmYAhsrQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/3Ega">Suomeksi</a></li>
+<li><a href="/register/3Ega">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/3Ega">register an account</a>.</p>
+</div>
+
+<h1>UKWeedShop</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+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
+=LmMd
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

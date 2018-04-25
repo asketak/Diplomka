@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vSY3MkKJFbVD9lX2vHe25ed+EZXY8PWbCd6WA6lDPs9OPe7GzLFGRnydZZorDFLOdCBMbKPbRgky/95RykUCJw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/NGin">Suomeksi</a></li>
+<li><a href="/register/NGin">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/NGin">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>FINdrugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>135</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-20</span>
+</li>
+<li>Total revenue: 6533 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>-------------Tervetuloa-------------</p>
+
+<p>Olemme työskennelleet jo pitkään poissa verkosta. 
+<br />Olemme nyt päättäneet mennä verkkoon. 
+<br />Vuosien kokemuksen ansiosta tunnemme tuotteemme paremmin kuin kukaan muu ja me myymme vain huippuluokkaisia tuotteita. 
+<br />Voimme tarjota tuotteitamme hyvin kilpailukykyiseen hintaan, koska emme käytä välitoimijoita. 
+<br />Meillä on kohtuullisen hintaisia näytteitä tuotteistamme, jotta voit kokeilla niitä ja nähdä laadun itse!</p>
+
+<p>-------------PAKKAUS------------</p>
+
+<p>Tuotteemme toimitetaan mahdollisimman turvallisesti. 
+<br />Emme selitä täällä tarkalleen, miten toimitamme pakettimme sinun ja meidän turvallisuutemme vuoksi. 
+<br />On meidän etujemme ja turvallisuutemme mukaista toimittaa lähetykset salassa, jotta emme kadota paketteja, joten varmistamme, että teemme sen kunnolla. </p>
+
+<p>-------------KIRJOITATHAN OSOITETIETOSI TÄLLÄ TAVALLA-----------</p>
+
+<p>- Nimi:
+<br />- Kadun nimi: kadun numero:
+<br />- Postinumero:
+<br />- Kaupunki:
+<br />- Maa</p>
+
+<p>-------------TOIMITUSAIKA-------------</p>
+
+<p>Pyrimme lähettämään kaikki tilauksen 24-48 tunnin kuluessa. 
+<br />Myöhään perjantaina tehdyt tilaukset lähetetään maanantaina. Tämä varmistaa, että tilauksesi on mahdollisimman tuore.</p>
+
+<p>Jos se ei ole saapunut 3 päivän kuluessa, sen voidaan olettaa kadonneeksi ja tarjoamme 100 % uudelleen toimituksen. </p>
+
+<p>perjantaina klo 13 – 00 tehdyt tilaukset toimitetaan maanantaina </p>
+
+<p>---------------------------VALITSE PALVELUT------------------------------------</p>
+
+<p>Tilatessasi voit valita noutopalvelun, joka maksaa 25 euroa. Tilauksen jälkeen sinun ei tarvitse enää ottaa meihin yhteyttä. Odota vain tietoja, minne tilauksesi toimitetaan.  :::    HUOMIO: VAIN HELSINGISSÄ</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFZu/G8BCAC0Z5WeLuYE2sLwktXpCKI36L9LG03ZT+QcKtdCn0Az/eloMWwR
+kZnsSiWX1m1G37JwN2+GaoP3g99sWs/XRMEEOvr9gQzuRH+pE5YMgsr0kcibFIo5
+94fsCSiyBLX63C6crOF+kEVlrsHkeeLUHArSEyQ7UL8srIK9Pd+scDj7m/cZUmyJ
+r/IzBUKuhsVmM4lmNBozH8oFSxisCBnYf3vpl/g98FFsgic0Dd9R4mFVgsOU5PYq
+jpwmTbrSFbYMEgKI2XO4w6Wc3LeJQN6aoAfJE19io6oM8T4BkHbM7yTlMuh/ZVbK
+d8pV/QhUB7tTaig+puETkXeZE3rgLlKpPc/hABEBAAG0HkJldGFkdmlzb3IgPEJl
+dGFkdmlzb3JAYmV0LmFkPokBOQQTAQgAIwUCVm78bwIbAwcLCQgHAwIBBhUIAgkK
+CwQWAgMBAh4BAheAAAoJELEEB9FZK8z097wH/idGTeYmDkyjxNPCdK30gr9fANKN
+dPv0mHCU4YAL49K3HfEH9GaWH6YQXgBrJc3r6jjMr8Bm8DSpTA6/pJlWfpF6CJxt
+fzpzUlDogxxykgoE7PeBHlhBQkG5V1CJIBT7eSLCdKJLQVM/k5CbW6iytZj6UP7K
+U3wIHPaTRKKXzO9PnBjJBGEQ7J8YKLTocjSt8SQnEhsRJGKG4yVZiOVknLBEL4zU
+AQYSp8hmR4AeQHBMoRxSvVQV0WIGmI+BgFwGgw5lPWc/HcAP3GouxnZ7bxyHd5QU
+Y/kxo+Qjn5PX+oAjn60HIMAv66hohfzv0tklrsaM4nPTO2bA/HfnTABsrT+5AQ0E
+Vm78bwEIANIKDKMPcBU73PzF8zIvkHWFJnxzOcN0GBDyoTrKHDJz/0/SDg3/bqOJ
+OSQ/L2LjtIt0H15LsMl/2OrOFlEeqKKmJ6GNRd9hj7x0bGjuogI0jL2vitVITQ+y
+aSSl1cjvVlo7tIATzSSl9D1VVnXp19E4KG71KwCg9VZG6zCWSSHNFqCDWGBB1RmV
+CfZDY+DAVdOkHhhMJP/PxItrrRbtw7bV5rJwwEC3GBJ5nyTc+vcSxLBhIFwdFqb7
+3+xjuAFc2MKD4SIQQlgIbx2fOzUKHrNhvnGnBd4q/UB1Ov8V0mjxRHrv+fr9Y55X
+aOylQ52DNLb/KK/TshGCrHvyAT4xhSEAEQEAAYkBHwQYAQgACQUCVm78bwIbDAAK
+CRCxBAfRWSvM9I8bB/0YitpxNcp66ChPpzd4sBAyzMruENm3L8XHptSqAm7x3Xnh
+xEXkb4UrD3OtyOImcWyUYuk8Ifilfs6lfvHsElkFwE5cX8bSGIuhp9k1KsAoKsjm
+8cstcgGX8IxDDfMkBc/f+64A+Np5LOT6WGPyGABEJKS4yoTazzM99uxvfmwTiPMk
+ihzldvQtao6u75aTIWib1CL+32joC4HFomDrqCyJgPAh8BUwaIiDreVdkVDV+hDN
+G5TL/ecYWKmu83euwKMVdE2fwCQ5YusI0NUxz2SVvYdq0qFC+gto2nE2zD9SeQgN
+/l4mMPPgJDCcpSZzC45lDBuVqH0DlLSBpNeIZEVg
+=BZTQ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

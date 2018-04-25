@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZsIvAEN8aokjCbYv43J5kODc/6KuvPo3no8HhIOzMVyrZmGQ95vKgWDMs9KPDr2EEcZZkJ0dTAPZR1UV3gUUSg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/14f119f158e0c798e25cf811c1000ceb67fffc57.jpg?1504645967"><img src="/kuvat/tuotekuvat/371fe8a9114e60d0ff81ac366caf1a0019722e58.jpg?1504645967" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Tahoe OG 7g - 1/4 oz *Indoor AAA *Canada *ESCROW - XpresPost</h1>
+<ul class='list-unstyled specs'>
+<li>48.79 EUR <em>(0.006257 BTC)</em></li>
+<li>8 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/bcbudking">BCBUDKING</a></span>&nbsp;(<span class='green' title='Positive feedback'>3651</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Canada &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="orqQMkBLPN1TOi0Y0DRkP/0vPOqqQvj1AxT0kht0lxxvHt6i9Kyc1RD/KOW8SKArDDWa2JnjTsFE3KYDRsKyCg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="98960" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>The Current Strain is Tahoe OG</p>
+
+<p>Tahoe OG is the perfect rainy day strain. Strong and fast-acting, you may not want to use this strain when you’re planning to leave the house. Great for those suffering from insomnia, pain, or lack of appetite, Tahoe OG has made a name for itself among other indicas. A top nighttime strain, it provides an extremely lazy, heavy body sensation. Due to superb breeding, Tahoe OG embodies all of the typical indica effects with an added euphoric, sativa-like kick. This strain features an earthy, lemon taste, and is a phenotype of OG Kush
+<br />************************************
+<br />~ BCBUDKING has Been Supplying the World with BCBUD For over 3 Years!
+<br />~ We Offer the BEST Quality for the Lowest Price as we always have!
+<br />~ Orders Shipped within 24 Hours
+<br />~ Quick Response Time to Questions or Concerns
+<br />~ Tracked Xpress Post To Canada 1-3 Business Day Delivery
+<br />*************************************************************
+<br />nternational orders require all buds to be slightly compressed for better delivery security these days, the buds retain there shape once they are opened and will still be fully buds when they arrive
+<br />*******************************************************************************</p>
+
+<p>Here is my Feedback link from all the past sites Ive been on:
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0x8B54848676FCDA62</p>
+
+<p>Order are processed Monday-Friday Only!</p>
+
+<p>OK EVERYONE NEED TO START PUTTING THERE ADDRESS IN THIS PROPER FORMAT!</p>
+
+<p>NAME
+<br />STREET NUMBER AND NAME
+<br />CITY
+<br />POSTAL CODE ( WITH THE PROPER SPACEES)
+<br />COUNTRY</p>
+
+<p>Please Read my TOS in my profile Page BEFORE ordering.</p>
+
+<p>All Items are Shipped Standard Stealth Regular Mail</p>
+
+<p>Shipping Estimates are as follows (Best case-Worst Case times)</p>
+
+<p>Canada       - 1-5 Business Days    (1-2 Days for Regional / 2-5 Days For National)
+<br />   *Holidays     5-9 Business Days </p>
+
+<p>Happy Shopping and Cheers to all!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (16.28 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100939"><img src="/kuvat/tuotekuvat/610520093b7f4addf99e0d0021197a8482222dfb.jpg?1515222359" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100939">❤ 7g CRITICAL + ★ Weed ❤</a> (<span title='65 USD'>52.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102762"><img src="/kuvat/tuotekuvat/df9dc93a30e83073fa1b6557553e2921fec7d135.jpg?1515948998" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102762">5g Northern Lights | NDD/UK / Best Customer Service</a> (<span title='52 GBP'>59.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102697"><img src="/kuvat/tuotekuvat/81cd3ae4295683f8af6f761fb22efbc5ac67b939.jpg?1515620223" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102697">Blue Dream 7.5g Indoor &#39;AAA&#39;</a> (<span title='48 USD'>39.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>36.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>263</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100180"><img src="/kuvat/tuotekuvat/6f2267e08b2d3262cc615ee48c2538a5d64c50f9.jpg?1508254121" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100180">DURBAN POISON  7 GRAMS</a> (<span title='69.98 USD'>56.95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Tahoe OG 7g - 1/4 oz *Indoor AAA *Canada *ESCROW - XpresPost</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9w/SqhZWPuqzZaaK5EV082evw6G0u/AECBmhDuUckFKiJBvlAAOBKp8ma4OQLy+xA0P0N2FnmN/RPwBEkLkAFg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Zgwd">Suomeksi</a></li>
+<li><a href="/register/Zgwd">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Zgwd">register an account</a>.</p>
+</div>
+
+<h1>hashcompany13</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br />Welcome to our online store !
+<br /> This is the place were you can find all the hash's what we have to offer you different types, quality's,  flavors and textures.
+<br />We have the best of morocco have to show us, Morocco hash is the only one product what we are dealing now, focus on get the best of the bests.
+<br /> To serve you have a team with 5 years of experience in haxixe business.
+<br /> Satisfy the costumers have always been our priority along these years. </p>
+
+<p>Kind Regards
+<br /> HashCompany Team
+<br />--------------------------------------------------------------------------------------------------------
+<br />WEEK NEWS*
+<br />- NEW*, NEW LISTINGS AVAILABLE
+<br />- NEW*, MORE QUALITY'S AVAILABLE </p>
+
+<p>-LAST BATCH*
+<br />- 8/2016</p>
+
+<p>AVAILABLE STOCK* :
+<br />★SUPER HIGH GRADE MOROCCO HASH★ RABBIT *STAMP
+<br />★MEDIUM HIGH GRADE MOROCCO HASH★ EURO ICON *STAMP
+<br />★STANDARD GRADE MOROCCO HASH★ BUFFON *STAMP
+<br />★SUPER HIGH GRADE CULLERO HASH★</p>
+
+<p>**</p>
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br /> 
+<br />Ship country’s;</p>
+
+<p>Estimated shipping times;
+<br /># UK 2~6 days
+<br /># Germany 2~6 days
+<br /># France 2~6 days
+<br /># Europe 2~17 days
+<br /># Canada 6~17 days
+<br /># Asia 20~40 days
+<br /># U.SA 7~21 days</p>
+
+<p>For the follow countrys all orders is at costumers own risk (FE);
+<br /># U.S.A
+<br /># India
+<br /># Scandinavian Countries
+<br /># Brazil
+<br /># Czech Republic
+<br />#Australia
+<br />#Canada</p>
+
+<p>The format address should be;
+<br /> Name:
+<br /> Street:
+<br /> Zip-Code:
+<br /> City:
+<br /> Country:</p>
+
+<p>We send all orders in Express Shipping using a MBB sealed bag and double vacum sealed to ensure a maximum security of our costumers.</p>
+
+<p>Refund/Reship
+<br />-	We only re-ship 50% of the package to costumers with 5+ trades with us ;
+<br />-	We only re-ship 100% of the package to costumer with 10+ trades with us ;
+<br />-	We only refund costumers who have 10+ trades with us ;</p>
+
+<p>Feel free to ask us anything, we reply promptly and fast (24/7). Dont forguet using PGP ☺</p>
+
+<p>Enjoy our products!</p>
+
+<p>*************************
+<br />********** FAQ **********
+<br />*************************</p>
+
+<p>Q. Do you ship to my country?
+<br />A. Scroll to see the list of countries.</p>
+
+<p>Q. Where does your product ship from?
+<br />A. Portugal</p>
+
+<p>Q. How long will this take to arrive?
+<br />A. It depends. It takes us up to 24hrs to send your order out the door. (From there see shipping above)</p>
+
+<p>Q. Do you provide tracking numbers?
+<br />A. No, for security reasons, we do not provide tracking information.</p>
+
+<p>Q. What if it doesn't arrive?
+<br />A. We'll let you know in advance if your package is held up, and issue you a refund or reship based on our refund policy.</p>
+
+<p>Q. Can you lower your price?
+<br />A. No, Prices are already low given for the quality of the product. (We make exceptions, depends of quantity)</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PRIVATE KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+lQOsBFabelQBCACd8wRuyYrQtz70XkgYdZ4rhrB4yYCzFOK9vAAESfmtA6gVuvsK
+cOguOvC/Mb6i8RKo9H/Th3igWdD2rGOM568DqZkZTuHdy53KSBMmXO7MjjGAyIpz
+nRip7G/ef2R568ZeLL1tGlD6YTkZnBKI/FtgjudoQrLUamFUPAgEihAsefDg56Zc
+b0UXlsm0U0Q6JP7Bqb1/vqWj6y0Zj2apF01J+kR3SzPZitQlC9gtbWQ5d2ntN1zq
+TDKpW7pQBI08mIMCSpCpj/s63sEYLZk0fNhdb9zLOoe5dSUyxkZR/njUtJxox8J+
+Gfrpx4wW67f7rtlqFLFswdMg4noVwxy90T/NABEBAAH/AwMCpDNKREY2XEFgznpo
+RvFFxxBGsDBR0qOMkIn+0eKXPAEoKXnyUMbxNLgPfPG7qfppy6RignlryTuheMv4
+OQCOjrYBJUqXumyZcFfyp3uIsZrJqqX8K6sFljrZbXkKeExHopPDw0WpZ3Dy7QnK
+AJOH8RQw/u/dZifTDaooIZ8+8WPXGmhHekmnLmDEx7XCi+4N5uCIR6WhlgBzAazP
+ZYzLNQm+KEll00lRtW122G/6yhvpog0QWpf44qEY3R5Lw0JWxuoi/nHHG+0GF+kU
+ji+2cl72RTMamZPOdJrYRnJy78N0hq0XcraYs8E4uQ928+HnuzRfXSyq6xVsAOOx
+KijcGBl0fEZjrJT+ADQtDI7tGaBmciLW3HZkjkYu0mymbn2FAwVMUvz1Lox0gDZz
+KyYoJ+t5/kPpyzPHC9dmVuMW9cTreZFrQywLNOG6ILv3ADCzo7lDj++vMeSq/v4a
+fzqurdgkCyazaWWdI2SjYGsc6b/+sr2ahhAwIoGRF+LBUSoiH5rJQOqrYzN8b4U/
+NzfxJ0ZK53waaZKyOC9Nda3okOTPbxp3dNKELQJRaI4JuGGB6512Fe91ucuWmrNm
+DidXQvEaXj9NEdDTL4Gkh0krye1/G/20m404bnDbdNaMAKmcAUnBhIeCWFnrPPrU
+gEm+/FzrvuImFxs9rltOFox9QoKakTVtnHr7OB5qfsR+3MCrg3ZKBEQSk+TWIWhq
+1aWoTKdn7c8uy0Z1/wYQ0ueIp4aSJpmffVxZn0W5Mu2jdGWYv5/D2stgGeSupZ5P
+8nuynGKTxw46uWixqRi5UXqzLF+pPdTMH3DvTQEmmxLxlol8ofxjCCeUuw8Vk6b9
+4ZZMUMkZChpkPEdxYDj2ObUQVjIM4UkN8RdnjTppjLQAiQEcBBABAgAGBQJWm3pU
+AAoJEIvq+XmTIAcQWrcIAJg6iyvD3ueZ40tShCLtMzSwKvflzdPgL9PFJaQT6PNw
+9/f1DpbgoKVPI+5WnjhrR9yWrV1zUG1veixE8MB8DsS5vXirBosJ7gh0Sqf+uXxh
+RGM6+JSrGVaq9oyIskzxsVkcps6C4hWNsPSSdKpQvUGldGxa8433IS4EBy8xPOuy
+oZ6Sn5bDXt1/OT8UadAlUCfdPeYi2mDzM+apDQY+L/wtkPIUE60CI4wGSPoiDNfP
+JlR9eMboCAw3bi+m8PyAPqkyAdRkYvPlZPmfVeJs4CbxVDJ7xaA+JhAkWfLfcu/v
+Sxejq0Ao5j0F7kCIQJPuqvSaAvzlKc00uWu1hLkPjsU=
+=ws0w
+-----END PGP PRIVATE KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

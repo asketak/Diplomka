@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NOvMYBXP+34MK8kGnfXduNs9X8V/sidCWkj6oEACjb/5T4LwoShbdk/uzPvxiRmsKif590wTkXYdgKgxHbSoqQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/314d45a97c43fdab29d8afe4fdb0804269cb6f02.jpg?1475195764"><img src="/kuvat/tuotekuvat/4542a5e488bb26b5d9b30ad371fa40865606837b.jpg?1475195764" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>250mg 3-MeO-PCP [Mystical Quality]</h1>
+<ul class='list-unstyled specs'>
+<li>30.11 EUR <em>(0.003861 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/xnecromancy">xNECROMANCY</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5MaVFZ52QHeNOPijJS/h1W6czw04gt1cf45c3n3YXdwpYtuFKpHgf879/V5JUyXBn4ZpPwsja2g4Rg5PIG54yg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="63517" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>3-MeO-PCP is a dissociative drug similar to ketamine or MXE. A milligram scale is recommended, as the dosage sizes are difficult to estimate. It is said to be more stimulating and more functional than other dissociative drugs. It allows you to communicate with the dead, astral project into the underworld, and fire bolts of psychic energy at your enemies.</p>
+
+<p>If you experience sensations of time travel, sensations of becoming the messiah, delusions of black magick, alien abduction, telepathic terrorism, or the distinct feeling of conceptual transvorpal metamorphosis, I hold no responsibility, but would love to hear your story. </p>
+
+<p>Q: "What the fuck does 'Mystical Quality' even mean?"
+<br />A: For every order, you have the choice to ask me to perform a ritual on your product. If you don't specify a ritual, I will simply stare at the 3-MeO-PCP until I die of dehydration. Once blood, virgins, and livestock animals are properly sacrificed, I will lead you to the doors of perception and devour the key.</p>
+
+<p>Average Dosage: 5 - 15 mg
+<br />Average Duration: 4-8 hours</p>
+
+<p>Read for more information:
+<br />https://psychonautwiki.org/wiki/3-MeO-PCP  </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.7 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/93626"><img src="/kuvat/tuotekuvat/800206c5afa8b3dabe8cd55791ff2d4ac6635a16.jpg?1493830290" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93626">Top quality Ketamine 1g £30 </a> (<span title='34 GBP'>38.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98231"><img src="/kuvat/tuotekuvat/e063192e408a01b994360873dddcb5c43507272d.jpg?1506058544" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98231">Salvia Divinorum 20X extract - 1 GRAM</a> (<span title='37.99 USD'>30.92&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14805"><img src="/kuvat/tuotekuvat/a4246ce876520f8d4187b72492cd671ae87de015.jpg?1455970672" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14805">28g - Dioscorea Dregeana (African Wild Yam) - PHYSICAL SEDATIVE</a> (<span title='37.8 USD'>30.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52794"><img src="/kuvat/tuotekuvat/8cc34c12fda5d7f6b171f79c4428ba40efd7a1f1.jpg?1468789948" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52794">1 G KETAMINE ⓀⒺⓉⒶ S-ISO 99% AAA+ HIGHEST QUALITY</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100625"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100625">7 grams KETAMINE - S Isomer - ENDLESS SUPPLY!!!!!</a> (<span title='30 GBP'>34.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1800">Dissociatives</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1806">MXE / MXP</a>
+</li>
+<li class='active'>250mg 3-MeO-PCP [Mystical Quality]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

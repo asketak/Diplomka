@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OZ91ZDhjhXPdNmXg61265SPeNqnAM31T7J9xOnnDkAIQtyBMJx6Sfed6TgVwmHuKKW5AU18kpkk5INCb72VbGQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/fHej">Suomeksi</a></li>
+<li><a href="/register/fHej">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/fHej">register an account</a>.</p>
+</div>
+
+<h1>RechardSport</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Our clearnet website: http://www.rechard-sport.com/
+<br />Our twitter page: https://twitter.com/rechardsport 
+<br />to get update of our newest products daily!</p>
+
+<p>RechardSport is professional wholesaler in China, specialized in sportwear. With rapid growth, we are expanding our business to luxury merchandise. Rechard-Sport.com is one-stop-shop now!</p>
+
+<p>All merchandises sold via RechardSport is 1:1 top quality.
+<br />Check our stock photos and delivery photos to get more confidence in us.</p>
+
+<p>Stock photos: http://www.rechard-sport.com/photos/index.php?/category/2</p>
+
+<p>Delivery Photos: http://www.rechard-sport.com/photos/index.php?/category/1</p>
+
+<p>Feedback from our customers:
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0xE8696BFA190838ED</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFXT5GQBCADCququybswZ+2GQTHyO4QSlussNRIkpYbwOVCKd04wr3aAZ4Q0
+rc6yEb92ulra95Bln1EBBPwa5/C+aurHeaV2ZzQMv1IlZMyds1q6+K+mQgDuHhsG
+uljs9ptInNO+jyuw/M4shZc1X53ek0YJ89lWBXYO1MKeepU/9yH30mcN6LX+zEHy
+mfNPBsmcIbA86+r+4ulppI5FGl+xfNED2dMbiJNd9hHbhv48dnYNNi91clvf3N5A
+huUhHvycIzdFE868H72qI9WvGPYzMXtdL3rceBNDf/8c0qTZ5Eym10SvspjXlu3H
+MbRpYBuSRKCUy09ik18YpQPz1UGAKluM0FA9ABEBAAG0KFJlY2hhcmRTcG9ydCAo
+UlMpIDxyZWNoYXJkc3BvcnRAMTYzLmNvbT6JATYEEwEKACAFAlXT5GQCGwMFCwkI
+BwMFFQoJCAsEFgIBAAIeAQIXgAAKCRDoaWv6GQg47cIUB/9Rvs7ye+YSeu257JET
+VlG6xNE0KLPgral/8fNWLckrMwicrIg+WaHn5rh1k9q0fbvyEcv0xXoH2WPFxdCi
+y3YCzX/blGsIK2YefVigcO0dFYhzGx76sN4AZBOO3MlGxvmi0Jss0umKdTScW9jh
+O3hO9n0x35VBEkEd3Xb3AunyyiEmxb19xR7UZXbyhEEjukJXq6CWvhGKbdRntxXd
+XcT4klOvp3SU1iy87jlJ22x+MY8B+tAX85JggRU0F8Ta6OCulSXtzOmScxFLoaAp
+BHUWFbYZAvCENQAxw+0lczIghWpxwWoimwp5yBborkE2Fb4vOv4Y7cH6hUJVMTxN
+UNaWuQENBFXT5GQBCADeLXlDtNs6MkZPNt3eWlDj81AtkL2C4v3xDngldVWbRP7W
+qvYCoEXNyy6uDnEGn49iwdjzSc/jE9Vn8yajMgyoTcM5dYY0ypnvIMnju4jdLX7F
+koBPhu3yaH0fr3CHsxhYv/WfS/zYUk8MR1LG+Rfg3RBuMtZpT3MFbP6IaCJEVwxe
+JNoOyclakIByd61Pv0gW+UHbTfkzeZwmVyCYDZbiT+qmrSwQi9oR9mK2v3wsIFYS
+2bhclt4q3pMVKTYc3bbCxHCbf47oaYmj4nszob1vWN6EF4hNpxop2u1Fjd4uDz6f
+lIrOcBZ4vQKxqnnmAN0fcRnApnYoMTqGE41uKK5vABEBAAGJAR8EGAEKAAkFAlXT
+5GQCGwwACgkQ6Glr+hkIOO0qSwf/UmPyLIXWJy8RusG2RJ11inBL6ChXLZTTT5Cq
+2LY4ALjJ/Pydf1k9ZSuYwTqRqisQGlv8moafas6zIRoo+XGAe4zAuz28jsfwPcY7
+G5GepwFIH7r6uqclTzSYn0LpNWXMegcJrB6BiLgNcrQ3Rd9J6B1lQRvAIHFI0ziL
+Fj4F/8wVBk0amVszPtSiGoboCL1eZUbySLkR8EZVSzhZBXHeWAl+Zy5/uWNJriUQ
+dOMzhPnZUe2S9j78486UI/X8YqtV+VD0qvESGNYsqMvMDJHMyYcK6ARcfz30Vd9H
+SDPYyR27KyY1fLan6IxVlaPb+ijzmXBtRt6BwiviQGP+kMqynw==
+=8HtW
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

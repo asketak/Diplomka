@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QewaPCBBGjJA4a0WiiRJKOrm8T3XvAmbcgFn/K7m7oHu1tPpaibeOin0nmK637wIFNn5bwucjsDQYDJYhIupxA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/xpDq">Suomeksi</a></li>
+<li><a href="/register/xpDq">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/xpDq">register an account</a>.</p>
+</div>
+
+<h1>CatFishBilly</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Abraxas refugee Previously know as just  "CatFishBilly" So if you didn't get an order that you placed on the 4th or 5th of November please make contact with me so that I may do whatever I can to make that right as I was unable to access the site to retrieve anyones info. I wasn't aware (as none of us were) that abraxas was going down so I didn't withdraw any of the FE'd funds I was sent; so I took a large loss as to what had been sent on the 4th and what was already in my wallet. Regardless of that I will do whatever I can for those who had placed an order that they didnt receive it. </p>
+
+<p>Your friendly neighborhood dope dealer
+<br />- catish</p>
+
+<p>Email: catfishbilly@lelantos.org</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+zdqGGIY16itgew==
+=B9wr
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

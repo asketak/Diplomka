@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8fJ6jjAb5UGoTVdFVw1J9py6AWum1MbwKkuheXE2V1felx7mIKSVCA7U9uGYQNIrJ0GBoGK1kmgHKSS43WH5Tw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/SRbP">Suomeksi</a></li>
+<li><a href="/register/SRbP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/SRbP">register an account</a>.</p>
+</div>
+
+<h1>HollandsHerbs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 24 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to my vendor account :)</p>
+
+<p>This page contains a lot of information that I would advice to read before placing an order.</p>
+
+<p><b>ABOUT ME</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />I am a small indoor grower from Holland that no longer wanted to sell to coffee-shops or straight to people because of the lack of anonymity. I don't grow large amounts and not on a regular basis. But because growing marijuana is a great hobby of mine, I believe I produce marijuana that is of much greater quality then that of the larger growers/vendors (the people that strive to large profits).</p>
+
+<p>For more details about me I would like to refer you to the Hub.
+<br />► <b>The Hub:</b> http://thehub7gqe43miyc.onion/index.php?topic=17249.0</p>
+
+<p><b>What I offer you:</b>
+<br />► Only top quality marijuana
+<br />► I only sell what I have grown myself, so you buy directly from the grower
+<br />► Low pricing, because you buy directly from the grower
+<br />► Proper stealth
+<br />► Fast and great customer service :)</p>
+
+<p>I do not offer:
+<br />★ Worldwide shipment, I only ship to Europe</p>
+
+<p><b>HOW TO ORDER</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />1. Select the product you would like to order. :)
+<br />2. Send your address in PGP by using my public PGP-key.</p>
+
+<p>Use a address checker like the one below to make sure you have provided me with a correct address!!!</p>
+
+<p>--------------------This is not a tor link!!!----------------------
+<br />http://lookup.addressdoctor.com/lookup/default.aspx?lookup=1&amp;lang=en
+<br />-----------------------------------------------------------------------</p>
+
+<p>► Use your REAL name to increase delivery success.
+<br />► Do not forget your COUNTRY.
+<br />► Do not use Chinese, Arab, Polish or Russian letters. Only regular roman alphabet.
+<br />► Shipping to Packstations, PO-boxes and Post Restante is at your own risk.
+<br />► I do not use Privnote, SMS4Tor or any other 3rd party website.</p>
+
+<p>3. Please leave some feedback when you received your order. :)</p>
+
+<p><b>SHIPMENT AND STEALTH</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />When you have placed an order I will always send you an estimation of when your package will arrive. This is usually 2-3 business days so for example when I ship your order on Monday I will inform you that your package will arrive around Thursday.
+<br />I base this estimation on either experience from previous orders or from the information of the post office.</p>
+
+<p>► Your order will be shipped to Europe without tracking.
+<br />► Multiple individual orders are sent together (under normal circumstances) on the same day.
+<br />► The maximum amount I put in one package is 10 grams. If you order more I will ship in multiple packages.
+<br />► Orders will almost always be shipped within 24 hours on every single weekday. If ordered on Friday or the weekend, your order will be shipped on Monday morning.
+<br />► To provide proper stealth, all marijuana is wrapped in 3,5mil zip bags. The zip bags are then put in a small box so they make no contact with the outer layer. As an final barrier to stop any smells its sealed in Mylar/MBB bags. It will be shipped in normal bubble envelopes to blend in with regular mail.</p>
+
+<p><b>PAYMENT</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />► I only accept payment in BTC.</p>
+
+<p><b>RESHIP POLICY</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />If for some reason your order hasn't arrived on the day I told you it would. Then usually the information of the post office was too optimistic for your region or the mailman is just delayed for some random reason and it will arrive some days later.
+<br />But in very rare occasions a package just doesn't show up at all. Either way you can always send me a message whenever a package hasn't arrived on the day it should or you feel uncomfortable with the delivery time. Sometimes orders from other customers haven't arrived either and I already know something is up.</p>
+
+<p>Depending on the region you live in it can take up to: 
+<br />► 17 days for Western and Northern Europe
+<br />► 21 days for Eastern and Southern Europe</p>
+
+<p>If your package has not arrived at all you are formally entitled to one 75% reship per every 2 successful orders that you have made with me. And this reship cannot exceed the average weight of the 2 successful orders.</p>
+
+<p>But remember to always contact me if something does not arrive, I will make refund decisions on a case by case basis and you will notice I am easy to get along with. ☺</p>
+
+<p><b>GRAMS</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />On the link below you can find reviews people gave me on Agora.</p>
+
+<p>► <b>Grams:</b> http://grams7enufi7jmdl.onion/vendor/HollandsHerbs</p>
+
+<p><b>FORUMS</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />I would like to recommend The Hub to share reviews. The Hub is disconnected from any market, so if anything happens to one of the markets you can always find me on The Hub. ;)</p>
+
+<p>► <b>Panacea Flower Sanctuary:</b> http://flowerk3r3nud4nc.onion/index.php?board=114.0
+<br />► <b>The Hub (old topic):</b> http://thehub7gqe43miyc.onion/index.php?topic=7073.0
+<br />► <b>The Hub (new topic):</b> http://thehub7gqe43miyc.onion/index.php?topic=17249.0</p>
+
+<p><b>CONTACT/SUPPORT</b>
+<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<br />If you have a problem or question of any kind, please do not hesitate to contact me!</p>
+
+<p>If you are happy with your order, I would appreciate it if you leave some feedback. And if you are not happy for some reason please contact me so we can find a solution. A happy customer is very important to me!</p>
+
+<p><b>You can contact me at:</b>
+<br />► HollandsHerbs@mail2tor.com
+<br />► Directly at Valhalla
+<br />► Or the forum above </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1
+
+    mQENBFS/7wsBCADMH8e2w3hsOoH4/Pxow9JrfhUJxGQv8oC/WxV72XVRuxIYD1r+
+    C3q+BStXTLAZgLCZZ0RB/aZyCkuXq9d5d5xJOy5eGvE4EsicZNab1ywfB24zlhi7
+    Dv5nWEN1G81GykVj/FvMzIoNeLMpOaV4VCm7pHAuLSWGRkFuHhpO8UKCh+eEZRwq
+    jMLabZxmLVWEXkgHyiNmPQ0ryqcL3zQfHF2mSJSnvt4FIh5smVrzeiSMshKQZ+4R
+    bAv0+q6pb7OR7aNaWgqEtZROoMF/lMMpLQvkdc1ud148okLa0bDjMDnG5bJripkr
+    ZUsmE3Bv9RTIbpL2llALj62Q0g6CLSpFZPxNABEBAAG0KkhvbGxhbmRzSGVyYnMg
+    PEhvbGxhbmRzSGVyYnNAbWFpbDJ0b3IuY29tPokBPgQTAQIAKAUCVL/vCwIbAwUJ
+    B4UOZQYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQzG0XWXmAOU1VOggAm9GK
+    wxxCu9IhskgYALBjCEKLL9NOj5rVirZsUCcK8de/EI6lTVA7rKrjjaSVQjo4vQBx
+    dvHiSTjLXgLmnlg3GwAT3wxbhPu6wSx4529aPJkpblBKzpA1ttz9SLs7M27JpKsq
+    IitcBTpRje9YhdGH9yjZh2s9uhLg3HLuwMdiAJ7KLePw8O8GD5u5o0kg15dRp3ZE
+    yJEztvJauXKcmmRRnkEJ6Uu82ljMvumyM6He/drQzAEHMME/NyBEUdrCVcTloUgB
+    gB7s+SfPe95tKoA9SA+jrdnVlsrOFqTC1Jdr8WobwiplIhhnGg94Sx0Opw2jLwe9
+    mbOUy3IoMUEn1p3tTLkBDQRUv+8LAQgArmDdR0RRDdl8mYmCPt5axlY2FmHA7A9r
+    IHa0AZEnU17megLwdeoSanhYDNm0QR/hsb8/K2TeF9bhdKiU49DCDVpBLbw7/DGr
+    J3CqGu/j8IJWFgGwuh44mxIPgygWMTq2WqlLUA++khVA0K40U30nopUQrGb4w/so
+    ol0pdFwWUMOIJNL7WbkxkCKT96EwNZXH4d60FErUpzlkKPPsGA4HAJMkok5ymbaT
+    7UiKuQ7Z53tkcL3fyVMUif4G0UXrmFyegbU7CXLIv8d5e7JVZimBk5xJMo9sBsoy
+    cdCQD6RsA0xxTLJCJ3k6gwWW0ps805u0xyDRafcTyR1+HxKrsDPoMQARAQABiQEl
+    BBgBAgAPBQJUv+8LAhsMBQkHhQ5lAAoJEMxtF1l5gDlNiMkH/jAa5JDmw6asnYRK
+    uSynFG7Rh4cw9Au9HU53CrVDwKqUXgMZVQc0B0lmRY1mP6T22QAmDfS6EhFJVIk4
+    jGX/Ag4pUW/LOCLQEL//Fh77H/6GI2U6hRlb4sZSNLWPFhSaLQcKnkQABmpA179/
+    Iuz3ssjExCVEzS//oC/qCC+rjEC1OYM8u3GKl1LGLtvBLLpY8w4h21D+WjyApe9I
+    qvZ0EEYpnY4n91jIgudfNXykq3TCRRBJSp6UlfnVOPqQWXhzHdgv5pXHNyVXl27c
+    2zCEjxSbaxrKH6orRWILqjAt41WzjOpsdFoyrtQTXuRq419CWnB7xeMb1YE+dQLh
+    ILxO/jQ=
+    =UDxk
+    -----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

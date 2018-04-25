@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5LLWJx5Ui/T6IajkljMwM4HhPj2jnn5fqItv6n9d3s/VwRd8ihLiN9GkurS2aVnW3PRNhgp+hxybF3CLwXQHLg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/41815">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/9c27b3daf5a6f42d4311e13ca3ca23daa693c6a9.jpg?1463089103"><img src="/kuvat/tuotekuvat/6fb1a8a79354f6fea18f3a33027737a072b1acdd.jpg?1463089103" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>10g MDA</h1>
+<ul class='list-unstyled specs'>
+<li>397.79 EUR <em>(0.042576 BTC)</em></li>
+<li>1 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/snorbuse">snorbuse</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>)
+</li>
+<li>Sweden &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>10 grams of pure MDA. This comes straight from the chemist and can't get any more pure than this, so please be careful and restrictive with the dosage. Up to 100mg for beginners. Experienced users can take 100-250mg as required.
+<br />Note that previous abuse of stimulants WILL affect your tolerance towards MDA.</p>
+
+<p>-------------------------------------------</p>
+
+<p>10 gram rent MDA. Denna produkt kommer direkt från kemisten och kan inte bli renare än såhär, så var försiktiga och restriktiva med doseringen. Upp till 100mg för nybörjare. Vana användare kan ta 100-250mg efter behov.
+<br />Notera att tidigare bruk av centralstimulantia kommer påverka din tolerans mot MDA. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 4.91 EUR (Sweden) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103656"><img src="/kuvat/tuotekuvat/40011e7ffe59dbd608570d6666201b823926118e.jpg?1519224148" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103656">(UUTUUS) 10g MDMA 60e/g</a> (<span title='604 EUR'>604&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kymppi-maukkaat">Kymppi-Maukkaat</a></span>&nbsp;(<span class='green' title='Positive feedback'>1065</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/30943"><img src="/kuvat/tuotekuvat/7bc23c4d737b875a2553f1ab6a3d47d89a7e5dae.jpg?1457609284" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/30943">200 Pink BREITLING 140mg dutch AAA+ Quality</a> (<span title='385 EUR'>385&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/speedy_j">speedy_j</a></span>&nbsp;(<span class='green' title='Positive feedback'>680</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-21</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97860"><img src="/kuvat/tuotekuvat/63509a5e9d759acbbf7e2de83d6075110adb1a67.jpg?1501954198" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97860">Champagne MDMA 84%+, 100 Grams FE </a> (<span title='392 USD'>317.87&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102197"><img src="/kuvat/tuotekuvat/58c66dce374b6ec8e55200922a4e4df2ce5fdd05.jpg?1513223793" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102197">❤ 50pcs MDMA pills ★ SILVER ★ 220mg ❤</a> (<span title='500 USD'>405.45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>485</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100545"><img src="/kuvat/tuotekuvat/ade3a15528eb5fcd8ee40b510c690708ae556614.jpg?1509081719" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100545">100 gram of pure MDMA</a> (<span title='300 GBP'>336.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-77</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1603">MDA / MDAI</a>
+</li>
+<li class='active'>10g MDA</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

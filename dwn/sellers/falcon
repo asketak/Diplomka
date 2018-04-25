@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0P8zNX1g/VKCuz0HAMo9V7qqbdUK4FsI/w6+R4DTW24nXEvWIIOi7rbHTo5zf2hgpZKgODG7yNDNp1KxvPLi3w==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/xpie">Suomeksi</a></li>
+<li><a href="/register/xpie">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/xpie">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Falcon</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>18</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-5</span>
+</li>
+<li>Total revenue: 1368 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed with new buyers</li>
+</ul>
+<div class='description'>
+<p></p>
+
+<p>Pidin kusetttaja negan antajan rahat itellä, kapteeni voi poistella paskaa kun kerkiää.
+<br />Ankiaa on jollain kilpailialla :) </p>
+
+<p>Vahingossa  tuhosin koko toimitusehdot listan =( Teen uuden pian</p>
+
+<p>Mutta tärkein, escrow käytössä.</p>
+
+<p>5€ postikulut.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFWWbm0BCAD16utBf60+YcPa+g6671KdEg03nXfk0zMtsf4FVTgkcQVu6cIK
+uCmFHR1zPPjwnhfeCchiES8jXfuw5Fvm+WSJeE99AxXbXmFXK+GTE7SNhQu4wl7E
++9E01b+Q9Ru/neNDj5PV0hQUw6r9abp7Au8aIvmnHhMoDlKj9+Kz/ivNTALaK/Ru
+jkLc8X0Q8luYb69f9Fmx02LVueh2kfzwKZC9ZEHddBfeoY45MMsmXXmO6MP87NNN
+E5+NHQng+kJdpLyGoOmAlF0GFezaxpp4psT+/cA3hm5B0GTjXgHRbFSklgBzvAMs
+fkdQhK4HKjxDicZaCUCFrHJBi+aauyQsPzMNABEBAAG0F0ZhbGNvbiBDcm93IDxy
+aXBAYW8uZXU+iQE5BBMBCAAjBQJVlm5tAhsPBwsJCAcDAgEGFQgCCQoLBBYCAwEC
+HgECF4AACgkQGptJyd6BZQBxsQf+JY3NhNbSmm1UKoIxJYm2kMhxKEj9Cn9HABoX
+EIHyT2i+6A/vkvvr1hjGAi21E2KEkeIlEtFynGfEPiQbg6HrmAeXq8yOfmX53FVu
+Tj4c+R0ktkOLt1SJzJLyLiJSjM0kV57wQIsl9B84wx5ufiHQgDkIL63C1ryqfRQA
+elccaMq55XwIJ1H4487XFu+x9AoOV9Y6AclBSFnH2LI1G86KQmn2x0L0Ju5s0fY5
+9JA3SrdWWhenE59835bjRL4I9s+kwek0Xhk5IpmKunVR81xjNob85Iq/6ndRrx6r
+R2XEFx5WHl5r+PGvgRhvv40tgiKHBB9EdA8AdYKhGOlGEXPXPw==
+=oF6Y
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

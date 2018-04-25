@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ag8xlyMo4x15qGhXXDJr08crgLftU8sn3ik5Sw4m2QmJ6sQ6DkreHkjkSz6i1FRcC66As2TtX7m0Q2fRUI9kIQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/pp96">Suomeksi</a></li>
+<li><a href="/register/pp96">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/pp96">register an account</a>.</p>
+</div>
+
+<h1>FatFreddysCat</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 246 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to FatFreddy's Store
+<br />************************************</p>
+
+<p>Here at Fat Freddy's we aim to produce a range of high quality, tasty and innovative cannabis edibles.</p>
+
+<p>All our edibles are hand made by a trained chef in a professional kitchen to all UK hygiene standards.</p>
+
+<p>We only use the finest ingredients and all of our products are freshly made several times per week.</p>
+
+<p>We take properly cured ice hash and carry out a multi-stage extraction process taking several days that produces a highly potent oil designed for fast absorbtion and maximum bio-availability of those precious cannabinoids.</p>
+
+<p>Please Note:
+<br />********************** </p>
+
+<p>* Orders received by 3pm Monday to Friday are usually dispatched that day and will not be marked shipped until we have processed &amp; shipped your order.</p>
+
+<p>* All orders are sent by Royal Mail first class letter post. Orders with a value of £45+ will require a signature on delivery.</p>
+
+<p>* Occasionally it may take an extra day to process your order depending on demand and stock. All of our edibles are hand made so it can take us a day to re-stock.</p>
+
+<p>* We offer 100% re-ship for any orders where Signed For or Tracked Postage is paid for and the tracking shows that your package was undelivered.</p>
+
+<p>* For any other packages that do not arrive please contact us and we will discuss a refund or re-ship on a case by case basis.</p>
+
+<p>* Please contact us first if their are any problems with your order as we will always try and resolve things amicably :)</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFbitAYBCADZJBMHcvGDdLB6xnsy711sgLtVFLU8g+74KLIFtz6Ihh/r3U4X
+aeY3iX7p6yIWLRpeMm+CJUWJfOK1Y2fXOQnBgMo9NGTXJwYGczmdJSTFog06rayd
+2bAq1WrWHQcIbEXW5o1BMasFKSpWOdkxSAPR6kcvIpcqI/95Twd68usvxWd85sF8
+nw0rmmF8MVh3qBXl9u2hrcGOdq16Rk3urAuxDvu8Y0y+iDfXPlIEEG8v50tcr5QY
+xWN2njyjVgc+u2X1tTFmg79fb0te0RRMeetYBnfKgs6AaDbf7OdYHsJ+4su2u6k0
+MyvPZbEwfyYhDH3VwlJGyvwCFPMVoxJCKq0/ABEBAAG0HUZhdEZyZWRkeXNDYXQg
+PEZGQ0BGcmVhay5uZXQ+iQE5BBMBCAAjBQJW4rQGAhsDBwsJCAcDAgEGFQgCCQoL
+BBYCAwECHgECF4AACgkQs5UrPgROxdqakQf/WMMmfpBbEr4cspWmuHScAiT2flc3
+W8VV5B1WYANcNSfiveaDqOjfss4ALsf0H/gYy8eGE+nr9XFXv0V5NesL3Wv0CijG
+y5S6y+Ljh8T3OhLMHQ1mLKKae7WyqFxeBq9uEuUVhO97X6AMwakTZJ4a91PWYi3z
+L5dCaAoQ5f4rawExwVr9FWxUMobvDFMuwgTLhnzX12PuYd0BZdZLKefIwNUjapt0
+ycZFdOe3D5Xa2edha4UORWdmVygovG5Msjci6gK+CEZLn8hMW+Pyyp1wyUL4Tdme
+zfOjpAPLVbBI9rWJ4wZWanr9KW/qg+i5RGjQI6sK2LOlznYpl8kaQ/LI9bkBDQRW
+4rQGAQgAxKghBQj7frwQJxBwqgpDj6+q8EiR0IJ/G5vDOAptj76k2zgfoaTIoPmu
+WjuN560qaPRfsYPgs7ck9m/6blSMsHbvWb8eRLZ+Sa7P9jJzHCrsn5yPkTB+rxgC
+wNjNgmeR52cDEVo8zyw51kVYwAy1F1v4soUWerWAaNNpEWgGBJO5bEDDPJN2c1O+
+u/DrivdUeKghWso/bRD1LJGLAx9gmx/ExJ32VP7lmpEcvQi0VdqgxtsXpl1RtD7n
+k89Rsj+3YEi91dhDQT82jKQsicoBHqQJ2hKaQ5bdoGMCooUzE9rxJA5UeDod8ufj
+PkMkuAm2QMH+4Qa2+t21U7qC/elI0QARAQABiQEfBBgBCAAJBQJW4rQGAhsMAAoJ
+ELOVKz4ETsXa7VIH/1y6szmy+oMUjWfDDvbjFsD3E21aSi1B5YXyZUCIWNFardfg
+h5ff8IJvORdbOUBADa3l0i5BvGyHgG6arxy4sbRE5B0FyV2cJoroaqeuFWKRAPVr
+WyWlXwiFchSxIXZjsjlul/311I+QMHk8vuIDQAJN3XQpx+RSdYbx95YEBeqg/myF
+rp/G8l/Kb949L/O+4an9GqmHm2VIm52D30y8QKlv3Sxz5hfBwbvhwEumlizc1nJd
+W3x2qf2ZycUNaGK7bnEF7LwdnSm4td7LtGw+Gbvsnk4x88ta5xcV2lz937T+vNJC
+gZ7O8H6B1SiyfPrQ63K4KvChFGeM1ArwstwXDk0=
+=fiHK
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

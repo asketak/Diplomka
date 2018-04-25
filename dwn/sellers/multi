@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="QpuqE09eAVOzHQOG7ZaTMlVgMOpnIz3YxZyVgo2AIW2g+xqndK24HFYeTRK7X2Y74zdDqa+Kn4ocB85q+YJjJw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/723n">Suomeksi</a></li>
+<li><a href="/register/723n">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/723n">register an account</a>.</p>
+</div>
+
+<h1>Multi</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 8 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Updating, please contact us for specific detail about your order.</p>
+
+<p>More listings to come. Alot of peptides, steroids and HGH available. Generic and brand. Also xanax, valium and lorazepam for good prices.</p>
+
+<p>♦♦♦♦♦ Shipping and estimates ♦♦♦♦♦
+<br />EU 5-21 days. 
+<br />ASIA 3-14 days.
+<br />AU/NZ 5-21 days.</p>
+
+<p>♦♦♦♦♦ How to order ♦♦♦♦♦
+<br />Use pgp to encrypt your address and write it in the following form:
+<br />Name Lastname
+<br />Street, Number
+<br />Zip, CIty
+<br />COUNTRY
+<br />For a refund you should use a real name. Success rate on delivery goes down alot if u using a fake name. NO P.O Boxes.</p>
+
+<p>♦♦♦♦♦ Refunds ♦♦♦♦♦
+<br />For a reship/refund you must have a minimum of 5 previous orders with no negative feedback.
+<br />We give a refund of up to 50% on not arrived orders (this will have to be proven with proof of seized package or tracking) or up to a 75% reship when you used shipping option registered mail.</p>
+
+<p>NO RESHIPS/REFUNDS TO THE FOLLOWING COUNTRIES:
+<br />- Australia, New Zealand.
+<br />- More to come</p>
+
+<p>♦♦♦♦♦ Important Notes ♦♦♦♦♦
+<br />Please order at your own risk!
+<br />For Bulk-orders, please send us a private message.
+<br />Please dont forget to release escrow and give a some nice feedback if you are a happy buyer (as we are sure you will be).</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+mQENBFa5x/4BCADDSPPt/6dvoqUM7NuDBcd4G6+udul1ac1ztDneVZarbGDXbTGq
+0zKeN6doBV6TJbpiEWEYykf+Qi4rd15fgubucC8b0hZyi0fqE1HJ1iwwjbmxt2lC
+xfOyBdjjqFdP9/f88uiljKxcxlp7SflAWYt0EPXezmbfYpA47+zRDM+RelM56QdM
+fcdByo+jMcbjtAGaIJOq38mkOPbME8Zc8B4sA9keNP3x9UbOsiH09xLsGvTdrEAW
+mz9ttNmDtxgiapCKVbsUUt7aRBiBy7krO8XvdU+rTV8Ktgt3LFmxWzwDHya5OfVU
+5YWRoV00oNWSL1w+mHz51tma231x9DTIkeXPABEBAAG0F011bHRpIDxLdWx0aUBr
+dWx0aS5ub20+iQE5BBMBAgAjBQJWucf+AhsDBwsJCAcDAgEGFQgCCQoLBBYCAwEC
+HgECF4AACgkQo3utoT7Z9hKUPQgAhkTN3La5LWr4uOeeVTFFi9RQCjjzIGWo3i2H
+uCQ7uiUxHU5SsZ4RFvQEyK53pj5VhHZfslxBKFc9mMgr+/cGkI+zRd3Drhx3OHNn
+pdQol072WoJ8vJJjwjXECSlOWdpa3P811asTJKHYEvxEp9B3v8tmkYFuQ+IIbsXJ
+d0oXDlJ36smbUNdLKiSmW8FrZAqsoLRLNwyXD12/1FE3Lop1KoXkMGJKMqmYzZCM
+t3crXyjS2Amrr5Bkpk7meS7ihcXSJCCuHmta4LaicSItHILBGSew86XJFTBes6Gj
+YfLGZSj/aemn52flc5D6PQVy/xa+pl9cpzSr1Vk9Y2f1Hz68lrkBDQRWucf+AQgA
+ryzlnlwwRYenGALjvwwK3phq6Vovv/4cxnhR7oW8I5KD8TJ2ngH+pDO/oIQm/W5o
+jSUN5oJjncceFYgvTpy0GlnTkv0jceN+6kkd3inYwiYWqKU0THkq6bFyutxet3tJ
+fG1B4o3Km7G/y/cn5m9Q4NidewCvFday7PaThUq5/b1snoAQM0sXcse4QaYUNJmd
+sm53ioR/z0GEP0EgpUlc6KwWb/+LcG1ZhKeb9w1kCHCW5PQz+0SXBkH3os3fwjGl
+Wh28B3gBp4RCfWXexfkIAMv38drSd837CxAv9x/pvDMdvIPKka4uolboGYq1fjGy
+Y9qjEzQEeObbX8DvogOaswARAQABiQEfBBgBAgAJBQJWucf+AhsMAAoJEKN7raE+
+2fYSQKgH/RNkp/0Ik7poUZQwFy6n9IARYY5ZQL9ux1U/gKhgRC9DjUSYPJOmMw8d
+s8Z3rxoY3SMnaeAPS3ApXJ90Gw1PtfXJ9QZtib5lwMIld9UBKSAAjySDBjncZ35L
+IsTgHlnFV+4k6k979DAGRau72FvcFbYJpXUgdtDoOnhd0RUQO7Grp2JZoHdy1bpa
+BVOW6+LN4yK+GDj/x88ZkquuChDtNVGB+dxBR6iHOajf7Q4xkQUCRUgZgfg+9YsC
+Jnfx9ljYQBHxmiVk97COYaNDw3tP7P4oQVdlITHtqAB/bWw9TdT3UF9DWKyY9MbV
+Wb1gyONaYYY2d374MNrwBj6m2MPpOk4=
+=W5f3
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

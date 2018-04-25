@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AWUYJ6ORD1aGYSD4trRN0VuxC0lrUUMeC3aB0WcLyCnMwVa3F3avXsWkJQXayInFqqute1jw9SpMvtNAOr3tPw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/88020df82a3dc4ba586ad7e0dc3ec0f96b7cf342.jpg?1519033789"><img src="/kuvat/tuotekuvat/ea7f818e6587ee5918f33e2cb4bc036e1894c55f.jpg?1519033789" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>xanax 1 mg 105 tbl </h1>
+<ul class='list-unstyled specs'>
+<li>134.73 EUR <em>(0.017288 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/nordiskeapoteket2">nordiskeapoteket2</a></span>&nbsp;(<span class='green' title='Positive feedback'>222</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Norway &rarr; Norway</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4YnALyeUZvUYZi5KrqwYviTwEEsXP0hzsq2NlFx+2UYsLY6/k3PG/VujK7fC0Nyq1eq2eSSe/kf1Zd8FAcj8UA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="99971" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>xanax 1 mg 105 tbl</p>
+
+<p>Galenika:
+<br />Det eneste serbiske statlige legemiddelprodusenten Galenika a.d. har vært i virksomhet i over 65 år. Galenika a.d. er bevisste om deres rolle og ansvar som legemiddelprodusent med den lange tradisjonen i legemiddelindustrien og deres sosiale ansvar å alltid produsere effektive og sikre legemiddel for alle pasienter.</p>
+
+<p>Xanax/Ksalol:
+<br />Xanax/Ksalol virker dempende på det sentrale nervsystemet. Xanax/Ksalol har en angstdempende effekt og brukes ved behandling av angstsymptom som uro, rastløshet og spenning. Legemiddelet brukes også ved panikkangst og sosial angst.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.2.)</em>
+</td>
+<td><span>
+ak***ro
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+fint. det kom fram etter 8 dager. meget bra. tusen takk:)
+<em>(30.1.)</em>
+</td>
+<td><span>
+Ma***fi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Virker som Vendor hatt en del problemer i sin structur men pakken ble sendt direkte etter en melding til Vendor. + poäng för bra Service &amp; konflikthondtering. 
+<em>(23.1.)</em>
+</td>
+<td><span>
+Ek***15
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Utrolig fornøyd! Vet det er mange som venter på produktene sine, dette inkluderte meg men med været vi har hatt i landet foreslår jeg tolmodighet! Dette er min nye go-to vendor. Stealth, å ikke minst produktet var upåklagelig, takk for en fin handel :)
+<em>(22.1.)</em>
+</td>
+<td><span>
+De***ly
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A++
+<em>(20.1.)</em>
+</td>
+<td><span>
+Re***ka
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+veldig bra. pakken komfram i dag. og alt er pä stell. nydelig produkt. tusen takk
+<em>(18.1.)</em>
+</td>
+<td><span>
+Ma***fi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Good
+<em>(29.12.)</em>
+</td>
+<td><span>
+wh***ng
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102821"><img src="/kuvat/tuotekuvat/24e8b1cd5016e4b178c713df7a3f248a58fac1aa.jpg?1516406347" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102821">❤ 100x XANAX S903 ★ 2mg  ❤</a> (<span title='200 USD'>162.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103354"><img src="/kuvat/tuotekuvat/ce01e1e7bf94612eaa506c362fa11961d1260e4a.jpg?1519069858" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103354">Rivotril 2mg, 100kpl(FE-&gt;110)</a> (<span title='164.5 EUR'>164.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102238"><img src="/kuvat/tuotekuvat/726107bca5a8434cae6bdb9ebeb0e767c38d502b.jpg?1513886932" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102238">100 st - Hemofarm - Lorazepam 2,5 mg - Apotek - </a> (<span title='1500 NOK'>155.46&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/drphil">DrPhil</a></span>&nbsp;(<span class='green' title='Positive feedback'>45</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38080"><img src="/kuvat/tuotekuvat/ab8345f69d679ce2796be43610e48c2e74255130.jpg?1464325488" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38080">Ritalin 10mg by Novartis - 40 tablets</a> (<span title='119 GBP'>135.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99959"><img src="/kuvat/tuotekuvat/954dae9bc5287fb51b066eb2f6899b5016fa7bb2.jpg?1507624764" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99959">50 x Rivotril 2mg APOTEK | GRATIS FRAKT &amp; DECOY!</a> (<span title='999 NOK'>103.54&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/viking_king">Viking_King</a></span>&nbsp;(<span class='green' title='Positive feedback'>968</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-38</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1504">Benzos</a>
+</li>
+<li class='active'>xanax 1 mg 105 tbl </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

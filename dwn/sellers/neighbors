@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2BZ2iLUFqaMzHhAD9G+6wgRR3m53eB7K2Yit5VlFjBOLJEy0d/vWD4XdyiDT7MjU477apYTsy6paJU6i+c3t/Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/vXy9">Suomeksi</a></li>
+<li><a href="/register/vXy9">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/vXy9">register an account</a>.</p>
+</div>
+
+<h1>Neighbors</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hey!! We are offering Indoor Grown Marijuana from California. No Outdoor or Greenhouse all Indoor marijuana ONLY. </p>
+
+<p>Strains we specialize in are Girl Scout Cookies, Bubba Kush and Guerilla Glue. We will start off with samples of Girl Scout Cookies first then we will slowly incorporate the other strains. </p>
+
+<p>To make things easier for us please follow the guidelines below:</p>
+
+<p>Shipping
+<br />-Use real first and last name
+<br />-Once order is confirmed, it will be shipped out in 1-3 days via Priority Mail
+<br />-Takes 3-5 days to receive
+<br />-Please don't message us asking for order update until 7 days later</p>
+
+<p>Only Ship From US to US</p>
+
+<p>Please message us before you leave anything less than a 5 star. We want to give you the best experience!!!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+mQENBFc/XQIBCACbhPNdulL65uGVJPJRUIir+6HQ+pWZjTj7r763X9aPWujLMs7v
+5hko5366yOPIHo+75H18z8XSBsmeFnAuJXlT1KHfyhIj14nvfnqh5J5WF8muvgnI
+vFUUwAIZMLeRPMYhnap9fn0JOzrXG/0OLm1R1ZiJAFlzmY8FJ4kB1J9yRRo9WfKZ
++gVM5nKQ5UAhUV8MfBj7MzYLWtp9cVfX3FmKUcquCDlTULic7abjL69ALmbxQz5e
+QRoFgjCY7+SefvelH9VYfSCgA+LVMrdfZtzuqxMrLyAfzSDg+hVV0ozdVj2VwHBl
+3wjRbR3c72yPAApg7D/n8nF1PeSKyIWDdtYBABEBAAG0CU5laWdoYm9yc4kBNwQT
+AQoAIQUCVz9dAgIbAwULCQgHAwUVCgkICwUWAgMBAAIeAQIXgAAKCRBoB8dG3Khj
+8hfvB/9hKzB1MKXG2cvK4798UxGjbczaQcrtDsbAOhbo0wiAatxvRLAP8HobdoQV
+HKzoRwGv/49xv7A/Q01E34tF2t34DSio+vJ3yGZzzY+vOXqGUG3Ig8Dkq9o5PMBI
+sZgOq9t4XWYCT+hDz7bLuvCDuQsEyskHIkmbtEIYZLTk8hg2SPQsjWVdA4BSqp4U
+gTy2s3+6VWLG7zVG0EsoB78SLuYXl0DV1uc1oQ7Fdx8ObE9yQAND4/kSrNCe/LBW
+eXEVg5eBupuJBlfP2RqRQQp07ObfCZZpZ4aHW6XGiAQSQ5h4V9YTMSzVxg0rcb87
+1EN4SFIdFnLnAWhV/Rtu41O+5JZnuQENBFc/XQIBCAD8x4s7zPm2pV986wBZZH1p
+2VOpKi3WBMJtb3rU8Q9XmUzs2gVnK+NdiomPh6bgr3T0oOGC8EB9kAJFW3UCXMhz
+NyHIvjDVT0MDz+3kjrmAdJPywWVfnAUVm/obkXUF7CMt0Sm+0/J9LtrMMtncX7Ir
+eW4HuQuD6oGcBL9Cw+TUrBNv9jcufzxFvglb+C4Y1/ifJKWBkEZK05Q6s67HxVAE
+j8RYp68jGTdlErHuT9dwBMUNZvCBk7FB/bz87dZWleSWW5Lh1MkffyRhJGwbx8xM
+W13Z4rDDPN1mTVL/suHq8L37VRVhIoapunPRWg87LeKrc6dO7CqamRtfEVeIbnzv
+ABEBAAGJAR8EGAEKAAkFAlc/XQICGwwACgkQaAfHRtyoY/IF1wf/Rs21tmNAHsIA
+JqBryLt9aLAML5yhE0pAu/AfpZttllZCgzbu8BwQW5DNQde15Oc0EtITYCP7EWdj
+97Zu3n5CCNs0IUG7QDL0jAEuhInXRMrct0/tEK/dShdpIWi/fOlYBLcWcJY/HtFY
+41YjrCyk49jHEDHNw3P4qv2ECLg1RHNjZh4nY8y9MdRct5WU4NpLmX5PnvO0Rs7N
+E+wDMyE5OBkP9QV16HgzIRXounpxCkHpfbQxnD53t5Eqo88EcL1WpQL66JZPPw9V
+5EmS2YF4ofM5Z2l+eOUXKdsI1mEtnhHCvkg+9gwpJWhcZQGUJdnySPRMMzE+ODBE
+TfCfMfXWOA==
+=Ghju
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+41eH0S3uxI+k/QsH1oo/PonJMEptOfd1O+DhBynYXbpuzE7G0PWfCG+vG56OPElLURxJ7Xozq21n/2oJ6EltA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/ZDzP">Suomeksi</a></li>
+<li><a href="/register/ZDzP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/ZDzP">register an account</a>.</p>
+</div>
+
+<h1>dfcompany</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>FIRST 20 CUSTOMERS WILL GET A FREE PRESENT!!!
+<br />AND IF YOU DO FINALIZED-EARLY THEN I GIVE YOU A BIGGER PRESENT!!</p>
+
+<p>Hello, i am DFCompany.
+<br />I am a trusted seller from the Netherlands and i send WorldWide!
+<br />I was selling on Agora and Abraxas, But now i hope everything goes well here.
+<br />If an order not arrive, Contact me after 5 days after the shipment time, then i can reship you order 1 time.
+<br />But you can also choice for get 50% of your money back instead of a reship.</p>
+
+<p>Coming soon:
+<br />Good Lemon Haze :) (top quality for good price) </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFWs3MQBCAC+L7jWokbA94DZtKFEwDiAT4Zr9ZQKwAfJ+zoPJEoRSaOD2p5X
+ASi+N8u9muTK8wKFfKMzrHNgGv9KTfaZwBprDljjRFx6GNMPN5DeuY+Ac/srRR3T
+/c3xqYIlr4YvSwJXpFAYxYsXoNsxUK0HV3sTowtONiXmQlOQAEft4D815VVU9yXb
+ihkT9Xud263M7GYCD8teji740expGma3Ykv17Uwd0PDycBHeayLj6VmIivhOHxmG
+Cwt3RKay/g1D+xYlIj0Pr2hMySTk4C7kv06g3MI4knv0KLh+Nr4Q7v16uDX462dp
+EC9/kEcD03TE4NDC4D+NWtIVVN4oay0MBgczABEBAAG0M0R1dGNoRmxhdm91ckNv
+bXBhbnkgPER1dGNoRmxhdm91ckNvbXBhbnlAdW5zZWVuLmlzPokBOQQTAQgAIwUC
+VazcxAIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEJ3fRPTNdoAANxkI
+AJTtg1prYsSqe1RlHpU1i/Dzu/Mt65UfuZuL35UumbNRoM9rOJGgeQMS7hoZkLBo
+qCkdqiv9akck/0JgHSHPfH9v7NQxaSKv5KR5+zKNyLayTUULhdtoZMGTe8hzf4uz
+lKmj8Ak9Hr8aQCKVrPjeWdsdyUdYMkxzFvh760cD54mXXgogd6CvwFDEiIh0mIEy
+XoNtubkzVuLPM0kybLsdUoMsNe/kZE+2URISl0Ensf6mXS23huKBz/FodNjc0gkF
+OhPs5aZXigIlnsYDF7PPRUPE/6OM/xtHWriVlTc7Gr1Q3DtZvhWHbhXti47EODEH
+YaGqdgbWL5HyALPoZz9FU1y5AQ0EVazcxAEIAL5DuQL0mhywP2+fUamDVPrrx7z3
+rKAFuCd72AihPpVhVy5y5q5EwwnJikesVLiLda2khrrwY8jnN4FIPysaod2LTJY7
+i24skE+QLzakn9qdaFbrrswkLUFP6dwa+yAbANV6uyPyi1CWfY3N/+00TjX4YZDv
+qb4u/Psn9vdzOxybgMmwYlYQiMS9u2p1KOUSVFAUCU4cPsVzi9WhI7nmVATVlmNj
+dT+XTGDvWMxcDyS6GWwyzRYNyypW1299LxNMYGiC80gBDuIcWCrEYnGaX0UGfZzj
+ddXZiqgB1Rq/JSdLodRE0luU6LBNlXIS9KHn2B+tvc5/0YYe4Y7V6Es+eZUAEQEA
+AYkBHwQYAQgACQUCVazcxAIbDAAKCRCd30T0zXaAADSEB/9HI+LCC2aDAtlUuPr/
+AHqUiSaSK0XTTarB1gZVKZEDuBJwx4dzBDzaiRKY/VGs6+4SkWBDdmqLOgytOHrl
+STRWtqIUGD4cyt1q7iYLkRoCd3D1QAOq7mAtlEGnPQ2DAOFdKpkmsORYjCfhzZNr
+R3LrZeuyH3hVSCljKuN60XNNk/n+ZnIf/VMFUCx4slybrKTE0wE2X247NTXdZerh
+8DLcbkofGB859qzQsFHsS0SLLvMod4BZ0Ul5tqEm8p7FnN7LAt7g5yMZ1q19iujS
+QKo8rKsINSARktKv1jlCeyou93oIGkU7v2UpCgRUQrpg//k6YcWW0wg88nThwoQg
+fdTD
+=6uYd
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

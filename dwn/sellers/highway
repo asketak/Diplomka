@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OC37lShW1+pIMZnrcf4ErzGQmT2Fn4OPHcCRR83tcAeLM0rVMYOpg42M+QzPV7Kd4jWESUl/VH4DzSMF6LLX9A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/tFPa">Suomeksi</a></li>
+<li><a href="/register/tFPa">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/tFPa">register an account</a>.</p>
+</div>
+
+<h1>Highway</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>24</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-7</span>
+</li>
+<li>Total revenue: 4943 EUR</li>
+<li>Last signed in: about 6 hours ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Netherlands</li>
+</ul>
+<div class='description'>
+<p>Dear customers!</p>
+
+<p>Highway(s) is back!
+<br />After a short vacation/ recover period we are now again ready to serve our loyal customers.
+<br />With some new products available on Dream Market and on Alphabay!</p>
+
+<p>We welcome you at the Highway market.</p>
+
+<p>For safety reasons always use PGP to contact me!</p>
+
+<p>--------------------------------------------------------------------
+<br />SORRY NO MORE DOMESTIC DELIVERIES (NL)
+<br />--------------------------------------------------------------------</p>
+
+<p>What can u expect from us:</p>
+
+<p>– Good quality
+<br />– Communication within 24h (except weekends)
+<br />– Fast delivery
+<br />– No shipping costs
+<br />– Loyalty (really important these days)</p>
+
+<p>Shipping:
+<br />---------------------------------------
+<br />---------------------------------------
+<br /> WE WILL NOT SHIP USA AND CANADA!!!
+<br />---------------------------------------
+<br />---------------------------------------
+<br />– We always try to sent within 24 hours after your order has been placed.
+<br />– All our shipments are sent via priority mail with great stealth.
+<br />– Because of some custom dogs we always use good and trustworthy stealth MBB bags!
+<br />- Orders above 200EU we ask for FE. When you're order is below 200EU you can escrow.
+<br />- Please make sure that your address is good. 
+<br />(Example) 
+<br />Name:
+<br />Address:
+<br />Zipcode + City
+<br />Country:</p>
+
+<p>Delivery time:
+<br />– EU 3 – 9 days
+<br />– WW 4-18 days</p>
+
+<p>When your order will not arrive in the estimated time, just send me a PM and I will always respond and work things out with the customer. </p>
+
+<p>Refunds and reships:</p>
+
+<p>– Only if you have 5+ sales here on this market.
+<br />   1x option for a reship for 50% of the item price or a 50% refund.
+<br />   Australia reship for 75% of the item price or a 25% refund.   </p>
+
+<p>If you placed a order you have automatically excepted our rules, and therefore you will not give us bad feedback. 
+<br />You can give us negative feedback when we don't treat you according to our rules or if the product is really bad.</p>
+
+<p>If you have other questions, PM me and I will answer it within 24h (except weekends).</p>
+
+<p>Kind regards,</p>
+
+<p>Highway </p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Goods arrived, seems to fit :-)
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/23287">10 Heart XTC Pills - 160MG </a>
+(24&nbsp;EUR)
+</td>
+<td><span>
+be***og
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Goods arrived, seems to fit :-)
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/24594">10G Amphetamine Speed Paste 58-70%</a>
+(27&nbsp;EUR)
+</td>
+<td><span>
+be***og
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/highway/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+SuRa7WHi+kw3L8w=
+=pY2+
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/24609"><img src="/kuvat/tuotekuvat/ec84acf3b03e8d089728f3bab60962b95c7c0de6.jpg?1455972706" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24609">50gr MDMA Crystals 85% PURE</a> (<span title='400 EUR'>400&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24594"><img src="/kuvat/tuotekuvat/195da94260bfb6783e820d86c307d0b7ce59a1c4.jpg?1455972704" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24594">10G Amphetamine Speed Paste 58-70%</a> (<span title='27 EUR'>27&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/27724"><img src="/kuvat/tuotekuvat/e909f3c0526f5f2d56f1221cc14fc60b0c5e1f88.jpg?1455973565" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/27724">25 Grams Black AFGHAN Hash </a> (<span title='115 EUR'>115&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23280"><img src="/kuvat/tuotekuvat/5ddf51045d09d9fd75c87f97c73f28c78c939888.jpg?1455972448" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23280">5 Heart XTC Pills - 160MG </a> (<span title='13 EUR'>13&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24596"><img src="/kuvat/tuotekuvat/66a05f5aada8c4aa9552442413b55bf4296cfe75.jpg?1455972704" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24596">SUPER DEAL! 50G Speed Paste 58-70% for 100e. 10 Qantity left</a> (<span title='100 EUR'>100&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24598"><img src="/kuvat/tuotekuvat/91f9eb96f85a36ab73e83f303ef20f1b5805ed9b.jpg?1455972705" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24598">500G Amphetamine Speed Paste 58-70%</a> (<span title='745 EUR'>745&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24597"><img src="/kuvat/tuotekuvat/468354d4959fdead806d138ff8d5e18a52896126.jpg?1455972704" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24597">100G Amphetamine Speed Paste 58-70%</a> (<span title='210 EUR'>210&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23292"><img src="/kuvat/tuotekuvat/ac4ac72200bb41abb79da2e3020db3d286c8d818.jpg?1455972450" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23292">500 Heart XTC Pills - 160MG </a> (<span title='900 EUR'>900&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/27722"><img src="/kuvat/tuotekuvat/dd365999182d319cde601d8796c472af2c4fb6ae.jpg?1455973565" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/27722">5 Grams Black AFGHAN Hash </a> (<span title='30 EUR'>30&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/highway/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

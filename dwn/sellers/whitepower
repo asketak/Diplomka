@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MPRlwItBLd0Uvv+9XnBxMwwfm1iRAwo5wOJQPmKlYicCCzgr2hhoW5Cfzd+UyWx+LCvgGpqENkp40westZ7E3w==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Sbxi">Suomeksi</a></li>
+<li><a href="/register/Sbxi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Sbxi">register an account</a>.</p>
+</div>
+
+<h1>WhitePower</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 230 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello and welcome to the new bulk store on Valhalla 
+<br />Follow me on Nucleus: http://nucleuspf3izq7o6.onion/user/profile/bbe7020c42a07ffd544321f96293b2a7867ada89</p>
+
+<p>enjoy the welcome prices as long as they are available.</p>
+
+<p>Please do not ask for samples or other payments than BTC.</p>
+
+<p>Refound OR reship for Europe: 30% and 15% for oversea countries.</p>
+
+<p>Leave your adress as:</p>
+
+<p>Name
+<br />Street number
+<br />Postcode city
+<br />Country</p>
+
+<p>Do not use PGP for average questions!!!</p>
+
+<p>Cheers
+<br />WhitePower
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFY/ZagBCADbAoOVQyVKTTw6Wf8NPH40SMp1FfRM/i48P+326bEtdH722CEz
+HYxhOUjY/VrJaLBNpM9h7GQ/PZ/yuz13eqJaBJrp+p6UTG202b3EHmIJ6HvU6IvU
+BZzmPppMqDc1Lmh16uvqDbkvvGVo66nRYPTY3xM26p1xCYnrfv492o4mGLZwMhBw
+KWiYSv3A8+4xuBYzUOkf0uzs92qD4/CIce6iaJOLmSPeyYQV8lShqLKGyj4xsuVs
+h8Qm6ZQBxHkdsX8CWn6l7ZYmjwMMqmObo5rQCthU5jkBB2s4IUB495q2ae3QLR4o
+ysPpKE2V29yM3kbW+c4eRFdFhOkAuDqIK55NABEBAAG0G2xvbG8gbG9sbyA8bG9s
+b0BlLW1haWwuY29tPokBOQQTAQgAIwUCVj9lqAIbAwcLCQgHAwIBBhUIAgkKCwQW
+AgMBAh4BAheAAAoJEEWEqX3rFBK8wdkH/0yKvOtDnIb5aQRJ0iQpinVyIGqSbkcc
+uh747dTGNTjCphf3EATkJitB2+6MZrCMipeCyCy5InuafKcyC/dJma3hJPVY9JYJ
+jCp3VgeJ/QJa+9hVjwYTOIPWVfCC4l0ek1bjSCqpb0bOukFoCa/UFeyIjvPZ1+gT
+Dt1lh+4JWdgoYlp6RL1IiVVD8GmsK+ZtvzBqssHp6SF8jRWEQN+Cfglef4FICNwl
++W8IeGK+l6FUfIND01VRFAvYZ+ZKFITVhGEhbpnkpFHZmfFWgwHcL87r+9WyGxtI
+bvq/SdcWplvoW5b70EA8xZ9X/bOUDZx0r0jvIZITyabI+h7U0Ip+XUG5AQ0EVj9l
+qAEIANV0AjwLyZ9QokAUFsXVk4/23PyDn14Na7qH8E8cO+Y26sOKDX3i15fJo1uC
+hJD5Fe1HYFGM7cjf2Y9NGukQt2HA2RqTo8M4jjWQMG7J7o9GfoRIlKSXCdqXcj/h
+WPDLVzwEiW6LN5ROs6hgp6mwYPizJ/FpY8sDK8KUgL5plfHVGzOKbPH9cfwKS2wF
+wdfnGOSowCDYCRaH/2pY7gK/9VU9HyZnOiACDoPl5M5l6cL0wjOviTDQu430FR4e
+8HuevkdatBGRCjmX8wtAv9rBn2NV/tVfhh1l2XPaSSWJWUB52t/vNqzVbA1R1+Kp
+l6VwqmhLfCbUJRqRDWWvYI/g5f8AEQEAAYkBHwQYAQgACQUCVj9lqAIbDAAKCRBF
+hKl96xQSvMHtB/9fNJomv0Uiv8F3UL1QGI+7YuEzTWc+ODjYGYX2agGXwc6BOaH1
+dDJ8hB7NDKXvrpLSwrTy7WnzSxhcP5Nr3uy+q96fIPv+n4oUeVSyDnLflmghPAny
+GvuOeG8MY/orePNnz071mQpW2WoQLGGQkE3OSwN7dkRQ8WrDN+AaOuWiTs+eGqcp
+VR4bUIFR5f5SNelc5R5TxMMbL5yGQsa1yXKIG5RBQHJ+gTuGbZfcm8Dyy0/u2l2x
+MYVgDUisHulIx4Dx8RsNFasuBWWt8H7tXvqgDv+qItz46WipxMKsHLs4ME6ne014
+LSpyno3f8XVW+oYZoeTkTVNsL07c8ZUBqe/7
+=Nsmd
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

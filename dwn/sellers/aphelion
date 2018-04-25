@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0v6JGkqd2uzY+rUI6U4frVXWyHPT6EfdaTB1vuE5Ua9mA2ec6wXuu/tc6POyWJLypjTBLFvS/9ppP9lAUqd1MA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/s4Fr">Suomeksi</a></li>
+<li><a href="/register/s4Fr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/s4Fr">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>Aphelion</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>23</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 8510 EUR</li>
+<li>Last signed in: 1 day ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+So sorry for late finalize. Perfect vendor.
+<em>(4.2.)</em>
+</td>
+<td>
+<a href="/products/100057">5x LSD Sheet (100 blotters x 100mcg)</a>
+(770&nbsp;EUR)
+</td>
+<td><span>
+os***ao
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/aphelion/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFmHM/sBCADNAIBoEMuWUwBGUu+ZhX7BWGCJ2aCf9XRrJumN8quMMUxfi/32
+ci96uPeySYlZczwVrUEttaFxs5Kzu+hZ4GdxZr9+LHiNRY3yEBrTiaav8KtqEOH7
+dpBx417n5wjUA/d65IRkh6DOBB2jtyh5mwO8onIw+KsePLS+n6nT5/Ry+IXQsyT0
+lfEu/D1PhVh4ewTnQhVIYZOSCYC9kf8h9iKFQBFN19h8dih6F2VuFh2qKY2kMqTj
+XwZeoj023KBnYhr59MieaClioVYS+snkw2gfY3Oj/bYferPvMVOFzS40nPy5JcBP
+nO90Q8tj0XdrEB70PbdWF4i5qwOMiFTAt9M7ABEBAAG0CEFwaGVsaW9uiQE2BBMB
+CgAgBQJZhzP7AhsDBQsJCAcDBRUKCQgLBBYCAQACHgECF4AACgkQVzsF/b9YUkQv
+lwf/fbft0uj+dfoox4vy6a3dBwWSbkSctCBm4TMOebUfjmQ2Kk46PpMUV4timvlN
+7jPABbTWot+kWOkfkqAWATjQ9Bbne9rh8JmCZBYoZY7JVrV44ftj4v7iLTl3zgW5
+sh88uV2WNq/Key63u63XWxGAcBRGY6v4SjZ1soDF8ttWEr/HqDGuFtn8ZHbQmB1x
+WXefYHrjNYHKsJaedQsWmJGNvf/+NfTLelPwyvS8zXlTTAblW7HBZQr/a5GsaLvN
+l/3qfD81+rChH2bzFXFdfqHy321/XdGQ/pbHEaeim2M9DrB7o9NkAi+MxWGbGp5k
+NPe8OeOYO1u8boufqJSyjgvYxbkBDQRZhzP7AQgArDEOFxgkAnCZIO9LpyvlcvMv
+LxcQ3mhBZdscWv/SQEG+7lSfYJmUeOz2TJ9s9Y3gP0ez3OHnfFL8YD0i2kVyeOOI
+bPcah/vd3C5EzN0gkusbkwM2vtIp+ofn8OFTyDKKk3eNrRIbgfIzzZR7UBiULnDY
+qWZDgEBaurVifI+y994Rh04DFSR7aPFq7I8jbydmYMU6Gu1wNYPnsrbKyE5Iml/G
+08W0WXTQ6D0VoAo3jB/xFfPihU7qc49xxjb4fM76jhEP5rOwAaQweLr2m/iTlZe8
+W8umZCcIljlGOOGhuCyEQXH0W2HXx8Ns23LEZIzHQreuc11uU+KGHzvqflFfXwAR
+AQABiQEfBBgBCgAJBQJZhzP7AhsMAAoJEFc7Bf2/WFJEiSYH/3EUNaxu1OmFFUw9
+D3vXWBsXxi0ZWYxjAsu8gSr47xKDlu0l3/awySYTP2WggwEKcTBaD2rYoIV0d1IZ
+4/gz4QIi0CMSPc7FkdXn+ZGYqhmubdIUxTvKjM0k/7CG23GrwhfLvtjzTnkV5xNZ
+c81xoBOz2nGijBPi0RPcu3xdxsjggeH2fXE6QLDxqBzJHe5haeO2FJmUjzLlYdbj
+Io9mJccw82LJ3CuWivC5xbfkY0EFDcr+yucYSlu+1p8l43P+oQtaPjG7uF+rj1e5
+WYE3g0ghJig1c0kPXTgZeFlI0syH1McFuFpPxLXsasOVp/WgShw0ZEIZSzUpYaKA
+uVlGFAY=
+=xjVz
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

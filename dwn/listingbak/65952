@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HIBJI7cmRktfyNzWDMbesYoj2LbVlkv7KEY1jZkpUAbRJAezA8HmQxwN2Stguhqlezl+hOY3/c9vjmccxJ91EA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/cfcff457de0bf04944e006452845493055265f9c.jpg?1476419618"><img src="/kuvat/tuotekuvat/fa360fed39409ab9819d3360246463796c35ffb6.jpg?1476419618" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>224g Key Lime Pie Top Shelf A+++</h1>
+<ul class='list-unstyled specs'>
+<li>1167.8 EUR <em>(0.149939 BTC)</em></li>
+<li>12 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/therosinmaster">therosinmaster</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oplv8K0VIpsujdPO98IEmpGoWV9CJJwFlutYQqcrtDNvPSFgGfKCk21I1jObvsCOYLL/bXGFKjHRIwrT+p2RJQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="65952" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Key Lime Pie from Burning Bush Nurseries is a gourmet phenotype of the superstar strain Girl Scout Cookies. Selected for its strong indica characteristics and heavy resin production, this dynamic hybrid boasts flavors of lime candy, mint, and spice that spark flavors of earth and chocolate when activated by heat. The buds of Key Lime Pie regularly show traces of purple hues due to the plant’s affinity towards colder temperatures. The bold indica influence produces relaxing body effects that help to relieve chronic pain and insomnia, but have been known to overwhelm those less familiar with cannabis.</p>
+
+<p>When ordering top shelf medical marijuana from me you can be sure that it will be fresh, loud, very potent, smoke well, and most importantly have great bag appeal! We carry many exotic strains that you won't find with any other vendor! Be sure to check back weekly as we are building our menu! When ordering please indicate which strain you would like.</p>
+
+<p>SHIPPING :: Dropping packs 3 days a week so your pack gets mailed within 48 hours of ordering! Tracking provided 5 days after being marked shipped, earlier requests may be denied but you are free to ask if you really need it. Shipping Saturdays now as well!</p>
+
+<p>STEALTH :: Printed postage on the super common USPS provided flat rate packaging. Visual barrier.</p>
+
+<p>RETURNS/RESHIPS :: Due to the secretive nature of TheRosinMaster, returns are not possible. Reships are available for any package that appears to be lost after the third week. Returned, bad address, packages will not be reshiped.</p>
+
+<p>FEEDBACK :: Take the time to let everyone know what you think! Give me the chance to fix any problems BEFORE leaving a review.</p>
+
+<p>CONTACT :: Markets are checked daily. Email - therosinmaster@sigaint.org
+<br />Check us out on Hansa, Dream, AlphaBay, Oasis, or Valhalla!</p>
+
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: BCPG C# v1.6.1.0</p>
+
+<p>mQENBFbnn8oBCACXLwrznQCooyf660AGEE59NgID2sRvDHrQdyz3EeKygn6lBmaT
+<br />8h/i4JyBGVMtXePfmK6mlYMmbikwF/9NDsQbiTifOQg3Vp2zXpsbtM7Rww2NJhMS
+<br />ZBLwkv9pEnDskCQoXtsgIGj4UFOiyWgoDVKeFofIm6dPl9/U1df3QIkYdX1pvegR
+<br />We9uYo6dkFqPAaKTyoF34Vwfyo2DRWI8S3kIx98/hrHqlPV5kcmFC56T8HdEaPVL
+<br />zPIL0lo2zYFsdkagvHr2J+cag6/Hzo+gwl163V8Pwder6rgNO1Jiyv58ZD/pvLX8
+<br />Dheoj/v2F7I/Lv0DTfmweBbv3iGDJw7vWM0FABEBAAG0GnRoZXJvc2lubWFzdGVy
+<br />QHNpZ2FpbnQub3JniQEcBBABAgAGBQJW55/KAAoJEN6/dCeMbEXnV5wH+wR772dV
+<br />vMz1EQEoqUG32P477NP5cjX7rIHv0Cx6aqYSOOV/POyDXtkaK4AEd59JSdNaV775
+<br />XOnWxmUSfPRYJit4zYWKuzp9lp+SPsFjSKkBtNiuWQESDH0sGPBAJjfr7wNIpG4g
+<br />lSUl5QlxGf5gq4ahmvdJOgxIW141bn4WjPBcAyyLuhCqsWLVSwkDUVV7EY4fzKXR
+<br />HI+yL0P8WZekC3MRMoDKgUm1ppz7SrxrJ7Kaf2JT258Us+5WwyCQGX1K41C1sHJO
+<br />N9qxgv8NM1bRP17uvOdNKAmUUIK0puaXB8JIm/9BYKdchMF2u/+fWsLk7mAlUxrJ
+<br />eengPO11JdZSplI=
+<br />=vwJK
+<br />-----END PGP PUBLIC KEY BLOCK-----</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (8.14 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103584"><img src="/kuvat/tuotekuvat/0d2894d44f639dfd51784641674d4a56429f4ed3.jpg?1518812567" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103584">**1 LBS TAHOE OG G.H. 448 GRAMS**</a> (<span title='1929.98 USD'>1570.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72233"><img src="/kuvat/tuotekuvat/4d61d9ae4a020ed042aff5a8d101400b0dddef6d.jpg?1479842769" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/72233">GIRL SCOUT COOKIES 224 GRAMS(HALF POUND) </a> (<span title='1386 EUR'>1386&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24777"><img src="/kuvat/tuotekuvat/e9e5a92295d7cc4dd80aee080967862837c49319.jpg?1485136647" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24777">1/2 POUND INDOOR GORILLA GLUE</a> (<span title='1410 USD'>1147.46&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/port-royal">Port-Royal</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85014"><img src="/kuvat/tuotekuvat/6b6011be923452c9cd9b545ed2304e7beb0ef390.jpg?1486717850" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85014">120g  Blue Berry </a> (<span title='1200 EUR'>1200&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100541"><img src="/kuvat/tuotekuvat/9f2e0b5f34786d9a9dd207f427d6ec6acfd41e5e.jpg?1509081470" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100541">500 grams GELATO - CALI INDOOR GROWN</a> (<span title='1500 GBP'>1706.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>224g Key Lime Pie Top Shelf A+++</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

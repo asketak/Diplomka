@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FToZWzFlZwrIhqWjzaHG9iiJHKy3j/hf38I2XX37TKVdXyOWRPuw90wVvkBBpuln7EuSJcu6TyAynDRIE8OJGQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/uzaz">Suomeksi</a></li>
+<li><a href="/register/uzaz">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/uzaz">register an account</a>.</p>
+</div>
+
+<h1>EuroVCC</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello,</p>
+
+<p>We are EuroVCC! Well known and trusted vendor from Evolution, Blackbank, Alphabay and Abraxas now offering our service on Valhalla.
+<br />No scam or bullshit here. You allways get what you pay for!</p>
+
+<p>Check our Grams profile to see our feedback from other markets:
+<br />http://grams7enufi7jmdl.onion/vendor/EuroVCC</p>
+
+<p>Regards EuroVCC</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFadNIwBCAC6x4Oo5nQ+ks1czHOURYOvaHMuAs+my1+rfDKHqtnP4xxJ0Iuq
+/h4NTsKgi5I1RZqsbgmWr+LeCnTtHCotgvZH6tKuefcuBfymkYXl/QRJBNw3K9kY
+UinNAWYBneCM9KUHtuYQtlWXVGRbVqVAIAr+WFQrZ6UccdjFVacb+wUuQRENEiPo
+dMkIK1g1sky9ktqS1Kg12LkG5DuBCvrrQmEGXck8R8+CC+NdG7QwzlqC/CAF+z0M
+chfGa1YViDKtAlaPYF5QMh21hO0KiQq7oLODNMCcw0DnQiDNxwCGDnST82ROb9Im
+soNrHt1IkgHoJSb2u1jnpsqwArkGGVlrXl59ABEBAAG0H0V1cm9WQ0MgPGV1cm92
+Y2NAYXV0aXN0aWNpLm9yZz6JATcEEwEKACEFAladNIwCGwMFCwkIBwMFFQoJCAsF
+FgIDAQACHgECF4AACgkQ9/6VFgmHyz42zAf/fSYyBf2/MAK98tLm/RBxN1M+LvUp
+M3Cj1cYXkHGLY16YMJezTUhIgyh4arm7KRzzWi7LWHsiyETdbv2Na4/5EOmFVmml
++Dj/EXlxiLfw08whf8mtCyT0bOB6oHJVdl6G2CjRc8hxzWnowxpcUhiInMFvovrT
+HUTZ/9uNtLXaZxESSnj5/b8NWh/YgURtj5orXNUJRJ9/eom4SyHrbi1QIbAnqDNp
+1eqs4ICzZo6Q62H+GAQ1GQS0Yq7UY3dIZeoPJ9f6qi25acMy4GhiZXP75ZYi4vbd
+BTN1s9SaLqabEvi1NFElLBr1h8y93LGG8ck0H78p0RBCCjb/EaaoBxLqKbkBDQRW
+nTSMAQgA19b3p1z/v/DjDGFpiB7qacoIBoaoXyQUZgf5bKZwgpV9yKZsCULQ/tNp
+qnL4pUkyUi/hj3COcv2n26tGKnTmOH6AeQ4dwA+XT9crH6fFdeHr0aE2l1Y8r+Kr
+SLXgNCCmYa6s5pXxyQtSIL3jh9eHGA6fzcxrgp9SYERoJ1Q8fD/inKvEiEM1DWPu
+91My6loQsgrqvmF7QfL/kz2iw42W+zKCeaIjVukWiDseG745MQzmnCzeROMXynna
+btXd1bjhYUDSXSsxPA+hAvffzMV+OCBjn6TmN5pEcTDhS5RO8AIA0gtbk1cWE4Vi
+3AkJUMdABfYnqrYY9EAIWWvZLAJAowARAQABiQEfBBgBCgAJBQJWnTSMAhsMAAoJ
+EPf+lRYJh8s+L0QIAJ+tXnRnVv6LZe4zaeYfdgU+P7f636Aff4RT672+TW0b4Vy7
+R/5dx5nzZHcTeAjp89eOsN9ws86sJHB9CS5DTqzhStFYa2MdtB+zZZrBjjij0lBp
+G7LUlya0joxt0ezUZB5Gz3mRSQEr1GBFeuuUiDwMuNZ4+LoRmpu7vtuF4P9kAg7x
+wXFSuEduyniGJjp0TzOHSaHmpFz85f6P5K2V1mOnKi2meHz9YCxEZ34GaeK3AAeI
+NEFOaOa/v8DyZwiR5JW/S1CYHvrDvhJopjYGAlHCmIDHnL4+dejcmaEQj6D57wM2
+dvDPkmgONn+kvzqHh1EcMqey+KutHc5sA5AzNfM=
+=7bd5
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

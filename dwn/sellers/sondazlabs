@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="f1nd06kbZUKcDQ7GLWYxbM5g8Jchy897WEMCji5AQgEQE5VfQAsBBC2AxxdnXfsbQrvtJMqCXU1JdSKDb+wDsw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/ryNY">Suomeksi</a></li>
+<li><a href="/register/ryNY">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/ryNY">register an account</a>.</p>
+</div>
+
+<h1>SondazLabs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ LATEST NEWS ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>4 Nov 2015:
+<br />■ 3-MeO-PCP is going to be restocked this week!</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ CURRENT STOCK ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>Phenethylamines - Psychedelics:
+<br />■ 2C-C
+<br />■ 2C-E</p>
+
+<p>Phenethylamines - Stimulants:
+<br />■ 4-FA</p>
+
+<p>Tryptamines - Psychedelics:
+<br />■ 4-AcO-DMT
+<br />■ 4-HO-MET
+<br />■ 5-MeO-DiPT (Foxy)</p>
+
+<p>Arylcyclohexylamines (Dissociatives):
+<br />■ Methoxphenidine (MXP)
+<br />■ 3-MeO-PCP</p>
+
+<p>For bulk amounts of any of our items, send us a message.</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ SHIPPING ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>We ship goods 5 times per week (Monday to Friday) and we are based on a low-risk EU country. We mostly ship standard, untracked letters. Registered mail might be available for special countries or orders above $300. That being said, please note that we will not give you a tracking number due to security reasons.</p>
+
+<p>Shipping ETAs (delays depend on your domestic courier service):</p>
+
+<p>* Europe: 3-8 working days, but may take up to 15 working days
+<br />* USA, Canada, Australia, New Zealand: 5-12 working days, but may take up to 21 working days
+<br />* Central and South America: 7-14 working days, but may take up to 21 working days
+<br />* Africa &amp; Asia: 5-12 working days, but may take up to 21 working days</p>
+
+<p>Once your order is marked "shipped", that means it was sent and no further modifications of address or contents are possible.</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ SHIPPING DETAILS ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>Please encrypt your address with our public key for your own safety. Do not use privnote.com or any other 3rd party sites to provide your address.</p>
+
+<p>We reserve the right to cancel your order if you provide your address incorrectly. If you are not sure how to write your address, please check wikipedia (Warning: clearnet link!): https://en.wikipedia.org/wiki/Postal_address#Mailing_address_format_by_country</p>
+
+<p>ALWAYS INCLUDE YOUR FULL NAME AND COUNTRY! Orders with missing details will not be refunded/reshipped in case of non-arrival or will be simply cancelled.</p>
+
+<p>USA Customers: Please provide an officially formatted address (with caps and Zip+4). This is to prevent customers from providing different zip codes when asked to confirm their shipping location in disputes. </p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ ESCROW ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>We require FE (Finalize Early) for customers/orders matching any of the following criteria:
+<br />a) having less than 6 deals *and* 2 months activity, or any non-positive feedback from a vendor.
+<br />b) receiving the order in any of the following countries: Norway, Denmark, Sweden, Finland, South America, Asia, Africa, Middle East, China, Hong Kong, Japan, Russia, USA, Ireland, New Zealand, Australia, Canada.
+<br />c) order total exceeding an amount of 200€.</p>
+
+<p>We will appreciate if you FE even if you don't need to do so, because we just don't feel comfortable with having funds frozen on the site that can vanish any minute. We are still bound to bring you the best service possible, as usual. Some special products require FE.</p>
+
+<p>Remember: you will be able to change the rating message even after you Finalize your order.</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ STEALTH ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>✔ Our letters will fit in any mailbox due to the small size.
+<br />✔ We change our stealth methods from time to time.
+<br />✔ We use Moisture Barrier Bags (MBB) for ALL orders (These special bags are vacuum sealed, They prevent dogs from picking up the scent.)
+<br />✔ Our letters will always be disguised as business mail.
+<br />✔ We mostly ship by regular mail (you don't have to sign).</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ REFUNDS ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>* If your order doesn't arrive and you've dealt with us before, we can arrange a reship to a different address or 50% refund.
+<br />* Refund requests made by customers will be resolved on a case to case basis. Always message us before you give us negative feedback.
+<br />* We can't provide a refund for orders shipped to the following countries: Norway, Denmark, Sweden, Finland, South America, Asia, Africa, Middle East, China, Hong Kong, Japan, Russia, USA, Ireland, New Zealand, Australia, Canada.</p>
+
+<p>░░░▒▒▒▒▒▓▓▓▓▓▓▓▓ ALTERNATIVE EMAIL ADDRESS ▓▓▓▓▓▓▓▓▒▒▒▒▒░░░</p>
+
+<p>Always use PGP for mail communication, otherwise your messages might be ignored!</p>
+
+<p>ALTERNATIVE MAIL: sondaz@riseup.net</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: PGP
+
+mQENBFX2/kYBCADysJyAfnqD0vcHUAEv3fGOKGBV+vDkX7T5RaMU18fHXoZ216fI
+Jzse0KGooiYgaZ02KKalgRIQdYIv60vo3/FzOEVegHM7D+EIBs+laKCQkpUUDvc9
+/IQw0iweY3kPYDn6MwoIfvnfKCXTnqoBcVIlWGg13LpJaEEu4pk3z3y45+Z9RZmw
+wdNBq+5awBc8+G/3fsUOdtrcu/V1tVdsaoFx+R4mCrq8MZwf9NoJhPRsROIlY3BD
+0iLXI+c+aKWibOT4UxJyZcVDQUwRvij9CVio5jhEixltpuOlyPE8lfOtz/AG6b9r
+hHovXGCzlAN/z8QlMVuIhBbGCSfHCNTEiGFFABEBAAG0LVNvbmRheiBMYWJzIChT
+b25kYXogTGFicykgPHNvbmRhekByaXNldXAubmV0PokBPwQTAQgAKQUCVfb+RgIb
+IwUJEswDAAcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEERUpUCcXAq+pFoH
+/2R6A0ptfIz552ipmkKqVlIFmw4iB3OXIVG0B7OJeyMrjO6RDZOpZYPkppoTYl51
+9eH6OYapB8wqivXhsPtE/LajGl6/rD0WsJII3DCqO68Vt6yCm0rRg4cGk2qTEiu2
+0LNHxhf/D0faUWjJ4y9xFY70Y1mA/XM9pvDg7V67N9C2MQGsILhXhEEWyFMePHdw
+VQVH7QS9yVi6gKKubBsT7LStz73/qK/C8JTJiF3WB25wxPU0iUd9LcSfBMieoKTq
+cGieYbEgRAyz0huLUl9kqwARWpilDJAaxxkOkGMfEMm8pP1GINWKNhD/fISHLjzu
+8DfvkID3W9oUHoEZQgHcv7y5AQ0EVfb+RgEIAKh5Qvbx9Z7kTJalaKUVoiPEDaPf
+zTuNzHS2g/ZHZGPMA5aAWEfEBeRSIFS83+X41FtQJOTVUEFysydQu5w6em6+rY2L
+wjfjjLwQvWVxUE4DUxZmVCFTcSMXxox8Ch5oBj6/NzCdVI+sn3/BRveU/8Dx1Du9
+o9Yv0Ow83eJ2Qw0irmAeU+77vvQbCG43SioosgUE6oInjk7hVxA6z3dLglRi+IwF
+ZWPMy2PPihBJVkLa74I1zEOIxKOu8ziBaOyHe2bPQE2vON38vugzpmqC9t1w273Q
+/rRzQnfvuyzHy65gYwrtUtAAp9Z/wBJU0UuInVHyXp92WCbuEVyDMXBgD5EAEQEA
+AYkBJQQYAQgADwUCVfb+RgIbDAUJEswDAAAKCRBEVKVAnFwKvkWVB/0UffojPflK
+s5z+UmxmwgpS3G69/uAcZspFfPVdmZOu4lzda6iC4G/ffQOEtpoCfqZtEN25F1/q
+rOgExdP95x6Vknboo1EDMpPeZ7Z7zZcnu4OdcGdE6FJSxzAT1FloxFvJxGytCvNZ
+uSkNXaKbJiRTQkH0BuN5skVqAE8EFHBxsJdDLn+Sw5BAydC9/8A/tT4K7mhD4FiK
+Rucd5rK66D3ogPXBADP/kNlUuzrpET2+/1zK30Si6lJwPAxvVT065HgL0FwUjXnk
+DBS4AC3JqhWltEq+4K8IWXXaXqXC3xOahQiDnfI4ZZWENn3rKMyQPYW7I+AI5+gG
+BSt+DSgtK1Kr
+=A7LX
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

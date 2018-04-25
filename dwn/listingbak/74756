@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="b8wBwpWtqmLGjup2bOt9HNoQUXTmGHKZiI8u8i/RG9yiaE9SIUoKaoVL74sAl7kIKwr3RtW5xK3PR3xjcmc+yg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/2d26fb73af9bab0fa06be158c8db6b37e399a0b6.jpg?1481243514"><img src="/kuvat/tuotekuvat/7c3c57ef512c1ee5a36bdb57ff1c8e6996d9ae02.jpg?1481243514" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Double your bitcoins : 2000 $ TO YOUR PAYPAL (PAYPAL TRANSFER)</h1>
+<ul class='list-unstyled specs'>
+<li>811.4 EUR <em>(0.104668 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tAnw0+CY4SukED/iJW3ELqo+arDZ0+STUE75EsP+naZ5rb5DVH9BI+fVOh9JEQA6WyTMgupyUqcXhquDnki4sA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="366861">Digital (included)</option>
+<option value="366862"> (+0 EUR)</option>
+<option value="366863"> (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="74756" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>DOUBLE YOUR BITCOINS : YOU PAY 1000$ = I SEND 2000$ TO YOUR PAYPAL  100% ESCROW 100% POSITIVE FEEDBACK / semi clean money 100% safe and secured</p>
+
+<p>!!! Please read this listing completely before ordering !!! Especially tips on the receiving accounts below - verified US business accounts work best - Prices in $, but I send in the currency you want !!!</p>
+
+<p>We offer transfers to PayPal account s. The funds come from credit cards (and NOT from hacked accounts).</p>
+
+<p>Additionally, the credit cards will not be charged back for 13 days and the release of funds to you is instantaneous so you don't have to wait after the transfer is done.</p>
+
+<p>When you buy, please remember to leave me in notes:
+<br />- PayPal email (-&gt;TRIPLE CHECK THE ACCOUNT CAN RECEIVE INTERNATIONAL ONLINE PAYMENTS / DONATIONS, PERSONAL USA ACCOUNTS SHOULD BE UPGRADED TO BUSINESSCheck, that the receiving account is fully verifiedNo Kenyan, Ugandan, Italian, Spanish or Indian PayPal accounts, unless they are Business accounts with transactionhistory.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/90244"><img src="/kuvat/tuotekuvat/1d6c36c294b7dd46762e03a7e3fe652c8fca4d09.jpg?1490428740" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90244">BUY  Passport ID Cards Drivers / MMJ License BIRTH CERTIFICATE </a> (<span title='1000 USD'>811.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/95711"><img src="/kuvat/tuotekuvat/b8153a3beae137bbb0498fc2f3ea9cf45747638b.jpg?1497869509" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/95711">1 000€ EURO Bitcoin Cashout Service</a> (<span title='1205 EUR'>1205&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100368"><img src="/kuvat/tuotekuvat/f754cfc89069844a855bc5eba71834b15e542c23.jpg?1508861556" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100368">2500$ PayPal Transfers for 750$ Bitcoin</a> (<span title='750 USD'>608.55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72854"><img src="/kuvat/tuotekuvat/3d8593a43c5c2f7a37dfe9d3099a5bbdb82beac3.jpg?1480167179" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/72854">Quality Fake/Real French(France) Passports and drivers license </a> (<span title='650 EUR'>650&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tdwolt61">tdwolt61</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78754"><img src="/kuvat/tuotekuvat/561f69378c6d3bc81a854340604ec60c35fce6af.jpg?1483810763" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78754">partial release for S.A Passport (physical documents)</a> (<span title='865 USD'>701.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/probitexchange1">probitexchange1</a></span>&nbsp;(<span class='green' title='Positive feedback'>6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2606">Money</a>
+</li>
+<li class='active'>Double your bitcoins : 2000 $ TO YOUR PAYPAL (PAYPAL TRANSFER)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

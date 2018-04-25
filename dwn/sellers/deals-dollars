@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="q9b4lVPR0W6Lp5W7rqvt5twAO7aBcSYj6OiR0P6F3tBccmWIVMwRKY4qrljgqlFh2i6apEqMFML2L0KcBilhdg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/G39P">Suomeksi</a></li>
+<li><a href="/register/G39P">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/G39P">register an account</a>.</p>
+</div>
+
+<h1>Deals&amp;Dollars</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>DEALS&amp;DOLLARS @ VALHALLA MARKET
+<br />-------------------------------------------------------------------------------------------------------------
+<br />SHIPPING;</p>
+
+<p>SAME DAY SHIPPING
+<br />VERY STEALTH SHIPPING 
+<br />DOUBLE ( VACUUM ) SEALED
+<br />PRINTED LABELS (ALL PACKAGES BECOME A REAL RETURN ADDRESS, 
+<br />BUT THIS IS OF COURSE NOT OUR!</p>
+
+<p>GERMANY : 1-2 DAYS
+<br />EUROPEAN UNION : 2-7 DAYS
+<br />-------------------------------------------------------------------------------------------------------------
+<br />ADDRESS :</p>
+
+<p>NAME
+<br />STREET, NUMBER
+<br />ZIPCODE, CITY
+<br />COUNTRY</p>
+
+<p>IMPORTANT!!: WE NEVER SAVE YOUR SHIPPING ADDRESS 
+<br />---------------------------------------------------------------------------------------------------------------
+<br /> it is highly recommended to encrypt your address details with PGP or SMS4TOR
+<br />---------------------------------------------------------------------------------------------------------------
+<br />PAYING: ONLY BTC ! YOU CAN ALWAYS USE THE ESCROW-SYSTEM, WE NEVER ASK FOR FE! 
+<br />WHEN YOUR ORDER HAS ARRIVE PLEASE FINALIZE YOUR ORDER. 
+<br />YOU WILL GET YOUR STUFF FAST AND WE WILL GET OUR MONEY FAST. ;)
+<br />CUSTOMERS WHO WILL THIS NOT RESPECT WILL NOT SERVE AT ANY TIME
+<br />---------------------------------------------------------------------------------------------------------------
+<br /> REFUND :
+<br />50% RESHIP (only in case you have 5 Orders done with us) 
+<br />contacting us about missing orders after 10 Business days if nothing arrive
+<br />---------------------------------------------------------------------------------------------------------------
+<br />CONTACT :
+<br />only in English</p>
+
+<p>you have any questions? feel free to ask at any time </p>
+
+<p>Regards, DEALS&amp;DOLLARS</p>
+
+<p>(more listings will follow SOON)</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+/TLYKGCs
+=mZ4V
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

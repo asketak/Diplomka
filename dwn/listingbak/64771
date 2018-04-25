@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="//z0C0rsRavhVqkC7GvsOYoBZgzDH2+yrKfFyrcRVBgyWLqb/gvlo6KTrP+AFygtexvAPvC+2Ybrb5db6qdxDg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f7cff6d35e86c5c81b93c9567e9e6bf0626650c6.jpg?1475921396"><img src="/kuvat/tuotekuvat/611fd93dc57bcdf1b47ad60ac6d00868fad547d1.jpg?1475921396" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★ Ardamax Keylogger ★</h1>
+<ul class='list-unstyled specs'>
+<li>2 EUR <em>(0.000257 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/homodeiii">homodeiii</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jwOIpHq/KoQEmxI8wTn+8xhc9GsgbtgkTeOX2pA2K5tCp8Y0zliKjEdeF8GtRTrn6UZSWRPPbhAKK8VLzYAOjQ==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64771" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Ardamax Keylogger 4.6</p>
+
+<p>Ardamax Keylogger is a keystroke recorder that captures user's activity and saves it to an encrypted log file. The log file can be viewed with the powerful Log Viewer.
+<br />Use this tool to find out what is happening on your computer while you are away, maintain a backup of your typed data automatically or use it to monitor your kids. Also you can use it as a monitoring device for detecting unauthorised access.
+<br />Logs can be automatically sent to your e-mail address, access to the keylogger is password protected. Besides, Ardamax Keylogger logs information about the Internet addresses the user has visited.</p>
+
+<p>This invisible spy application is designed for 2000, XP, 2003, Vista, 7, 8 and Windows 10.
+<br />Keylogger Features:</p>
+
+<p>Keystroke logging</p>
+
+<p>Records all typed keystrokes, passwords and hidden characters.</p>
+
+<p>Browsers capturing</p>
+
+<p>Records a log of all websites visited for all browsers.</p>
+
+<p>Webcam recording</p>
+
+<p>Periodically makes webcam pictures and stores them to log.</p>
+
+<p>Email log delivery</p>
+
+<p>Keylogger can send you recorded logs through e-mail delivery at set times - perfect for remote monitoring!</p>
+
+<p>FTP delivery</p>
+
+<p>Ardamax Keylogger can upload recorded logs through FTP delivery.</p>
+
+<p>Microphone recording</p>
+
+<p>Record voice from the microphone with real-time compression.</p>
+
+<p>Network delivery</p>
+
+<p>Sends recorded logs through via LAN.</p>
+
+<p>Clipboard logging</p>
+
+<p>Capture all text copied to the Windows Clipboard.</p>
+
+<p>Invisible mode</p>
+
+<p>Makes it absolutely invisible to anyone. Ardamax Keylogger is not visible in the task bar, system tray, Windows 2000/XP/2003/Vista/Windows 7 Task Manager, process viewers (Process Explorer, WinTasks etc.), Start Menu and Windows Startup list.</p>
+
+<p>Visual surveillance</p>
+
+<p>Periodically makes screenshots and stores the compressed images to log.</p>
+
+<p>Chat monitoring</p>
+
+<p>Ardamax Keylogger is designed to record and monitor both sides of a conversation in following chats: AIM, Windows Live Messenger, ICQ, Skype, Yahoo Messenger, Google Talk, Miranda, QiP</p>
+
+<p>Security</p>
+
+<p>Allows you to protect program settings, Hidden Mode and Log file.</p>
+
+<p>Application monitoring</p>
+
+<p>Keylogger will record the application that was in use that received the keystroke!</p>
+
+<p>Time/Date tracking</p>
+
+<p>It allows you to pinpoint the exact time a window received a keystroke!</p>
+
+<p>Powerful Log Viewer</p>
+
+<p>You can view and save the log as a HTML page or plain text with keylogger Log Viewer.</p>
+
+<p>Small size</p>
+
+<p>Ardamax Keylogger is several times smaller than other programs with the same features. It has no additional modules and libraries, so its size is smaller and the performance is higher.</p>
+
+<p>Unicode</p>
+
+<p>Ardamax Keylogger fully supports Unicode characters which makes it possible to record keystrokes that include characters from Japanese, Chinese, Arabic and many other character sets.
+<br />Other Features:</p>
+
+<p>Windows 2000/2003/XP/Vista/Windows 7/Windows 8 support</p>
+
+<p>Monitors multi-user machines</p>
+
+<p>Automatic startup</p>
+
+<p>Friendly interface</p>
+
+<p>Easy to install
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/92130"><img src="/kuvat/tuotekuvat/62b4f2cec48968bf83e6287f997ab5163f1f4a8b.jpg?1491927133" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92130">♕ Overnight Money Making Machine! [EXTREMELY EASY] ♕</a> (<span title='2.99 USD'>2.43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/32259"><img src="/kuvat/tuotekuvat/58be862d10be7b465cc6cd29ccd926d6f4b20d3f.jpg?1458222138" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/32259">**** EBay Stealth Guide 3.0 ****</a> (<span title='3 USD'>2.44&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98734"><img src="/kuvat/tuotekuvat/000d0e15d6eff3021481a7bad20a621c2254c219.jpg?1503983159" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98734">INSTAGRAMS FOLLOWERS 1K FOR 2.99$ ONLY [FAST]</a> (<span title='2.99 USD'>2.43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39173"><img src="/kuvat/tuotekuvat/02d7346a631791783bb088b7179fa4f15fb04bb0.jpg?1461757628" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39173">Be totaly anonymous noobs guide 2018</a> (<span title='1.99 USD'>1.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2602">Hacking</a>
+</li>
+<li class='active'>★ Ardamax Keylogger ★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

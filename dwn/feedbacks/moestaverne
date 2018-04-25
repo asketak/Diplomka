@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="h0EsJdCvMwHBHab8sDVnBdokxCWoKIyHZTeRabFlcI8Pqd+l8CD7cT4Dvn6YM3Yx8ncX3CR0DYWFdedd+boQfQ==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/moestaverne">MoesTaverne</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+super klebrig und sehr starker geruch. schmeckt gut und merkt man was von. also alles richtig gemacht
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/103969">Liberty Haze - Royal Queen Seeds 3g HQ FREE SHIPPING</a>
+(31&nbsp;EUR)
+</td>
+<td><span>
+me***90
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+die bilder hier sind echt, du bekommst was du siehst. wer hier bestellt macht nichts falsch! extrem angenehm zu rauchen. einfach klasse. Danke
+<em>(20.3.)</em>
+</td>
+<td>
+<a href="/products/103293">Vanilla Kush - Barney&#39;s Farm 1g HQ FREE SHIPPING</a>
+(12&nbsp;EUR)
+</td>
+<td><span>
+me***90
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+klare kaufempfehlung! überseht mit kristallen, sehr netter kontakt, klasse stealth und super schnelle versandzeit!
+<em>(20.3.)</em>
+</td>
+<td>
+<a href="/products/103972">O.G. Kush - Royal Queen Seeds 3g HQ FREE SHIPPING</a>
+(31&nbsp;EUR)
+</td>
+<td><span>
+me***90
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+fine quality, good vendor! 5/5
+<em>(5.3.)</em>
+</td>
+<td>
+<a href="/products/103294">Vanilla Kush - Barney&#39;s Farm 5g HQ FREE SHIPPING</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+pe***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+fast delivery, good quality
+<em>(26.2.)</em>
+</td>
+<td>
+<a href="/products/103292">Vanilla Kush - Barney&#39;s Farm 3g HQ FREE SHIPPING</a>
+(31&nbsp;EUR)
+</td>
+<td><span>
+pe***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

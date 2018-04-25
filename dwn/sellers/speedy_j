@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KzQUo64e3DX1oWh/AzzZBeUabAaBgimbaRmoDkWwX8+TTzeQwl12xy4r7AA6ucwHf1yb1iodPS/CeHrwhwPxDA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/mfcp">Suomeksi</a></li>
+<li><a href="/register/mfcp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/mfcp">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>speedy_j</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>680</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-21</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>We are determined to offer even better products at better prices to our past and future customers!</p>
+
+<p>for Bulk or custom orders please contact me so we can discuss things further.</p>
+
+<p>We always try to source the very best product available, but because of our high turnover rate it is impossible to always keep the exact same stock. so there will be slight quallity, color or any other differences between batches or orders.</p>
+
+<p>TOS.</p>
+
+<p>*Orders will be ship from Germany!!
+<br />*NO SHIPPING TO USA or any country invaded by, occupied by or controlled by the USA and/or it's
+<br />terretories
+<br />*We ship out 5 times a week.
+<br />*We ty to respond to messages as fast as possible, sadly sometimes it can still take a couple
+<br />of days before we can respond to you. please be patient, we will answer all messages eventually
+<br />*Because we need a private life as well, we do not work on the weekends. please concider this
+<br />when messaging us
+<br />*NO SHIPPING TO USA!!
+<br />*For orders outside the EU we only offer regular priority shipping.
+<br />*We do NOT offer refunds under any circomstances.
+<br />*We do not offer reships on untracked orders.
+<br />*If you want your order tracked please contact me via private message.
+<br />*Tracking without signing for the package is NOT possible.
+<br />*Pictures are not nescesarilly of the product currently in stock.
+<br />Stock simply moves to fast for us to keep up.
+<br />*NO SHIPPING TO USA!!</p>
+
+<p>If there are any issues please contact us first in a calm and respectfull manner and give us a chance to fix your problem. Yelling, cursing or using any other kind of obsene language is not tollerated no matter how angry you might be.</p>
+
+<p>also:
+<br />NO SHIPPING TO USA!!</p>
+
+<p>By ordering in our store you agree to these terms of service.</p>
+
+<p>Now please enjoy!! </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFRjoIABCADJq27Duz+QoirIZ9U+TnCCf23WDKvV/jIlkzpdhYiF/qK0k20a
+FChFj82pSpNQN1F0Hmf784ZZTnK4do8p1nYSrXmqg5mZ0mKYy5Kna1SnGUR3xVlV
+8spXxa+fyDITK4IsKtPbUaAHyf0tbHiy8k+1kOFiamiqxH1PUt96BZ1F3tlUfU0X
+idsF7w//rerFQSrGzIpxFq+ER1CaGMBezxEGKbn8wUhF4k5+3T1lI/hYUhUjDjfw
+o/+o6RC4AOYCSOJcM1JyRQj2TzN9LoQQk8oljUwdcvLl92vA6IdRXkFfJSYUAvYH
+VrWXxvUogE/scEUjmoWKhB3++VYSemvqQl7lABEBAAG0HlNwZWVkeSBKIDxzQGpz
+ZGdvO2ppenNkcmcuY29tPokBNwQTAQoAIQUCVGOggAIbAwULCQgHAwUVCgkICwUW
+AgMBAAIeAQIXgAAKCRDvFEU4FvDnwPB6B/0R/cBBNAV6fPulRq+lDz88kt9D9naG
++AO1C+Ua8inYfyY3nmFrewQzCHjgmaBWGHjDgqGwnMW5Kz8TvQfstzDRsOH95Ogk
+UOr5ToQus6LOI+b47M3Z/QjOJfLV9mGvISUv/gCT1VdAQ723qoPQLEuduNnQTMdz
+hOpQIY0teKb3HPYQXq7nL1AhXtXgwU1dmR0jXiFcAVz9rIfitIIWe1bL45wurlqk
+D/3hnmYsSCQ+TrFWgrZt5v1qnZQ9ww6hUQhc6kWQYffH+FAUN3lfnpx7TcEzWdFE
+kOp3xILjRet4GY66CuM/FR3YujkBmQlf9CuGjElcpXiRGvIqK/NvzCneuQENBFRj
+oIABCADbd1kNuPICye3Y+/eOp0ISMGMFSe7bmNW2qwvtDB4GDE0OANeS2N+7kRwi
+AcoPTJZTt8Kf5+uJe9iIuQcTGDUNyFpqvF4Sb90wqrP4HwbrGQhf3v33AZHxAIU1
+I4VtEHnMRVr6Yr9v8Lcml8Vtq9dMvRBK2kl+Tx5zhwEuYwoP7gOwp+HgJ+rdRZeU
+1jOfdutNzjM6xqF0MWp/YzrhzyTqZk622pDiTaukimPwATwH/qxa2KEb6W0yMx+Q
+1sXFtJh8qhbiowMG8Hy+J0b5avokKovi4AQnHitY9Y+KjAv5SvJHDLGhgmciGW0A
+OhY1uYKGQkLlq3aCY52vWh0mfRMLABEBAAGJAR8EGAEKAAkFAlRjoIACGwwACgkQ
+7xRFOBbw58B52Af9Gb5DuDQgEF+px12oThnQFKbDMK74LAhm+LIvuNIJjM7CMHgI
+VCkF5D6X7pCErykPfAhjilOfi8g4hALEPI5aMNyZonQBWpvt1pc+oIhl8UFoorAC
+Q9a/k9TszP8zvjbxqKpfdMbGiQFoRiW9R8BReHqd3APYoO12V5TL/uRG0wDPZdXt
+3S+61mQA48L33HkD8pesIR/D4o0kMzW/nF/eUpQnGUoebBZydpGwilQIqonB73lw
+gQs6cEsSs+z3F4enzRMDgCPBmq0lxf8xyXKR/tDzk2mLIiU4hgTP0vA4cfdXDyLN
+wnxiVxjZ4ABfSu6dzvcXqAea6buI+sL3mVaqSg==
+=Dh53
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

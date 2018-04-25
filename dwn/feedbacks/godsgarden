@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MrrFwjVA5mQO0LaOaNKsoIzHWyhQVO2gfKm0TnDUxF/VnJJCstnYYakO/pCm+96FjHuMP9tD68u3S22Bd9Qn9w==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/godsgarden">GodsGarden</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+NDD, great product, many thanks.
+<em>(10.3.)</em>
+</td>
+<td>
+<a href="/products/59962">10 X Caps of Organic coconut oil Sativa extraction THC (10-11%) a</a>
+(16&nbsp;EUR)
+</td>
+<td><span>
+zQ***Tf
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

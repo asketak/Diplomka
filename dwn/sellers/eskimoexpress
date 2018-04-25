@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="V/GmUCY9SOvzcWYVklP5oeWifdTjn6sfqkenq/rSAPeLpK0IT6rNR0zJLemNHSUcHxWuv3iOqlnL4cwIp0ZDgQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/yEZZ">Suomeksi</a></li>
+<li><a href="/register/yEZZ">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/yEZZ">register an account</a>.</p>
+</div>
+
+<h1>EskimoExpress</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>NEWS [UPDATE]
+<br />We are back after an extended vacation (5/25). All sales will be processed immediately and shipped out the same day. You can expect delivery within 2 days as usual! If you have any questions we are available 24/7 as well.</p>
+
+<p>___________________________________</p>
+
+<p>Our GRAMS profile can be found here: http://grams7enufi7jmdl.onion/infodesk/vendor/0x5E5DECD33EDD2CFB -all feedback has been reset since we have a new PGP key but feel free to post on GRAMS directly, it helps!
+<br />___________________________________</p>
+
+<p>INTRODUCTION:
+<br />Hello friends and welcome to the EskimoExpress store!
+<br />We have been vending for a long time and you can now find us here on Valhalla. If you follow our simple rules then we can assure you 100% satisfaction when ordering. Orders will be shipped every single day via 2-day priority before the 12pm ET mail cut off and you will always be notified of the shipping status accurately. If you have any questions please send a message and you will hear back shortly. Unless there's a huge holiday, there are no delays unless you have some bad luck. Please check if there's a mail holiday before ordering.
+<br />___________________________________</p>
+
+<p>SHIPPING / DELIVERY / STEALTH:
+<br />All orders are carefully vacuum sealed to avoid any sort of loss from transporting or opening the product. Extra stealth is available upon request, but our standard stealth includes one visual barrier and vacuum seals which works fine for most small domestic orders. Your order may randomly be upgraded to extra stealth depending on our shipping volume just to keep things safe.
+<br />Most packages show up within 2 days of escrow purchase and we only offer priority. We process orders fast! Please don't ask about express though because it's a security risk and we don't do it.
+<br />We can provide tracking via PGP, but would rather not for security reasons. The best compromise is to send the buyer USPS transit information showing what the status is. We think this is the most fair solution. No orders have ever been lost unless the buyer forgets to put his apartment number or does some other stupid mistake in the shipping info.
+<br />___________________________________</p>
+
+<p>RULES:
+<br />100% Satisfaction! Full refund or reship is available to any customer as long as the error was made by us. Common examples of mistakes made by the customer include wrong name, undeliverable as addressed or delivery rejected / return to sender. We will prove that your order was sent to the provided address as and can provide the details of tracking data directly to admin staff upon request. In case of dispute we will provide the number of course, but it never comes to that in the fist place! We encourage you to try and avoid disputes because in our experience the order may be "stuck" in dispute mode for up to several weeks without any intervention.
+<br />Shipping transit time is 2-3 business days and usually does not take longer. Purchases made before 12PM EST will be shipped out the same day except Sat/Sun (cutoff for Sat is 9:30AM). We don't do express overnight shipping so please don't ask.
+<br />Rarely will we see a product being stuck in transit for more than 4 days but it has happened. The buyer agrees to finalize order upon delivery (+feedback) and will be blacklisted if the escrow order isn't finalized promptly within 24hours. We need you to finalize or we don't get paid which disrupts the business flow. We can not stress this enough that you must finalize after you get/try the order or else we will not be paid. Please always use PGP when sending your address and avoid sms4tor/privnote. It's absolutely important that you finalize the order after your package shows up at your drop address. Anyone that lags significantly will be blacklisted for failure to release escrow funds. We can't just pull the BTC from an ATM so keep in mind the work involved with such financial operations.
+<br />___________________________________</p>
+
+<p>SCAMMERS:
+<br />We do not tolerate feedback extortion and other buyer related scam activity. We only send top quality products so any lame attempt at trying to get more for free will be forwarded to the staff who have been very helpful. We will always deliver 100% pure unadulterated products with quick dispatch. Treat us with respect and we will make sure you are always taken care of regardless of any hiccups!
+<br />NOTE: Please also keep in mind that leaving bad feedback is considered scamming if the buyer does not try to contact the seller after he is unhappy! The buyer must try to resolve the issue with the seller first. If you have a dispute about product quality, we will handle these on a case by case basis.
+<br />___________________________________</p>
+
+<p>Thanks for reading to the end ;-)</p>
+
+<p>Questions will be answered immediately!</p>
+
+<p>EskimoExpress is here</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+sCtexA==
+=JVLE
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

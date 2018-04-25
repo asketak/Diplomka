@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CvivOR9310IJsYlrrpTMsiwQN7AichEDDh7lGjpFFYY2fsKZyxd1hcTnCYZ/lG2TdE5GOPBqjojY1ujsx8X1YA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/3V2A">Suomeksi</a></li>
+<li><a href="/register/3V2A">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/3V2A">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>TheToothFairy</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>12</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 1302 EUR</li>
+<li>Last signed in: about 4 hours ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to my store!</p>
+
+<p>* All items come with free shipping.</p>
+
+<p>I am online multiple times throughout the day so I aim to respond to messages promptly.</p>
+
+<p>### Some T's&amp;C's ###</p>
+
+<p>* I ship from the UK to the UK only, I can shop to Ireland too, PM me before ordering.
+<br />* My cut off time for same day postage is 3pm. If you order after this time it may still get sent out but ordering before 1pm will guarantee same day postage. (Most of my orders arrive next day) I do not post on Saturday or Sunday.
+<br />* All orders are well sealed in MBB's to ensure no smell etc. and will blend in with every day mail.
+<br />* In the event of a non-arrival, contact me first to discuss before leaving any feedback.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFqDS0YBCADFKd4vOpkVdId6/BqiMoLTrF5YSAgBDvA7U775QjDkC5NF0NbZ
+ML/2LyunrXdVUobcHwl4NfjobWmUHovScGfMEJooj0W7M3Zs3fDF/kwd3NkvOBEI
+1Gcb+8gZ1HJLbSqVwH4MQCKNu1uxS1npiup5uxXQ7eGn8z2Gi8o8t7DOeOihzW9L
+EFiVWY63FkkN5tTXktpr0qfTXHlLCV3MGRb590FvTuYO4TFy8f5ijzmbc2ggjNp9
+S/Q+BAQQxlcjszKGFtuV06CpA74QECQl8S0zpasduBvHTTXIy/wjZ9bn17icMyVz
+Reze+B2+79CAiAHI+T9lO/NYFMYHdWStbH85ABEBAAG0HFRvb3RoRmFpcnkgPHRv
+b3RoQGZhaXJ5LmNvbT6JATkEEwEIACMFAlqDS0YCGwMHCwkIBwMCAQYVCAIJCgsE
+FgIDAQIeAQIXgAAKCRCYRCZtZJ/RUttYB/0awT016iycwKKjBY/Clftsk+aRJki/
+LJ1Bk5hkdq5EL8L2NvAi9w0QBAbjodqJvgu+le+cdgN2dfRtHy89c8Pxwk40icct
+Vfxyo/4j577gijK/9VKPki2Eu4/PoxghigstM3laFe3SFkyzby4nSu894lND2yOy
+7KOt3zYL1aZFytrkWmtx5SkIoK4ZdbUHxpv7BjfxcE3bbiIRxKZCr3N49YmSgS4z
+ub0dyUFtUw09HyPLQolvoSHoVkP+CEv1lC0fn4CQRXC1xnoA/JuepzpjRwtiRpW9
+udFrd77n99cm7jSVQWlqX/u3JUMsc1ezmpHuxD2rHxPmZPMJqfGRweETuQENBFqD
+S0YBCAC7WwKhAtjCXu6zNASGlZNgxU2zXQtVjS6t4ktSuSQ9o7JlXpiPrSRe8Iae
+m3MuE0TXXLTguy81ZuOnHbJEnaGusaEFxiuQVlT5Jtj/Svau+clyUMCeG5Lokwhr
++lTLe7k8tjkfRPQoDq8pJNw8xXydua52r0lHc2+hZ6zkJ1uXxxoKYko/GpvgRlPj
+SWHQg2hN0Ek5c58rrRcSHitPKK+Jp18zSx5erBkivop4eYWRJJBaELbv9JLUbzkW
+YcMbc6PVSGDNRFUwqrHXPdqOw7MwYBzD6UiODgIBDk2yyIShrvSU4HlWLb7VQUZ2
+YxOQmI56Bd0qmG2H7nLElDO5vf0jABEBAAGJAR8EGAEIAAkFAlqDS0YCGwwACgkQ
+mEQmbWSf0VISpAf9EOoNBn+Ot+Cwc7Z9Buyd9cqV93vbf4DYXA0qaOOgsQMpKLrv
+Tmoynz9S7hxBKMBX9EPog6Tluatxfyy8oR/vTdZfytaubuNZ/WPZ9+FTbAB1zWRh
+t1joBtH9HHeh0n8kTO3kEaAx44D4Y5FpM8S5Cgf0pMu7zpBC4nz+GHXYa3iIuVQv
+zoGzAP2q9ediAL1DNqTxf4D+ac9Zj7wwSHP8mKzb2/PzlZRePw8pevVZsEfBHf+F
+ne0O/Xa0DeOcP0HcUzwi3D05xhSTTra3AL6NJBvfG5JlbI3uL76mLF8XjxNiVMx1
+lukGeSF18NtRVyVLaXa88a6CIv3nkzi4cvXi/Q==
+=5RWG
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

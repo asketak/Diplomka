@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rEu34Xs1i9AGcpKH70Otq0t8eBB3bx6/sHmwfIWlaBRh7/lxz9Ir2EW3l3qDP2m/umbeIkTOqIv3seLt2BNNAg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/fdc817f39c7c27d50314d57c31f56525371f9dcd.jpg?1481889789"><img src="/kuvat/tuotekuvat/8481707da0b806279a3c7fb1611ad5a8ec059a68.jpg?1481889789" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Anonymous BTC Card HIGH LIMIT WORLDWIDE SHIPPING TO YOUR DROP (AN</h1>
+<ul class='list-unstyled specs'>
+<li>150 EUR <em>(0.019349 BTC)</em></li>
+<li>20 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/ibank">ibank</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>France &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NucdbZ9RRS/Ytu+8nO0qf8ligA6J4Twbwm5OTASKYjT7Q1P9K7blJ5tz6kHwke5rOHgmPLpAii+FphzdWTxHIg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="376855">Domestic (included)</option>
+<option value="376856">International (+0 EUR)</option>
+<option value="376857">Registered &amp; tracked (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="76124" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>No Fees
+<br />No Trading Fees
+<br />No Bank Transfer Deposit Fees
+<br />No Bitcoin Transfer Fees
+<br />Immediate Processing</p>
+
+<p>Real time processing of deposits
+<br />and withdrawals
+<br />Multi-currencies &amp; Bitcoin Trading</p>
+
+<p>Buy/Sell Bitcoins in USD</p>
+
+<p>Safe &amp; Secure</p>
+
+<p>100% of funds held in cold storage
+<br />Does not operate a fractional reserve</p>
+
+<p>F.A.Q
+<br />-I live in U.S. / E.U.. Can I get the BTC card?
+<br />Yes, you can. We can ship the debit cards around the world.</p>
+
+<p>-Do I get a Tracking Code?</p>
+
+<p>Tracking Code is provided for checking the progress through DHL or Post office.</p>
+
+<p>-What’s the Annual/Monthly Fee?</p>
+
+<p>Free! The bank don’t charge monthly fee.</p>
+
+<p>-What is the max amount per transactions?
+<br />The maximum amount to transfer per day is 10 BTC. Transactions over the limit will be held and require further verification by administrators.</p>
+
+<p>WARNING:</p>
+
+<p>DO NOT EXCEED THE LIMIT IN ANY CASE!! </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/101411"><img src="/kuvat/tuotekuvat/c7af4339818e1486ddbed0517942689afdd7402e.jpg?1513114710" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101411">10 x $100 DOLLAR COUNTERFEIT, STRIP, PASS PEN TEST</a> (<span title='190 USD'>154.17&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/appleinc">appleinc</a></span>&nbsp;(<span class='green' title='Positive feedback'>2401</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100685"><img src="/kuvat/tuotekuvat/c1a2baf0b95b764de373b422429bd9faaf621ef8.jpg?1509639581" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100685">SWIFT BANK TRANSFER - $500 - SEMI-CLEAN </a> (<span title='249.99 USD'>202.84&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38431"><img src="/kuvat/tuotekuvat/9445ba29349912ec11dd8fb1309a90847df3d027.jpg?1461512806" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38431">★ UK PAYPAL WITH 500-1000 GBP ★</a> (<span title='180 USD'>146.05&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/67586"><img src="/kuvat/tuotekuvat/f24c9e9a24312759253299f935d448c9d23a89bc.jpg?1477335960" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67586">US Bank Drop HQ + Verified Paypal in Windows RDP - 100% Guarantee</a> (<span title='149 USD'>120.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101532"><img src="/kuvat/tuotekuvat/b92fa3c2b4ee77d0a81553988435f1e223030ade.jpg?1511200182" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101532">******CUSTOM STEALTH INTERNATIONAL EXPRESS  $149.99*****</a> (<span title='149.99 USD'>121.7&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2606">Money</a>
+</li>
+<li class='active'>Anonymous BTC Card HIGH LIMIT WORLDWIDE SHIPPING TO YOUR DROP (AN</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vLO7o5J/Oe5njkrfzZLa0Mx7Wd85GLqqrR69aeaWlPyOq+kOeiSi7ChF1BjKw4ZXThrghWh8PKwUXi5MJjJijg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/fohz">Suomeksi</a></li>
+<li><a href="/register/fohz">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/fohz">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>NarkoTavara</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>108</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-22</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hei kaikki!</p>
+
+<p>Parhaat tuotteemme toimitetaan suoraan Suomen markkinoille!</p>
+
+<p>Varmista ennen tilaamista, että kirjoitat osoitteen oikein.</p>
+
+<p>Palvelu on nopeaa, ammattimaista ja huippuluokkaista ja vastaamme viesteihin 24/7 lukuun ottamatta maksimissaan muutaman tunnin taukoja. </p>
+
+<p>Huolehdimme aina asiakkaistamme. Jos paketti katoaa, rikkoutuu toimituksessa tai jos sinulla on muita ongelmia – ota meihin yhteyttä ja me etsimme ratkaisun. Tarjoamme joko hyvityksen tai uuden tuotteen toimituksen, mutta ota huomioon – ME EMME tarjoa tätä uusille käyttäjille, jotka yrittävät hyötyä hyvityskäytännöstämme</p>
+
+<p>K: Milloin paketit toimitetaan?</p>
+
+<p>V: Maanantaista perjantaihin – aina seuraavana arkipäivänä. Toimituksia ei ole lauantaisin ja sunnuntaisin. 
+<br />Jos sinulla on kysymyksiä, ota meihin yhteyttä. </p>
+
+<p>Mukavaa kesän jatkoa!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFZDjOwBCADyynkIZDsSTiqltnB1fvkVa6t5Sq559mBHiF2M6t1FmN5BbsxU
+8SBfEI8TVi1qQwfH4OI1pSOAXj5HP4Q1gZ5aDhHx4BLC5wrPAHYZgR+l8vvTbRiA
+pMuWIHjLvn9c7Ab6xwbI+JO95cYrULzF+yztOI+DmAHi3Ee3GuGABuHUgXyrV+5e
+f7rNrTzalUrl5a8lFdA+RL/gOoGdEqpxJSLxxFIV42kW2h2EHeIaoVMannOu/nUo
+wiGPLjivyQNCUIU1OkJOgb29G88k4Ig2bm/brK8618Rqn8J2vwFHOlWlM0NLYxRc
+CWTBlvEb/33GHylNGGuDCHMt9iBp4asVf6p1ABEBAAG0HERheXRvbmExIDxEYXl0
+b25hMUBkYXJrLm5ldD6JATkEEwEIACMFAlZDjOwCGwMHCwkIBwMCAQYVCAIJCgsE
+FgIDAQIeAQIXgAAKCRB4tXMeFF9hPAhjB/4r2S4C6VvDzMRYi/3fKs3xFN4ne8TT
+ImaU+WG0IQNtpPsMZxvS3CaLkXEecJmeBuPt2b4aivvCCkfcGDb3n6Fp1r36CC3n
+uF3R+VUNMWjbvobAlZuQ6Xmp849m8tKp8ZdTwWXHjHe/vbHYSExwLgT9PmKd0mOM
+bp1vts0yJsYmNVleIDUpp0B00I4IQwD5PV5MPlR6n1Gle50qQufR17vkdD2O+9zc
+d18a1uyb6uUrMlp2sCloeiNcrklF2zTx5eV7VrlIIEw3M1vTGCU1MLKHrypy+eiw
+yXAuqR0VktV7MsO2mZeZpdrJ8Sq0lKK8aCBkaswK7dQ4zIkgHVzInqlquQENBFZD
+jOwBCADg3InglWRayqcgzetycuPWLCAwehIIQ2DKpO9YgQtgZmxN2l60AqD53ywJ
+Tw6eiS1xFNIrKw2XVyjKQanO2f8OOGPUmdIGMAK7Rf19tJPZhY4Ms1Nq7kW/o2Ce
+Y68NLdDHWWpuXg+Dj9GXYSszeLL8f0iecD1JRhwJQpR+5xAcazvJs89KgnPmnQTd
+9KljC9QGxBZW7WipJqyyFwq1o6JbcJxydajKe7//qHj3X7mIOM3daz+QWHq4zloG
+Pc3eN/CnRr2ld79YOUS5+v48zs9SKAM8epBvgwXkVG1L/ZNOc/32mQBVWczPVEBD
+MSotxCvAKSV4Rvr7l/dTYT59TMVZABEBAAGJAR8EGAEIAAkFAlZDjOwCGwwACgkQ
+eLVzHhRfYTyzywf+NswW/3Rv0VO79/9Oq8tuRSj+gQWykVHGIiJ6TcDHThuYHXSN
+3VUWGAgVhH5YdCFZXnXhJfpeyX0rZfOFD8wh7NJB1n1BgiR5XShDwzvCl6Tp7SNN
+a3PoQonLm+rhpbyygVQL9LCTG0djQwVxxAhVKTke4jKTjl+yZMn575y9+8u+RJPb
+xdIp3h8NV7kzq/3IrVEhvEwB/X/pmqdQlkKmuvCvyuIII2p02QDXSLHns5Xbqg3s
+yWEW3oIsHI9ro4cXJK2VqBwvW8Uq6ZYPLcgLh+WNV5cOpfSSZN/LovGUpsOAZHAi
+u3NboN3z+bVcYw0vaN9BhgNqFrUz1QfJg520oQ==
+=8YP/
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

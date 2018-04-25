@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8eziFpM1mQ0Bo4MK0BC3bPRxGYWzgoEMEBNiOF/bFK48SKyGJ9I5BUJmhve8bHN4BWu/t4AjNzhX2zCpAm0xuA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/f271845f2a5b133a80172c346ae0ef461d7e9e4e.jpg?1468616098"><img src="/kuvat/tuotekuvat/0186265971494d8bbbb5b043a0f8fccddb03bdd6.jpg?1468616098" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>100 gram Thai Weed (pressed)</h1>
+<ul class='list-unstyled specs'>
+<li>201 EUR <em>(0.025776 BTC)</em></li>
+<li>2 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/elpatron">Elpatron</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Sweden, Denmark, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia, Nigeria</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="32cGKlvl5u+WeAHudiARS/UuKzPNL+JtSoFgf9rISMESw0i67wJG59W9BBMaXNVfBDSNAf6OVFkNSTLuh35t1w==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="215881">Domestic (included)</option>
+<option value="215882">International (+0 EUR)</option>
+<option value="215883">Registered &amp; tracked (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52592" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Thai Weed</p>
+
+<p>We have some Thai Weed to sell</p>
+
+<p>People who have knowledge about weed knows what this is</p>
+
+<p>People who don’t know what this is :</p>
+
+<p>Thai Weed is outside grown weed what is pressed togheter in blocks of usually 1 kilo.</p>
+
+<p>The THC percentage of this weed normally is around 8 % til 12 %</p>
+
+<p>In the Netherlands they sell this weed in Coffeeshops for 4 euro a gram we sell it for the people who like this product for 2.50 euro a gram</p>
+
+<p>WE SEND TO WHOLE EUROPE AND THE REST OF THE WORLD
+<br />------------------------------------------------------------------------------------</p>
+
+<p>ONLY WE DON’T SEND TO USA OR DO BUSINESS WITH USA COUNTRY.
+<br />----------------------------------------------------------------------------------------------</p>
+
+<p>The way we send is a good way we never had problems before especially within Europe we have a great delivery system which almost (99.5%) never fails.</p>
+
+<p>All the advertisement we have online we have in stock more different kind of drugs will be added keep watching us to keep yourself up to date about what we selling.</p>
+
+<p>Do you have any question about anything feel free to send us a message.</p>
+
+<p>Enjoy you’re purchase,</p>
+
+<p>Team Holland Supplier</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 1.0 EUR (Domestic) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102170"><img src="/kuvat/tuotekuvat/d9eb32186958ec0e2748929af3ebb415d7b86987.jpg?1515222320" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102170">❤ 56g CRITICAL + ★ Weed ❤</a> (<span title='280 USD'>227.86&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100182"><img src="/kuvat/tuotekuvat/a79f44eb9aea3fd66a40c1bc5d43a8bc632d4cdd.jpg?1508254357" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100182">DURBAN POISON  28 GRAMS</a> (<span title='199.98 USD'>162.74&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101548"><img src="/kuvat/tuotekuvat/b95b8b95f405648a227c483bea9d9a61a56b74f9.jpg?1511228727" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101548">28G★FREEZELAND★INDICA★A GRADE★£145</a> (<span title='147 GBP'>167.25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24621"><img src="/kuvat/tuotekuvat/b7f349634777d09a741d2770d221f0616647d21f.jpg?1455972709" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24621">Exclusive Amnesia Haze AAA+++ 14g FREE UK NDD</a> (<span title='175 USD'>142.42&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>100 gram Thai Weed (pressed)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

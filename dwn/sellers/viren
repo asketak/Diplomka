@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="mC2/uWJsjSGTeZHQm8BZUodHdlJO/rHUUdJngaCo/g7thJPfQwM4AV4svIxVGoAz06ycrhl1ZQ7Vn3xLSMr4Dg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/9svY">Suomeksi</a></li>
+<li><a href="/register/9svY">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/9svY">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Viren</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>64</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-44</span>
+</li>
+<li>Total revenue: 5010 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed with new buyers</li>
+</ul>
+<div class='description'>
+<p>Silkkitien käyttöhistoria:
+<br />- 21.8.2014. Ensimmäiset tuotteet on saatu myyntiin.
+<br />- 15.7.2015 Uudet Bisnes kumppanit joten nyt pitäisi pysyä Apteekki tuotteita myynnissä Jatkuvasti, jos jotain mieluista tuotetta ei löydy, pyydä siä niin katsomme jos saisimme sitä myös myyntiin.</p>
+
+<p>Päivitykset:
+<br />- 15.7.2015 Uudet yhteistyökumppanit hommasivat käsiinsä paljon apteekkituotteita mm. Xanoreita, Alprox, Rivareita, Diapam, Lyricoita, Tramaleita, Dormicumeja, Temesta, Temgesic, Depolan
+<br />- 16.7.2015 Myös myyntiin lisätty Subutex, Oxycontin, Oxynorm, Catapresan, Imovane, Stella, </p>
+
+<p>Tietoja minusta myyjänä:
+<br />- Toimintani on tällä hetkellä vähäistä ja tuotteina on ollut vain Apteekkituotteita eikä näillä näkymin ole muuta tulossa myyntiin.</p>
+
+<p>Olen panostanut myyjänä erityisesti näihin osioihin:
+<br />- Huolellisuutta - En säilytä asiakkaiden henkilötietoja vaan tuhoan ne AINA kun tilaus on luettu ja kirje lähetetty.
+<br />- Kommunikointi - Pyrin olemaan aktiivinen täällä ettei minua ole vaikea tavoittaa ja olen tavoitettavissa koko sen ajan kun tilaus lähtee luotani ja saapuu asiakkaan luokse.</p>
+
+<p>### Toimitus ja Maksut ###
+<br />- Toimitus kirjeenä 1.luokassa Maanantai - Torstai ( Perjantaina onnistuu myös lähetys jos haluat ottaa riskin että tuote on vkl yli postissa)
+<br />- Tuotteet pakataan samana päivänä kun ne lähetetään. 
+<br />- Aikataulustani riippuen 0-24 tuntia siittä kun olen avannut tilauksen se on jo matkalla kohti asiakasta. Pyrin lähettämään ennen klo 9 tehdyt tilaukset lähettämään viipymättä postiin.
+<br />- Yritän olla erityisen tarkka kun lähettelen pillereitä jotka eivät ole levyssä, jotta asiakas saisi tuotteet muruakaan menettäneenä, mutta pyrin pitämään aina omissa lääkelevyissä kun on vaan mahdollista.
+<br />- Voit aina kysyä minulta ehtiikö tuote saman päivän postiin tai pyytää hoitamaan tuotteen mahdollisimman nopeata postiin jotta olisi seuraavana päivänä perillä (posti lähtee klo 17) yritän parhaani mukaan toteuttaa kaikkia asiakkaan toivomuksia ja hoitaa kiireellisimmät tuotteet HETI postilähetyksiin.</p>
+
+<p>### Yksityisyys ja Viimeistely ###
+<br />- En paljasta lähetyksen ulkonäköä enkä säilytä asiakkaan tietoja koneellani.
+<br />- Maksu tarvitsee vapauttaa vasta tuotteen saavuttua, ellei tuotteen kuvauksessa toisin mainita.
+<br />- En ole vastuussa tilauksesi katoamisesta jos osoite on väärä tai käytät vääriä nimiä. 
+<br />- Suosittelen käyttämään aina PGP salausta osoitetietoja lähettäessäsi.
+<br />- Kirjoita Nimet, Osoitteet yms. seuraavassa järjestyksessä:</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'></pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

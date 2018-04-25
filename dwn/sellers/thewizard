@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sUIoxj66OvjepsJvkt/v1OteJCrlMOvdEgL50Day5bsXUY0abnpojCcjt7D2hVxytR1QjgcM0y+dqR6JlpVx7Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/oasX">Suomeksi</a></li>
+<li><a href="/register/oasX">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/oasX">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>TheWizard</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 5757 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello, I am TheWizard!  I sell a variety of substances and ship from the United States.  At present, all of our products are also sourced domestically except for our MDMA pills, which come directly from the Netherlands.  Although we do ship internationally, please be advised: if you are ordering from outside the United States and your order is under $200 you must choose the "Express with Tracking" option, and if you are ordering from Australia, you must talk to us before buying as much more stealth is required in order to make it through your customs. If your order total is over $200 you may choose a regular shipping option.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFgb+REBCACwTseMDvt1OYM8B/qZ4/ssT51P3oVfNbAw1XC6XnU4r2RvH10O
+S4yvAL3l721V0ReXY0ChOtAwS5N7uH9qvTCKO38jIRwLwdRn3ekxrdy9TqVnC8U2
+nc/FXVkSIWeHvDLFNF/Nb04MFamGx2UwCY7opQYC149njTQ0ivLvEqDq7dGZnqQZ
+BbxIIfwYqeXIryW9QhJz3Ugwn/UwciI7ATEOt4d2wENf4aorUPJmKDo/1rSPEwM5
+Ojc5SwczbKgjcc4fG5Fgf0ALwWt7wLd6w+Xhtz+2t6vu/C4LxKTnbcWultIWxWSw
+lPU9nIRCfzGNWbpbi0YVPm6C+EEIbdbgPDd5ABEBAAG0IEQgQiBDb29wZXIgPERC
+Q29vcGFAc2lnYWludC5vcmc+iQE5BBMBCAAjBQJYG/kRAhsDBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQMhN3MxkeIPSKQQf/bYSO+6lj6FBfzlS/U+GfNtEa
+cujfkfAZ0ueQg9nlyXkAVkYgv64yRxwjZw+3oHPQ+jgnjekDCw8WLV2+GdCK2zcY
+zKabOsbEP2pmbKhbabErm/eEBTPNUbnbPGgp75umkfuKnSik+E3+1fPPpWqBydv1
+WaXFZTqGk4D7AdFeXgCrRmsju/+I/nQVlCD3dXJpwscToYzwlpgO82NN8p48ODp0
+J3uckgKX+DqDNGTm7YR6FJoOipdBOim6sCzt7a3einU58gWARHn9dh1JJfR0jxG7
+ijTt7kszslgKdNbwI5otVRhaRdmzkuyVtHTqd2MbVI0dZi2TZPaZ1XkMmUFC9LkB
+DQRYG/kRAQgA3gRUdACfGEfLSVgpoPnppYyaCUYWXsZOgpfEraJyiI+0sn+syC1P
+8aBr0watNJg5tdabJxYfT3qUHZI2YEDqQ2+ZbgpJC7A7X3QtUzYh3Cv7aeGD3LPu
+YM3nHeAR7Xw9ZS72y6DMtEb3SgCNn3W67vkKIk7ibVqlV+97IqexAo06p+TrvNm6
+NxyxySTftM01XOeVRk28/iucgfkKsveECRCM4iOHX3iKJO3BBXRZSzLICYhtV6k1
+R7+FF6cIQu5E86Y7cops92UyIEfCZAFBh49tGyP2KMmURXHK1bTzbJbLW1DCiEsc
+BETOm0VeQtn63/WIeVGNY2FWF9Rt0OhYawARAQABiQEfBBgBCAAJBQJYG/kRAhsM
+AAoJEDITdzMZHiD02VgH/jB9aQf+NTAjG1Uprb8RQcSrRstYqi1+YpbfM2m7TvQX
+coEUrfECRPgcj/mDIEC4JAUibprbbXLvZANV/LVeBQG+Pz3ZB6/+f/cGyfEK1O8Q
+RLUsrl9rHx7t237BQ/be6rVoSpCB/o/HOk8Ya6JXxGPJ8OtBcyJCLkEPJh8LYfPa
+AtdnWjK1qN4yzUMwUNWrgcWzmAf7YgloNvmMvn2bmTdk1Iad+qSMktJEeX9fHttR
+gA3VBUQaxorHOf/s05OOrkim22SekSFBFkFPzpxLZ4zAQXcZMJSsBhoElk+JZ9hk
+hwELKtXydIqgM80qnaQH0SQXQfWC5z8LnnbhPJ05a4U=
+=tA1I
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

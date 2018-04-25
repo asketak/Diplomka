@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N5pzVpbX8KcMpvlNKBckbPyGSKWQ3QKXEXJs5xvKph7N+++Q/UK2Q+XgT2k1VYGbVx5g2DZC3iQn9s+3KrYbrw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/opZB">Suomeksi</a></li>
+<li><a href="/register/opZB">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/opZB">register an account</a>.</p>
+</div>
+
+<h1>necro_</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 93 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Konnichiwa! </p>
+
+<p>I"m Necro, past vendor on agora and abraxas, currenlty also on alpha-bay and dream market. check my PGP key, its me :)</p>
+
+<p>I'm a long time deep web user years back since BMR and Backopy, ILS, ect. and an active member of the AlphaBay forums community.</p>
+
+<p>I offer Full Escrow listings for everything. I know that as a buyer this has always proven to be the safest and favorite method. </p>
+
+<p>Re-ship: I will give 1 full reship after 2 weeks, unless tracking info says it was received. Being domestic there really shouldn't be any problems.  </p>
+
+<p>I only accept bitcoins and all deals will be through Silkkitie, protect your address with PGP encryption for both our safety. </p>
+
+<p>I'm on every day so message me with any questions and I'll get back to you asap. I'm also in the forums so hmu there if you like</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFU0CBQBCADZvSCHj4ICgex0hozsGfLsNVKvm8B0gUshapo73fdgVQdwzhhz
+cJatOTU3zIvOVrO8Hjyvd7qop2FT3vDDW3SXUMpU2RuhA0xQiN36NJccR+l+1goF
+MQ/lXNY/LH2tov3bOWsIdu8BfGtu2/69LVW/y24Rt1TmVSUon+KRCQvhRh5jRC05
+B3V28kOnoFNoOnfMuOQ7WIjQAmeSIqYUOyHWxqwIw3K7eDO+n8R1GBL73tvlGV+n
+GyKax1jxl4i37jpjuaOCStpEkJs/Bqx26g//UK1xAuoUGh28XR/iXxM2rOnYsMzN
+yXdQX53SmW7hgqgm1AhFBkjoIOYqet7gYF5vABEBAAG0GW5lY3JvIDxuZWNyb0B1
+bmtub3duLmNvbT6JATkEEwEIACMFAlU0CBQCGwMHCwkIBwMCAQYVCAIJCgsEFgID
+AQIeAQIXgAAKCRATaum9y+YVpQE7B/sHdvHYDh45MOFvNZuEU0GeII2JDUwKrPs3
+Ol2IHXaLqaademwRb+k9RkPNqlQkijHlLbUnqGj5rir+5GM4XQdalnA16he3OJi7
+rhFpsJYQNqUDeErPRTgECoI3UlQ90agVmKF2bCWIKqfc8m+KTspTBc21DT+lrkcj
+Lkml+R5oOlXhwLfzHRJuA4dCsRQN89KlppAweEy6ep3mdKr7DFLRO08LUHJBd1pj
+j86azQ4WDSOpsTmYOzgYDe9jScSvACo7+aUHfU9kRL26QPx0tRudK0giAEu1fAF2
+XAuhwWHs+sckL0zPBpyUpBHY56cQtDpVe4HeZHpSXPKGLMsxg0yhuQENBFU0CBQB
+CAC4NrDQawwbJUVmgsT9xv1he8tQgAT9FzTKfciNFtKzrKq0oowQ4q+aPjLO/CDL
+6F1yZhlnArexLotozg8olUDj0F07JoLKA5m0hctGTXjK6YxDaG56FDMC8SyR/M01
+BgxaSZUFntR8zzh7LL+l+7SD7X9zLa/kZUV8z0SqbEqit1F9rGiyRA20TcDDeuyB
+SYYho1QpU07xDOBMZNkbUtpOBAhrkYkPCNidL9ofsFZ+BkuVQNqdiMt26nHD31N6
+QPDBhKiBG+IGaXIegVW4Y+rWiYLXm0DUjYg/vSnhO6p+lfK4A3aMKFO5DWpesNTn
+dSEW0KMZJiqWjxrN+o8YRc9tABEBAAGJAR8EGAEIAAkFAlU0CBQCGwwACgkQE2rp
+vcvmFaVeQQf/bRMsieib/WKeF5rs2MscFzran74AFvCcIzrmcmT8YHASM9d9rs+r
+Yk3A3BGMj9rnoJBYNdTKA3Ll+z/PaDy1e6yaEfRmV0ZgqHjMBNtd5fGqQWbkWvsQ
+DGCYLjrFePXYoLSPIEEIQvV7X2DOcWNwuE7FHTwpdvl8NTMzN4BVJwg74tZHtnOG
+hz338Y4guPdAQPZooB3pFTbT1BPNXfrge/ByWuHf4WM3Nd1Mvhj/fhXPoQ3lC7yv
+gESfzqva+fzoux706PAg7YDp0pz5jgICbE0vk6+4iejwvCEXlgwiEqAhclhEMA+T
+s1rp2pRwxMSvv7rSpKda+bfAHmIOUc1sVA==
+=Rhzb
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

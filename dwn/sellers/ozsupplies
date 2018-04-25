@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="smjNKIhVkqXe5AONso57MarLsG3b7XNmDjZCuPYPfUYxA241UFoqRDh9LzXKlvFgkzXvJ2mC6Ygjn/f+z4NeVg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/bJ92">Suomeksi</a></li>
+<li><a href="/register/bJ92">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/bJ92">register an account</a>.</p>
+</div>
+
+<h1>Ozsupplies</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hi everyone!</p>
+
+<p>Same vendor from Abraxas before it shut down, currently on Alphabay as well with good feedback!</p>
+
+<p>As our policy was before we never require FE.</p>
+
+<p>Shipping is via express and is free with all orders.</p>
+
+<p>You can follow the below link to our grams page, it will show the same PGP key to verify we are in fact the Ozsupplies from Abraxas and Alphabay!</p>
+
+<p>http://grams7enufi7jmdl.onion/infodesk/vendor/0xCB5F033C3E20F0E4</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFYdE1UBCACOEo5GxlzY/3yTbbSWrNdlk/h9W70Wb9NT2C9t8ziRQuPQ/hg/
+9VZK78lHZ9PNBc3jHAYwoZ21+UFWl3bW/vS3bucceEg5YUdmT5R6zo9cw6MBU+IH
+o3+eMtlK4MfSzxBMbfiLZ5KvSwxR44X7HWgFQ9OV5WZVrws7mk/xdXCvrvNNKz2w
+T/ckSHD9L2Yq/YiGcY31uR6NfxxGmqG9vDUoZmo59UpO8qplODaVc5hAQU3+VTBL
+EJMMQ74vyNOX5WxnTny6YGalDWBgG56UUUOSX85g8b9iJJwlDhCpT/4u6OsPSt7I
+u+JH9iZiAgbIx4qFMBoraaDzkLX/i06cGGRbABEBAAG0AIkBHAQQAQIABgUCVh0T
+VQAKCRDLXwM8PiDw5Nu/B/9bAxczHOgRzlWhockXiivlqL8nmDjWhw2UIHa+xCCT
+hWiL6wCb4Ot1LgHCZEngVrCSXWfEZbvJ9PYNmvNDD3u0TQMxB7ZwGmNvUHAJiqTx
+E7lV32TpLRHaUdcnKoIsjW2pBA7O6LtGxDEWikQLFshZlmFxwcITqqxnMPNxLHjB
+7p4eXtKbTTLnUvrmaIlDTNhO803ldH6BLpN7RQJO42w7bAc0jXaS+PGYOcLJFCMV
++fG+mqrSoPkEx/neNK7bBakDdfHkoPVrKJhuj3oS8yVUqAo/45RRL6JgTBneDkNc
+Ykcdr3WVcOHoF8BTZ82lCQkY+oVtlW+R9b+F2Eb8nYas
+=Xvpx
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

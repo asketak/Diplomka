@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wUpqLKq8bqOFWWh9DAUUfXr/esIFFt3M1iGzF3hoptg89aJ9JX7k8ZDs9N1VChiPBk1dBan4636nROtdbG1gCA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/N7HP">Suomeksi</a></li>
+<li><a href="/register/N7HP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/N7HP">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>A-Klinikka</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>141</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 4356 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p><b><big><big>A-Klinikka</big></big></b></p>
+
+<p>A-Klinikan tarkoituksena on tuoda kaikkien halukkaiden ostajien saataville mahdollisimman laadukkaat tuotteet mahdollisimman halpaan hintaan.<br></p>
+
+<p><b>Valikoima</b></p>
+
+<p>- Netflix käyttäjätunnuksia<br>
+<br />- Ekstaasipillereitä<br>
+<br />- Kotimaista kannabis kukintoa<br></p>
+
+<p><b>Toimitus</b></p>
+
+<p>- Toimitus 1. luokassa maanantaista torstaihin. Tilaukset jotka on tehty ennen klo 21 kerkeävät seuraavan päivän postiin. Postitus voi myös tapahtua nopeammin tilanteen salliessa.
+<br />- Kaikki tuotteet pakataan mylariin ellei toisin mainita.<br></p>
+
+<p><b>Maksu</b></p>
+
+<p>- Kaikissa tilauksissa on käytössä escrow, joka tarkoittaa että maksua ei tarvitse vapauttaa (FE) ennen lähetyksen saapumista.
+<br />- Muistathan jättää palautteen ostamastasi tuotteesta!<br><br></p>
+
+<p><i>Kysymyksiä, customeita, muuta? Meidät tavoittaa yksityisviestillä.</i>
+<br /><b>~ A-Klinikka ~</b></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFUa0QYBCACz0q1VAR1sbkqw0iXwhlsVeVFBhY8WBvt3wpOg3aISrlnzoXdF
+B6xEVpcLNecAOIOj7CC8x4YyyVpltZtUpB4cnZEzR4hk17q64Hw23s3mgoVVblOU
+C0POu5pbFckqIOyKRK8k/7ZpUOsiX4TP1uDGsViOIWpqoLmlsQ4O/VlNLaBdzrdd
+zMUx7YH63vHPFTshTUcN1G+pEJ+u7tg4UttnYzVC7mNNXJ3rpxWzIi/n/x95G+bl
+FBghqIM34lEQs6q6VsZl60TaoMkpmcMDphMvh09HC1uBdIW3fmAQmqhbUfk6NGEw
+TL/7KWDlwYrEQuXYnXLlF/89xtQj3FZeiGeVABEBAAG0DmtlY2tAa2Vjay5rZWNr
+iQEcBBABAgAGBQJVGtEGAAoJENRgipyjOWwDsOEH/1K52W9Np/eppinuaomhsn4X
+R53QMtoPY3tkdf7wlxKNaODKre39TEWfjLdgusf6DTQwBFFWPCMBZNIkaUR0ET6C
+BDrT26Cy6G1+4CVO0qnLHgOwNxTsPT5qj5lUsyU12J/AGwyEsb36TY9kISJIWzkt
+A1oFvGnwEYiFwhtBTsIh2BdwS1IfHfReDDIFBRm/R69osP/MkEThOWIRgrnlcSUu
+RWvSCZvAM1jtQKAtEXDZfq+RrQVJV3S0miYYcwFdQ8tHelHdLZJjo8QM5A/bb8eW
+25/1aU1ECX2voQmFB4VdZZTekdsrXmhbz1cLT5BtYM3q1u0ReQzuEe6o+QzvQ08=
+=nwW8
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

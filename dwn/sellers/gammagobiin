@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="50yQa9QwxfdLUO/HUiuzdnUc+nlZmqL7h04+toXI71XEq45BeW9j+m7v/UoX2QSFwFuXNb45mv/RQthiqvmiDg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/6RAF">Suomeksi</a></li>
+<li><a href="/register/6RAF">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/6RAF">register an account</a>.</p>
+</div>
+
+<h1>GammaGobIin</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 277 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>About Us</p>
+
+<p>Introduction</p>
+
+<p>Hello, dear traveller, and welcome to the GammaGoblin Universe.</p>
+
+<p>We've been pushing the taboo since January 2012.</p>
+
+<p>We've been a part of Silk Road v1 and v2, Sheep Marketplace, Black Market Reloaded, Evolution, Agora, Middle Earth and Black Bank. We are still on Dream Market and The Majestic Garden.</p>
+
+<p>Products</p>
+
+<p>As you may know, we've been selling high quality psychedelics since January 2012. Our featured products are self-laid LSD tabs containing different, very pure crystals, prints and dosages, self-laid DOM tabs, hiqh quality pure mescaline and pure MDMA crystal.
+<br />Verification and feedback</p>
+
+<p>We assure you that we never edit or delete any feedback made by customers on this page.</p>
+
+<p>If you have never bought anything from us, don't hesitate to check our reviews in multiple places. You can also verify our pgp key listed on this site with the one that is available on the markets to ensure you are dealing here with the real GG team :)</p>
+
+<p>    Grams vendor link: http://grams7enufi7jmdl.onion/infodesk/vendor/0x948D159557111452
+<br />    Agora profile link: http://agorahooawayyfoe.onion/vendor/gammagoblin
+<br />    The Majestic Garden review thread: http://bm26rwk32m7u7rec.onion/index.php?topic=305.0
+<br />    All Markets Vendor Directory http://directory4iisquf.onion/vendor/gammagoblin</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.19 (GNU/Linux)
+
+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
+8y+JqnWdUQ==
+=yzj2
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

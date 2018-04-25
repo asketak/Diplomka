@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1mIuRunb5cePQUW4umnvntVb/RXKT1FsFTJ2onjyiEbXFAXT6PtHJHZgaYDV1QSethrlFGI/rVqBrnLTxe0BcQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/HA4Z">Suomeksi</a></li>
+<li><a href="/register/HA4Z">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/HA4Z">register an account</a>.</p>
+</div>
+
+<h1>pabloeskobaari</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>51</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-29</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Kuten olen maininnut, myyn vain ja ainoastaan 100% sitä mitä mainostan ja kerron ilmoituksessa. Postin saan tilauksesta seuraavana päivänä viimeistään liikkeelle. Jos tilaus tapahtuu ajoissa arkipäivästä niin posti lähtee samana päivänä, ja tietysti 1luokassa, pakkaus kuplamuovikirje.</p>
+
+<p>- Postitukset Ma-To (ei mieluusti perjantai postauksia, pyynnöstä mahdollisia myös nekin).</p>
+
+<p>- Maksun vapautus heti.</p>
+
+<p>- F2F/Maasto kaupat ovat erittäin harvinaisia ja niitä teen vain jos olen asiakkaasta "ERITTÄIN varma".</p>
+
+<p>- En voi ymmärrettävästi vastata kärynneistä/kadonneista posteista(joitain olen korvannut, ja vast`edeskin jos olen ostajan rehellisyydestä varma). SE ON VARMAA ETTÄ JOKA AINOA TILATTU TUOTE LÄHTEE SOVITUSTI POSTIIN!. Täällä ei rottailemassa olla, se on laji joita en myöskään siedä! Enkä toivo kauppakumppaneikseni eksyvän tuota pohjasakkaa. Vanhemman koulukunnan oppilaana tiedän asioiden kirjoittamattomat säännöt, sekä kannatan niitä varauksetta. Eli pitäkäämme Sillkitien taso hyvänä, olkaamme rehellisiä tovereille ja yritetään savustaa rotat pois tältä saitilta :) Paras kauppapaikka ko. asiassa, suomenmaassa ikinä. Paljon myös muualla toiminut mutta siirryn kokonaan pikkuhiljaa tähän.</p>
+
+<p>- Kun tilaat useamman kerran, niin älä oleta toisella kerralla minulla olevan enää tietojasi,(nyt toimii ns. "autodelete"... ;) eli postaa ne uudestaan. Tämä siksi että minun ei tarvitse niitä viestillä pyydellä, ja lähetysten kulkuun ei tule viiveitä. Kaikki tiedot ostajista poistuvat lukemisen jälkeen, ja muutoinkin oma kone on lähes 100% suojassa vaikka antaisin sen osaavallekin käteen ;)</p>
+
+<p>Yritän olla postien kanssa niin nopea kuin mahdollista, koska arvostan itsekin asiakaspalvelun laatua ja nopeutta, kuten kaikki muutkin.</p>
+
+<p>Jos on pulmia, kysyttävää niin autan mielelläni, postia vaan rohkeasti tulemaan. Niin ja tyhmää kysymystä ei olekkaan, eli ei tarvitse miettiä viitsiikö jotain asiaa kysellä tms...</p>
+
+<p>Simple that :)
+<br />_________________________________________________________________________________</p>
+
+<p><b>7.8-14</b> 
+<br />- Varastotäydennys tulossa ensi viikolla, joten silloin taas on valikoimaa.
+<br />- Lisää artikkeleita luvassa myös, niistä ei tarkkaa pvm ja artikkeleita. En huoli myynteihini huonoja laatuja OLLENKAAN, joten ne pitää minun vielä todeta hyväksi.. Kukka, Lätkä, Amfetamiini, kiväärin ym. patruunat ovat ainakin odotettavissa.
+<br />_________________________________________________________________________________
+<br /><b>20.8.14</b>
+<br />Huomenna saapuu loput varaston täydennykset.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+mQENBFOeDYkBCADT/SLOohiM6/ifSh9Rcq/u8Uq6Mgk8vcUDrLtcq7dS2FEaHwU9
+47XTScXmgEDtruKkGmS/GpzWk/O0sXdBAUQxqioclwP0nCyF9zIIKWpORDoQCk7w
+C4upy5kCg/CM4Usfn/1y954qd0EEJILNqXOViKFCElKBprHYgwXyaPJ0E6OuKs5v
+7L/zmAW9nDU0c1y97hfC3PQ+LFQV4fny5sb7fOBZtbwdnv+vfz+UuXGUcvEKgf7C
+HbnUstsPkEX7LnmDnBSbX6UqC2AMv5Ib9PBL3eSPMsU9TndUYglUColcC/d0rnZV
+SlmnP9E1G3W+rCdvxRkAiWN08cCwVWwxOjZlABEBAAG0HkFudHRpLlIgPHNpbHRh
+cG9zdGlAZ21haWwuY29tPokBPwQTAQIAKQUCU54NiQIbIwUJCWYBgAcLCQgHAwIB
+BhUIAgkKCwQWAgMBAh4BAheAAAoJEMW6B8+b29WI2NwIAIRbP8ei38ztIoD/MdQO
+L0be7xWj3dniFsJXss5GJ8RSWVqPKJ9gvkrM9ZkAz57wLaFEAeRLx6eSGGeeuu6O
+d38A3kW6cqXxwNkcY5xhD+HF+CqGtNK49/xRCaPsSNl7r8Xn4CePgiNNEC6keclg
+BI87J+Q3OWCWuOAoomF2hBZXirc0Br9WFCD3ABm3uKD0Wd3MSpyo+TOgQeGm4nsH
+qGx2vJ1UjzJd4paCL0m3xxQKBC2EqIMr+nobutk0ZAH6xcSKH0eu2nD6igYBC6T9
+zoDurkalElkZkH+0qyAAgYNC1cnACxPHGspctviatq83BX/PBb3zSpCoXaL4ojlX
+P3C5AQ0EU54NiQEIAKS+hRcAj9cn77rcVzTsCgePYXnMJiRyQjpt/W/quZQbkuCG
+gxbvZ5Cf9fLCuu5G1oWECNYVlSAaeDNL/wybvN8awC4Yvmig21SvP/mRRu6BpdX+
+hCsIq6/LHoyDcaFYDU1uVlVLcjjNmbk4oDzsmxLDxvF+wTHqm/kTAzWYH0dF9B/5
+0Nm6ok6qPK3PJKapBKb/3B8DRl1oC0yPBUt3x41sQOPa5frpPskvDbBYqCdLixnu
+FdkUqO3PyXLGqzk6Ns7uAGLYc9zGwKEpnv2owtSSZvqAB0Xng8vcjF6ZvYKRIMUu
+STV0Q7ce2zrqWwJjlxaIToE2AdN7Ig7H95LtUEMAEQEAAYkBJQQYAQIADwUCU54N
+iQIbDAUJCWYBgAAKCRDFugfPm9vViEfTB/9yWvnd0eacKGET/hqPMGQLMGgzf603
+RMH3Irw0Wgxt1+hfOz4ojaYvRbK6EvV6Hty1MSevHS+Rys8Owl4hXPCJcxkl32ON
+Ow4Ng5zCTcbBlfixjeDUt/pFwQJlPhM+DxYNCyKfjkMckZy7AZlGvNhlwMGUVkpd
+8HVl9E6NQpG5xEozJFvjcVtxxsg2i75Hra8XnneR57ToI16Lp/hrkaA6eHVY2hB9
+6U9xU7CqFib8d7BxoqoE3rG+aGjUlFFHvdUHluuL/pnzHwWrsOgBGobnctfDDMkE
+CKq5OpDmTgPLEukRXlD/A7JdoI6gSCrAl+rJPnFeUbF9gh3k4CyEOdRG
+=B6W+
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

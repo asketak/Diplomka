@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PoGmZ/PbJDfoyXEsBuROdjMddes7c9fbiccgUMdESwiPIdacpRQcZfbJtWKBQl2YP+hDI2egVye5kOuTU9x6ig==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/pmg9">Suomeksi</a></li>
+<li><a href="/register/pmg9">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/pmg9">register an account</a>.</p>
+</div>
+
+<h1>All_Around_TheCLOCK</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hey everyone! Long time vender here, getting back into the game because this is a market that actually is legit and can be trusted.</p>
+
+<p>Products will range but some are:
+<br />Suboxone
+<br />Subutex
+<br />Methadone
+<br />Benzos
+<br />A variety of others!</p>
+
+<p>We are fair venders and would like things to operate like any normal business so please lets all act like gentlemen/women and live up to our end of the bargain.</p>
+
+<p>Thanks plz hit me up with any questions!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+mQENBFRkM7YBCAC60zIQrvQBcDkGhkiOo+Bcd3ArsFsmEFc3WgUSaa/ac/nV9H3d
+Avxvh27RNcy27h6a1u0ohFJG/PB/GyPONt2ubRnrUgVUu21rMWOXEbPzQYqffPhL
+QfLtKBF7pEd5b0N/I4g9marzXdjljeNOnlBLshkehlalu1poYbX1KJKszuZh1Klz
+NOXTwbu7abqT5Hv2NgClyj+FZb8ksr51znFirsIPmuiWDmCfhi2ZKnncgLB3Tftl
+g4usMDJ0X12QgCvvyPHxCnOarCQWy3AyVkNhBpRduc6K6fB/QhJ+FEEvMaaNMm7Y
+1OvysuzXjuGhGJGcz8W5SKWQXRd7UwynPQgzABEBAAG0I2RldG94X2NvbnRyb2wg
+PGR0eGNvbnRyb2xAbm90YS5jb20+iQE9BBMBCgAnBQJUZDO2AhsDBQkHhh+ABQsJ
+CAcDBRUKCQgLBRYCAwEAAh4BAheAAAoJEE0NExVKxP3QGyAH/ik6Nr8bbbq8Fe8p
+f9vKxDwTCg6RMxwDWJEGfIQr2cTPgkrzZkQ/tQYGHGNGJiO5GdS7TU7iUtPZ3QQm
+IFvqycudwaDbn/WyyLlHf6vLTQZQ0G7MwMhc1a3EfJroG50UWk6LbKz753JNjONB
+EwI4e8yYn1E8nCQ4waNFEDeIn+pGIV5SV8i1QsmtNKmI3gRtsJ1jJJVenH0KprsF
+G2Xd49vmbKpfJCGetor38lduN4LfRYGzDOXZoKSWBt5liELh/EYsOFgTrXzzGlCC
+6s7/zN4CKbV88JK3io5iarihLHZ6UvqIKj/0TKU0JEZ230b0di/aofhOGRbOftgs
+Azxag3i5AQ0EVGQztgEIAJoDfA+MU6kkJXcCR2/Htt0Yo8NyjHG2ot4fmMddVeDK
+wk+RJKAHa1HS5wPf7z/W0UNGDBMXAFcldr/63RKajbalT1U9j593gr85vnlBswAC
+AhckCA2jX2FiY+YQFCnc4yAOXcNwx1xb5lriFaPx/PcamOcfJxDz/tMNIrwFUPhR
+PRWTRWLwBH5VQjrwt7hchDpekzNGAZS2cxK45//Ne85D1HNVCCENz2lR1djvK7C8
+38TsN7Tl+kF1fUZDaooXtdL7DpAouhXp56g0ni2yvPUIpRzfSqJigsvoiNHhY7iw
+NtOjncQxIh4t8ziX7U0DsBpP2RJabvtGlGZqiZsv18kAEQEAAYkBJQQYAQoADwUC
+VGQztgIbDAUJB4YfgAAKCRBNDRMVSsT90KIoCACLLTT0nYA+euBXNMLPsrvIKGM8
+qTYAubBNcEn4lYz2R1FLoFJ7Gth1/jDDXmOzNtzY9vDCu9GxC73Jqd/ZuQ4sEhKM
+XfG2eWxoxcR/UDCP0VG1SJUi4sVqp3vpSTjmAIy4/D8SJchijtdjZtGTtiqbVNex
+gAewCNZjE6zJyFyobFnlkz2OZVVX6EGEU24f9btzW2/DHqahUfgtXQ5qcYQx6YbH
+nyUC6T8bXZNNGpcCW9+X6Wu0Bl40usHvRj2l4chFRQOY21r788e6Cj4ZkKLNFDqr
+nmeHX9I28k9qUVU4Nh+SpSAUJXocays7T2dYWZMDrZ2N+nLwrXjSTgq/3H+D
+=8Va6
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

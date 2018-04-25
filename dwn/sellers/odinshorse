@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="x1u2M/6zwZka5KLo7YbdiMe7YdcVotR1aCLBYK0U0iG1OYAI/Xar87MG7wlopkAjjyKgMSoRS3Pd5oleRwqyxw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/3EZn">Suomeksi</a></li>
+<li><a href="/register/3EZn">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/3EZn">register an account</a>.</p>
+</div>
+
+<h1>OdinsHorse</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hi there, we are thrilled to tell you, that Thor the almighty God brought us Odin's almighty horse Sleipnir, the finest and best product available in the Scandinavian realm.</p>
+
+<p>We strive to give you the best possible ketamine, fast and realiable and perfect stealth. Many years of experience have given us the opportunity to offer the best and purest drugs in Scandinavia.</p>
+
+<p>We ship from inside SWEDEN or DENMARK, so you can be absolutely risk-free since the fusion of the danish and swedish postal system - PostNord.</p>
+
+<p>Order with confidence!</p>
+
+<p>Address should be like:
+<br />NAME
+<br />STREET NUMBER
+<br />POSTNUMBER/ZIP CITY
+<br />COUNTRY</p>
+
+<p>example:</p>
+
+<p>Kirsten Löfvald
+<br />Källvägen 10
+<br />71230 HÄLLEFORS
+<br />SVERIGE</p>
+
+<p>Please always encrypt your address, for your own safety.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFdPFcsBCAC2FAzpOvM93sKaXj3kEET6NwTLAi7sXYV0YttUIfpdIH2s8ymC
+XsjmKekfuXnEp/QSjPezO4/cK87qYF7xZYvG1NMgG58cpvMa/vtK+PzWw3qSpUpd
+/Tj3VvidP4LP23ES/YJGeDYrTdCWRatOCvKVA36Xkfnyxo0vhjvw+U6EiEAWtR0V
+fKHTM2SMpcDIltkCkVpZn7sehFrSPLsbf7XwkVjIY7vW5DC2W1qghrM7ftQHxPNY
+NEG5Ba4bH7/4m4jYQsyZczLvphbVpBexXeQ7GWDyX/G9Q+JDeTzoz3u+tNLI1NBR
+6kiwqhd1LVGaQNATyPaCOdU7yWDiSO+IVt1VABEBAAG0FE9kaW5zaG9yc2VAZ21h
+aWwuY29tiQEcBBABAgAGBQJXTxXLAAoJEB3DF05ZmFUde5kIAIppyH1EukG0Afns
+/Us/bh30TIUADoEUBLbNIjh5jXn5jG0MnQ54K01N6cWuLq5HyTVSszJGQjTmtEgW
+Yn5bR18ESxySr9FDkFpxg2j2WjNobtmouPeG8vFgdsLYuX1WqPol3RljYHFNAL+N
+k5hN2uffGuqh4GTnDVzBZe6v+bb1KOs6ojNzUfzBIUBjybXmZohjD7+y1nm6iiuN
+1FHgXUNSatnbJPIFX6Xiu3d2DUnDXfYXBN1DPaFMkZG2plMGcRm3iKpEQ7dZOqYx
+idx80rmf6yu3eIbE7IGllrSQSi5GDfY8mNeISXWTL3gdkRi47jJB8lbFXOq2No2i
+1toUAYc=
+=w808
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

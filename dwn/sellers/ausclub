@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jtpSgGtCLOP7NHoi7a+phTg5n12leSlvmFUfjOmEHfQBLZyr2HBL1iwXyngkPtoxH9fzQl6UOtmwTLb0dyT+YA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/uuK5">Suomeksi</a></li>
+<li><a href="/register/uuK5">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/uuK5">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>AUSClub</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>104</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-9</span>
+</li>
+<li>Total revenue: 4570 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+
+<p>"Miksi AusClub, koska olemme austraalialainen tiimi suomessa hyvillä yhteyksillä" </p>
+
+<p>Meillä on tällä hetkellä liikaa tilauksia ja kaikki tilaukset käsitellään 48 tunnin kuluessa. Tarkista milloin se on merkitty ”Merkitty toimitetuksi”. 
+<br />Kauppamme on tarkoitettu viihdelääkkeiden käyttäjille, ja vain yli 18-vuotiaille. Pyrimme vähentämään haittoja ja rohkaisemme ostajia tutkimaan itse, miten lääkkeitä käytetään turvallisesti ja vastuullisesti. Myymme ainoastaan tuotteita, joita olemme itse testanneet varmistaaksemme asiakkaiden turvallisuuden.
+<br /> 
+<br />Tavarantoimittajamme on antanut meille hintaoppaan tehdäksemme voittoa ja tarjotaksemme parhaita tarjouksia kaikille teille. Voittomarginaalimme ei ole suuri ja se sopii meille. Haluamme tarjota luotettavaa ja nöyrää palvelua. Olemme vain keskivertoperhe, joka yrittää tulla toimeen. 
+<br />Koska olemme uusia markkinoilla, tarjoamme palvelua sinulle mahdollisimman hyvin. Käytämme erilaisia käsineitä pakatessamme eliminoidaksemme kaikki mahdolliset hajuhaitat. Kaikkien pakettien ilmat on imetty pois ja ne on pakattu hyvin, hyvin hienovaraisesti vakuumiin.
+<br />Haluamme tarjota sinulle hyviä tuotteita hyvään hintaan. Kunnioita meitä ja me teemme saman sinulle. 
+<br />Levitetään rakkautta – AUSClub</p>
+
+<p>Tarjoamme massalistoja. Lähetä meille viesti, koska tavarantoimittajamme on paikallinen ja asia voi vaatia ylimääräisen päivän. Haluamme aina auttaa sinua, joten lähetäthän meille kysymyksesi. 
+<br />Palautus:
+<br />TUNNEN, ETTÄ MEIHIN LUOTETAAN TARPEEKSI TARJOTAKSENI SEURAAVAA:
+<br />TILAUKST – 50 % UUDELLEENTOIMITUS TAI 50 % PALAUTUS:
+<br />OTA MINUUN YHTEYTTÄ ENNEN NEGATIIVISEN PALAUTTEEN JÄTTÄMISTÄ.
+<br />Tehdessäsi tilauksen, käytä alla olevaa lomaketta:
+<br />Nimi
+<br />Ensimmäinen osoiterivi
+<br />Toinen osoiterivi
+<br />Kaupunki
+<br />Postinumero
+<br />Maa</p>
+
+<p>UKK
+<br />Oletteko todella Suomesta?
+<br />KYLLÄ (jos kysytte minulta tämän tyhmän kysymyksen uudelleen, en vastaa).
+<br />Voitteko tehdä noutoja?
+<br />EI ja EI
+<br />En saanut mitään?!
+<br />Ota minuun yhteyttä ja odota toimitusta</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFc4KPsBCADYD3VGaull7NjF4SywqELiQu1YQiN4YpIEWX7kJOLJQZGh0GdV
+46Z2JPTiOIBSzzTNWcYcISlQtiB/Mw4d0lg6U3815B023BFi4E0vZQwuz5AWN7XK
+JQe7bHPe86+qrnpcHvH/Vu4gXb1rRGc+bgmdhT678WoAePFgWYOFolw6EYEiIw/K
+CLmbkm9OAwZmstC4AkdMZMjAsAhiAXd69EfELQ17JVqeGl2jRPGTOyySWGavCf0+
+Cv7OJ8KQPfH6oeehX5uN4yFJvUXNzFdc9w5hYuSm5Uu9LrCrU/6z4Xzz9h6EEsiZ
+30fJonkwkoNd1C+2T+TSoFKSTCourBPk6OnXABEBAAG0GEFVU0NsdWIgPEFVU0Ns
+dWJAcHJpLmF1PokBOQQTAQgAIwUCVzgo+wIbAwcLCQgHAwIBBhUIAgkKCwQWAgMB
+Ah4BAheAAAoJEMGo0SnQLrTriJcH+wY2stNIaY3aJtIRWcVwnqBZvwg5X2lU+Iz4
+861yZEBuQYmHnK3Iw17iOuazD1ZoWw2yoYc0yoCsouDKC2QeJ/0UINAqsw73V55D
+lUn+4z5NekJ3mottXm96/tvvTLiSkxpinwiptX+vxGVeiyZMiULrz67MhE0A34cF
+cdsSUgUdInUXmL8ZSyUY29H2F8E7vGwJCchs7LEkAZrJd+z7giAASG6n5NX5lQf+
+B7ulhpN15jUMThHLPk5qw9XafY0z0JLpwKZn170dFGQM6CaT3VawwnENEw+ZyJXB
+qibD9HoVd2xkgWl0hbJsxsSo3A0B18JdlvyLaipTCbRd0RffhdC5AQ0EVzgo+wEI
+AKaCITG7V9Nt+4i5LrKiv03rr6NUUi6tRNyakLsgHMJL6nv8cF/swg+RiWHPxlap
+MLFNvX/Bhzh1DhRfNaDoWaxdsNxFZa9VhXNcKwuLb6n0r6C3KugPMtqwPvmhpRsX
+tjA1qreQfz0EcplIRFKqKyvXFgxwMtwb0XfYpTrUHl5gWu9rFheTbTdPqISg96Dd
+rM1cBAb21OIxWIggJ0uttvDggWO1St+qD9vJg9l4dM5e3VUHVf0ZW5/sFRDdB3i2
+GD5Ow92h1nL2fcdAEVkXnLpmw3CIlqpLiegxqZlYVfKjIu/yaAcz+AINLmF55DjH
+aQhzR7R/2Q0TlqiSFPRR8r0AEQEAAYkBHwQYAQgACQUCVzgo+wIbDAAKCRDBqNEp
+0C606ymsCADHWwenG3RNGkAohcQpLA5DlQFFveHcQphZBjtuh1cKU4eW/Oz9AVJH
+6Fg/3zqIli3i9ttQbnpyQPE3bqYTRt+qbK5UI3Uomflyv7anDPyjGo3R/QWKLa6T
+WP0vvBsE0r6aRz5sLDp2Mb34O+QFQi9JxxUGUo6AbFtoH6dB0OCUTD/PKqATdpTU
+RPqcKBF9w/KZFjOoOkNTjynM1lpMlxNlaitt3NVhe1lET7/qvllhLH+/U6RfGVSA
+ZJ9jFRfoLM9D2nO8b/4NuZj4b6rw0W3p54T5Sa9PyLYsMURIEbq3dE3v7CW/r1O9
+UmDUVK22s2Nycnaibc9Hf0xsDyd7MRmz
+=pY8L
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

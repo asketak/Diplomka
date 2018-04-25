@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RcsUYBLJQrW0KeWPDgu09vqiA6wuqsT0GjMZ1EfUV9EeuaV6UVs5oJBvaMO80IPPVVEfnUnFXL9GdSKBi0Y2tg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Kwrt">Suomeksi</a></li>
+<li><a href="/register/Kwrt">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Kwrt">register an account</a>.</p>
+</div>
+
+<h1>pastperfect</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>432</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 4 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Spain</li>
+</ul>
+<div class='description'>
+<p>Welcome to pastperfect</p>
+
+<p>We offer pharmaceutical products from leading European and USA manufacturers.</p>
+
+<p>-Rubifen 20 mg by Rubió (Methylphenidate HCl) IR
+<br />-Concerta 54 mg by Janssen (Methylphenidate HCl) XR
+<br />-Elvanse 70 mg by Shire (Lisdexamfetamine Dimesylate)</p>
+
+<p>Orders placed from Monday to Friday at noon CET will be shipped within 24 hours.
+<br />Orders placed from Friday at noon CET until Sunday are shipped on Monday.</p>
+
+<p>Delivery times:</p>
+
+<p>- EU and Switzerland: 4 to 6 business days (no signature is required except in the Czech Republic)</p>
+
+<p>- Australia, USA, Canada, Brazil, Hong Kong: About 10 business days (no signature required)</p>
+
+<p>- Other countries: About 12 business days (signature required)</p>
+
+<p>We will re-ship or full refund if the shipment does not reach its destination.</p>
+
+<p>*** We do not ship to Finland, Norway or Romania ***</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Did not arrive. No communication from vendor. Has always been perfect in the past.
+<em>(17.3.)</em>
+</td>
+<td>
+<a href="/products/18104">Vyvanse-Elvanse 70 mg 10 capsules, Lisdexamfetamine</a>
+(167&nbsp;EUR)
+</td>
+<td><span>
+Lu***am
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Yep. I thought I was the 1st one. But actually Im only 2nd. ... I have put orders with this guy for years. Literally YEARS. And in the end after all this time he scams you for that one last order. That is how sad black markets are :) Learned a lesson
+<em>(13.3.)</em>
+</td>
+<td>
+<a href="/products/18083">Ritalin 20 mg 90 tablets (Methylphenidate HCl)</a>
+(272&nbsp;EUR)
+</td>
+<td><span>
+Pr***ox
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Unfortunately, never received the order and vendor doesn't reply to message anymore. Seems like scam.
+<em>(13.3.)</em>
+</td>
+<td>
+<a href="/products/18082">Ritalin 20 mg 60 tablets (Methylphenidate HCl)</a>
+(205&nbsp;EUR)
+</td>
+<td><span>
+ba***n3
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Professional, communicative, attentive....just perfect.
+<em>(21.2.)</em>
+</td>
+<td>
+<a href="/products/18557">Ritalin 54 mg XR 10 tablets -Concerta- (Methylphenidate HCl)</a>
+(92&nbsp;EUR)
+</td>
+<td><span>
+Lu***am
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+100% success rate over 2 years with this vendor. best of the best, guaranteed.
+<em>(20.2.)</em>
+</td>
+<td>
+<a href="/products/18081">Ritalin 20 mg 30 tablets (Methylphenidate HCl)</a>
+(121&nbsp;EUR)
+</td>
+<td><span>
+th***ke
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Fantastic very fast delivery!!! Will use again
+<em>(16.2.)</em>
+</td>
+<td>
+<a href="/products/25110">Ritalin 20 mg 10 tablets (Methylphenidate HCl)</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+Tf***AU
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Everything perfect!
+<em>(12.2.)</em>
+</td>
+<td>
+<a href="/products/18083">Ritalin 20 mg 90 tablets (Methylphenidate HCl)</a>
+(269&nbsp;EUR)
+</td>
+<td><span>
+lo***or
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Very fast delivery, quick response to messages, everthing ok, many thanks
+<em>(11.2.)</em>
+</td>
+<td>
+<a href="/products/18083">Ritalin 20 mg 90 tablets (Methylphenidate HCl)</a>
+(269&nbsp;EUR)
+</td>
+<td><span>
+ze***ei
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+good, reliable, took a week
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/25110">Ritalin 20 mg 10 tablets (Methylphenidate HCl)</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+Un***n3
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/pastperfect/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBFU0Z6oBEADOT9J26mH7ELA00NptV94DQS9Ebt5zBvzVFuCjnYPxxLTx/yWL
+qQFnQDof6XfnFlDHGOj+sTWA6VUd8hfePZl9wp63enfP9Vg9tgbMlvOERPNSo+Y3
+gw9LRvpn9i5ipLWwStFJk1xkglZYyKNOhOrpLBR98yad9cKYVetcszljKbdU/9/k
+iuPFDdBzmcVjt6ZaBOuzXJM1ZF+y6Mq6z9jBbd6ToyyFgE8NzU/puAYOe8AaH+lY
+qChH+wkJPHfV9B46vLDaU/y+Sqf3QE/f4LG9lRoHhJlgZW4FWwivTnkoYhD7RZPC
+L3y4aaDzWWTMq8q48Oi/CLqLciw4594tpah/kq75M059fCmKHctasECn8/dWd6xj
+adYo8yvYUzAiHLmht3TM2odeQ9EgpRljLgDooc2RS60DEiIeZ3L6l1P6/ac83d2A
+4ahoEjFb02eEIW9CAUzvhuqWKOy1FU2bpxTpiDPPazKHwBmNS2rlEtzUtjQB20X3
+NVsaXvs4ULu5+fpXDdZe6WJn4twD0pXe8j/8vMo8TNaJDqfNwzQw5n0+uqLM52pY
+5PwYbg/dRxb0JRmg0jEkTh/+cjoLgriMPhA0XD9QNWlGqQoqwLNucGVYlawKAaWI
+/+hvpKmeYy1Um1PlKl2Kcm0NWh4vXHt8Hwvg6mYr/s4eFvv5ePLAjTkGRwARAQAB
+tB9wYXN0cGVyZmVjdCA8cGFzdEBwZXJmZWN0Lm51bGw+iQI5BBMBCAAjBQJVNGeq
+AhsPBwsJCAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQtAUoJx8wY1OGKQ/+Ktr3
+V8nHFQFgDXermgrbbCC/FWl7iImLFzdq/3E7AIvXw7882iJ3ZzZS269hKKUbqh2R
+tMJlLWiDf0a1iaga6ilAIX7fnRbVU16DvNDBVl8IvkTOWLVuOslwJs5k8IXZIFpW
+4IRxjuRvyDttVCw3GDZ8AdoeedTpCkVH5pn65fhykJjBLDPIMFra1L3yvGfdZEbr
+f06ifyAwiDcT+I7OmJJ5f1SPx1ep8uRQRpv1Iuxp8Eq2O9SHeMW+EatUXhQ9b0v4
+Z98sihoIRXm3tQlqGnAUE+MDU3uew/8H0mFOYkL+Yraz0QPB+WBzvzOQ0Nthhxnn
+rTeOapl9qYRpzN27bC6Y/pwKUKxwdiLKOc6tj3JCfFLJxow7QTlQ7oPbR4XN2Oud
+NY6PQDUvkW1TWtmTMKmK3dByXCXyMwGN9O1xh4jIhhYXAX/FZlBe853EkNzksE6K
+N1pQ5ZpPFttk0Nb/ucPLGrDySEV/CLCLRJqn7XtL+4AlVqtkIj82M9TDeoTCErdD
+tWgjPalbSReCs1507yq21JdUwTYOQ4cTVXDQVXWub60yC7TJvG2gSEwpwfPCxoGK
+PaIVbjk5Hb/JhC7I79K/7dE7lr/yzEBCIlaksCwDSBtdPpIA2WfBo63IodbJjuC7
+xTzKXsLC4KgWN/4HqtDs38rLPvnDVCUeKOz/vaY=
+=0WC9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/18081"><img src="/kuvat/tuotekuvat/e2918bdd7be1cb27f71dedf6e568286d9ad13ac8.jpg?1485086815" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18081">Ritalin 20 mg 30 tablets (Methylphenidate HCl)</a> (<span title='148.7 USD'>121.78&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18105"><img src="/kuvat/tuotekuvat/f915dd608842c1d035af2507c926b956372e2b69.jpg?1485086886" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18105">Vyvanse-Elvanse 70 mg 30 capsules, Lisdexamfetamine </a> (<span title='556.3 USD'>455.6&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/32840"><img src="/kuvat/tuotekuvat/e080e6365422497d728281e5b342164de639836d.jpg?1485086739" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/32840">Ritalin 54 mg XR 5 tablets -Concerta- (Methylphenidate HCl)</a> (<span title='70.2 USD'>57.49&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/25110"><img src="/kuvat/tuotekuvat/4558f4bf624007d2fab8be73e3ec7a13a0ea739a.jpg?1485086793" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/25110">Ritalin 20 mg 10 tablets (Methylphenidate HCl)</a> (<span title='66.5 USD'>54.46&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18082"><img src="/kuvat/tuotekuvat/222ab3c4a72bc930c862c23af6484eb6fe59932e.jpg?1485086826" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18082">Ritalin 20 mg 60 tablets (Methylphenidate HCl)</a> (<span title='253.2 USD'>207.37&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18104"><img src="/kuvat/tuotekuvat/6851c36952cd7706fbfdf2ea2d2da7b95718c260.jpg?1485086873" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18104">Vyvanse-Elvanse 70 mg 10 capsules, Lisdexamfetamine</a> (<span title='207 USD'>169.53&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18220"><img src="/kuvat/tuotekuvat/339addbe52f9c65b8d8a0315d7229c82f556326d.jpg?1485086773" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18220">Ritalin 54 mg XR 30 tablets -Concerta- (Methylphenidate HCl)</a> (<span title='288.6 USD'>236.36&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18557"><img src="/kuvat/tuotekuvat/3c56e9b540223168166d28c7014401575c812a04.jpg?1485086758" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18557">Ritalin 54 mg XR 10 tablets -Concerta- (Methylphenidate HCl)</a> (<span title='115 USD'>94.18&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/18083"><img src="/kuvat/tuotekuvat/91a1fd4adf11650974a598d708ac657cc678f2e4.jpg?1485086841" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/18083">Ritalin 20 mg 90 tablets (Methylphenidate HCl)</a> (<span title='335.5 USD'>274.77&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/pastperfect/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

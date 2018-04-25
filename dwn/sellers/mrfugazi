@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DrHbJydEyJcWDey3W40CVANixsGGZnh36wruFqeMI6b5dsNyVp6wLnE5x1rTSi5nJLquhFz0gMnMMyyCX4nqcQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/zyM3">Suomeksi</a></li>
+<li><a href="/register/zyM3">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/zyM3">register an account</a>.</p>
+</div>
+
+<h1>MrFugazi</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 170 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We used to be on Agora before it went down, we provide some of the fastest service on the Darknet (48-72 hours max completion), sample pictures are always sent to our buyers before we ship out so you know we're legit! </p>
+
+<p>Mr Fugazi provides high quality fake IDs from the United States, Canada, Europe, and Australia. Our cards are printed on the highest quality materials available, (depending on the card you get) they include proper multi-spectrum holograms, UV features, scannable 2D and 1D barcodes, and encoded magnetic strips. For more information contact us at mrfugazi@anonymousspeech.com</p>
+
+<p>Express shipping is €20 if destination is in North America, or €40 if destination is outside of North America. Express shipping includes a tracking #.</p>
+
+<p>1)US Drivers Licenses  - €150 each
+<br />Arizona
+<br />Colorado 
+<br />Michigan 
+<br />New Jersey
+<br />Ohio 
+<br />Pennsylvania
+<br />Rhode Island 
+<br />Tennessee
+<br />Wisconsin </p>
+
+<p>2)Canada Drivers Licenses and Secondaries - €150 each
+<br />Alberta Drivers License 
+<br />Quebec Drivers License 
+<br />Ontario Drivers License 
+<br />Ontario Health Card </p>
+
+<p>3)European Drivers Licenses - €200 each
+<br />United Kingdom </p>
+
+<p>4)Australia Drivers Licenses - €250 each
+<br />New South Wales</p>
+
+<p>Picture and Signature Instructions:</p>
+
+<p>Picture: 
+<br />1)Take a picture against a wall, zoom in so the picture is taken from shoulders and up, the higher quality the picture the better the ID will turn out. </p>
+
+<p>2)Attach via e-mail, send to mrfugazi@anonymousspeech.com OR upload to anonfiles.com or imgur.com and provide links (send links only if you are sending your form via Valhalla, otherwise email your form and attach pics via e-mail)</p>
+
+<p>Signature: 
+<br />1)Use a black or dark colored pen, take a white piece of paper, draw the signature, scan the signature at 300dpi+ resolution or take a picture of the signature with NO flash on 
+<br />*Note: If no signature is sent, one will be uniquely made up by hand, not computer generated</p>
+
+<p>2)Attach via e-mail, send to mrfugazi@anonymousspeech.com OR upload to anonfiles.com or imgur.com and provide links (send links only if you are sending your form via Valhalla, otherwise email your form and attach pics via e-mail)</p>
+
+<p>Order Form Instructions</p>
+
+<p>1)Fill out the order form from the listing you purchased and send it via e-mail or via Valhalla along with your picture/signature attachments or links. </p>
+
+<p>2)Once we receive the order and form we will get the card done asap (48-72 hours) and provide sample pictures before we ship it out for you. </p>
+
+<p>World Wide Shipping Times: 
+<br />Express: 2-4 business days worldwide ($20EU if you are in North America, $40EU if outside North America)</p>
+
+<p>For users who want to purchase via multisig transactions, here is our public key: 035692aa7cb505119689ad8194c174779e6ea4f1fda35a434ac7767a4b73482443</p>
+
+<p>(Our PGP key is below, we DO NOT require that you encrypt, its up to you)</p>
+
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: GnuPG v1.4.12 (MingW32)
+<br />mQENBFMvznQBCADPaGLxpEajAQEZiB9KGoBD3duESiPmcIw5wFsnKKBbJxFe6sei
+<br />/h66qsTJxdhrImQT7fyXLCMRxHsfbwuN95zFFthu4a71/2p3bbsHcypFBiCOPjwR
+<br />zmnd8JnxND/brKn4pEHA35JvzVGpuJ7kmBw6+qTVfNZ9T1zZVil64FQfFEf+TaTt
+<br />0TXSg9WArR4pF5G0O8gCQf99G34/J6eh1RpHckBzbiSGEEF4VQ+qDSedFTACXb9Z
+<br />zVdXND9FzOLQYRXgU9LrFzoFwoNVuRBtEGNf9ZXrnG1+LtlikogaziimcdxmVJ7D
+<br />1AaJOhpI7jZ/7kBpsM/kXcFgTBXS+tKOjdDLABEBAAG0H0Z1Z2F6aSA8bXJmdWdh
+<br />emlAc2FmZS1tYWlsLm5ldD6JAT4EEwECACgFAlMvznQCGwMFCQlmCvwGCwkIBwMC
+<br />BhUIAgkKCwQWAgMBAh4BAheAAAoJEHk2L7wbvEFBsUEH/1TTUjgyLETvgfZmMesA
+<br />s9mkmRNbIBtiKSBHfxbygkheM2iHmMt1mdFTalc4fZ0+gXaa6ttwT2HxOs66vmdl
+<br />oS/3e9Ezwd3siJLV72TflRaM9Ly0SS0TAvSS7v89OK3vDiFU5yZU/uezQVZEAwBe
+<br />agXLrHO+9GdeonA9092xTwXJuARvTDS/69NbHQXdTtqEL0fffTil5XAUApT4CyCt
+<br />tr3q4bvin6VDoOH3tExKDIvii94srs92yQToJ4NR/Xdjn0aZh41sMirlZxGmporf
+<br />wuu+dxZtxqz3+Rloidm4nTiFk+yXaSzD1McxxxKM9BMuvI0pUuHWKkUb0uJCf4xa
+<br />j9O5AQ0EUy/OdAEIAOSqyvvy41bjHKpRbCnm7aw23fuL83n3xI8zS5JwVhS4kYuN
+<br />5og+Bgl8R2SbL2MsWv2TcDNBsb34uPy9+lVCYY+87QVVvHWnaQjipJmF+JwkgyxB
+<br />+h6buXaWtQa+6+1fxsqhA9rRipEmcVi6adTalghnQZ6RItZa3FEr4HT9DiTM+WbC
+<br />NIz3LcnPWMXen6cyalKu6uCtDoyfnowFimRLL/lc4ppL0lvq59gJubQsHAc0F1EL
+<br />7pAj9hIIshWOyZUnlPqCUZAq5xLdFgbP8z3gs8Lj0fDWlZdB/DGGivJjYccrwmYX
+<br />vmUPQR10ZGdn49KkeYIGK/9g3XkvZALvwBpQKm8AEQEAAYkBJQQYAQIADwUCUy/O
+<br />dAIbDAUJCWYK/AAKCRB5Ni+8G7xBQfFjB/9R1VenqYrfxMA4WDk6LLRQX7C2Rttj
+<br />MJOqmau8M0V+Mhe/edWyOduidGBxxDDwJCtcjh9nl1w6lWKppMrzRcFEtKmcJa28
+<br />kriTgLNvEiH2Uv7kBI0eug8bhzYO5R3jHyYvvGLu/1rlSOO6qy07Oi+w7fB/XmbB
+<br />H2j3fxJe2yastnJcJMCN2hYI2wI1K5OV8wjTrVZURT316da0CPHbKyAnZjwFzLGK
+<br />EZdxUoypu0A+Jxp/nLuSDSp09PbyMIwoWd+o0cTFH1kv5prXMfk4D4hBGUbmFGQb
+<br />ely/rKfgLcrFfgr4PAS8gdBoFTRSD0jbRctOTlazxlUnri9g52Qa+5r0
+<br />=/UwV
+<br />-----END PGP PUBLIC KEY BLOCK-----</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (MingW32)
+mQENBFMvznQBCADPaGLxpEajAQEZiB9KGoBD3duESiPmcIw5wFsnKKBbJxFe6sei
+/h66qsTJxdhrImQT7fyXLCMRxHsfbwuN95zFFthu4a71/2p3bbsHcypFBiCOPjwR
+zmnd8JnxND/brKn4pEHA35JvzVGpuJ7kmBw6+qTVfNZ9T1zZVil64FQfFEf+TaTt
+0TXSg9WArR4pF5G0O8gCQf99G34/J6eh1RpHckBzbiSGEEF4VQ+qDSedFTACXb9Z
+zVdXND9FzOLQYRXgU9LrFzoFwoNVuRBtEGNf9ZXrnG1+LtlikogaziimcdxmVJ7D
+1AaJOhpI7jZ/7kBpsM/kXcFgTBXS+tKOjdDLABEBAAG0H0Z1Z2F6aSA8bXJmdWdh
+emlAc2FmZS1tYWlsLm5ldD6JAT4EEwECACgFAlMvznQCGwMFCQlmCvwGCwkIBwMC
+BhUIAgkKCwQWAgMBAh4BAheAAAoJEHk2L7wbvEFBsUEH/1TTUjgyLETvgfZmMesA
+s9mkmRNbIBtiKSBHfxbygkheM2iHmMt1mdFTalc4fZ0+gXaa6ttwT2HxOs66vmdl
+oS/3e9Ezwd3siJLV72TflRaM9Ly0SS0TAvSS7v89OK3vDiFU5yZU/uezQVZEAwBe
+agXLrHO+9GdeonA9092xTwXJuARvTDS/69NbHQXdTtqEL0fffTil5XAUApT4CyCt
+tr3q4bvin6VDoOH3tExKDIvii94srs92yQToJ4NR/Xdjn0aZh41sMirlZxGmporf
+wuu+dxZtxqz3+Rloidm4nTiFk+yXaSzD1McxxxKM9BMuvI0pUuHWKkUb0uJCf4xa
+j9O5AQ0EUy/OdAEIAOSqyvvy41bjHKpRbCnm7aw23fuL83n3xI8zS5JwVhS4kYuN
+5og+Bgl8R2SbL2MsWv2TcDNBsb34uPy9+lVCYY+87QVVvHWnaQjipJmF+JwkgyxB
++h6buXaWtQa+6+1fxsqhA9rRipEmcVi6adTalghnQZ6RItZa3FEr4HT9DiTM+WbC
+NIz3LcnPWMXen6cyalKu6uCtDoyfnowFimRLL/lc4ppL0lvq59gJubQsHAc0F1EL
+7pAj9hIIshWOyZUnlPqCUZAq5xLdFgbP8z3gs8Lj0fDWlZdB/DGGivJjYccrwmYX
+vmUPQR10ZGdn49KkeYIGK/9g3XkvZALvwBpQKm8AEQEAAYkBJQQYAQIADwUCUy/O
+dAIbDAUJCWYK/AAKCRB5Ni+8G7xBQfFjB/9R1VenqYrfxMA4WDk6LLRQX7C2Rttj
+MJOqmau8M0V+Mhe/edWyOduidGBxxDDwJCtcjh9nl1w6lWKppMrzRcFEtKmcJa28
+kriTgLNvEiH2Uv7kBI0eug8bhzYO5R3jHyYvvGLu/1rlSOO6qy07Oi+w7fB/XmbB
+H2j3fxJe2yastnJcJMCN2hYI2wI1K5OV8wjTrVZURT316da0CPHbKyAnZjwFzLGK
+EZdxUoypu0A+Jxp/nLuSDSp09PbyMIwoWd+o0cTFH1kv5prXMfk4D4hBGUbmFGQb
+ely/rKfgLcrFfgr4PAS8gdBoFTRSD0jbRctOTlazxlUnri9g52Qa+5r0=/UwV
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

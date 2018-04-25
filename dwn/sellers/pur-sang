@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="P/KZ/SwvrdsAiD/9npfgcnsxeTZOa+4Zh9OfsSopaGcPaoedageovYYWLntRtUNkjvR8ZQW1rQlSCUtZ8/Y28A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/hQ5T">Suomeksi</a></li>
+<li><a href="/register/hQ5T">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/hQ5T">register an account</a>.</p>
+</div>
+
+<h1>Pur Sang</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1982</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-19</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 4 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>
+Negatiivisella palautteella kiristäjien kanssa ei jatkossakaan aleta neuvottelemaan.</p>
+
+<p>---------------------------</p>
+
+<p>- emme toimita poste restanteen tai C/O osoitteisiin
+<br />- emme toimita vajailla nimi- tai osoitetiedoilla
+<br />- ei F2F kauppoja
+<br />- emme varaa tuotteita ellei kyseessä ole custom-tilaus
+<br />- emme anna velaksi
+<br />- maksu vain Bitcoineina
+<br />- tilaukset tarkistetaan päivittäin ja postitetaan maanantaista torstaihin (isommat erät useammassa kuoressa),. loppuviikon aikana tehdyt tilaukset postitetaan maanantaina.
+<br />- ennen kello 12 tilatut postitetaan jo samana päivänä ellei tuotekuvauksessa ole toisin mainittu.
+<br />- osa tuotteista voi tulla eri varastolta, joten varaudu useampaan lähetykseen (ei vaikuta postimaksuihin). 
+<br />- kuten suurin osa ihmisistä, käymme arkitöissä ja vapaa-ajan harrastuksissa. älä suutu jos et aivan välittömästi saa vastausta tai jos tilauksesi luetaan vasta kello 12 seuraavana päivänä.
+<br />- tilaus merkitään postitetuksi vasta kun se on jätetty kirjelaatikkoon.
+<br />- vaikka kirjeposti kulkee postin sivujen mukaan seuraavaksi päiväksi perille, näin ei käytännössä kuitenkaan tunnu olevan, todellisuus on enemmänkin 1-5 arkipäivää. jos tilauksesi on merkitty postitetuksi, meiltä kysely ei välttämättä tuota mitään muuta vastausta kuin 'odota muutama päivä'
+<br />- tiistaisin ei enää jaeta kirjepostia kuin poikkeustapauksissa, joten maanantain postitukset ovat perillä aikaisintaan keskiviikkona.
+<br />- asiakkaiden kaikki tiedot poistetaan postituksen jälkeen.
+<br />- emme ota vastaan privnote tms.välityksellä toimitusosoitteita.
+<br />- vapautathan maksun heti tilauksen saavuttua ja tuotteen hyväksyttyäsi.
+<br />- jätä palaute vasta tilauksen saatuasi, ongelmatilanteessa ota yhteyttä viestitse ennen mahdollisen negatiivisen palautteen jättöä.</p>
+
+<p>Kirjoita nimi ja osoite seuraavassa muodossa:</p>
+
+<p>Etunimi Sukunimi
+<br />Katuosoite 1A2
+<br />00000 POSTITOIMIPAIKKA</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Sain loistavaa asiakaspalvelua. Luotettava myyjä. Suosittelen!
+<em>(22.4.)</em>
+</td>
+<td>
+<a href="/products/84172">Amfetamiini 1g</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+tu***ri
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos!
+<em>(22.4.)</em>
+</td>
+<td>
+<a href="/products/103302">1mg Etitsolaamipilleri 10kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+Pi***66
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitoksia jälleen.. homma toimii ;) 
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/99676">Xanax 0,5mg 10kpl</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+di***pi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/103302">1mg Etitsolaamipilleri 10kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+jo***12
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Päivän toimitus ja tuote sitä mitä luvattiinkin. Suosittelen!
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/99676">Xanax 0,5mg 10kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+bu***ll
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeaa toimintaa ja huippu paketointi.
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/73507">Sildenafil Orion 100mg 4kpl</a>
+(77&nbsp;EUR)
+</td>
+<td><span>
+Ra***to
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistavaa, asiallisesti jälleen kerran, suuret kiitokset!
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/67835">Suboxone 8mg 1kpl</a>
+(115&nbsp;EUR)
+</td>
+<td><span>
+qa***ed
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki ok!
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/103302">1mg Etitsolaamipilleri 10kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+st***co
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Postilla meni viikko ja juuri kun oli vaivuttu epätoivoon niin paketti pamahti perille! 5/5 paketointi ja tuote sitä mitä pitää. Helvetin hyvin toimii asiakaspalvelu ja isot kiitokset siitä 6/5
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/99676">Xanax 0,5mg 10kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+Os***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/pur-sang/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.47
+
+mQGiBFh6JaARBAD4Z3C/JJdxfn1idod64cXI9FA7sKoVFhxU1MgIhUwono8/D54p
+Ph1T5yl7yEgjtfl2cIPJs37ZxwVnuVuIjchbiiirtIwP8GvdSotXTrE8kZHY4dbJ
+d76YDrxhRGXhUyI3V14hOFlscKF45JskLZ++PU6oXNFhtZFx5+aGlx4ezQCgzgr2
+esr6lKAVv/PYcZd7vMJEhpED/2LGXU10XEbm1YbCpvptHGRc3v8B3pS/oAmhhBLz
+4UKlAtCUL2xuwYUB5vpRRR1ZmVmKUs0Aia+dxT2q5wswOuOpzfgOhvCgJt22pINB
+UQmYvaz5hgXF/LNaXBTFjH+oM/p+/p2U1FB5EuctE8GGljRzlchhfAs7ITFhMHUo
+od9EBADXI41+CQnn51gBfqVjgfkjDl0AMyULlg3PnsI0+TlebqoOmDsKqsjzGGoH
+AQ5pUA9e4/H7pq3CzbLEr9XFifWNldIXhaScRmft5v8/Dmux3X1f7cgKt5/PeWq3
+h2fdCVbeztp0niDBH36iOlabtgUl1rHW5dDUAXhLK7Gf/UwKwLQQUHVyIFNhbmcg
+KC4pIDwuPohGBBMRAgAGBQJYeiWgAAoJECN3yiV/A64TY7MAoKLiB/RYutztz6IR
+3//ZyTqlqqjyAKC575ArXXQHaAU9YkDZPrpKLnBHbrjMBFh6JaAQAgCUlP7AlfO4
+XuKGVCs4NvyBpd0KA0m0wjndOHRNSIz44x24vLfTO0GrueWjPMqRRLHO8zLJS/BX
+O/BHo6ypjN87Af0VPV1hcq20MEW2iujh3hBwthNwBWhtKdPXOndJGZaB7lshLJuW
+v9z6WyDNXj/SBEiV1gnPm0ELeg8Syhy5pCjMAf4rsu2j9wX3GelJWlOw2IGFFaU9
+GqAa6XzRfaU/x7aTr5P0eReu09TJowALJ8NdWSgmdT7IWHE2XcymkNho7mqOiEYE
+GBECAAYFAlh6JaEACgkQI3fKJX8DrhOZ3ACgmoDDdSH47KSLg4TYFVajwtzLCKoA
+niivbQoJdN2bhtPAMR9KdJt9Tp/+
+=SXYq
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/99676"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/99676">Xanax 0,5mg 10kpl</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98984"><img src="/kuvat/tuotekuvat/7ac5edbb6ec578e83ce47f8172539fc843719b92.jpg?1504796308" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/98984">Ksalol 1mg 15kpl</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101812"><img src="/kuvat/tuotekuvat/5d44c94c5c358bc87f5fde8e4dda1de7d815b88c.jpg?1512068259" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101812">Ksalol 1mg 5kpl</a> (<span title='20 EUR'>20&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101552"><img src="/kuvat/tuotekuvat/d73f84a7a9a0ab272d4047fceababd8be3bfb44b.jpg?1511251916" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101552">Ksalol 1mg 75kpl</a> (<span title='170 EUR'>170&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104570"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104570">5F-ADB 0,5g</a> (<span title='12 EUR'>12&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68544"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68544">custom666</a> (<span title='0 BTC'>17.97&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104572"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104572">Furanyl Fentanyl 0,2g</a> (<span title='205 EUR'>205&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104569"><img src="/kuvat/tuotekuvat/6d6acbb919d22d23c7bec21c45e9616d04a65d89.jpg?1523707571" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104569">Gabapentin Ratiopharm 300mg 10kpl</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/58951"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/58951">Uusi osoite</a> (<span title='0 EUR'>0&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/pur-sang/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+80ln+TlxCzGP5kTwLVM/Xa1dQhMjHqwWwRuPE2hwYw2aWsPUAJkJIX6nO6syYjph6/TOn8tzIQczDytEBfkmg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/4f439d420ba7ec6b35afc70d419506553cfa28bb.jpg?1475778687"><img src="/kuvat/tuotekuvat/e3e9cad4ea1168fc2eb23593732592f06dfb808f.jpg?1475778687" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>10X ⓅⒾⓁⓁⓈ MASTERCARDS</h1>
+<ul class='list-unstyled specs'>
+<li>23.8 EUR <em>(0.003051 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/lsd-shop">LSD-Shop</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="L/2WRqkYQOngIQdSFdnTaGP18AD4IAVZ7siRmc5SaQ3iWdjWHf/g4aPkAq95pRd8ku9WMsuBs22pAMMIk+RMGw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="296252">Regular Shipping to Europe (included)</option>
+<option value="296253">Track&amp;Trace to Europe (+10 EUR)</option>
+<option value="296254">Regular Shipping to US&amp;CA&amp;ASIA&amp;RUS (+4 EUR)</option>
+<option value="296255">Track&amp;Trace to US&amp;CA&amp;ASIA&amp;RUS  (+14 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64561" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯UPDATES♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>SEPTEMBER 15 DAY : BACK ON TRACK ! Dream Market loaded!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>MARCH 25 DAY : We are on holidays till September (all summer) , please contact us if you have any problems with delivery we will chat back and solve any problems! Thanks!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>FEBRUARY 20 DAY : Nucleus and Alphabay markets loaded after Agora went down ! Thanks for staying in tune guys!</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯♯( ͡° ͜ʖ ͡°)♯Hello and welcome to LSD-SHOP!♯( ͡° ͜ʖ ͡°)♯♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />→We mean business: be confident that you can easily run a good shop without dealing with any stupid scams.
+<br />→Our objective is our happy and returning customers.
+<br />→We are seeing this shop as an company and making everything to run it sucessfully.
+<br />→Our promise is 99.99% sucessful delivery - you will get your package in all cases→
+<br />→We are shipping WORLDWIDE (with few exceptions)
+<br />→For orders over 500EUR contact us - gifts available!
+<br />→Our returning customers always gets discounts!</p>
+
+<p>♯♯( ͡° ͜ʖ ͡°)♯( ͡° ͜ʖ ͡°)♯( ͡° ͜ʖ ͡°)♯♯
+<br />We are former Silk Road I &amp; II, Agora, &amp; Middle Earth vendor, all with a perfect rating.
+<br />History on the Darknet:
+<br />→Four years in the business, still running the game.
+<br />→SR2 - 350+ sales
+<br />→Blue Sky - 50+ sales
+<br />→Cloud 9 - 50+ sales
+<br />→Evolution - 1200+ sales
+<br />→Agora 600+ sales
+<br />→Abraxas 300+
+<br />→Nucleus 1500+ sales
+<br />→Alphabay
+<br />→East India Company 200+
+<br />→DreamMarket
+<br />→Hansa
+<br />→Oasis
+<br />→Valhalla</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯DELIVERY TIMES (in business days)♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p>
+
+<p>→USA: 7-10 days
+<br />→France: ~3 days
+<br />→Germany: ~3 days
+<br />→Austria: ~4 days
+<br />→Belgium: ~3 days
+<br />→Italy: ~5 days
+<br />→Spain: ~5 days
+<br />→Rest EU: 3-8 days
+<br />→Turkey: 7-10 days
+<br />→UK: ~4 days
+<br />→CA: 7-10 days
+<br />→ RUS: 7-10 days
+<br />→Asia: 7-15 days
+<br />→Australia: 7-15 days
+<br />→Scandinavia: ~6 days
+<br />→South America: 7-12 days</p>
+
+<p>→Small orders always goes without tracking to increase security of our shipping methods!
+<br />→Bigger orders shipping by post.nl with courier option and goes with step by step tracking information!</p>
+
+<p>Terms may vary because of holidays at various countries.</p>
+
+<p>♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯
+<br />♯READ PROFILE BEFORE ORDERING FROM US♯
+<br />♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯♯</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 3.0 EUR (Regular Shipping to Europe) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103139"><img src="/kuvat/tuotekuvat/e1502363c3d2653670d18ab3027bfac3e68fe7bd.jpg?1517402627" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103139">10 X KENZO XTC PILLS</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23245"><img src="/kuvat/tuotekuvat/4f4db2a7f4e0398cd4d6faba0c052b4b5d0274e3.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23245">10 Green WhatsApp XTC pills 160MG</a> (<span title='25 USD'>20.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>581</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102458"><img src="/kuvat/tuotekuvat/a1192a33448e38d4002dd9726b8e9d9ad9a129f0.jpg?1514330801" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102458">10 x Orange Maserati 160mg MDMA</a> (<span title='21.3 EUR'>21.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/love2xlr8">love2xlr8</a></span>&nbsp;(<span class='green' title='Positive feedback'>428</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-61</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97836"><img src="/kuvat/tuotekuvat/29f5b18a4d6b4d2d6d573985324ca0b7634df628.jpg?1503331774" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97836">XTC PILLS 220 MG MDMA, 10 x FE  </a> (<span title='26 USD'>21.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23287"><img src="/kuvat/tuotekuvat/ce1dae195c277b3c0b77ac90aba1f75990c9da21.jpg?1455972449" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23287">10 Heart XTC Pills - 160MG </a> (<span title='24 EUR'>24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/highway">Highway</a></span>&nbsp;(<span class='green' title='Positive feedback'>22</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1601">Ecstasy</a>
+</li>
+<li class='active'>10X ⓅⒾⓁⓁⓈ MASTERCARDS</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

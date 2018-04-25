@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZxOVYRiS18NGif3atB7s3q/Rs6Gafhchinh0G1zXaYO4BNx5epnIoi8frI3WWzlpNsjWhphhBuwrxkbYr3kepw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Pcuz">Suomeksi</a></li>
+<li><a href="/register/Pcuz">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Pcuz">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>wirex-card</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>109</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 2977 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to our store
+<br />Your enjoyment is our job !!! Quality is our top priority.
+<br />You are doing yourself a favor if you your address encrypted. You have not even mastered for PGP, it is sufficient if at below the address field 'enctrypt with vendors PGP' the hook set
+<br />If due to circumstances of either here or in the individual listings was listed are rated point deduction, or in the event that someone neutral or negative feedback without me having contacted previously, the / the one who is set to my blacklist.
+<br />I am very accommodating and I'm sure that can be agreed at almost any complication.
+<br />Please gives your feedback until when everything went and not earlier to later change again
+<br />Please do not send encrypted messages !!!
+<br />This does not apply to the address!
+<br />Our Stealh is very high, because we use MBB Bags are absolutely Odorless.</p>
+
+<p>Willlommen in unserem Shop
+<br />Euer Genuss ist unsere Aufgabe!!! Qualität steht bei uns an erster Stelle.
+<br />Ihr tut euch selbst einen Gefallen wenn ihr eure Adresse verschlüsselt. Ihr müsst dafür nichtmal PGP beherrschen, es reicht wenn unter dem Adressfeld bei 'enctrypt with vendors PGP' der Haken gesetzt 
+<br />Sollte aufgrund eines Umstandes der entweder hier oder bei den einzelnen Listings aufgeführt wurde mit Punktabzug bewertet werden, oder im Fall dass jemand neutral oder negativ bewertet ohne mich vorher kontaktiert zu haben, wird der/die jenige auf meine Blacklist gesetzt.
+<br />Ich bin sehr entgegenkommend und ich bin mir sicher dass man sich bei nahezu jeder Komplikation einiegen kann.
+<br />Bitte gibt euer Feedback erst ab wenn alles gelaufen ist und nicht schon vorher um es später wieder zu ändern
+<br />Bitte keine verschlüsselten Nachrichten schicken!!!
+<br />Das gilt nicht für Adressen!
+<br />Unser Stealh ist sehr hochwertig, da wir MBB Bags benutzen die absolut Geruchsfrei sind.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFcDmrkBCACQKWIovtZD1NvYpC/C2WKabHHu1CXvgnp1Oa12DzkTp3KfNA7y
+Jxy89Fx2YjiRWIQ1l21OSKcaR2uL4n/NhC8++tDFaqORZ3L0Z7WciabdnkBwcQVY
+hR4TRhzoisO30xJtxPBK40ZyPrZP9AgBx+VaZ+7HQw5dBDBygjNfld8YYW/CCD6b
+vH52+F3MMUMX0RiaR0zEBLxwzOkQOuQyF6OKLV2eeqG1ts15p+KAZJTb5uwXdP5+
+IMJhP4ZpCzeyxi293s4ZSx7H5V4KNvXCv2ugL9IS2u1wwytH5K336gqkqNvgTyH5
+C3GShOFl/Y9jFk+rwTp9CeDAOzXMNAbe2b8BABEBAAG0D3dpcmV4QGdtYWlsLmNv
+bYkBHAQQAQIABgUCVwOauQAKCRAgxn6QZgj1uG4XB/0dGWcCJinZflKoPIcgDvgn
+CCr7nqCNs/8oQ5Zj+bCLs8ZzLOEs/dnMNR45aUuaXzNokJAK1t3r3zjPdVegYod8
+UOCdnaEOc1EltNQqem3ltM3ezzpcsyXBbFp6P/x5M6g4yEX1/vbfUWmSmQGVY0/j
+PZtqkF7Vf1oMWrI0U+UqMmP/PPZ6B8HwemQzsJQ/5gp816trAzr4Y13553skuW6E
+iITf2tqHgsUwyQFI/549TH2D1R7uWrZL4VobAMHkD6qYea7hpR1OrbCuhTVKgvrA
+DGluUDkwtplyRDihmAdZZNm/eydYbmubRqDSrF2UKuZI3AkVkEsS4jGPRcYlKpaF
+=0Rbz
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

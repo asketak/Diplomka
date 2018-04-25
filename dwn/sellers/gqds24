@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6shWYuquUhaEe+hhyzany3kfFfpAbAuSocGhyByn+rSJC43U6ba7wHEOQJnQwXH+a/uaeAHr7tffC9ZpZcPIvQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/LsWB">Suomeksi</a></li>
+<li><a href="/register/LsWB">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/LsWB">register an account</a>.</p>
+</div>
+
+<h1>GQDS24</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 16 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>German Quick Delivery Shop 24</p>
+
+<p>Hallo Leute,
+<br />wir sind bereits bekannt auf Alpha und Nucleus und versuchen nun auch hier durchzustarten. Die Bestellungen werden vakuum verschweißt und sicher eingepackt. Verschickt wir täglich. In der Regel kriegt man seine Bestellung schon am zweiten Tag.
+<br />Spezialisiert haben wir uns nur auf Hash sodass wir immer genug auf Vorrat haben und zu guten Preisen. </p>
+
+<p>Die Qualität unserer Produkte hat bei uns oberste Preorität!!</p>
+
+<p>Versand nur nach Deutschland und EU!</p>
+
+<p>Shipment only to Germany and EU! </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFZQVFEBCACz6lqiZpTRGR4vahyRCrCP3zTlPBROw5lizRakbKO/MWfI/oth
+r2DOokd3VUzzxtadr1vkedjBvZesGxdF+67Aya9L1DTUw4DMp9MvEbu0Z5q9IP30
+W2tApGdsu+dBu+v6tOv+hSi/hWofOZhWOzk6mq9Cgj4eOxIeBOKUYJRNK8NjswPL
+8+FW74XJ4VO5hmfMyIStc9AaBiBh3KQ/EvhBU+9SY04Kk5O75O23Q54CrwYi/nem
+GdtOp7EiQ8I+tJJB0XtD/QmlwihbfpYLZbm/dkW4wcud3iQdxkz80SboXXMDC/RI
+tO22kErdssWb/2u8mLVr6qP3gk6aNjasCLdNABEBAAG0JUdRRFMyNCA8a29udGFr
+dG51cnVlYmVyc2hvcEBtYWlsLmNvbT6JATcEEwEKACEFAlZQVFECGwMFCwkIBwMF
+FQoJCAsFFgIDAQACHgECF4AACgkQSY9TeleMGrdvsgf/RdEYHujFIprpJuONJntK
+5voQnNY7mhedz4FuzN34ToaMgHFxORRqvdN2fa3J7wDxE9XEzojbAh4v8Wc7293R
+XiLV6st3g2FpxXtv5a/l3y5xit/3QOnnMABnzy5XJ7F2AWnvRWc0TM9oTKMcHNUW
+islQoQ2y4DtixtyDGe1AxoK80Lkn3pBR4RgRVIKnOfK/Fn41Z15KUO/CLTFwrW1j
+ChcTfo85zBE7TwYNosdonbKFMp3x0GTrVwRHWjXGH9tFLx8gmj4AKHXy5pFsY5kZ
+DZQqNvzev6A04ChZkxPjqSna1/LljeHKoIY56jWXrCNBnpPbDj0URMjJZ86gEvH9
+Q7kBDQRWUFRRAQgAuiFAN/BvQLyTrlRBveC3AuIICRhbL9/pfwgiWJmFioHlv99m
+Rpoz1zVzEofa1AL8nRDN/iCiJyNdVoUq+RvZDHi4VBZaFeJml7kHB/EZWrJkr8ZA
+k3kQkLIo+6Mlf5fO6PCB3qxlPSu27/ksoORAN7m1Mm4mo7oe0EiqJXurC+VnjAhh
+dVme90wgnUVLEuGNclyO562ucdOMXAiKwsQQdpcNs0I0PUp5JMnXmV4jb9C7NJj8
+3OD1XT+Pcs5MWkdEchypa3q9/k+P0luEfDGaoEsMakQeS7SWg3Rn7YtuVsyP/oZh
+herIMqBrB8Sf8CejgxitJ8dlJp06oyOM1Sw1dQARAQABiQEfBBgBCgAJBQJWUFRR
+AhsMAAoJEEmPU3pXjBq3Y/YH/jTmsdJ7IXHc8Ob8GMpLBJ9p/ApIbKZRjHGfrsLO
+rwcH4KA5UpYlRPjYaJxx8heBiL+/MzWT9LYrShKCvIrxu18BKb8uoQ00eAznGcNj
+Z6sywqNDxiMW0BHtvYF52YC9xdFauqawbL6kwStbmHdvmUVp8SG9eeNFoBrAdWI/
+fv/kGtbGF5m6j4VRZKlOwTQ+y6FqWcVaKXXqmX6UnVy4kiuv/XRhHiJ/oP0+wyqF
+bgKbaA3tBXSV1FTyd1dl1q8seQMK6WlHAEqwsLs+61FWvKfBMFMJ79n134XrNZtU
+oQJLG/kNVE+ftkl1Qxrgiqk1ybWyaE0Wr1qKpUWL5eJ9108=
+=GJlg
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

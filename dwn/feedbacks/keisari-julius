@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OWQWG+jUP3evVK6zAjd2/6fqB/YALUuF4IJeSyE5jl3h3HFwfUBdHbDMx3eDLEgBLv0tOUhBJBc6yv3t93pOmg==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/keisari-julius">Keisari Julius</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+kaikki jees 
+<em>(18.2.)</em>
+</td>
+<td>
+<a href="/products/102431">MDMA</a>
+(500&nbsp;EUR)
+</td>
+<td><span>
+le***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki jälleen ok! Parasvendori mitä täältä löytyy! 6/5 
+<em>(14.2.)</em>
+</td>
+<td>
+<a href="/products/103168">custom janq</a>
+(675&nbsp;EUR)
+</td>
+<td><span>
+ja***qu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(3.2.)</em>
+</td>
+<td>
+<a href="/products/102431">100x Sinisiä Tesloja 180mg (HETI VALMIINA KÄTKÖSSÄ) </a>
+(600&nbsp;EUR)
+</td>
+<td><span>
+Ju***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvät ohjeet ei tarvinnu kauaa etsiä, kiitos sulle :)
+<em>(28.1.)</em>
+</td>
+<td>
+<a href="/products/102433">200x Sinisiä Tesloja 180mg (HETI VALMIINA KÄTKÖSSÄ)</a>
+(1150&nbsp;EUR)
+</td>
+<td><span>
+Mi***33
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

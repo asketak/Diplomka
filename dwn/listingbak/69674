@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cHiXn6W+ycP9hjL/4IexlBimeTNQce2QE21X5aLMhMC93NkPEVlpy75DNwKM+3WA6bzfAWPQW6RUpQV0/3qh1g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/7ef411f4ee73260e909d7edd147f02af21f78bf5.jpg?1478459861"><img src="/kuvat/tuotekuvat/0a44c3f17cb7b464a6b10735aad0e57e5a135a3a.jpg?1478459861" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>2G Lemon Haze AAAA Free Delivery 10/10 UK-UK</h1>
+<ul class='list-unstyled specs'>
+<li>23.92 EUR <em>(0.003089 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/thefarmacy">TheFarmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, Croatia</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JxYvalcCdTgwbqXo+QbOY2aVXOsAzDCj716n26h8V/vqsmH64+XVMHOroBWVegp3l4/62TNthpeolvVK9cpy7Q==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="330764">UK 1st Class Regular 5pm Cut Off (included)</option>
+<option value="330765">Registered &amp; tracked EU  (+7.97 EUR)</option>
+<option value="330766">EU Shipping 3-5 Days Regular (+3.99 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69674" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>2G Lemon Haze AAAA Coffee Shop Quality</p>
+
+<p>Absolutely Stinks</p>
+
+<p>Great Bag appeal Lovely Dense nugs</p>
+
+<p>Fluffs up nice with or without a Grinder</p>
+
+<p>"No Flat Squashed Buds"</p>
+
+<p>Top quality Lemon doesnt get much better than this </p>
+
+<p>Ratings 10/10</p>
+
+<p>Very Frosty </p>
+
+<p>Nice an Dense a little sticky to the touch   </p>
+
+<p>Smothered in THC </p>
+
+<p>Personal opinion Banging smoke,Plenty of flavor guaranteed to Hit The Spot cured to perfection with a beautiful deep flavor you will not be disappointed </p>
+
+<p>******** Delivery ********</p>
+
+<p>We aim to get your package out soon as possible we check for orders an messages roughly every half hour 
+<br />Packages are sent very very safe an blend in nice with Regular mail
+<br />All orders placed before 5pm have a very good chance of NDD But we don not promise nothing as we all know royal mail have a way of delaying our goods at times but very rare
+<br />Your order will be sent 2x MBB for extra safety </p>
+
+<p>All orders will be dealt with normally within the hour  
+<br /> 
+<br />And we only list what we have in stock at the time you place order</p>
+
+<p>We package ourselves order will not be left 24/48hrs in processing stage when marked as shipped your package has left the building an has been posted ready for collection never before</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/57012"><img src="/kuvat/tuotekuvat/ef95a7de13f39dd959a0133648d8bd154051860f.jpg?1471345476" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57012">Exclusive Blue Cheese AAA+++ 2g FREE UK NDD</a> (<span title='26 USD'>21.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97627"><img src="/kuvat/tuotekuvat/b9bacdc45d95cf376a3486567b1caebe4fa32d79.jpg?1501452950" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97627">3.5G★FREEZELAND★INDICA★A GRADE★£24</a> (<span title='26 GBP'>29.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102761"><img src="/kuvat/tuotekuvat/b0c69e1bb6c688b4093909e96ee3353c9f603b9b.jpg?1515948998" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102761">2.5g Northern Lights | NDD/UK / Best Customer Service</a> (<span title='28 GBP'>31.9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1347</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/19688"><img src="/kuvat/tuotekuvat/09a03635ebe3fef8ff82cf3c8b816738b65ec2a2.jpg?1455971876" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/19688">1.6gram Lemon haze! strong skunk!</a> (<span title='21.4 GBP'>24.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/charlieukontor">CharlieUKontor</a></span>&nbsp;(<span class='green' title='Positive feedback'>817</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90660"><img src="/kuvat/tuotekuvat/5d6eb4f08f53bfac19e849010fd9391410e33669.jpg?1490722022" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90660">3.5g Grams of good quality Pollen * SPECIAL OFFER £14</a> (<span title='16.5 GBP'>18.8&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/medicineball">medicineball</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>2G Lemon Haze AAAA Free Delivery 10/10 UK-UK</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

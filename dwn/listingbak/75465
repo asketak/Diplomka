@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t85dkRnWs6ik7OlpPSDzcGSz5QH0UINuj+UzhiyubGp6ahMBrTEToOcp7JRRXDdklalDM8fxNVrILWEXcRhJfA==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8a6256abcfaf104c44327702687e353a953a20ff.jpg?1481634673"><img src="/kuvat/tuotekuvat/860f682eb657f86e069bf63a1d87b832def7e5e7.jpg?1481634673" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>50g CNA's Aretsan Golden hash. Rubio Plus 00 filtered. 1st shake</h1>
+<ul class='list-unstyled specs'>
+<li>375.4 EUR <em>(0.048425 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/cna">CNA</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Spain &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="q1MIwrS3MnSNo6BQZZ8yfZXmf6StiMGTKhFeSBzyFtZm90ZSAFCSfM5mpa0J4/ZpZPzZlp4pd6dt2QzZQUQzwA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="372181">Spain (included)</option>
+<option value="372182">Europe (+1.4 EUR)</option>
+<option value="372183">World (+2.55 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="75465" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>50g escrow price listing for the first of our peremiere hashes.</p>
+
+<p>With the success of our midrange Amnesia and Lemon hash we have decided to up the game with the first of our top grade hash varieties produced from skunk plants in the Rif mountains in Ketama, Morocco.</p>
+
+<p>This Yellow plom hash is one of our most succesful top range hash's that we grow and transport in bulk though europe.</p>
+
+<p>This hash is soft and malleable at cold temperatures. It is not hard compressed into plaques and no heat is used either for the plaques or for sending on to our final customers. The insides of the plaques are bursting with trichromes and are of a beutiful yellow tone. This hash is highly fragrant and bubbles when next to a flame, the smell is absolutley superb.</p>
+
+<p>It's a very potent hash, we will put it forward in the running for the best hash on the dark web. Once we have some reviews in I will update as to the effects and add to the hash description.</p>
+
+<p>Stay tuned for reviews and news on our forum pages</p>
+
+<p>http://hansamkt2rr6nfg3.onion/thread/4489/</p>
+
+<p>We grow this product ourselves from seeds to buds, we prepare it ourselves and package it ourselves this all means we can offer the best prices and the absolute best qualities.</p>
+
+<p>We Also have a selection of Weed, Ice-o-lator, opiates and other hashes for sale, some up now and some coming in the future, including Bubblegum hash, Blue cheese hash, Critical Mass, Morocan yellow pollen, pure verdila, Lemon Haze hash and White widow Hash.</p>
+
+<p>We will also sell opium from Portugal, Morocco, Persia, and Astrialia,</p>
+
+<p>And many many interesting things to follow.</p>
+
+<p>Here are some images of the farms and products</p>
+
+<p>And here in thse images we have
+<br />Image 1 - 100Kg of Premiere first run bubblegum cheese hash pollen, not yet pressed into plaques
+<br />https://anonimag.es/i/4b6bb860503fe889d1c653fe59459739.jpg</p>
+
+<p>Image 2 - A half tonne of Critical Mass buds
+<br />https://anonimag.es/i/283015d776beff8bdcc9461be2297789.jpg</p>
+
+<p>Some more</p>
+
+<p>https://anonimag.es/i/e46762366ad4645eeea639e5a9b3e182.png
+<br />https://anonimag.es/i/102d89e2e31e9025fbcd94c94f88c7b6.png
+<br />https://anonimag.es/i/cb085eecbdc784ea7c09e3e6a0c6dfe0.jpg</p>
+
+<p>OK! Most important! Sign up to our forums for free giveaways, We love making new friends and chatting about random things. Such as drugs, political situations, bitcoin, security, music etc.</p>
+
+<p>We look forward to doing more business with you guys!</p>
+
+<p>Also we are giving out free samples for any of our customers that promote us on other forums, Reddit, DarkNetAvengers AB and our review thread on The Hub</p>
+
+<p>Links below.</p>
+
+<p>AB - http://pwoah7foa6au2pul.onion/forum/index.php?threads/el-cartel-del-norte-de-africa-c-n-a-weed-hash-and-opium-giveaway.110940</p>
+
+<p>Hub Review thread -  http://thehub7gqe43miyc.onion/index.php?topic=22540.0</p>
+
+<p>Hansa - http://hansamkt2rr6nfg3.onion/thread/4489/</p>
+
+<p>GRAMS - http://grams7enufi7jmdl.onion/infodesk/vendor/0x60334A019D72558C</p>
+
+<p>Reddit - https://www.reddit.com/r/DarkNetMarkets/comments/5gslr9/vendor_review_cartelnorteafrica_hash_and_flower/</p>
+
+<p>TMG - http://bm26rwk32m7u7rec.onion/index.php?topic=9221.0
+<br />El Patron</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.4 EUR (Spain) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/23732"><img src="/kuvat/tuotekuvat/4884cb1e1c32dc439d50e1c23497549f07bdfe98.jpg?1512417995" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23732"> LEMON HAZE 25 GRAM freeshipping</a> (<span title='265 EUR'>265&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1226</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24622"><img src="/kuvat/tuotekuvat/da5774db68a2012e4396a1267af51015a92a1493.jpg?1455972709" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/24622">Exclusive Amnesia Haze AAA+++ 28g FREE UK NDD</a> (<span title='335 USD'>271.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4074</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/81403"><img src="/kuvat/tuotekuvat/777ab09eb7bf80688c79e00fefe2933688f57295.jpg?1484870029" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/81403">56G TUNA KUSH - AAAA+ QUADRUPLE GRADE - BEST SMOKE OUT OF CANADA</a> (<span title='435 USD'>352.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/luciphero">Luciphero</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/39309"><img src="/kuvat/tuotekuvat/e2933cdfd9a38dd0611a9a8ea66252a12c002aab.jpg?1461763295" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/39309">5-f-NPB-22 50g</a> (<span title='354 USD'>287.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101517"><img src="/kuvat/tuotekuvat/c7a846d280e007f519e9ff5e4de73488bcf633c2.jpg?1511181528" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101517">100G SUPER POLM HASH</a> (<span title='550 EUR'>550&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>50g CNA's Aretsan Golden hash. Rubio Plus 00 filtered. 1st shake</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

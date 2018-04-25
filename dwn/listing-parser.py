@@ -3,9 +3,9 @@ import subprocess
 import sys
 from pprint import pprint
 
-# orig_stdout = sys.stdout
-# f = open('listings.txt', 'w')
-# sys.stdout = f
+orig_stdout = sys.stdout
+f = open('listings.csv', 'w')
+sys.stdout = f
 
 path = './listings/'
 

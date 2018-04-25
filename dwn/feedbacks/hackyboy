@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yzhhkzs9GUpodztGOCCcMBaiAR//xZD7Wk99by85guX7DkbgI8V+XYIxYmV4xS1VwUi2UX5bkgRhuZcFW/fwNg==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/hackyboy">Hackyboy</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+CARD NUMBER DID NOT WORK.  SENT MULTIPLE EMAILS TO VENDOR.  VENDOR REFUSES TO RESPOND TO REPLACE OR REFUND ME.  ELEVATING THIS TO A DISPUTE THROUGH VALHALLA.  DO NOT DO BUSINESS WITH THIS VENDOR.  THIS OCCURRED WITHIN 5 DAYS OF APRIL 23, 2018. 
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/33831">✪ 1 X US AMEX CENTURION BLACK CARD ✪</a>
+(32&nbsp;EUR)
+</td>
+<td><span>
+cr***14
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

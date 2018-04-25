@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hMklbupTcyQaXWHgCrLA3hXLp6RsGUILaZ35L2ZkwedJbWv+XrTTLFmYZB1mzgTK5NEBll+49D8uVau+O9Lk8Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/081d661788fc94009cb2585cf9f08ad8dc3104f5.jpg?1475589210"><img src="/kuvat/tuotekuvat/b4b4a097cbd3df4a2f008180008b7686efc22fc7.jpg?1475589210" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★ ALL PACK BOTNET 2 ★</h1>
+<ul class='list-unstyled specs'>
+<li>8 EUR <em>(0.001026 BTC)</em></li>
+<li>10 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/homodeiii">homodeiii</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uaDaYtHLPTsKCFfCywzFfb0GS/JObvujO46dq5hVYf90BJTyZSydM0nNUj+ncAFpTBztwH3PTZd8Rs86xeNE6Q==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="64180" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>BIG PACK BOTNET:
+<br />ZEUS
+<br />Cythosia
+<br />Citadel
+<br />Blackshades
+<br />video for all botnet
+<br />tutorial for all botnet
+<br />LOIC </p>
+
+<p>ZEUS, CITADEL , Cythosia</p>
+
+<p>Zeus, ZeuS, or Zbot is Trojan horse computer worm that runs on versions of the Microsoft Windows. While it is capable of being used to carry out many malicious and criminal tasks, it is often used to steal banking information by man-in-the-browser keystroke logging and form grabbing. It is also used to install the CryptoLocker ransomware. Zeus is spread mainly through drive-by downloads and phishing schemes. First identified in July 2007 when it was used to steal information from the United States Department of Transportation, it became more widespread in March 2009. In June 2009 security company Prevx discovered that Zeus had compromised over 74,000 FTP accounts on websites of such companies as the Bank of America, NASA, Monster.com, ABC, Oracle, Play.com, Cisco, Amazon, and BusinessWeek.</p>
+
+<p>Cythosia is a botnet that was done primarily for the DDoS, it supports SYN flooding, UDP flooding and HTTP flooding, it is customizable and modular thanks to its functionality download / execute and update.</p>
+
+<p>Runs on Win2k - Win7 / x86 and x64: Limited / Guest / Accounts Administrator.
+<br />Various Names and Autostart Entries.
+<br />:21
+<br /> etc etc....</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/52758"><img src="/kuvat/tuotekuvat/87112c2732c39aafa6830abc2940e31f636f116a.jpg?1476647762" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52758">★ NETFLIX PREMIUM ACCOUNT [LIFETIME+FREEBIE] ★</a> (<span title='9.99 USD'>8.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/theshop">TheShop</a></span>&nbsp;(<span class='green' title='Positive feedback'>687</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90436"><img src="/kuvat/tuotekuvat/07d1534b1df9a0ca40b99800b8c32221521ce712.jpg?1490603430" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90436">Blacked.com - [LIFETIME PORN PREMIUM ACCOUNT]</a> (<span title='9.99 USD'>8.13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/wooody">Wooody</a></span>&nbsp;(<span class='green' title='Positive feedback'>563</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/46083"><img src="/kuvat/tuotekuvat/7bdeb0f551f73dd0535c74cd8468b8a6c6a331ba.jpg?1465432391" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/46083">DECOY PARCEL DROP - WW POSTAL SERVICE</a> (<span title='6 GBP'>6.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100825"><img src="/kuvat/tuotekuvat/81e9f93ce5a40a88836c49a98f619ba7926ee1f4.jpg?1510117530" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100825">500 Ways To Make Money Online</a> (<span title='9 EUR'>9&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/smart666tiger">smart666tiger</a></span>&nbsp;(<span class='green' title='Positive feedback'>9</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/34136"><img src="/kuvat/tuotekuvat/6426028e09a91245c293e95d751eab91d58a7713.jpg?1459289345" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34136">✪ Suntrust Bank - New Cashout Guide ✪</a> (<span title='8 USD'>6.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hackyboy">Hackyboy</a></span>&nbsp;(<span class='green' title='Positive feedback'>288</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-18</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2600">Services</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2602">Hacking</a>
+</li>
+<li class='active'>★ ALL PACK BOTNET 2 ★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

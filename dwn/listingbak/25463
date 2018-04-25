@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sOk5sYOnlGiKRyv/bEIfXesnVOhrYwIMPW/Txa7hxYCBmvjqF+H9q6HCOa9MGHa4tjInU8KD+08O88ykEMgcYQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/25463">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/043952edaf614f90207fb7f9e1fd9bf66b577ad0.jpg?1480850180"><img src="/kuvat/tuotekuvat/ce97ca6c43b0da04eb7dcb06cb77edcbfe220048.jpg?1480850180" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>0.2g Premium pure HANDROLLED Organic Manali Charas (FE)</h1>
+<ul class='list-unstyled specs'>
+<li>7.53 EUR <em>(0.00081 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/danhash">danhash</a></span>&nbsp;(<span class='green' title='Positive feedback'>789</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Spain &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Manali Charas (Indica) </p>
+
+<p>FE PRICE </p>
+
+<p>Premium pure HANDROLLED organic manali charas.</p>
+
+<p>Indica strains are relaxants and are effective for treating
+<br />the symptoms of medical conditions such as anxiety, chronic pain,
+<br />insomnia, muscle spasms and tremors.relaxing and calming
+<br />body buzz or ‘couch lock’</p>
+
+<p>Effect: For everyday use, strong relaxing high. </p>
+
+<p>Best Suited: Night Use </p>
+
+<p>Availability: High quality varieties are VERY RARE. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee (4.05 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/33736"><img src="/kuvat/tuotekuvat/73bfa7b030d59128b3cffda644b5ac1d90d08947.jpg?1458935493" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/33736">1G ★★ MAROC KING HASH ★★ AAA+ High Quality</a> (<span title='10 EUR'>10&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>424</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68397"><img src="/kuvat/tuotekuvat/61125b8a2d6e8b7d83161a374cc8f9db214df6bf.jpg?1477771023" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/68397">1 Gram Hash &#39;CONIFER&#39;</a> (<span title='10 EUR'>10&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/merchant">merchant</a></span>&nbsp;(<span class='green' title='Positive feedback'>308</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-33</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38639"><img src="/kuvat/tuotekuvat/d06551559b9906c2d058a8670d7bd5364d40242d.jpg?1461593291" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38639">Durban Poison 1g (min.order 7g)</a> (<span title='7 EUR'>7&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/carlos-lopez">carlos lopez</a></span>&nbsp;(<span class='green' title='Positive feedback'>1771</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/90768"><img src="/kuvat/tuotekuvat/2a183f972e0ce1ddcae14c7dfe5eafa0b3a5c7f7.jpg?1490788002" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/90768">Big Bud 1g/Outdoor/AAA</a> (<span title='14 USD'>11.35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1102">Hash</a>
+</li>
+<li class='active'>0.2g Premium pure HANDROLLED Organic Manali Charas (FE)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

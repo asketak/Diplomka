@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="y6cDRSxos7HDfbdh5uEq2FBK4nw2Q4/1GoBERMPTVBwGA03VmI8TuYC4spyKne7MoVBETgXiOcFdSBbVnmVxCg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1d778f92fe50d386a0cf41e45d4491ddd9d7719d.jpg?1517584281"><img src="/kuvat/tuotekuvat/003b9e1823797d548d84880a6511de4ef2d1b41d.jpg?1517584281" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Benzocaine HCL ★ shipping from EU ★ 500 grams </h1>
+<ul class='list-unstyled specs'>
+<li>218.75 EUR <em>(0.028078 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pol1">POL1</a></span>&nbsp;(<span class='green' title='Positive feedback'>67</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</li>
+<li>Poland &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vPZUL2QgGUiDx4o0QKu2YpAsUJpqUv60Y0DabBbhO3ZxUhq/0Me5QMACj8ks13J2YTb2qFnzSIAkiIj9S1ceYA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="679868">1. Without tracking- no escrow ( al (included)</option>
+<option value="679869">2. With tracking-with sign ( no acc (+2.44 EUR)</option>
+<option value="679870">3. With tracking - without signatur (+8.13 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103209" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>WELCOME !!!</p>
+
+<p>Please read the rules before you buy anything!</p>
+
+<p>#############################################################################</p>
+
+<p>ABOUT PRODUCT:</p>
+
+<p>1 qty - 500 grams</p>
+
+<p>Benzocaine is a local anesthetic commonly used as a topical pain reliever or in cough drops. It is the active ingredient in many over-the-counter anesthetic ointments such as products for oral ulcers.</p>
+
+<p>CAS Number 94-09-7
+<br />Formula C9H11NO2
+<br />Molar mass 165.189 g/mol</p>
+
+<p>#############################################################################</p>
+
+<p>ABOUT US:</p>
+
+<p>Our Products are send from EU (Poland) so your package will be not suspicious because they are send from EU not from China. How we all know That most of parcels from china are captured by customs offices. You can also order a sample to check our competence and quality of product . We are open to create long-term and mutual beneficial business relationships with worldwide customers. All my products are laboratory tested. So You know what you're buying.</p>
+
+<p>#############################################################################</p>
+
+<p>SHIPPING:</p>
+
+<p>1.Without tracking - no escrow ( all countries )</p>
+
+<p>2.With tracking - with signature ( not for USA,Canada, Australia, New Zeland )</p>
+
+<p>3.With tracking - without signature ( countries from the list )</p>
+
+<p>*Shipping to Australia, USA, Canada and New Zealand only 1st or 3rd option.</p>
+
+<p>LIST OF COUNTRIES FOR 3rd SHIPPING OPTION:</p>
+
+<p>Australia, Austria, Belgium, Brazil, Croatia, Denmark, Estonia, Finland, France, Spain, Netherlands, Hong Kong, Ireland, Iceland, Israel, Canada, South Korea, Lithuania, Luxembourg, Latvia, Malta, Germany, New Zealand, Portugal, Singapore, Slovakia, Slovenia, Switzerland, Sweden, Turkey, USA, Hungary, Italy, UK</p>
+
+<p>#############################################################################</p>
+
+<p>REFUND POLICY:</p>
+
+<p>When product is lost refund is possible when order is WITH TRACKING.
+<br />We refund by resend 50% of ordered product only.
+<br />Refund is possible on this same city.</p>
+
+<p>Orders are refunded by resend 50 % after 30 days from the moment of dispatch.</p>
+
+<p>#############################################################################</p>
+
+<p>Please to check legality of the substance in country of destination before you order.</p>
+
+<p>#############################################################################</p>
+
+<p>If you have more questions, please contact us in PM</p>
+
+<p>Thank You!</p>
+
+<p>Jabber: pol1@creep.im</p>
+
+<p>#############################################################################</p>
+
+<p>Keywords:</p>
+
+<p>Aconitine Ammonium benzoate Amylocaine Atraric acid Baccatin III Bemesetron Benfluorex Benzhydrocodone Benzocaine Benzodrocortisone Benzoic anhydride Benzonatate Benzoyl-beta-D-glucoside Benzoylecgonine Benzyl benzoate Bietaserpine Bis(2-Hydroxyethyl) terephthalate Bitolterol Bopindolol Butacaine Butamben Cabazitaxel Calcium benzoate Calphostin C Camostat Chebulinic acid Chloroprocaine Cholesteryl benzoate Cocaethylene Cocaine Copper aspirinate Copper benzoate Cortisuzol Cyclomethycaine DCW234 10-Deacetylbaccatin Delphinine Denatonium Deserpidine Dibenzoylmorphine Diethylamino hydroxybenzoyl hexyl benzoate Digallic acid Dilazep Dimethocaine Dimethyl terephthalate Docetaxel Erythrosine Estradiol benzoate Estriol acetate benzoate Ethopabate Ethyl benzoate Ethylhexyl triazone Flestolol 3-(p-Fluorobenzoyloxy)tropane Heptylparaben Herkinorin Hexobendine Hexylcaine Hydroxytropacocaine Iscotrizinol Isobucaine Leonurine Magnesium benzoate Mebeverine Meprylcaine Metabutethamine Metabutoxycaine Methoserpidine Methyl anisate Methyl benzoate Methyllycaconitine Metsulfuron-methyl Narceine Nitracaine Norcocaine Gabexate Gallocatechin gallate Lidocaine HCL BASE Ortataxel Orthocaine Otilonium bromide Oxybuprocaine Paclitaxel Padimate A Padimate O Paeoniflorin Piperocaine Piridocaine Pitofenone Populin Potassium benzoate PRL-8-53 Procaine Propoxycaine Propyl benzoate Proxymetacaine Pseudaconitine PYR-41 Reserpine Rhodamine 6G Risocaine Sodium benzoate Sodium methylparaben Strictinin N-Succinimidyl 4-fluorobenzoate Tecarfarin Tesetaxel Testosterone benzoate Theaflavin-3-gallate Thiomersal Tricaine mesylate Trimebutine Triptofordin C-2 Tropacocaine Tropanserin Veratridine Benzoate Benzoates benzocaine lidocaine </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102174"><img src="/kuvat/tuotekuvat/ab89c715b892e03aaf6f425c6431d52d3d2e7875.jpg?1513219735" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102174">❤3.5g Cocaine ★ MotherPearl QUALITY ★ SALE 15% ❤</a> (<span title='210 USD'>170.77&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/74114"><img src="/kuvat/tuotekuvat/68415dbbdbd933e4e66ce77438ab29feccbc36c8.jpg?1502924359" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/74114">UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g FREE UK </a> (<span title='260 USD'>211.43&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4070</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85078"><img src="/kuvat/tuotekuvat/a310ff9a17649e601d6cf07f74c7d2f3a92e0133.jpg?1486740537" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85078">☆ 100G Speed Paste ☆ A+ Quality ☆</a> (<span title='180 EUR'>180&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2359</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93651"><img src="/kuvat/tuotekuvat/6b2b3b72d81fa70840de2669bd4a80518a072bc5.jpg?1513837704" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93651">PURE.COCAINE.3.5G.</a> (<span title='225 GBP'>255.63&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96609"><img src="/kuvat/tuotekuvat/9b865cab7964f423f92c2f752e91d6413ec16cfe.jpg?1499873441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96609">2G ULTRA CLEAN COLOMBIAN COCAINE 91% 🌟🌟 [UK2WW]</a> (<span title='155 GBP'>176.1&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ukwhite">ukwhite</a></span>&nbsp;(<span class='green' title='Positive feedback'>1527</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-14</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1202">Cocaine</a>
+</li>
+<li class='active'>Benzocaine HCL ★ shipping from EU ★ 500 grams </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

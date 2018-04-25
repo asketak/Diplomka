@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JGxWANc/0q5KkEOndDK3ypcjGkBOXhCmYeQdnmAj4u7pyBiQY9hypglVRloYTnPeZjm8cn3/ppImLE8PPZXH+A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/c5ed0f85d649e21b73d75edf3a476f62912bcc83.jpg?1486403550"><img src="/kuvat/tuotekuvat/be2ea55d75b249f274f9bad89f5cd975aa41ac44.jpg?1486403550" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>OXYCOTIN 20MG, 40MG, 80MG </h1>
+<ul class='list-unstyled specs'>
+<li>8.14 EUR <em>(0.001045 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/qzfwrty">qzfwrty</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Zgh/mZ7Sxin4qZzUmlpFu88HTcgvhe5SV4sqDKpmJQGrrDEJKjVmIbtsmSn2JoGvPh3r+hwkWGYQQ3id99AAFw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="84364" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Actavis Promethazine with Codeine purple cough syrup 16 oz, 32 oz
+<br />Klonopin,
+<br />Opana 10, 20, 30 and 40 mg,
+<br />Xanax SR 2 mg ( brand Upjohn)
+<br />Xanax 2 mg ( Pfizer LongBars),
+<br />Valium 10 mg Bensedine
+<br />Valium 2mg, 5mg and 10mg,
+<br />Oxycodone-APAP ( Wattson labs) and ( Physicians tc.) 10/ 325mg,
+<br />Oxycontin 20mg, 40mg and 80mg
+<br />Norco Yellow tabs Watson,
+<br />Xanax 1 mg Upjohn footbals,
+<br />Nembutal ; powder,liquid and pills form.
+<br />Xanax 1 mg ( blue Ksalol),
+<br />fentanyl brand name: duragesic 5-12 12.5 mcg/hr patches box,
+<br />Demerol ( Meperidine HCL) caps 8,
+<br />ACTAVIS PROMETHAZINE,
+<br />KETAMINE CRYSTAL,
+<br />EPHEDRINE,
+<br />AMBIEN 10MG,
+<br />morphine 30MG,
+<br />WATSON 325 10MG,
+<br />WATSON 853 10MG,
+<br />VICODIN 5MG,</p>
+
+<p>VICODIN ES 7.5MG,
+<br />EPHEDRINE 30MG,
+<br />Celebrex 100mg,
+<br />Codeine 15mg,
+<br />Hydrocodone Watson 540 10/ 325,
+<br />WATSON 540 10/ 500,
+<br />OXYCOTIN 80MG,
+<br />OXYCOTIN 20MG, 40MG,
+<br />HYDROCODONE 10MG/500MG,
+<br />HYDROCODONE 5MG/500MG,
+<br />METHADONE 10MG, 40MG WAFERS,
+<br />Lorcet - ( Hydrocodone Bitartrate/ Acetaminophen) 10 mg/ 650 mg,
+<br />AMBIEN ( Zolpidem, Stilnox) 10 mg,
+<br />seconal (chemical name-secobarbital),
+<br />LO LOESTRIN FE,
+<br />ADIPEX-P 37.5MG,
+<br />###### 100MG,
+<br />Lorazepam 2.5 mg ( Ativan),
+<br />Clonazepam 2 mg ( Rivotril),</p>
+
+<p>CIALIS 20MG,
+<br />Percocet 10/ 325,
+<br />Norco - ( Hydrocodone Bitartrate/ Acetaminophen ) 5 mg/ 325 mg,
+<br />Percocet 5/ 325,
+<br />endocet 10/ 325,
+<br />hydrocodone-ibuprofen (brand name:vicoprofen),
+<br />suboxone,
+<br />subutex,
+<br />watson 540,
+<br />Dilaudid 8mg,
+<br />Soma 350mg,
+<br />Adderall 30mg,
+<br />Ritalin 10mg,
+<br />Tramadol ( Ultram) 50mg,
+<br />advil pm,
+<br />Atarax 25mg,
+<br />gold,
+<br />FIORICET (BUTALBITOL 50MG) - MIKART
+<br />Hydrocodone 539,
+<br />Roxicodone 15mg, 30mg,
+<br />Opana 40mg,
+<br />CALL OR TEXT CUSTOMER SERVICE 531 333-2375
+<br />ACTAVIS PROMETHAZINE  
+<br />KETAMINE CRYSTAL, CRYSTAL METH  
+<br />EPHEDRINE  
+<br />AMBIEN 10MG  
+<br />morphine 30MG  
+<br />WATSON 325 10MG  
+<br />BLACK TAR, CHINA WHITE, COCAINE </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sRuKy4Nxd/EwumYAEWZiIqvZKHg/emnd8SzjQNY9ZIycQz+6V6RgdQjJM1GJkMOEORA2K0OapAl/PkBbVevBhQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/tXCk">Suomeksi</a></li>
+<li><a href="/register/tXCk">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/tXCk">register an account</a>.</p>
+</div>
+
+<h1>BlackFriday</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 40 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>BlackFriday since Evolution!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+=NHCI
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

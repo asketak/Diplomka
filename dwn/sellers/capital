@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Z9pyEIXw2ivneh9hQX9Z0QkkoBdbtztztDHF/LVe5zaX6XHkO2Wplz+I1IM2mH58KNwUh1BCaW+WRNBjn2SVnA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/xeyXCQqq">Suomeksi</a></li>
+<li><a href="/register/xeyXCQqq">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/xeyXCQqq">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Capital</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>136</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-12</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>///   +++Postitus Ma-To ! +++</p>
+
+<p>///   +++Maastokätkö PKS 50€ joka päivä !!! +++</p>
+
+<p>///   +++JOS PAKETTI JÄÄ JOSTAIN KUMMAN SYYSTÄ SAAMATTA NIIN OTATHAN YHTEYTTÄ !! /// KORVAAN TOKI JOS JONKILAINEN NÄYTE ESITTÄÄ!! +++</p>
+
+<p>///   +++ Kysy bulkkitilausten hintaa erikseen minulta +++ </p>
+
+<p>///  +++  EI F2F KAUPPOJA +++ </p>
+
+<p>APVP KRISTALLIA TAAS VARASTOSSA RAJOITETTU ERÄ !! 11.5 </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFZdyv0BCADTapMXZCECa2OJXYFPyUFCyetUh/tp9fBdkU7E6h69hTTz8smb
+EPu8UUnZ9bGQEWewFvuFIe/7SlQHvuRQnjbV79aTwARZflFaR0KbmTEKM5GbZRC4
+i1brD559dbzxaQeT/zW7h0VJkFNnKyNNGAhxvR5xMGonjCkxEyeGOPHZi+PgnY9D
+PSwt1Ga7svL/MmYHUQFbwweAUmc3hf1fRV+EC3HmEfDvvPOClRye/imYA1i1R4Vx
+S0tolMoRlsy0DLoJ06ERg4qYQTRQN8xYo6Ut0Iyad1o5eUX9GH5IZXO50bOyhOWe
+ZZCYq7TlmZPJCX5HBTRzKv1g+wYTwsBjr8XZABEBAAG0HkNhcGl0YWwgPENhcGl0
+YWxAbWFpbDJ0b3IuY29tPokBOQQTAQgAIwUCVl3K/QIbAwcLCQgHAwIBBhUIAgkK
+CwQWAgMBAh4BAheAAAoJEIYzowt9oOZwVxEH/iTs83SgEl5KhZq3xoYVlbEsN6AB
+Bhy9Ss0PPHSY6+7x4/AMudOvihKpOoIvfk6PwR32TdQ+ohX7CUURq15HYeEKEPpS
+TFdULAgxEbFiX/bQpjw5DOymEgP4T9i30sTZbU5ArnbY5/FAlrPH06O450wsOZuf
+UqruS7Yk/7FvvmIFrvmWMdxrVNJUCQq7zAgxeLltWtzFMs7AzbchTobmHZ4UWGp1
+kUbCcj3gblribvdotiU4L07zCDpQf/vRyjt2wMi/C1Y9Xy2tthxtnxsUtigeFy/Z
+BMZEsYXVwHXNApMjXinb5Gl5AmqUPUQgSZnh0K7dEzS5PrBwLZS+1B9Ognu5AQ0E
+Vl3K/QEIALVfk4c38nzaHsgBPrjoLbZCTyanyLbV6kJiVecrsPCou32KmvUz0bqf
+9QslZg3R0ni78Y1gobC5WK9bv/SU2Ag1kw5iukzVPVoWw4hdAJ8fxwcRiUmUaNwp
+RBbccv27Ss8aiJ67INJb7+bF47vP110FbN5+ltzJeleZqjmjAARo4ww4kSqVRswb
+XSH4ZWVoZMt92bpCFKigXMqLT3gdWp5MnLHKDhxMpcQ1LY7OyYTn4n/glTRx+uzy
+uuVKOcf8/8npT0sK+OL1XSLv0uItyknRRcC1v9g912fVZxKjr9+LHqou79RRlyyb
+w+3f5/YEQa1wEDJDq+2AYOdwCu3r6r0AEQEAAYkBHwQYAQgACQUCVl3K/QIbDAAK
+CRCGM6MLfaDmcITqCACw908HTOYmifCKM9F6Cc8gnVyG9jOcx0pC9AdYQ17tZkHb
+sIy7IUhMbnfhR81iagFjmX12Xo6J3K38NIPvvJM1U96wjyeHGzQ8grlFjdRYiasC
+jCwotuEkaXKztKid1be81K6HB69yAn9Qk1fIWEvChiB77JrXFGdXUduszKmXP/4x
+3txMOZWot5ZAPTh2PHTy0GmuxWjMx5yOU0+QYVyjE5wvF47FhASNC+sVC6/uNlT2
+aK70D71M3Z67K+Hv/O8W/mzEKLyGnfz0rd1DFdpxs6hC4ScHguPoK9CWEy+wDzmh
+ja7IvOXrY5tK0usz2Xm6aMufL119ZvMog2Fwv4Uj
+=gRHt
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

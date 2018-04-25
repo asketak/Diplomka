@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5XRmvbN0C24g27QK4ltEwcr9HG5mLN/jx28raUTg8T0o0CgtB5OrZmMesfeOJ4DVO+e6XFWNadeAp3n4GVbUKw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/c0bcc93567887ade8672ceb196192fd615aa2a8f.jpg?1488615751"><img src="/kuvat/tuotekuvat/c89da8e8c10e035b587a6822f151abb9b70c9c0c.jpg?1488615751" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>5g SAPPHIRE OG [85% indica]</h1>
+<ul class='list-unstyled specs'>
+<li>125 EUR <em>(0.016049 BTC)</em></li>
+<li>8 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/salamanca">Salamanca</a></span>&nbsp;(<span class='green' title='Positive feedback'>917</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eAuNDUm6yLXaj4UXCSt/D4OODqJDqfp1YsaNVfGFl0W1r8Od/V1ovZlKgOplV7sbcpSokHAITEElDt/ErDOyUw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="87531" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>SAPPHIRE OG</b></p>
+
+<p><i>Sapphire OG is a cannabis hybrid with really intense flavours and aromas: an amazing blend of petroleum, pine, chocolate, citrus and flowers. Its effect, both mental and physical, starts with a pleasant euphoria-producing effect and finishes with a nice feeling of relaxation. The whole process is highly potent as well as incredibly long-lasting. Everyone will enjoy the relaxing serenity it leads to.</i></p>
+
+<p> 
+<br />** STEALTH SHIPPING **</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/100967"><img src="/kuvat/tuotekuvat/461148878732ff93ab19577fa7dff0689333b65c.jpg?1515222331" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100967">❤ 28g CRITICAL + ★ Weed ❤</a> (<span title='160 USD'>130.21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102441"><img src="/kuvat/tuotekuvat/6be95d4b318877e2d0597f3fb65a12a57d3ab19e.jpg?1514200050" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102441">5g Pure Power Plant</a> (<span title='95 EUR'>95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/savula">Savula</a></span>&nbsp;(<span class='green' title='Positive feedback'>70</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100182"><img src="/kuvat/tuotekuvat/a79f44eb9aea3fd66a40c1bc5d43a8bc632d4cdd.jpg?1508254357" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100182">DURBAN POISON  28 GRAMS</a> (<span title='199.98 USD'>162.74&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101587"><img src="/kuvat/tuotekuvat/6ee09ca1da76933b6deb0670662f594eb7089ca3.jpg?1512415725" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101587">SUPER SILVER HAZE 10 GRAM </a> (<span title='109 EUR'>109&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/76207"><img src="/kuvat/tuotekuvat/0fb2d296035236e668d78b413d796916947dcf3b.jpg?1519230254" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/76207"> Critical Kush 5g </a> (<span title='110 EUR'>110&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pienipilvipuoti">PieniPilviPuoti</a></span>&nbsp;(<span class='green' title='Positive feedback'>1136</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>5g SAPPHIRE OG [85% indica]</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

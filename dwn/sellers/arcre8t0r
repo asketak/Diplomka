@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jDxTcVHgIEloH0gUBtQOklZS8OhV11rnQJXubnY9O/mcguOBbDqdXSLKF4mJH9HgENvR7VI7fUe21FNvFBtOzA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/nryn">Suomeksi</a></li>
+<li><a href="/register/nryn">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/nryn">register an account</a>.</p>
+</div>
+
+<h1>ARCre8t0r</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>1</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 5340 EUR</li>
+<li>Last signed in: about 10 hours ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Germany</li>
+</ul>
+<div class='description'>
+<p>▄︻̷̿┻̿═━一</p>
+
+<p>▄︻̷̿┻̿═━一</p>
+
+<p>▄︻̷̿┻̿═━一</p>
+
+<p>▄︻̷̿┻̿═━一</p>
+
+<p>▄︻̷̿┻̿═━一</p>
+
+<p>▄︻̷̿┻̿═━一</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<p class='text-warning'>
+Vendor has changed PGP public key recently!
+<a href="/arcre8t0r/pgp-historia">See previous keys</a>
+</p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+DfzyilmQnvFzH8G3t8HNYl896iGQ
+=7M5P
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/86641"><img src="/kuvat/tuotekuvat/c55e4a0b3348c93e3d1c560f5394318c25b8f42b.jpg?1487782663" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/86641">Ruger SR9</a> (<span title='1752 EUR'>1752&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102030"><img src="/kuvat/tuotekuvat/b58c324d7f4452922d2a3e1dd9acb53e709516f5.jpg?1512931537" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102030">UNSERIALIZED AR 15 </a> (<span title='2642 EUR'>2642&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78055"><img src="/kuvat/tuotekuvat/68990a2d97881c0b3e4f89928369452f978da849.jpg?1483313862" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/78055">AR15</a> (<span title='3042 EUR'>3042&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78054"><img src="/kuvat/tuotekuvat/5657807229b6fe60d8d9c32f58dba273d39064e1.jpg?1483313684" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/78054">AR 15</a> (<span title='3042 EUR'>3042&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100012"><img src="/kuvat/tuotekuvat/ce5fa325ed03b7ede2a12e6822aa50f724013975.jpg?1507835110" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/100012">customlisting Ruger SR9</a> (<span title='1892 EUR'>1892&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103309"><img src="/kuvat/tuotekuvat/6a7e62460900e57b4f954cc0d3561136d2a849d0.jpg?1518128318" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103309">Custom Listing for B**l*k*v - UNSERIALIZED AR 15 </a> (<span title='2542 EUR'>2542&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103499"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103499">Custom Listing for C**R****- </a> (<span title='0.56 BTC'>4248.33&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/81785"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/81785">Çustomlisting</a> (<span title='387 EUR'>387&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94321"><img src="/kuvat/tuotekuvat/3f36de8ffae15f2b24571651a54074cb35e25709.jpg?1495147537" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94321">UNSERIALIZED AR 15 + 150 AMMO + EXTRA MAG</a> (<span title='3142 EUR'>3142&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/arcre8t0r/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

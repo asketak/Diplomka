@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HogEDK8fU+m4az8mP93KEFhSDJ37ycCRLG20RRbpzq3TLEqcG/jz4fuuOttToQ4EqUiqr8hodqVrpebUS1/ruw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d96a3c332efb74ccd9e84a76493a07b873a7a90d.jpg?1470745044"><img src="/kuvat/tuotekuvat/fe84d008dd96dec4c2d8816bf5a348d579dde96f.jpg?1470745044" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>2g Mexican Magic Mushrooms &amp; Free shipping</h1>
+<ul class='list-unstyled specs'>
+<li>12 EUR <em>(0.001539 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/amsterdam-dream">Amsterdam Dream</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TJC1NcnYscmaJY9uBL+gj+ETTkAzWhvRJ0T55TnK5B+BNPulfT8RwdngipNow2SbEAnocgD7reVgjKt0ZHzBCQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="224636">Domestic (included)</option>
+<option value="224637">International (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="53993" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>2g of whole Mexican magic mushrooms guaranteed high quality and high potency, professionally indoor grown.</p>
+
+<p>Super Stealth: sealed with mylar packaging. Not detectable by dogs nor X-ray machines.</p>
+
+<p>Due to our capacity to grow these in high quantities, we also make these mushrooms available at the cheapest price on Valhalla, Dream Market and Alphabay Market.  No bad surprise, order with confidence ! These mushrooms are the exact same quality as other vendors, it s just that as we grow big quantities, we can make them really cheap.</p>
+
+<p>We are a team coming from Dream Market where we are established since 1 year now (link to our profile: http://lchudifyeqm4ldjj.onion/contactMember?member=amsterdamdream - +650 sales). </p>
+
+<p>We are also active on Alphabay (http://pwoah7foa6au2pul.onion/user.php?id=Amsterdam-Dream - 87 sales), and Outlaw, Minerva.</p>
+
+<p>The mushrooms are sent out through envelopes fitting the mailbox, no signature needed. The labels are professionally printed for more stealth.</p>
+
+<p>******************************** The quality of our magic mushrooms ********************************</p>
+
+<p>We strive to offer you an excellent quality of hallucinogenic mushrooms directly coming from Amsterdam and grown with particular care in the right conditions (everything is biologic also of course) to ensure you a nice and clear trip! </p>
+
+<p>The mushrooms are also super fresh (they were cut a few weeks ago) and were cut at the right timing to ensure a perfect psilocybin dosage (the active ingredient). </p>
+
+<p>And finally, they were dried with care so that the psycho-active compounds can be preserved for many months.</p>
+
+<p>These mushrooms are sent out whole, not in powder. </p>
+
+<p>*********************************  Effects of the Mexican Magic Mushrooms *********************************</p>
+
+<p>The historical mind-altering effects of psilocybin are described as a voyage to the spirit world. These hallucinogenic effects are similar to those of LSD.</p>
+
+<p>Like many hallucinogens, the sensory effect is the most dramatic. Typical magic mushroom doses cause a feeling of relaxation, heaviness, strange light phenomena, surfaces seem to ripple, shimmer, or breath and enhancement and contrasting colors. </p>
+
+<p>In higher doses, visuals include sense of melting into the environment and objects that warp, morph and change solid colors. Auditory effects include an increased clarity in music. The music is sometimes accompanied by visual hallucinations of colors. There have also been reported heightened senses and increase acuity for details of the surroundings that make every simple action such as showering or riding a bike seem more rewarding and sensational.</p>
+
+<p>Positive emotional effects of magic mushrooms would include feeling of wonder and bliss. </p>
+
+<p>Some reported intense episodes of hilarity, such as laughing for the duration of the experience. </p>
+
+<p>In higher mushroom doses, there is a feeling of unity with nature and with a higher power.</p>
+
+<p>Effects would also include increased ability to concentrate on memory, feelings of time dilation, epiphanies about life and abstract and distractive thought patterns. </p>
+
+<p>As the dose increases, significant amount of time will be spent by the individual in deep introspective or philosophical silence. The individual loses touch with reality and their egos may undergo separation. </p>
+
+<p>The loss of reality increases with the ever increasing dosages.</p>
+
+<p>************************************************** Dosing ************************************************** </p>
+
+<p>Individual brain chemistry and psychological predisposition play a significant role in determining appropriate doses. For a modest psychedelic effect, a minimum of one gram of dried cubensis mushrooms is ingested orally. </p>
+
+<p>- 0.25-1 gram is usually sufficient to produce a mild effect, </p>
+
+<p>- 1-2.5 grams usually provides a moderate effect. </p>
+
+<p>- 2.5 grams and higher usually produces strong effects [1].  </p>
+
+<p>- 3.5 dried grams (1/8 oz) would be considered for most people a high dose and likely to produce an intense experience. </p>
+
+<p>For many individuals doses above 3.5 grams rapidly become overwhelming. </p>
+
+<p>For a few rare people, doses as small as 0.25 grams can produce full-blown effects normally associated with very high doses. For most people, however, that dose level would result in virtually no effects.</p>
+
+<p>Effects usually start after approximately 20-60 minutes (depending on method of ingestion and what else is in the stomach) and may last from four to five hours, depending on dosage. Hallucinatory effects often occur, including walls that seem to breathe, a vivid enhancement of colors and the animation of organic shapes. At higher doses, experiences tend to be less social and more entheogenic, often intense and spiritual in nature.</p>
+
+<p>It's nearly impossible to overdose on Psilocybe mushrooms since one would have to consume nearly their entire body weight in fresh mushrooms or ≈1680g of dried mushrooms[2]. Nevertheless, the effects of very high doses can be overwhelming. Depending on the particular strain, growth method, and age at harvest, Psilocybe cubensis mushrooms can come in rather different sizes. It is recommended that one weigh the actual mushrooms, as opposed to simply counting them.</p>
+
+<p>    Only take mushrooms when you are in good mental health, for instance you should not be depressed. Also important is that you are in good physical health and that you have no bacterial and/or viral infections like the common cold or the flu.</p>
+
+<p>    Do not use mushrooms if you are alone. It is preferable to use them with a person that has taken mushrooms before.</p>
+
+<p>Food and drinks</p>
+
+<p>    There has to be plenty of drinking water for everyone.
+<br />    Direct access to sugar containing drinks (dextrose) is strongly recommended. In case you want to lessen the effects this is what you should take.
+<br />    When taken on an empty stomach, magic mushrooms will have the best effect. Consume magic mushrooms at least 2.5 hours after your last meal. You can expect the effects to start within 20 to 60 minutes, depending on the rate of your metabolism.
+<br />    A portion of the cubensis species 15 grams. In dry weight this is 1.5 grams. Never take more than this. Not even when your friends already feel the effects and you don’t. Just wait a little longer.</p>
+
+<p>Surroundings and people</p>
+
+<p>    The people you will take them with should be people you like and trust.
+<br />    Take mushrooms because you want to take them and not because other people convince you to while you’re not completely confident in doing so.
+<br />    When you are scared of the potential effects, DO NOT TAKE MAGIC MUSHROOMS!
+<br />    Make sure that one or more people in your company will be the so called ‘sitters’. This means that they will stay clear from taking mushrooms. In case someone will need attention they can take care of that person. Read more about sitters.
+<br />    Keep the next 24 hours free from appointments. Take your time for magic mushrooms. The idea that you will need to take a train soon or that you have a job interview will stress you and will take a lot of beauty out of your trip.
+<br />    Switch off your phone. Most people will not be able to react rationally in the event they are confronted with bad or good news. Others also switch off the doorbell so they won’t be disturbed.
+<br />    Take magic mushrooms in a quiet environment with no or very few strangers (people that do not belong to your group.) Being in nature or perhaps indoors is advisable. Magic mushrooms are no party drugs. Festivals and concert halls are not good places to do them.
+<br />    Make sure you know how to be able to contact the local emergency services.</p>
+
+<p>Other drugs</p>
+
+<p>    NEVER take magic mushrooms in combination with other drugs. Especially not with alcohol and also stay clear from cannabis use.</p>
+
+<p>During the trip</p>
+
+<p>Drink plenty of water. As nice as the effects of mushrooms can be, your body recognizes the active ingredients as toxins. Your body needs water to remove these chemicals from your system. Caution: Do not think that if you do not drink water that the effects will last longer or will be intensified. Your body will just take water from other places in your system because the removal of this toxin will be a priority. The consequence is that you will dehydrate and this can be very dangerous. The trip will be of the same strength and duration anyway.
+<br />Do not use alcohol or other drugs before, during or after your trip. This is so important that we repeat this statement. One of the effects of mushrooms is that your mind jumps from one thought to another in high speed. Alcohol slows down your reaction speed and will be responsible for your thoughts to start running in loops. This is extremely unpleasant and can easily cause a bad trip. Also, when using alcohol you are prone to dehydration.</p>
+
+<p>The journey</p>
+
+<p>Relax and follow where they will bring you. The effects of mushrooms are mind-blowing. This means that your senses work on a higher frequency when intoxicated. You will experience things that you would normally not see or realize. These visions are often enigmatic and are not always what they seem. The beauty lies in puzzles. This can be frightening at times, but just go with it and don't try to fight it. Blocking it will work against you.</p>
+
+<p>Needs</p>
+
+<p>What makes people different depends greatly on their background. No person is alike and it is the same with their needs when they are tripping. Some love to chat, others prefer to be silent. One wants to make love, while another doesn’t even want to be touched at all. It is good to be able to communicate about this at forehand and you will understand the importance of surrounding yourself with people you like and trust.</p>
+
+<p>Waves</p>
+
+<p>The effects of mushrooms come and go in waves. This is also noticeable in how one undergoes the strength of the trip. It can happen at a certain point in your trip that it might feel that the effects are fading. Do not eat more magic mushrooms to increase the effects again! After only a few minutes you will find the effects will increase again without having to do anything.</p>
+
+<p>In case of a bad trip</p>
+
+<p>When you take our advice to heart, the chances of “a trip going bad” are greatly minimized. However, it might occur that a person in your group didn’t follow our rules so strictly. When a person has a bad trip you will notice it. This person will start reacting very anxiously. Here is some advice on how to deal with this situation. It is best that the person that is sober (the sitter) will take care of this person.</p>
+
+<p>    Never lose the person out of sight, for he or she can suddenly try to take off. This person should never be and feel left alone.
+<br />    Seek a quiet place where this person can sit or lie down. Have him or her focus on breathing calmly.
+<br />    Give the person sweet things to drink and perhaps to eat as well. After a few minutes the effects of the magic mushrooms will slowly start to get milder.
+<br />    A bad trip generally will last just as long as a regular trip. For the person in question it might feel that it will never pass. Comfort lies in convincing them it will all be soon over. Again, having them take sweet beverages will help to decrease the length of the trip.
+<br />    When you think after a while that you have done the best you can do and this person is getting unmanageable you will need to get in contact with the emergency services. In Europe this number is 112. In the United States it is 911. Always be completely honest to the services in what is happening to the victim and what this person has taken as intoxicants.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/15857"><img src="/kuvat/tuotekuvat/b472b130c79a22ebde10da76fb1e855ad8da54cc.jpg?1499838660" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15857">LIQUID MUSHROOMS [Pure Psilocybin]No Nausea, Faster Trip, Cleaner</a> (<span title='19.95 USD'>16.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/tripwithscience">TripWithScience</a></span>&nbsp;(<span class='green' title='Positive feedback'>2235</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/30489"><img src="/kuvat/tuotekuvat/ad09debbacd77e5ecfd4f484fee05f82a7cc2fe2.jpg?1457422796" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/30489">SUPER MARIO paper blotter, 10 papers ,</a> (<span title='10 EUR'>10&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thefrenchconnection">THEFRENCHCONNECTION</a></span>&nbsp;(<span class='green' title='Positive feedback'>42</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23301"><img src="/kuvat/tuotekuvat/114d94a374a9c873f969f35bcbe13434ff844e83.jpg?1455972451" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23301">2 LSD Blotters 180μg - Anonymous </a> (<span title='12 USD'>9.77&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thewizzard">TheWizzard</a></span>&nbsp;(<span class='green' title='Positive feedback'>43</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94327"><img src="/kuvat/tuotekuvat/73fa083f66f64513036ce80a44bc9f026e1ddcd0.jpg?1495184617" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/94327">4-HO-MiPT  100mg 4homipt 4-ho-mipt free shipping</a> (<span title='14 USD'>11.39&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/psilomanufacture">PsiloManufacture</a></span>&nbsp;(<span class='green' title='Positive feedback'>598</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-28</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100614"><img src="/kuvat/tuotekuvat/5e6cf433c9dd2164b7a5c23687c63a78cda8eb55.jpg?1509261372" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100614">2 x 18mg 2CB Pill - UK NDD</a> (<span title='10 GBP'>11.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1702">Mushrooms</a>
+</li>
+<li class='active'>2g Mexican Magic Mushrooms &amp; Free shipping</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

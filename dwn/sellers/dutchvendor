@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="173bObzspdsSQRzdhn4xE8WludCliFOFuvbiUHtKDVhnk7Mrr2QNLe2P+bihV/STn+W6TZqIa+aqAbJmk8H4VQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/FrgP">Suomeksi</a></li>
+<li><a href="/register/FrgP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/FrgP">register an account</a>.</p>
+</div>
+
+<h1>DutchVendor</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>4</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 481 EUR</li>
+<li>Last signed in: 1 day ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Netherlands</li>
+</ul>
+<div class='description'>
+<p>Dear customers,</p>
+
+<p>My name is DutchVendor and I have very high quality standards, that you will experience in my products and service.</p>
+
+<p>I'm a good seller on multiple markets. When you order from me, your order will be shipped the day after you placed your order. Orders on Friday will be send on Monday. I pack with very high standards and I choose my stealth carefully.</p>
+
+<p>I will always try to respond to all your questions within 24 hours.</p>
+
+<p>Delivery times</p>
+
+<p>– FREE SHIPPING!
+<br />– Germany estimated time can range from 2-6 days (often it will arrive in 1-2 days)
+<br />– Europe estimated time can range from 3-14 days (often it will arrive in 3-6 days)
+<br />– Worldwide estimated time can range from 7-21 days (often it will arrive in 7- 12 days)
+<br />– Placed orders will be packed and sent within 24 hours, after this period your delivery time will start as described above.
+<br />– Please inform us by mail, from the site where you placed your order, about your order in case it did not arrive within the maximum delivery days as described.</p>
+
+<p>Shipping Label Details</p>
+
+<p>When placing a order, please make sure that the following data is present on the shipping label:</p>
+
+<p>Line 1: Full name
+<br />Line 2: Street address with housenumber, post office box number
+<br />Line 3: Postal code, town name, province or state
+<br />Line 4: Full country name</p>
+
+<p>For more info:
+<br />http://www.addressdoctor.com/en/countries-data/address-formats.html</p>
+
+<p>We are not responsible for incorrect details provided by the the buyer.</p>
+
+<p>Orders above 200 EURO Require FE
+<br />Orders below 200 EURO Do not require FE</p>
+
+<p>Refunds and reships:
+<br />(if you have more then 5 sales here on this market.)
+<br />1 option for reship for 50 % payment /refund 50 %</p>
+
+<p>Please always send me a message when something is wrong and I will work it out.</p>
+
+<p>Terms of Business:</p>
+
+<p>- When ordering you have read our profilepage and accept the terms of business.
+<br />- We ship our products all over the world, except domestic, USA, Canada, Israel and Sweden.
+<br />- When we noticed that our customers haven't finalized the order, we will take the money after 2 weeks. This means there is no option for a reship or refund any longer.
+<br />- All discounts and bonuses are within our prices. That makes our prices according to the quality very good.</p>
+
+<p>If you have any questions please send me a private message.</p>
+
+<p>Best regards,</p>
+
+<p>DutchVendor</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFS8ZPUBCACoOtrchvXGn2YzpdNWIqcOyjIHTREeOZ2TFulWFwJElUqBDXtl
+HitCeoLfbJW38gAxbHOPms+YHVKinJ5ZaujRCMbRG8WF/5vxjzXY2S1LJO1wLw1D
+TUsC74IhipDpis/I7CWdWFUfVyNA7hMIMHxZeznz3PsDaqrgQb40afgLBjc7nDQ8
+rQTbiUNlDgOL+nPcWIxlOw4dzFfw+bYQmxtKFhhQW5SoqIJj1losr6yWopcURSQ1
+xqH7INRDDbUnR04dUQH2/q3mdz/G5NFYCRln8RivVrMnLVuMBY+k4aB3FOazMDaW
++LwAs7i92LV+/J1/J2twnB2mv4KzzXJOxP35ABEBAAG0NER1dGNodmVuZG9yIChk
+dXRjaHZlbmRvcikgPGR1dGNodmVuZG9yQGZha2VtYWlsLm9yZz6JATcEEwEKACEF
+AlS8ZPUCGwMFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AACgkQtYa1goRhvHSlcAgA
+jwu+u8L9uZSsIOIreDOojebOxeB58D8Edy7v6wGVSyim5dTN787HHyTc9gcjoYRn
+jhwUmz9k0tZ9a8koScuWdCuMWCD48ooMvhNWz91ZRwcU1qb4hUysAC9R6WgaNc40
+KzOR6ntp+f6TuC034QpKAsp+vZSBOa+RgMcc8pD/EaBS0AqgeSLyIShlDUWMB2rG
+qt065kZyOET2yyZfezxUEbL3MPsc7mzEb4k1p9xn2vtuVA1Bkk8eelPzAuyOIZik
+9AAiupSnU3LlXztomn3RFZRSlx3mmb7z/mlq55nVU5lMsp9ma0ISG4HmcMAElyfj
+TLisaFDrLqHIhKKJv3Q4brkBDQRUvGT1AQgA9bDT2QIytChz/1Li6IU0Zi5gRAmR
+dvmyTZecom8FcRwpG9XI6SR/DlDvGwHCqR3CR4C2CjsI0chODmAjhz7XKv3Rz05g
+0c/K2Z/Xl4ITcg7s2hpgC/NSKtxBRhWSAWl7ouODgNbp34D6qRyw2wa3moanlXHf
+PFRIf5LDVr/CHl8KYWKZj1ywh8wdxclxx/TC8bvp3TKB+rDtH602PjYH3l4o6X3s
+Fvp6zPgFwe+zexdfbzxmXOdL/n5lC5bm4APxaLptSVmnENmY2bygHlvrYNmXatmn
+TL+pdQZwqxjwCAbWwVU5aMRF4uoijHqRb4TvZfNu8Hm1ci29cnb/SPpM8QARAQAB
+iQEfBBgBCgAJBQJUvGT1AhsMAAoJELWGtYKEYbx0TpsH/37iU6vCQ8rwuu8pMnJ8
+biyk6yR1VI1qiRQ6DCsdn8VRKYl8/uE81+eCpsdXEo6f3yLV5Kvbnu5T3d5iF3oP
+blngklUx+FHpUC7u1VMKyvLne8sAhbd9nL9453c0+Y/3xKufuAsv1EUlnWDTSERb
+7a6+aZNkUS1egkehe4cybw/72bBaszLpPMtgLL4fwsy/M5Va1tVLeOUQGK6YuDJK
+BQUQwPBsRXWcEFqk77Dx7V5WubZz0HfZtlwGW2a4xXSO2++kzPxjt9wb7x+6hCF1
+/V06pASGrTFz0FIMJClfsbKlC0LWxdvigjYqI2JAdkNaaS4SbEgIZxqEPCG6zRKR
+eSg=
+=lkNm
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/24895"><img src="/kuvat/tuotekuvat/ee53f0a0de4b6f019304c14ebede0e620742959e.jpg?1455972759" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24895">5 pcs. Yellow Playboy XTC pills *170mg* - FREE SHIPPING!</a> (<span title='15 EUR'>15&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24901"><img src="/kuvat/tuotekuvat/db00a918ef2fc204209e7013dcd3d1d8a1a7e09b.jpg?1455972760" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24901">25g MDMA brown Crystals 85-89% - FREE SHIPPING!</a> (<span title='220 EUR'>220&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24899"><img src="/kuvat/tuotekuvat/68e7424f1bbea84d2e05e9cb0aa8777d148a578d.jpg?1455972760" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24899">100g MDMA brown Crystals 85-89% - FREE SHIPPING!</a> (<span title='750 EUR'>750&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24999"><img src="/kuvat/tuotekuvat/fd4a4d4a09f3842f297360f4710648aef5bb434a.jpg?1455972778" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24999">50gr Speed Paste Amphetamine - FREE SHIPPING!</a> (<span title='115 EUR'>115&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24997"><img src="/kuvat/tuotekuvat/36ff0c7cb8477bdd334da3f513e91edffaaffaa9.jpg?1455972778" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24997">500gr Speed Paste Amphetamine - FREE SHIPPING!</a> (<span title='784 EUR'>784&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24996"><img src="/kuvat/tuotekuvat/ad19f2d5eac47830acb279968aa864952d9e6252.jpg?1455972777" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24996">1000gr Speed Paste Amphetamine - FREE SHIPPING!</a> (<span title='1460 EUR'>1460&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/24887"><img src="/kuvat/tuotekuvat/0382f18fcd3fe785099423516e0045e2deb67ba2.jpg?1455972757" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/24887">2x Dutch LSD Blotters *160µg* - FREE SHIPPING!</a> (<span title='11 EUR'>11&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/25007"><img src="/kuvat/tuotekuvat/1b12660befef92a25bf4781d6e80d18466280107.jpg?1455972781" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/25007">2.5g White Widow Weed *Dutch Quality* - FREE SHIPPING!</a> (<span title='24 EUR'>24&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/25005"><img src="/kuvat/tuotekuvat/85fad167d15920467699593f2b7a9967a81a078c.jpg?1455972780" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/25005">10g White Widow Weed *Dutch Quality* - FREE SHIPPING!</a> (<span title='90 EUR'>90&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/dutchvendor/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

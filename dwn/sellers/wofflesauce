@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Uv1QgY0drsNyN3irIMxrxtgwleffaTe8G98Q8Ft/eLMlhHsYYZX/uBd3QTiYRR0FWd4lGDmgyxE+yewz+FMnKA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/h29y">Suomeksi</a></li>
+<li><a href="/register/h29y">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/h29y">register an account</a>.</p>
+</div>
+
+<h1>WoffleSauce</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 20 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFYCIrIBCADTpdP8R63mUyufRwcbwe6t1MPZsK+sePLihsDCCbyQB3mRbZqu
+f6PhPMJXDxcOAyApwMhhqIliXOQRCZ8lNK3K6tfdfMMWFFgc8rUVPdNH1Q2zyak6
+XMAvPjdmumniWvpRkbLb89Cwk0bIYFAC2XVqRnVWjrnyN01+TgnXGTL2nhfl4L4H
+1gr9N6fM+FziLWL7BC/K3+anOiY65OmK5TDs3Hr1mEFuKrkNhrTbWxvS0cpxb+pq
+kawqE49cfiW0GDZbOPjRJDw+oLuz7hE/dEpuPqDWbMeoegRcl5WSg2Q02uTQBf8a
+GNTMjUovSA181FyPMblBkfjD/Y0AlL7mCAO9ABEBAAG0LHdvZmZsZXNhdWNlIDx3
+b2ZmbGVzYXVjZUBzdHJlZXR3aXNlbWFpbC5jb20+iQE5BBMBCAAjBQJWAiKyAhsD
+BwsJCAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQjHEnHtJv9tnVHAf7Bq7n9HBm
+pzkqzdT8MTiAtlhgU5E610Q127Kseo7nv+frJ80tgT/B78Yl586YRick39YW0HTV
+Sm37S4hyZXzliFpi24XuwWlEx5H96jtSJ9zN7j8tnswXv9BlkWYSx1YLA5/fA1VW
+UCzVnx5bk0JZT4EQRdsbHO4iSyMlXdNZXb6i/5gQGU1PIBCThuzt435aPBT/kgHn
+vitEwP/NA6Rdtf4jHeiPlMjwC/1kj+yeJJi4eHinYCeE1XwmaCZuRxl9u0+pAtQv
+aw7PGcFf/IShgoybu/e7m9fb6+W7h+27WuzgDBda/y7qMMYpB61FBgy/+YCz/C86
+M1jCEcxvl8Ro6rkBDQRWAiKyAQgA0Dd9vBbKvHKt9DYHR59bwzkkDe9qBV0COHVz
+gvIUN5tiAi3IRe1jU7coxDRl666tFYEsCmWy9mj+H6tFtflroVLDDPZfIDfuzlFM
+0z7cEGCVVU9wEMAFGozmIBN/uUhTfIeHflxWrOT1Sm5GFIbUck741zu0lq0f9XVZ
+ImvNqCFdMWoVenQ4woLjQWuSVPtz8MehOa+B3C4WlkjNZxJ4VQRNwHh8DL8G4CeB
+DbqeDnQpGZV+d1p23SKolWa0pZtlhEVwJA0mqFPigi/vQr0/4BSXdocK9USDhX28
+1b01LtNC96+o0Lt5GOHLNOHIF1j2ogBYAeIlF/4xOS7vpr6zjQARAQABiQEfBBgB
+CAAJBQJWAiKyAhsMAAoJEIxxJx7Sb/bZ/lcIALyzTpVr93b1UkejG5XT4CvVG1uq
+IiEukuLEs0gAoLhiWSsteJT8trmk7jvmaEXuNisln6FiHkgjBOM/Y4JAOA+8Q/36
+KVI4Sd6JrwdLJquGMVO4dGkaxAMt/fM0sE42pV7wGDjIPY3NfMT2O1nv4ioR88yY
+PlvzF1q1aXawTCES3+QtxvU+NBbeCVaBC8PUX/+523TjzzIXPLjmG9HAXfmwSur7
+yfeqmy8hDw2JeBVyJj4VGPBihq2HIu7dRWEyWtzus86yr/1lO0jE6MjBgFYfWkrb
+GanpgadFe7MNOqUGOyTo7Fik3zUsOF2d8ZenW0D3WQiy0sy1m3aJajUSLsc=
+=of/T
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

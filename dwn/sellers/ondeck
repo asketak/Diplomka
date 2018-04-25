@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="16sWzGmfzMEw8nVMHLFtxkhfuSGlB0zPKIImnD1zRWvqEZS+wcA6oV97GUwHiCkEkyL+3QQZHHlxkO+pQ059Mg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/kMRAnQqq">Suomeksi</a></li>
+<li><a href="/register/kMRAnQqq">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/kMRAnQqq">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>OnDeck </h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>8</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 1964 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>I came to this market the exit of Abraxas and agora and used alphabay a while but like this layout I ship out same day or next day I offer free shipping my main interest is pills because my father owns a pharmacy so I have unlimited supply at low prices </p>
+
+<p>ALL ORDERS SHIP  FROM USA TO MOST OF THE WORLD</p>
+
+<p>I have a few rules use PGP on all addresses and use REAL NAME </p>
+
+<p>I only offer reship ment on orders that have not arrived in 15 days and it will be at a 50/50 split </p>
+
+<p>Other then that order with confidence I'm about business not bullshit </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=mzVN
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2b+8aiMdU3UBcM3AindXpF/7ziPbY6Ti2fE7EL3aEi3mXkQWGGgDRCbyKVMO1saZfFPw3HPVYBBgWrnkqQDqgQ==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/galaxystore">GalaxyStore</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(10&nbsp;EUR)
+</td>
+<td><span>
+Du***uo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+++
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/102970">⌛0.5g Crystal Meth | ICE ☯ GalaxyStore  ☯ FINLAND ONLY ⌛</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+al***to
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(21&nbsp;EUR)
+</td>
+<td><span>
+p2***ki
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+En o saanut mun tilaus! paska myyjä!
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/102991">⌛5g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ch***ng
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+pu***ze
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tilin täydeltä paskaa. Kusetushommia
+<em>(17.4.)</em>
+</td>
+<td>
+<a href="/products/101895">⌛1g Crystal MDMA 82% ☯ GalaxyStore ☯ FINLAND ONLY ⌛ </a>
+(75&nbsp;EUR)
+</td>
+<td><span>
+Wu***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tilaus tehty yli kuukausi sitten. Ei koskaan saapunut perille, laittoi jotain kusetus linkkiä Refundista. '
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+Sk***or
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+kusetus
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/101895">⌛1g Crystal MDMA 82% ☯ GalaxyStore ☯ FINLAND ONLY ⌛ </a>
+(75&nbsp;EUR)
+</td>
+<td><span>
+le***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+kusetus
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/102974">⌛1g Fishscale Cocaine 88% ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(150&nbsp;EUR)
+</td>
+<td><span>
+le***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+da***ue
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(17&nbsp;EUR)
+</td>
+<td><span>
+17***07
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+Sc***at
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei tullut tilaus perille. :(
+<em>(15.4.)</em>
+</td>
+<td>
+<a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+Sk***oy
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(10&nbsp;EUR)
+</td>
+<td><span>
+Sa***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Noniin. Totuus tulee ilmi. Jätkä on hyvä jätkä :)
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+he***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Vitun kusettaja! Bullet to the head for this fuckin thief!
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/102970">⌛0.5g Crystal Meth | ICE ☯ GalaxyStore  ☯ FINLAND ONLY ⌛</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ka***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.4.)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(14&nbsp;EUR)
+</td>
+<td><span>
+th***ve
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€25+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+kusetus älkää ostako
+<em>(10.4.)</em>
+</td>
+<td>
+<a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+ro***ti
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.4.)</em>
+</td>
+<td>
+<a href="/products/102979">⌛10g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(230&nbsp;EUR)
+</td>
+<td><span>
+Sp***42
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+&quot;Hi,  From the moment of sending your order there has passed enough time and you haven't received your order.&quot;  Voi vittu, juuri näin!
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+Li***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+dR***im
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Joo kusetus on ja ovela sellainen. Onko kaikki plussat on hänen omilta tileiltään? Miten tällaisen annetaan jatkua kun ei edes eka laatuaan häneltä
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102979">⌛10g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(230&nbsp;EUR)
+</td>
+<td><span>
+sp***da
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+kt***xf
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+no delivery. SCAM. attempted to scam also credentials to this webshop
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+th***ra
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(140&nbsp;EUR)
+</td>
+<td><span>
+pe***91
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(70&nbsp;EUR)
+</td>
+<td><span>
+ar***sv
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102974">⌛1g Fishscale Cocaine 88% ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(150&nbsp;EUR)
+</td>
+<td><span>
+Ma***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tuotetta ei näy. Refund scam -linkki sen sijaan tuli.
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/102991">⌛5g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Di***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+ROTTA!
+<em>(8.4.)</em>
+</td>
+<td>
+<a href="/products/102978">⌛5g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+Ku***ko
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+tarjoo paskalinkkiä.. vittu näitä maksu-etukäteen myyjiä.. oli kyllä viimeinen kerta
+<em>(8.4.)</em>
+</td>
+<td>
+<a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+ol***ue
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+joo sama homma täälä lupailee 50% rahoista takas tai sit lähettää kokonaan uuden paketin ja ekasta tilauksesta on menny jo 17pv. ja refound linkkiä tulee tänne myös
+<em>(8.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(50&nbsp;EUR)
+</td>
+<td><span>
+cy***nx
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Kusettaja on.
+<em>(8.4.)</em>
+</td>
+<td>
+<a href="/products/102991">⌛5g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Po***on
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Kusettaja paska ilmeisesti. Vaihdan kyllä positiiviseksi jos tuote tulisi eikä mitään vitun kusetus linkkejä refundiin....
+<em>(7.4.)</em>
+</td>
+<td>
+<a href="/products/102997">⌛2g Crystal MDMA 82% ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(125&nbsp;EUR)
+</td>
+<td><span>
+Ha***oy
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+joo tavaraa ei näy ja refund linkkiä tarjoilee..
+<em>(7.4.)</em>
+</td>
+<td>
+<a href="/products/102977">⌛2g HQ Amphetamine  ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(70&nbsp;EUR)
+</td>
+<td><span>
+Pa***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Huijari! Varmaankin kaapattu myyjän tunnus? Jos menitte  &quot;refund&quot; linkin kautta kirjautumaan niin vaihtakaa salasana heti. Cheater alert! Probably stolen dealer account? If you logged in from the &quot;refund&quot; link, please change your credentials!
+<em>(7.4.)</em>
+</td>
+<td>
+<a href="/products/102974">⌛1g Fishscale Cocaine 88% ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
+(150&nbsp;EUR)
+</td>
+<td><span>
+Au***vi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    
+    
+        <span class="page current">
+  1
+</span>
+
+        <span class="page">
+  <a rel="next" href="/galaxystore/palautteet/2">2</a>
+</span>
+
+        <span class="page">
+  <a href="/galaxystore/palautteet/3">3</a>
+</span>
+
+        <span class="page">
+  <a href="/galaxystore/palautteet/4">4</a>
+</span>
+
+      <span class="next">
+  <a rel="next" href="/galaxystore/palautteet/2">Next &rsaquo;</a>
+</span>
+
+      <span class="last">
+  <a href="/galaxystore/palautteet/4">Last &raquo;</a>
+</span>
+
+  </nav>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

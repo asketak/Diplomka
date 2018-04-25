@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="c/jsvS+vCoAmMfbPyUsp5nhpcPrCg8feUeKm3Qwy/Ou+XKItm0iqiGX08zKlN+3yiXPWyPEiceoWKvRMUYTZ/Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5935581ad36fee8e8c7f8eb0c1ac23546ed917e6.jpg?1489717956"><img src="/kuvat/tuotekuvat/7b59e9277a174e93ce9198a6b7308699fe4dc1cf.jpg?1489717956" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★ OPENINGSOFFER ★ 20E ★ 1GRAM OF 85% CRYSTAL S-KETAMINE</h1>
+<ul class='list-unstyled specs'>
+<li>20 EUR <em>(0.002564 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/tripledutchdelivery">TripleDutchDelivery</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>Netherlands &rarr; Worldwide (<em>except</em> United States, Canada, Mexico, Brasil, Argentina)</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k0bee4FWIgnprOlbWoPVGyvJLudX+ADUURYraYX9SYNe4pDrNbGCAapp7KY2/xEP2tOI1WRZtuAW3nn42EtslQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="477353">Europe (included)</option>
+<option value="477354">International (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="88992" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>★ OPENINGSOFFER ★ 20E ★ 1GRAM OF 85% CRYSTAL S-KETAMINE</p>
+
+<p>TOP STEALTH AND SHIPMENT IS INCLUDED</p>
+
+<p>TripleDutchDelivery comes from AlphaBay and we are now also introducing to Valhalla!! </p>
+
+<p>Our team is known for our top-notch high quality products, great stealth and a professional team at your service! Check AlphaBay for our top ratings and 100% positive feedback.
+<br />To celebrate our Valhalla Opening we are coming with great openingsoffers!!</p>
+
+<p>Don't be fooled by the price, this is our openingsoffer to show you what we stand for.
+<br />Top Quality products, Competitive Prices, Super Stealth and the best service of our TripleDutchDelivery Team!</p>
+
+<p>We offer top quality Ketamine. 85% PURE CRYSTAL S-KETAMINE, LAB-TESTED! </p>
+
+<p>Also keep an eye on our future offers of top quality products which will arive very soon!!</p>
+
+<p>OUR PROFIT WILL BE YOUR FEEDBACK!!!! :-)</p>
+
+<p>TripleDutchDelivery
+<br />★★★
+<br />At Your Service</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/71694"><img src="/kuvat/tuotekuvat/698266744fbc781256be59af215484103a53e80a.jpg?1516624714" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/71694">1G OLD DUTCH KETAMINE</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/16288"><img src="/kuvat/tuotekuvat/bda726259e7a80a2906763a291b9100d5d64e3ec.jpg?1455971004" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/16288">1G Ketamine S Isomer 94%  £23 (special price)</a> (<span title='23 GBP'>26.17&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/hiddenhands">HiddenHands</a></span>&nbsp;(<span class='green' title='Positive feedback'>981</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100622"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100622">4 grams KETAMINE - S Isomer - ENDLESS SUPPLY!!!!!</a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/14792"><img src="/kuvat/tuotekuvat/e238a78e17e18759b3b02869997734e3b83bfdf1.jpg?1455970669" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/14792">0.5g - Salvia Divinorum - 20x Extract</a> (<span title='25.2 USD'>20.51&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52965"><img src="/kuvat/tuotekuvat/60acf42e0668da0278fec347a0b7f0f7e0cb77ac.jpg?1478801870" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52965">KETAMINE S(+) CRYSTAL 0.50g - UK NDD</a> (<span title='15.6 GBP'>17.75&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1800">Dissociatives</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1801">Ketamine</a>
+</li>
+<li class='active'>★ OPENINGSOFFER ★ 20E ★ 1GRAM OF 85% CRYSTAL S-KETAMINE</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

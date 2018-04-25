@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="z1llsG2ZNe/GHs8gmyN6IkbUzmg+Mx0jd/LcQjPKfDje6OQ8RUKJoRm6l7Dynui0JdtjT/31l8WRIYea2GgCVA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/S8qv">Suomeksi</a></li>
+<li><a href="/register/S8qv">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/S8qv">register an account</a>.</p>
+</div>
+
+<h1>doctoracab</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello, I am a new vendor on the DN.
+<br />▶My mission is to make you happy and provide at your doorstep always what you ordered, quick and secure.
+<br />✈ SHIPPING
+<br />▶ Choose your right option for national or international shipping!
+<br />▶ Choose between standard and ✯✯✯✯✯ stealth shipping!
+<br />▶ How to write me your address: use PGP
+<br />▶ Write address in your national standard</p>
+
+<p>✦ Please DO NOT provide information about the shipping or packaging in your comment.
+<br />This is important for everyone's safety!</p>
+
+<p>✦ A good feedback would help me much: ✯✯✯✯✯ :)))
+<br />✦HELP: If you have any problems or questions don't be shy and contact me before giving any bad feedback. I want my customers to be happy.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFXTpy4BCACmGc+b/kZdb8RhrSw5EmPrCIapcqZhbv/ZFzexa86y+z6CSmwZ
+8Ncau/dYcqgU5yfFVeUAgqjUPQIFlOd4wgMgZug9vdIMPkxr9d0Xdx4lZ9KXrXQ4
+7IIrr+csMfhWB+ULyyQ1Y8n/LmRjQofwl0dYelwT/kvs+K5iZf8teRLvkzFJRMaI
+ZX4aqq58522LWOrISX0nXvs/3X9CGCrJ1FrxOxYBUTMHJPOTaC2sF2usQ4H1kGRk
+40FPG3kxhG26D90g6pK4eHloR8nHGtnQzz2XTYdG1pfF2VmMa7IZCLDukK+XKyYh
+K7O4hsB+4n0McsPHNaYFLW8Jv7KTqhT7t3brABEBAAG0FmRvY3RvcmFjYWJAaG1h
+bWFpbC5jb22JARwEEAECAAYFAlXTpy4ACgkQIkMnIGbcZs7TaQf/crvwahnqdaML
+R71Cv2nQM9lKHFyKSo33eQSWjZMajRCC8/Iv/Ilvgy/sukYI3PntJazo2mF1s5Et
+OeqnIRgeqWBOej+bbOtizvcRwozj9vHFyaO2U09KpA5NrTA9CnRGcY9kh2HeZ6aI
+zBZGuK9F7MEfIpIPYhVXq2TIIuRy/WQZHf+3LFqpSWpsN6G1ULHdZY65Gt8iodxh
+yn6RgrcFoKBoSW7g8vBPWNoB6xDcm1b5lcG1D3/kIrnDwFBEVJ4tHuz0EmQI8i9O
+z+qC+2rcvribDXimb540U8ntmvLAe7n4VYDiuCg1hHlRFynH/Z1PudAnLUo4yoZy
+NsUllp6lSw==
+=MN2c
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

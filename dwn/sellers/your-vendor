@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PWQYlQWLjOLvVye/B7LeqGWje3QB8miN1Whwg0yHdgSUzWAVycqC9rzYpcBzyTl8OOdhxCSKVPU5VzjKzPgg0A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/4hY8">Suomeksi</a></li>
+<li><a href="/register/4hY8">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/4hY8">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>your-vendor</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>156</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-10</span>
+</li>
+<li>Total revenue: 4895 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Greeting from our store.
+<br />we are selling a couple of different drugs. 
+<br />Our synthetic weed can be smoked public, 
+<br />but attention it is very strong.
+<br />Even when you stopped from the police, the drugtest
+<br />will show nothing.
+<br />For stealth we use smellfree MBB Bags. 
+<br />Please send us your adress correct, to make sure that your order
+<br />arrive.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PRIVATE KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+lQOsBFXpc7MBCACb1rfFvRCqNjs638ajpC7uPiSyLV/+Xy0KkAU/1onqq7TsryXr
+eaMkIrQG4wX5J7tw1BZ5NMDHLsTce1bGnTtMAIfymFB288Ys/ajCM25I2fKBJ+JN
+zp9RGz4jeEsbv1Dm+70ChFHFxhwqIoaB7uEFu3EYEiYSMU8al3no8KMKnm3/YdNu
+8dy0qksXlgdoQgIRzUru4SGKylM6sc30/x9dUZb77n/UAO/qA5m8WEg+Bh9HLzC+
+KVoK8i0j4aKU6ve4BzH2aDslqS8gHM1lIM/MUKLpjG/qZT8guvlttbgXJuf17JZG
+1AUwKIKKRhPON3VcuhSOTCwPaTp9vMPq4ruXABEBAAH/AwMCylk5mM048ZJgq3k+
+4ZLPbUGFsBxT8ahJ6xiHoTdAE6s4ectwN2olPOn1lKdU2MMjuIK3KJJU13lTkT1+
+Bis+QULdFWO1qojfQE1U9FojNrtPiWCNzKFQKnhiwt1RXaHVaxNyLSexnFAjg/73
+JHDNPXphYSyT7lEyhtyMbnQ8ggdAz5t5Oe+JRv6iYj05qpFBRXBVWelkxaYxuhaF
+2LNPUmiPo424YAbxGV/k5MpQZPwNjSlZEppRlYaMcQNyKuwwa2N4L7kXpeVenqIR
+ixLE6sM0MgANvw6z/+l+Kk+9f4RFF+gU14jt6UcoxAR7wDQ8A6b2J6CB47aO0/HN
+G8Mc+5lKIhRwmOkns36f5vt1mpYaNTEYibGcqnCiIB7MGGGUn0pfZteViyZEYFO/
+sOUNCDysSDNUaJ16plDe1DTINwnnl18MlZuSdf3WSk+T/L/nhZIw89VCI2GqBQtr
+DSSWSTz1bZzCb5AeW42LYgmXyI2VERdl402JmLv8vZntnmJjuxw436gxgHfoGwXv
+gR7uEFeTuu9fxT2egsl7DVmGQbuTHzpAplHnPDWZOJPOYg1DaKLfZQIqpBr74Ll/
+mFLt8mF6P8Emio74UTITBav1uGn9HTdbfH7DpWDSjaAszDBB14yFAqFge3zKJksd
+6kqvltuL2i15VuqMHgYgCC4ehClXVCc+h938pxOfwQCSNCJTO/oo2MMaB9w1MrXf
+h8MtFboR8XjkwRu7l2sOQ8ixTrvk8E+3zsNXOeEOTJNKgXa95AQPknwR9uDPeL2s
+qXevPCRHjncdegM4hdkgftTxehFcaQaVsdpTNdl9GEtJIG7Y5HDpWy/B/fkTzhg6
+eXFomsZUxu6orhQrQJTTQlvFE8+UXDD7MfJQ1Wk4n7QAiQEcBBABAgAGBQJV6XOz
+AAoJELzw6VJHE7V/F+4IAJT6oj79NdacDXXI+odDeGLK0xT7+K6WBWwoyKxiUpD+
+C4iaq55AF6ujkHD5ip8cV5Zrh4fTyeZhZnXKKg+dYvu1Z1aiM7n8epw/oQe8pT5o
+G1AWIjJGv9Z3v6uP9Jq0q59Fj/6sW9V3smCsHGOzfbCnCkmibwKFyngay0ipGL1j
+isPKY8iC7+h+MQJqMbkKhUebB7qU68wyBH8UnjwIvVymNuIY7mNIgBoaELIww4ou
+88sWMbVKEoe0fqa+hUj8OPFcCWqvd9vqlxIHMwRcK6bAkKfGkMnwLofNhj3JBbCz
+S3fVbeEFVSGKradFkP2hTCmRJI/s8HZitvBIzPNrfy0=
+=iJ0h
+-----END PGP PRIVATE KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

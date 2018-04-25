@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AFWV6mxoV5C9V57EUUdFdUEbqzLOvSTYpij9PUxAlCBea7CHDIBAIOvIwcsAWn5b5jzDZDLej6Re7SjbLtrvUw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/eexf">Suomeksi</a></li>
+<li><a href="/register/eexf">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/eexf">register an account</a>.</p>
+</div>
+
+<h1>Access2</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>***Access2***</p>
+
+<p>Get Access2 high quality marijuana products!</p>
+
+<p>CURRENTLY ACCEPTING ORDERS FROM:</p>
+
+<p>United Kingdom, Austria, Germany, Ireland &amp; Italy.</p>
+
+<p>Welcome to Access2,</p>
+
+<p>We are a network that specialise in sourcing the highest quality marijuana products at competitve pricing.</p>
+
+<p>Current stock:</p>
+
+<p>UK Cheese - High quality, intense sweet taste &amp; aroma. Well-formed chunky &amp; dense buds, covered in trichomes.</p>
+
+<p>Moroccan Polm (Indica) - High quality Moroccan polm hash. Indica dominant effect. Clean and strong with a very soft texture, easily rolled in hand without heating.</p>
+
+<p>Moroccan Polm (Sativa) - High quality, blonde-type Moroccan polm hash. Sativa dominant effect. Very clean and high strength with an easy-to-crumble texture.</p>
+
+<p>Moroccan Polm (Indica II) - High quality Moroccan polm hash. Heavy indica effect. Dark &amp; dense texture, can be rolled with hand-heat and finger pressure. Full flavour.</p>
+
+<p>* * *</p>
+
+<p>PRODUCTS:</p>
+
+<p>Our products are sourced from a variety of regions, however the majority of our bud is fresh from Holland and our Hash/Polm from Morocco. Ranging from fruity flavoured sativas to couch-lock indicas, we only sell the best and will never ship you anything of poor quality. All images on our listings, including microscopic, are original and taken by us, of the actual product you are purchasing.</p>
+
+<p>COMMUNICATIONS:</p>
+
+<p>We will respond quickly and promptly, all your messages will be responded to within hours or minutes, never days (unless announced in advance). All our commincations to you will be via your PGP public key. Please import our public key and encrypt all communications with us. We strongly advise you activate 2FA on your account to prevent it being hacked.</p>
+
+<p>SHIPPING:</p>
+
+<p>Orders placed before 2.30pm (Mon-Fri) will be sent same-day &amp; first class (International orders are sent via Standard International Mail).</p>
+
+<p>Stealth and security is taken very seriously. All shipments are sent with high quality stealth packaging.</p>
+
+<p>Please provide the surname and first initial (minimum) of an individual for the addressee, even if going to a business address. It is our policy to only accept orders addressed to individuals (Business names/addresses are accepted but it must also include an named person). Use of obvious/outstanding pseudonyms will affect any refund/reship decision.</p>
+
+<p>It is our policy to not ship to public sector or educational institutions.</p>
+
+<p>*NOTE: We only mark an order shipped after it has left us and is on the hands of postal services.</p>
+
+<p>PAYMENT:</p>
+
+<p>We accept payment via Bitcoin. We offer escrow for all listings up to 14g (at a slight premium).</p>
+
+<p>REFUNDS/DISPUTES:</p>
+
+<p>If there is a problem with your order, please contact us asap so we can resolve the matter to your satisfaction. Please do not leave negative/neutral feedback or raise a dispute without giving us the opportunity to improve your experience. In the unlikely event your shipment has not arrived, we will consider a refund (partial or full) or reship to another address. Any refund or reship will be solely at our discretion and factors such as buyer stats/our trading history will be a consideration to the decision.</p>
+
+<p>WE ARE HERE FOR THE LONG TERM:</p>
+
+<p>Whether on this marketplace or another, via encrypted chat, email or future technologies. Please rest assured your custom will be valued and respected, we practice ethical vending and despise the thievery of other vendors and DeepWeb services.</p>
+
+<p>If you are happy with our service, please kindly leave positive feedback on your order and in the forums.</p>
+
+<p>FORUM REVIEW THREAD: </p>
+
+<p>Jabber: access2@adastra.re (Please use OTR) </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFUWGPoBCAC7kzdeYWqNYN1A59kkXHBYzEqNi/RZy4Iw9d7Eks4b8u36xTMj
+6zn//ELsf30WFXnTe5hYThND5eZcyiVbBpEoNSMsqlIofdO+JjvVtLTroqMfHJgA
+X85DON8XjG4PkTiEZpoJ5cSNeccbZP5eq6Gcm/k/ZUkmDK89bghA0fGokmTTSbYf
+IwxQdMvW/ZX8TABecf2r/Z4EGpyILPP4HSIwlwh29UmpIn5CRrjyQpGSU5IGxjEe
+IIFs+zkqogFOqhQ+pY2Dror30wvQ9K0Yrt2Zp63ENl0AN5yGtqz8UPItojrH5ilk
+UGA7N/TxSv6YpkIEPD1+Nh63Yif1Ovhymp4RABEBAAG0IUFjY2VzczIgPGFjY2Vz
+czJAb3Blbm1haWxib3gub3JnPokBNwQTAQoAIQUCVRYY+gIbAwULCQgHAwUVCgkI
+CwUWAgMBAAIeAQIXgAAKCRCIueq9nXwNM7IBCACCa6GX9Z+eAghFoxE/AbtYJdFM
+2AHK5kS6Jy9S7SrAPt7EDdZaq/eR4y2QE9BBF4dabL3vD52ZSgcHJZ5SGz6K/2rI
+CyhE5mbcqf9subFaVT+b9hNBdEGBmc6zy+gOVvrRNsbwBiTG5TLzqzS5idQyYOR2
+Hs4X93wwZxVVNLQTmSCk75g1bnE0lUuD8WySQEO31nimXP9N3j9wcxJd82Bs8HoI
+bXx8ii+/VwHN0tVnIvvGMfrafO+92jNUWeGSznqiycYfToXnydVdTK/XYXalkjPA
+2r3tRPr/+zOGM0D2dlMCwg0RlH6jqQdIkhj3+AXd/470VwfzRrXv1FPZVSh8uQEN
+BFUWGPoBCAC9CIhRiYpDFYyHcvKM4+2g9h3NVhqrxaJNP/x2sn7ArrXBrfimonlI
+iA43c2F0mKcxGF8uwFNr3VIbQIaU/+70B2rFhyBs47ljP9zg+8Id3BGWros48hhO
+6E8g+sTeO0nK5ApYiXv6Nmwre1OgTJKWr0Kz83BfKuC6EdLMvgBu725iBk9u/Cel
+FWzNIcBII9Wb0uFdznIqc/IQnzbx6ZvGbBbzsrqt17UN4OXjCA0Iyv43n2RYI+qL
+/4a0cY9GqItoMBPMG1EHnncEULPw6qnr092W1bH/vZDMoE+BWfHSkMJ0252Zjawl
+31mc7ObtXUmzHuoaY5ETbqDcLZnj4jBDABEBAAGJAR8EGAEKAAkFAlUWGPoCGwwA
+CgkQiLnqvZ18DTMSygf7BMpN8e7Y3nfsFTwKXm6E+sIUGBdW+MH8ZZ0lqYIGSyo7
+TZdyGQAu5KlCrwRNAYAo7j5fNT8hbjXSc2zxl/9N14TF5xCcmbQG93W3FLiI0AcW
+ASF910Ii10J7nAw3exOKxcRmOLvgO6QOkDMyZ/gZagLhLAD9CdZwdJJrGXyBWsM8
+H9RCRIIvDQCHySXVx48vd4cgvMDKBygiNvjY4xRIt21EXdK6A5xXrM1RrpCQCTwN
+RdhizKy3Jf9iRdSYfW0vyj0NSBxa6M4q1gPwGDUt8ua0dmtulqn6nUjmu5aHS4Py
+3TlvCG9r7myvUNEyBCtRbto5QiH+blP8pFtQ6lm9DA==
+=+os7
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

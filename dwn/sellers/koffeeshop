@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="s8M4g7CGsFTP4ZNUijmez5kfICm4EOFkZ1D7fjXG4rZE4vrkqJeHzzN0W2xJMbKKahjxwxTRl/SpwEsjvF9xBw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/nsHp">Suomeksi</a></li>
+<li><a href="/register/nsHp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/nsHp">register an account</a>.</p>
+</div>
+
+<h1>KoffeeShop</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hallo Willkommen beim KoffeeShop</p>
+
+<p>Wir bieten euch eine große Auswahl an Haschisch Sorten. Unser Angebot ist sehr vielfältig und abwechslungsreich. Wir haben für jede Geldbeutel das richtige Angebot. Unser Preisleistungs Verhältnis ist einmalig. </p>
+
+<p>Versand</p>
+
+<p>Der Verand erfolgt bei uns nach den höchsten Maßstäben von Sicherheit und Anonymität.
+<br />Versand</p>
+
+<p>Einschreiben Einwurf - bis 250g  Kosten: 7€ Dauer: 2-3 Tage </p>
+
+<p>Dhl Paket - ab 300g Kosten :10€ Dauer: 2-5 Tage Unterschrift benötigt bei Empfang</p>
+
+<p>Unser Versand erfolgt schnell und sicher. Dazu gehört eine Vakuumverpackung und Luftpolster sowie mehrfacher Sichtschutz.
+<br />Die Sendungungen lassen sich nicht von alltäglichen Briefen unterscheiden.</p>
+
+<p>Wir bieten keinen Expressversand an !
+<br />Der Versand per Paket erfolgt erst ab 300g. </p>
+
+<p>Packstation: Der Versand an eine Packstation ist nur per Dhl Paket möglich.</p>
+
+<p>Wir haften nicht für fehlerhafte Adressen/Drops und Sendungen die in die Filiale weitergeleitet wurden und nicht abgeholt werden können.</p>
+
+<p>Da unsere AbsendeAdressen nicht real sind ist es uns nicht möglich eine Rücksendung zu empfangen.</p>
+
+<p>Refund policy:
+<br />-----------------
+<br />Durch unseren professionellen Versand kommen unsere Sendungen zu 99.9% bei den Kunden an.
+<br />Sollte dies einmal nicht der Fall sein gibts es natürlich Ersatz  ganz nach dem Motto "Der Kunde ist König"</p>
+
+<p>-----------------</p>
+
+<p>Reseller Optionen</p>
+
+<p>Solltet ihr an größeren Mengen interessiert sein zögert nicht uns anzuschreiben und euch zu informieren.</p>
+
+<p>------------------------------
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0xA694D8294B165C51 = Grams Profil</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=GQfJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

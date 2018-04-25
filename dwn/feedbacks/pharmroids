@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9tf7rPuujMnH0mgvStcmW3MtTAHSX32KeUQTI6cMv0wTG20KhsPdJKbzmxR+kit6wi8WTdwtTXVVMmyrVVDfag==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/pharmroids">pharmroids</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+++
+<em>(26.3.)</em>
+</td>
+<td>
+<a href="/products/52301">SP Stanozol/Winstrol | 100 tabs (10 mg/tab) - SP Laboratories</a>
+(31&nbsp;EUR)
+</td>
+<td><span>
+cb***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+thanks man! 5/5
+<em>(16.3.)</em>
+</td>
+<td>
+<a href="/products/52319">Stanozolol | 100 tabs (10 mg/tab) - BodyPharm (Winstrol, Winny)</a>
+(26&nbsp;EUR)
+</td>
+<td><span>
+Il***81
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Thank you so much. Very good seller, fast shipping and packaging.
+<em>(7.3.)</em>
+</td>
+<td>
+<a href="/products/52350">Finasteride 5 | 60 tabs (5 mg/tab) - Balkan Pharmaceuticals</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+pi***et
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

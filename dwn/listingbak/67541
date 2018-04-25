@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Ltm6/VwbiQSkDchFV5sSksul/R+e119PDRnfcWsDZh3jffRt6PwpDOfIzbg759aGOr9bLa126XtK0Y3gNrVDCw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/ed0d52ea9cf7c3d57b72ef6f176ee67254cd5d20.jpg?1515445506"><img src="/kuvat/tuotekuvat/7cc80a1380553c2747a68ef82881cd76ee122e53.jpg?1515445506" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Clozapine - 60 tb/25 mg - Balkan Pharma</h1>
+<ul class='list-unstyled specs'>
+<li>33 EUR <em>(0.004237 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EnR1B/m4h/yyZ9W70uJsrBPJK9LznNbSPZkGdqiAbZrf0DuXTV8n9PGi0Ea+nqi44tON4MA9YOZ6UVTn9TZIjA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="647007">Domestic shipping to Holland (included)</option>
+<option value="647008">Tracked shipping to Europe (+5 EUR)</option>
+<option value="647009">Additional product (-3 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="67541" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Clozapine is an antipsychotic medication. It works by changing the actions of chemicals in the brain. Clozapine is used to treat severe schizophrenia, or to reduce the risk of suicidal behavior in people with schizophrenia or similar disorders. Clozapine is available only from a certified pharmacy under a special program. You must be registered in the program and agree to undergo frequent blood tests.
+<br />Important information You should not take clozapine if you have ever developed a severe infection or severe allergic reaction while taking this medicine. Serious and sometimes fatal infections may occur during treatment.</p>
+
+<p>Call your doctor right away if you have signs of infection (sudden weakness or ill feeling, fever, sore throat). Clozapine can cause severe dizziness, slow heartbeats, fainting, or seizures. Do not take more of this medicine than recommended. Call your doctor at once if you have chest pain, trouble breathing, fluttering in your chest, or if you feel like you might pass out. Clozapine is not approved for use in psychotic conditions related to dementia. This medicine may increase the risk of death in older adults with dementia-related conditions.</p>
+
+<p>Clozapine is available only from a certified pharmacy under a special program.
+<br />Before taking this medicine</p>
+
+<p>You should not take clozapine if you have ever developed a severe infection or severe allergic reaction while taking this medicine.</p>
+
+<p>Clozapine is not approved for use in psychotic conditions related to dementia. Clozapine may increase the risk of death in older adults with dementia-related conditions.</p>
+
+<p>To make sure clozapine is safe for you, tell your doctor if you have:</p>
+
+<p>    heart disease, high blood pressure, or history of heart attack or stroke (including "mini-stroke");</p>
+
+<p>    a personal or family history of long QT syndrome;</p>
+
+<p>    an electrolyte imbalance (such as low levels of potassium or magnesium in your blood);</p>
+
+<p>    a history of seizures, head injury, or brain tumor;</p>
+
+<p>    diabetes, or risk factors such as being overweight or having a family history of diabetes;</p>
+
+<p>    high cholesterol or triglycerides;</p>
+
+<p>    a bowel obstruction called paralytic ileus;</p>
+
+<p>    liver or kidney disease;</p>
+
+<p>    an enlarged prostate or urination problems;</p>
+
+<p>    glaucoma;</p>
+
+<p>    if you are malnourished or dehydrated; or</p>
+
+<p>    if you smoke.</p>
+
+<p>Tell your doctor if you are pregnant or plan to become pregnant during treatment. Taking antipsychotic medication during the last 3 months of pregnancy may cause problems in the newborn, such as withdrawal symptoms, breathing problems, feeding problems, fussiness, tremors, and limp or stiff muscles. However, you may have withdrawal symptoms or other problems if you stop taking your medicine during pregnancy. If you become pregnant while taking clozapine, do not stop taking it without your doctor's advice.</p>
+
+<p>Clozapine can pass into breast milk and may harm a nursing baby. You should not breast-feed while you are taking this medicine.
+<br />How should I take clozapine?</p>
+
+<p>Take clozapine exactly as prescribed by your doctor. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not take this medicine in larger or smaller amounts or for longer than recommended.</p>
+
+<p>Clozapine can be taken with or without food.</p>
+
+<p>The orally-disintegrating tablet (FazaClo) can be taken without water. Keep the tablet in its blister pack until you are ready to take it. Open the package and peel back the foil. Do not push a tablet through the foil or you may damage the tablet. Use dry hands to remove the tablet and place it in your mouth. Do not swallow the tablet whole. Allow it to dissolve in your mouth without chewing. If desired, you may drink liquid to help swallow the dissolved tablet.</p>
+
+<p>If your doctor has prescribed one-half of an orally-disintegrating tablet, you will need to break the tablet in half. Throw the other half away. Do not save it for later use.</p>
+
+<p>Clozapine can lower blood cells that help your body fight infections, especially in women and older adults, and in people who are malnourished or have serious medical problems. This can make it easier for you to develop a serious or life-threatening infection. Your blood will need to be tested often. Your future treatments may be delayed based on the results of these tests.</p>
+
+<p>If you need surgery, tell the surgeon ahead of time that you are using clozapine. You may need to stop using the medicine for a short time.</p>
+
+<p>You should not stop using clozapine suddenly or you could have unpleasant withdrawal symptoms. Follow your doctor's instructions about tapering your dose.</p>
+
+<p>Clozapine can have long lasting effects on your body. You may need frequent medical tests for a short time after you stop using this medicine.</p>
+
+<p>Store at room temperature away from moisture and heat.</p>
+
+<p>Clozapine dosing information</p>
+
+<p>Usual Adult Dose for Schizophrenia:</p>
+
+<p>Initial dose: 12.5 mg orally once or twice a day
+<br />Titration and Maintenance: May increase total daily dose in increments of 25 mg to 50 mg per day to a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of week 2. Subsequent dose increases can be in increments of up to 100 mg once or twice weekly.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 3.0 EUR (Domestic shipping to Holland) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/77198"><img src="/kuvat/tuotekuvat/b759fd68876cc12f306b92abc1a53153fa3d13a4.jpg?1482508944" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/77198">Diazepam (Bensedin) 10mg X 60 Tabs</a> (<span title='42 GBP'>47.79&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1333</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102818"><img src="/kuvat/tuotekuvat/f5c4f52f15219538de117f7c732e24a3397e802a.jpg?1516406287" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102818">❤ 20x XANAX S903 ★ 2mg  ❤</a> (<span title='55 USD'>44.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38076"><img src="/kuvat/tuotekuvat/b169e54e1a55f26ca2c8e5c8bfdadc4864c97c1d.jpg?1464325517" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38076">Ritalin 10mg by Novartis - 10 tablets</a> (<span title='34 GBP'>38.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103356"><img src="/kuvat/tuotekuvat/9fe055ca66b9e4d647efb26cf714ec7f5b4a9ec7.jpg?1519069620" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103356">Rivotril 2mg, 20kpl (FE -&gt; +2kpl)</a> (<span title='38.3 EUR'>38.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/92177"><img src="/kuvat/tuotekuvat/7e6bdcf89028d9a00463159231748297b9ff57b5.jpg?1491974924" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92177">Generic viagra ® 50 tablets 100mg Sildenafil</a> (<span title='31 USD'>25.23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>Clozapine - 60 tb/25 mg - Balkan Pharma</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

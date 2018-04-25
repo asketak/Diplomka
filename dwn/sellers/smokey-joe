@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Q4fHpoOQuGZ/5tWU2Iz5OAhYTuyjcY84sdJ8FJiczkWqgcKLbB36Z9DHKs5cJ42pwj1Ycrhdu6hz4q11UKuC5Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/hmKY">Suomeksi</a></li>
+<li><a href="/register/hmKY">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/hmKY">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>smokey-joe</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>129</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 4060 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>hello from Portugal,
+<br />we offer here best hush Products from morroco,
+<br />super outdoor weed for a fantastic price and
+<br />diverse other Products like Coke and XTC.
+<br />We send all order in MBB bags to make sure your
+<br />orders arrive secrectly in your mailbox, a sign
+<br />is not requiert.
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFYeZAEBCADFkMhrXN0AHLziDivdyvmTmhZwhrpm6g9o/n7ZRd2LbIThSJjb
+gIN2PUu3hYGrbkiORxWPwYoMYE6kQLjhaoi7iuMmI5tWa19WX6g18fkCUlbGV+3Y
+6agAqTk09dQLFVmqoht2LOHlTJLCIp07ZuZDoofwXHvDqW/AkmAj78zWFWx6bgv9
+fkrfNu6bZxGGuhuwXxfIsJjwDDO+IpSRvuIZl1MIqvKAeHY1CAouBgBbOXy1Hay4
+Tp78jp3KszpwzDQk633FoBlUZYPYqBNpI9u2U2/UPegnBRXhxRGCKAyRXcEQvYi2
+IL29AtIhnxXrzsW+Js1oGICIWCUfJXMTjYIPABEBAAG0EVRoZSBEb2dzIEJvbGxv
+Y2tziQE3BBMBCgAhBQJWHmQBAhsDBQsJCAcDBRUKCQgLBRYCAwEAAh4BAheAAAoJ
+EPVuJvfRfWRPmwoH/2dN/CmyQwEQElrZfH3wbkEpnYqF4C45h2635FYHs2Ejagtu
+GxcNyvwotfZDm62tqiMpRfO+SWJMQ4FHZ5Pask7xWtmXB/KNAPcRepkDsu9hAGpb
+s+O1zVtEYqIDnPUWSn3+EZyGSsGQaUGgvVUG8G1JfM7ZIMlbJGitnh8QigN1h3ek
+5XuT7jhv1sG6SdtMLIa6V+bSPdr8qkvg/KI7hRpxXOHGHBfe4TTN3vdHrXKwcZ+C
+xJ3T7fNdyQ3600ElmwdellmihZSHlTFl+QoaLWxhWIlK3AkD5MKFAesVFkWxNOGW
+UL5Y5H6yKi6zsxSgFhPQhkcPbjTenSdOsJzFhmq5AQ0EVh5kAQEIALHwCQqZXRhM
+++RNGEtpp1XTtZmT2BLiMrP0wO6TcxpDQl534O4ARgIR6bM553nPcyJ9aJodnkUu
+w+qzoycOdDltBBdTiiP4guJvGPBG59nZtE8UoWk9S16u6f/FQXGLre8DkDMRCHCw
+jcLE9igllZH5YLYq98JbTsb6SKG1hL0FgarCy9o0gsAaRQSI7+62w6OEJnKHI9Ef
+cCnTaj06Ul+1g3roXnMIF6LuAipEfAoUAye9RIghR8XruWg27KzkdPqzGp3KCGJA
+rEP9zA08IOUaCcSNt77UYCck9cjod6QeDR6TjUpmAAS/at83MaI4GSj6lDKp8cI2
+JhW/DsHCDBsAEQEAAYkBHwQYAQoACQUCVh5kAQIbDAAKCRD1bib30X1kT3TpB/4o
+tfwtUQ/z86jYcu9dKVXFarzh0Gtpb6e/1Q6WZ1Z6qoADVREuUSbo3mLkixqBHHY1
+OfZv6xq2pYm2p1mBb5RjZKcNQSfIS1vkylpfbb2xWrz21x5vV/+XETypFKbyFzoj
+U7bmSxhAaHKl4R3y5vpm0q+/Vt57JeeEuGkxfgsz0G2YxLbHR7CkeTgIuazmcW1q
+lVaGM68+rhkR7wkoTi8+icgRdzTF2YgC20qGIx0PbYYyhCElfqMJuvGO60vEGKkj
+djVyAQaVw5n46GUwggiHx92oAmb0VSlkwOpoEw2pnLK8A3Lz/LoE7AlxqTBDhchm
+UZGojS5iLeoJmQFw/nYC
+=9WMU
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GEBK+7o6TVGtTU9dtFW0h5cF6LvsjiACmE2vwyMdKKfV5ARrDt3tWe6ISqDYKXCTZh9Oid8vljbfhf1SfqsNsQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/23f71a0cc2774268421cee3dbe45442e7835200a.jpg?1517248970"><img src="/kuvat/tuotekuvat/f60f6f12e1cff5c40b1c3adf6c6f28e5b8622351.jpg?1517248970" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>White Rhino 1g, luokka AAA</h1>
+<ul class='list-unstyled specs'>
+<li>28 EUR <em>(0.00359 BTC)</em></li>
+<li>3 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/unipuu">UniPuu</a></span>&nbsp;(<span class='green' title='Positive feedback'>245</span>)
+</li>
+<li>Finland &rarr; Finland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mnrMLf/PBOW+4XEf8kwGRudT2qlwh83a+SVFOzZHCFhX3oK9Syik7f0kdOKeMMJSFkl8m0Mme+6+7Reqa/EtTg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="63842" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Pieni erä  sisällä kasvatettua erittäin laadukasta White Rhino kukintoa
+<br />Seuraava postitus 26.2</p>
+
+<p>Nirvana seeds in versio</p>
+
+<p>Lajike: White Rhino
+<br />Lajiketyyppi: vakautettu lajike 
+<br />Linjaus/sukupuu: White Widow / Afghani 
+<br />Genotyyppi: hybridi, indicainen 
+<br />Haju: hedelmäinen 
+<br />Indica-/sativasuhde 60/40
+<br />Vaikutus: jumittavaa </p>
+
+<p>High Times Cannabis Cup 1996 / bio-sarja, 2. sija </p>
+
+<p>Lääkelajikkeenakin käytetty WW-risteytys, joka kasvaa indicatyyppisesti, mutta vaatii pitkän kukitusajan. Vaikutuksiltaan yleensä jumittavaa. Keskivertoa yskittävämpi lajike.</p>
+
+<p>Postitamme Ma-To seuraavana päivänä tilauksesta 1.lk ssa hyvin pakattuna: Tupla mylar, vetyperoksidiliuos pesu, huomaamaton paketointi jne.
+<br />Emme lähetä postirestante osoitteisiin emmekä toimita kuin Suomen alueelle. Lisää toimitusehdoista ja postituksesta kaupan sivulta.</p>
+
+<p>Muistathan vapauttaa maksun tuotteen saavuttua, ja antaa palautetta testattuasi tuotetta.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvää kukintoa
+<em>(21.2.)</em>
+</td>
+<td><span>
+ri***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos!
+<em>(15.2.)</em>
+</td>
+<td><span>
+Ko***nn
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeasti perillä, vielä kokeilematta mutta erittäin hyvältä vaikuttaa, 5/5
+<em>(14.2.)</em>
+</td>
+<td><span>
+no***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Stealth tosi jees. budi tod laadukasta. aika 5/5
+<em>(7.2.)</em>
+</td>
+<td><span>
+ma***ju
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kyllä on hartsista kukkaa!
+<em>(2.2.)</em>
+</td>
+<td><span>
+Jo***az
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Päivässä perille ja loistavaa tavaraa &lt;3
+<em>(31.1.)</em>
+</td>
+<td><span>
+Da***&lt;3
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (4.0 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/99225"><img src="/kuvat/tuotekuvat/8bdeea9c2b7b4a59d44a610214b2f2943537187f.jpg?1505764159" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99225">Black Mamba - Indica - 1g / 17e - ALE-</a> (<span title='21 EUR'>21&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/alko">Alko</a></span>&nbsp;(<span class='green' title='Positive feedback'>1131</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102697"><img src="/kuvat/tuotekuvat/81cd3ae4295683f8af6f761fb22efbc5ac67b939.jpg?1515620223" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102697">Blue Dream 7.5g Indoor &#39;AAA&#39;</a> (<span title='48 USD'>39.06&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thecanadianreserve">TheCanadianReserve</a></span>&nbsp;(<span class='green' title='Positive feedback'>266</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102990"><img src="/kuvat/tuotekuvat/7bf260bb76f9f2b33ae9a64a8cc10f914593c945.jpg?1516878190" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102990">⌛2g Pineapple Express ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/galaxystore">GalaxyStore</a></span>&nbsp;(<span class='green' title='Positive feedback'>240</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-51</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91283"><img src="/kuvat/tuotekuvat/a63cabe6ac3ece8afb09e17c484ff060492989bc.jpg?1491113228" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91283">1.0g ZEUS OG Shatter (Hybrid) 94% THC LAB TESTED FREE-SHIPPING</a> (<span title='55.99 CAD'>36.02&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrgoodguys">MrGoodGuys</a></span>&nbsp;(<span class='green' title='Positive feedback'>263</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101181"><img src="/kuvat/tuotekuvat/cc9ead446cc81206c86759dfa9f3b514544a96ce.jpg?1510731730" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101181">Mega Mouth(2.2g) outdoor weed</a> (<span title='22.4 EUR'>22.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bathramme">bathramme</a></span>&nbsp;(<span class='green' title='Positive feedback'>547</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-8</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>White Rhino 1g, luokka AAA</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

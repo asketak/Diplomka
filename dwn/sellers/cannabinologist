@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3EnVIH2qkqyrTkyrtsvfcQ/ZHZpEHnzuY6DVxoHe0nwhAFHUCDaaAQ2uoDpR29dtPLfb+ZVu+ayfjbSDkEjzhA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/snoR">Suomeksi</a></li>
+<li><a href="/register/snoR">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/snoR">register an account</a>.</p>
+</div>
+
+<h1>Cannabinologist</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We are dedicated to providing cannabis based medicine that uses the highest quality medicinal cannabis. 
+<br />All of our products use cannabis that has been grown organically, without the use of pesticides or synthetic fertilizers.</p>
+
+<p>Orders are typically shipped out within 48 hours and will arrive within 3-5 days.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFaZatEBCADXCFULwuRVDBW8/lHSitDJUA9zoZaeGBch+NokNhEXV+4Lreof
+XsCyhluRdKw/XQlZ3nl7bnpzo7phZ9GU/V2MmODJbZBx+3nPbCNS7EJToXADVEnm
+eJzNLVgC0tMc18CC+GIcjpT7Klz/DoSykwBeKl/AbarcOt3cnOwMhfuJ3MedQ3Hy
+woc7WPBNIkHYwRK6LICuyO4Uv8MG88LQ7HLOOFXIHrPDTmaSDFFoDlKv6/2OPRMl
+guSUgEIT5CeARl2w2epzRF84CJ51rLkENwjk6oxFK+x+2EOIlBvO1e7LMLf5OJg+
+6w3z4+ZkfEIXTLlGrW5ik1n2RLlquK8XI9ZpABEBAAG0LUhlcmJhbEhlYWxlciAo
+QUIpIDxoZXJiYWxoZWFsZXJAbGVsYW50b3Mub3JnPokBNwQTAQoAIQUCVplq0QIb
+AwULCQgHAwUVCgkICwUWAgMBAAIeAQIXgAAKCRAAfvqLm6Ug2KxlB/9VU3fu6rvl
+0md6MxdTpThG4AioGfepwKtomXUGXRCt9f8rleK9bQim+d3+QQGa1xBSHqLiED1L
+aMV5r2eCCeHIaM5lC91o575Lb88AyHuxUn+wLgu59o78vDAlo3OTOppasHKua8Hp
+33MrpKwi2BZ0keifoonWO81o6tLoN+zll6lGZD8+fp57yvZ/HbTdtrpsdYcg1O87
+CFtdtGP+4IJ9lkdIlpjZ8ZJjXinYCGu+KQe9G7NA219SSprmrJj4HXlaWz3gX7eB
+WJ/rBdi5jAozqa7Jbg3MJWnB4n2vvAawLFkjgDFXjYinxedHQouW38/TqmdENX/k
+nV83ERb+6dXmuQENBFaZatEBCADIwlKAeTxnlc7g44jBEK+HkLjZNESC101yfto7
+RWoDAfaRg+Ar2ZK78rBNbvoRv9I2L0PvAMcQ88BbA7eSlidRhuBDkLhL7TqqnU1P
+ph9mdwGow+8bofxiyLZHeoppA8rNl2a2KHLBevlexQWFs8KOIYbckOrdRtxbDiGn
+Os1g3dJ5iW7gtBhmBScaEMALA1lUIp1L1hk+YBianpmDrHkne4RyNxAsgNpZKBO/
+yLcYw30p/6ubL8qK8sFf0vCIMGbzrp2HQyKFxmSfXwNFsMIHRTcOEosY0wQg+IzU
+y1gD2k6yOoyYn3uXYmyeuHjXsP0zAl8bi9Q7UbZJdJVPyJVxABEBAAGJAR8EGAEK
+AAkFAlaZatECGwwACgkQAH76i5ulINjOqAf7B5dAqwciCFtAl41nhb2m0Ok5sXHk
+m17GPOYk2toTawiWyZIqH9djuF894ngzVIglph6DoIi2dBBvEbPFM6+sKhEIGt1h
+zweNeTaq9OX6/fzAirqJF1B8DnyYaBkWxmvSmQwGTdPZNQGsrgZ20Wnb4u4qR9Md
+YJtlwG98w9lWt5EXAmf7vi9b3xyUQKWt+I9bgIZnrj4vDx1/dA/fTsXfzf1pyKEZ
+QWBh0SQAdrm3zQsFfbGiNSX0SmkWpnqmnSuFY3CyDzKzYnMX3cV3Emjf6D9HaNRt
+CktTyf2suZZg6E38Y2ng8y05FtE7dTyATp06A3/Ftv8ubLPyBP9MlTN1fQ==
+=Oh5m
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

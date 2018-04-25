@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="WVgpRtw7GhQ077Qks9SpQl7OkcJQ2DreK5Wc148Q08iU/GfWaNy6HHcqsdnfqG1Wr9Q38GN5jOpsXc5G0qb23g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/06d15f521be569ae231f6092aad683660384b843.jpg?1488645449"><img src="/kuvat/tuotekuvat/0bf4bad9a4502bd59d2ee55c467ee2387189e28f.jpg?1488645449" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>[US-US] 50 TABS x Oxycodone 30mg K9 imprint $349.99 HIGH QUALITY!</h1>
+<ul class='list-unstyled specs'>
+<li>299.46 EUR <em>(0.038449 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/canadianpharmacy">canadianpharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>27</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XcMaSwu9d2sKdMQ737WlOdabAD3UsDR13VsVhGzJPoGQZ1Tbv1rXY0mxwcazyWEtJ4GmD+cRgkGak0cVMX8blw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="87561" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>LESS THAN $7 bucks per pill. It's cheaper than your lunch.
+<br />Note, the pills are pressed from Fentanyl and even stronger than regular 30mg pills.
+<br />The color of the pills is a bit darker, you can see the actual picture on the 2nd and 3rd pictures.</p>
+
+<p>Here is some of our recent feedback about this product:
+<br />This item was shipped to my door so super quick...thank you so much!! A+++
+<br /> 
+<br />A**m
+<br />November 5, 2016
+<br />04:23
+<br />Great vendor, and these are very strong. I would recomend and purchase again in the future!! 10/10
+<br /> 
+<br />A**m
+<br />November 1, 2016
+<br />06:23
+<br />Wow these are very strong. Keep up the good work! 10/10
+<br /> 
+<br />Z**3
+<br />November 1, 2016
+<br />05:23
+<br />USPS Priority has been dragging ass for me not this time - they came two days earlier than I'm used to. As for the product itself, they are EXTREMELY potent so please use caution. Can't speak for those who smoke or iv their pills, but I give these an A+</p>
+
+<p>Oxycodone is a semisynthetic opioid synthesized from thebaine, an opioid alkaloid found in the Persian poppy and one of the many alkaloids found in the opium poppy. It is a moderately potent opioid analgesic generally indicated for relief of moderate to severe pain. Oxycodone was developed in 1917 in Germany as one of several semi-synthetic opioids in an attempt to improve on the existing opioids.</p>
+
+<p>Oxycodone is available as single-ingredient medication in immediate release and controlled release. Parenteral formulations of 10 mg/mL and 50 mg/mL are available in the UK for IV/IM administration. Combination products are also available as immediate release formulations, with non-narcotic ingredients such as nonsteroidal anti-inflammatory drugs (NSAID) and paracetamol (acetaminophen); a combination with naloxone is available in managed-release tablets. If injected, the naloxone precipitates opioid withdrawal symptoms and blocks the effect of the medication.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+GREAT VENDOR!!!!!  Great communication!!  Packed well, came fast!!! A+++
+<em>(5.12.)</em>
+</td>
+<td><span>
+jo***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (14.64 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/37376"><img src="/kuvat/tuotekuvat/b6ab97a7d1cf2367a617af63f022e81d9653f4b8.jpg?1480458441" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/37376">250mg Fentanyl 99.5%</a> (<span title='335 USD'>272.62&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/chemical_usa">Chemical_usa</a></span>&nbsp;(<span class='green' title='Positive feedback'>660</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38511"><img src="/kuvat/tuotekuvat/1087156a8d20a54f45e70f222c69497c7ff5ad8a.jpg?1461528191" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38511">5 G ★★ HEROIN UNCUT AAA+ HQ ★★ GERMANY SHIPPING ★★</a> (<span title='275 EUR'>275&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101662"><img src="/kuvat/tuotekuvat/7cf5d0cb7696400297142e2984c6fa1f28406a5c.jpg?1511628253" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101662">10 X OXY 40 OP</a> (<span title='285 USD'>231.93&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fasterndsaffer">fasterndsaffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>482</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-32</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/57227"><img src="/kuvat/tuotekuvat/c685062ba5c2c763c0f0f8f438d7d7423f9dcc05.jpg?1518724736" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/57227">275x Codeine 15 MG Pills (Loose)</a> (<span title='485 USD'>394.69&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/idealpills">IdealPills</a></span>&nbsp;(<span class='green' title='Positive feedback'>4</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/53183"><img src="/kuvat/tuotekuvat/136318732da102fee6cd373a27adc4fcd1ec770a.jpg?1482512931" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/53183">OxyCodone / OxyContin 120mg x 5 Tablets</a> (<span title='230 EUR'>230&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1300">Opiates</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1303">Oxycodone</a>
+</li>
+<li class='active'>[US-US] 50 TABS x Oxycodone 30mg K9 imprint $349.99 HIGH QUALITY!</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

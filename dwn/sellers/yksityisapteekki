@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AHOtlrhReQm+AoK3Aoo01uQicRf1mNLWQB9biOJDFNZ8ZJ9HkDrfo6mXYFDQKuFYDhGI7zUSK5yHSVvYhIJdng==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/H3r8">Suomeksi</a></li>
+<li><a href="/register/H3r8">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/H3r8">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Yksityisapteekki</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>261</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-26</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed with new buyers</li>
+</ul>
+<div class='description'>
+<p><p>Postitusehdot</p>• Toimitukset maanantain ja keskiviikon postissa
+<br />• Maanantain posti on 95% varmuudella perillä tiistaina
+<br />• Keskiviikon posti on 95% varmuudella perillä torstaina
+<br />• Jos haluat tilauksesi maanantain postiin, tee tilaus viimeistään klo. 22:00 sunnuntaina
+<br />• Jos haluat tilauksesi keskiviikon postiin, tee tilaus viimeistään klo. 22:00 tiistaina
+<br />Tilaaminen hyvissä ajoin helpottaa työtämme.</p>
+
+<p><p>Mahdolliset poikkeusaikataulut</p>
+<br /><b>Ei poikkeusaikatauluja</b>
+<br /> 
+<br /> </p>
+
+<p><p>Periaatteet</p><p>Nopeus</p>Postitus  aina 1. luokassa. Kasvavan suosion ja uusien turvallisuusvaatimustemme vuoksi tilausten käsittely vaatii enemmän aikaa. Lue päivitetyt postitusehdot yläpuolelta.</p>
+
+<p><p>Laatu</p>Myymämme tuotteet ovat aina tuoreita ja annetut pitoisuudet pitävät paikkansa. Yksityisapteekki on ainoa välikäsi tuotteen valmistajan ja asiakkaidemme välillä. HUOM! Harley Davidson - ekstaasitabletit lähetetty laboratorioanalyysiin, tulokset 1-2 viikon sisällä.</p>
+
+<p><p>Edullisuus</p>Vaikka tuotteet ovat huippulaadukkaita, ovat tarjoamamme hinnat silti erittäin kilpailukykyisiä. Tämän mahdollistaa aiemmin mainittu välikäsien puuttuminen sekä tehokas ja sitoutunut tiimimme.</p>
+
+<p><p>Turvallisuus</p>Asiakkaamme turvallisuus on meille kaikki kaikessa. Jokaista lähettämäänne tietoa käsitellään ammattimaisesti ja luottamuksellisesti, jonka jälkeen ne hävitetään perusteellisesti. Kaikki tuotteet, jotka koirat pystyvät haistamaan, pakataan hajutiiviiseen mylar-folioon ja pakkauksen pinta pestään alkoholilla ennen postitusta.
+<br /> 
+<br /><p>Tuotteet</p><p><a href="http://silkkitiehdg5mug.onion/yksityisapteekki/tuotteet">Klikkaa tästä nähdäksesi kaikki tuotteemme</a></p></p>
+
+<p> </p>
+
+<p><p>Ota yhteyttä</p>Asiakaspalvelumme tasoa kehutaan usein. Älä siis epäröi kysyä jos jokin tuotteisiimme tai tilaukseesi liittyvä kohta on jäänyt epäselväksi. Haluamme asiakkaillemme parhaan mahdollisen kokemuksen silkkitiellä ja sen ulkopuolella.</p>
+
+<p>Hyvää kesää toivoen,
+<br />Yksityisapteekki</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFWEBTwBCACaJcubLqfKGWGlGTTUp6+41FIENJnueC58ymVxHNWoV+1G0c50
+cEFroa3xiEm9PHepkdJrkCw5xWfCqxisEvQoNkVjCvgseUa2MLNdNhaEwYMbadi9
+R8CiA8TIXImXkiGbuWlWLVW1f0Bn4O9biXR+N9WxrzEIIAJAS7mSDgG//syzhx+i
+PrdOKQBaSwe2fFNuRhORMvDwMwlNEqIVoTJVfF+hMKNiwdptVhTU1ZJYK90shyrW
+565+BAaIb2U8Gq6eqBm9Itn6IZeHYHQqayTx4hV8T7nz1+CGUsOh9d+DzaP9WUuM
+EW9X4DZId1l0yTVgUPUPtvMSqiI8FI3UFqTvABEBAAG0DnNlcHBvQG1haWwuY29t
+iQEcBBABAgAGBQJVhAU8AAoJEFTD1uD0GWvwxtsH/1sWB/9YXanmhm6opmKK+m9t
+/yGr5PvFtBNNHugH38USWPZpMOsjfnv7lhDhxnR/pZIMz3S2igDvc503n84OHWbS
+69vnoDk7egx3Fp6+iN9XvuhZ72chLI9A1nMNyuCl0BSKrj6DSqH5XJxa/kUIga4D
+BQB+mBmlZPMSHDr/H0BXiTnkU1M849UWJ8Pbx3Kcvm1K3r4L3ToV5Pg71uI/SVb5
+8fpuP7e50p/9dDwDg8QPAB2kSQofz6S0QG3QiwV8K3cGEY3oDuFsY0Ff1N1Rl5EH
+32EN8IdBTvfyuUF/SwQjxRLz/KJ/nn0p83GkPEkCC3uTAmvn4mnIilzp3Ytr630=
+=dwuJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

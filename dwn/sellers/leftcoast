@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IOrzUPTiaKjla50eqKgd647Hz7C9xe7bkOyPfwfP7cfSddqcLOP57AHiNUemfkjGXBe4gkzx9048TR4Mw/xNiQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/AYmp">Suomeksi</a></li>
+<li><a href="/register/AYmp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/AYmp">register an account</a>.</p>
+</div>
+
+<h1>leftcoast</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Fine purveyor of black tar, crystal, benzos, and ganja. I am an honest vendor that will work hard to resolve any issue that arises. Please contact me about any problem before leaving negative feedback, I am sure we can work something out! I am a well established vendor on AlphaBay with nearly 500 sales and over 200 positive feedback. Looking forward to serving the Valhalla community.
+</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+j4TYJU/fnQ0lXw==
+=aYpf
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

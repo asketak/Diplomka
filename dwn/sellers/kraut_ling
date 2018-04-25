@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+7EDdOPNBJZ6l3CWoTffsj/TAEAQGZ1TJaN+lYqWwTzaaHHjrhSo11kmzNisODLE/twJBcvptZOT3vxF7Uk+gg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/6ZW9">Suomeksi</a></li>
+<li><a href="/register/6ZW9">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/6ZW9">register an account</a>.</p>
+</div>
+
+<h1>kraut_ling</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Germany</li>
+</ul>
+<div class='description'>
+<p>Einige von euch werden mich noch von Agora oder Abraxas her kennen, für alle die mich noch nicht kennen:
+<br />"Hi, ich bin's, der Krautling"
+<br />Leider war hier mein Original Krautling schon besetzt, deshalb mit Unterstrich.
+<br />Meine Bewertungen findet ihr auf Grams unter
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0xDA3BE0F77B783168
+<br />ich glaube, dass ich von mir behaupten kann, einer der angesehensten und zuverlässigsten deutschen Weed Verkäufer zu sein.</p>
+
+<p>Ich verkaufe ausschließlich das von mir selbst angebaute Curry-Cheese. Den Namen hat der Strain von einem sehr geschätztem Käufer, der eben diese Geschmacksrichtungen herausgeschmeckt hat. Ich habe ursprünglich vor Jahren den Strain ausschließlich für mich selber selektiert und seit fast 2 Jahren lasse ich euch auch daran teilhaben. Bitte fragt mich nicht nach den Strains die da drin sind, meine Selektion ist einfach zu lange her und ich weiß nicht mehr mit Sicherheit was das ursprünglich für Sorten waren.
+<br />Es ist eine stark indicalastige Sorte, relativ schwer aber kein allzu heftiger Couchdrücker. Es ist gut zu rauchen, fast kein Kratzen im Hals.</p>
+
+<p>Mein Weed ist absolut sauber, vor der Ernte gespült und schonend getrocknet. Es ist das Gras, dass ich auch selber rauche.
+<br />Fermentiert ist es noch nicht, dafür habe ich in der Größenordnung einfach nicht die Kapazitäten. Aber das könnt ihr bei Bedarf ja problemlos selber nachholen, ich helfe euch gerne dabei.</p>
+
+<p>Ich verschicke absolut stealth und geruchsfrei im Luftpolsterumschlag. Der Versand erfolgt von Mo - Fr bei Bestelleingang bis 20:00 Uhr am nächsten Tag, spätere Bestellungen werden am übernächsten Tag verschickt. In der Regel ist die Ware dann am Tag darauf bei euch. Der Versand an Packstationen ist möglich, allerdings soll es Packstationen geben, in die Luftpolsterumschläge nicht eingelegt werden. Ich hatte zwar noch nie das Problem, aber dafür übernehme ich keine Garantie, Sendungen die zurückgeschickt werden sind verloren.</p>
+
+<p>Ich bin ein absoluter Verfechter von Escrow. Ich biete weder Ware FE an noch verlange ich nach Bestelleingang FE von euch. Im Gegenzug verlange ich aber, dass die Bezahlung sofort nach Wareneingang freigegeben wird. Wer sich nicht daran hält bekommt von mir keine Ware mehr.
+<br />Wenn ihr unbedingt die Coins gleich freigebeben wollt schreibt bitte nicht so einen Satz wie "FE early, Bewertung später" in meine Bewertungen, da die Erfahrung zeigt, dass das fast immer so drin stehen bleibt und ich will nichts von FE drin stehen haben will wenn ich es nicht verlange.</p>
+
+<p>Leider habe ich Abraxas ziemlich viel Geld verloren und ziehe meine Lehren daraus. Ich werde mein Escrow nur noch bis zu einem bestimmten Betrag anwachsen lassen und dann solange in "Urlaub" gehen bis genügend Bestellungen finalisiert wurden. Bei Multisig Bestellungen gibt es natürlich keinen Verkaufsstop. Wenn ich in Urlaub bin, könnt ihr gerne auf den anderen Marktplätzen nachschauen, ob ihr da noch was von mir bestellen könnt. Eine Liste der Marktplätze auf denen ich zu finden bin werde ich zukünftig hier einstellen.</p>
+
+<p>So, und jetzt wünsch ich uns allen gute und sichere Geschäfte.</p>
+
+<p>Herzliche Grüße,
+<br />krautling</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+
+mQENBFOZiMMBCADIhKTfTTjVEpsuDIpUq+OqXGnSXq9oj9NBMc5BuXi5rem6JmqL
+FcO3Gkf4zO049VWsl+FBkfVy8QtUTNzlWo7EHURTpD64DcOKDPDCHziKlMro5G2u
+OJuDc4oNTVqfl9LVbHZCFNv8zONQrD99Xv/pZ5VfOSltiiIZ/8wY3/raFTPeZXol
+Jc6l6kwU3seKB35qfqid+ZPnS2w4lOZA0NCKJ/1dQe2AsIjVXgY8+hPgY6tMxDL+
++kwTZmK0qR/4KnWsblUhkiVlehn7dEjVfVyCtNsov5I/N/q7hcQDh+/9wRB+bVji
+AkA1X2o5fW6W5Va0Xc1g+ckhLxGWGeuoCyojABEBAAG0H2tyYXV0bGluZyA8a3Jh
+dXRsaW5nQHlhaG9vLmNvbT6JATkEEwECACMFAlOZiMMCGwMHCwkIBwMCAQYVCAIJ
+CgsEFgIDAQIeAQIXgAAKCRDaO+D3e3gxaD84CACShqlTfvLbgV05G8Nwq0i+6KN4
+2jtBJ1uH1e8YSqEtNEGGuEvqipw1K4yKflh+/iNpVA6R0sjn99wsWKOD8VQLAX2q
+ppztg1VRFgo+8rnxGUDzYr8mbZ8oULw3NJx6ocV7MtGg9hAn2rR0+MzLI4R1QLeh
+3rrwqA4QebrvqHhBSqWqfNHfKIO4KJ2MtVd9zBbkbCnKRnIwIvvOUXBis7BACik3
+VZFH8weJIDIJzXpN3iJb1uXKucsKGR+JSmQnTR6fviPanj3jLwX+4K+4x4gnoH07
+wEIYWDhbEGMcOd+Zo7/lQGp00bjOcCAfeFa3ZDOUXZ0N/SnEUvV5Jjm7xkMJuQEN
+BFOZiMMBCACy3o8MXRuzNv+DWPA+M2cJUypFmSoi02d/wGA4lTeMqbEQEQqr0E9h
+SS2bdzusgjjDk5B+beL9C9P0kVzEmPja0/6oKdR/o9y+YrNQf+5eqmFtrEotbKYx
+kO9SQKaByMaNJ7pggkNyLBCSmdStzeINonuRMYfYTr0m7I/UNaYFgrQWG845dQLm
+9OlDrqkd5k5zyHIwjLEv0f2VOxoe5t2HX9YGp5DS7ir/NvkC9x5WPX4IrvJ2yHNk
+REV6t0MFUqSPIfWIW7tCUSHHpRdGo1nyilqXRcSARbPR0eeZqmqopWd+D63+73Rs
+0y6R7dNARN2KLXS0PK//SbQ5SzLeC5TNABEBAAGJAR8EGAECAAkFAlOZiMMCGwwA
+CgkQ2jvg93t4MWglagf/W0EeYReqvw+dlzJST8fyQXmM/GPvR+9HUD2FP1TTHnKB
+JyXk6x5omIVO9ZVrw97zGTTRxFtJ+0dFyOvJpvg9VtsrzEfXdf5TcoJ1froKUobV
+GUdyzM/c1n8uAqJq9Yt8/Hf8PITwdDlw4q9KiiEctEYUAEKhm0FfghpAWJ4IBGfG
+4QcQ7Vvgjsvo64/mTB56scCnDce17xNYJndmI+VoI8PtZCPTx7yZjUqlWzbfl9VO
+c3W0gyn7XTdRd824qQwMsUVLBObHXUCjgWO4QB1BMTquYOujahL0XPnQ0AkDp0be
+W6U6uafgQIjMtUrTE7YxKL63IaweulE6sRKd58psJA==
+=cdy0
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/91737"><img src="/kuvat/tuotekuvat/d5bf25f591fe0fc3c328d73bec2c7394e8c8f85c.jpg?1491398216" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91737">100 Gramm Trimmreste von meinem Curry-Cheese</a> (<span title='400 USD'>327.59&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91736"><img src="/kuvat/tuotekuvat/7a84285cc1936ca258a50f8dc60cb1a48238254b.jpg?1491398091" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91736">100 Gramm Curry-Cheese</a> (<span title='720 USD'>589.67&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23394"><img src="/kuvat/tuotekuvat/6b0a40c364cd885f1aa5c1318f18fc72b16f8f72.jpg?1455972467" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23394">50 Gramm Trimmreste von meinem Curry-Cheese</a> (<span title='220 USD'>180.18&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23391"><img src="/kuvat/tuotekuvat/11219110c6e93336693ac243d1a0203c1d056fe5.jpg?1455972466" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23391">20 Gramm Curry-Cheese</a> (<span title='200 USD'>163.8&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23392"><img src="/kuvat/tuotekuvat/88e88450ac8a6c35e12e20fe3a98a901af1558c6.jpg?1455972466" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23392">10 Gramm Trimmreste von meinem Curry-Cheese</a> (<span title='58 USD'>47.5&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91735"><img src="/kuvat/tuotekuvat/6c2578c0cb9996833006afafe386327a659e7e01.jpg?1491397735" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91735">50 Gramm Curry-Cheese</a> (<span title='420 USD'>343.97&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23393"><img src="/kuvat/tuotekuvat/9f21e738d7f88541bcf2ea5848a5c7346a09ff63.jpg?1455972466" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23393">20 Gramm Trimmreste von meinem Curry-Cheese</a> (<span title='103 USD'>84.36&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23389"><img src="/kuvat/tuotekuvat/27aea7637f75a149c7dc0ac01cda3b9f27beee6d.jpg?1455972466" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23389">5 Gramm Curry-Cheese</a> (<span title='63 USD'>51.6&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23390"><img src="/kuvat/tuotekuvat/85b010bcbd5eebee4e3781e6276c9627bff86db6.jpg?1455972466" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/23390">10 Gramm Curry-Cheese</a> (<span title='110 USD'>90.09&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/kraut_ling/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

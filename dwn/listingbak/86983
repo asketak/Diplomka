@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KE4QhupDUqhPvX3q1PhfJ+GywfifTx7/nLSaFPiGGC3l6l4WXqTyoAx4eBe4hJszEKhnyqzuqMvbfMiFpTA9Ow==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/62ff5237b2648499ced5ea5d8bdcc4ff60b426af.jpg?1488014239"><img src="/kuvat/tuotekuvat/2ce1e38bf965e502a9d8ba771f14c59c65a9301d.jpg?1488014239" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Viagra generic 100mg x 10 Sildenafil citrate</h1>
+<ul class='list-unstyled specs'>
+<li>14.53 EUR <em>(0.001865 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/doctordrug">DoctorDrug</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>India &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="50e60OmWv95Pfy4eNk8Y1FrQ1ftC0sucICKdisw5Fi4q4/RAXXEf1gy6K+NaM9zAq8pzyXFzfahn6s8bkY8zOA==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="86983" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>▶ What is Viagra?</p>
+
+<p>When it comes to treating impotence or erectile dysfunction for men, the most popular drug and brand will have to be Viagra. This is given to men who cannot have or maintain a penile erection that is satisfactory for sex. Viagra belongs to the drug category of PDE-5 (Phosphodiesterase type 5) inhibitors. This class of medications helps by enhancing the erection response of a man whenever he is sexually aroused.</p>
+
+<p>▶ What is Sildenafil?</p>
+
+<p>Sildenafil, on its own, is a very effective drug that can be used to treat erectile dysfunction. When taking this drug, you will experience the following:
+<br />Improvement in one’s ability to maintain and have an erection
+<br />Have confidence that you can get and maintain an erection
+<br />Satisfied with how your erection is
+<br />Viagra vs Sildenafil—Main Difference
+<br />In essence, they are the same drug. Sildenafil citrate is simply the unbranded, generic form of Viagra which means that it is the same drug but sold at a cheaper price.
+<br />In fact, all generic medication has the same main ingredient as their branded counterparts but is sold at a much more affordable price. Manufacturers of generic drugs actually have to demonstrate that the generic medicine that they are producing is medically identical, has the same strength, quality, stability, and effectiveness.
+<br />Also, generic drugs must meet the same safety and quality standards of their branded counterparts. Before receiving market approval from the MHRA and the European Medicines Agency, manufacturers must prove that their generic drug is bio-equivalent to the branded product.</p>
+
+<p>▶ Proper Dosage</p>
+
+<p>The starting dosage when taking for the first time is a single 50 mg tablet. It should be taken 1 hour prior to sexual intercourse. If you achieved the intended results but are bothered by the side effects, you can try halving the dose to 25 mg. On the other hand, if you have taken the 50 mg tablet without getting the desired effect and no side effects for four separate occasions, then you can increase the dosage to the 100 mg tablet. However, if after 8 separate sessions of taking the 100 mg tablet with no desired effects, then you shout stop using it immediately and seek medical consult. Never take the drug more than once per day since it won’t increase the effect and will only increase the chances of seeing side effects.</p>
+
+<p>▶ How To Take?</p>
+
+<p>Swallow it whole along with a full glass of water.
+<br />This drug can be taken with or without food; although, drinking it after a heavy meal can delay the desired effect.</p>
+
+<p>▶ How does it work?</p>
+
+<p>This drug’s mode of action is to increase the blood flow to the penis. This enables the man to get an erection that is hard enough to maintain sexual activity. This drug is clinically proven to help males with ED.</p>
+
+<p>▶ How long before desired effects show?</p>
+
+<p>It is recommended to take the drug 1 hour prior to sex. However, you can drink it 30 minutes to 4 hours before sexual activity if necessary. It can be taken with or without food but taking along with a high fat or heavy meal can delay the appearance of the desired effect.</p>
+
+<p>▶ How effective is it?</p>
+
+<p>This is the most popular treatment option for Erectile Dysfunction and has had a lot of clinical trials and studies done. In fact, research suggests that this drug has been proven to work for 88% men that have trouble with getting or maintaining an erection.</p>
+
+<p>▶ What are the side effects?</p>
+
+<p>Just like any medication, there is always a risk of seeing potential side effects. It has been found to be effective for the majority of the men who use it. Most of them don’t experience any side effects or are the side effects aren’t severe enough to bother them. There are very rare cases wherein men suffer the more severe side effects. The most common ones are temporary blurring of vision, headaches, and stomach pain.</p>
+
+<p>▶ Taking food and alcohol</p>
+
+<p>This can be taken with or without food. However, it may take longer to work if the drug was taken after a very heavy meal.
+<br />It is ideal to avoid drinking alcohol when taking since alcohol naturally affects the body’s ability to acquire and sustain an erection. To achieve best results, it is ideal to avoid taking alcohol along with this drug.</p>
+
+<p>Please read our reshipping and refund policy.</p>
+
+<p>Keywords:
+<br />Brand Viagra Viagra Professional Viagra Super Active Viagra Soft
+<br />Female Viagra Kamagra Kamagra Polo Malegra FXT Plus Penegra Viagra Extra Dosage Kamagra Soft Kamagra Oral Jelly Kamagra Gold Kamagra Chewable Nizagara Viagra Plus Silagra Viagra Jelly Zenegra Viagra Sublingual Suhagra Caverta Lady era
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (12.13 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/75751"><img src="/kuvat/tuotekuvat/b62ff47fd061d28942f10571e1439eb0491b20f9.jpg?1481708928" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75751">20x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='20 USD'>16.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78381"><img src="/kuvat/tuotekuvat/97b094b537593e486e63d8413409f17389ee553b.jpg?1483529087" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78381">Gelenika Bensedin (diazepam) 10mg x 15 **VERY STRONG**</a> (<span title='17 GBP'>19.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2889</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103305"><img src="/kuvat/tuotekuvat/bf4a5ae71d7332bbd04aebd69352db5fddf66cb7.jpg?1519069442" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103305">Rivotril 2mg, 5kpl(FE +1)</a> (<span title='12.5 EUR'>12.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/45790"><img src="/kuvat/tuotekuvat/9456161ec9c4fce95c5c7a23529808d6ea4f534a.jpg?1465246069" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/45790">NOOPEPT (nootropic) - modafinil alternative - 5g - EU Stock</a> (<span title='13 EUR'>13&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/europills">europills</a></span>&nbsp;(<span class='green' title='Positive feedback'>646</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38064"><img src="/kuvat/tuotekuvat/5678b1ce10ab2834842cb6188b62b8385a28231b.jpg?1469083753" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38064">Xanax 2mg by Pfizer Upjohn - 10 bars</a> (<span title='17 GBP'>19.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1503">Erectile dysfunction</a>
+</li>
+<li class='active'>Viagra generic 100mg x 10 Sildenafil citrate</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

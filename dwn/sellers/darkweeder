@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+lp7KJDU/wYiB1emJWkBTEE5fDVTF/EDXPe29WK9lOKKG4Qvx3WS/oo2gRaKUY/6E9H3Krwpq4UEIGOMnAD3SA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/o4og">Suomeksi</a></li>
+<li><a href="/register/o4og">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/o4og">register an account</a>.</p>
+</div>
+
+<h1>darkweeder</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Willkommen bei Dark Weeder,</p>
+
+<p>ich bin ein neuer Verkäufer hier und bin auch in anderen Markets als darkweeder oder drgreenthumb zu finden. Gebt mir die Chance mit Service und Qualität zu überzeugen und bestellt eins von den Probierangeboten um das Vertrauen herzustellen.</p>
+
+<p>Meine Produkte werden Luftdicht und unauffällig innerhalb 24-48 Std. aus Deutschland verschickt.</p>
+
+<p>Mögliche Versandoptionen:
+<br /> - Maxibrief (Deutsche Post, ohne Sendungsnummer)*
+<br /> - Maxibrief als Einwurf Einschreiben (Deutsche Post, mit Sendungsnummer)*
+<br /> - DHL-Paket (mit Sendungsnummer, kann auch an Pakstationen versendet werden)
+<br /> - DHL-Paket - Overnight-Express (mit Sendungsnummer)</p>
+
+<p>* Es wird keine Unterschrift benötigt!
+<br />Die Trackingnummer werde ich nur bei unstimmigkeiten raus geben!</p>
+
+<p>Die Sicherheit ist das höchste Gebot, deshalb bitte nur PGP-verschlüsselte Nachrichten schreiben.
+<br />Adressen und Mails werden von uns NICHT gespeichert und unmittelbar nach erfolgreicher Transaktion gelöscht!</p>
+
+<p>Nach dem Kauf unbedingt prüfen ob die Versand-Adresse korrekt ist. z.B.:</p>
+
+<p>Name Nachname
+<br />Strasse Nr.
+<br />PLZ Ort
+<br />Land</p>
+
+<p>Nach erhalt der Ware denkt bitte auch an ein positives Feedback sofern ihr zufrieden seit. Sollte dennoch etwas nicht nach den Erwartungen sein bitte nicht gleich negativ bewerten, sondern schreiben und ich werde sicherlich bemüht sein eine Lösung zu finden mit der beide Seiten leben können.</p>
+
+<p>=======================================================================================</p>
+
+<p>Welcome at Dark Weeder,</p>
+
+<p>i'm a new Vendor here and you can find me at other Markets also under darkweeder or drgreenthumb. Give me the Chance to Convince you with Service and Quality. You can order one of my Trial-offers to build up the trust.</p>
+
+<p>Our products are vacuum sealed in a discrete packaging and will be shipped from Germany within 24-48 hours.</p>
+
+<p>Shipping-options:
+<br /> - Maxibrief (Big Envelop, Deutsche Post, without Tracking) !NO signature required!
+<br /> - DHL-Package (with Trackingnumber)</p>
+
+<p>For security reasons we do not give tracking codes to customers</p>
+
+<p>Security is very important to us. Send Messages only PGP-Encrypted!
+<br />We do NOT save your adress or messages and delete all informations after the transaction is finish!</p>
+
+<p>It is very important to check your shipping-adress if it is correctly!</p>
+
+<p>Your address have to be in the following format:
+<br />Name Surname
+<br />Street and houseno.
+<br />ZIP / Postal code
+<br />City
+<br />Country</p>
+
+<p>When you have received your product, please give us a positive feedback. If there is any reason to give a negative feedback please contact us before. We will always try to resolve the problem and find a solution for both of us.</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=Wj53
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HMgNNCWjpGkiHTeJS+iUC1J14Q7H5QWxWtgt6w0mK5VrTK/jhbd7l39tinftgQ2V15WuBRMkuCVs+/TPVUqEmQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/DsKv">Suomeksi</a></li>
+<li><a href="/register/DsKv">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/DsKv">register an account</a>.</p>
+</div>
+
+<h1>Phluffhead</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 26 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>BE SURE TO PHINALIZE ORDERS AS SOON AS YOU RECEIVE YOUR PACK. I SHIP PACKS OUT THE DAY THEY ARE PLACED, YET STILL HAVE TO WAIT 11-12 DAYS AFTER PEOPLE RECEIVE THEIR STUFF FOR THE AUTO-PHINALIZE TIMER TO TICK DOWN! THIS IS NOT LEGIT!</p>
+
+<p>I understand sometimes people dont log on every day, but when you receive your pack, you are clearly thinking about that pack. Part of the thought chain has to be taking 1-2 minutes andlogging real quick to release the funds from escrow. Any nonphinalized orders keep the funds on lock for two weeks, far too long for people to not be finishing their end of the transaction. Anyone who lets the 14 days elapse will be blacklisted from future orders once the auto-phinalize timer elapses.</p>
+
+<p>Sorry to sound so harsh, it just gets old when I make getting things out almost immediatly a high priority, only to get the opposite consideration from a buyer just a couple days after. All while theyre enjoying consuming the things I was super quick to send out!</p>
+
+<p>Whats up, Im Phluffhead!</p>
+
+<p>I started vending on Nucleus a few months back, had just under 400 successful sales on Nucleus, never had a pack not land. Looking to open up shop elsewhere after the Nucleus shut down. More products will be added over time so be sure to check back if you're looking for something I don't have up yet! Send me a message if you are looking for something specific you used to get from me on Nucleus!</p>
+
+<p>Im starting off with assorted  variety of things, Perscription Adderall and Vyvanse, Suboxone, L, Ice, MDMA, etc.
+<br />Please read through my profile page before placing any orders.
+<br />PM me with any questions, encrypt sensitive information(not everything, only sensitive info please!)</p>
+
+<p>MY PGP KEY IS AT THE BOTTOM!</p>
+
+<p>Shipping:
+<br />$10 Priority Shipping to USA!
+<br />All shipping info must be encrypted!!!! Any non encrypted orders will be cancelled.
+<br />All packs will be sent in vac seal and mylar for proper stealth.
+<br />Double check before encrypting that your address is correct, and formatted properly, it will be copied and printed directly from the pgp message.</p>
+
+<p>FORMAT FOR SHIPPING INFO:
+<br />Firstname Lastname
+<br />### Street Name
+<br />City, ST ZIP+4</p>
+
+<p>(ex of zip+4 89563-3696, this will help with faster USPS sorting times which ultimately leads to pack landing faster)</p>
+
+<p>Processing &amp; Shipping Times:
+<br />For the most part I check a couple times a day, once the order is accepted the pack will be out by the following business day at the latest, it could likely even go out the same day!
+<br />Since I ship as soon as I accept the order, you are expected to finalize as soon as you receive your order.
+<br />Any problems with an order, contact me before leaving negative feedback please!</p>
+
+<p>Refunds/Reships
+<br />If problem is on my end we will work out a reship or refund.
+<br />No refund or reship if tracking shows delivery or bad address. It is my job to get it to your address, not prevent it from being stolen off your porch!</p>
+
+<p>Thank you for your interest, and READ THE PHUCKING BOOK!!!!!</p>
+
+<p>-Phluffhead</p>
+
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: GnuPG v1</p>
+
+<p>mQINBFa7IP4BEADTJCNX/0b8ztm3wna1e7gbU9+jW9SKV7qZh6v9t6LeX1XQd7eR
+<br />fIocDU8Uu8YkWe/AGbKBMWxeNh5Cd0q/F5WJycHC+tcNA70/3QYPvau/A6m8YCXb
+<br />g5a9z1CL7Wavd/F68o7PoBH15d+ArYCApcTlw/sxa3+p7vFUslZRSs23QsrvMW5w
+<br />85Av7QPMwqHUptKsfUKi9UTnASY4OPWVLtqCysFM3tQI26xGyh4WLr0rmxMgXvi9
+<br />PRhkoCZIO5c+ADdqGsPrcLzL8KNNA9N/8iWuS6IfKY/5MN65STaa/NrlyZhHQF1J
+<br />XfjvFb9P/nkAeHKyDsY6q4Zj0GnBra9qS5OeYK1vH4TdmIBAClAC2sHtN+0PMQMJ
+<br />Ua4n9nLIJ10rAEge5QVfpkcOiWdMIt8CvgwwAbuCa8KQG1p6xb7UKXTwfZvB8a1Z
+<br />sF9Q9IvBUimOCKe8rjXSiZR1rCm7f9Hsj/a47IPKXP3rOGX8VqEu2Iv68KEGYkKo
+<br />O4dqFTGd5tGAnevZYcPisJQrkApjKFcK1qgfTLGLpAz8A2QbEzWH1pBLNg8sLfr4
+<br />iOtsGCEtxBUCbx/3Rlt5a2sk/kb03LaSP/rwT7d93nGwvzyIFa4uEK8sdLVpd4WD
+<br />M5z3L9ufk+l7buxKRcIK3JcldD7QCnGWlrCVZOM8u865ZoesLc7yGgLXGwARAQAB
+<br />tDRQaGx1ZmZoZWFkICh5b29vb29vb29vb29vb29vKSA8UGhsdWZmeVBoaXNoQDQy
+<br />MC5jb20+iQI2BBMBCgAgBQJWuyD+AhsDBQsJCAcDBRUKCQgLBBYCAQACHgECF4AA
+<br />CgkQkEh36iCGsOkgaQ//UTikUdS9iKckE6tRB13AQI0kHuNweHHVeX30nPPvwAyS
+<br />yGTm2M0muWcG8LuNROwCCFIm/+5Nj/NJUaq+rz9SXXSbpJIRVo7cKmbkfnozO/bt
+<br />HO43j2LNZGOhe4RTRPenDLkOaRTaU2HpVOergfnsFA7rV+Ntb1KFsoV38cwNWcrX
+<br />t0TjXB1svYq9GaYsRWmXC+QkXSJE/mVws2X8xApUwf0t+iESLetJTT1c+W4uLiWS
+<br />DS96hPQqgc/sj8r4fEE0BJSiI+XFGTIfa9BsluggIX1afND25J6CZITvTHG394V3
+<br />EtaV0dIPPbxyz97jV2s/WmUhvAtVqLClc6c3oMSQoPMfCR4SK1trdj7SUGAFfDom
+<br />0v/NTGpZL//RpcOgmzS8sVucC4L9TGUC8+/vk+dsbkKGp0IxN9mDe81sgVbXQ1fy
+<br />uDD+92oy5aw7J2B9qlpTFiAVarvWdkDlZatzD9XJMPtR6raEgFgjBlOkd3PdXDO8
+<br />c4u2N0g3UfiGkC5VD/AQ3Kr12Hh8dr1WN96xL+IcEmOOxWA2xjm/KSQCQmf5rh9r
+<br />DgvsvhwP94JBjFnvFgH6zY4c17XpItvn7PWPgn1DHH8hyIi8BS+0ow4JxuvziZ2V
+<br />Ya9CKfKGkHpzVK5Bs07mVxkT9B/eqrhXXagE6GbFV3ZMGfRxM0CikGwC5uaGbGS5
+<br />Ag0EVrsg/gEQAJgR17fcF5o2VMS4V227PLYWadBShBxzkOKU2/knJQVA9eii8qVg
+<br />n/FlCnJF3daZWo+tC2yQIPZVmS9N1DbADEFFLeqoag/6OvygJ/QUCWhwT6D7zupM
+<br />mINMFdqMHtA79vl+YlKrwIfDf68MnUIXLXQpnrLI0BISi9MlTqB0m4gbMm+QYFFT
+<br />CaOLG2FbnotTyZUFnTRbEbJyhuh5unQ1ul4v8ydSg8aqkWgvlVQd23o2JS7YPzI8
+<br />PR2/V1IXPUfMgjCYZbiBSlYDWs919Grk27urtLwmVua2XwYPEOzDi2rJyEfDQNKp
+<br />lxe0wBoCrph1l16ZJDIymgvxf8SKstOprqF8/6xwGhIwTILBB6RetP5FdZBuXqCa
+<br />/SgoRcfQYFZ2xzbUfkc2+mFJ464XnvYuoK1WhrjYhYyfOaxlS0mCGFJ3Fd5NhBlR
+<br />oyy8gwoQJmHKzMmbjDKQX2vppJHtahQYnbDd4CE8/jHlpNRzUfUjTYtecMspGhvs
+<br />pKfDfSTRqu/xBVk6qRrGiGg5owBBfJbcFt7NHVLIvsvytQQ7IfNPRako8SqXVkQt
+<br />rCjGVTOz3XQK88+cgAQxQlR9muv1WrT3KAXNbWAoT8RSbYrIqH9u2gHyOPcUhcv0
+<br />T8lOGwG066ayVXPFV/wY923rnGAJHE8Zi1+GrvDvQDsiavVtNiiBusS9ABEBAAGJ
+<br />Ah8EGAEKAAkFAla7IP4CGwwACgkQkEh36iCGsOm+eQ//fUkrRHNyA55HNBIm9m9x
+<br />mdAB3qQ6QcxK+b8YMaSXU8395MlR3AsmvhVA0Z8+lt4VjjHXEV1TGY+6wgqliGY0
+<br />kgLhuK40V74N27h9ovLXAwjowcIEzNL+vY9VBid1RrztOQ6rAeiEgOGHXkpX9BTg
+<br />uZ5bZSdOv3SiOIpvLsuIkqU2y9ulwy1a4iot+tm9vojwMHGwHtfAaXCg/1cU3zfb
+<br />RqNfDjAFtK1Lrs+VHNVMvoAO/dpc2R2xFRgGDXCpf8dRRxcJHlos6nxJu2Phu+NA
+<br />4sfcwzIXksCZbZh291vPmsN6uiEOsCGA+/f3NsiwoRVb3vj7Wj9neyG98HPY+j5X
+<br />X4yE1IBo8a4ntMNMvC8hzllfSceWbl+E/6XnnvxT0+uJk+QQJiiKQWCndAq1Rye6
+<br />rDiJztlsiMHucmdPLD3EwrVppI6R7fmpoXSC7UQK2XQc8ZGvkWx/116zWu5AFcXs
+<br />VpPDFkO+uRB2xIXEp2Ty5GbaW3X9D8FVWeemqKtJL0A6HE2dKHpv2MSsz/X8Z03B
+<br />cgLYdZV4lxBRTFMv97BB9WTwvLwVyLZrWQStC6bCePHYg93z/H9HJjEyMd/QTeCX
+<br />iJo9JqfLyTxQ2H68/DR1nIYYV7tkZWOeiDhgkDeLjK0sRF1y4XwUHU1xFSia4YYl
+<br />rPTEXCHLtUZwORmPb4Pprtk=
+<br />=ukB/
+<br />-----END PGP PUBLIC KEY BLOCK-----</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+rPTEXCHLtUZwORmPb4Pprtk=
+=ukB/
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

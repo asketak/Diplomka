@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="A4H0SxOAG6heGQJFJDdBetMtrA7ctiZcUMy6gzDTA/Ob5RUKGZy52RKZ91yGo81rT0HsdWOfRfBlMoDzx2Tz/Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/VFAK">Suomeksi</a></li>
+<li><a href="/register/VFAK">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/VFAK">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>odinshop</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-16</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>!!!!
+<br />OdinShop har gjennomgått en oppgradering med utskifting av team mm. Vi er nå i full drift igjenn, fra nye lokaler.
+<br />!!!!</p>
+
+<p>**********Norwegian version**********</p>
+
+<p><b>OdinShop</b> er en leverandør av høykvalitets varer. 
+<br /><i>Vi gjør store innkjøp for å kunne tilby de beste prisene.</i> 
+<br />Vi leverer til hele verden, men fokuserer primært på Norge. 
+<br />Vi vakumpakker alle våre forsendelser og bruker anonyme konvolutter med maskinskrevne etiketter!
+<br />Vårt vareutvalg er i stadig endring, så følg med oss! </p>
+
+<p><b>Har du et spørsmål, er det bare å sende oss en melding.</b></p>
+
+<p>**********</p>
+
+<p>**********English version**********</p>
+
+<p><b>OdinShop</b> is a supplier of high quality products.
+<br /><i>we do big purchases in order to offer the best prices</i> 
+<br />We deliver worldwide, but primarily focuses on Norway.
+<br />We vacuum packs all our shipments and are using anonymous envelopes with typed labels!
+<br />Our product range is constantly changing, so stay tuned with us!</p>
+
+<p><b>Do you have a question?, just send us a message!</b></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFgiTCsBCACXfKLf9VczjlW1PYD30S7YyP3T3QFl2GjPafI3UHs+5mpVTcU9
+mKUJMDcMgexJy0wfKHKgRvxlzFTWh6C2DjgoI6J9uf98N+jnXZIM6eIhb5FibRrJ
+zX9THVGbpdVIn5nNArfD+cIG1Ei6ek9BeYq2Xx7+iluEPjghdD+osVkCto6Ye3qN
+cJMhY4XPdYaZiqornUGIvg+rczBTDElsJinB2iVx1c8p9QbYGBukWeFtuElSi9na
+dHZ+bDkQun+WUsrBISClSyoRkI8aS6tffXMwPpdfKjXUHS1vwm1C2GxzyS9lkhMj
+0AyKiFedqQZ3DuZ3xGKjEPxSUGKKQn14XthTABEBAAG0F3RpbnRpbm9uQHByb3Rv
+bm1haWwuY29tiQEcBBABAgAGBQJYIkwrAAoJECMjBe566Ja9/wAIAIeTWTHg93/z
+YEiOXHIOTakyCqNrgFtTJObDFQ/jtntPzmmZdffSLJ64c5/Bg2j6tRVMhOcjMbUk
+myoUvasLHiCdA8cUzHKG8k8R/RLc+INIo5eN8sKCCHkrE1cp57lh/UCXuI55OkNx
+ROhhDqJoOyAmTBk0YORMb6Co6NuLN5gMLC8jx4BPMsKIizhjCIrG6CO9gZXmz7Kn
++gZ4hKQhs6AU4s8kAbvbatieUqAYOe1rVqR6RPGqXtgDldwDPUik3umkMuqXK2Vx
+i7u65rui1RlHEyEOKI4E8b80S0KjO8t1mQd8dzfNxu1Gd9B86H4q85jeKG/ReGwz
+lfgOpU7PspQ=
+=f+6b
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4aZLTj9aJev/PGxmmbtZ6IqxE6etXYX/mlF9irj2hxO9iGEoW800Ami7ixC8etWCFfGLFRXvW805CQSzj6evLA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/shnB">Suomeksi</a></li>
+<li><a href="/register/shnB">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/shnB">register an account</a>.</p>
+</div>
+
+<h1>BenzoExpress</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Known Vendor from Alphabay. You can order now. More products soon.</p>
+
+<p>## ORDERS ##
+<br />Only Escrow with Tracking for all european countries. Good stealth method. We speak english, french and german. (More details soon.)</p>
+
+<p>## DELIVERY ##
+<br />If ordered until, 3.00pm CET: Same Day Shipping with Tracking Code sent with private message on same day (all countries).</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFfNdj0BCACL5zFoboXRiFsVYd5A4XtR2TJxXIWJdiYrzcgF4cVvjtVQ9+H3
+Dl1nCMpfajvFjAu9uffBiH79Fy57UE78dVloTg09zfnFhp5us7pkN9WqYnaIXwRY
+CgaQLr1aSO+l404APT8cnSc1ESWeeomJqVeLzDTOJgRoqbEd3S/xZQ/NDtEHbdUB
+U/dAMKTt88aSitu5l9QDOmuFCpSVpsq/QjrBf/h2m4KGt1ef9PXQFfJE9uUOkCDz
+dlmeF1UrksM54y0vJpPin2/eRjsHE1d3pVBbTK8XXITD84R4dVzucigNpwUbSjnn
+Y+cplgO7EX4hs6OyeUO7yJHiVxYdIrXFxp0RABEBAAG0FWJleHByZXNzQG1haWwy
+dG9yLmNvbYkBHAQQAQIABgUCV812PQAKCRB/Gk07MAvUfVihB/9k2Zl6QjsnGM77
+lI8bvNubz1ryQyxLAFQZ9a6pCUu5Q/mgNSBipHGxL+rqDTD7RVoT660BhJAU5jlX
+hzZC2aS5USXYrJb5qrOXMWPno7+q9iW7y1Q/tfr4LD9zRmwwZAGG9jt0Dl5dIzuI
+hTLaUuisY3H5rPXHxHnr1DjOGOsXpGqnMM04NkZFE+YZOeHIAhJusSUqBiKyu3Mv
+mcLCYfGhF4yHIuiPoQ91hDUhkNyWUmeoZh0J0uqYaMHwmpyk8G43wvx1ftJitE7L
+Zde1FYCI98DGV36gekzWawsb2E2ehJ162OfCFQS7qv8dOFQlafd7xhpIi938w9Ip
+itghmqIU
+=bzoi
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

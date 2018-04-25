@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="o73iFVPjF8B9vOD6dDPxpYqs8gzSuKSR9YexWWDRlLLUE/dPercBOrx1HDYLY3+1rGBzUVWaOM3DTmdvocCHEw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/QrnV">Suomeksi</a></li>
+<li><a href="/register/QrnV">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/QrnV">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>SuperFleks</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>SuperFleks has over 15 years of experiance in providing the best product for the best price. Our product is Cocaine. More prodcuts will be added in time. We moved our operations from the streets to the deep web simply because this is a bigger market. We are based in Holland and Germany. We know what customers need in Europe.</p>
+
+<p>Before we started on sites like this, we ordered some products from other vendors. Our conclusion is that they self even dont know what they are selling. We can do it better. Unlike the other vendors we dont mix our products so it stays pure and original. We like to provide you a pure product so you self can deside what you want to do with it. We manage a big stock of products. Either we buy them from first hand dealers or we import them self. So you always know what you get.</p>
+
+<p>Our top priority is to make serious business with serious people. Hopefully for a long period of time. Scammers are not welcome here. If we have any doubts of your purposes we will not do business whit you.</p>
+
+<p>We only communicate with PGP. Meaning all the PM and emails have to be in PGP otherwise we dont respond. Yours and our safety are a priority so please communicate only in PGP with us. We speak Englisch and German. In the case this site goes down, note our email sow we can go on with our business. </p>
+
+<p>Email: christucker@sigaint.org</p>
+
+<p>We ship from Germany. We ship to all EU countries. For other destinations contact us.  Shipments will take place between monday and friday. In EU it takes 2 - 6 working days. Please send your name and adress correctly so we send the package to the right adress. If the shipment takes longer than one week please contact us.</p>
+
+<p>The packages are always sended in stealth. Meaning sealed, vacuum and in proffesional looking packages. For your and our safety please destroy the package directly after.</p>
+
+<p>Refund is for every customer individualy different. It depends on the customer stats and the destination. Customers with less than 2 succesfull transactions will not get a refund. Also we need a proof by documents etc that the package was intercepted. Please always contact us first before you deside to leave negative feedback. We will do our best to solve things in the best way we can. </p>
+
+<p>FOR WHOLESALE (BULK) THERE ARE OTHER PRICES, CONTACT US FOR MORE DETAILS!!!!!</p>
+
+<p>We hope to do serious business with you for a long period of time.</p>
+
+<p>SuperFleks</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFX8JkcBCACetZtlGC/mEu6Xwi5i3DD6Ijqn6mrejCzJo5AEdkMgfBkilGX7
+RjZf6nCL6vZnkG6Da9KwQX4ghzxyDNlLeiTGAgeK1/+vMbSzlMns2JWJQk2GgMT2
+UCEHwlId7lSEV7Yv0qV7e6yLJUqPAm7+ZQGtkE0gR3FuzCy7h2xWg03XqgQ9WjOF
+0RyFLbvvZA3IYOuB7I/SDDnU835BLgCszuPCfzuDCJmYTLd+ImoP1/SM2DaR+ZZW
+3O81W7w4vqqo/8Pcyadk1r57MGF9DG7tlYmq6qhGpuyyVEd/C3rC3xem7nJaTZNa
+wIXaUIqAAtVRuim4e0YM8PRsVGO5a4BApefXABEBAAG0GWpvaG4gd2ljayA8am9o
+bkB3aWNrLmNvbT6JATcEEwEKACEFAlX8JkcCGwMFCwkIBwMFFQoJCAsFFgIDAQAC
+HgECF4AACgkQjjIDIUhXyxNuSQf/aCmTjUMHcuDerFtjBgt3pB1HJurhmUaDh8km
+yJOUGfDgDAVeVXslz0hSavMVm2JLFPwD9PJQw1XqYxHG5bVbBEjFpYvnA06vaOgM
+TaVE0ra4C1/KwPNL37fySr/qg/OoqgdGLZ+AgMavPy3kwhITuxIrCTCBijMtdqcU
+qfJ6NHm08MTgdrDsq47v6gcLUr7uU5+XmLS9IFW/bTUXckqyfpHQd44gGlEB2cva
+bWbvLbbbt1T6yGoCuiBqpKi4gonC4bJnmJsY4Y9ik0s7IBTCULIlc4r8dKlucmnu
+YL7NR+z3BmnNNXdOwnTvalPBnuWOQj3HdjhPZ5aZC0H9bBOaDbkBDQRV/CZHAQgA
+2X2eT02nXlldunCxBIVkRwRhZgGzu5ft5jloOfvvhcpqSgM++oa4uV3tW/W8nCY/
+8vlpOvdJlTWqKGY68IS6JBN54H3EZw42RrE9l/qeaY3J2J8tHh6abkPNymV7DGRB
+JLwthepkGVd0EIjR8Dl6R0QrT2xDwvqj3jxQ7ESXkg1HxY2QL5bNxdSyiIis3pS6
+8tD6i919iXB5uqC7qJ1EEyadGPQZDrGrrO7yc+vnCM4b9W7rjnHwKsid9AGGUzHf
+yvAEr5qU8anmbOIyr8Fsv5XFZK6Mm/B4wvD70NLKkaE6DxE+B0tJLmqjulRmXCGa
+kf9bISfcsCv1FQFS32evlwARAQABiQEfBBgBCgAJBQJV/CZHAhsMAAoJEI4yAyFI
+V8sTbm0H/3D8dCoZVuUw0rDkMqKHl4z52Gip6b67GfSQuJPo+pcRsGZdIu2LxTtu
+3R2P9fWCIhXePzd64aWyCAUCbyRNZ+Ry0pX+uqUU2TlPBsAKpCKKBJVNB7JJIdRy
+7XdqCXcvuL554ORY+e2i55Zu8ZWpcnQ3uouur+8Lx1Eu3Yz+ecR6NW3ZAHnWoCKU
+5hMfq6Cj1RLRVXjjWLGHiTmkP/P2jQ/YjRonn1dnXcI/9JkJjieNdrfYQllBqngh
+xcZoqnXjH+SAg8KtyfB+oUrrfrgLz9GImhQJud+MtLbwZdsEeCG8VVGJaF1Cqw6T
+Sqjb6et3gz9aU6Xr+div5BrIX9vSqb4=
+=R2c3
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

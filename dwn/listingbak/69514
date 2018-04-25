@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3vZSgxJFVm9roo7O0TaoV/Bwly03gCE6g52/j0LtYf4TUhwTpqL2ZyhnizO9SmxDAWoxHwQhlw7EVe0eH1tE6A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/3d71e4ffa7eb220e8f3c5d89844c676defb55435.jpg?1478592129"><img src="/kuvat/tuotekuvat/c46f9ab350ee7cf2bc7126cbf1b153f94d9632b7.jpg?1478592129" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Quarter Pound Sacred *Magic Mushrooms* Powdered </h1>
+<ul class='list-unstyled specs'>
+<li>289.67 EUR <em>(0.037392 BTC)</em></li>
+<li>3 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/highadventure">highadventure</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JKxC9K+5/7XHVT1au9mRmoDAVcbTxuaYM6XWjx/lSz3pCAxkG15fvYSQOKfXpVWOcdrz9OBnUKx0bYQeQlNuKw==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="69514" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Carefully Dried to Preserve Potency and Vacuum sealed. Powdered for convenience and increased stealth at a galactic price! If you prefer whole mushrooms please see other listings for availability. </p>
+
+<p>The origin of this sacred mushroom is traced to Mexico where over thousands of years it has been used for spiritual enlightenment and religious ceremony. Natives affectionately call it “Gods Flesh”. Respect its magic properties and it will teach you about the universe. This particular strain is prized for being equal parts Euphoric to Visual with notable active Psychedelic dose at 1gram, Enhanced Psychedelic dose between 1.5-2.5grams and Explore the Cosmos dose 3grams+. </p>
+
+<p>If you have never used Magic Mushrooms before then please familiarize yourself with this helpful guide: https://www.erowid.org/plants/mushrooms/mushrooms_basics.shtml</p>
+
+<p>It is always advisable to pick a set and setting you are comfortable with before ingesting and starting your ceremony for favorable results. This goes hand in hand with respecting that which is sacred.      </p>
+
+<p>If you would like to help avoid stomach upset or are prone to experiencing nausea when consuming magic mushrooms it is generally attributed to chitin, a carbohydrate contained in the cell walls of the mushroom. Making a tea is great way to extract the psilocybin from the mushroom and discard the chitin. Start by pulverizing or grinding up dry magic mushrooms. Measure dosage and put in coffee filter. The top of filter can be cut to reduce amount of unnecessary paper. Fold and staple top of filter. Place into bottom of coffee mug. Add boiling water over packet. If available add 1-2 tablespoons of lemon juice for taste and to aid extraction. After 10mins gently massage filter packet with a spoon. Do this again after 20mins and last at 30mins. Squeeze and press liquid out of filter packet the best you can. Discard it and enjoy your magic mushroom tea. The extraction process speeds up and reduces the bodies metabolizing time for your trip to 10-25minutes vs. 25-50minutes without extraction. An empty stomach will also speed onset of a trip. </p>
+
+<p>Drinking a small glass of Orange Juice or other Citric Acid containing drink while consuming dried magic mushrooms will help the body digest them easier.           </p>
+
+<p>Good Vibes and Safe Travels to You!  </p>
+
+<p>Namaste "Know Thyself" </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee (5.68 EUR) is included in price shown above. You only pay for shipping once when you order multiple pieces of a single product or other products from the same vendor within an hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102767"><img src="/kuvat/tuotekuvat/1e7837de16b8090bbd9df01b0a793528f828a43a.jpg?1515764742" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102767">250 X CHAMPAGNE BOTTLES 2CB PILLS</a> (<span title='350 EUR'>350&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73185"><img src="/kuvat/tuotekuvat/6f9390c86698e91319390aef849769e10e5272d5.jpg?1496926457" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/73185">LSD 200µg x 100 Trips - Pure Crystal 99.5%</a> (<span title='405 EUR'>405&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/kerets">Kerets</a></span>&nbsp;(<span class='green' title='Positive feedback'>98</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98200"><img src="/kuvat/tuotekuvat/b205b4ad540d59efea2e11aeb8fa4ca28da95176.jpg?1506057672" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98200">4-ACO-DMT [5 GRAM] [FREE SHIPPING WORLDWIDE]</a> (<span title='349.99 USD'>283.98&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/md">MD</a></span>&nbsp;(<span class='green' title='Positive feedback'>236</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/15227"><img src="/kuvat/tuotekuvat/aca96151744df4a411c260f838ddcb83c07d88ae.jpg?1455970770" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/15227">54g - Iboga Rootbark - High Quality, Cameroon</a> (<span title='295.2 USD'>239.53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/b1g1mpact">b1g1mpact</a></span>&nbsp;(<span class='green' title='Positive feedback'>636</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/86941"><img src="/kuvat/tuotekuvat/1e6e5ded02b2a1724f09094c9122c63a893495cf.jpg?1487990696" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/86941">500 hits of GDF LSD laid at 100UG</a> (<span title='485 USD'>393.53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ravegoddess">RaveGoddess</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1700">Psychedelics</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1702">Mushrooms</a>
+</li>
+<li class='active'>Quarter Pound Sacred *Magic Mushrooms* Powdered </li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7746.93 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

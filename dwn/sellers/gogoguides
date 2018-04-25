@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dptQr2w0jjsC64KUU2cXmNUX52iijObrZYM8HaJ6d8mMAlfcaStSzoRSTAwOy0jylBlnkxBi8UyOejppwmXsiA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/wLEZ">Suomeksi</a></li>
+<li><a href="/register/wLEZ">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/wLEZ">register an account</a>.</p>
+</div>
+
+<h1>Gogoguides</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Gogoguides from EVO, Alphabay and Dream, now here!</p>
+
+<p>Even tho my name points otherwise, I mainly sell Windows retail cdkeys</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFUhcEYBCAC0FrsM8vRSUm/hkaotCB417TrfC5hLwkkkxPn1yUXjHDVynjEy
+zqSH2wDKCpqpfVcvlrOpGac4+PNdx3AgtuEPMMBi5uyMrwyozLRjduZhNTm9Bekn
+iHurOxPQ24aMyXR3t5uJ09+6i1x6ThFOt24FcbNfA03mfpDeC74DvpYJbZVb2JXI
+XIRbmL10RNfcpdFToH9L2S9w18ivr02kCGrQPrZ73kEFNVc4ktxhjCvBvObYuopA
+g9r334adIezWPI2s2FgIzudzYbkRVVYPG04XbB+MnSyDbPCVtm44xrhWaZLLRBkX
+IlK/d8j1+oiLmZw1Xza+wcRihoDbJybiqa+TABEBAAG0JkdvZ29ndWlkZXMgPGdv
+Z29ndWlkZXNAZ29nb2d1aWRlcy5jb20+iQE5BBMBCAAjBQJVIXBGAhsPBwsJCAcD
+AgEGFQgCCQoLBBYCAwECHgECF4AACgkQGlZTC5V34Yk2GQgAsm3harVqBxA5Hpc9
+4v7dFFtyv/i3l2VOf1ak72Tzv+xIdiC9DK94jCJYy9VKpuvNIcvrLomgTZoONS/9
+rYMGvM8WTwnpZF4IjClZBlBXsbX6+zMDB6owlhRdzU+24VijxGfk3tO8o792yN0d
+f5tESFjQDsqNNnZOAQZ3VC6sVxDl69zCo1nciKkMhpu80N5hbK84YXaIOwOGHAqv
+uPhpJ4d/hH4Ic9UUYsKShDCSwgEj6m8I3qdZYKGi0T7SG1OCkPBPzD+xFC1HA12w
+LFkF/GOd2EWTBqLS1D/Z6CG2WXDLL5YGAZGlmTwHfvG9BGZ0H2dz+MmJQqZ8Z23x
+8s3cMw==
+=z2j2
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

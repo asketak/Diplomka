@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pk1QJrN6o1+GBvmgfgRswL4vuGZawEf+jJ7GsOBwaMiGtuwToJrz8SvJIgXswykp8nSzeRkqFYZXDM7exVmEHA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/evHn">Suomeksi</a></li>
+<li><a href="/register/evHn">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/evHn">register an account</a>.</p>
+</div>
+
+<h1>BALR</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>♥ ♥ ♥ ♥ ♥ ♥ ABOUT US ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>Dutch team that focus on High quality products for a fair price.
+<br />We aim to run a professional bussnes with drama free trades.
+<br />Scamming is not our part and we offer full escrow, that means youre 100% safe</p>
+
+<p>♥ ♥ ♥ ♥ ♥ ♥ PRODUCTS ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>High dossis pills 200+MG
+<br />Flake Cocaine
+<br />Ketamine
+<br />4mmc
+<br />Hash
+<br />Speed
+<br />2-cb</p>
+
+<p>♥ ♥ ♥ ♥ ♥ ♥ RETURN POLICY &amp; DISPUTES ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>We have over 80% succes rate when delivering mail.
+<br />its normal that we have seized/lost items as we send all products from a high risk destination.
+<br />if a package is lost/seized you will get a refund of 25% refund or 50% reship.
+<br />We Have Been Ordering &amp; Sending Drugs Through Netherlands post For Years.</p>
+
+<p>For BULK orders there is a option for sending from lower risk destination! Please message us for info.</p>
+
+<p>♥ ♥ ♥ ♥ ♥ ♥ SHIPPING &amp; STEALTH ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>We ship with postnl untracked in a bubble envelope, with a good stealth and using always mylar + decoy.
+<br />We ship always the order in  24hours after purchase</p>
+
+<p>please use a full real name when placing a order.</p>
+
+<p>♥ ♥ ♥ ♥ ♥ ♥ ORDERING INFORMATION ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>We ship monday till friday (no weekend)
+<br />All orders placed on sat/sun will be sent on monday.</p>
+
+<p>♥ ♥ ♥ ♥ ♥ ♥ MESSAGING ♥ ♥ ♥ ♥ ♥ ♥</p>
+
+<p>Please message us if you have any queries at all. we are happy to answer youre questions.</p>
+
+<p>FAQ:</p>
+
+<p>Q.Do You Do Larger Orders Than The Ones You Have Listed?
+<br />A.Yes send us a message</p>
+
+<p>Q.Can You Tell Me About Your Pills?
+<br />A.All Of Our Pills Are Quite Popular And You Can Find Info On Pillreports.net</p>
+
+<p>Q.My Order Didn't Arrive, I Want A Reship/Refund
+<br />A.Look at refund/reship policy</p>
+
+<p>Q.Can you do track and trace?
+<br />A.Yes we offer track and trace on orders above 1000 euro</p>
+
+<p>Q.Can you do custom orders?
+<br />A.Yes, but a custom order will be worth of 750 euro</p>
+
+<p>Q.Is my order shipped?
+<br />A.If youre order is marked as shipped, we always send youre order out in 24 hours.</p>
+
+<p>Q.Do you know where my order is?
+<br />A.NO we dont know where youre order is, once youre order is posted its out of control</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+oMkk7TArw7Q49trtDFgYKC+ETQ==
+=Kt72
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

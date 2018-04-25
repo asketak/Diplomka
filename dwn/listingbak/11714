@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qysL3JYe+jhuGNKabhAHqUef3DTdAT7TheNArpyHG5eaWMqHAliT+0WdwMpOSm5MGoqvj3Thx5C2f1/PIq7Cdg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="http://silkkitiehdg5mug.onion/tuotteet/11714">Suomeksi</a></li>
+<li><a href="/register/Az6C">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/d5188ccf4def0ad45c12d77921b586c0ee0bc1e1.jpg?1455970087"><img src="/kuvat/tuotekuvat/0ad38ec7dab454b9478f629d449ab8b8d4dbd2d3.jpg?1455970087" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Az6C">register an account</a>.</p>
+</div>
+
+<div id='product-header'></div>
+<h1>40 x Kratom capsules</h1>
+<ul class='list-unstyled specs'>
+<li>22 EUR <em>(0.00241 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dionysos">dionysos</a></span>&nbsp;(<span class='green' title='Positive feedback'>381</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-5</span>)
+</li>
+<li>Austria &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland, Ukraine, Poland, Romania, Greece, Czech Republic, Hungary, Belarus, Bulgaria, Serbia, Slovakia, Latvia, Lithuania, United States, Canada, Mexico, Brasil, Australia, New Zealand, India, Russia, Japan, Argentina</li>
+<li class='text-muted'></li>
+</ul>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>product: Kratom
+<br />strain: green vain
+<br />size: 40 capsules, each contains 300 mg of powdered Kratom
+<br />effects: stimulant/sedative, mild visual effects</p>
+
+<p>Kratom, a plant which has it's orgins in South-East Asia is used as a medicine (pain killer, substitut for opioid's) as well as a recreational drug. It does not cause significant dependence. Depending of the dosage consumed kartom has stimulant effects (low dose) or occurs as a sedativum (higher dose). Do not use Kratom in combination with other drugs.</p>
+
+<p>dosage:</p>
+
+<p>weak  3-6 capsules (1-2 g, stimulant)
+<br />medium  8-17 capsules (2,5-5 g, stimulant or sedative-euphoric)
+<br />strong  18-23 capsules (5-7 g, sedative-euphoric)
+<br />very strong  24-33 capsules (7-10 g, sedative-euphoric)</p>
+
+<p>It is advised to start low and work the dosage up to avoid unpleasant effects.
+<br />Onset: 15-20 minutes
+<br />Duration: 2-5 hours
+<br />Normal After Effects: 3-6 hours
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 7.0 EUR (postal service) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

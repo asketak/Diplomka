@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zV/QDXYm/a1GnJ1qnvpDzsmPOOpspBYe69egpUstIaYNQyBeQtdMjeOmOnKE90KzcbctYgJDXz8qhb2VXthFnQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/9fLp">Suomeksi</a></li>
+<li><a href="/register/9fLp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/9fLp">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Anira</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>45</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 1877 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We sell here high quality products. We use discret stealth, what make sure the orders arrive at your adress. </p>
+
+<p>Terms &amp; Conditions
+<br />--------------------------------------------------------------------------------------------------
+<br />When ordering from us, you automatically accept ALL of our Terms and conditions
+<br />If you have questions, keep it simple
+<br />We keep the right the cancel orders
+<br />We only accept payments in Bitcoin
+<br />If you are not satisfied with your order, contact us before leaving a negative feedback
+<br />We expect from our buyers honnest feedbacks in order to improve our services, thus your satisfaction
+<br />Regular buyers can be granted a higher reshipped quantity, depending on each cases
+<br />We keep the right to blacklist any customer that is suspected to scam us
+<br />Do not disclose information about our packaging in feedbacks or forums.
+<br />Sales are always done with a real respect, confidence, and processed quickly to satisfy at best our customers.
+<br />There are no exceptions to these terms and conditions</p>
+
+<p>SHIPPING AND PACKAGING
+<br />---------------------------------------------------------------------------------------
+<br />Orders are dispatched the same day if the order is validated before 12h00
+<br />At the lastest, dispatching happens the next day after you placed your order
+<br />We dispatch orders from Monday to Friday
+<br />Stealthy packaging: your order will come as a business standart letter (no tracking, unsigned, vacuum sealed)
+<br />Your personnal informations are considered strictly confidential: we de not keep them: thay are securely deleted
+<br />Don't forget to add the delivery country in the address and format the address properly
+<br />-------------------------------------------------------------------------------------------------</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK----- 
+Version: BCPG C# v1.6.1.0 
+
+mQENBFaFnIUBCACFHymZjzOGX5Ku+M8nt3VKtap20MCgG9PjIPm/rJ8aMR5+25Fb 
+XnYHw99KTENL3fsz+gXf0gb4UW/OzDpEdwoM4vlJwI7Rr9YpxG6NHQ4a09lnH5uU 
+Efz1HirsKS0xOZbQvPn5ceHyZHavRuQ9TNMdYCkCmpUCtkhis2dVF8ZUP+sJ6W/K 
+cea/YwlBNff4a4yz5RNlkB1EWbMr3lxBWXc04ftCmDzI5SjTp/9bYCkJClU1G/Lc 
+SQQAZmYs+xjUgwTPdE/dlSIZVWe0wkJF/lpGNAEb84pbsgsPutV9jzmaKHJ29g7x 
+F+yUv3l/yETDsbxlXDTcRkUTWYeSHwexLvU5ABEBAAG0AIkBHAQQAQIABgUCVoWc 
+hQAKCRD2Uwh41Fh+JkTjCACCKpYhgcxQ0c+iri8EvdYdsNL17yWfFh6aeqGph4Q9 
+3IA8mHq1L00sqQBSWg4AOXL+VAaIK7Na2fRsdTS5mQvC+ZLxXvfRwMMPXkZ4CYsj 
+GJOJEusRvIm/BwOm8R6ouAWlbq8AN6+ZSqRF1lKO4aWrvoqybCNXdftScng15hXD 
+dzC5SsKsy2slN0QPOgR7LmWqKoJjelG5hS5Sc082JiLz/iusB78Wvobua/JVZQ76 
+hcVK7Ic4W+TTxmbUFLExOW3TTCljjIjh3mmv3aA2vv/5mxng6eA5kSQ2WHeiGXmN 
+nkFZ54MEYQ90ddVky7xXyQ84gu+KtrodhX3DFvWjdh/L 
+=djhN 
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

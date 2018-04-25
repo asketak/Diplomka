@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="f3G2N9sHiPa97VJf2h4c6a7AAmeXEdN/ZE+tg1i34mhAo6RAtSmw4xMrZfFKa6Ytwe9ZdSQF4SI5FQk6Lump3A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/C3Gi">Suomeksi</a></li>
+<li><a href="/register/C3Gi">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/C3Gi">register an account</a>.</p>
+</div>
+
+<h1>ElHerbolario</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello everyone,
+<br />I introduce myself, I am ElHerbolario, former member of FeelGood. (at the bottom of the page you can read a signed message to prove it)</p>
+
+<p>In my shop you will find only high quality products, as you expected or better.</p>
+
+<p>We offer two types of listings: with FE and without FE.</p>
+
+<p>The prices are as follows, exept in varieties designated as special.
+<br />FE:
+<br />5g 37.5 Eur / $ 41.79
+<br />10g 75 Eur / $ 83.59</p>
+
+<p>Without FE
+<br />5g 42.5 Eur / $ 47.37
+<br />10g 85 Eur / $ 94.73</p>
+
+<p>No bulk orders, max 10g per order.</p>
+
+<p>::::::::::::::SHIPPING ::::::::::::::::::::
+<br />All orders placed after 13: 00h are shipped the next day.
+<br />Daily shippements, exept weekends.</p>
+
+<p>We offer 2 shipping methods:</p>
+
+<p>Stelah: Two layer of mylar professionally sealed, decoy inside, brown padded envelope, sender and recipient printed on labels.
+<br />Price: 3.5 Eur</p>
+
+<p>Paranoid Stealth: Two layer of mylar professionally sealed inside an object that does not raise suspicions, exterior decoy, brown padded envelope, sender and recipient printed on labels.
+<br />Price: 5 Eur</p>
+
+<p>In either of the two options, the sender changes weekly to avoid suspicion.
+<br />All shipments are made without tracking, except in special cases, in this way we protect our identity.</p>
+
+<p>Do not use fake adress or false name, we are not responsible for your order is not delivered in such circumstances.</p>
+
+<p>We copy / paste the address Directly, so, we recommend you write in the following format:
+<br />- First Name, Last Name
+<br />- StreetName and housenumber
+<br />- 12345 City (Zip-Code and City)
+<br />- Name of Country</p>
+
+<p>Usually delivery times are:
+<br />UK: 4-12 business days
+<br />GER: 3-7 business days
+<br />FR: 3-7 bussiness days
+<br />ITA: 3-7 business days</p>
+
+<p>::::::::::: REFOUNDS :::::::::::::::</p>
+
+<p>To get a refound, you need to prove good history buyer / user forum. Each case is reviewed individually.
+<br />If you meet the requeriments to refound and your order has not arrived after 21 days, you will be offered 50% refound or 50% reship of the order. There is no further refund if you choose to resent the order.</p>
+
+<p>Any negative feedback will avoid any refound / reship and you will be banned from this store in future.</p>
+
+<p>So, if you do not trust us, PLEASE DO NOT ORDER.</p>
+
+<p>:::::::::CONTACT ::::::::::::</p>
+
+<p>I highly recommend the use of PGP in the communications.</p>
+
+<p>If the market is down, you can contact here:
+<br />elherbolario@lelantos.org</p>
+
+<p>ONLY USE THIS EMAIL WHEN WE ARE DOWN MARKET, IF NOT, WE NEVER CHECK MAIL.</p>
+
+<p>Grams profile:
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0x3606DA418DA3DB32</p>
+
+<p>-----BEGIN PGP SIGNED MESSAGE-----
+<br />Hash: SHA512</p>
+
+<p>ElHerbolario is a former member of FeelGood
+<br />To certify, I sign with FeelGood key.
+<br />-----BEGIN PGP SIGNATURE-----
+<br />Version: GnuPG v1</p>
+
+<p>iQEcBAEBCgAGBQJVQkUxAAoJENReZAIqh/96McgIAMUGakDWcK4uOz4nbpYJJwHh
+<br />YzZ7Dja+yJNzjS3zBEPVx1/p+igDEaqsQ5kgNaP052B7RBf91imdkLIU1WoPE6OU
+<br />81gSpNcq72M0E26HhbZNWHZ0bEV+830p/rIAApjCQo04YDM4vhCi1MJhAi7M7kRG
+<br />zU4TXlC79d7qhUkoT+JXvz8wP7w5jShl2rLZrQOm8h2yoChqOui6Tx18/VUMHJI5
+<br />xQ895dZuLi6uKzNq8sytR3ZO8toAFu2al01xzuKRwBASg+OkaBrWYTen1W/qqgHP
+<br />HWFEqS2hZYns4W03eO+khRLefd9GfSILPCO+ZReI8vXziIXa89Lk3vodbtQ3DO4=
+<br />=MYYS
+<br />-----END PGP SIGNATURE-----</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+x2M+Y+w=
+=Rx4M
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

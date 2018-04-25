@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="l/vKaosT31y2Sz9BntlxElC9FJYDbkZG+X+IHghUf/VaX4T6P/R/VPWOOrzypbUGoaeypDDP8HK+t9qPVeJa4w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/7b3796083e14310ec66cc146328eb356e774ad14.jpg?1499021658"><img src="/kuvat/tuotekuvat/d9bc16c6ecdef8ffd66234d64386b0365d4dc6ef.jpg?1499021658" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>G13 X  CALIFORNIA ORANGE 5 Seeds</h1>
+<ul class='list-unstyled specs'>
+<li>20.41 EUR <em>(0.002621 BTC)</em></li>
+<li>21 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/qualityhydrobuds">QualityHydroBuds</a></span>&nbsp;(<span class='green' title='Positive feedback'>97</span>)
+</li>
+<li>Australia &rarr; Australia, New Zealand</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2NhiBveLvm5agh87C0joVDDsc92dHikFHeeVn/p4NFgVfCyWQ2weZhlHGsZnNCxAwfbV766/nzFaL8cOp84RTg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="96227" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>PURCHASE 5 SEEDS AND GET 6 (1x FREE SEEDS)</p>
+
+<p>REGULAR- INDOOR OR OUT
+<br />Reliable seeds carefully bred.</p>
+
+<p>Product Details</p>
+
+<p>California Orange Bud is an Indica-Sativa cannabis seed strain with a heavy yield. This variation of Orange Bud has been selected for its sweet orange aroma and taste. During both the grow and flowering periods, this old-school classic begins to exude mouth-watering notes of citrus and spice which intensify once the dense, solid buds are harvested and cured.</p>
+
+<p>The flowering time for California Orange Bud is a bit longer than that of some other cannabis hybrids, but well worth the wait. A large amount of the plants will also grow long pistils which develop a deep amber to vibrant orange colour, giving them a refreshingly different appearance from the many 'white' strains that are available to buy. Some even develop an unusual and pleasing pinkish hue!</p>
+
+<p>Here is a review from Leafly-</p>
+
+<p>"G13 is a very strong strain of cannabis indica that is the subject of many urban legends. According to some accounts, the CIA, FBI, and other agencies gathered the best strains of marijuana from breeders all over the world. At a super-secret installation at the University of Mississippi, they bred many new super hybrids in the late 1960s. Allegedly, a single cutting of this plant was liberated by an unnamed technician and bred for the masses."
+<br />  
+<br />"G13 delivers effects like no other."</p>
+
+<p>*POSTAGE*</p>
+
+<p>FREE POST
+<br />There is no next day delivery from my location , its only 1 day difference from express to standard post. I dont believe buyers should have to pay $10 express when its not really express post. 
+<br />All post is now FREE and it could be Express/Parcel post or Standard, randomly used for enhanced security.</p>
+
+<p>* PGP*</p>
+
+<p>Use PGP when you can, its for your own benefit.</p>
+
+<p>*FE*</p>
+
+<p>No need to Finalize Early.</p>
+
+<p>*STEALTH*</p>
+
+<p>All packages stealth packed, vacuum etc.</p>
+
+<p>*REFUNDS*</p>
+
+<p>A case by case basis, but no refund when tracking says it arrived.</p>
+
+<p>*HONESTY*</p>
+
+<p>I will always be honest with buyers so i expect that in return.</p>
+
+<p>*FEEDBACK*</p>
+
+<p>Any less than 5/5 feedback -contact me first so we can discuss the issue and work something out.</p>
+
+<p>*FINAL WORD*</p>
+
+<p>I aim to provide people with the highest quality strains at the lowest possible price .</p>
+
+<p>*CONTACT*</p>
+
+<p> 
+<br />-----BEGIN PGP PUBLIC KEY BLOCK-----
+<br />Version: BCPG C# v1.6.1.0</p>
+
+<p>mQENBFf/2tQBCACrQF4HsEozUY+GgCKEQq+3YJLl4PNrQigQkUpME2rjj2fCxPjg
+<br />3V8p1TvdwboXmb6ih+f+V+I0l76LMpG7CWuvbwfr6CQv1ra1yclfWm/0u+R5rb4v
+<br />unKQZwmMx3AJuyiuyxfW2rCaAoU/4qnfr6SI4HkMpMt5ixV0NfGy0DmgkDGaE41D
+<br />AoEavUE3RK4hXYH79P9jY1WKYriCH28ngpg6hQ6G2vjrg/6hVHbScYjHduR0QYBK
+<br />PxXUpICrxoxykCaA5mOPqrLl0mKy1tEh0ZLmBTtyOK2GlXUGFmrE3AE3hlPZE511
+<br />V9SFRBYkmzCTdNKShZngNkkpTEpuqzIYD+OXABEBAAG0HVFVQUxJVFlNRURJQ0FM
+<br />QERBUktORVQuQ09NLkFViQEcBBABAgAGBQJX/9rUAAoJEHUcAfY0HGiHYwgH/00H
+<br />3hnNYnWYpOQnllHAAR80C6IahbT/3ZAFCi2wbBJEAbg6Igt1ExEotmGjTdPd3M7o
+<br />JBwPNz4R/tuiLc348RyArBQXkYK4jfzoPuOEBwSRxVARd9KBkuYezq6IwR3wR3E7
+<br />n+ZXEGBTp3//+kvP22WRnPIOulUnn8HkccLRro0mV2oToM8LNkWXZQn5S7XXA19b
+<br />lkw+MaH2tfHUZ67jwV5KILl8Y6Q1cy8tuTjXg+02TcJjoH/Hd73CAS49hIpoKQrR
+<br />eXejn/IKEqouY/TYxVQ1V44a95E6MVyJGAR3y8WW4GB+HDAb5JNIGMVveFSIwLiJ
+<br />m91d8y7FQ45/1s/MMpo=
+<br />=Z9Fe
+<br />-----END PGP PUBLIC KEY BLOCK-----</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/58944"><img src="/kuvat/tuotekuvat/346cc4658a7d43015916ea6c913adff4e212c7c5.jpg?1515740246" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/58944">Tarjous 15eur/g!!! White Widow x Chronic</a> (<span title='18 EUR'>18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/suomenninja">SuomenNinja</a></span>&nbsp;(<span class='green' title='Positive feedback'>1687</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99589"><img src="/kuvat/tuotekuvat/5c67a70436271ef737ca99733e2e5a9181206641.jpg?1506502906" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99589">1.2g Jack Herer | NDD/UK / Best Customer Service </a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100340"><img src="/kuvat/tuotekuvat/3bd51829dcef1f4e1cd30077ae72cb406a538545.jpg?1508728913" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100340">2g - Super Silver Haze Dutch Import FREE UK SHIPPING</a> (<span title='15 GBP'>17.07&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101181"><img src="/kuvat/tuotekuvat/cc9ead446cc81206c86759dfa9f3b514544a96ce.jpg?1510731730" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101181">Mega Mouth(2.2g) outdoor weed</a> (<span title='22.4 EUR'>22.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bathramme">bathramme</a></span>&nbsp;(<span class='green' title='Positive feedback'>547</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-8</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101559"><img src="/kuvat/tuotekuvat/efdcfb98bf399fb810e4329ca458bfdd4808d8cd.jpg?1512150762" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101559">SUPREME CHOCOLATE TRUFFLES (2 X 20MG THC) X1PC</a> (<span title='33.98 USD'>27.65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bmg1">BMG1</a></span>&nbsp;(<span class='green' title='Positive feedback'>1140</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-9</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>G13 X  CALIFORNIA ORANGE 5 Seeds</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

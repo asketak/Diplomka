@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="gkC6qJwURcoVPy/DH51ZaSggEiQ9iWBaSe21cnnJ1VUBRBkrukpAYK3FRkOKzyNtce/+ayD8ike3gYqVStWpxg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/2DQKgwqq">Suomeksi</a></li>
+<li><a href="/register/2DQKgwqq">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/2DQKgwqq">register an account</a>.</p>
+</div>
+
+<h1>Mr.Cigar</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>-  All products are seeded, harvested, produced in Havana, CUBA 
+<br />* AlphaBay Cigar Store!
+<br />*************************************************************************
+<br />-Business hours:
+<br />* Allow 1-2 day shipping handling.
+<br />* Weekends' orders will process on Mondays.
+<br />*************************************************************************
+<br />- For more Info &amp; Claims, email us.
+<br />* Mr.Cigar 
+<br />* old_havana@safe-mail.net</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFaNSiwBCACru28enVmXvXvd3AiUkVjFy6UwmIkInesaq5iRG3O30VgbIKuH
+N2KqtpZS9rJn43g4R6evFuLXwytiPRHmYzdpzQwcIMpy6vUOYlu/ktjtyas/ulIF
+uKpKJQbtz3xQhiK+pg+ifoK1lQmJdPsXxtYI7hhLkjzHyKdgVflBnY00pVWkjZC2
+cqyxNUty7yQ2iLMBDHHxEiLtmBC09WbclNatnxa2vzjCztVh0TgrJEoDniMqQJgw
+Xs9qujfMYUFaBx74LYEk6/iMiOXJ5YFjTk63o/pJ8wnMIj6iezSo8qqdcDRnO2yu
+QtYLXnhoQxsoW0hL7/WYmsrlFnPD/4HDpXntABEBAAG0GG9sZF9oYXZhbmFAc2Fm
+ZS1tYWlsLm5ldIkBHAQQAQIABgUCVo1KLAAKCRBsAyRviYHES4/1CACb/SvTT1+g
+iXJRLkmNJpGK8OU4e9A5zTieXThnmVNLMx5MugxCCtVmB0fjs/Hoi+CHvogAjTy9
+lBiLgmK8Kxj1calXOunTOlUg5cIzlWfYJsGtVw2z/qIk/7ftYxEBr6VngzFK7Z5O
+Lhm/9SNtnbPxANWVIIwvGDq+E9b2ArT58oIvAqFdp6QCedbzkKcofVVGyGDFGeP5
+vUo7uMVUCBAsznY9qRoIqMYzkK/qOgK++cVylkDrjOCE4e4/cY7P6kRjFC0XCLxn
+03RUSGXWp5/MZMa3PFv3KgU9XZ1g5SmKTHlDfd7H3dMBbTAprU/nQ33bhu577WXE
+82ZeXisQVxOa
+=LLXm
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

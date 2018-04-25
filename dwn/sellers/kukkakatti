@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MykmjS9ehxzMRQ1+prgzlYfcQCH3J4Wz/ZX/jWJ//AQiy9j5PqUnNIbA2QMaMA9zKyXvfO0/CqxGXbr3IjZlbg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/EKxC">Suomeksi</a></li>
+<li><a href="/register/EKxC">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/EKxC">register an account</a>.</p>
+</div>
+
+<h1>kukkakatti</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>747</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 7 hours ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>Kasvatan pieniä määriä omaan käyttöön, en niinkään myyntitarkoitukseen. Myyntiin päätyvä kukka on hartaasti kasvatettu orgaanisilla ravinteilla ja curetettu vähintään 3 viikkoa tarkkaan kontrolloidussa ilmankosteudessa. Lopputuote on maultaan ja vahvuudeltaan ykkösluokkaa. <b>Laatu on aina ykköskriteeri!</b> ps. Tapanani on laittaa paketteihin vähän extraa tutuille ja joskus vähemmänkin tutuille ostajille :)</p>
+
+<p>Toimitusehdot:
+<br />- Kaikki tuotteet/paketit kulkevat 1. luokassa. 90% tilauksista tulee perille seuraavana päivänä! 
+<br />- Postitan paketteja maanantaista-torstaihin. To klo 15 jälkeen tulleet tilaukset maanantaina postiin
+<br />- Kaikki ennen klo.15.00 tilatut tuotteet ehtivät päivän postiin.
+<br />- klo. 15.00 jälkeen tehdyt tilaukset viimeistään seuraavanpäivän postiin.
+<br />- Tuotteet pakataan mahdollisimman hajutiiviisti ja stealtisti. Käytössä korkealuokkainen Mylar joten ei hajuhaittoja!
+<br />- Ostajan tietoja ei tallenneta missään vaiheessa mihinkään</p>
+
+<p>Jos heräsi kysymyksiä niin laitathan viestiä 8) 
+<br />Ps. Mikäli Silkkitien siirrot epäilyttää niin laita viestiä. Hoidetaan siirrot turvallisesti ulkopuolisilla lompakoilla. (Minut löytää myös Wickr: kukkakatti)</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Päivässä perillä, maistuu &amp; toimii! 
+<em>(17.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(154&nbsp;EUR)
+</td>
+<td><span>
+uf***la
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5 Kiitos hyvästä tuotteesta
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+il***ri
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(304&nbsp;EUR)
+</td>
+<td><span>
+cp***pc
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(7.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+ha***lf
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Huipputyyppi 5/5!
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(154&nbsp;EUR)
+</td>
+<td><span>
+St***ye
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/31428">3g Wreckage *Sativa*</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+gr***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(3.4.)</em>
+</td>
+<td>
+<a href="/products/4270">3g California Orange</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+fe***ng
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Great!
+<em>(20.3.)</em>
+</td>
+<td>
+<a href="/products/5320">2g NL5 Haze Mist</a>
+(49&nbsp;EUR)
+</td>
+<td><span>
+an***ep
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistava myyjä
+<em>(17.3.)</em>
+</td>
+<td>
+<a href="/products/5320">2g NL5 Haze Mist</a>
+(49&nbsp;EUR)
+</td>
+<td><span>
+pe***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/kukkakatti/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFRzGu4BCACbF3AaAEU0c97fAU+phzlhC4m/Ucwy2tsQC8+cNXi35+R3hTkO
+kGkgxlukLsbkXzWD27gm11q/nxT51AK8iDkzqu89YgICINDCNksMRWmvVvpXnLZm
+WZ2hdlfqHlx8udDrn5jG6zXtgtL+OfFyOMesd0XozXDmvaKciUUv4t2fpzr4phcG
+nYVHpJnTi49BAiwxDIfdof2L5E3a5h6M1YwRKgOzcLK8QrxAuKgBrIuGOIQ9ZQ7N
+QTAK6E15PIZIip32yopoZCpxQy8Ns+BKBkLDKRFf/s96DyQS4q0xiQSrUNAzlHZU
+I8Ir+N/yeJvZ+pI3og3xmfdI193RvrCAfNDZABEBAAG0GGt1a2tha2F0dGlAU2Fm
+ZS1tYWlsLm5ldIkBHAQQAQIABgUCVHMa7gAKCRCBI3WjVw7YReCNB/4r+u252fk+
+5Z7m2O43ycs6VKuVlafKNv4dsQe8ey0RLZ7frktOFqWScqVByY1UkErZiSGn9krk
+tnNGNO0VpnLtMXHjQ/zIDpaBF9G4slimvkDtgoFBJxY4yxLYoVW5NOGYHv2lmgIp
++DPL4H6pzz0HLdr/og0NoSC3XVmvJ8PIaFD0ns8Wlxkxj9YBvNwbbwMHWov98hAg
+wo+mk039rajtipT4jOAwBUy1kKfgS0v1WNJ8Pu2mJEHR2h4rvn2dWV7xVHwN4hdW
+gqreD3GDjWYIxqOY5aXN9alcDNGDFHsXEXDTQpGJZxEGEzQtwMpwIWbXt25Kd2Ru
+bS5Vh6XZ2cAV
+=fyCY
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

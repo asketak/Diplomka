@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SAoeuqSaeCL4mpoDEhl6eCjdEFPRjCwHSbpRLKK1brUqj2qGZoDygvdRh/SodsR/Eo9N8UUpEYEyLRsc7f326Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/y5Ln">Suomeksi</a></li>
+<li><a href="/register/y5Ln">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/y5Ln">register an account</a>.</p>
+</div>
+
+<h1>SpeedBall</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 15 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello there all people from Darknet.My name is SpeedBall.I ship to pretty much every country in world except Russia (Sorry russian guys , too much risk).I am located in Europe.</p>
+
+<p>Delivery times:
+<br />Europe = 7 days
+<br />Asia = 14 days
+<br />US = 14 days
+<br />South America =  18 days
+<br />Africa = 18 days
+<br />Canada = 14 days
+<br />Australia = 18 days</p>
+
+<p>Refunds and Resend:
+<br />You have right for resend or refund only if you made at least 3 successful orders with me.</p>
+
+<p>I am selling on these markets:
+<br />Dr.D - http://drddrddig5z3524v.onion
+<br />AlphaBay - http://pwoah7foa6au2pul.onion
+<br />Valhalla(Silkkitie) - http://valhallaxmn3fydu.onion
+<br />If any of those markets are down you can use email 
+<br />speedball@sigaint.org</p>
+
+<p>Address Formatting :
+<br />Your full name
+<br />Your Street Address
+<br />Your City, State and Zip Code
+<br />Country </p>
+
+<p>My number one priority is satisfaction of my clients , if you have any question PM me :-) .</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFYNHvkBCADQlvKR7AF9iyJHyb5hAn3hhGMBFkMGlZngaZlJ9aC9u/izGtQX
+lE4Oa/xZklrSIggB9YiPpqVLZihcsAAdua5xK99JCaFPuU8/SOHV4+AEeJU9Ug8l
+jnD3J70duSe5xD9RSv+MeL9EpA+w/yMrT6phkdm0nhqsCOtb8MI2BBVdpax3nvYU
+l/u7/yFSMPsz2jCv3OwMgWyPQVf/Q5yU1AH9LcWJE91RBo6f0+tOrRyr+NlPsOGv
+SQl2+a/v/cbKhtGBOgkf1UJb5OzB3PHIALAQ0T2d9HJkUGeXThCyhdQHfGtOiWpC
+U94Go3OxX5wTjfz1wzMX6UlC/NksyGXqohsxABEBAAG0CVNwZWVkQmFsbIkBNwQT
+AQoAIQUCVg0e+QIbLwULCQgHAwUVCgkICwUWAgMBAAIeAQIXgAAKCRBdTMD2oeFv
+u751B/94DDDBhndiOjBm5rI+KK1z2PwoLnKNIEKW8XBSP031Rjh7ZY1F2xSlBHn+
+AQUsRyYt07PeW2SctHzXazfxZeB26PISCARM+yu22WHi/d7r1/3iICW8V/iWh0uE
+k8sR1c5kQd2kw+tmNliRs+eDZsUDWLs+Q4J4nwkKTKKLGVJDW5BJKf9VAZl8xMko
+vu/LMY1A3qlzM/LMn3g6RzRJx2KdBibmECC7B8bUBcR72aZmjIwxn/kcYkZ76xRC
+pV4Q+QqPijmHuV7a9U8rm10GqqTEZZXzWnr9195YvW0TfOppxBBdfephlJxxzjm7
+WE9QkqcVsi43yD4cqtfTzKxSK+jAuQENBFYNHvkBCADKFYIoOw1m7X5jeNtcfB5Z
+WfhQAiuDpJma0o8kC6lFVQ7Hmkzh3OO7NLHqRcScctwJHS6mOfvam6doAaPSY/nL
+B1QOWB2VJ1arQjtNYrzmWhX8STtr2yonCAveNaD0bPhuyM31vWh4wkGTVrhjr/N7
+9FHQsHJFkcT5BuFFYYvZuNdtAG9KqLaHZyK5ndFVWQdGPRFqS2aL+fAm5bRKj5Qw
+3JbllR8fQa9xdDn32dljfsUTq5lzakYgL6fw9uoUvl+bu227udoG4IVWH7B9rWBd
+QS+EVpUVQfc5/Yx5qlQMcXPrV8Bj0s3sbqsjVT+LFAHnqpszvbYTkENWMwC7wfvx
+ABEBAAGJAp4EGAEKAAkFAlYNHvkCGy4BiQkQXUzA9qHhb7vAvSAEGQEKAGYFAlYN
+HvlfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhv
+cnNlbWFuLm5ldDY2N0U5Q0UyRDVGMTZBQjY5Q0VDRTkzRDdEQUY5QjU3OTRDQzdF
+MTgACgkQfa+bV5TMfhgAOgf/Qk0NnjjclFlZoFRSE12K3+HM3M3eoQpitmKJKvrz
+MwBnnv6RHnguV+psc6S9+l8O06UwPU793JX0xky7/J1Isfk5qx8nQB9FKrTRwrcj
+2/92Ecn1UAhVbpq1g/Shq6GO05LEG32DzwhihwgAViEj3LKlZx+sC+1U3jJLazB5
+2BzCL27g1ezWk9WYvwxRk/6Pkf21iLJnM+5OgmEocmtqjY+siXT0Hqxf3H86N+ek
+yo0wFTHjPqWLNWwLbUuqQejmMp9q6BpJEAeXD9IEpQW+v9zBrmUa7N0rz5sRIc6R
+0MA4AG8g/BwX82f3qH9uFdfv/XohpEqhiDaik2Uupy+HRqqACADLnZVS+URqdlox
+S/IJd9IL8vf0fCVt9wluHWngogzx+FJ46ewq8+pIOKMyNqYWV4lvJTwmXdchrBoy
+A5c0RWLxYubirgFBVgyxVWyLYQVldqPyGRBYIPkypRfFxqcwIZdgNtAPkI75ZW99
+g3NT3Qh8J1yj/3n7LVA07w4Bd0Ko5CjUuA3LkCsQNDeOyd9MwbkC3NJ54tb3rc47
+F+tornErn1QGCIIG9KIZxEO+Roty2TtAnquAOsoRKsBJk4iza7MiEqgevfkBORyD
+N9hWZccYJhvTCD+t+C1WZe2/h46UzUi5N9Ryu8K01kI+m5YFldj9nViue5VQ0AOv
+3NA2/maR
+=cNU9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

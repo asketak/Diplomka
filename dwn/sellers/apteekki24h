@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qhMwUPyRqC7watKqazw66yQvp8A5qaAVRqndqBhb5PAoYwvqFm0L4iiqnGgdOeANfHcxUqyuDYL8KyVvgMeYkw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/rDsD">Suomeksi</a></li>
+<li><a href="/register/rDsD">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/rDsD">register an account</a>.</p>
+</div>
+
+<h1>Apteekki24h</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>3378</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-4</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 8 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>
+<b>Apteekki24h harjoittaa kauppaa suomalaisista apteekeista hankituilla lääkkeillä.</b></p>
+
+<p><b>Nyt sinulla on mahdollisuus tilata Escrow:lla tai FE:llä (jolloin saat halvemmalla hinnalla).</b></p>
+
+<p><b>Mahdollisuuksien mukaan teemme asiakkaillemme customeja. Vain yli 250€:n tilauksia.</b> 
+<br /><b>Customit pitää maksaa etukäteen (FE).</b></p>
+
+<p>Toimitukset 24tunnin sisällä tilauksesta (ma-pe), viikonloppuna tulleet tilaukset postitetaan seuraavana arkipäivänä.</p>
+
+<p>Postitamme myös perjantaisin. Jos et halua tilaustasi perjantaipostitukseen, laita siitä meille viestiä.</p>
+
+<p>Toimitukset paketoidaan ammattitaitoisesti  siten, että ne täyttävät postin kirjelähetyksille asettamat enimmäismitat ja -painot.</p>
+
+<p>Toimitukset postitetaan 1lk:ssa. </p>
+
+<p>Postikulujen osuus (2 euroa) sisältyy tuotteiden hintaan.</p>
+
+<p>Toimitus merkitään postitetuksi samana päivänä, kun se on jätetty postin kuljetettavaksi. </p>
+
+<p>Ennen klo 12 tulleet lähetykset pyritään lähettämään vielä samana päivänä.</p>
+
+<p>Pidätämme oikeuden peruuttaa tilauksen jos bitcoinin kurssi muuttuu merkittävästi.</p>
+
+<p><b>TURVALLISUUSSYISTÄ EMME POSTITA POSTE RESTANTE OSOITTEISIIN!</b></p>
+
+<p>Nyt saatiin negatiivistakin palautetta...
+<br />9.10.2016 on annettu kaksi negatiivista palautetta on yhdeltä ja samalta asiakkaalta. Hänelle on lähetetty contit kahdessa eri kirjeessä. Kumpikin kirje eri osoitteeseen. Asiakkaan kertoman mukaan kumpikaan ei tullut perille. Aika uskomatonta. Samalla kertaa lähetimme noin parikymmentä kirjettä, joista kaikki muut saapuivat palautteiden perusteella perille 1-2 vuorokauden sisällä. :)</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tuli perille loistavasti, kiitos! 
+<em>(23.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(124&nbsp;EUR)
+</td>
+<td><span>
+as***ry
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perfect,!:)
+<em>(23.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(62&nbsp;EUR)
+</td>
+<td><span>
+di***pi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Aina yhtä luotettava myyjä. Peukku ylös!
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+ku***ku
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/58239">Custom#1</a>
+(26&nbsp;EUR)
+</td>
+<td><span>
+di***pi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitoksia jälleen.. Homma toimii, niin että palautekaan pysy perässä^
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(93&nbsp;EUR)
+</td>
+<td><span>
+di***pi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5 nopea käsittely ja paketoitu hyvin
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(93&nbsp;EUR)
+</td>
+<td><span>
+Mo***sa
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perille tuli 😃 10+
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(31&nbsp;EUR)
+</td>
+<td><span>
+St***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a>
+(93&nbsp;EUR)
+</td>
+<td><span>
+kt***xf
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+2pv toimitus
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/92355">40mg OxyContin debottabl. 1 kpl - ESCROW -</a>
+(70&nbsp;EUR)
+</td>
+<td><span>
+Il***mb
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/apteekki24h/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+mQENBFQrPVcBCADCVHNmUYVTo7z3r5rBYKdlMdNUJXjzjHx+7zmEArEtrGZxM5Ou
+U+OFuIxlwBAAhE/F7O1KmQxCUmenZ62yHBv50UB6L6LKrJnQqe2+LaZzcCwmyl1i
+i6/Vg2hmv+rlzQu2npvafydIJ4/7mdWGVMEYcAQq+JpGjyBnHNg+tEe+CEYU0AfB
+WzrTBu5w1/83uqbZ9RtLZzWZ4N4yfyq1vi2kGNUSc+78AqHtusSSI/JLAFdDUYF6
+zzn9nfcfG7waWMvm9P+XJVB1GCjzw4ut8/hGIkHE2dDBwLH5gFGcwyu8biLP6I/W
+BJ3lmhs5CX6F7KK2+aAdZPepLQY8LSBLsWWHABEBAAG0Kkphc2thIEpva3VuZW4g
+PGphc2thLmpva3VuZW5AZmFrZW1haWwuY29tPokBPQQTAQoAJwUCVCs9VwIbAwUJ
+B4YfgAULCQgHAwUVCgkICwUWAgMBAAIeAQIXgAAKCRBYJJwXLc2Jv4I1CACSYKdx
+/1jDxBZ8ILrcn+D42MsQ+h1Trl9HAr8A+cVpeWzFKcYNuVqjZyCMxNnC9uKqHzXC
+wC+fvQREF2xYqnvblQX2K/JMcYW5h0JyyJf9mjpDF/c7FPqd9F9HhZCTCywWWddf
+uC6b8gQOGrkPuxUZrmNFxf5hP1pSBFsAXyga6Tg/Gd5d1xotb7XF2QoikqYIMd0r
+L1h+bOPHOOtKsAjRi2XlGO9tlK0BsJJcGDCO2ryTvhZlXB25LDulWmDu9XJxJ/Mo
+XmOEQXGngGWiqcnlez+3Lbmht2HnboNUCdVwxP6wn/W32acq/XdaL7aF+mOVggjp
+ySxIbZD5Qp8yksspuQENBFQrPVcBCACoWFojs+1V3MMiHwL2fItmumWW7IHNhvMF
+UYT6odiun8ZVRANrJOaiAmRG4ZCMT8NEDVAxCo/JZPvsMQSbocjiTz3nRY8rQMo+
+4i2Qg+hs8+Q5r0StGvhbLnOUfVxyFzBj7B9ovYtH4IP+YZGEr0gATwC/kXTkheOf
+ot4CY42lCODedbVvzx9zKErBSXu0gkOh6agSd+sdKdmACD71eNRC985LpqVM/mc5
+O5UqTL65bg2ho7eijxsjmdFYdQZAWnvFFKYjIrvHonSGpZKdQnxtt+H7R0aPKSUz
+A2CXhxh3TpGVDC2hIaj5u8+K6s/VhTxQ62vRHBYMTkbgUfwBODS/ABEBAAGJASUE
+GAEKAA8FAlQrPVcCGwwFCQeGH4AACgkQWCScFy3Nib83Egf/f7sosXmoTqa6x4QV
+yEqmluz+xhx63aXuQ0xIwvWyDv+0U7XKU73RBvJFzAiAO0d7N1sHg7AkcqnrDmnv
+x9KPXPqsZWkhIUvV3vrLTFXn3+foF6qNHwJb1Tl9ko8po0xxq9O9Pz8CxZzyItIy
+9OFsvnFhNie28Kzk0wYy/+2mcKmLL+6Q6AbRKRRkgnAj17hC8OAWwgUlbdsLiIbq
+8+RNOh/Vfi03P+RJubnTKtPk4dua5knsjCs8RXwNEgCuUiEEajMRIDov2wzzsEXY
+W5sCbKvoS5P4fvP2drF0+3BNiPq/2o5Vqv/PqLIRT00MAMQcPM3VPjuTMXWVFdIN
+wMrnJQ==
+=rATg
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/3437"><img src="/kuvat/tuotekuvat/5abf9cca2b2031c431dd0552302ef48247c645ac.jpg?1455969137" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/3437">40mg OxyContin debottabl. 1 kpl (FE).</a> (<span title='31 EUR'>31&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/92355"><img src="/kuvat/tuotekuvat/43a814a3c54579f186eb94f6df9148926d979333.jpg?1492418153" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/92355">40mg OxyContin debottabl. 1 kpl - ESCROW -</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/7993"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/7993">TARJOUS!! KOKO LEVY (14 kpl) 40mg OxyContin</a> (<span title='350 EUR'>350&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/58239"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/58239">Custom#1</a> (<span title='1 EUR'>1&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/apteekki24h/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

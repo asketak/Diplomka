@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IRKjQwvcLc+I0KDz/wXODxo3bxRqB7j27KKW6TVLhMV2SLgK2CB8V3CuAVd9qS6cTr7boCvwbzDt7UQQciiAdQ==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/pillerikauppa">pillerikauppa</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Luottomyyjä, hyvät paketoinnit!
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/102111">hippii</a>
+(108&nbsp;EUR)
+</td>
+<td><span>
+Li***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(17.4.)</em>
+</td>
+<td>
+<a href="/products/102826">*ALE* 5x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+xn***nc
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perfecto
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/53046">5x Targiniq 10mg *Suomi apteekki* </a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+KA***OG
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Homma toimii
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+KA***OG
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kesti jonkun päivän odotella mutta muuten 5/5 toimitus
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/102882">5x Leponex 100mg *Suomi apteekki*</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+Dr***a0
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeaan tuli kuten aina! Luottomyyjä 5/5
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(125&nbsp;EUR)
+</td>
+<td><span>
+Ra***ni
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;500+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perille saapui, hyvin pakattu ja tuote 5/5
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+za***ai
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5 kiitos!
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/78494">*ALE* 20x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(158&nbsp;EUR)
+</td>
+<td><span>
+dr***55
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvä paketointi ja bonustakin oli.
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+ja***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Todella nopeaa toimintaa ja erittäin hyvin pakattu+++++++++
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(65&nbsp;EUR)
+</td>
+<td><span>
+an***57
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tuli perille kuten aina, kiitos! 
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+as***ry
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tuli perille kuten aina, kiitos! 
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/53046">5x Targiniq 10mg *Suomi apteekki* </a>
+(107&nbsp;EUR)
+</td>
+<td><span>
+as***ry
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/104014">1x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(11&nbsp;EUR)
+</td>
+<td><span>
+se***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/104014">1x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(26&nbsp;EUR)
+</td>
+<td><span>
+fi***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+hienosti pakattu ja tuote mitä pitääkin! 5/5
+<em>(8.4.)</em>
+</td>
+<td>
+<a href="/products/53046">5x Targiniq 10mg *Suomi apteekki* </a>
+(107&nbsp;EUR)
+</td>
+<td><span>
+fi***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Parasta toimintaa! Suosittelen!! 5/5!!
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/78494">*ALE* 20x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(158&nbsp;EUR)
+</td>
+<td><span>
+ro***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+päivässä perillä
+<em>(5.4.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(65&nbsp;EUR)
+</td>
+<td><span>
+se***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perille tuli vaikka ei oo postitetuksi ees merkattu :D Kaikki myös ok
+<em>(5.4.)</em>
+</td>
+<td>
+<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+Ya***za
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Erittäin nerokas paketointi. Isot kiitokset, loistavaa toimintaa :)
+<em>(5.4.)</em>
+</td>
+<td>
+<a href="/products/53046">5x Targiniq 10mg *Suomi apteekki* </a>
+(72&nbsp;EUR)
+</td>
+<td><span>
+vo***12
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Postilla tavallista pitempään kesti mutta myyjä hoiti taas hommansa hyvin! 5/5
+<em>(5.4.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(65&nbsp;EUR)
+</td>
+<td><span>
+Ra***ni
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;500+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Ajatustakin nopeampaa toimintaa! Varma paketointi! Täydellisen ajoituksen kruunasi mukavat bonarit! Kiitos ja kumarrus, on se vaan hyvä!!
+<em>(4.4.)</em>
+</td>
+<td>
+<a href="/products/103748">*ALE* 30x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(229&nbsp;EUR)
+</td>
+<td><span>
+ro***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nerokas paketointi! :)
+<em>(4.4.)</em>
+</td>
+<td>
+<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+ge***at
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(4.4.)</em>
+</td>
+<td>
+<a href="/products/65962">7x somnor 10mg (tai Stella tai stilnoct) *Suomi apteekki*</a>
+(70&nbsp;EUR)
+</td>
+<td><span>
+bb***22
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistavaa palvelua! Kiitän! +++++++
+<em>(2.4.)</em>
+</td>
+<td>
+<a href="/products/67829">#QQ</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Qu***mo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(29.3.)</em>
+</td>
+<td>
+<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+mu***so
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Päivässä tuli pääsiäisen pelastaa! 5/5
+<em>(29.3.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(125&nbsp;EUR)
+</td>
+<td><span>
+Ra***ni
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;500+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Homma OK +++
+<em>(28.3.)</em>
+</td>
+<td>
+<a href="/products/69745">#Tuhkakuppi</a>
+(200&nbsp;EUR)
+</td>
+<td><span>
+Ja***aS
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(27.3.)</em>
+</td>
+<td>
+<a href="/products/104014">1x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+Ch***yy
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistava paketointi ja nopea toimitus. Maksun vapautus meni myöhään kun perjantaina oli silkkitie alhaalla ja olin viikonlopun reissussa. Paketissa ollut teksti huvitti kyllä. Luotettava myyjä !
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/53046">5x Targiniq 10mg *Suomi apteekki* </a>
+(37&nbsp;EUR)
+</td>
+<td><span>
+Ru***la
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+3pv hyvin pakattuna
+<em>(22.3.)</em>
+</td>
+<td>
+<a href="/products/104014">1x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(48&nbsp;EUR)
+</td>
+<td><span>
+mo***ue
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvin sujui!
+<em>(19.3.)</em>
+</td>
+<td>
+<a href="/products/69745">#Tuhkakuppi</a>
+(44&nbsp;EUR)
+</td>
+<td><span>
+As***th
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos ja kumarrus 5/5
+<em>(17.3.)</em>
+</td>
+<td>
+<a href="/products/102826">*ALE* 5x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+Ti***ti
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistavaa myyjä!
+<em>(17.3.)</em>
+</td>
+<td>
+<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+pe***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.3.)</em>
+</td>
+<td>
+<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+ca***cs
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.3.)</em>
+</td>
+<td>
+<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+ca***cs
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    
+    
+        <span class="page current">
+  1
+</span>
+
+        <span class="page">
+  <a rel="next" href="/pillerikauppa/palautteet/2">2</a>
+</span>
+
+        <span class="page">
+  <a href="/pillerikauppa/palautteet/3">3</a>
+</span>
+
+        <span class="page">
+  <a href="/pillerikauppa/palautteet/4">4</a>
+</span>
+
+      <span class="next">
+  <a rel="next" href="/pillerikauppa/palautteet/2">Next &rsaquo;</a>
+</span>
+
+      <span class="last">
+  <a href="/pillerikauppa/palautteet/4">Last &raquo;</a>
+</span>
+
+  </nav>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

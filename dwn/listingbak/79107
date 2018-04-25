@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ih9kaaVk+7QhC9U0/3fiBWI01YKOYuoFq+ycbn80dgFHuyr5EYNbvGLO0MmTCyYRky5zsL3DXDHsJM7/IoJTFw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/c7cef342f049b3be5ddd4d05d59699f7064e1f71.jpg?1484204836"><img src="/kuvat/tuotekuvat/aa3285a692d7201d360e9cc7c4d127137c6710cd.jpg?1484204836" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>GHRP-6 5mg (Tarjous!)</h1>
+<ul class='list-unstyled specs'>
+<li>23 EUR <em>(0.002967 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vpY8i7hxaUlXnSBfDKbc58Wd7HBzby1t1fJJE+GZpt5zMnIbDJbJQRRYJaJg2hjzNIdKQkDOm1mSOhuCvC+DyA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="402679">Domestic (included)</option>
+<option value="402680">International (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="79107" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/arnold/products">Check this out!</a></b></p>
+
+<p><h3>Product description</h3>
+<br />GHRP-6 lacks opioid activity, but you get a huge pulse, (dose dependent) in your own GH levels, and you get the effects of the increased IGF-1 secreted by the liver. Now both the increased GH and IGF-1 are highly desirable for athletes, bodybuilders and those looking to improve their own physique.</p>
+
+<p>Now, you may have heard many bodybuilders saying that when you take GHRP-6 that they get a huge and very intense increase in appetite, about 20 mins after the initial injection. Well, this is caused by the GHRP-6 antagonising the peptide Ghrelin, it mimics it, but, in reality, it actually fights against it causing the signal for gastric emptying and hunger. Ghrelin is what many believes causes obesity, and insulin resistance amongst other things, and I believe this is one way by which GHRP-6 may help reduce fat, by fighting against it. However, there is always a but, if you take more than 150mcg the effects of the gastric emptying can be so strong that you may have the urge to severely stuff yourself with food, so if you’re on a bulking cycle this is a great side effect, and, considering the price, it’s a very cost-effective one. Therefore, during a bulking run, I rate this as the number one aid in increasing appetite, as you also get very a good anabolic effect and increased strength.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+perille ajallaan
+<em>(12.12.)</em>
+</td>
+<td><span>
+ra***sa
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus 5/5
+<em>(11.12.)</em>
+</td>
+<td><span>
+co***bo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/103102"><img src="/kuvat/tuotekuvat/ccc639d5b381099d4609821dce301a5b69c2fa44.jpg?1517276849" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103102">Tamoxifen 30/10mg</a> (<span title='28 EUR'>28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>245</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/34121"><img src="/kuvat/tuotekuvat/186554ff97adab950339e4d1c9d838150930d2de.jpg?1511813237" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/34121">NovoRapid FlexPen 3ml/300iu</a> (<span title='23 EUR'>23&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55187"><img src="/kuvat/tuotekuvat/dbd6a05ef1dcaf4b2e41669e3fdd0f709094146e.jpg?1482014892" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55187">Cerberus Pharma Test Propionate 100mg/ml 10ml multivial</a> (<span title='27 GBP'>30.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2890</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/52301"><img src="/kuvat/tuotekuvat/8a77811b0c72a00a2849eb6201cfc4e2c4737921.jpg?1468413622" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/52301">SP Stanozol/Winstrol | 100 tabs (10 mg/tab) - SP Laboratories</a> (<span title='38 USD'>30.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99945"><img src="/kuvat/tuotekuvat/94b0b94256e51d7ddb08a47adfa0a86f8c8d616a.jpg?1515518337" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99945">Tamoxifen (Nolvadex) - 50 tb/20 mg - Nas Pharma </a> (<span title='33 EUR'>33&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2701">Anabolic steroids</a>
+</li>
+<li class='active'>GHRP-6 5mg (Tarjous!)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="w6rHkV3wWTW5g1VNixi+BS7QH6eTCfAhpF2+gXdJXJUODokB6Rf5PfpGULDnZHoR38q5laCoRhXjlewQKv95gw==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/72d5c4ac93f7b1bd539815cd00e1a74ea4932a22.jpg?1508434562"><img src="/kuvat/tuotekuvat/2dc556e3775628b249ef6d51ab2fbdc344d7a91c.jpg?1508434562" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>7g Orange Hill Special / NDD / UK / Best Customer Service</h1>
+<ul class='list-unstyled specs'>
+<li>81.92 EUR <em>(0.010498 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>United Kingdom &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="U963VqdT9PWCwwEzt7kq6JNVwe5TrbpmNfbaGwKqwU2eevnGE7RU/cEGBM7bxe78Yk9n3GAMDFJyPoiKXxzkWw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="622665">Royal Mail 1st Class FREE (included)</option>
+<option value="622666">European Union Airmail (+4.55 EUR)</option>
+<option value="622667">Shipping outside of European Union  (+11.38 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="100271" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>***ORDERING WITH US MEAN YOU'VE READ OUR T&amp;C's IN OUR PROFILE. PLEASE, OBEY BY THE RULES AND WE WILL BE MORE FRIENDLY AND WILLING TO THE HELP YOU OUT***</p>
+
+<p>We are introducing the brother of Orange Bud which was received very well by our DNM community - the Orange Hill Special. </p>
+
+<p>Orange Hill Special is a select cross from the Orange Skunk family. Bred by Dutch Passion Seed Company, Orange Hill Special was developed over six generations by blending the genetics from Orange Bud and California Orange into a balanced hybrid. Known for its bright orange pistils and citrus flavors, Orange Hill Special triggers a cerebral buzz that is equalized by relaxing body effects.</p>
+
+<p>Shipping times:  </p>
+
+<p>Up until 2PM Monday-Friday - Same day dispatch.</p>
+
+<p>FOR ALL TERMS &amp; CONDITIONS PLEASE VISIT OUR VENDORS PAGE</p>
+
+<p>OUR FEEDBACK</p>
+
+<p>Grams Website</p>
+
+<p>http://grams7enufi7jmdl.onion/infodesk/vendor/0x9DBCA562758BA8AB
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102315"><img src="/kuvat/tuotekuvat/30067108412738509e2c1dd3134fa8d8e044693d.jpg?1515719996" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102315">Stardawg Cali Strain AAA+++ 7g FREE UK NDD</a> (<span title='96 USD'>78.12&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97625"><img src="/kuvat/tuotekuvat/50de7b261984913d8a3ee760f8c074584f7ad400.jpg?1501451766" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97625">14G★FREEZELAND★INDICA★A GRADE★£75</a> (<span title='77 GBP'>87.61&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/19690"><img src="/kuvat/tuotekuvat/32df7cd0d219482592a8f7f7a119e3216d606d04.jpg?1455971876" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/19690">7 grams Lemon Haze!! VERY STRONG! TOP NOTCH</a> (<span title='82 GBP'>93.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/charlieukontor">CharlieUKontor</a></span>&nbsp;(<span class='green' title='Positive feedback'>817</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100533"><img src="/kuvat/tuotekuvat/d5e646017d7bc18fbff5718cb30926072be81876.jpg?1509080326" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100533">7 gram of GELATO - CALI IMPORT</a> (<span title='50 GBP'>56.89&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/46774"><img src="/kuvat/tuotekuvat/24270bb1b575078b631efde92c8696be4c1f921c.jpg?1506682379" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/46774">A+ BLUE CHEESE HOMEGROWN PIFF x 7.00g UK NDD</a> (<span title='63 GBP'>71.68&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>7g Orange Hill Special / NDD / UK / Best Customer Service</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

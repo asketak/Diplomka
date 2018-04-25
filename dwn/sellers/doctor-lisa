@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kSuMAxUJUFcXJ7XMc6Omr2O80X5BVc711V2b1LkSOuKxea9wuINcD+crTRZjsvT3hqIG26yvJYfXhT+ySpnvKA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Qzcf">Suomeksi</a></li>
+<li><a href="/register/Qzcf">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Qzcf">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Doctor Lisa</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>185</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 648 EUR</li>
+<li>Last signed in: 2 days ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>★★★Shipping Information★★★
+<br />★Orders placed by 5PM EST Monday-Friday will go out the same day; orders placed after 5PM EST M-F will be shipped the next day
+<br />★Orders placed by 3PM EST Saturday will go out the same day; orders placed after 3PM EST Saturday will not be shipped until the following Monday
+<br />★Great stealth packaging(impossible to detect): Will be shipped discreetly in air tight, smell-proof, vacuum sealed packaging with several layers stealth and a decoy
+<br />★We have 100% delivery success rate with all these types of addresses: House, Apartment, Townhome, PO Box, Private Mailbox, College/University Boxes, Business Address, Hotel, Motel, Military Base, etc)
+<br />★We ship to all 50 states including HI and AK
+<br />★You do not have to sign for any of our packages, everything is drop-off
+<br />★We haven't had a single package seized ever</p>
+
+<p>★★★Free Reship/100% Refund Policy★★★
+<br />★Although we have a 100% delivery success rate, in the improbable occurrence, if your package is lost in transit or not delivered for any reason we will reship your order for free or provide a 100% refund based on which option you choose.
+<br />★WE CANNOT RESHIP OR PROVIDE A REFUND IF:
+<br />Tracking shows that you provided an incomplete/incorrect/indeliverable address. We copy and paste the address you provide us with so please make sure you write the delivery address perfectly including receiver name and have tested the address before.</p>
+
+<p>★★★Things to Know/Tips★★★
+<br />1. We only provide tracking as an arbitrary measure - in case there is a dispute or if the package doesn't deliver within the estimated delivery time frame. You can request tracking after 2 business days have passed for 1-2 day shipping, or 3 business days have passed for 2-3 day shipping.
+<br />2. Please allow me up to 36 hours to respond to your message. I get approximately 100+ new messages every single day and I am always trying to get through them as fast as I possibly can.
+<br />3. You are welcome to use a fake name with your address, or not provide a name at all, but you must do so at your own risk. If delivery is refused by the carrier because the name on the address isn't entitled to receive mail at the location or because the name was left blank, this will be the customer's liability.
+<br />4. Please put your shipping information in the Notes box during checkout. If you message it to me, it may not be read until the next day. </p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+
+mQENBFRwXEUBCAC871IULKTX136QISOW9ufb/dIpfb5urNiPV3T2zwa/yhjbVRQm
+6Ib/18jr3gbYhDTtfJ1O7GrPGg4hTA5zJWLeKr5misSQ74Jv2b4/Ag80lOtkv9ha
+P0T7m1k5fDgdyr8jyChxKu+tKbXBxLza+uXMBpxJlxtuCDxyn1DiOoNTjWH45bH+
+8wksHRmP9Rc1kv+QmjC4pBqs5zEGbi6X0NvJwneH+wWr4aNy8O/7jFJxEdlIyUzo
+gFrSNuICKm6cisrax5otfG1RY/z2bLkVy2IP63L5876b8gaOcslDkYt8CgJUqYCC
+ZQkpbLc0Ufh6L06iB4mLEhRerynf2nbJO44nABEBAAG0IFNoYXJrIENvIDxzaGFy
+a2NvdGVhbUBnbWFpbC5jb20+iQE9BBMBCgAnBQJUcFxFAhsDBQkHhh+ABQsJCAcD
+BRUKCQgLBRYCAwEAAh4BAheAAAoJEIKZH+g1e/Hytl8H/RMGVhDGv2EKGsr0Chw+
+jUhz4aAhoQU45IKjmlTsvwQyPHjfKmY38D8LdCI8d99X1Wqsu+mZKfmVykVaSKUF
+Rh55ohkiIfCuNn704a+cTP44KM2dzx8oPg4B1nymVEriMGlqNRiTKxVXbQRF8SqE
+KF5ugiSf8SEWVK9mTmgcsz4mqId20Thf75g/nxRadumoboX8cPjXj8L7+INr4WaV
+7A9rFRgsX6hDLZqLkOcfpmDhCaJKirSbgpv+CVaTj8n7IFIj/BboDG73ypZvER6Y
+lKMhYQY/Pgb8jnQqke6c9P3YiCU6/+IRPU8djKRm6pmyyvjU8jHxB90Fl/pHAD5H
+WPq5AQ0EVHBcRQEIAJwbY0r+ZqsBxgIfFmlgnSKCsrdBE06yO/gUNT4zKcT8/HMf
+U6qiwRZZmTsxaC4xH2zgCr4LffPiPv2HP+2kVOJV8dVKOl3s4ry6CHfLHNOE40Uh
+gT3YEXlHQMiOOIy/P+Ry6pEPFKuCuX1DLEgOHLcOghBnrHCKCYcZu9ox537JXMpy
+T6eK6oSKBhI12jB5zps7hg/yLsS7n74tX9Dvzu8uZFNGIWvuK9D+UZI0cp87voFn
+LTz6VX3RuuniY8Bj4jOXFBq2/OvFB+xmKmf0EUdPwyPHuChNtfgiTWidi3dIcQpQ
+TNIJzeuIEpLpRTGQCB8wc4yYTOH7Aaux775AGJUAEQEAAYkBJQQYAQoADwUCVHBc
+RQIbDAUJB4YfgAAKCRCCmR/oNXvx8qcmCACAe8WZimaukuipG6Zn2tURRTssqw7W
+NzQnXOxvdD4WQOauRBVPI+wc/aryuLED0COZbMft7HPtYqxScmG5DmdvguzSGwse
+hOcNSBuPq5axjWML6GFQoK62+Gb3F7uES64wFdF2jwXUnc9AW7WARdXCBMzyUra+
+ZxIKQcX6uZ0ADOv3pjZAVvVKoljBXasau8XuknoSW4pfaT2ucdCUIURqaVvdx9cO
+x+TVwq+2MISEjEPb50ghCC64xDVGPxTyx3/i2XUPe89XV5zOhGxN4Kd0Ov6YzEg6
+eweUnCEL0tfVmlc/uGN1OkkL7UAemqjZ9VTv7wZ47H9R73BIX+SiEHIF
+=zGry
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

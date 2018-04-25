@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ar+FdDUvWa9QvEnt9EhjQbSfEZ4imRZZhsOMzv1Jwt4AqtJdNL6rdUEVPGqlF308bpxgRz3rRoVXvOpEXxUaTw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/awiX">Suomeksi</a></li>
+<li><a href="/register/awiX">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/awiX">register an account</a>.</p>
+</div>
+
+<h1>bcdirect</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>At BCDirect, you can count on:
+<br />- Free Shipping Worldwide
+<br />- Extra gram on orders of 1 OZ and up
+<br />- AAA BC Bud and mushrooms
+<br />- Excellent customer relations
+<br />- Orders shipped within 24 hours
+<br />- Proven track record of getting the product to you safely and quickly
+<br />- No custom orders, tracking numbers or alternative shipping methods
+<br />- No FE requested or required
+<br />- Scores of satisfied customers. Don't take our word for it, read the reviews!</p>
+
+<p>BCDirect is your best source for quality bud and mushrooms at an excellent price.</p>
+
+<p>We at BCDirect are longtime BC growers with experience shipping overseas. All products are grown organically, either indoors or in a greenhouse.</p>
+
+<p>BCDirect takes your security very seriously. Every package goes through a three step process to ensure that there is no possibility of detection through odour. Stealth is well planned out and carefully executed to ensure safe delivery. You will never have to sign for your letter and they go via regular air mail, thus no customs documents are required. Product will be delivered with your regular letter mail.</p>
+
+<p>BCDirect will never request/require FE on any order.</p>
+
+<p>All of the photos on our listings are 100% accurate and reflect the product that will be sent out. Please note however that the buds pictured are their natural size. Since large buds cannot be sent through normal letter mail, BCDirect uses a light compress so that buds fit in the first class letter packaging. Orders made during the week are processed and dispatched within 24 hours. All orders go via Canada Post First Class Air. BCDirect ships worldwide.</p>
+
+<p>Please note, BCDirect does not offer any other shipping methods, custom orders, mixed/combined orders or a tracking number. There is no limit on how many units you can buy but they will be shipped individually.</p>
+
+<p>Estimated shipping times:
+<br />International - 7 to 14 business days
+<br />USA - 10 to 21 business days
+<br />Canada - 3 to 7 business days</p>
+
+<p>BCDirect will answer all emails within 24 hours. If you are not comfortable communicating in English, we will correspond in any language. Thanks for choosing BCDirect!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFK0k3UBCACzwIoKW3STlzo6f8HaYqpGBx5j1BIBcbDK53SzyEzKR8dXBGjh
+i18hnUj2HyTM3pEz8enB3ZtCsbBXXriMXTu8rTN34OuXBVERdwXZH2nT0umprlfq
+EhK7w4EC6IbFHnYKx2dCjo+R05nMl4CtZFrg9BbMoKENxUDqiG5/fBcBZWYv/9M/
+max3V21+RfDrbO58f860fTWi/8LwxjaENmxy6zYx9Unfo/0m5ybB/SI/w7VvBHmY
+fo6787GiekylPzvNhmQPo4MPhAzK9Xa+P+J+GjYJw/eVLf8DPINPC9FJne+HxO/3
+TKPBjBJFc6nx+NxUaADOQOdDKKk2gZfMsuu3ABEBAAG0IGJjZGlyZWN0IDxiY2Rp
+cmVjdEBiY2RpcmVjdC5jb20+iQE3BBMBCgAhBQJStJN1AhsDBQsJCAcDBRUKCQgL
+BRYCAwEAAh4BAheAAAoJEIzMl719vWd3qFUIAJGjr5rp67Lwip8X5SdFRUXRTH3B
+OnHqyVhxBetBKnMYYIkx/1klfUyGM/j6P/Xi+HsP8ldpQJflDGCcIBjY/AMp9ng7
+n7DWu3KdYgMFnso5ryIgY45RHZuiC8O7ZK3tzvWrIMfA8C68Qym2LCvcmwi6lEi+
+aTI6Rojh1aeEyNmf3+e92tYs7Gn8fttCeQU5Ft9S3jp4IhTFp4D8WpzKfUy2Kcwm
+iLSgXbX0bMl9+zvUllwEz6qOgm/esIs17HzP+oJpRSeztSft3i81rBo6vDlGt/qs
+SQX4Qu/2WweOnfybkC04do0aK/tSdvrMgARWILSQAGh0Q5hMP9WIeLiwXri5AQ0E
+UrSTdQEIAJjVS4I250AhbfRNU3A/GlW49WJneB2gsft4l82JrtRaIg8VUAKuwoHG
+VRrQ7lpnhaIaFtFBa0Av+G3aHkFHU6t+Tf4Ulc7YnWorE3SuLvXuNufvbo7lAjmy
+Qo0FAdVnBl+s5Gap8y17ie0WdB4y0/FUvRdU0BpEEz3RQBMpP8rPYWzPGlr4nusO
+o4E67kp2EAnfR+Y5VMFDd8Mb585lkEagKq+Cl+EzpufLPpCfu2hcHmly9eNw01fX
+tqdGerNt0AWmbHGtxtDOJM+b2LuvCljOBlSFhHnrV/u2N3noJnPaLllYd+BQCjbY
+19xjLoi5J5LJkSla8YpCN44PPBkvhw8AEQEAAYkBHwQYAQoACQUCUrSTdQIbDAAK
+CRCMzJe9fb1nd77yB/9eDurP855w92thMG9hmw7KCufY+nJraxBK9npeSxZJevc2
+XmsiL0sL6Y24nw1Va7L7JbDLbRzyErJwoCir3lOxG9n7U59M9TS1Qca/psFeyueZ
+VZYiBWI6aBE5pBwoGCMVvg6evke13CHg91gnHjHlF1eYVNovEnqwTUfgqxdp5gqt
+9/FB/yyqw5eGRAXIGmlMijdcpv2TFftbDDCBEUJnE6wemue64ZGPkcGXKzq8V1uK
+XEreWYVwrdNxn19kwLeayXVU0swa2Eu5XwkEnUyQtqlOOutZJPR2EePGeb+3zwMD
+y8ki4fyJ7iLlM6ao5RLrjWK1eCF14nieie3Z93xD
+=2lMP
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

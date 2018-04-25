@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GmKyCjH0FGZasCT5btgdSipQqt/EwJB6kHnn2+tGH5npBMiwrjRwet9LBgQu9VI9E/WQ4E+F7MxEtMXktxUVyw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/RoNz">Suomeksi</a></li>
+<li><a href="/register/RoNz">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/RoNz">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>benjomarket</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>146</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-10</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed with new buyers</li>
+</ul>
+<div class='description'>
+<p>Hei! Olen apteekkituotteisiin erikoistunut myyjä. Tuotteemme ovat Suomen Apteekkitavaraa, ja laadultaan aina aitoja.</p>
+
+<p>Tässä lyhyesti kaupankäynti sääntöni.</p>
+
+<p><i>Valikoimani:</i></p>
+
+<p><samp><strong><i>Myyn lähes poikkeuksetta, vain Suomen apteekkitavaraa.</i></strong></p>
+
+<p><i>Postitus:</i></p>
+
+<p><strong><i>Postitus 1.lkassa Ma-to. Viikonloppuna ja perjantaina tehdyt tilaukset postitan maanantaina.</i></strong></p>
+
+<p><i>Tilaukset:</i></p>
+
+<p><strong><i>Tilaukset pyrin käsittelemään 24 tunnin sisään tilauksesta.</i></strong></p>
+
+<p><strong><i>Ennen klo 12.00 tehdyt tilaukset kerkeävät lähes poikkeuksetta jopa saman päivän postiin.</i></strong></p>
+
+<p><i>Bitcoinin kurssi &amp; Kaupan peruutus?</i></p>
+
+<p><strong><i>Pidätän oikeuden perua kaupat bitcoinin kurssin romahtaessa, taikka jos tuote on varastosta loppunut</i></strong></p>
+
+<p><i>Escrow?</i></p>
+
+<p><strong><i>Yli 200€ arvoisessa tilauksessa maksun vapautus etukäteen, ja mikäli automaattinen vapautus prosenttisi on yli 4%.</i></strong></p>
+
+<p><strong><i>Muulloin escrow käytössä normaalisti.</i></strong><samp></p>
+
+<p><strong>10.8.2015</strong>
+<br />Xanor 2mg x3 arvonta suoritettu ja voittajille ilmoitettu! Onnittelut ja kiitos kaikille osallistuneille!</p>
+
+<p><strong>4.8.2015</strong>
+<br />Chupa Chups arpajaisten voittajalle ilmoitettu! Onnittelut ja kiitos kaikille osallistuneille!</p>
+
+<p>- <b>benjomarket (C)</b></samp></samp></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFS8VFsBCACFlmeNOk46kwwHJV+INPNKZczYscggxYy3jnIGPRGQ6V7fOGFu
+Hn9ppyoE+P2LJ34srSLmaF4EE82aP9OoF0d0JLPCIsySiAJRgMNsb1b7QsXetCid
+4TIuhkE15oFIwOJBDzq/VdExxeA3duvMJJsP7NRibJII5mI2p1JO1cMgC6RcVLNQ
+nDfRzzw5voGIRBPdenOqnK0wiaxv1FuEP2XnUQcFmrPFm6SQGdHpX9h8nC/mrX5A
++VMF26rW7UVCzAXMgbYB6dYjv+WhCMHiD0TIA/id2fbLYw0smfKy6+lHURMxzvIG
+C84FCCEH5Psyqg5cAGkghHSsGtGKINTFyRk3ABEBAAG0GmFic2ludHRpa29sYUBz
+YWZlLW1haWwubmV0iQEcBBABAgAGBQJUvFRbAAoJEMuRYySOZA1q7CMH/1l4+Oi8
+gbV3qwEeq3Bcy9L6YgKyKS/ehAzTxLhV7ZWMLeamU1g4jHXHcxAkRSidR2th5bSQ
+uBOE4djCeURdQqYr9xkFTthNFxvCRmMq7ZFWPLIrJP0ki+jgVL0ihWyR8sD8J2uS
+Xabfdvbl70p2bUlE4cJYRHRsHTiua50r/Ieub/OSJx5q3q+YKT0nGw2Jieq6+bWB
+3iMpdw1O2BKhjc8RbvpDCZ6Gepv+M6fTEfqmp/l51TkMTSLXTlYUqCYD0RTNcaIz
+M/X7PkmiX77vHUBCxQUiZsOVVw1JU1pXdTM1UMQxTMGXPYymPstoTOMZtJoS7pJN
++c4/d/XbLUeIw1Y=
+=uObJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

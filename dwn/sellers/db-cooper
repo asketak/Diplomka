@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rnLAb9DKbWbb9PWE1hzK5EVkgNW7WaD5YRPjRn4LEXR1n4wW3o2F4Lo0meP6o+wUSv4aE1DafEoRkFN0AUUOJQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/ZQEt">Suomeksi</a></li>
+<li><a href="/register/ZQEt">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/ZQEt">register an account</a>.</p>
+</div>
+
+<h1>DB--Cooper</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Current cut-off times: M-F 12pm EST. I usually work Saturdays, however I will not be shipping this Sat 3/12. </p>
+
+<p>Hello all! This is DB-Cooper, your DNM neighborhood vendor. I have vended on the following websites: Agora (500+ successful orders), Abraxas, DreamMarket and Alphabay. I have a loyal customer base and take being a DNM vendor very seriously. </p>
+
+<p>I strive and succeed when it comes to stealth and on time delivery - baring USPS fuckups of course! I regularly change my stealth and if needed I will take requests for a certain kind of stealth to protect those with prying eyes..like your roommates, husbands, wives, etc.</p>
+
+<p>_-_-_Shipping Policies_-_-_</p>
+
+<p>-I ship via USPS Priority Mail (2-3 day average) and USPS Priority Express. I ship from the USA and only to the USA - No Exceptions Ever.
+<br />-I do not login on Sundays, so don't be anxious if you place an order late Saturday (after the 12pm cut off time) or Sunday. You will here from me on Monday!</p>
+
+<p>-I believe my buyers deserve the utmost respect which is why I'll confirm when your order has or will ship the day it is mark shipped. If for any reason there is a delay on my end regarding shipping, you will receive a message from me pronto explaining the situation. I make up for delays..but only if the delay is my fault.</p>
+
+<p>-I also expect respect from buyers in return. There is no reason why we cannot have a friendly exchange. In fact, all of my regulars know that I treat them right!  Rude customers will be blacklisted.</p>
+
+<p>-Like most vendors, I do not give out shipping numbers. This is for your safety and for mine as well as others who buy from me. For instance, if I send out 2 orders with the same return address but one gets caught..then the other order could also get caught. This is not good for anyone, especially if I don't know a delivery has been caught.</p>
+
+<p>-BUT here's the good news: I have never once had an order get caught. Not once. The only time I've had an order get returned to it's original address (which, of course, was not me) was when a buyer ordered to a hotel and the concierge turned the package away despite the fact that it was addressed properly.</p>
+
+<p>+-+-Places where I will not deliver-+-+
+<br />-I will not deliver to motels, hotels, etc under any circumstances. Plan ahead before traveling!
+<br />-I will not deliver to P.O Boxes that cannot hold either a standard SMALL Priority Box or a standard Priority envelope. If it doesn't fit in the box, you will have to retrieve it face-to-face from a postal worker. And your sweaty palms will give away that you're up to no good. In conclusion: have a properly size P.O Box
+<br />-I will not deliver to ANYONE who uses initials on the name line. Trust me, it is not wise. Treat what I send you as regular mail. With regular mail, you put your full name. I have only ever known one person in my X amount of years who had a name that was initials on their birth certificate. Just don't do it.
+<br />-For those in apartment complexes or those who have slots in their door, be sure to specify the approximate dimensions of your mail slot or apartment mail box so I know what kind of packaging I can use.</p>
+
+<p>-Address your format in the following way:
+<br />Barack Obama
+<br />1600 Pennsylvania Ave
+<br />Washington, DC 20500</p>
+
+<p>!!IMPORTANT FOR THOSE PURCHASING EXPRESS!!: Please, please look up the extra last four digits of your Zipcode. You can look it up on USPS.COM (clearnet!). This is important as the Express form asks for it AND it helps your package arrive on time.</p>
+
+<p>-About Refunds-
+<br />Refunds are handled on a case by case basis. Depending on circumstances and what caused your reason for wanting a refund. </p>
+
+<p>-Scammers-
+<br />For those who think I'm a n00b because I'm new here on Valhalla, drop that line of thinking. If you claim your order wasn't delivered..but tracking proves otherwise, I will blacklist you from ever ordering from me again, Maybe you sincerely don't have it...then check your roommate. Your girlfriend, boyfriend, etc. Your friends who knew you had something coming but got to it before you did. And remember: I don't run USPS, so if it's late then I take ZERO blame. If you try to blackmail me, that's fine. I'll just prove to the admins that your order arrived.
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.47
+
+mQGiBFRFnRsRBADnp2LUedw9wzIV81Wxi40Ipe9qoM52qmnlYGHARyYHKuvrFVld
+gr5DK1xnYMK6zmSWnzQ/zrwTie1YLHm/FTinZsDt8lmaoPDbjT8ckMRa+Fi3kEXn
+VI5W7aB4cGCVJqgXOaqjOZz4nEfVnBy8YRvc8MsM2LyB8VGUQKtsSoOvoQCg6Qzn
+oJoVRteIReNMUrstMpc0ATEEAJrA3yNCSpprM6wbwLTDWVuHsNvSCDxKbFLoLip7
+WNvVmSZraHiG2vmAKJBuClxvKAEJQNsP1l7c3XBfy+7rrMstHd4SNKe/nugZY7Ys
+cyWXaH5T8X37IddHADZtlHWMIhezWpL6BcB3ifx7bWOkeLwig6RQVw09fbXId6sR
+eNHlA/92cB2H+Qak6gNF427rWScq08NSDaWKMAB1PR5WsUtA6R6Y5HQTbc3MIoMt
+Rleb32OQLzx2k4apCIUcabB+jOv6sNkE694rXV07W4giTq79xHHFVzGJeOOfv12j
+gUnOkesBWhV2qiGFpDTLz2bHzLsSXB0S8baSWJup/p7d5cuOAbRIREJDb29wZXIg
+KEJpdE1zZzogQk0tMmNUZUJvZ21WTjU2V1dNYnBQa240M05abnhtVmZUOXk5eCkg
+PGRiQGNvb3Blci5jb20+iEYEExECAAYFAlRFnRsACgkQGPfeDW7H0k6y8gCgowvY
+HNfkZQaP36d8UJ54ISuyi64An2iVzTbtbIJeir4+1kMwYvSL9EVsuMwEVEWdGxAC
+AJSU/sCV87he4oZUKzg2/IGl3QoDSbTCOd04dE1IjPjjHbi8t9M7Qau55aM8ypFE
+sc7zMslL8Fc78EejrKmM3zsB/RU9XWFyrbQwRbaK6OHeEHC2E3AFaG0p09c6d0kZ
+loHuWyEsm5a/3PpbIM1eP9IESJXWCc+bQQt6DxLKHLmkKMwB/23y0iiVEs//da5I
+9nDFMUsNaBskadzFd8H6YRoVycgpMR2LM9gOb/2lpIeRj0Spis40V6ZHGNpH+Mul
+aIQM+J6IRgQYEQIABgUCVEWdGwAKCRAY994NbsfSTp1CAJ9mzMtT0I/+bwS5jNN+
+q6uIFsGmiACfcTz+PTJDUMjZXSZYtqestBf7MfI=
+=WJaj
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

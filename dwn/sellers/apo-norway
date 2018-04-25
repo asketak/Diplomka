@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="C5IZ+eq4VnkycmA9l14AtGEytrjnoSZOByC9HNOtFDcjpulidkNVZzPYf/MupR6EQJ5L/eU28fbTRIc6DGfOwA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/NsYV">Suomeksi</a></li>
+<li><a href="/register/NsYV">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/NsYV">register an account</a>.</p>
+</div>
+
+<h1>apo norway</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFY8LHUBCACbonObNiRLyWvKwg51YHx4EdWHBuVrp6a+X16QzRFFBT3YT+h8
+bn0TE/tH86K9Qnh81FOVd4XaZVW6WE71GuCALvsxObtN0917mUkj2RdCm5K3bCyc
++c336J9oX9FtKaDH3hl+GhbMzNAaVfkPPV+LjAvtd2+tEhDGAxnPVkB79GpNNN3y
+0MvdT+oeo/9b5AjBiWILNISU8682X9NirUbRYA5xxgZKcb2xoa8fvt4w6zUcnbI1
+dxhP0wMUS9yrEKdwGD/4Xq3OskzGPgg+9+nSF1I4NoQiC1HQSxhuzgqCuHjsmsl/
+uP31QAa03PTPYMMhlToy9pa4BhJz1Z85Qc21ABEBAAG0CHZhbGhhbGxhiQE8BBMB
+CgAmBQJWPCx1AhsDBQkJaFd7BQsJCAcDBRUKCQgLBBYCAQACHgECF4AACgkQVV9n
+tdjmQoJVRwf/dIBv2FvJQ9f0RHDxgK3aS3SulCYQU580CTCNY+SkZnHoQeURlfok
+M3ykuic4SVa0Qpnn/d5rpzDMDGv3jFxiHsZEcOcRF0TXRzxmVrKQMDbVfOTzyQXE
+OXU6L2yQuismUUnReQFkegl6WDZ4art/i+fwLnhYCZqlvfQLbTfdY4PW173ilgEZ
+4/ZAsjzErIS0ny8M6PZIgo7kgFQihd6/P6jTQmWeObo6cPcWEfJ0a5hCiJPtUkRc
+quFkdnbOyI+lYUMUHiFrkaw351z5UhniZmkiCrEB1aNu4Q0rD9sk2rQegeVkYrgm
+qHSe5qNVrcTsf8Q3KJGZD4TMM/1GVScIobkBDQRWPCx1AQgAqkEWVQm19BZTDhsy
+4ZpH4P6O9m/I3jyAMVJtBPgLAMqVjicyXibFkJq7Bu4e895vAg/w8hl00hhuEUFN
+VUZI1xRXyOworyAgxu2TdiwvpP5xvXN8pZc5kZR4DvIEBSkMR6uFwOplzYcw2/gR
+eTcR/9NX4spR5S7UQnn2Ko3jbD8eImofPCJXIPob6rNPJjLfV5+8RfMTGZF0Tu/y
+RZMHBQ4aUuxdr+ic3ylEDu7qE3zFYZPqlV3T+ldXxQz3FdDh6f2xZyb7v7k5yuOw
+W3TAqZP0iV0Tqz1rGgQUT8Yjjk6Z5DokpDCsJudi8Le+X3aBPi2dgBRbKR0xGEuW
+iy7M2QARAQABiQEkBBgBCgAPBQJWPCx1AhsMBQkJaFd7AAoJEFVfZ7XY5kKCR2MH
+9jCm18xZdsMxSv1O0hFvcMdyvnxSRkAYVcdktuxx4z+u1okRI1QgajGrw8bwOBSy
+qRmivlfRK3SFSOj+EB+Fi0HZ93jCLQbj9eNcJeYPC9T48JDuxQyXTWVQMN69RiUt
+K7aZrFaeEde9p0dSjnv9ekUjMvI99Oo0KPSiBjUp0FDqMAJkGJb4+/8RJFRv46G4
+on/5PZR3jUPpT+8NbdMD0aELv/ieWHiOFzcJhA91k1sG8EzBTe0aQ1wMP+QSMwVl
+DBKZ4SwvH9wv3Y/czsTbmKs55XGQK2+GUHoBuyuSx7vxhuMXR95NmUdjBjc3tllr
+cogfDbl7M1AO0FzRZOlMnQ==
+=lK89
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

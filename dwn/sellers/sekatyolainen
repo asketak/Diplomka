@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lO/gYHPJf6MeAAL5IF/qWwmTnd2F6wu2YjHlCiqykpYWQNYm9S782mRwGG7eXWBV3QvRGX5bhJlbZKMBZLzlDw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/dYDx">Suomeksi</a></li>
+<li><a href="/register/dYDx">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/dYDx">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Sekatyöläinen</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>112</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-29</span>
+</li>
+<li>Total revenue: 4478 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Muutama miinus kerääntynyt vanhan sivun pitäjän kämmien takia, mutta nyt pätee vanhat säännöt. Eli postit lähetetään ajallaan ja listassa ainoastaan tuotteet joita varastosta löytyy ja valikoima kasvaa kunhan päästään vauhtiin ja toivon vanhojen asiakkaiden yhteydenottoja ja miinuksia tiputetaan pois sitä tahtia kun tavaraa saapuu ja yhteydenottoja miinuksia antaneilta asiakkailta niin hommat hoidetaan bonarien kera. </p>
+
+<p>Valitettavasti osoitteiden saamisessa on ollut viiveitä, koska emme ole saaneet toimimaan osoiteohjelmaa, mutta ensiviikon sisällä postiluukusta tippuu tilauksia bonareiden kera.Tuotteiden saamisen nopeuttamiseksi osoitteen voi laittaa viestillä ja ilmoitamme heti, kun tämä asia on saatu korjattua kokonaan.
+<br />Korjaamme tällähetkellä vikaa, jotta saamme kaikki asiat toimimaan niinkuin pitäisikin.</p>
+
+<p>Olemme pahoillamme viiveistä.</p>
+
+<p>Postitus:
+<br />Postitus ainoastaan suomen sisäisesti.
+<br />Ma-To
+<br />Ennen klo: 12.00 tehdyt tilaukset lähetetään samana päivänä ykkösluokan postissa.
+<br />Postin mukaan 98% 1 lk:n kirjeistä ennättävät perille seuraavaksi päiväksi.</p>
+
+<p>Postikulut ovat 2€ ja sisältyvät aina tuotteen hintaan.
+<br />Emme lähetä tuotteita PosteRestante osoitteisiin.
+<br />Custom tilauksia voi myöskin kysellä.
+<br />Viestillä voi laittaa ehdotuksia, mitä haluaisi valikoimaan.</p>
+
+<p>Toimitusosoite muodossa:</p>
+
+<p>Etunimi Sukunimi
+<br />Kadunnimi 1 a 1
+<br />00000 Kaupunki</p>
+
+<p>Jos on kysyttävää, laita viestiä tulemaan!</p>
+
+<p>ARVONTOJEN TULOKSET!</p>
+
+<p>1.Palkinto: habaaba
+<br />2.Palkinto: urheiluhullu111
+<br />3.Palkinto: arzyy
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+mQGiBEidtoMRBACxTEK5fYugdih9OhO2B3J4v860xVxcaXoveXgykqglNbBXT0+5
+5R1TQu7CIqVHoYb8s3BMaHHarwa+GXvw6ZesV1JVAUt+665AglxuHwQ3IrsSaWlp
+JFwXXaGgrwWyn/aTelzCxom4aw8+DVEL/l0BvYxhgyXoE46VyGdei91jEwCgm0tW
+nd9EyRdae+8e4xL2NSJX3EcEAJTu6LHa/z0BnUsu48ZdFWqhZT7hI2HROyQ18EhH
+fuMhUlynT1O+hFcR9a1CCz7UqHa5ZMGulW4eddWWbeuxIG5nu7LlktD8+qLxXa7d
+JuyPGJgyqC2iW5JNMTTQlaR2/QA0Y1YKNIR6CzkSkR0T4c2pFsVzw0Jqp1BKiJFb
+JYV8BACfd/lPrhkahkCBgVJgrZmRKq6GAqG8+4kNoleGo9x8bTEtt/+WBxrxsxLe
+CQ5oDj56Or+N7cEcOOlK0bW4oM/qFZMLFALhW9a6kFW+z8JqVkb+UeAUZErMj+uI
+uafj/E1Iz2ayN3t43DV44/7/4rfYlaOknm0FqH2emK42NXjahbQiZ3BnNHVzYi1w
+cm9qZWN0IDxncGc0dXNiQGNwdW5rLmRlPohgBBMRAgAgBQJInbaDAhsjBgsJCAcD
+AgQVAggDBBYCAwECHgECF4AACgkQgKRDIS7NczpjuACfYnCtiAso1H9vp8IHVB22
+cLuGP6sAn28nflukImttcSsbgiAol23/89rRuQINBEidtoMQCADAjZhV0Uvgp+il
+JD9RjxWFNmzjnOlLWqThnyK9kyUc9FGGlnq4FMYX34ZGR3ngCqaYlf/Yy54PuUZB
+iQXZHBH1LLJW//Ux0crfselKWvxfMN3UHZl6/ysECeLX5DCNRKCnb1Wqx/0UA6+n
+79H/FSUG94Mf3YNvvrClMiQS17LbnQtmYICoFP/YO2dfc8ghNbLmcyc3XiTv1Puc
+iy9OJhZTASeksVJrir6ZM+Vx8EjYkS7bKtneX+QqlK9E5p3eUshiX4UBgPk1q92w
+DKytmy7QPd4egq1W6cJ9RZ5SioJC70vf1jXkWeiOS3Jjlz1wUybU/q0ybUP3QRim
+0qKwZNk7AAMFCACMwwFEMt56Sm9lAXWrjTKQcyR4ASJr//gJW2Yyc3rCSCSGppTS
+tAgFEaFMca/i3Wyv35cKQy/DejPQfcitaXmmgBDqeX6z8VzPyEVu8I9lnZTWr2Y8
+viqR6p4TSz2u5gSeMT6rNosrukMoehBh4I3eEXAs1pPwyFbJOepJCeMZwFiIZ469
+guXywLRBYvpiAkt29W/q2ndbsRVxq1+PVlXP9HFatt70rTfOlVShkI6vCyWcCl2F
+RlV7niCBkwSr8oH0hrt4GqvCzQtcGG1TrdeLuxBVVM+AACvVBEWxgk5b8yueK7jy
+xAYgEiYDLDtbJysNUCQsV4G35wm1nkaK8/ixiEkEGBECAAkFAkidtoMCGwwACgkQ
+gKRDIS7Nczrg5QCeNh2yio7SPI8TTZWbFCP6wUpjNvoAn3Bgbg7Y+hhzEe0r62Tp
+egB6gGxq
+=8/Ep
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

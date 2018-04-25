@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="s/be4bnlQRL02bT9I7nxu7f/mpc7ATjFvx7dZngP1wpV8U/6vO6YI2fzkD6VDdpn0sp3nJ7VjpxR0sPoMeY66Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/cjaL">Suomeksi</a></li>
+<li><a href="/register/cjaL">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/cjaL">register an account</a>.</p>
+</div>
+
+<h1>OG-Phoenix</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Vendor from alphabay. Search "OGPhoenix" on Grams as well to find me
+<br />I sell guides, carding services, botnet files and a few more products. 
+<br />Hit me via Jabber if you have a question [Jabber: OGPhoenix@xmpp.jp]</p>
+
+<p>=== Referral links to my other marketplaces === </p>
+
+<p>http://alphabaywyjrktqn.onion/affiliate.php?ref=OGPhoenix </p>
+
+<p>verify me with grams: grams7enufi7jmdl.onion/vendor/OGPhoenix</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+=EtsJ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

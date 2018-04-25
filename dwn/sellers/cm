@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="UHpGpbGrATDRf2lGmtvzgDOPMckE7OGpIpWHTvRa9SFXJ8R9EmSq9/kS7rkadWn+7GSOEMZbulc7qnQ0Arp+DQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/tppp">Suomeksi</a></li>
+<li><a href="/register/tppp">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/tppp">register an account</a>.</p>
+</div>
+
+<h1>CM</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>21</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 6514 EUR</li>
+<li>Last signed in: about 1 hour ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: Germany</li>
+</ul>
+<div class='description'>
+<p>Gun Seller - on Valhalla</p>
+
+<p>Message me for all contact.</p>
+
+<p>We are arms vendors from Germany specialized in selling guns.
+<br />clean guns never used and untraceable.</p>
+
+<p>This will be our only type of gun that we put up for sale.</p>
+
+<p>Discreet shipping always. Optional tracking on all firearm related sales.</p>
+
+<p>For stealth reasons guns would be completely disassembled and shipped in
+<br />either customer electronics casings such as printers or large box tv sets.</p>
+
+<p>We ship from Germany to Worldwide. So all country's!</p>
+
+<p>If any more information is needed please send email or message on Valhalla.</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Thanks again! 
+<em>(16.3.)</em>
+</td>
+<td>
+<a href="/products/104085">1x Sig magazine and 50 rounds ammo - Customlisting</a>
+(295&nbsp;EUR)
+</td>
+<td><span>
+mi***88
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Fast shipment and as advertised. Very proffesional vendor, undetectable stealth and great communication!.
+<em>(16.3.)</em>
+</td>
+<td>
+<a href="/products/94486">Sig Sauer # Exclusive offer #100 bullets included.</a>
+(1750&nbsp;EUR)
+</td>
+<td><span>
+mi***88
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/cm/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFnv2TEBCACv/aV7I/aE5gYutybnE/eXS0A+UXcSn6ML1XbmN0zj6C5ntndT
+bIU7RoTXuR6C3nT885Xl/SpNX4ktQcBCrM1dMM2e1Frzw7STdJYS+PjRRq+O8/0q
+inLFUGxacrx9aDWFHI+dsH7fUoEVwihGu38/55OGkiN+dsNGnaQpCdK81r77Tq1f
+bLln3GblOUCbEyMPaw/jsqwWv8YHrWibbrSx6JCMXhZ4N74BDH96uD6ZdC7xNyD6
+szGfy/jQ8bnetouCIAs3niZYk34acgO1BBkxAAJK3u7mA8I4H8zNFRsN643Fhi2L
+Vhlcsam9T/v1kwGR+hhapo9BRJwRbSycPd3JABEBAAG0BmNtMDAwMIkBTgQTAQoA
+OBYhBARXOUQAIFiPbE6FyFtl9noNNFTyBQJZ79kxAhsDBQsJCAcDBRUKCQgLBRYC
+AwEAAh4BAheAAAoJEFtl9noNNFTyuaEH/RQiALg4N6Hc0Glb10UzGbez+sJtUqPV
+IBy6XbhTku/iLO1B9JPmVgk5BFzOcURKbFSDT53YsPWO5Yzd385aHhH1yf5bE6xu
+LVTTLcSbENHAzTl18Y/mD9LTjOdotwDBNMIeWC6Sf93ghipvZSAagEVP/s0MeTw4
+7TTZe+j0zuhdhyDAF28m0gcnvdxaOXmOMkHiQJPGUuxHjPHy2N58BbrpcAL/fQ2S
+gqk8mp/FHGWZGavk4sGQkwH8VGyOKs6SeLpNhs/SAR650TX/imCje5vSxMlb5cca
+T2fq7kldeQIKTjO/UhGUP2Ryji/6OUJyuIKUMrD9T5oowkCakohGtmm5AQ0EWe/Z
+MQEIAMfREH6AmQWaZlzagionW4iDvN2UKHIlmLWtJQpaIYyUXLD47jqB2wj0MppO
+EO7KHHlJFwANh2opBjvt+Bs9b5xst6Eeo13MWGNfXadxi5KIfGiqe9OZ5UU30isq
+qBF5SzWHPB60Ji3/Cn/3LjSKT/be40apgU+5pQnszDXQRcAX5xOcWGROw5ZASQFx
+pZEIvtcNc1D6r+bVlPFGzXJtfkbsdy/zuZbq2wwSBQAPLDMe1cnfuu81iAcZuLzX
+aSNqk44IA6twVg5RTmwVMsVnvzcQSMPsh1s2CKWXQji1hlUe7orGzSLlBUFqxD+i
+v+nBQz+CMVpTDbLXDtmca0VEOlEAEQEAAYkBNgQYAQoAIBYhBARXOUQAIFiPbE6F
+yFtl9noNNFTyBQJZ79kxAhsMAAoJEFtl9noNNFTyHB0H+we2lw8n39sl+7ZA25K+
+UVg7ZCBe9zJn1DdIfYePilsSmwCw5k0sseWq1J+T5g5M4wj4r1GL9h0mom/PuoTI
+XCagCDZp978eQ4PmmY/bLOPw/jnRxTh2gnriIAG8bYoCG06XUorDrL9PtcUkJn6s
+Tm5qJw/wCJyH8gp9x16imJXbtgfbrryGU/4ryw+FuEKVZYvi0B3mP4/p7ou58B6d
+0GdLUN/eB3S18g/TOOIRGpoRhqMccIKUveLn1RzXG0TynDKYfvUaunLpJev/KOjM
+j7gwIIRwq25swHjsvlAt6FKa/Kp0Vs4J12r2qFlxGsYv6sx/8N694vEF18G+fLnT
+w94=
+=GUDj
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/104589"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104589">Custom order G19 &amp; G26 - Part1</a> (<span title='1500 EUR'>1500&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100415"><img src="/kuvat/tuotekuvat/7c966ac9755db3e258f824b25a4f0516c86de49f.jpg?1508906207" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/100415">Sig Sauer # Exclusive offer # 2 Mags # 200 bullets #</a> (<span title='2735 EUR'>2735&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104556"><img src="/kuvat/tuotekuvat/14408e2da56ad803d9889e271dbbcd0f88229e5e.jpg?1523559491" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104556">Sig Sauer # Exclusive offer #100 bullets included.</a> (<span title='1710 EUR'>1710&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/94486"><img src="/kuvat/tuotekuvat/c58464908f4769d01029f4b2c641835ab00c89b1.jpg?1495498819" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/94486">Sig Sauer </a> (<span title='2035 EUR'>2035&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104058"><img src="/kuvat/tuotekuvat/2792823d33089999539029389792da4d816151d5.jpg?1521140943" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104058">1x Sig Sauer + 50 rounds</a> (<span title='2000 EUR'>2000&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102415"><img src="/kuvat/tuotekuvat/441f7c62065eac40e013edc7727f92c97d982a82.jpg?1514035947" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/102415">customlisting  2x Sig Sauer + 100 rounds</a> (<span title='4275 EUR'>4275&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/104590"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/104590">Custom order G19 &amp; G26 - Part2</a> (<span title='3500 EUR'>3500&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/83374"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/83374">Glock 17 + 100 Rounds</a> (<span title='2135 EUR'>2135&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/cm/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

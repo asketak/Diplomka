@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6M3HbM4+xVIOaakrcXFW9EvTG/XXyp88WUQimyhX/lfjX/ZZBLVn1tGJfBrLbiEB/QgVA+IrA7sgaQSMtjYGiw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/9vTW">Suomeksi</a></li>
+<li><a href="/register/9vTW">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/9vTW">register an account</a>.</p>
+</div>
+
+<h1>LobosUK</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-1</span>
+</li>
+<li>Total revenue: 47 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United Kingdom</li>
+</ul>
+<div class='description'>
+<p>Order with Confidence </p>
+
+<p>WE USE FULL ESCROW</p>
+
+<p>If order has been accepted them please allow 24 hours to be shipped thanks</p>
+
+<p>Shipping times</p>
+
+<p>UK - 1-3 Days</p>
+
+<p>Refunds:
+<br />If you have had 5 buys from us then refund is given , if you dont accept to these terms and conditions then please do not order</p>
+
+<p>Thank you </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFdLY08BCAC7olGS1nHPiDkkhCwZ+QiDCGvVRPlFtYCgyT28jE4mJeORQcPK
+qWANwyeac/Hg5S8bLuNxHVp3aVnhO7nmxQ3SZjKwx/+6+U685D3QbBSIsMNinj70
+q/oC+eXOF1yeThdGpAlnIq9H1iftbpwAAFEBDGNlZR+X4JSrkAhrch595ob8FjBO
+CzyhCHYSqKu7zHlGN3J6Gcaqc50HnT0zj86A9zkkLWEM6Y/jezMYHrfBgz2vIk4v
+/0b14vmxWqi6JmWJLTfU+21Q6c1TiFay+3vzLbbP/tvf1Ls3l/AA3a8o5gCCNOHT
+WokWBR/3X4+S5X6ku2jvM+l4pv9l4eLcnNHPABEBAAG0J0xvYm9zVUtATG9ib3Mu
+b25pb24gPExvYm9zVUtATG9ib3MubmV0PokBOQQTAQgAIwUCV0tjTwIbAwcLCQgH
+AwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJENdXAojWVRcFJuAH/2i4emeRCjq7HGkI
+u6TMA5babRrc2G9S0q9rqb03l6cFSZ6l8qcyVYWreVNiXATPrZQ0yyl2kppZzlyF
+obJ5q7ee3X8PDBsF6kgjl+JB5ZJg005AvB3lU8YtSJilE2lmi3F0zyp7/z0eCbZf
+B19DOfsWgG4lY9g4C2gZOl59olz7+3x5q3pdseAVFdxKP2X4gPJEdwRaFjr1Ow1D
+as3so1ncoxlhXjCRgyVVrjiuXQOJsBMQyJC/sMmhfE6cre65/rmQQtKzQlHm4Ioc
+9PZOpdAnQ0BqkBNf95NwKI6SxAQNQjg0p0rpjJuV2/8J1W3NCv7QI8cxFMyWJ9tA
+CNrUffK5AQ0EV0tjTwEIANjEAHLXplu1O+S+Dh39hoYjhIeSu1YZKzbJNH/trCfx
+oSqqIUcsj2P3fLz7eEyH3qlP0CqtgvdgUNd09U6dIYkoFqG1jA8+5ITpHaaTaW9i
+5O2Klk4XcelPgJiytZih7gncA5HXPbPAg4z0c5S/c8WwxGn/N8XYWu16zCLQ2LOg
+2m1SJXWVdL6BvbNOzXXYz19WG97KNFIO8wiJzrnXmtt+ONAVerCoS6qTPhyE5qQA
+LbToYxr+6e9zKpKV9jwUGPV8ugDSBssI0gr5tQT0Csnl4dwhlkhOR3x6Vp4mylHr
+0Up0K+qpgLiYBFhMqZs52ntedI52FicNZguMwKkom4cAEQEAAYkBHwQYAQgACQUC
+V0tjTwIbDAAKCRDXVwKI1lUXBTbtCAC4Ibv+a9vULSXbBoqvDslYvM4+X7ujqLyF
+x7Q7K/05G+SCUlwndHsHXPR6SeOGix/ohdRAL7X5jd4IxN9jDBvHTv6q0je9ex6f
+ccTNodFJBl+2MIiEQKkcTzcyLgtXDpBD1G4E5mhUEEPV8oQTksIOCD38jFC5GEqT
+LSEoBxOHteVpfdyTDCASfhQPVQ7qA9MiMB4geS6qN+brogdx7zNBFoqZhUikde12
+28EiRnedrU6e5ET3ikFKUYXOnmKdY2fKNPxvQP8Cp3jcalredccDTJZVUhMjO+HY
+IZyrw59n5LJJm5ireI5ZzkPWcuxbgzkV3rIQpsjkXpMMmZ2cF8l3
+=1sVb
+-----END PGP PUBLIC KEY BLOCK----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/72172"><img src="/kuvat/tuotekuvat/b81b38161bcc2efab65ccbd644bf277dc20a62fd.jpg?1479832722" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72172">£7 - 1g of MDMA CHAMPAGNE 84% UK-UK </a> (<span title='11 GBP'>12.57&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/64338"><img src="/kuvat/tuotekuvat/f5fd7777bc6d539ce5db933f5aeb3ca8e54951e8.jpg?1475684243" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/64338">intro Offer - 0.4g of Amnesia Haze AAA High THC</a> (<span title='4.01 GBP'>4.58&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72162"><img src="/kuvat/tuotekuvat/9ad501b2481cbf0419e70a5c0df25eb03cb3c67b.jpg?1479832602" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72162">112g of MDMA CHAMPAGNE 84% UK-UK </a> (<span title='324 GBP'>370.37&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51821"><img src="/kuvat/tuotekuvat/a6bc22a6ccfb33a150a901c8084bf7b54f5df17f.jpg?1468193123" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/51821">0.5g x 88% Pure Cocaine London Fuel [UK ONLY[</a> (<span title='57 GBP'>65.16&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51830"><img src="/kuvat/tuotekuvat/87e3839a96ccb577d7243092ff242a9e7e391f4f.jpg?1468193999" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/51830">100 x Green Batman XTC MDMA Pills 150mg</a> (<span title='104 GBP'>118.89&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51841"><img src="/kuvat/tuotekuvat/8dc3a2e878198ea1a69b8b25f4f4817c9b7bab49.jpg?1468195088" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/51841">7g of Lemon Haze AAA High THC</a> (<span title='39 GBP'>44.58&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55710"><img src="/kuvat/tuotekuvat/4768e890da0856bb1fa65295b3625c372196351e.jpg?1470769436" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/55710">1000 x Green Batman XTC MDMA Pills 150mg</a> (<span title='987 GBP'>1128.27&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51843"><img src="/kuvat/tuotekuvat/675a0fe4f6e742e1aa777ddaec373b2354784079.jpg?1468195197" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/51843">28g of Lemon Haze AAA High THC</a> (<span title='149 GBP'>170.33&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/51819"><img src="/kuvat/tuotekuvat/0272018d27c39809043f066ab759e6b8de230b58.jpg?1468193029" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/51819">1g x 88% Pure Cocaine London Fuel [UK ONLY[</a> (<span title='104 GBP'>118.89&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/lobosuk/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

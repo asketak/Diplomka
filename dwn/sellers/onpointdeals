@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XiXQ8M91ul7JiG51BTRF72pBTgS2XDyAn7W8gJID8n/QuNCkalLVKodNJ5Y/ru5G2pY8dBpYWiZc/KZydtxXNQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/p7HR">Suomeksi</a></li>
+<li><a href="/register/p7HR">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/p7HR">register an account</a>.</p>
+</div>
+
+<h1>onpointdeals</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>onpointdeals here back and better than every stay tuned for more products being offered soon.</p>
+
+<p>Opsec above all else. Everyones safety = everyone having a good time and no trouble. If you have questions I will be glad to assist if it is valid. I ship only to USA for the time being and look forward to a long relationship with a few quality customer rather than more customers. Order with confidence and full escrow. all orders ship priority mail between 24-48 hours. Mon-Thurs so be sure to get your orders in on Sunday or Monday so you get your parcel by the weekend.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFa0N28BCADaSK6lrcMjwdWMTq99/d+tXWiNMBI56WKLEWjyC7cRcM+BbfOi
+FGJGMtSKcnyXGEgPWuCOlvGILpNsgh3wzZycVYZJLwax7N9C2cxlelLO+RsRe9X/
+7s1QV7tkH77lrhb56SmAFtWQqecio+yCCaPGAtPpz0vET2a6ieZxvYazwGOmeDFX
+HFEKNrT4vNJE9PRuycRuJIt9wYM661tTnvAEC0fTnOi/iQg8bUeQmgBKLcuQTYVM
+0jDANFemi8QLxAx5upUzXH+SLuuj2rOzlGyL035Y0ScPsLJL7TV+zbjIXyIyUsuN
+I8Uf9laBtnm9hrav2jvwrE4CxYvCLY0iYYVRABEBAAG0GW8gcCBkIDxvcGRAc2Fm
+ZS1tYWlsLm5ldD6JATcEEwEKACEFAla0N28CGwMFCwkIBwMFFQoJCAsFFgIDAQAC
+HgECF4AACgkQkakIL2pS7yQ/tAgAqwW8lk4WU9Q46ttOAXD7tnsq4g/tjSccTB35
+wuXHGGPUN5lGCGIPshctfGKQDkTns37aeZEKFM6dYgWTNEAJntR2Pq2V4+eGw22D
+E72cu+45SICBUKZcRPNUu+Y6vWREU3jVir3IjA2sHpqLDY8bPImnHrccfhPN3dPJ
+Eju8FFXBKQL/p2v7yUkXnNVMNPA7eF5+dIAKK8KJ3W97K2wo8TuZX4nikp6rBJeS
+dhjBCKZL+Wu6L6rj9b4LpGlYD4zssr5xtEYl85AZoiMhRiOiHHhYuknHOFhGsJdZ
+YPGFQP6UyxdwkUCrVNM9omhIRshnqDqlJUrkntXoMlK5srWtwbkBDQRWtDdvAQgA
+pI4j7WcGjd3C8V15ABcIm3VoCDAYczI+JasGZlnVnfHPUfhAntBPqfrAfzS/84Rn
+vwl0L0850XtgAmi30BYVqt0tOCI+/hJJ3xKw3qW0+APla2gA4X2oK3RlTOA52XcB
+8hG7QvTEjPaoCazs+MNDx2R2zqseOaE6JELlsv/HgMCAhzoLeOoa5AA0sgOTOS+z
+BLVoGhiYDEoOrDIySyip8ugqrwZzSsTMAj84YQjx5Szcn6r/YgCQXp3u74oLNqIr
+DVkvANHlyMx8IB8IeiOJJdQy5d8LcWDFjNKcP57IWguKXbI1oP3r8m/iGfb+ZGeA
+thfaw0mI0YDpnWM9yRRT/wARAQABiQEfBBgBCgAJBQJWtDdvAhsMAAoJEJGpCC9q
+Uu8k9nwH/33qYhPqIZg2vicQ/ni/LqZ5bmOdmdwswdIkvS0a5rAyLWMP1UqJN8NY
+Otk/yxPqR2F4cZSS76EtJ9HmGKCovkTZqCGYTzIU05CncI50JmQYbbqMBjXhgj8Y
+Dxcf6J4ZoOTI0Kc+RS3z7Em89QdiywlR6nFjyUR5A67/tRK5u8IzrMECri0cO7wk
+hV5TKR9kS7W6U1NzfJre8Lcm66ZvB8kG4uqvqQ5wMNYv5AGHcAmXxjrdFwdDsYS3
+96uvj0+QvY9+pGfj+AVOEmgLHh+4muhc2DjIaKeZG/KT5FqWlI1ezrabKy4ia893
+4sU6+cjwTld/2xSuk9O1IQfwwUclfmI=
+=zveh
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

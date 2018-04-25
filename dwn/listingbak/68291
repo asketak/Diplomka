@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Z6eXLSLjkOF2wXVy6Ku19ek6MBEadH7j+H1l8Q8gJKSqA9m9lgQw6TUEcI+E13HhGCCWIynVyNe/tTdgUpYBsg==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/e3bdebb92bfd6890aae5fbbb97b21fee2ff4c23b.jpg?1477734396"><img src="/kuvat/tuotekuvat/1431f81339627827637650937a0c1168c2c28e36.jpg?1477734396" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1 g HQ Crystal Methamphetamine Shards,Express Available</h1>
+<ul class='list-unstyled specs'>
+<li>26.86 EUR <em>(0.003448 BTC)</em></li>
+<li>20 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/leftcoast">leftcoast</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bg05EXt/7dJTTKgKx25KzJsG/kaxLyJz118rLtB5k9mjqXeBz5hN2hCJrferEo7YahxYdIKOlEeQl3m/jc+2zw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="320746">Domestic First Class (3-7 days) (included)</option>
+<option value="320747">Domestic USA Express (1-3 days) (+17.9 EUR)</option>
+<option value="320748">International First Class(~10 days) (+5.7 EUR)</option>
+<option value="320749">Domestic Priority (3-5 days) (+5.7 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="68291" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>We have strived for years to source the finest quality crystal available in our local market and we would now like to offer the pure uncut product to the Valhalla community. We are confident that all of our customers will be 100% satisfied with the quality of this product If for any reason you aren't 100% satisfied please let us know and we will arrange a solution. We guarantee delivery of all domestic orders to the address provided by the buyer through USPS tracking or 100% reship/refund. INTERNATIONAL ORDERS at the moment we have no way of tracking packages beyond US Customs. If the package is seized at US customs we will reship 100% but if it is not tracking will not be updated, even if it gets delivered, seized, or falls into the fucking ocean. Since I can't monitor the delivery via tracking I have to depend on the word of the buyer so if its your first buy with us we can only guarantee that the package has passed customs and is on its way to your country, other than that reships will be at our sole discretion. International buyers that have developed trust with us can depend on a 50-100% reship on all packages.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Shipping fee 2.44 EUR (Domestic First Class (3-7 days)) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/85465"><img src="/kuvat/tuotekuvat/796bf7d0fc75ad460e834493e6aefc79b6ac6924.jpg?1487025819" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85465">10GR SPEED PASTE 74% Amphetamine </a> (<span title='27 EUR'>27&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nl-airline">NL-AIRLINE</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99599"><img src="/kuvat/tuotekuvat/08970a4e8d4c4900f4e98fe1d3cd59e4ccbdd644.jpg?1506529499" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99599">Atom Ephedrine 30mg x 50 </a> (<span title='27 GBP'>30.72&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2890</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85075"><img src="/kuvat/tuotekuvat/fccb1b9f51c286c23d9bd47564831874091f3264.jpg?1486740436" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85075">☆ 10G Speed Paste ☆ A+ Quality ☆</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2362</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/42524"><img src="/kuvat/tuotekuvat/236f7ee420fe06bc17def594bb006ae66ba7574c.jpg?1463515671" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/42524">10 G SPEED paste (AMPHETAMINE) AAA+ HIGH QUALITY ★★GERMANY SHIP</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100558"><img src="/kuvat/tuotekuvat/1e6098ac9169ec6d1014967e6554053ca70d70a2.jpg?1509083924" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100558">1 gram Meth Crystal Meth</a> (<span title='20 GBP'>22.76&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1200">Stimulants</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1203">Metamphetamine</a>
+</li>
+<li class='active'>1 g HQ Crystal Methamphetamine Shards,Express Available</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7788.5 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

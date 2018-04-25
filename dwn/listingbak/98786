@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+h8/kx75V+MN4m11fvx/Bk/cCjYKjyVKvziRlMNi6Vc3u3EDqh73604naIgSgLsSvsasBDkuk3748MMFntTMQQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/426c34a3005672a6849ebaeeadf8fe8343f6891b.jpg?1504174111"><img src="/kuvat/tuotekuvat/29b131a5398e8bf6f1128d1a3c20e5469f0fc9a8.jpg?1504174111" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Stanozalol, oral - 100tabs/12mg *(Uutus!)</h1>
+<ul class='list-unstyled specs'>
+<li>69 EUR <em>(0.00885 BTC)</em></li>
+<li>20 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="c1B4UDVl9JihFgTjMvfq0UiXmcrgB2j1VZXX0TrrPHS+9DbAgYJUkOLTAR5eiy7FuY0/+NOm3sESXYVAZ10ZYg==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="596327">Domestic (included)</option>
+<option value="596328">International (+5 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="98786" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/arnold/products">Check this out!</a></b></p>
+
+<p><h3>Product description</h3>
+<br />Stanozolol is by far one of the most popular anabolic steroids of all time; in fact, it is one of the few steroids a non-steroid user might be able to name. This is an anabolic steroid that has gained worldwide media attention numerous times. It was the Stanozolol hormone that made headlines during the 1988 Olympics when Ben Johnson was stripped of his medal, and has been linked to the MLB more times than can be counted.</p>
+
+<p>Stanozolol is one of the oldest anabolic steroids we have in existence. While far from the oldest it does date back to the 1950’s. The Stanozolol hormone was first developed by Winthrop Laboratories under the trade name Winstrol. The Stanozolol hormone has since been found under numerous brand names across the globe, but the Winstrol name has remained the most popular and well recognized.</p>
+
+<p>Stanozolol, commonly sold under the name Winstrol (oral) and Winstrol Depot (intramuscular), is a synthetic anabolic steroid derived from dihydrotestosterone. It was developed by Winthrop Laboratories (Sterling Drug) in 1962, and has been approved by the FDA for human use.</p>
+
+<p>Unlike most injectable anabolic steroids, stanozolol is not esterified and is sold as an aqueous suspension, or in oral tablet form. The drug has a high oral bioavailability, due to a C17 α-alkylation which allows the hormone to survive first-pass liver metabolism when ingested. It is because of this that stanozolol is also sold in tablet form.</p>
+
+<p>Stanozolol has been used in both animal and human patients for a number of conditions. In humans, it has been demonstrated to be successful in treating anaemia and hereditary angioedema. Veterinarians may prescribe the drug to improve muscle growth, red blood cell production, increase bone density and stimulate the appetite of debilitated or weakened animals.</p>
+
+<p>Stanozolol is one of the anabolic steroids commonly used as performance-enhancing drugs and is banned from use in sports competition under the auspices of the International Association of Athletics Federations (IAAF) and many other sporting bodies</p>
+
+<p><b>Use in bodybuilding</b></p>
+
+<p>Stanozolol is subject to non-medically supervised off-label use by some athletes for its anabolic properties frequently presenting with concomitant reduction of body fat. Stanozolol is a modified derivative of dihydrotestosterone (DHT) and thus not aromatized to oestrogens via the aromatase class of enzymes (see chemical structure to right). Bodybuilders frequently misuse the term "dry" in describing their joint pain while using stanozolol either orally or via IM injection of an aqueous suspension; a reference to their perceived reason for an increase in joint pain. Rather, stanozolol as a DHT derivative can selectively compete with progesterone and other natural and synthetic progestins (nandrolone) for progestin receptors; yielding a reduction in progesterone mediated anti-inflammatory processes and presenting patients with a perception of increased joint discomfort.</p>
+
+<p>Commonly used by athletes and bodybuilders alike to lose fat while retaining lean body mass.[citation needed] It is usually used in a "cutting or leaning out" cycle, to help preserve lean body mass while metabolizing adipose,[citation needed] although it has not been proven conclusively that it has any special fat-burning properties.[citation needed]</p>
+
+<p>It is presented most commonly as a 50 mg/mL injection. However, recently 75 mg/ml 100 mg/mL versions have become available.</p>
+
+<p>10 mg is the lowest strength tablets, but 50 mg tablets are also available.</p>
+
+<p>According to one source, injectable Winstrol carries with it a half-life of approximately 24 hours while the oral Winny form as it is commonly known carries with it a half-life of approximately 9 hours. 	”</p>
+
+<p>Stanozolol is thirty-five times more potent than methyltestosterone as an anabolic agent. On the other hand, it is only one-fourth as androgenic as methyltestosterone.[3]
+<br /><b>Detection of use</b></p>
+
+<p>Stanozolol is subject to extensive hepatic biotransformation by a variety of enzymatic pathways. The primary metabolites are unique to stanozolol and are detectable in the urine for up to 10 days after a single 5–10 mg oral dose. Methods for detection in urine specimens usually involve gas chromatography-mass spectrometry or liquid chromatography-mass spectrometry.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+TOIMIIIIIIIiiiiiiiIIII
+<em>(8.12.)</em>
+</td>
+<td><span>
+Ro***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100840"><img src="/kuvat/tuotekuvat/ea9979f66c38d162bbce4456739dbd70495f03b4.jpg?1510723111" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100840">Accord anastrozole 1mg 28kpl</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103123"><img src="/kuvat/tuotekuvat/b53e9f5037fda05b97fe025dbd4b6993530374e2.jpg?1517785073" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103123">ALVOGEN - ARIMIDEX / ANASTROZOLE 30 X 1MG *(UUTUS!)</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/85095"><img src="/kuvat/tuotekuvat/ad526b8909aa1b7a9d8850ad5626861d11169db1.jpg?1488096492" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/85095">Mod GRF 1-29 - 10 mg - Bio-Peptide</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/55186"><img src="/kuvat/tuotekuvat/800f6cc527682300bc3759c01823f6cf3ec87c69.jpg?1482013574" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/55186">Cerberus Pharma Anavar 50mg x 100 tablets</a> (<span title='62 GBP'>70.54&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Stanozalol, oral - 100tabs/12mg *(Uutus!)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

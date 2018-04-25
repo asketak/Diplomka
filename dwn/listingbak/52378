@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IOLOE1MmU7QGRkqES1bqempemg2tCDpBRfFIqYkt6ZvtRoCD58HzvEWDT3knKi5um0Q8P56pjHUCORo41JvMjQ==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/eb15928f2085a6e8f01f08f85e147297a35920c7.jpg?1468438321"><img src="/kuvat/tuotekuvat/a6719801f4c2c5482ce018f6a2786ecf0a5d8402.jpg?1468438321" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>0,5 Gram MDMA + 3x pills   Free Sample new vendor High Quality</h1>
+<ul class='list-unstyled specs'>
+<li>1 EUR <em>(0.000128 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/highqualitytrip">highqualitytrip</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cRMRQjPqzX0ojlGde/5DbK2JR2qQUhcz4FwaZmbsRdC8t1/Shw1tdWtLVGAXgod4XJPhWKPzoQenlEj3O1pgxg==" /><div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="52378" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Free Samples !</p>
+
+<p>0,5 grams pure MDMA Champagne/white color crystals with a great smell.</p>
+
+<p>The product is made in Holland by a studied chemist who works in a clean environment .
+<br />He works with raw materials of the highest quality.
+<br />This MDMA is made with original Chinese PMK oil.
+<br />The color is a mix of Champagne/white crystals
+<br />The color of the MDMA is different because it has been washed, this does not affected
+<br />the active substance only the color!
+<br />Every new batch of every product i sell is tested by a professional lab in the Netherlands
+<br />----------------------------------------------------------------------------------------------------------------
+<br />3x Pills</p>
+
+<p>1x Rose hand grenade 140 MG net content MDMA
+<br />1x Purple FC barca 180 MG net content MDMA
+<br />1x Orange owl 220 MG net content MDMA</p>
+
+<p>Every new batch of every product i sell is tested by a professional lab in the Netherlands</p>
+
+<p>----------------------------------------------------------------------------------------------------------------
+<br />Shipping information
+<br />We don't ship to: USA, United Kingdom, Australia and Canada!!</p>
+
+<p>Transit times:
+<br />Netherlands 1 to 2 (business) days
+<br />West Europe 5 to 9 (business) days
+<br />East Europe 6 to 12 (business) days
+<br />Rest of the world 6 to 12 (business) days</p>
+
+<p>Packaging:
+<br />- We use super stealth and good packaging!
+<br />- All orders will be processed and shipped within 24-48 hours (Also in the weekend)</p>
+
+<p>Following information needed for shipping your parcel:
+<br />Name:
+<br />Street:
+<br />Postal code / City:
+<br />Country:</p>
+
+<p>Please pay attention that the address is right and the sequence is right for a fast delivery!</p>
+
+<p>We hope that we inform you enough, if you have any questions please feel free to send us a private message.
+<br />We will be happy to provide you with top quality products and make some great business here and build up a trustful relationship with our customers.</p>
+
+<p>Best regards,
+<br />High Quality Trip</p>
+
+<p>Quality Over Quantity</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1602">MDMA</a>
+</li>
+<li class='active'>0,5 Gram MDMA + 3x pills   Free Sample new vendor High Quality</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7797.85 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="alBQeEp/srpQj42HZ6LRiysSqUzsF9hY7RFtMiW3fgSQ1xeDz7jztNVWgcMh1dkS9j9zoOWOgMBu+/tnvsF8rw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/6sGm">Suomeksi</a></li>
+<li><a href="/register/6sGm">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/6sGm">register an account</a>.</p>
+</div>
+
+<h1>CocaCola-Kid</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Dear Client,</p>
+
+<p>Truth is, if your only concern is cheap price, don’t be surprised to get burnt.
+<br />Enjoying reputable service with established ultimate quality product, secure fast shipping and attentive customer support is priceless... especially on the Darknet.</p>
+
+<p>Communication matters to us. We'll respond within same or next business day.
+<br />Looking for custom amounts? Message us.</p>
+
+<p>Our customer's privacy is an important priority and we value the trust you place in us.
+<br />Your information is kept only as long as necessary to process an order.
+<br />We don’t collect, use or disclose your identifying information.</p>
+
+<p>It is in our best interest that you receive your product discretely and safely. As such we use the best methods to ensure this.  Our success rate is 100% so please relax and allow 7 days for delivery.</p>
+
+<p>Our stealth techniques are one of a kind and we pride ourself on the fact that, if customs does stop your package, 9 out of 10 times they will not find anything.</p>
+
+<p>- NL 1-2 days
+<br />- UK 3-5 days
+<br />- GER 2-4 days
+<br />- BEL 2-3 days
+<br />- AUSTRIA 3-6 days
+<br />- CRO 2-5 days
+<br />- CZ 2-4 days
+<br />- USA 6-14 days
+<br />- AUS 9-17 days
+<br />- REST 3-20 days</p>
+
+<p>Address format:</p>
+
+<p>Your (real)Name
+<br />Your Address
+<br />Your City
+<br />your Zip code
+<br />Your Country
+<br />Also please use capitals in your address!!</p>
+
+<p>Please use a real name witch you have an ID for or for witch you can get an ID for!! In some countries (mostly eastern Europe countries) they mark a package that fits through mailboxes as a package because of the weight and for that they need to be received at post offices and an ID must be showed in order to recive it. We don't know what weight in which country will be marked as a package so we ask you as a buyer to inform us if you make an order. </p>
+
+<p>we are also active on:</p>
+
+<p>Dream Market
+<br />http://lchudifyeqm4ldjj.onion/contactMember?member=CocaCola-Kid#shop </p>
+
+<p>Hansa Market
+<br />http://hansamkt2rr6nfg3.onion/vendor/CocaCola-Kid</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFczERYBCAC+B0fcP/ZGP+D6I59biKJ/CBByuI3YirAKgD5wwTJi6S7cL+PF
+f9Zs/ecSG+cKGlcSHkXo+InnHHXdzJiH3I5800PBdDutFgRLAeXBVQPQD9LW1mtD
+mT2Xn0r8dUz+/wWg/oDGP7DWNplpbdYN0x5vLt/1+tz9uK8vWBggfP6kT8UyOw1U
+HK87LoE/8+fTNew1c70jYu30y25jHzdmdutpfP37HH7KxkMahWxwrHXVWEsYn+0g
+zEpwC0PNnoPwJSPisY0bPmwO2rLXz1FLZo0T3B76UBsoj3PEQokYdWamS/cXR0DD
+g6R9wJbEsl6pZINknE8XfBY6J1kQ37DKRHFbABEBAAG0JGNvY2Fjb2xhIDxjb2Nh
+Y29sYTI1Njc4OTRAZ21haWwuY29tPokBOQQTAQgAIwUCVzMRFgIbAwcLCQgHAwIB
+BhUIAgkKCwQWAgMBAh4BAheAAAoJEOVQ4Ybj3EAqRYoH/0eOObV5yLFjm6dK5cLI
+rkvf79giuHyWuSs+TT4hGpVgs0VmMfxRliWqTyQrArMPy+LbRowiFLiz5Q7cO+vq
+5tCZhYHcJ8lx7ZY8KnqgWbLnK/ct8fcATI+5dfsYLNmqL+IYzfxhxLnSPt4/0gLz
+g7GQIauAxOE0ZBoE2zeAKiCoghH7Pm484dPp3Iqz1xS+3MDj+H++oo1TJ1O30QmK
+Vp3Stbbmc2znwxssVp3DGAM70dq887FvezXDbJKa2zTJZ8YkaW3sTcT2vG0L8Bcm
+s6AIhzwd2+O42xr/JCtdhN0b6Cl4iOGs27Uv9aAjbe7McT+tFkN817pg2b1jTBLW
+G325AQ0EVzMRFgEIANZdMDhklnc1ZWn/TN9d8P4XVmlKUohHEs/xrlvqe6A7f7Ug
+WlSqUfLjsLqtPXr9wnxcjs9CuDd869vF+BNHrbu7DH0aA3s+M46sowafYoDihuNF
+x2c2V4mFJyJNAhu4Tjy0rQhIR+FX1sK6jKTogfiY2pcb6T4ZZEIj5Jps2JHkAU5I
+s9yHk+9Lu9A/LUiugWbPfatVymKQTnfyazDKg/jF9OVSiasOgdVyTWYt3rKyDDXT
+LY+Fno5xZFyKzRSe1g62ldYyhuFm5YK7A+KMV06Ov03smkdqCT4TNrMF76rdfa++
+jSNuh0kc7uNkN72YBhS07qU8Sf5eH7kwRC9+QvsAEQEAAYkBHwQYAQgACQUCVzMR
+FgIbDAAKCRDlUOGG49xAKs7QCACOrdEuTkSvrR1jjK5uZscN/EVM2tJuRdJ3oUuo
+48Qy+LP3uz+BwZRVvZkf5AGl+gOL0fB+/QtldwTvtuQUq8GBQa9TJ6eZO/58iUX/
+m2JZJ4xgbSgQunWLApNh0/Enqu5FJCpZHGpXYh3vP2xIowOc1gmahdF6oIP2eSxI
+kCjuuvMQ1dwiuiuvCSvKAm8RvPPCdiQ35YC80JHHRwHpy/iPABM0NigbixZiuJEm
+oWGXyKSmibtnM4WkrJcfPzY6IMjRwi5IWiNz+iVHLgtullNWPQyAjvZ/pIl5TMo4
+oyGxUwBRDFxCGw2+GeLASMwtgCBX3zfzS6WSOiuV+hmoyHRK
+=H163
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oQ7a6PHjU5di5Zgyff9FRJ2/MC6OWUrty+B40XmCx/psqpR4RQTznyEgnc8Rg4FQbKWWHL34/NmMKCpAJDTi7A==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/3e486288de123d6b82ce12abdc5e87a2e4d97901.jpg?1483363050"><img src="/kuvat/tuotekuvat/d49dc9068a0ad8522e9eca122f0112e69951ac2e.jpg?1483363050" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Ice Cream 2g/Outdoor/AAA/Free Shipping</h1>
+<ul class='list-unstyled specs'>
+<li>19.47 EUR <em>(0.002512 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/greenjack">GreenJack</a></span>&nbsp;(<span class='green' title='Positive feedback'>468</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</li>
+<li>Germany &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="z5bNHBXytamxjGuTAeyGM5j39csYphlEUDCmZfmpMFsCMoOMoRUVofJJbm5tkEInae1T+SsHr3AX+PT0pB8VTQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="394942">eu,1st class stealth,compressed (included)</option>
+<option value="394943">eu,2nd class stealth,uncompressed (+0 EUR)</option>
+<option value="394944">ww,by air,1st class stealth,compres (+1.62 EUR)</option>
+<option value="394945">ww,by air,2nd class stealth,uncompr (+1.62 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="78095" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>READ TERMS AND CONDITIONS ON OUR PROFILE PAGE BEFORE YOU ORDER</p>
+
+<p>We ship from EU non-flagged country. Not from Germany.
+<br />Outdoor grown Paradise Seeds Ice Cream AAA quality.
+<br />We also apply discounts for different quantities. Check our other listings!
+<br />Shipping cost already included in price.
+<br />Professional packaging and stealth.
+<br />More info on GreenJack profile page.</p>
+
+<p>Paradise Seeds description:</p>
+
+<p> La Ferrari... Don’t let the name Ice Cream fool you. It will lick you down if you’re not careful thanks to the potency of this exotic plant.</p>
+
+<p>The name comes from the smoothness that makes Ice Cream a winner with growers and smokers around the world. Why the Ferrari tag then? Because once this plant clicks into gear it takes off like a racing red sports car, fast and furious. And what a ride!</p>
+
+<p>This is one of our new generation varieties, bred from classic original lines to produce a plant that comes with its own strong identity. An instant hit when we released this specialist strain, it also won the over the taste buds of the High Life cup judges who voted it in their top 3 two years in a row.</p>
+
+<p>We spent our time breeding this beauty. The result is a plant that is perfectly suited for indoor grow operations thanks to rapid and healthy growth (8 - 9 weeks flowering time), and a general lack of stretching. This makes it an ideal option as a multi-branch plant and also makes it perform spectacularly as part of a Sea Of Green (SOG) operation.</p>
+
+<p>Outdoors, Ice Cream may not be the biggest yielder, but it is still popular with growers looking to benefit from that indica strength. It performs satisfactorily in regions as far north as Canada, the UK and the Netherlands, but it is in the south that it adapts best - sunshine coaxing the best from its resinous buds.</p>
+
+<p>Under the hood, the Ice Cream plant packs copious amounts of trichomes, tightly clustered, its heads lining up in regimental rows and glistening with a resinous glow. Like the ice cream you always wished for, expect the palette to dance with vanilla and pine while the aroma is pure old school skunk.</p>
+
+<p>It remains a popular choice; with growers who enjoy its turbo powered growth and smoking fans who enjoy all the power that comes with a turbo indica engine to drive them through the night.
+<br />“I can say it’s one of the most exotic strains I've found, and I've tried a decent amount of strains. You feel very Zen like, as if you are going throughout the day in a state of focused and functional meditation." ICMag Forum</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/46428"><img src="/kuvat/tuotekuvat/d2d2f2ca4654615cd0b72cc3e07de4b14af5a696.jpg?1465579119" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/46428">1 g &quot;Lemon Kush&quot; /// Free Shipping ///</a> (<span title='14 EUR'>14&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/californiadreams">CaliforniaDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>2080</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93422"><img src="/kuvat/tuotekuvat/fca1662d145ef7d92b0911bd5ca717cab8c86a3a.jpg?1493654817" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/93422">1g OG Kush LemonLarry/ SuperLemonHaze/NebulaHaze/Amnesia/PowerKus</a> (<span title='15.5 EUR'>15.5&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/thegermanbudtender1">TheGermanBudtender1</a></span>&nbsp;(<span class='green' title='Positive feedback'>2002</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-58</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91795"><img src="/kuvat/tuotekuvat/9a4ee66e874ea784e1944b06684c64daf5161b3d.jpg?1491449799" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/91795">2 gr. Diesel A+++Top-Shelf Hydroponic Weed Sample</a> (<span title='20 EUR'>20&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/60347"><img src="/kuvat/tuotekuvat/cb6c06b4a3dd9b5477478f62f2b4beb50ed39266.jpg?1473620682" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/60347">1g Amnesia (Pure) Worldclass Medical Cannabis Quality AAA+++</a> (<span title='16 EUR'>16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/doktorgreen">DoktorGreen</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23218"><img src="/kuvat/tuotekuvat/8d363a85d29288bf283885df2c2132c51a4db3f8.jpg?1455972437" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23218">10G ★★ AMNESIA Haze Rest Weed Cannabis ★★ AAA+ High Quality</a> (<span title='25 EUR'>25&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchcandyshop">dutchcandyshop</a></span>&nbsp;(<span class='green' title='Positive feedback'>421</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>Ice Cream 2g/Outdoor/AAA/Free Shipping</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

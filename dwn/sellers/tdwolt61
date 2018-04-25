@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="c+dbKFewOpOXd/10SZcoQfSbMrUimIZngLDHkEnPK3UDlWChAcrlFry4cWPVDczQBtlYYyJajRlYhdXl8TFAFA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/836z">Suomeksi</a></li>
+<li><a href="/register/836z">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/836z">register an account</a>.</p>
+</div>
+
+<h1>tdwolt61</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United States, Belgium</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Mailvelope v1.5.1
+Comment: https://www.mailvelope.com
+
+xsFNBFee1WYBEAC1WI5fy30OArnpUy4ecmeL269ZEiau7zbHGiZzhJP5OC+p
+TqaRBjDRqaTy+2BfM/8+O0s9Om/zW+uofsZh/AzXvbuEVl0E1CsSTgGP3OVz
+cAktlJp6/c7rUY3iGauj+ic6FKgFZRtJMLkyL+esKPNScy+mNx3cAZvzFFnr
+GalN6zp/JRXLodC571Lnmab6XM9iudrvn6aHQ9lzaH4vY78f/GXmQjv9hMB3
+cwOjy00AZGu3xICvn8aCNDJi9UP9KCKHmDqUsetLAVfgw1jS3OwpN2MKiGBF
+AE5c7hHtlhCVIGtXcN/6rKKVt/SlVlpfSrFt6/IGxlAaRE0B19tCU5wm6R4v
+MnpCDipeEekagg2BFkyR0XSJKDA8KF/kfxaQb34aEfY7qFpZobSZaDQXYDXg
+cNGlcXnh1O/nlGd/mD/S+FdkXq1QZOKoifokT7MqDjtXL7bEL1zKe2G8726s
+8x7oLaSzU4bgceYzjMoy5vlC12NAof9z+XC3v//GBsgYqW9UqYM0hiaS1WJt
+EzOrcWodbQxXs4QYkc0aHpLiOYGpL6oMbxAi8AOuyjHQ5QRD5dPES02HT8w1
+l8FfhoeV+YOgua3DLgLz6cUvoFa4n0B4VDv5ScCOhbhd/pTCUhadkuPPPCpi
+3vdolAr0AXIOM5zez6EMyblSHocPHaWOBDg9QwARAQABzShlY3N0YWN5bWFz
+dGVycyA8bmt3ZW50aWp1bGl1c0BnbWFpbC5jb20+wsF1BBABCAApBQJXntVr
+BgsJCAcDAgkQcYnyibFsHcAEFQgCCgMWAgECGQECGwMCHgEAALxREACdSGTZ
+ad14csvFMcP3qBu28jdGgnd+8jeR+9GsRrPK9bzpxQu9O9d4e1/ZIYSf20d6
+t5Zjg31xjezzd77DARETEI+10qtZ97d3+GisfCDivv9XiECwhv8TsNxGT12e
+o/9uz/WGauAZPJS85T13s6+uhQ2UQ2XYRRpVMdznI0AjNb2l/Yq8YEhjsE0f
+lygUVToonjNqzjtCUlB72+d4T7euZXqP+eeV7Q+svJuh/2MLI5w8X69ybwrZ
+U+s3Batev36PTZiUAH0zAv41Q63UHqrd5lt2xbrSVT8mMddR0g5QQSWW1gQL
+jVhgtLYe9bYqXRhPDKu5E5VYtodNrVBPvbwm/2W5D/vMHWGRI7Xr4JDBNZ9K
+UhhYRSoEwgsW/FSOmR/DHmCmsyIUjEP39Zy908JkUqoAOunAGOZXvLdZyAZ6
+WfS+iag1Nr9S//r0ZrkLKlPdk7iZ8J55T/ph0ircK6mXIiHyZCW9Fw69luBN
+oc9dmyUFi80sJfEJestwrW8dPJGKug7foQrSkN4aIRzIEsmT213UsBh7/LAU
+5FUNh0qLWw6yrIRNSuo1KidOrUhQDULcgYjHvK4lmkvv5nt7F6ySUogldxLX
+oZ4lkQAxcrY5t/mIQ/2A/S02kiqK9zp43i0MpDbL5wwgqa/EXVucX60v2X/q
+XUQ0bVOkQbZnfQ5+b87BTQRXntVmARAA0L6EwjN7vBgTiGzOg1qHVK6LAPjC
+YZcgdQf8inYmwS49eaSD42a2jWhHW45iUStk/m0n/fqvJNs+HECmzAL468Cf
+cTkTso+A8pvcSHmiF4w2dbkK8MvElBaj9CAFOTu0gHB3AxMtmRmQ2ZFIVP57
+A3xuLAKNiG3Z7uxiSZvjO/MNouTqsa6Bqn+V7/DuwHMrHuOL2y7se4dg+SUE
+l92hydidNO14Qp9u6a05k8ejRMl5h+rXc7KAgvYjqFLvdCxuVmYnYD6iIs43
+Kc8yUXdM3qOHlWWIswmKBaeehkVom4lkvQSyt8uej4o99/54QjbaLuHKlU0n
+o38UvAwLq8sAt2OtxwJev2FnNnOCyO3b78plc+8hssZgtVZ3FbMdNJBqrDYg
+MUsNtD4DCVxqv1XrHBxvdOlCIFbimrIqED0hFF5tc/p+Fv+oJee6Y3IYwv8h
+6LlZTntZoWli/xifpGTmdog8v4eqkOb3CgYSYQBj1tSPzDUxlVeKwWS2l+2j
+Nkt+EAi23rQrHrTqUGZJ3ScZiFl3c15PGUFGyEgtuEpM3CAoW2Oz5SsLkksb
+hRXaeaEx7cL89jX2HKpHa5saR1EpCE7BUWLTey8YOF1lZyo+CW1vYY8Sn53z
+QqT+JMUOAtG0L3eNGOfMgK3/ZBZHzGeanDJQrihOjlT68XsZiHCljy8AEQEA
+AcLBXwQYAQgAEwUCV57VbgkQcYnyibFsHcACGwwAAN/rD/9oA+KwOLLlirGL
+sX2wj8dppTIkBh2yYa6kCF9p9vkcOXEGccStmcE2Vp0IXTqXBmYunzPNFvEI
+Ce7KMIEj+h16m6AAD2noRk05m8AvCvXqECGD9TnocMZZGe3jlXmZR9LBUg+D
+ZOlaJrqIlNBYe+HJoGPuhK7huFXkXtuPVDdCtaZHAGIflMLbWCq7Ec4e8V9m
+fg19BXiCIP4N4MaOO/3SstlELMCeCKl8dEu8PvDxJFhyL6ARTjP6xa1miDoP
+Pp2Jlwn5jJKJ2pIp1tc0XXFK1Afp8UVFIhmYbQdTOEiBlD0y/vlB6+iHiys6
+SYcJ0VGo2cnxXeosMDp/A6/9B54wUZaeMsNh7WowziW5krePMlbOpfrXznon
+vDAk8bHBz+J/44mVFZp0rkvOh1NSkFHtfZ0EKOnrd8T/oBq9YTWJcY9nPE54
+jvEdoj1JBsdRypj6FeWeiiH1yHVF05s7DnVn4iVc+LTc7FGGqUENk4VtYPyY
+IxLlDhsvaoG2+kI463LtVTlvG4PKVZtiM+DPnA2YQCE2jZy5svTIatS/hpIO
+U5BjO3ygbjCsWIycNQb/8viQhsIF9RxSSRxcWMw5WWqCalUGC6s1QwHHPEE4
+nPTDqk6M1QgN4cne/bsBnePqy4A4R3T4vVrrEucb2xd0HCUcfFxwXZ8F/TNG
++9yoBUy+FQ==
+=Apz5
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/72259"><img src="/kuvat/tuotekuvat/e8c55d0b3c54d5722b6b30f41102c88a33f49584.jpg?1479844155" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72259">2 pounds Grapefruit (Top Shelf Greenhouse)</a> (<span title='3760 EUR'>3760&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72258"><img src="/kuvat/tuotekuvat/f6f800ed39c55a961e91d88ca8cfc01a75e59a90.jpg?1479844084" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72258">112g Sunset Sherbert (Top Shelf Greenhouse)</a> (<span title='590 EUR'>590&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72261"><img src="/kuvat/tuotekuvat/9ae9a242a5a14353659e291567b9e31ab069fa85.jpg?1479844326" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72261">112g Of High Grade OG Kush Buds</a> (<span title='350 EUR'>350&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72232"><img src="/kuvat/tuotekuvat/6faf154ff7de98d349361ff55af0ff28346b9403.jpg?1479842679" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72232">BLUE DREAM 1LBS (448 GRAMS) GREEN HOUSE</a> (<span title='2097 EUR'>2097&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72210"><img src="/kuvat/tuotekuvat/75d76c181b8fd9ccf8729daafbfdeeffa47ba182.jpg?1479839809" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72210"> Albanian Tunnel - 500g</a> (<span title='2200 EUR'>2200&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72201"><img src="/kuvat/tuotekuvat/12bbf6e9dac298feb5616ef04b7fc9fc4658431e.jpg?1479838163" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72201">1/2 LB OG Kush Trim **NEW STOCK!** Quality Scissor Trim</a> (<span title='199 EUR'>199&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72256"><img src="/kuvat/tuotekuvat/cd7605a8dbf84a062e8415565143ef9e7a7ffc6b.jpg?1479843923" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72256">1 pound Alien OG (Top Shelf Greenhouse)</a> (<span title='1780 EUR'>1780&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72233"><img src="/kuvat/tuotekuvat/4d61d9ae4a020ed042aff5a8d101400b0dddef6d.jpg?1479842769" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72233">GIRL SCOUT COOKIES 224 GRAMS(HALF POUND) </a> (<span title='1386 EUR'>1386&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/72192"><img src="/kuvat/tuotekuvat/ec12d608a8a3f47a212cbd9a3306e108c7c3fb4c.jpg?1479837244" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/72192">14g Blue Dream (A+++ Hydroponic)</a> (<span title='157 EUR'>157&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/tdwolt61/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xFlj2DAhpmhTeu9szxHL/qg9eUdIlStu+JOtI8JqDWk+mVpXG6sfB3JvVgpw/OPvQ8El3JchB9ULiXvcQtgzPA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/SBE4">Suomeksi</a></li>
+<li><a href="/register/SBE4">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/SBE4">register an account</a>.</p>
+</div>
+
+<h1>Hund</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 51 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>★ ℕ𝕖𝕨𝕤 ★
+<br />▶ Unlimited offering: Speed, XTC, Steroids
+<br />░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<br />★ 𝕊𝕙𝕚𝕡𝕡𝕚𝕟𝕘 𝕠𝕗 𝕡𝕙𝕪𝕤𝕚𝕔𝕒𝕝 𝕡𝕣𝕠𝕕𝕦𝕔𝕥𝕤 ★
+<br />▶ Shipping only in EU
+<br />▶ Shipping days: 1-2 random days per week (Order before 22:00 and your order will be shipped on the next day)
+<br />▶ Provide me the shipping address in the right format (http://www.addressdoctor.com/en/countries-data/address-formats.html)
+<br />░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<br />★ ℝ𝕖𝕗𝕦𝕟𝕕 / 𝕣𝕖𝕡𝕝𝕒𝕔𝕖 / 𝕣𝕖𝕤𝕙𝕚𝕡 ★
+<br />Your article will be reshipped or you get 50% refund if all of the following is given:
+<br />▶1 Article didn't arrived in between 15 work days after marked order as "SHIPPED".
+<br />▶1.1 I will check the TID myself to control.
+<br />▶2 You ordered a physical product with one of the following options:
+<br />▶2.1 [Germany] Post Einwurf+Einschreiben [only national]
+<br />▶2.2 [EU] Air Post High Priority *tracking&amp;signature needed* [~3-15 work days]
+<br />▶3 You didn't gave me a neutral or bad feedback.
+<br />▶4 You don't try strategies of ripping
+<br />░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<br />★ 𝔽𝕚𝕟𝕒𝕝𝕚𝕫𝕖 ★
+<br />▶ Please finalize escrow-orders as soon as possible when you have received and checked your physical or digital order!
+<br />░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<br />★ 𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜 ★
+<br />▶ A positive feedback would help me much! Thank you!
+<br />▶ If you have any problems get in touch with me before giving a bad feedback! 
+<br />▶ GRAMS http://grams7enufi7jmdl.onion/infodesk/vendor/0x284576781C2C951A
+<br />░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+mQENBFXH1V0BCADBs2fb44zf8lLChruEy6Vfh+4G7tLLxU734tH5ueGKpGw2L8jV
+m4JTwwa3hJcSNhSUP0m9CmFlJSY+LrovRsJSTMDUCUQ0YmZzKmbQmPIMXgBi81ke
+m3Nx9+mFri1ONwEXQpQXhwswbvyHwIWXOnw6TrTccDqgnc0O7ChbMHsz+1TYC7Pa
+HHOHs0SgwsHxfS+kUuAWqg5nTplHSQ633NAV4OyMQG6C//FIJxBSMoV/MP5n82Jo
+lBm/HAeY5frocJguzPmY+FOHbmfZlKuN6JNilRWed3tZh+X/RQmMgjPGkODL31XE
+tpQTW/mD9puSZ6XzdvRi2fY8A6u9L3Vva81hABEBAAG0BEhVTkSJATkEEwECACMF
+AlXH1V0CGwMHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRAoRXZ4HCyVGuID
+B/sFCSyfuR9fJHTI7zuO8iB/Om3LZRmAHdNt34+PfQSlnYIH/Hoy2SxG99Z9vGle
+Wy/LCablAUCtr5NHLk+z9ehrqp6Qq784tYYJqlppnSbryN42izRMmcAVhM2oL9lh
+GSdBoekmiPkuVX+jcQHiaAXFXK0+j9dEeExcdJmatJ2DpzIrEG80vqVLMgteIukQ
+hakj8PEId+m9nuJ5XYPRzgKONmjCBvZx3h6CxOItO0KpbX4n7Sj24R24ECs7owYo
+zoQzZ+ZwOzxg5Kk6hNsjeVyevvrQ2JyQQq5749/xsBifcfTdqSG3QlsG6E9Nl+Sf
+vsc/WqiUPdcxj8E18DL24eb/uQENBFXH1V0BCACiCtHmRT7ttg9QFSJLyGcOUWUr
+zoGc5dqnyu6+yKIvM0nuhSHMCNh7XipLIFys6mICdyPyKQVoLuOmOgKi0UlSuFPn
+rJ3ixkTXMk7p8C6zD0KNHF/MfKPx6XKpnX8igJj8nBwmAPPyJ3Fj8iMWUGiGWqNx
+cdBSd5r894wreWSADXleAJE5wMnGMX1GJ9OU4oYVnuQgDH+lXKoZ16oelP0wawzD
+UOaoB5e0zsET+uW6PWq6RDEGISVwOy9huw2gO7Zd2uFLD9xom+X9QAWcH0YAm3AA
+fFLFPk8Dp7KPLnc88wPHCY4cGab5elGHVI5rU3k7lZAWpCNsgrG4qcbdLQ3VABEB
+AAGJAR8EGAECAAkFAlXH1V0CGwwACgkQKEV2eBwslRqxGgf/byNZY059A//dJBt4
+pnhg7eJadjD8OsEaJIeRCq64Prwj52NQ88LUe5LFPGyzpGohDQFiXld3/ez6jmzN
+s83TALzlL2i5hkDj1JfzQCyl1BUaIK4yRM2r89KFRuu60AOwoLlVMPLipfFSFGGW
+TiMq2jUzUYJQRHgpGufzMYvFWgLRP1SNPuBmlNC8C4jShlncY79lc3z2stgJgAO3
+qIqsabsuBdwFLH4YHTkRJMXq0DTGdlNWzeugjg3ef4sBaMFf43UEdk5+vhlAL1Kp
+tkTCcufGuCAur2EUJnQVwowctd0WJrlWEeTOGhJ5VHZbZVU+nwnRPAHAjrmwDqg7
+OSj7wg==
+=6lhB
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

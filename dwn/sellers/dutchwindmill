@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JoZJ9NWWWXdvVMXc0sSnw3WS5Kq7cLrPBlEPXgPH94v3eQY7kuSPkC78vNnlqm4PrhokzaHYRFQNkgFVPCKaHQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/wLCx">Suomeksi</a></li>
+<li><a href="/register/wLCx">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/wLCx">register an account</a>.</p>
+</div>
+
+<h1>Dutchwindmill</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Our REFUND / RESHIP POLICY is for errors made by us, If the error is found to be the fault of the buyer we will not refund or reship.</p>
+
+<p>Refunds are only provided after 30 days have passed from the date your item was ordered for international untracked standard post. If you ordered tracked shipping and tracking says not delivered then we can refund a lot faster. If you Finalized Early (FE) and your package does not arrive, you will receive whatever refund you are eligible for as per our policy.</p>
+
+<p>Refunds are not given for any order that doesn’t arrive due to improperly addresses packages. We copy / paste addresses so the format is on the BUYER not the Vendor. Please use the link below to check your adress format!</p>
+
+<p>http://www.addressdoctor.com/en/countries-data/address-formats.html</p>
+
+<p>Standard refund and or reships are 25% refund or 50% reship, for tracked packages we offer a 50% refund or 100% reship policy.</p>
+
+<p>New Buyer:
+<br />If you have 2 or less purchases, you qualify for a 25% refund or 50% re-ship, However, if you ordered with Tracked Shipping, you qualify for a 50% refund or a 100% Re-Ship (New address is usually a good idea).
+<br />Maximum refund is Eur. 500,- – NO EXCEPTIONS!</p>
+
+<p>Established Buyer:
+<br />If you have more than 3 purchases, you qualify for a 50% refund for packages sent via Standard Post or Tracked Shipping or a 100% Re-Ship (New address usually a good idea).
+<br />Maximum refund is Eur.1000,- – NO EXCEPTIONS!</p>
+
+<p>For large quantity / bulk orders, refunds will be determined on a case by case basis. Depending on your shipping country and shipping methode. mostly we provide 50% refund or 100% reship.</p>
+
+<p>The following country’s are at your own risk. we can't help you live in a deficult to ship to country.</p>
+
+<p>AUSTRALIA 15% REFUND NO RESHIPS
+<br />NEW ZEALAND 15% REFUND NO RESHIPS
+<br />RUSSIA 15% REFUND NO RESHIPS
+<br />NORWAY 25% REFUND NO RESHIPS
+<br />SWEDEN 25% REFUND NO RESHIPS
+<br />FINLAND 25% REFUND NO RESHIPS
+<br />SWISS 25% REFUND NO RESHIPS
+<br />USA 25% REFUND NO RESHIPS</p>
+
+<p>If you can prove your order has been seized by customs (Love letter) we will offer you a 50% refund or 100% reship. Instead of leaving negative feedback, PM us and we will find a fair solution on a case by case basis! Leaving negative feedback without coantacting us first for a solution will result in not getting a refund or reship!</p>
+
+<p>Seller reputation is everything in a market like this, and we strive for 5/5. That can only be provided by you,Make sure that you provide feedback for every order you make with us! If for whatever reason, you are unsatisfied with your purchase. Please contact us first (BEFORE YOU POST FEEDBACK) so we can find a solution. Buyers who provide a less than ideal rating without first contacting us so we can address the issue, ignore our attempts to contact them and work something out, Change their feedback on either their current or previous purchases, attempt to use their feedback score for leverage, make false claims about being scammed will not be refunded and blacklisted!</p>
+
+<p>Please Please double check your shipping adress before ordering!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFYCdWoBCADK7Jbv1Q81phXcchFTrjMi1mLgrMi1CRgQjZoTXbsTuJNI7oQH
+DP8Iva1VtliCt7vXgHBrt6+mpbFhJHCjsbT8+xkBths3hrlKoErQR1uRvRWHqz11
+4A3MG2eeTOxtt0fHXXhpX++A5YSKEPKDzQdasM1Qnuk1IDa7elNGp5bxL2AKYZfl
+eiCtVVBk//HSLL3ZMHRC5Q+Rng9tjH3P+eTIvOvmPwD2i0San8fNKip0kYrqMsdK
+wnTtfp6DN8u2AvJ8TWgQCTiVd496Ssvr5ayCuC4EQsjwUf3Qk3uEn1nJY7/Fh69n
+g7iWEQrq8c2qKYj2LpYXaeprTAVwXAFPz5lhABEBAAG0KkR1dGNod2luZG1pbGwg
+PGdsYWRzdG9uZWdsYW5kZXJAZ21haWwuY29tPokBOQQTAQgAIwUCVgJ1agIbAwcL
+CQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEOil1e7lONWzYmgH/18Hza80QlIT
+46hjZpqvsJGyD85t7ojWx4nmY1HgXZK1aIW7nHTwElpnvrLTHyD8bkvooIArRsCj
+kxBOwEJ57T3C5v7DipidxHZ6qML0lLln1I3R6inlX0trRVO26VKsfPwjI26SSC7W
+8mJMXffABwdopXn/to3Ups8PxrByVGft9WwY87TyNFpu0eVHjuyPdQj8SyBJT4BO
+RUINBvrI9u+fYb0WUJbT067IrRe5BzjhZYrnfT2tFS5vf7u7Xf12bUtYk1RZdIHp
+eiAI3Ufzjcd07yJYDrAGyjopeF9mlAAI4np6UtDq0omYK5glTW8jJwwfU2hPwW6s
+TIVosOXReyy5AQ0EVgJ1agEIANLEp3DecbVL6WggOPy4AvTU3Yq+jr2Wmn5Q/zcn
+YCPNKUYki0Y1vmJjNDV9VlFthg7ZFSGFP48gvJFgSzF/d0j6CyOrYzTU0UpXKlBL
+9cB8IbWi/AVaVGzmBKjR+1lPSEnCHEFtCFn3Q0XUlLVKkU+hsBbcIKz0Jzt9JrpL
+LAhepil80JF5uLxbaFaxb7kUYu1g7+R+wo+u1+mQ8LQVvHHJwgLosPpraUJG3IB9
+TYPczAkaQR8X95I/e9R2KiRIwpjGePx8BHuscAGcQzmm1CMCOyXJ7omzCPzE0Gwa
+cvr8Aa/CUD8bmUSv17bN2AJegQXF5a9vjty6a7olleF/yaMAEQEAAYkBHwQYAQgA
+CQUCVgJ1agIbDAAKCRDopdXu5TjVs7l8CACx0/scvDXIL0vKs5GG2RKeVZevalLz
+Ojdjgi/AbirsJzmRTv/BPrdHNf6gLtR9EH4+93wHF9ztcTTU83GpLvYjTIdLobYf
+2qrEj7c1tQf8U+9YVC74W70vBCirOrYOYN+QSH1iTtAY9Yn3Gt5oPIbiHneNfOC3
+Aluudv5mbPMv/vULazII3s/wTDhLN7Wz9K2UWG4kVsIM9kwV6pDQEDZPFY2Cz9NE
+GVOqntyj+g6a/3EGRYL/7H92w3CgeFer6rQuFb3/kmbpgtjkfqFMpHa2cQjWQ7Oj
+SqjqZi2Z17C3VhAriV2iBua2ncL6e3wftaCph/awfxFakuUTHZS/4+X6
+=JXgK
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

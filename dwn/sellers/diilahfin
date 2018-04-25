@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AYgYsOJyqTbbz2itegQJ6eqcS5Z5KSIDqJFOV4B04iIKixW8GBxX6Vv1JV+PdZCV48Ptgh7RyEkkK4WaudrMDw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/bcyv">Suomeksi</a></li>
+<li><a href="/register/bcyv">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/bcyv">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>DiilahFin</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>245</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-34</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>Älkää laittako negatiivisia palautteite. tässä hieman säätöä että saan osoitteet avattua jne. hommat pelaa kyllä anteeksi pieni viivystys hommat hoituu kun osotteet vaan yv:nä hetken aikaa mutta postiliikenne saatu auki joten paketit matkalla jos et omaasi ollut vielä saanut!
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PRIVATE KEY BLOCK-----
+Version: GnuPG v2
+
+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
+GA8Nm65E2djqe4WxZAGeJxM=
+=c85s
+-----END PGP PRIVATE KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="TEwZsN3vJxKke9dRCy0/PWWWYsT43wgPbic1b4o6MqvCzBLDFqCrxnyPvbaIbXE/C1ER6uwZH1CdrXGh1cBMcQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/JhRr">Suomeksi</a></li>
+<li><a href="/register/JhRr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/JhRr">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>dope-store</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>99</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 4415 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome here in our Store.</p>
+
+<p>please read our rules before order.</p>
+
+<p>SHIPPING :
+<br />Your order will be send within 2 days and you will be notified.</p>
+
+<p>Our stealth is perfect, we use MBB Bags for smell free Orders</p>
+
+<p>Please put your adres and contact details exactly as you want it on the package. We just copy and paste it! Mistakes are at own risk!Do not forget the country.</p>
+
+<p>We will put your address exact as you left int in our notes on our labels. So please make sure you do not
+<br />forget to mention the country.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+mQENBFazK1QBCAChMYxPt2SSzDBHxqrEGTR9M5jRcGIa9PD5H8Hrjjv9tB
+WQCWcW82AQWJOnQDbeRdOi1FvslW+U6PoHgtj8z9CYZMoja0WVaXNLXQwF
+3so4wXZtOcBQrlx2CBfgZe6f4FzTU9Q2sAARmEaj/5dubaBe5Pal/lTP9F
+0ph/ybc49Sd0oI++FZzcNvaX6ZnQ2SfXes3lyFDWZ7bSg6Le2Qo+J/6Q5M
+/mOGtcdZodd8JJZ/tfDLXPB6ODQJvovHBqVK83/Vq/7vNBUNYxUDb7Vp3B
+M/xnOqBsXTA09fdMtp2VliW7Y2ZEcmHxxTHs0v0yoe0xcy6O5Snsv71f9u
+Z7w/uuWrABEBAAG0HVNvbnlCb3kgPHNvbnlib3lAaG90bWFpbC5jb20+iQ
+E5BBMBCAAjBQJWsytUAhsDBwsJCAcDAgEGFQgCCQoLBBYCAwECHgECF4AA
+CgkQBHCnLcS2pUj7rQf9FKwlXT//krhRj9ftnJ5CNhgEAwVnTKQbK0eCbF
+Vx7swXYgzCoknQQj3qesv8x05GmLXddiNdts9SFQ8yqZir/XCd/wNtFPxc
+snB7GUcaocDdY4vUhlLoU5imHNIJxQ4zdtc1SxsSDp7sBtxxse72h9L/0W
+++pSpVB2Giq02a8xWBhNcX96PsXu66oNKa/54hGHzrKJdfj/CVwC7wYGqf
+YT/bIsry8AxtSH9KU6g3TSsUv4jD2Hx5GVQOL8WrvivmIRLG3b9oSqUOVI
+PAIJiXC5yjfI2Xre32WJEe43K8ewWEUXfa3D5X0nR0dNcoo9DUYknbjvBf
++AC3wbZAxGFfQbkBDQRWsytUAQgAl/dq+hVkqvq1JQ9mRJwQfGMYKGeukZ
+LHYQ/bRxzOhAyALo2ydSK13EXjetqNNrK19X0r+xP0GTv2Gj30pOt1I+Z4
+2qtwi7Wr6mJC9FTtKrG5TEed05m0aAzcp+RF/MT4yyHGs1FPgS/FdXfiLy
+C4iPnrdt6kTZLhz6JYrsrN2pPIP5PxtzS1lZPCURU95A3+/a1/vKzwmDkK
+IJyXrzmmMS9K335Tw9nouQXJcB2QKGB//zHiX8JRtRrSLRPPe8doYi6LGF
+A8D8rVlO28t27uo7k73OLXFt6ue1Xdk9jZ5L8tnuzkC74ae5pcf9SlD6bS
+OGbuBpaZ28CT2r1KGFOpuQARAQABiQEfBBgBCAAJBQJWsytUAhsMAAoJEA
+Rwpy3EtqVIOy8H/R22q69N8EqHPC+jKjnnYUo7LDXt6TQ1x3L99eoyOkjm
+6k+cg5x4PiIh0OKnu+5ai8TdlsWw4QDyj8LPMfLd0ikZtGKzDVCSXkLNSC
+YisZfqIhRX+VNG3b4Xxz8F+ize/hU6WSCeqB+VkIxcnRYem3Nxj7Yugb/1
+potCaq58oTS9Iu/lLeVWuKqYzWsLbz7mVxTZgtSWVmlPIFqbzwm7Lpaeq9
+dnFHBZtybpUKH/IIwpN2/d0CHH2pROb54JutHQYVV8+JRNVf5ckfys347e
+wqSMPfUZHlGsNJRBIf9RtEEiX+a0gCwwbD/MjBcYwH4ZSb+dsSCI7I1Zri
+kpitNUlCY=
+=aYQF
+
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

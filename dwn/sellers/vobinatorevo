@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="EY5qsPqOGewuJ8EzSr0a0xkQAvEHfERFN0NODOCiHiAnNYp268LyawngfvCub2QCcR/whlHv7hcfwHBHNEVsnA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/SgTr">Suomeksi</a></li>
+<li><a href="/register/SgTr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/SgTr">register an account</a>.</p>
+</div>
+
+<h1>vobinatorEVO</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>I am one of the oldest guide vendors on the Dark Web.
+<br />I was on Evo, AlphaBay, HANSA, and DreamMarket.</p>
+
+<p>My refund guides have got people thousands of dollars, and I have received hundreds of positive feedbacks over my time on the DWMs. </p>
+
+<p>Grams (EVO, 70+ positive feedbacks):
+<br />http://grams7enufi7jmdl.onion/infodesk/vendor/0x2FDBB4899DD9A0C9</p>
+
+<p>AlphaBay: 80+ sales, 60+ positive feedbacks</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFR+gJABCACYC/HnPTXxmZBf3tnwjN/eyHVDjhplfRqNHUsVKu7hb0hid4vI
+asddoc9Ekm6sdWfwU6WAZ9TbIx3w1KZkldWlTgBZgC90o1bCOEusKKwy66j8bVrc
+yHb+zdb+iymUo4Xsf3r4gTjyx80St1pC8Qmj68WlAoRaxb/Y7h07I1pRrdea9WQT
+1anMlfaR/zhvmrWDlyiXaTcmYHh5rMkIOXQrBqME8tDWrhb41d2KAJbvEgSR+inU
+73SKcb9wDQ3S3b22o3fAJkSN0uzwBBGGHFfQbGEy5bWt4bxSZY+ObX3KkV4sQfUx
++Q/1PgnoZVAKdXM4chBPwJR+oXl8F8iqbgLRABEBAAG0AIkBHAQQAQIABgUCVH6A
+kAAKCRAv27SJndmgyYQxB/9II1Z11Mg/XJRO4f5PswbL30HT2oUZKKlMNRXm7TZH
+U2QzJ3BPnpvcUAsEqSdtOBP1jVSlslCYJRnx+ct4Ydjr5xQKqvvT4SSjmMpy3Zvv
+2DKM0Hj/1trwbJkO8pH3KH3KwQq2bbyeOF3+1IUKqvBJg1GDJwZTXF7XH64R0Iv0
+azYULknsIS7SgD7YgQUxjAH/OO9Oqv4YS9X//nYbqtZ62rYdcrLpBHfx2IXvlOlR
+f53va8p0wL8IiwTcLCLN8+JZetFLQmrw4T91N4vkLOQQtoeYQ+xK4p+vROSiJf5R
+vcId5ChFlaCCve8T/CMlIwJGxiR/4abpRcQ4X7FAJc4l
+=7k40
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

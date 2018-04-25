@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KuWnhwN9hEHPCbErDN4fKwS9CCAChy1XHj4oIgZP46/Lcs0WsSZMfV1/Z55JXL62CqhvZNd79q91moBau6jCZA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/uzaR">Suomeksi</a></li>
+<li><a href="/register/uzaR">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/uzaR">register an account</a>.</p>
+</div>
+
+<h1>Swiss</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>343</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: about 10 hours ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>Tilatessasi sitoudut olemaan täysi-ikäinen.</p>
+
+<p>Tilaathan omalla nimellä omaan osoitteseen, niin lähetys ei päädy postin selvitykseen.</p>
+
+<p>Mielessä customi tai kysyttävää? Laita viestiä tulemaan.</p>
+
+<p>swissi@mail2tor.com</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus, mainio laatu.
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ku***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Priimaa kukka, nopealla ja turvallisellä lähetyksellä. Kiitos kovasti!
+<em>(22.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Me***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Erittäin tyytyväinen laatuun. Saapui nopeasti ja loistavasti pakattu. 5/5
+<em>(21.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Da***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvin pakattu. Tuote huolella ja rakkaudella kasvatettu &lt;3
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+Mu***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ur***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Once again fast delivery, excellent stealth and good product
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Mi***nt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Jo***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+su***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Pi***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/swiss/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQMuBFNir9sRCADhd2zalegHwFoSsjbYf1X/B5P/ahQpGBvz0KdUGucNiUcTnn3e
+6fxqZM4quqCBN+8AV/HUjx+fnlhSLEULP3v5MqZ1KDHCm2u7a7nsYyShD6qOj/mI
+anXiCulQxE2a4/H9gRKO88iODc7peLgAli5Y8Ze9IUgOSc4flXtFfgoquIA1IsqJ
+Gxbwv1C0eAYhMh4Bk3DgnbgXxwVWproy1I/KT1IbWp2cBjw55DLyyeRhVdg9tdAy
+A9swfPMpAYg/7cfB9Nse0N89k9B30jy9MA5g3pMFBFSPifDuXcmrM8a8JTM0bk6Z
+44DSy1OW/EakCbxIRl0kyhIwwEEwWCaJQIdXAQDeNzg+XhehLpfIrIMKtmBcFdQE
+f6U+34FFXDE60m6Ngwf/TGifdC0Vf0EStuJ9BLHtlnr6xRVXBkxzXVnjI/37Liq8
+bODMAKCSHdtQQlGDknzlijFEn89YrXoInENPaxGfq/vX01PGG97/mSP+GNRqN3Lu
+hFfv162JouBzDYMYkw+AFn9VU0X9Zoxy0V9VTPZwumksUdGXAWtp0RGKUENt26oj
+JemUZUdt0rhr+pC9LvHYc4tqKNDVlWoJmaSI8rYzTs3Ni1mMMMFuiwvnc7NLmlql
+vera9aBD4h7LLikoJIENmEl2HMienNtHY/0WFDII21suifTG+yVO1i5ElMzoLRkw
+V6w9J0H1nygFMCmNYitIimSwDNAe8W3iLlQJTbw8uQgA4CPmHaUTu16u6dyAKTvf
+wk01YV+Ie95qjDs164V+i7tByMERJX6v4spk6AT2DQIr5w8nXwVCgAwWhlGvCvcY
+ks7vQIHsopN8NpOAYMSOjfyCs/C6wDrkTt+zUHamgAeFGylsyngkF/iujjjbHXSZ
+vEQ6Gj3rc3uAjCn47rpS6iyNtwzDIIDRxIujDfAj2nncc4xS6cLqWDTkTe6Iz1K0
+/bYg09UPPmsl9B3ILclGq8n8Y+qaOEbykxO4yh2rKuyFwYi+TC5W810x0lwWeZs0
++j1ZpAghgLkG8flIpKeUDZUHt6cFdrbI/lHYGBoUAis+Kniktxk6YMQ+pAljIrR8
+cbQac3dpc3MgPHN3aXNzQG5vdHN3aXNzLmNvbT6IegQTEQgAIgUCU2Kv2wIbIwYL
+CQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQFa0QBH/RWvfZwwD+IaSqX11Y4OLp
+FkgvmfoUoSo7CiuZMJYC0j91Rh510uYA/0/eHhYnUiOHvBWTwcxWQ4fMBRTsXQ8F
+ZhoV5h69wX7/uQINBFNir9sQCADUW5D9n6rnFGbO3GEcerQ49GwIzaeywSOaXCna
+mAiS1TkK4BXljcw8g7Nk4P19h9cTzYe2Cd7s6ZavbfGlgTQ3EgrGZjg88w/0RnrP
+ZrFjvCfcB+7Q9eHXEzUeRaJV3QdQGthYtLvn/8actsh0DXjK+hvdkbIl/Gn+sbiu
+c3TOPhru9Fa+R6I4mJXU0sLTZg+ioh7bTpHvcCHvO2KOw1zvHyzJZSoYEonCLlhp
+ZQET34TLYJ0rnsI5drdJKa/N3vYsLednK1yjN5dolcVCyGDuYqkz/st3VrASBR9x
+1Y29YvvWAsWPKvpBKZ70EuXBj9QxacE5iOIuL2vtJfut4PGHAAMFB/9Ec4lA7i7T
+sac73nHJ0P2743Q+M4B31U07cykI5aT7Ml/JAG9StTy/hwU3CZENBbGZRE1pHGLD
+2MiEkCbZ+WQbUolitF+eERXzXikvC/AgNaFoyMfm5sJqSr0HV9cBj9kjA8BVRZO1
+L1LQIGDyuJiLbP/VUw14AIiUxMqQnq/fViMJf7kAv5e9pSwfN3UBnzLF3lXe/4A2
+nSeTGKUYOUYAdx8v5bNF1rrW7sRAeWyMi8gXUd1dm/XVigUNXObMOx9FqKfZK5op
+Gql/rF5cUkVOA+S89TYhuHhdkg4idmxdCSDt0ShDG/gOn32PWfIoYY/EN5HVJphc
+5TiHG9wHxHqyiGEEGBEIAAkFAlNir9sCGwwACgkQFa0QBH/RWvdc8wEAlq9lVr5C
+pdGwNxLgEyKQaSEnJCICjrdYgZr36X0aS24A/04P9llLJilHPMqsQCaQC+w1HT7w
+8FZnXCWL2O6l/5Ae
+=yvs5
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/101315"><img src="/kuvat/tuotekuvat/993c331ed9ecf1de145ad256914f93eb8bf2497e.jpg?1510922335" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a> (<span title='80 EUR'>80&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98350"><img src="/kuvat/tuotekuvat/d00411b4669d07aa7f7596a33ff80227ea5ef8b2.jpg?1523188175" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a> (<span title='60 EUR'>60&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98383"><img src="/kuvat/tuotekuvat/87bb2b21f85e3d0daa705169329ed96dc1952ab8.jpg?1524561685" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/98383">10g Swissin höttö &amp; muju, halvalla pilveen</a> (<span title='105 EUR'>105&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99355"><img src="/kuvat/tuotekuvat/086758120633856d14fe8742400088c5e0bb00ff.jpg?1518461654" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/99355">Swissin 3g tarjous 16€/g + 5€ mylarpostit</a> (<span title='53 EUR'>53&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/swiss/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

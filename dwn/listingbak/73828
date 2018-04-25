@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="d4ahi3TpGE/XuT8ud3c/+THJFkF6QGQxTvMa3CyXeum6Iu8bwA64R5R8OtMbC/vtwNOwc0nh0gUJO0hNcSFf/w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/246dc3d94011d4f05df43504aed756c4e0989913.jpg?1480729096"><img src="/kuvat/tuotekuvat/30f9a5d25d2087d1b0171be84f610678b3e4c35a.jpg?1480729096" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>★★★★★Percocet - 5mg/ 325 - (1 Tablet ) #54 543★★★★★</h1>
+<ul class='list-unstyled specs'>
+<li>21.1 EUR <em>(0.002721 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/uncut_and_cheap">Uncut_And_Cheap</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>United States &rarr; United States</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="E3yBwGUwhMKw9UbhJev9N6yJTc5BBHcpxvj/VTX4I0be2M9Q0dckyvMwQxxJlzkjXZPr/HKlwR2BMK3EaE4GUA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="358998">Priority 2-5 days (included)</option>
+<option value="358999"> (-6.49 EUR)</option>
+<option value="359000"> (-6.49 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="73828" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>You're Buying ((1 Tablet)) ""Percocet" 5mg/325. Otherwise known as"Oxycodone". Tablet is White &amp; Round with an imprint on one side 54 543" &amp; a breaking line on the opposite side. These are from a real prescription from a pharmacy.</p>
+
+<p>If you send wrong shipping information and your package shows non deliverable I will not reship it because it won't come back here. I will not refund a non deliverable address, I copy your address in one swipe and paste it just the way you send it and I always double check that they are exactly as you have sent it to me !!</p>
+
+<p>I ship 2-3 Day Priority Mail with tracking.</p>
+
+<p>I do not send the tracking numbers out as a safety precaution. If your package is late, please write to me.</p>
+
+<p>If I can't locate your merchandise, I will reship your order. If your package shows delivery confirmation at your address I will not replace the items if someone else took them from your box. My job is getting your merchandise there quickly and accurately. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+Shipping fee 6.49 EUR (Priority 2-5 days) is included in price shown above. Other shipping options can be selected at additional cost. You only pay for shipping once when you order multiple pieces of a single product or other products from same vendor within one hour.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/78381"><img src="/kuvat/tuotekuvat/97b094b537593e486e63d8413409f17389ee553b.jpg?1483529087" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/78381">Gelenika Bensedin (diazepam) 10mg x 15 **VERY STRONG**</a> (<span title='17 GBP'>19.37&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2890</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103353"><img src="/kuvat/tuotekuvat/7935b8bde1d50c068c76f4978a7677ca0c807c98.jpg?1519069528" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103353">Rivotril 2mg, 10kpl  (Fe-&gt;+1kpl)</a> (<span title='21.3 EUR'>21.3&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/faceless">faceless</a></span>&nbsp;(<span class='green' title='Positive feedback'>672</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-10</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/92177"><img src="/kuvat/tuotekuvat/7e6bdcf89028d9a00463159231748297b9ff57b5.jpg?1491974924" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/92177">Generic viagra ® 50 tablets 100mg Sildenafil</a> (<span title='31 USD'>25.15&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rocketchem">ROCKETCHEM</a></span>&nbsp;(<span class='green' title='Positive feedback'>237</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38064"><img src="/kuvat/tuotekuvat/5678b1ce10ab2834842cb6188b62b8385a28231b.jpg?1469083753" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38064">Xanax 2mg by Pfizer Upjohn - 10 bars</a> (<span title='17 GBP'>19.37&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/45784"><img src="/kuvat/tuotekuvat/1a044eb5c6d8aab5ece41dde97446fc31806a091.jpg?1465245492" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/45784">MODAFRESH (generic PROVIGIL) - modafinil 200mg-10 Pills EU Stock</a> (<span title='26 EUR'>26&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/europills">europills</a></span>&nbsp;(<span class='green' title='Positive feedback'>646</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1501">Pain</a>
+</li>
+<li class='active'>★★★★★Percocet - 5mg/ 325 - (1 Tablet ) #54 543★★★★★</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

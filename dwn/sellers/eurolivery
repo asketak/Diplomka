@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="01+G/iGbz71bXZ7uyUhu3YJjLukYIUkgOI8XYss5/fZM1bjhyGw0LfCaHjjUuFFrfs+dt9ArrbzDlme+HznHKQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/YkAd">Suomeksi</a></li>
+<li><a href="/register/YkAd">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/YkAd">register an account</a>.</p>
+</div>
+
+<h1>EuroLivery</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 63 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello to EuroLivery.</p>
+
+<p>We are active on Valhalla,AlphaBay,Oasis and DreamMarket</p>
+
+<p>We set FE and Escrow listings. The FE listings are cheaper than the Escrows.</p>
+
+<p>WE NOW REQUIRE FE ON ALL ORDERS CAUSE WE ARE TIRED TO WAIT FOR STUFF THAT ALREDAY ARRIVED</p>
+
+<p>ORDERS WITH NO ENCRYPTET ADDRESS WONT BE TRACKED!!!! 
+<br />Those orders also must FE and there is no refund!</p>
+
+<p>Please encrypt your Address with pgp! It is for your and for my security and it doesnt need a lot of time!
+<br />=======[-Order has not arrived, what should I do?-]=======</p>
+
+<p>[-]First check if the maxmimum delivery time has passed, if this is the case you can contact me about it.
+<br />[-]Secondly when inquiring me about this you should tell me the following:</p>
+
+<p>1. The exact date of the order
+<br />2. What you ordered exactly
+<br />3. Destination Country
+<br />4. In case you had tracking you should mention this as well</p>
+
+<p>With tracking you always right, cause I can have a look if your order really didnt arrive and reship.</p>
+
+<p>04.03.2016 - We are now also active on DreamMarket! Name is the same 
+<br />http://lchudifyeqm4ldjj.onion/contactMember?member=EuroLivery#shop 
+<br />And on AlphaBay market with same name
+<br />http://nracund2vx6lxzck.onion/user.php?id=EuroLivery</p>
+
+<p>Every buyer with less than 5 orders on this market has to FE before we ship the item. Please understand this but we have to protect us for scammers.
+<br />We deliver all inside the EU. All shippings are sent from Germany.
+<br />Have a look at our listings, we dont have specifics, our listings are changing except Methadone. That should be always in stock.
+<br />If there are any questions feel free to message us. 
+<br /> 
+<br />What you see is always what you get.
+<br />We dont refund in case of an incorrect shipping address so please write your address in this format:</p>
+
+<p>Surname Name
+<br />Street and Number
+<br />zip code and location
+<br />Country</p>
+
+<p>We offer a thirty percent refund for users who had 5 or more sucessful transactions with us. 
+<br />We refund thirty days after item was shipped.
+<br />Payment only through AlphaBay Payment System.
+<br />Only currency is BTC.
+<br />And dont ask if you have 0.0000001 BTC less than the order required. No I wont send you 0.0000001BTC.
+<br />You can full stay in escrow but please finalize upon you received your item cause of the fucking instability of BTC!
+<br />Shipping is Worldwide but ESCROW ONLY INSIDE EU! 
+<br />We accept orders outside the EU but at YOUR risk so you have to FE before we will ship the item and there is no chance to refund!</p>
+
+<p>Best regards
+<br />EuroLivery</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFk+qIABCACsGmdZDCa6BwJ5zARGrppGFOsy9WtPwLUbUwFv96H2jm48s4Lx
+P2gQ/9Gq1WkMN6GEy1p6p6QKhz+cTWR9JemWRR3/pH9dmtSM/urjx0rq4pCt83tB
+H4kw8jpK2yC/To8Q6izcAtIyDwVrVNBKtjX72xs8SoVyWcAbGvC8B3jqVw76OmFe
+qWbsd1ypOwvpwXi9cj+jOzQkRvAez2XrKPXceOxso4MR7Qkg6pVN+c804sLZ+yNN
+ui8cjSiK3LCSXpabPmfn/Pg1VFsj1p9EnXA3QJdz18EiNOXmudn910F/uuHSgvjZ
+m0tV2yJwE0yS5XaslzfWvFsmhlxp4rX9XxnBABEBAAG0GEV1cm9MaXZlcnkgPEV1
+cm9ATGl2ZXJ5PokBOQQTAQgAIwUCWT6ogAIbAwcLCQgHAwIBBhUIAgkKCwQWAgMB
+Ah4BAheAAAoJEEeVVTKe5hLsgjQH/3FR4PXiMC3gjOyKdL+vQwOw/BquGcSyVAPf
+WXlSvYYIXTJgv5B0Qn+7CPLXYVyYmPA0uaGhHCz6aWJvf45J7ExWslFNHTrQM8mf
+PLXzI+aJUgSHabLxCoupcnS/9UXDNCMDwE8LMnYuaF3z7YUrguH0PQUyWbmC9NhD
+cYj6CxrrMyOe1x4L7SuDUizBUqCrPAgw0EV1lN3ILDwfBGB9zcdhnEOrPaqkzeSX
+aRztI8IgJ3SV/V/R6hgILZ8NuKU/OR8aLTHD4kbXZK9kgfyyT6Woz9FID/c1OIim
+4JHhdGwBkU1pMfyi+40TLlwvqW3D7uOzWU68nWXmZrJ7F41kJya5AQ0EWT6ogAEI
+ANcdK+hepl0BJtwPnJbZfa6RlGq9lI0ZAIPjT4fWFmk+4ArfHKFfMBZCykoIB9Jp
+tAtEXDGxQ4PpcI/9buTIQb1fguvKwLRC/C3R4ZR1qf1CzWhpV9uE+zoev5Q7pEXv
+BuPRoELMXNEkx9NUKB0Y+PN/Y/oQ9eF7EuVB3SGFfw3dDTYxWpxNtYDJGFc+ivui
+jMVzqoX3hM+NpzUfB7wqmnu2LkvnhOlLhgA7orJXNBGgbPDYB3T9SzPJaArekDw4
+2/MoOs954TvNWSyI9BoHl2edVL6Chp2zSd9vmkkEz3zaRnuXXxEaZzFeiZ7WJMEO
+zHxWF6UNi9gxY9sTizqXUosAEQEAAYkBHwQYAQgACQUCWT6ogAIbDAAKCRBHlVUy
+nuYS7Ed/CACZz1emiTnRsoUpPv0di4xEy8NMmw9WwmwpnySBcR5m066UHSJCcWZC
+BnAppBcf5JBcH9opOM9ZZAaHzxOPPdqGLprVVRikGypZg9JS/DA3KvTgsEGZGLiE
+AtZOts8AuSdjA+TzOPNYzaeOnbxEHf1SA2Nvm6F3wNJibEKUoO/VR1a5pSnYzASn
+aG27kEC9WwLf+0LhNqRbGt3gaZw+9Tf0nZJBJ0MHz8Tx4Z7W75SWIjJFOTkeiUN3
+Ag3AatRI5PnDwnkpbpOGs2wOooJR6PDkRw5APRSAb/F46h0wM02lPt2e+PrORlLl
+RBF+V/eBrW8oWRNPPHwZ6xHro+JLx3IX
+=K1p6
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

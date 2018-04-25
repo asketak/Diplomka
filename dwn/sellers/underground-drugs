@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xXDHlH2vABiT0CwXmUheMb1c/rAvWK73CXWNk3dYbQRmhDY7k35nJsdJ35wstlrtp/rO+85Y3m2Pso6guEW34A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/CqcP">Suomeksi</a></li>
+<li><a href="/register/CqcP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/CqcP">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>underground-drugs</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>262</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-6</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>hello 
+<br />welcome to our shop
+<br />We ship from Germany to everywhere worldwide
+<br />-  We only ship high quality drugs
+<br />– We use business like envelopes with printed labels
+<br />– We pack everything 2-3 times vacuum in safe packaging
+<br />– We ship within 24 hours 
+<br />– We do not store your information for longer than necessary</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFklel8BCADerCQ21zpfMJ1np8Ah42y2iiR6ajgmXC5VkKg8sCHaBejGhVS1
+75+6ZbfedaDbQQ4BYoimfFWrjJDu7Ts34q3qVmxVmthe+gn02rRM52fFvcKCjBo5
+xVBvEZpwqzS7M/4qkn+8kCEeXE1qwWcjivyjRJnfk9ZqiUn9esSiiztTCHHskdLt
+IjxHhP+rHeJS3hmK88s8STFWwmfnk+Me4jklwZ2XQ/RoCApKzNCpUA3qnekoePXj
+43ls3cKDNVTIn+T7zR8L5QlFRv+lAGKMfHUcjpgLFr6peGdnCRyM9jUbY42aSYpN
+2UF9w3lt1iVAx9mVOdla434RKNHwuXmV00fXABEBAAG0G3VuZGVyZ3JvdW5kLWRy
+dWdzQGdtYWlsLmNvbYkBHAQQAQIABgUCWSV6XwAKCRA+zpKoDkXQrPUzCADLk+0O
+oXKdvcmasj8ILmwpxnzcAW62PovM2963koBFPOWMKn8glmzm5ypf4zg/AItve3J0
+RUg7VFjC6jiGPUsoCws6Km+J2XGfgKHEiCm9zuTlGzi0MmuaLhXzGzaUGwp3Y+28
+qbnmDHeuFng1CmWlGB+X8h4Q4j3gixifD5RodIOJoXaDd0A9Li87MaBpgXVXExr4
+yQBtqbOzuGPVvG+CR44bOfVyrO2dv11ARxYnx5FmSE6osPkovTYsz8VBvTjbqQjX
+Xdptn4loJ322GvfY2glwKQ/MFfWZ5cDnjXAL1U+ZaHMRTzABf51d7a74Q4KF+1Wj
+E40s/ZrjRiLuO2ss
+=LbHR
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

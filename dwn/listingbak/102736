@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="M/WfyIoiEWnyBhu0vMwtgrbVIsGzdHwJsux8bknUiPj+UdFYPsWxYbHDHknQsOmWR8+E84DVyj31JC7/FGKt7g==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/8733862841f1af1544bce1fb17e9cc6cf7fd3d62.jpg?1515680261"><img src="/kuvat/tuotekuvat/a0f10a24736c5cb39892ae5e86960bb2262c02d0.jpg?1515680261" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Xythozen (Anapolon) | 100 tabs (50 mg/tab) - Thaiger</h1>
+<ul class='list-unstyled specs'>
+<li>74.81 EUR <em>(0.009603 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/pharmroids">pharmroids</a></span>&nbsp;(<span class='green' title='Positive feedback'>66</span>)
+</li>
+<li>Bulgaria &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2E0U79xl9ysY4g28WkTyO0Hf9CyVPca99cY/nwg8h00V6Vp/aIJXI1snCEE2ODYvsMVSHqaccImyDm0OVYqiWw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="683631">Worldwide with tracking number (included)</option>
+<option value="683632">Additional product (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="102736" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Active substance: Oxymetholone
+<br />Names: Anapolon, Anadrol.</p>
+
+<p> Anapolon is a very powerful oral anabolic steroid. As a result, muscles increase up to 7 kilograms in 2 weeks. During this time, water is accumulated in the body, what leads to increased muscles. Anadrol brings quantitative muscle tissue development, not a qualitative one. Anadrol includes a strong steroid motion, which ends up in more quick recovery, as well as reduces the overburden.</p>
+
+<p> Scientifically is known that  Anadrol can be used to deal with anemia. Anadrol increases red blood cells, which causes muscle tissue to absorb  more oxygen which makes them immune. A drawback can be a discomfort working muscle tissue, that doesn’t allow us to finish the actual exercising started out.</p>
+
+<p> Anapolon  is advised to be taken in a dose of 2 mg per each kg. This is a dose of  50-200 mg daily. The cycle starts with the daily administration of 50 mg, then  the dose is gradually increased. Those who have a body weight that overcomes 100 kg can easily boost the dose to 150 milligrams per day. Anapolon usage shouldn't exceed 5-6 weeks.</p>
+
+<p> Anadrol can be quite poisonous for the liver if it is administered incorrectly. The first signs are the yellowing eyes, nails, and skin. Also could be acne breakouts signs, hair loss, nausea, headaches, as well as gynecomastia. This product is not recommended for beginners.</p>
+
+<p> When the cycle is ended, Anapolon's effects are usually robust. At first, retained water will be eliminated from the body, and this is typical. Now it is important to restore the male growth hormone, which Anadrol will hinder quickly.  At the end of the cycle, is essential to use Nolvadex and Clomiphene. Many  are using Stanozolol just before finishing the cycle, which is a less difficult steroid. This is done so that you can strengthen your muscles, and then leave the particular routine having great results. However, it is suggested to make use of post-cycle drugs to restore androgen hormone or the male growth hormone ranges.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/13298"><img src="/kuvat/tuotekuvat/20274aa45137cc67f39bf09ec079845fcabd78ff.jpg?1455970285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13298"> ANAVAR 50MG X 60 TABLETS IS PHARMACEUTICALS </a> (<span title='50 GBP'>56.81&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102812"><img src="/kuvat/tuotekuvat/f5732d58ee1f70b8ab0396973d706b4630513557.jpg?1516042646" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102812">Super Testosterone - 450 mg/ml/ 10 ml - Body Pharm</a> (<span title='88 EUR'>88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/67489"><img src="/kuvat/tuotekuvat/77a07819784b757decc24c9ea3ab63acb5a2ebb2.jpg?1477257788" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/67489">Cerberus Pharma Rip 300</a> (<span title='47 GBP'>53.4&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/cerberus">cerberus</a></span>&nbsp;(<span class='green' title='Positive feedback'>2888</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-23</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/20206"><img src="/kuvat/tuotekuvat/54bba251a922bc43241adba96c1b4cf9682c80b9.jpg?1455971953" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/20206">Medigen Dianabol 20mg X 200 Tabs. </a> (<span title='52 GBP'>59.08&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthpharmacy">StealthPharmacy</a></span>&nbsp;(<span class='green' title='Positive feedback'>1331</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84211"><img src="/kuvat/tuotekuvat/8f349cc1c7d71a8b87c6725cf03f813b13698dfc.jpg?1486326879" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84211">ESCROW-5 vials-Vitamine B12-1.000 gammas-cianocobalamina-</a> (<span title='58 EUR'>58&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/orangeone">Orangeone</a></span>&nbsp;(<span class='green' title='Positive feedback'>33</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>Xythozen (Anapolon) | 100 tabs (50 mg/tab) - Thaiger</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

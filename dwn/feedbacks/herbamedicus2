@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MHpBM2GCyo4+l03eQ8QhejPOLXGxsP3Ht8s25mLcnwgMyo0C5OtZpdd2ljN0elvGPx3V2WGCRxW0rBi81etTig==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/herbamedicus2">herbamedicus2</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perfect! 
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/54173">Lilly Humalog 100iu/ml  3ml</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+al***to
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+ei tullut perille tuotetta eikö oo vastattu mihinkään viesteihin ja tuotteen tila vieläkin luettu vaan ja menny 12pv... 
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/103151">Bioniche Enanta-Med 300mg</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+mc***le
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+ei tullut perille tuotetta eikö oo vastattu mihinkään viesteihin ja tuotteen tila vieläkin luettu vaan ja menny 12pv... 
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/103151">Bioniche Enanta-Med 300mg</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+mc***le
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Huijari! Antaa perättömiä positiivisia palautteita! selatkaa alas niin näette! Varokaa Huijaria!
+<em>(17.4.)</em>
+</td>
+<td>
+<a href="/products/103155">Kamagra 100mg x4kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+Be***is
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+kusetus
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/101787">Zhengzhou Ena 250mg 10ml</a>
+(140&nbsp;EUR)
+</td>
+<td><span>
+Se***ka
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Taisi rahat mennä hakkeroidulle tilille................
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/101579">Spectrum Pharma Testo ena 250mg/ml </a>
+(215&nbsp;EUR)
+</td>
+<td><span>
+te***ka
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(15.4.)</em>
+</td>
+<td>
+<a href="/products/102074">Spectrum Pharma Tren A 100mg/ml  10ml</a>
+(90&nbsp;EUR)
+</td>
+<td><span>
+Bo***no
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+HOX HOX!! ÄLKÄÄ TILATKO KÄYTTÄJÄ HAKKEROITU, itsekin menetin 50e
+<em>(15.4.)</em>
+</td>
+<td>
+<a href="/products/103151">Bioniche Enanta-Med 300mg</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+ma***ni
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Sama homma, muutan pos jos alkaa tuote löytymään perille
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/103148">Bioniche Susta-Med 300 mg</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+No***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Myyjän tili kaapattu! Älkää missään tapauksessa ostako täältä mitään! Tuo tuoteluettolo on melkein liian hyvä ollaksee tosi.
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/100839">Cabaser (Dostinex) 1mg 20kpl</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+pe***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei ole tullut perille!!! eikä mitään ole toimitettu!
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/102074">Spectrum Pharma Tren A 100mg/ml  10ml</a>
+(255&nbsp;EUR)
+</td>
+<td><span>
+pe***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei ole tullut perille!! Kusetusta!
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/100840">Accord anastrozole 1mg 28kpl</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+pe***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei ole tullut perille!! Tutun myyjän tili kaapattu.
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/63224">Anfarm Hellas clomiphene 50mg 24kpl </a>
+(92&nbsp;EUR)
+</td>
+<td><span>
+pe***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/101579">Spectrum Pharma Testo ena 250mg/ml </a>
+(75&nbsp;EUR)
+</td>
+<td><span>
+ri***ch
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Kusettaja
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/101574">Zhengzhou Dbol 20mg/50tab</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+de***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Ei näy pakettia..
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/93719">Syntholan Technologies Enalan 250mg  2x5ml</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+su***ox
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+wow
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/33015">Trenalan A 100mg </a>
+(65&nbsp;EUR)
+</td>
+<td><span>
+Bo***no
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Tutulta myyjältä tilasin entiseen tapaan katsomatta palautteita. Tyhmästä päästä kärsii nyt lompakko. Tili siis kaapattu ja tehtailee positiivisia palautteita itse itselleen. Älkää tilatko.
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/69293">Pregnyl 5000iu hcg *Apteekki*</a>
+(98&nbsp;EUR)
+</td>
+<td><span>
+Js***dj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/34121">NovoRapid FlexPen 3ml/300iu</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+Mi***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5+/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/33011">Trenalan E 200mg </a>
+(197&nbsp;EUR)
+</td>
+<td><span>
+r3***se
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5+/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/103155">Kamagra 100mg x4kpl</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+r3***se
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5+/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/84748">Norflex 100mg 10kpl</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+r3***se
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5+/5
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/103363">Lyrica 75mg 14kpl laatta</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+r3***se
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/104199">Zhengzhou CJC-1295 with DAC 2mg</a>
+(52&nbsp;EUR)
+</td>
+<td><span>
+bo***ge
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+parissa päivässä perillä ja hyvin pakattu. Tilaan jatkossakin! 
+<em>(3.4.)</em>
+</td>
+<td>
+<a href="/products/34121">NovoRapid FlexPen 3ml/300iu</a>
+(83&nbsp;EUR)
+</td>
+<td><span>
+cl***t2
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+++++++++++++++++++++++++++++
+<em>(30.3.)</em>
+</td>
+<td>
+<a href="/products/103363">Lyrica 75mg 14kpl laatta</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+Mi***si
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(27.3.)</em>
+</td>
+<td>
+<a href="/products/104067">Amfetamiini [Ilmainen näyte]</a>
+(12&nbsp;EUR)
+</td>
+<td><span>
+El***77
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tuote tuli perille, suosittelen! 5/5 
+<em>(26.3.)</em>
+</td>
+<td>
+<a href="/products/103155">Kamagra 100mg x4kpl</a>
+(22&nbsp;EUR)
+</td>
+<td><span>
+os***87
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hienoa, hyvältä näyttää ja nopea toimitus.
+<em>(26.3.)</em>
+</td>
+<td>
+<a href="/products/102080">Spectrum Pharma Mast ena 200mg/ml</a>
+(200&nbsp;EUR)
+</td>
+<td><span>
+ae***56
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistavaa
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/104067">Amfetamiini [Ilmainen näyte]</a>
+(10&nbsp;EUR)
+</td>
+<td><span>
+pn***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos! 5+
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/102080">Spectrum Pharma Mast ena 200mg/ml</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+Ha***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos! 5+
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/102073">Spectrum Pharma Tren E 200mg/ml</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+Ha***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos! 5+
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/100840">Accord anastrozole 1mg 28kpl</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Ha***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/104067">Amfetamiini [Ilmainen näyte]</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+va***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.3.)</em>
+</td>
+<td>
+<a href="/products/104065">XTC Chupa-Chups [Ilmainen näyte]</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+va***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    
+    
+        <span class="page current">
+  1
+</span>
+
+        <span class="page">
+  <a rel="next" href="/herbamedicus2/palautteet/2">2</a>
+</span>
+
+        <span class="page">
+  <a href="/herbamedicus2/palautteet/3">3</a>
+</span>
+
+        <span class="page">
+  <a href="/herbamedicus2/palautteet/4">4</a>
+</span>
+
+      <span class="next">
+  <a rel="next" href="/herbamedicus2/palautteet/2">Next &rsaquo;</a>
+</span>
+
+      <span class="last">
+  <a href="/herbamedicus2/palautteet/4">Last &raquo;</a>
+</span>
+
+  </nav>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

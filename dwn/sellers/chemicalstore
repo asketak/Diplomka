@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XvuPlgw/GxYbBHo62ShnO1B323POVPiRil++ZBl/5fVJlRfwL/Ujap/lj5SYiGZaPB4Gr2zib9XaVioIN4v8Qw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/TPZG">Suomeksi</a></li>
+<li><a href="/register/TPZG">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/TPZG">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>chemicalstore </h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>273</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-5</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to our Store!</p>
+
+<p>Here in ou store you will find some very nice drugs 
+<br />for affordable prices. We specialize in purity and 
+<br />always seek the highest quality products.
+<br />Our Stealth is very high.
+<br />We send out from monday to friday.</p>
+
+<p>hope to CU
+</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+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
+o992ja9A9H645SUAjW9nFNn8LHrR
+=rF3R
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

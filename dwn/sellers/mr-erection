@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Khc35TixDbd6WkX+neCqQPR0U9cfD8xQ3EYeR+zXmjoiSlVHxrRKM9A5PxdQL50lK3U5g88szqlE0FejQeprtQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Wz3r">Suomeksi</a></li>
+<li><a href="/register/Wz3r">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Wz3r">register an account</a>.</p>
+</div>
+
+<h1>Mr.Erection</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>About:
+<br />I'm Mr.Erection. Bringing you only the best quality generic medicines from legit pharmacies.
+<br />Great quality and great prices.
+<br />But most importantly you no longer need to wait months for your ED pills to arrive from Asia we ship from the UK and EU!
+<br />Place your orders today, you won't regret.</p>
+
+<p>Address Format:
+<br />Name, Surname
+<br />Street
+<br />City, Postal code
+<br />Country</p>
+
+<p>We will copy-paste the address so please make sure you have it in the correct format.</p>
+
+<p>Shipping:
+<br />All orders are shipped next business day.</p>
+
+<p>Shipping price is charged double when shipping to the following countries via tracked post:
+<br />Denmark, Norway, Finland, Sweden, Greece, Portugal, Spain</p>
+
+<p>Average shipping times.
+<br />UK : 3 business days.
+<br />EU : 7 business days.</p>
+
+<p>Refunds:
+<br />Refunds are done on a case by case basis, but this is the general rule. No refunds on untracked orders. 50% refund or 100% reship for lost/siezed tracked orders. By purchasing you confirm you have read and agree with these terms.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFcNflsBCAC+3VIA9iey9+Rhb4d6XZtf1vjbJgxHjtflNP429SueVlEs+sDg
+9duSHBXkGX9k2FEbQg53qOSvDoCCo00ZvYsdvh1OAO+OsKDO+eYG4ShzYB0kNb5q
+QRSbuzdFk6bZhVIWSwnRH0y7MiaSIVOLn6xTMZmJUTmonUfcRqVV1K5sXGb6Mr2/
+VdQMa6Pqzq8VTBHqpBsyGJ/WZB4jC5chRy+VEjukAqe2v4pUBOFqnQea0TRiYBy7
+3mVwp6VJy4XcfiQWqhFbTXzVULyxMpuXvRtjOzkaQMmK/poFbyUbAFXKoqzaNyXQ
+P/wSWz1hnt9H8qMs3yVweEAwAE2w53ABBUbnABEBAAG0Jk1yLkVyZWN0aW9uIDxN
+ci5FcmVjdGlvbkBmYWtlbWFpbC5jb20+iQE5BBMBCAAjBQJXDX5bAhsDBwsJCAcD
+AgEGFQgCCQoLBBYCAwECHgECF4AACgkQEvWZq7EeKpdQJQf+Pw+0j6eiY4GZAcQT
+/xNADEORfAH3UJ3SPMfrpjo4tY/nmDayKR2ZMyoVgpvsIc38ptfoMs51jXBRP3FR
+S+9QR+hIJWeQJbgCgZxyAsTR34f2Zr1t823LUJ/b+Ilq30diSBBsJOGK+njmwrdL
+G0dpWE7H5g6+IcqIVAXIcVVEy+gQ90/tv448seeMutRVMEDKoCKW869gPM9g7idR
+iBEbeq6NjrM5SX4lxTnWW2uHZOsq7z6HViRR0P2mbx5K20YZZlyCqVpdmk5sVo9x
+HAWs4k+xnedTXgO4s2QDWAfJU4njLcAcZHD1b1tUTTMV8hpen7j/YcJxaqFEIaVS
+wrXwO7kBDQRXDX5bAQgAuMyEyWR1PdwPDEOU9vQoYF7W80BIdUsZxamtT6Ucp5gW
+BTd3nqL3JySi2Otn06yrl1DhTYrKu3KxwvUVoXt8n59OE6DH284yO4Y7gwA8DKq3
+YeXI+tvBUd9JmqpTKbCRH0HMvUOgH/ijkNIUbH+qKcLKx6/ZALo7PwUS37+LvhYV
+sD6gBhJ3Vrz7iI95hJDh6bwmydGuWn/QzOeYpFJmLfjrE8QxqQpNRrJgx5WgglxM
+M7+dYVjhqsOxT2LGPjx4WWSO5R9iOiDgwkU4jlHG2Wmb/o3Bu4imGQb12/HSsEZG
+iR+lmWharQa/mrfUMmdZDcJKk4iGoSi9m+7mUkt8dQARAQABiQEeBBgBCAAJBQJX
+DX5bAhsMAAoJEBL1mauxHiqXL/AH+OQ98eQgXQzg1NvVSXrpxz8E0m+wkaXtPBGY
+W9p/JJTzhB/mi0eZ/2sS7PWQ5pS9FKxidjq7n0EGQ+3eSQnzT9/57zNzNQwYsdQJ
+EfFWgcfP9mZzf0km5fLLr5uYkTh158nwBdNBoYgMYYDhVNI14/pbXBtmByXkhd9j
+i27/8fpfDfOeatO4PGvDoVBIwRVnmBf7MK1Atq6Gluahc5lYMlhXO2o3uuOIX2j4
+6T0peOrm2hKKX3cuwGcKfdOU+4d8Mk1SXZrKznM0QEgV8+qOOHkLa2E5CbJ98fjK
+aTF/HOfXKX9MQHx/qYph98+/nlxOhc6lICvk9k4fSRr3WBmCaA==
+=DApu
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

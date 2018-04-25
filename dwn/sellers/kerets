@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tgc7WTAdy63Gg9rCnhCgEmyd2hTnBIjqrvQkGV7xjYWPUSQSeKDdSLkizm0w346/3aOn8hs59LRDcc44tLvVlA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/4Bzc">Suomeksi</a></li>
+<li><a href="/register/4Bzc">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/4Bzc">register an account</a>.</p>
+</div>
+
+<h1>Kerets</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>100</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-6</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: 3 days ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: France</li>
+</ul>
+<div class='description'>
+<p>How to buy ?
+<br />-------------------------
+<br />Fill in this informations correctly :</p>
+
+<p>Name : 
+<br />Adress : 
+<br />City : 
+<br />Zip Code : 
+<br />States (if needed) : 
+<br />Country : 
+<br />Note : </p>
+
+<p>If this informations is incorrect, the order will be lost. If you give me a wrong name / address / etc., I will NOT refund you.</p>
+
+<p>About My Shop
+<br />-------------------------
+<br />♐ Orders are sent on Sunday, Tuesday and Thursday
+<br />♐ All orders can be shipped worldwide, unless otherwise indicated
+<br />♐ All orders are shipped from France, unless otherwise indicated
+<br />♐ Good stealth
+<br />♐ Tracking is possible only for some products, it's indicated on the listing
+<br />♐ If you choose a tracked order, you will not need to sign the letter
+<br />♐ No order needs to be signed
+<br />♐ Standard mail only ( No DHL, Fedex, etc. )
+<br />♐ Full Escrow / FE accepted
+<br />♐ We reject ALL ORDERS if the buyer have a bad feedback or bad rating
+<br />♐ We don't send to : Finland</p>
+
+<p>Shipping Average
+<br />-------------------------
+<br />France : 2 - 5 days
+<br />US East : 8 - 16 days
+<br />US West : 10 - 18 days
+<br />Europe East : 6 - 9 days
+<br />Europe West : 4 - 7 days
+<br />World Wide : 7 - 15 days</p>
+
+<p>Refund Policy
+<br />-------------------------
+<br />♐ Only if you have ordered more than TWO times on my shop
+<br />♐ We will only offer a reshipment of ONE order, this will be 25% of the total order, our delivery rate is so high, so this should never be an issue
+<br />♐ If customs recovers your order, a proof will be requested and a 50% refund will be made</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+very good product, no problem thanks
+<em>(28.3.)</em>
+</td>
+<td>
+<a href="/products/102851">25g Heroin Pure Uncut #3</a>
+(565&nbsp;EUR)
+</td>
+<td><span>
+Ma***du
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Arrived and quality is pretty good!
+<em>(11.3.)</em>
+</td>
+<td>
+1g Heroin Pure Uncut #3 ( High Quality )
+(50&nbsp;EUR)
+</td>
+<td><span>
+pn***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/kerets/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=b3lW
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/103565"><img src="/kuvat/tuotekuvat/3dfbcdb80162a7169fe3de60c4e670905593ea1a.jpg?1518784950" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103565">Buprenorphine / Subutex 8mg x 15 boxs (105 Tablets)</a> (<span title='980 EUR'>980&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73184"><img src="/kuvat/tuotekuvat/5c6c30d3afb516d0e656b5c5136b81ac51549bd0.jpg?1496926438" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/73184">LSD 200µg x 50 Trips - Pure Crystal 99.5%</a> (<span title='245 EUR'>245&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/53181"><img src="/kuvat/tuotekuvat/79db2b181bfd85aeb16c2968b8b6a5402085db74.jpg?1482512925" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/53181">OxyCodone / OxyContin 120mg x 1 Tablet</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79209"><img src="/kuvat/tuotekuvat/b640a6ae775d462f8b6122a8b5e5984a614f57f3.jpg?1483996997" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/79209">10g High Hash Pollen from Morocco</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79210"><img src="/kuvat/tuotekuvat/3a77cc7523397aa887b761953fc9285eff9e5a08.jpg?1483997121" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/79210">25g High Hash Pollen from Morocco</a> (<span title='160 EUR'>160&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73185"><img src="/kuvat/tuotekuvat/6f9390c86698e91319390aef849769e10e5272d5.jpg?1496926457" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/73185">LSD 200µg x 100 Trips - Pure Crystal 99.5%</a> (<span title='405 EUR'>405&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73183"><img src="/kuvat/tuotekuvat/0c9eb493996dd225075faab8a8ff6814f3a9684b.jpg?1496926156" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/73183">LSD 200µg x 25 Trips - Pure Crystal 99.5%</a> (<span title='155 EUR'>155&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/73188"><img src="/kuvat/tuotekuvat/44d5af46d5e60ee48c0d00cff11b2a1bdc03396a.jpg?1496926456" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/73188">LSD 200µg x 1000 Trips - Pure Crystal 99.5%</a> (<span title='2755 EUR'>2755&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/79208"><img src="/kuvat/tuotekuvat/a3cc5f2fa0dbcd807aea783ce577b438c4b58c55.jpg?1483996908" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/79208">5g High Hash Pollen from Morocco</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/kerets/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

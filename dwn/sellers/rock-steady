@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wpZCiCPiNjnQfdPyQrEMKZ2h8rTKRm0XiRKYfPkqsTu6JlQBS6fSi7HdTu+RKaBwNTYRiZqdfrkaZsBCqyyw4A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/JrNq">Suomeksi</a></li>
+<li><a href="/register/JrNq">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/JrNq">register an account</a>.</p>
+</div>
+
+<h1>Rock-Steady</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>I specialize in high quality medical indoor from California, high grade outdoor from Humboldt County, and room temperature stable shatter. </p>
+
+<p>I'm now shipping daily again M-F.  The cutoff time is 3pm EST. Note: I only ship Internationals on Fridays. 
+<br />All orders are sealed with moisture barrier bags and wiped in bleach. </p>
+
+<p>For support please allow up to 3 days for a response. I will try to respond within 24 hours but sometimes I get busy and it takes me an extra day or two. Please do not take this to mean I'm ignoring you, I tend to prioritize shipping orders on time before support, so if there's ever a day where there isn't time to do everything, I will ship first and handle support the following day.</p>
+
+<p>I strive to have 100% positive feedback. In case of failed delivery, I will refund or reship 50% in return for positive feedback.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQHNBFZiMhUBDgDZqVWMaLvz8O6hq+i81GZTmYRUfn+7xObTf2vNbzNBfVhd0mIh
+LS73SGYOcjtrkaKgchzriC9Vk35LN9qFTLu8Weab69IJ+bV0oBvzlnQIKqnNUEfa
+KdT435Y03sSx3c8YtIqiWdWsnKtx+1q50ydxjRFaoVIq/wkwnWVCkrrYBRLxwW5h
+YYwMBcgxLpAA8X7Edjl4Xx08JtxXIrfpSId2Kc3rOoLA8zhl3ticPfe0/i5MdwM1
+niK7F4n0N6ZZasAYERvfwXpwr8/EWGXgYlpMTOb4onEQoscvniXGK8+69bgN+3d+
+5fAhUY9nnhgMh/dzpTspEtnluFcd7WXAWqF9K8mRkZfvaDOvO1jIBGdio8CTOVJq
+Lsy1/o3TJiLNzGYUbZmsW0vZeeoUF9YNSACWYqgi5lc18LtqsPqVsCxgi8w8NV0O
+acUGaPao3ccwepYK+LsVLBTpdGLSBWFnzvdgn+P35SF+D9NKP8JS3WyWuii5KtXd
+CzMLOWkvIxdBk63K09N7q2N3wTkXk6hL7TuSrR2d3OJ97UGVYsGo3+4y03Q6inp9
+3UCT00uOXVTG4zMN1R6lE1C7mTP04jDhI+l5ABEBAAG0ClJvY2tTdGVhZHmJAfcE
+EwEKACEFAlZiMhUCGwMFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AACgkQI7AJ23pS
+KRdmhw3/W0426kj/NhZW9x5FwaGQdmNt6QVk8aj+q3yf7LbvQBJpTHl64Eruahvz
+e1d3aZDpuJz8fuYY1z3zoEB98AZRSAh3u37XRFAeruunn1yHZi5l5NB0CKCLWzTd
+byy0OuJMBGINl/izxxgdLms1dJGnLva36qY/ukmMANdESU7SOGlDJ13X0gJ4ICJo
+NNftmNXGTMUblughQlAWPTcJDK4BpSzWvLVDDESKHclnsEMXTKofKjxX2/q/MXjo
+az3ntfvvl6d5CB3J7OKKKoJZnwZy0QeuSruHzAZ8swpBZsNERchVQlOGHUYWVhlJ
+mD/GOL6luiHWwMm81RonJ8d9YSecYhJQ9daYsHNFNyIlXBEIPNHQMmZFADw5skHP
+yXfiiPhcOfhkVDJi0xSHzdpYRDPckoYqrtSfU/xnPmsUziwIBjt3MGwEJvd/oI15
+WEpQxMsgbW7nRZCTaz45DiFchuS8HeDG7xpuvbmemAg+3U7tTibSMPxWKVjMQvKr
+kMn75MwUVsxkCUSpGTl8m4yq2lUR2TzQQq/TqSiXmSDW9tEA3gfFWpEobTceHySD
+W1ICQOXeOvXj1WMhQX8XadqYivtL27kBzQRWYjIVAQ4AsmWKJvFYj5+LuqjhOVFa
+ZdRuQFnWb9LmK8JQDyeU5Ae5sonXYaYKFWSJ8WeL/GGJFrKdJ20IF6RUGZKsV3D1
+U1f/FARJIXSArmpFWcX8i6zcGQaPrWeV3fDyeT3NelLP4BZP9jesZ/l/pi5+Q0dm
+6gTNMv/sVIg/AyzlpyR7jgEYYMwDRqVKg5BdOjrJN6QpCFpysTL34HSl0mMxEYS0
+ovoMK3DRuoT/lG/tJKOnUXI/O7w7n88/RAEnYFzY/XtexhQ8jsdV+HamFUMAOi2H
+n1E7eXpCmNA8cAZ8nVc4cGiZeksSjL/67DPM7MFMZa3tsC1bnw8oWbu9N6+2nt8M
+Fhbv+gGkstW3l3Z+rIOQN9vutTpmbjdW4ap7yOdqmHVB3tgi7Rnl/FO6sQVN0rTx
+pCl76513qdn9gmagEbEnbwfJdFtd9yXrPDpFylheryWL/6y1HaaLeDYeInsUiy+i
+oUK4qa/6HQIEJ83hgGykUUpOhePC+HHdek/preP7JlMVVBx2hnFJ04uluk12WA1W
+1TVgvXZ24eo27OY5s7cV9ER+26fl4iqk0G+6hzpXjaW3BzL1HV2VEWUumPYKp1bd
+xQARAQABiQHfBBgBCgAJBQJWYjIVAhsMAAoJECOwCdt6UikXsXAN/A40TeDmfshC
+u92DIzCDQfaRMc+EgQKOGYSs3d4l37j63gDcp58d8xvfh7pUABGiiEv5Gr5MXUeq
+kl5qfj+vsja+jfWa85HPBhuG/fZ9WEB1IFljX29GaKLZZd66Yvw7A7+Sl+uORBhu
+a+peqHI+2h5PTdLwnDw/zkVVYAVNXwgAUVfkC9wLGrDQLzNrtBcI/eQ2PJ0AhcsE
+ZXmzumi8pemCvakeylXuYk4/adawsl+DGoPIAVcavZ1/CkVlBrrdVgdeV45OZQHY
+OeNs2tUbDuy+jfDjdSByXbV6aauKU3kTuFaZpxoWKHAo4AgOm/3KFFGwhDf62nfh
+GiFXrB1lmfQtTNN0ngtnPpxqdziu/otoBJII4aeaaMuw+ng+p58JNAcYuo0+14dC
+cG74od35mELQKwxzz8tULY3qHu7ZimjCS7jlkV4iEIX83XSs2qUQ7DG4qY7UhuA5
+K/IEE4l7rSfxBu8noUWjWogbU/SlbAzHbHdBGjPsdwY2SXBa6FliBIkO1FbuekPS
+mzLNdL4UqNJxzDZVViAQIHNWi/Rh67j+z6T/UYqZOeGy+x/MRbBviEJlTTJ1j6Ky
+6UMlhszfU5Y=
+=ogDa
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

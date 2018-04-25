@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZFjKUumNFCOggLzxQ+yu1R9cU5KodX2PmWKTr4WKBedBgOBIry+gh7exHpRlLpNYwZr4+4hSMecbWWIhORlfVg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/E7Xe">Suomeksi</a></li>
+<li><a href="/register/E7Xe">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/E7Xe">register an account</a>.</p>
+</div>
+
+<h1>BRABO CHOKE</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: 2 days ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: France</li>
+</ul>
+<div class='description'>
+<p>I speak French and English.
+<br />Contact me if you have inquiries.</p>
+
+<p>Only contact us through e-mail for orders, this market is not releasing funds anymore so we cannot take orders here. We do not read messages here. NEVER, so do not send ANY MESSAGE HERE!!!!</p>
+
+<p><p><a class="btn btn-default btn btn-danger " href="http://valhalcc7xestduz.onion/feedback">Check all our previous feedback</a></p>
+
+<p>brachoke@secmail.pro</p>
+
+<p>Use my pgpkey below for sensitive info.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+S6bDWYD3I4YgbA==
+=zba1
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/78060"><img src="/kuvat/tuotekuvat/0ba3f5e7bb61bc950ee90f7b24631ff93e1a802c.jpg?1483321186" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/78060">Factory New Colt AR6720 (AR15) </a> (<span title='3745 EUR'>3745&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/80879"><img src="/kuvat/tuotekuvat/d30f9c775dc39643ae75029205720ff1acf9cf3a.jpg?1484626263" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/80879">2x Sig Sauer P220 Classic, .22LR</a> (<span title='3145 EUR'>3145&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/78059"><img src="/kuvat/tuotekuvat/126e0c464ac50e1bf6144615acc7efcad3b860ab.jpg?1484625723" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/78059">Sig Sauer P220 Classic, .22LR</a> (<span title='1845 EUR'>1845&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/brabo-choke/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

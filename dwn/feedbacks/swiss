@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GplTFKQnizEadrqdXhTSd2xG7TIB3Jj+9yURUYCIgb1FDT9QckJ2Syzmr2o90Jc/8JC2pfSi2gjehWmbT6rkzg==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/swiss">Swiss</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus, mainio laatu.
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ku***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Priimaa kukka, nopealla ja turvallisellä lähetyksellä. Kiitos kovasti!
+<em>(22.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Me***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Erittäin tyytyväinen laatuun. Saapui nopeasti ja loistavasti pakattu. 5/5
+<em>(21.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Da***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvin pakattu. Tuote huolella ja rakkaudella kasvatettu &lt;3
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+Mu***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ur***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Once again fast delivery, excellent stealth and good product
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Mi***nt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Jo***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(20.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+su***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+Pi***es
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+posti kolahti päivässä ja loistava hinta laatu suhde 6/5
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/103837">Custom</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+Di***im
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hieno tuote, hyvin pakattu ja nopea toimitus. Respect.
+<em>(19.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+le***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Setit tuli varmasti perille hyvin pakattuina. Katotaan viikonloppuna miten kolisee.
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ka***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Helvetin hyvää!
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+Do***le
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ma***66
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+hm***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Perille saapui pikaisesti ja hyvä paketti. Tack, kiitos, thanks :D
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+xe***of
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(18.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ku***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(16.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(230&nbsp;EUR)
+</td>
+<td><span>
+ka***in
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+loistava hinta-laatusuhde ja erityiskiitos parastakin paremmasta paketoinnista
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/98350">5g Swissin höttö &amp; muju, halvalla pilveen</a>
+(60&nbsp;EUR)
+</td>
+<td><span>
+su***li
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(14.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ft***en
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvältä näyttää ja tuoksuu, testiin vkl!
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+im***am
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+os***23
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Sairaan nopee toimitus ja tosi hyvää polttoa
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+va***ro
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++++OK!+++++
+<em>(12.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ku***ko
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Jälleen kerran hyvää polttoa ja nopea toimitus :)
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(155&nbsp;EUR)
+</td>
+<td><span>
+Ta***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Di***er
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nyt oli kyllä pakkaukseen panostettu!parhaimmista mitä ite on täälä nähnyt.Ja itse tuote sitä itseään ppp:tä.Eli mukavan piristävää mut kyl ä sillä sohvanpohjallekkin tipahtaa.5/5 Tätä ei voi ku suositella.
+<em>(11.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ee***bu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+vi***uu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tosi hyvää sauhua. Paketointikin oli asiallista. Kiitos nopeasti onnistuneista kaupoista!
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Me***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Il***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus, loistava hinta-laatusuhde 
+<em>(7.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+Ku***ia
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvä paketointi ja kuvausta vastaava tuote, tuli nopeasti perille. 5/5
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ny***no
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos ja kumarrus      5/5
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+do***am
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(6.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+ur***69
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(5.4.)</em>
+</td>
+<td>
+<a href="/products/101315">Swissin 5g tarjous 15€/g + 5€ mylarpostit</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+TV***MT
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    
+    
+        <span class="page current">
+  1
+</span>
+
+        <span class="page">
+  <a rel="next" href="/swiss/palautteet/2">2</a>
+</span>
+
+        <span class="page">
+  <a href="/swiss/palautteet/3">3</a>
+</span>
+
+        <span class="page">
+  <a href="/swiss/palautteet/4">4</a>
+</span>
+
+      <span class="next">
+  <a rel="next" href="/swiss/palautteet/2">Next &rsaquo;</a>
+</span>
+
+      <span class="last">
+  <a href="/swiss/palautteet/4">Last &raquo;</a>
+</span>
+
+  </nav>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

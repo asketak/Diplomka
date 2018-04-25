@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LvUNOCa8MgWUJi2sMjK3zC6inWFZmBCdinEmy5w5IMHjUUOokluSDdfjKFFeTnPY37g7U2o5pqnNuXRawY8F1w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/3b75fe0e94465f60486fb18b1c38ae49248de393.jpg?1502952433"><img src="/kuvat/tuotekuvat/1a0486b109d1b1131327a9682d7c48e0597b8b28.jpg?1502952433" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>ZPHCD - ARIMIDEX / ANASTROZOLE 25 X 1MG *(UUTUS!)</h1>
+<ul class='list-unstyled specs'>
+<li>63 EUR <em>(0.00808 BTC)</em></li>
+<li>23 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/arnold">arnold</a></span>&nbsp;(<span class='green' title='Positive feedback'>1689</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-17</span>)
+</li>
+<li>Finland &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="s/fjDMiFmUkE4jbiAtJ1gIQbvjlCU67x3oSzY/KJPK5+U62cfGI5QUcnMx9urrGUdQEYC3HyGMWZTOHyrz8ZuA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="587676">Domestic (included)</option>
+<option value="587677">International (+5 EUR)</option>
+<option value="587678"> (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="98343" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p><b>We have many products for Body Builders. <a href="http://valhallaxmn3fydu.onion/arnold/products">Check this out!</a></b></p>
+
+<p><b>Arimidex (Anastrozole)</b></p>
+
+<p>Arimidex is the trade name used by the pharmaceutical company AstraZeneca, for a drug called Anastrozole. Many bodybuilders like to refer to it as just 'adex' for short. Approved in the US for use in 1995, it is a non-steroidal aromatase inhibiting drug (acronym AI) and is approved for treatment of breast cancer after surgery and for metastasis in women. Since breast cancer can be heightened by the increase in estrogen, arimidex is used to inhibit the synthesis of estrogen.</p>
+
+<p><b>Use in Bodybuilding</b></p>
+
+<p>When a man uses anabolic androgenic steroids (AAS), certain compounds will aromatize into estrogen. The main culprits that will do this are all testosterone esters, such as: cypionate, enanthate, dianabol, deca durabolin, and less so Boldenone (EQ). If estrogen isn't inhibited by using an AI (aromatase inhibitor), then high-estrogen side effects can occur. The most well-known side effect is gynecomastia or what is known commonly as 'gyno', 'bitch tits' or 'man breasts'. A man may notice a lump forming within his breast(s) – or under the nipple area; if not treated quickly, this can require serious surgery to remove. The lesser known but very serious side effects are caused by water retention, which can give a bloated or 'full' look. Extra water weight to your body or face (commonly called “moon face for its round or full look) can ruin a nice physique by making a person look fat. Internally, carrying around extra water weight will strain the body’s lipids across the board. A person can expect a rise in blood pressure, heart strain, and loss in energy. Also, high estrogen can affect libido.</p>
+
+<p>On the other hand, if you are too aggressive in inhibiting estrogen, by using compounds that are harsher than Arimidex, this can cause your estrogen to drop too low. As a result, you can expect erectile disfunction (ED), loss of energy, depression and low libido.</p>
+
+<p><b>Arimidex vs Nolvadex</b></p>
+
+<p>The main advantage in using arimidex over a SERM, like tamoxifen (nolvadex), is that arimidex blocks the aromatase enzyme; thereby, it prevents the production of estrogen in the first place. As a comparison, Tamoxifen will hinder the estrogen receptors from receiving the estrogen, rather than stopping production at the source. Therefore, you'll still have estrogen floating around in your body when you use a SERM.</p>
+
+<p>--------------------------------------
+<br />1 x box of genuine anastrozole.
+<br />30 x 1mg 
+<br />Genuine and long expiry date. </p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102504"><img src="/kuvat/systeemi/medium/puuttuu.jpg" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102504">Malay Tiger Testosterone Cypionate 250mg/ml 10ml</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/rautakoura">Rautakoura</a></span>&nbsp;(<span class='green' title='Positive feedback'>847</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103148"><img src="/kuvat/tuotekuvat/f826cc64d64bbef4d5164fcb652a69df6c79a139.jpg?1517410600" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103148">Bioniche Susta-Med 300 mg</a> (<span title='60 EUR'>60&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/herbamedicus2">herbamedicus2</a></span>&nbsp;(<span class='green' title='Positive feedback'>1627</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103123"><img src="/kuvat/tuotekuvat/b53e9f5037fda05b97fe025dbd4b6993530374e2.jpg?1517785073" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/103123">ALVOGEN - ARIMIDEX / ANASTROZOLE 30 X 1MG *(UUTUS!)</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mustajaska">mustajaska</a></span>&nbsp;(<span class='green' title='Positive feedback'>244</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/84191"><img src="/kuvat/tuotekuvat/2389689fdfbc0a2f4b66d07000feb46ec80ce372.jpg?1515517684" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/84191">Ostarine - 100 tb/ 10 mg - Olimp Pharma</a> (<span title='88 EUR'>88&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/steroidwarehouse">SteroidWarehouse</a></span>&nbsp;(<span class='green' title='Positive feedback'>498</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-3</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/13298"><img src="/kuvat/tuotekuvat/20274aa45137cc67f39bf09ec079845fcabd78ff.jpg?1455970285" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/13298"> ANAVAR 50MG X 60 TABLETS IS PHARMACEUTICALS </a> (<span title='50 GBP'>56.89&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/stealthmeds">stealthmeds</a></span>&nbsp;(<span class='green' title='Positive feedback'>792</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/2000">Other products</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2700">Body building</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/2705">Oral</a>
+</li>
+<li class='active'>ZPHCD - ARIMIDEX / ANASTROZOLE 25 X 1MG *(UUTUS!)</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

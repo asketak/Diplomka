@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2YCosxaGWeCveCscUjIY+CjBJq64W8xEmgTYxWfvNTDwHNUG1B3ZsNiwvJEfOqPl+x1TGtE8cdgAtn3uJQ16rw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/rszP">Suomeksi</a></li>
+<li><a href="/register/rszP">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/rszP">register an account</a>.</p>
+</div>
+
+<h1>US-ThC</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Terms of Service:</p>
+
+<p>By purchasing or engaging in activity and/or conversation in regard to anything at all from me or my listings and/or admins, you must agree with the following terms:
+<br />You are not a law enforcement officer, nor postal inspector, or operating under an assumed name or in cooperation with any criminal investigation; nor are you seeking out evidence which may serve as the basis for any charge violating federal, state, or local laws. You are not a member of or in cooperation with any agency that is related to or contracted by the federal, state, or local government.</p>
+
+<p>You will not use the research chemicals provided, included but not limited to "THC", "Marijuana", Cannabis Sativa and/or Cannabis Indica for any non-research purposes. Anyone who uses and/or purchases the provided chemicals for any purposes whatsoever will be assuming their own liability, and are responsible for their own actions. You are responsible for looking up local laws and/or ordinances prohibiting the substance you're purchasing before you make a transaction with me.</p>
+
+<p>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<p>Mandatory Rules * * *I WILL CANCEL YOUR ORDER IF RULES AREN'T FOLLOWED* * * Mandatory Rules</p>
+
+<p>1. All correspondence by you to me, including order issues will be done using PGP!</p>
+
+<p>2. ENCRYPT your address via GPG/PGP(*NOT BCPG* it's been found to be exploitable); no longer taking plain text or privates.</p>
+
+<p>3. Do not message me asking for exceptions, proposals or for tracking. It will not be provided under any circumstances(I will only check it after 4days in transit) to anyone but support; If you can't understand why this is necessary for security of all parties involved, you should try another vendor who is more careless.</p>
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />REFUND POLICY</p>
+
+<p>NO REFUNDS FOR DELIVERED, ATTEMPTED DELIVERY OR WRONGLY ADDRESSED PACKAGES(I copy and paste exactly what you send.)</p>
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />FE is required and I will start creating a white-list of new customers.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFUhSjkBCACsGn8tVFYChl+VYl19+3LMrUXlF7Hg92Jk547otNWr+X2ktBme
+fKRJ16U7WaFURViXkVsJwQTGG8Fss0fVGqE1LAE54cig7VSyXmH6drSfQ9Z3y4r1
+A7OtLYonhz/bf6bgzeh+c75wTqVEQAqBhPjDcfB4P6ZwISyTfmONZM8ULMgTCxZL
+sJZQsUTdmiAmeN2+r1IL2TWqKPJwAOG/aEJEBcm6ol5dyLOYMWWcT8OCtTjJbVoe
+KXkJ1xXLTPyl1baysGMCy9UQJBJwcZ0LElCiwAjnEq8vo/4lupAPjtOctlMPrRvx
+GuRdw++o0T1SxyAH/+aaZ9iCrSZ77mzW2jM7ABEBAAG0IFdpdGhvdXRhTmFtZSA8
+QkJWSFRJMEBIZzJWQi5Dd28+iQE8BBMBCgAmBQJVIUo5AhsDBQkJaBuXBQsJCAcD
+BRUKCQgLBBYCAQACHgECF4AACgkQEK0i0rxfgBC8Sgf9G8sBWTZWhVjHqmkUsizq
+f5T7P5TWOIdCx1Kl6EM09SFxP77Cbht45f5hre3UX3+aIkFIviXZruixSsS8klqr
+TrvSK9CRz8he1LAGaSt5J14lhLPtsYLWZvgirIJtcUzi2HPwktH7PSE8UH5PXNH0
+iguHri3E0dICBU+A8YkvJ2rHa+dSZ7N1PyHYLoPAZ3tGw4k27ZwPmfrEY7ULDVAn
+8Jybnlwe1UNWkILVE+ekN78Fimf5TnkW26jg0YNJOcAdZGLklwV3Pj0QjchLy3DV
+S9dQGPCXDheLf9T/lEz7xtS3EvcOb100D2xZUm9/0n+dtnuspNNyIBnUQGm9oZLj
+xLkBDQRVIUo5AQgA2fNZv0fyzKTLjLkWK1mb07DMeQsd6GzvcftqcaaAcqupbYjQ
+DKKHTBXdYcXMAVw5w1wRXJRc0cyHaalPgnLxHExmalo166nFfVzjMitYOVbgWWwW
+rs4vDj8e+SnGbGiW9AuIUVq+dlDWITVOKSl0NMWptgRFqOvX1sRwGRkBk6HgIvg9
+pvwCkInkqDmL/cFEwdLZ6gyyS1G2nfllWF/AfV7WOr4ChPhLH1GBS/3ChoGhPNUF
+h5QDK1HRSGr5+wf3tidm9QiVZHHBkEqACpJmOZ+RFLUPyDyqlYDdGOz1ML/6qCrt
+ObBg0QpLGYdqxFW+zejTcyNirLH6/XeG8If8LwARAQABiQElBBgBCgAPBQJVIUo5
+AhsMBQkJaBuXAAoJEBCtItK8X4AQpm8H/RZqXI0AQLWux+gZvFgJdKPY+M9ReMqr
+GTpvx23xMIMiCHoQevtetDpK6AneeUg9mgFtYVjNH6vaP8gkX8+A6Vnh6CJqGVol
+p8jzwejwkiO/V6P+D5qq9/9EhrpgATzgspZwVveIrXn/g76u+vqrYYY7d1i0KoRS
+ubON/vYLN4XxgwTYPD0vGc0yX32FtwHSqRpttnOUWtdjc0zVCMSGUeC/Twq4GY32
+bS6RiqwfFQwMeiOvZjIwpQ8SSLnKaod7wsia/WSc9GqmTYE7WSqv+PpqP+dHmnbX
+k/Iz/CoTp8rgMQJibzX47xHCU/1pCYOLpHSe7jrVD6dpALRmqlkhXag=
+=/7gr
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

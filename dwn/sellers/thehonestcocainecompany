@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rInoCwfOtTA0HfCRKj0Qteppf5joYCVrU3TCYqVzE94jPxki3dXh2Gax+5069cTrWu4FV5sLcv2bVUvXpzO/Nw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/fy3x">Suomeksi</a></li>
+<li><a href="/register/fy3x">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/fy3x">register an account</a>.</p>
+</div>
+
+<h1>TheHonestCocaineCompany</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United Kingdom</li>
+</ul>
+<div class='description'>
+<p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbu3A0BCADLL7QeZW3SZVEL5bwSrP0GR+bwyHUERMRU9xS3zenUVU3CM+qL
+kRJlxg0esAGZyqEbBoCltOaAZ2g0nMh8gCEpgQqdflzoYHg+QouzGExrVnMEUHRq
+ypIarGDIs1hMwzl2CIKW7s9oushzyWqyr8uFGKPrbdbwGKiCbvzJJ8Jde2oXxZ+P
+OEdhk0HRv7U3MmY4dXiNsjusPJWqjbsbMiu8ZFwACGHqzRMWpVBR3YNSrgY07uIn
+lQ+z79MRf4Ud7n9pf0ylmhsrjAHsiuHzQTt4p+fAOoq0AClZYWaR8ZVL2wvx4LHq
+soACAMVBE3EU6qfpgvSwI7dqIfBYT/EnShwBABEBAAG0HkhPTkVTVCA8SE9ORVNU
+QFBST1RPTk1BSUwuQ09NPokBOQQTAQgAIwUCVu7cDQIbAwcLCQgHAwIBBhUIAgkK
+CwQWAgMBAh4BAheAAAoJEKUMYY5kByfVwbEH/0YViovahcSTQIkJ+kJ7tLMjFwox
+FLqsCh8vrsDwEL68jctkm4Ye5lcSU110Q56agbCyIZOh9JIDoWTdQwYCaAR3jmOE
+Wgp6VT1MrwTsc3q0fa/EMqIbaHn+tqHMm8hpFnf+u+baRNuFzZhpClcWW1Gjmd9F
+9ERR+t9et6pnHxNRBUBQZ+z9BwkE1OQDJjMqdDaALhYJUhy0ds1h9y18dHsm/IT2
+z1jOG7IRtkGmBugAGBbykr85cU0wx1qOaNvUMfLdm7Gm3vwVcpBJxhfgpDn3yskR
+P3HXR42vCwKSA960gqmtjYC8tVNirv1yejIJK/iPiW5tNbVWvUdRRNhlEPm5AQ0E
+Vu7cDQEIAKurbTImaXPHiGotdPt8D8pFWIKa/bZFDf+44EWyuzP7slWojqY4diOp
+ynDC6BT8zAZmihAq4cYOb+lAmdPODBxuZFMZqji36p0u3/D/T38WWPqM5MXsZ8hO
+koqdOSUWtPRpw1jxHEt6W38B1n+i6TpvPWm4ULOiMPZMcHf4jGTRgWp81pqHdc0v
+uBH1snFadYh8lI9VxkEIp6/ebRDsEt5w4gIuPXoluhWrJU+xNbIRypRvyc37ORzk
+GKZG4Ppny+XiSTTFesPOT9buK5NCiu99oymWu4VoCN+JE3HhiLstfFe/hx2OWpBb
+gG4jKuHZdSvZ8UcoJTytg51qba10c+UAEQEAAYkBHwQYAQgACQUCVu7cDQIbDAAK
+CRClDGGOZAcn1eMDB/4gGMp4K81AH9WlBPVQDR/lGulrAK8hKDe/azXTOOwgfCCk
+hUv1SfOALBJZ6PaWK6I7cH61cXIBe1mLOwVAfT4d1P6cvSfWCcwS5dq64q165COK
+hclxM8LWl5gMWiXQqxdqtTATRxCAE4ZILQIGtFVTe6/okDRWWzcNUrOXcxkIyG6u
+eO+u1cR58YR8nEnRVt9f1yolNcS1C0RBfbOIWuNxvzjtoodMgE/cqb68lc56LkzN
+aDJumx6PICsarn6McY+BkwSTn1mNY2q1v4EmRcEax8J9nluoXjjkpuO++P8uN/7a
+Sfr8zgiZqxXELUxhbzBORvdqupH/woeFmdcUo9+X
+=FPvb
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/68074"><img src="/kuvat/tuotekuvat/4ddb2d4162317e708df3f0b68f6ce94f8c439503.jpg?1477608339" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68074">10/10 ★★ 1G ★ PURE QUALITY PERUVIAN COCAINE ★ UK TO UK ★ FAST</a> (<span title='70 USD'>57.33&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68071"><img src="/kuvat/tuotekuvat/b6586f85f0973c8f853a763acba820f335e82adb.jpg?1477608037" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68071">1G ★ MDMA ★ UK TO UK ★ The HONEST Company ★ FAST DELIVERY ★★</a> (<span title='11.99 USD'>9.82&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68073"><img src="/kuvat/tuotekuvat/963a748cf04871b3d6d742f92754b05fe6edd99d.jpg?1477608154" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68073">7G ★ MDMA ★ UK TO UK ★ The HONEST Company ★ FAST DELIVERY ★★</a> (<span title='89.99 USD'>73.7&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68075"><img src="/kuvat/tuotekuvat/388697a9c0f10ed07b82e84ca0096c071f78c076.jpg?1477608419" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68075">10/10 ★★ 28G ★ PURE QUALITY PERUVIAN COCAINE ★ UK TO UK ★ FAST</a> (<span title='1500 USD'>1228.47&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68072"><img src="/kuvat/tuotekuvat/87cba1dc485b14c8444b722dec3ac724ae33b671.jpg?1477608090" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68072">3.5G ★ MDMA ★ UK TO UK ★ The HONEST Company ★ FAST DELIVERY ★★</a> (<span title='40 USD'>32.76&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68066"><img src="/kuvat/tuotekuvat/0f4885424f9d07e666bf96ea8b4235b80e30e33d.jpg?1477607031" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68066">10/10 ★★ 14G ★ PURE QUALITY PERUVIAN COCAINE ★ UK TO UK ★ FAST</a> (<span title='900 EUR'>900&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68069"><img src="/kuvat/tuotekuvat/d305d27fe975a8f96367c54d925934d55aafc09b.jpg?1477607484" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68069">10/10 ★★ 3.5G ★ PURE QUALITY PERUVIAN COCAINE ★ UK TO UK ★ FAST</a> (<span title='250 USD'>204.75&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/68070"><img src="/kuvat/tuotekuvat/a8f1cc38502119142c531bf552fcabde1be0f118.jpg?1477607546" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/68070">10/10 ★★ 7G ★ PURE QUALITY PERUVIAN COCAINE ★ UK TO UK ★ FAST</a> (<span title='250 USD'>204.75&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/thehonestcocainecompany/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

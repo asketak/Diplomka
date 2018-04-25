@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dV14HqLg5QvilZIc4WQQYDC7JH+V/GkcIYBhHM9Lp2pv7aWGdHFHMxMrGrLcjAnpcuMvlxLRdfSnRfGMUrBV0g==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/tAwk">Suomeksi</a></li>
+<li><a href="/register/tAwk">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/tAwk">register an account</a>.</p>
+</div>
+
+<h1>captain_kirk </h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: United States</li>
+</ul>
+<div class='description'>
+<p>Need some good quality digital goods? Information is a stimulant. It can get you high as fuck. Let me be your dealer. I've got the best stuff on the darknet at the best prices. I'm your cheap hookup for whatever you need right to your highspeed!</p>
+
+<p>I'm here to get you what you need at a great price and a quick speed. I run a business with honesty and integrity, and you can see the results by looking at my feedback.</p>
+
+<p>I am dedicated to operating a quality service. My goal is to always provide you with great service every time, so if there's ever any problem that would make you give me a bad rating please allow me to try and fix it before leaving bad feedback.</p>
+
+<p>I never ask buyers to finalize early.</p>
+
+<p>If you order one of my digital items I will send you the link via the order.</p>
+
+<p>Try me out, I think you'll be impressed. If you have any questions please don't hesitate to ask!</p>
+
+<p>*************************************************
+<br />PLEASE READ THIS INFORMATION BEFORE ORDERING
+<br />*************************************************</p>
+
+<p>I sell DIGITAL items only. I do NOT sell physical items. Do not provide me with your personal mailing address for anything you order. I've had quite a few buyers who thought I would be shipping them physical items. It's impossible for me to sell AND ship you a physical item for only 99 cents. So, giving me your address isn't only unnecessary but unsafe. For any other sensitive information use PGP. </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.47
+
+mQGiBFU1X3sRBADjgWji7sAeVMAgnshKXLHY9tbdkOdVqNGd+qOJximQADIbC4Mc
+Iy5z5Vk082gPnfNWc+FRgTEDQ8rQu2D/Cl6icFdPU5o02/EkBhH0Z2NTddEpnwZ/
+DvKCmrCH8EfDxaTEZo5pyWp74vk3KGVF46YI9fiEkc64Fp7a6YSByHKpHwCgvOck
+srVbOKBp77JC3QmcE0TyjocD/2iRVCPm50AVOi0rRA6c7ic6osirWx7ITWlK7ltW
+J3VZILEjCgWM40jg5oZuX+DSFfEZPCIQUJhLWxBo3QhwEpdjL/eH3DlvcOQPGl9U
+LxzCh7gnTzjiBHWzDUZ/9snug8/DY8ff+nnmlRsJW3MX95obbln/PpRMv+4ZfjT4
+JzzzA/9QmEKRrhnSB606JIhzS6luGgumzY4ginz5AznkdnBVkWPVd0aRwb18IPkf
+uA81mT5+Vu7kR6ujkEv4WyWPa9cLSi7224JlpGVc7IV8tWZ+8isVrFXNlqey4XP0
+Akzf1/pLhmw1QJBwRAC2dFQfYp7r5VltxomOTOuIebI16Q1hH7QmY2FwdGFpbmtp
+cmsgPGNhcHRhaW5raXJrQHN0YXJ0cmVrLmNvbT6IRgQTEQIABgUCVTVfewAKCRAm
+zfobeTt9kdO2AKCrGSbNTrG6HP+etQV5vSZw4ehoKwCfUMgYAu6aaKo4pDJLdxzY
+RvKnnpK4zARVNV97EAIAlJT+wJXzuF7ihlQrODb8gaXdCgNJtMI53Th0TUiM+OMd
+uLy30ztBq7nlozzKkUSxzvMyyUvwVzvwR6OsqYzfOwH9FT1dYXKttDBFtoro4d4Q
+cLYTcAVobSnT1zp3SRmWge5bISyblr/c+lsgzV4/0gRIldYJz5tBC3oPEsocuaQo
+zAH/c8BTI6CgqgUi8/KyldeyPP4HMS+moCTHkgQpuAmNimY7vBpTdfB2peneZz78
+cY/NF1cRlGPwbWNb7hTdBky1ZIhGBBgRAgAGBQJVNV97AAoJECbN+ht5O32RQsUA
+njQ7zjpHTbZZmNog25+aHQ7T5omAAJ9qQ2pgPZlRMUX32OTcYvteTdqMVA==
+=xpN4
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/91542"><img src="/kuvat/tuotekuvat/a858489ed40346a8964c55c19eeeef56853229db.jpg?1491272926" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91542">Grenades And Mines Ebook Pack</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62702"><img src="/kuvat/tuotekuvat/59361ffb62281c8154599d2c5183e4cf9bb578d0.jpg?1474952683" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62702">The Do-it-Yourself Gunpowder Cookbook</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62813"><img src="/kuvat/tuotekuvat/a1e4fa02b94024184482dab28e57b5dc29aea81d.jpg?1474957469" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62813">From Chocolate to Morphine: Everything You Need to Know About Min</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62722"><img src="/kuvat/tuotekuvat/ce79b16bdedf5f94f0ee7fce35ea543ae2cdea44.jpg?1474953839" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62722">The Ultimate Guide to Poker</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62776"><img src="/kuvat/tuotekuvat/c91bec53e241d026ec3e02ac18106010a38bfe13.jpg?1474956314" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62776">Psilocybin Magic Mushroom Grower&#39;s Guide</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62771"><img src="/kuvat/tuotekuvat/4d1bc3504cf703f4c90288952f8c6829ea77ef51.jpg?1474956122" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62771">Windows XP Pro SP3 32-bit - Black Edition</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62801"><img src="/kuvat/tuotekuvat/e5c7804d9b3b87ebe775fd2c39ba1ce78e6396fd.jpg?1474957044" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62801">The Science of Influence: How to Get Anyone to Say Yes</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62796"><img src="/kuvat/tuotekuvat/564e5c51313cf6e8ff52a31c9a12d6e51984295a.jpg?1474957022" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62796">Simple Steps to Data Encryption: A Practical Guide to Secure Comp</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/62878"><img src="/kuvat/tuotekuvat/b0763ad0c150aa47a72fb979574a22e0e51e69e1.jpg?1474959195" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/62878">Think and Grow Rich</a> (<span title='0.99 USD'>0.81&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/captain_kirk/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

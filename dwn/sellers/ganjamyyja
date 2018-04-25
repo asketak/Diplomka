@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1iezvhHemY8by83cot/sN950i0PpLua9ML/FSz3hbmVnbsJQZgSQdRkmGxp8PY9dc0oUYgQkpLMgvH+yGxs1ag==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/z4ek">Suomeksi</a></li>
+<li><a href="/register/z4ek">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/z4ek">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>ganjamyyjä</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>51</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-28</span>
+</li>
+<li>Total revenue: 2896 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>-Seuraan kaupankäyntiä päivittäin
+<br />-Toimitus työ-aikataulujen mukaan 0-72h, 16.40 aikaan viinestää ehtii pvän postiin pyrin kuitenkin toimittamaan aina mahdollisimman nopeasti.
+<br />-Toimitus normaalisti kuplamuovikirjekuoressa minigrip pussissa tai vastaavassa, Isommat paketit tulevat 2x vakuumissa + Mylar , Voi pieneempiikin kysyä Stealth pakkausta.
+<br />-En vastaa postin virheistä.
+<br />-Viesteillä lisätietoa</p>
+
+<p>ESCROW maksun vapautus tuotteen saapumisen jälkeen jos ostajalla on kertynyt reilummin positiivista meriittä kaupoista.</p>
+
+<p>ESCROW maksun vapautus ennen toimitusta jos ostajalla on tilillään automaattisesti vapautettuja maksuja vähintää 1 kpl tai kauppoja alle 6kpl/600euron edestä)</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFUH1aoBCADfgqS7Fqx0TUBd5+Vk2mjcRjYCiF5CfyLm1qhce2jqBMxF6OQf
+GfbNf4FCmHnejws/pJCTFLUKk5AIaUXxj9AfvY6GoMYUV+vlIuhv0EZme9nPLrF1
+nRhNYaVbEhxGDHdi77iVM4NoRGU4lGoXwKrPGdPLJyYL4m+qJLUc1ZxT1sx7kaFA
+ALEsPWUpmEpdq4n8vu0iV0e3+EoEkdZUxjzvpdI/BBhGcI0qwkEBflba0wIt709/
++sfKbtXgE2w0vJCmLvCIILWqup1bR6aHu99KNEArx+kX/eqBArgYODP0r10W2g7n
+pOCV8F5kuP566Iiw8obQZAQZf7o4ruAeK6sDABEBAAG0F2pva2tlIDxqb2trZUBn
+bWFpbC5jb20+iQE5BBMBAgAjBQJVB9WqAhsDBwsJCAcDAgEGFQgCCQoLBBYCAwEC
+HgECF4AACgkQ6SJYwU8tYHuRRwgA3NNDhqVFnGN7gSjAvKEdqSIuWg+fZEQN377V
+gOMO87xdBqtpHXM63/9E3rN7SjK/yU8gsBO/H7uni2oNXNYGQSJgaKI3qKkYKvkH
+3NIgqZOk2wu1d/8GVUWY8q1OsZ8iWoG7JIwpp73qLy5u3VjkRTbc+iUgSpcDtEJV
+Nk5O/1yj7u/z0n4KzWothsd4/3GzMjwrxK0nuHHYd2voyVBpEw8rW0Xg75OgqupG
+4IlrtWNfi7vC7SFxLYIWFm9PXPYR1PDgLveRCi2e5OplSRlTrlyGVeXKRbpO8LQ6
+we7jwmAKNGEWP9esexslFlcq1yqp16L9CGIm8MkGDGkefH+pZbkBDQRVB9WqAQgA
+rIQPlUODKJ/szoEzlMs9zMPrv4ApoU/fa9noQU8mYj+cHaPk8FT/lxTEnJyMBRII
+zHkpWVcMaZbUT7k3eezf56o1BPd5oCnwScfwf/EBpBm7tXd/0I8FGhQekit1KXYB
+Qx7w2AKc5ZNAzIVxYUSqxKdK/GLdCRUIS4blo/FL0znM2Y1u3DLc9LxfIJ2BpoYw
+sGvaKmG5NuqHKStU7LWMX1sIJmJNq44+w8v41Y5iEIslikPIMXkb1xNmeq/jg75S
+uCYKBl5iJe92aqBxiFMi8tixmN1VbManhYK2KBN18m7DSx1UUzU35BRFdLbj9rEN
+D0p2rvvKbq7rUace3FTl8wARAQABiQEfBBgBAgAJBQJVB9WqAhsMAAoJEOkiWMFP
+LWB7v5QH/3IHWRTaiH1KtFBys15XEEhVPyRF528z/tLLVdKWJIClymLygBHu70+j
+fhSU+uObOf9mpWlhUWXB3311JppYmKvAhuc9wqXgNoh+gP6+paJZtdwIUVR6xPrn
+iOHagI2UEp1r+nLUqPbprlrGhp1fIpuagqxSTuulWwW9IgwbB2MykyRpheHrhGcO
+4jglmq/Jgh23tNLXz/UCicAL6COIWRfE6Za/sS3GIldif373JZF0NUC1jisJS22x
+XXv7TT1DKGj533ReEFMHeD7a2Ze+e6wQ/FbOxwte/HcpmU17kY+ToMTDjNJAnYiT
+fGSmIa1nc3+fPn0Oq35IYBpbt6u/EwY=
+=skXD
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

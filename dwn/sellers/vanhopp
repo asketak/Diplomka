@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="y8M0/xFHKyXZ4SyMf5Py1a52jC7frcxnKjQgMxBL3wLNaJp+EzLf/SsnUmFm/Rl9/kZAqpjv/BVH22b6GKDLOA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/MZHE">Suomeksi</a></li>
+<li><a href="/register/MZHE">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/MZHE">register an account</a>.</p>
+</div>
+
+<h1>vanHopp</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 122 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>"My name is Jan van Hopp..."</p>
+
+<p>I pride myself on delicious, intoxicating products and great customer service. I have now been around for over a year, maintaining excellent feedback accross 6 marketplaces.</p>
+
+<p>I specialise in top shelf Cannabis, Ketamine and Ecstasy Pills.</p>
+
+<p>My "top shelf" ganja is the best you will find on the dark web, you will recieve only the nicest buds, free of excess stalk and leaf. I have new strains available every week.</p>
+
+<p>If you are unhappy with a product you have purchased, please send me a message. I am always willing to offer a refund or replacement product.</p>
+
+<p>Please check out the items i have for sale.</p>
+
+<p>I am a UK based vendor, and I will post to anywhwere in europe. No charge for domestic(uk to uk). Dispatched within 24hrs, same day dispatch guaranteed if your order is placed before 3pm!</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: APG v1.1.1
+
+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
+mqD47lyy6honklS8fJi1GsszbH851z0f
+=MD5j
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

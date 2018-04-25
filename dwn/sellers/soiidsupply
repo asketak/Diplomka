@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2JvbZMbDN3mwNV+kJF6XCupppFX8t0gpGkSknJ6/Yv127CswC3zDlOcYRDytdg9LFlmxiNKEW4WTN8qttB2iQw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/ePy5">Suomeksi</a></li>
+<li><a href="/register/ePy5">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/ePy5">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>SoIidSupply</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>175</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 703 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>17/09/2016:
+<br />FE-BENZO-SPECIAL:
+<br />FINALIZE YOUR ORDER EARLY AND WE WILL ADD +10% ON YOUR BENZOS. VALID ONLY FOR A SHORT TIME!!</p>
+
+<p>12/09/2016:
+<br />SolidSupply is back from holidays!!
+<br />Most of our offers are already taken online! Please note that it will take some days to offer 100% availability on all items! First orders will be shipped on Thursday.</p>
+
+<p>31/07/2016:
+<br />BRING KOH SAMUI RIGHT INTO YOUR HOUSE WITH OUR NEW BATCH OF THAI MUSHROOMS!! AVAILABLE NOW!</p>
+
+<p>09/11/2015:
+<br />Back again on Dream Market!
+<br />I am a vendor with excellent feedback from Agora (1000 deals, 4.97/5), Abraxas (100 deals, 5.0/5) or Nucleus (62 deals, 4.88/5). It is my target to achieve your satisfaction as a customer. Therefore, only products of the highest available quality are sold. You can find us on Valhalla and HANSA and Dream Market.</p>
+
+<p>xxxxxxxxxx TERMS &amp; CONDITIONS xxxxxxxxx</p>
+
+<p>- We speak German and English! Wir sprechen Deutsch und Englisch!
+<br />- Please contact me in case of complains before leaving a negative feedback! Be sure I will try to help you out!</p>
+
+<p>xxxxxxxxxx ESCROW xxxxxxxxxx</p>
+
+<p>- Escrow is available for Users with 10 deals in total or more 
+<br />- Users with less than 10 deals in total have to finalize early!
+<br />- Orders above 200$ require FE in any case</p>
+
+<p>xxxxxxxxxx SHIPPING xxxxxxxxx</p>
+
+<p>- No shipping to Norway &amp; Finland anymore!
+<br />- FINALIZE EARLY (FE) = DISPATCH WITHIN 24 HOURS!
+<br />- ESCROW = DISPATCH WITHIN 48 HOURS!
+<br />- All orders are shipped from GERMANY
+<br />- Shipping daily from Monday till Saturday
+<br />- Orders are switched to "send" one day before dispatch
+<br />- No need to sign for your order, although some int. post offices require signature. Please check before order!
+<br />- We ship to DHL Packstation and PO boxes (No Tracking)
+<br />- Check your shipping address twice to avoid mistakes</p>
+
+<p>Please do not request your tracking ID earlier than the following timelines (up from date of shipping):
+<br />5 days for domestic orders
+<br />10 days for EU orders
+<br />15 days for worldwide orders</p>
+
+<p>xxxxxxxxxx RESHIP/REFUND xxxxxxxxx</p>
+
+<p>- No refund in case of lost STANDARD mails. However, contact me and I will try to solve the situation
+<br />- No refund in case of SEIZED mails. However, contact me and I will try to solve the situation</p>
+
+<p>xxxxxxxxxxxxx SECURITY xxxxxxxxxxxx</p>
+
+<p>- For your own safety, please use PGP-encrypted messages to submit your address!
+<br />- Your personal data will be deleted as soon as possible and is stored with encryption, only!
+<br />- Do not talk about shipping details for all of our security. </p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFUolk8BCADoMz30bDQPKT3B6VfE9wxnYXVJsCFQG27wdkZsO40NO+IpI+JT
+OO3+Q4sbjhGB3PvzEg5ypYIEUjmgalTWhFZQ7+h4APfQD09MY45xlrkiKLRgQbQU
+dd8hlUzVoyDBcaTvv8P2ffyAHi+FW3fWc44Q8suvZdMgbv88ZTlUjnkCTp6jYetK
+QWpbZjY0583h6OitesmFTHQCXO4XkBVK4agWhibkIKJroAlqQ1FwCnch2wVE35/K
+qWYzQRxRY4bxspEfyxLyBK5jDEFY0vCvDEa1+q1zNgWpveyKSYqbieJWP98PKMt7
+qSaFTGxa9PxENYApD5HlFzFm5sCwgQGZUwG1ABEBAAG0J1NvbGlkU3VwcGx5IDxz
+b2xpZHN1cHBseUBzYWZlLW1haWwubmV0PokBOQQTAQIAIwUCVSiWTwIbAwcLCQgH
+AwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJENOqja7CvXaSccIIALA9M93qYi+6883B
+z+KtZXxpeNBBrEKbnW6Ubw96Acu0rmvLBADzX+MVLlD8qtaHSyVhWuF+dYwmy3UI
+Cr843jqWfaFrfmQQw6c7C3+4Bt9du23RR98cWfrJFHHXLOv2PbHIQRazpqjzjNio
+Asoo3lEbjUTV9zy2GeMViziVZDEQ8rWDDmq4ct2TfmJc7Vzwpa5anIvlamLBJo5r
+W1b8pmN8aTugreATpxShf6k0SDdV3Aavh6MjkGnFC6Nk/1ffyrk+09a6u8qwA1dF
+aDomz3iUY+I8buuizoV/feGIeSCA8t4yFTMisCrrQp2pZaOevLhrz7zEoYXzvjFd
+K255aiy5AQ0EVSiWTwEIAM169kSOE7FR5eZvtU6p3JRUl9vVCED5PO9yYfWvFCfA
+EPSZULLNswCihUHBSMCloTAGn0YnA8+N2+VVisA2qP0aOmJoRc53q9HVuBUuOhwh
+fXOf4fYbJcvJM7J0qAqfQnJE3qYEYlnhuG1vxtKzMD8Bh1/5W8Q6Q24GRbiSVP+L
+5r//9ZqIcHhd3l/JXJoTR+DsPjIKkF5Gsw1E79/yXQBWsOh1dxLzcte56zndzKnV
+4SaOZqd9N+qwPV9ZpXhHwuwraXvVfzTxcdfMFueib8p11TFJMUTUkf5NFyoKpLQF
+T/Qkc16/scFvOxHA8FSg6g4SJ4A04acIw8ctFDfs9yEAEQEAAYkBHwQYAQIACQUC
+VSiWTwIbDAAKCRDTqo2uwr12kvZWB/0UD7vju+I0WLMHHg1ffHmblofDuPEEGz1j
+vgNSdvhOMk5YjRJx6LwRtkjZ5L4uHJTddzS5eHEnqcxsrSEFNGWwoEkBT+9OftTS
+SAHvBr9Aoxph6mEBPO9HIhB9mpza7Lfpb0NpT2FHvt6Nggj7WZaXzyuRskFv6KVC
+uEIOp/UCwkYVrYCsyH1Ycn74iD3rbRqm1Sd/v3j8VTG2c6m+NIWJifKQ4MS/A2P1
+W0Ag3AOcF2MDwm6XfNuncGAojfAbVrTsKLE20jrzBMZ8SHWr1OsOS2d4rCrVDQB2
+rXo158e62mHFKIEfat43wTL9j1CuLkGqDzv/mQxTF9u+dlUgHkNR
+=RqNP
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

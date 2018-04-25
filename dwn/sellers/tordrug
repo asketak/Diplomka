@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GRYrjUzbcSzUYdQxPOCqp8H0ySomtdziZG4DgDk4J4Np9HCCi4RXNDPlfTVU4YHwdn9wyHlkZWtYP9corYk0Bw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/GDxz">Suomeksi</a></li>
+<li><a href="/register/GDxz">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/GDxz">register an account</a>.</p>
+</div>
+
+<h1>TorDrug</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 34 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+<li>Ships from: France</li>
+</ul>
+<div class='description'>
+<p>hi
+<br />The orders are shipped from France 
+<br />here in this shop there is no counterfeit</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFe9iNwBCAC1BL2mwxuy21/wGJc/3tzMVr8hx+tPkUzGMVSa2aGGtrBBqrVC
++NDkNm088fMO7SJd9VOAywDWPTvtGRkx+meg6mYzh7QcgEXK77j6d9yqipZ5MfVh
+RLWzKSNmF8vr053ei220fobrD5e76Bx+5vROIawBPb8K/j5HTbPlp+OC1pw1HaQI
+6i3jEWlqnN4PAeElNrpCwGpq4eBmdDOFaPX8ykrQj3hqKdRsuxz39B7dgiJK5Kh3
+Nvbo+rvWc3VvpIUfNfT3+iWgbCnWm1LrfkR5QaGW55t3IvxXZtY1Y9lW9RGjJxJC
+orOsXiH2tWsjb0G2FnLVgvhUSYgp5fxzHr8JABEBAAG0B1RvckRydWeJATgEEwEC
+ACMFAle9iNwCGwMHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRBiJT694Gx9
+YhDhB/dmvyLjxuWO0K1/NlywJDFIDDmTHeXfBSPBHMNDuTloudCgX3Vx/YoXdHMh
+uTHAUd1tx+lR4vQ8SiUd2NdJTQ3513xdBw2LHovAfiHiLgNRRReawCgwqR7oS9sD
+jVDBaxsKunL/KF0nqbxC1MC0HDEPGaGtLRLBjRppnVSJpZc2vPpieeVSu5lPiUcx
+j2t5KpMstZbALWtn72akdWz8gyNkxA1CagpzyVR9Tz7iP0WWIuCILZQumeTDeXkH
+RqLUZp5dKSlIFPRPTrnZDMHrO71BzGdxbDaiX50Q9onJE32sgw24svAcauhjFrEW
+iWiVDXf6o59GOlqwe0uHjKBFAbW5AQ0EV72I3AEIALlqvegfqoDOzEp/Z9R5i+Gj
+7iAtripPyL33+QDpGT1n1+EILXhotVbq/ZqXT9Iv2PJcuoMjTpKbiubguXBHIeF8
+U0rgryYU9u3rN9u5XuHc799Dm0TJP3lXS/QeBNP3NxLPuHzSQus+cVDxcdid8YfD
+TFCcKXIov/NKXUKvbuB3r/4rCb0wELaYSe9NjuE9Qyucv2TJSE+fY4mloU6hrcBv
+LBUMCxJh/eaTXUzg7QO7cR19h0kduMy3Zljr0ypKLsUrBlT7BqE86lmXzBj6EDcR
+xyldeWoC51Pt3kjqhuBMt0bPAbL6f0o+JwNbT26+4aQ1rbsAUyYldkzsg0gXTX0A
+EQEAAYkBHwQYAQIACQUCV72I3AIbDAAKCRBiJT694Gx9YpdUB/9CMllEIHaVSaqE
+8bUpMPfpUTQNv8lbULqHZGU4KyhENsUuZEDV9WP0BLs6efNTcGnV4Ju7J03l/CKi
+PL5rBu/hvTy4MJDm6n3nJsUNgwK5wL+qRnTASAAZhKskskMWXhlm9cE/Q2LYa+DH
+2GmIMMQdIEKS/41T9PhZ28ql9hst/detvlU/WOmgJS6HQJTG6c3Pfp7MiyVmifYb
+KmDrF1F4n6xm40dboHPqZM7/MIz6MVVZOC7Xj2/wBllpKQaklpKC9TxSUZM42GyJ
+HN7IVLp9aTyZdBwgSgmo7rQhUON6IGQU+Je1B0tTimmGP9vqhBN/4sKbsSWdRv+U
+yDqV8JJS
+=bUxX
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/91197"><img src="/kuvat/tuotekuvat/b063e698ceb96d7b107892598f9725bea5f3697b.jpg?1491055288" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91197">1 PILL ROXYCODONE 30 mg</a> (<span title='21 USD'>17.2&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91201"><img src="/kuvat/tuotekuvat/67209ec646273a8a80fef3a6b31413b2689e51d1.jpg?1491055071" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91201">Cobra 120 sildenafil Tablets , 5 Pills x 120 mg</a> (<span title='18 USD'>14.74&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91202"><img src="/kuvat/tuotekuvat/43c1d37df8b21370b469f651fa5cbb8aa2ac3f7b.jpg?1491054987" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91202">Tadalista Super Active 20mg -10 Pills</a> (<span title='16 USD'>13.1&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91205"><img src="/kuvat/tuotekuvat/fcf5d9d8495c381b9d05ad77caa0ef5a2ab8f66e.jpg?1491054911" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91205">Sildigra Super Power- 4 Pills</a> (<span title='16 USD'>13.1&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91200"><img src="/kuvat/tuotekuvat/a050165ff406105904bcaaf34550e533678fc761.jpg?1491055129" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91200">10x Modalert 200mg (Modafinil) Pills</a> (<span title='21 USD'>17.2&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91195"><img src="/kuvat/tuotekuvat/8ff9dadc5ad1af72eb60a7124f9098a503171d8c.jpg?1491055493" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91195">16g Afghani Marijuana </a> (<span title='177 USD'>144.96&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91198"><img src="/kuvat/tuotekuvat/eba1d0b2d0285075c77592afba877aaf340e441d.jpg?1491055244" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91198">2 PILL ROXYCODONE 30 mg</a> (<span title='37 USD'>30.3&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91193"><img src="/kuvat/tuotekuvat/517a73e3e2783658949a8f159a0169a9710b6da8.jpg?1491058299" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91193">8g Afghani Marijuana </a> (<span title='93 USD'>76.17&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/91187"><img src="/kuvat/tuotekuvat/bbbcd4cc7132838ee3a97c098fe7e1f0231e6e20.jpg?1491058272" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/91187">4g SUPER HASH Marocco</a> (<span title='36 USD'>29.48&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/tordrug/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

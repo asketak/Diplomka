@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eF83lu3nLi13q2SLyshtAJ4RuvRzrbTsCdQ/G2GSJ7lg2j1f2s34LZF9xjlNt+1rQWsx00qNlVTCkGLodJm2Qg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/n2Lb">Suomeksi</a></li>
+<li><a href="/register/n2Lb">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/n2Lb">register an account</a>.</p>
+</div>
+
+<h1>Stoned100</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome @ DrugStore by Stoned100
+<br /> ==============================
+<br />     ***we speak english &amp; german***</p>
+
+<p>We are verified Vendor at different markets.</p>
+
+<p>Dream Market
+<br />http://lchudifyeqm4ldjj.onion/contactMember?member=stoned100#shop
+<br />Outlaw Market
+<br />http://outlaw2kyxddkuqc.onion/index.php?vendor=Stoned100</p>
+
+<p>==========================
+<br /> == GENERAL INFORMATION ==
+<br />==========================</p>
+
+<p>– We ship from Germany to everywhere in Europe
+<br />– We use business like envelopes with printed labels
+<br />– We pack everything 2-3 times vacuum in safe packaging
+<br />– We ship within 24 hours after we have received full payment in bitcoin
+<br />– We do not store your information for longer than necessary
+<br />– We send with tracking when your purchase is more as 300€
+<br />– For small Domestic orders with tracking we use Deutsche Post Einwurf Einschreiben
+<br />– For small Europe orders we use modern rfid chips to track your order
+<br />– Because of that we can track your order without signing
+<br />– For bigger Domestic / Europe orders we use DHL tracking (signing required)
+<br />– For security reasons we do not give tracking codes to customers
+<br />– Always use PGP when sending your address
+<br />– Write your address correctly </p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFaiL1sBCADNb2mvXqqsdMDSxMtQkAxSV72wA5jKsbMVQxHgFZ3rODFH8ODV
+O2NcwiobPEmJA3O9R3HSZfaHiwidQ8WuD1OTdsjI5Axxf6aYs+2rmfn87mPqyPpX
+IaKP83U9cuOQRJDZL+4KAAylitl8VBIWPRBlQx89eGyo8giD+PB8zEQrPNEhrNi9
+A1fe1yUBsxQXSS1Rt6Mp2VO5OubyCzs2diK0SnQiRB8HSC72gaU1IjYV0pfLhCWZ
+iPEXKqcz7dvtnX5dOV5ow5N/bWkMsHicjThmUDdrOL8UKkfsorLYQjnP7N/tVqVc
+P4R63fboLvpMvkHw3zAR99qlaCAD55agoFVHABEBAAG0IXN0b25lZDEwMCA8c3Rv
+bmVkMTAwQHNpZ2FpbnQub3JnPokBNgQTAQoAIAUCVqIvWwIbAwULCQgHAwUVCgkI
+CwQWAgEAAh4BAheAAAoJEPEYCh6JHm9nu2wH/0sMImmPynlNkNN1BxZc+/nYvwv9
+ZL7I6qz+1TZrr6TmDcjGdgApAL7PXXR6VCrVd0ZymVqsc3LBWX0vLC8+LPQB30iS
+r11jIizizfHg4GZvnVBAwsJ+wAZb7NG4eqZMjKqG8E8r8R4Vw7kWEsuvi9i9cvP7
+KJ25PIRhLdejcmMVRD8gZR7Fx8AELGMv7sp1TOl0U4CcqsRr4zL+e7zozkXR0KuN
+f4SoOz0MvBUxBpelEblWFWtcXHN2sUBx3ib5NVhEzGJrApKDmv/ODjY+vyVkk1Dp
++DVxF/9auUSAQHR76w8tdyYxi5ILYdM8dvAmlldCiVchBgfMmdhqw0cZop25AQ0E
+VqIvWwEIALtszMZTKDugmGsgw2iSgGi2ZOX13iy9Ww54i5B7rGTYP0II3SRX64Lf
+Y6pMoSaFyae8pWLV9TWTd0HmSa8N72utodKM+1AcGNDU5IVxE5Mm0M8hafsoZARL
++Wi2SZNi9apXXayz176EXwHP8Bg6T8hBhSqLEfFOhk7oVEWN+BYn+djzrC2Qckcv
+kdfNWBvU0mm1yF3reC187jBe4myS+XOmX4ltTnT3PJj7GZIpg9s3nj8P4/2IvfsK
+U9NNi2tkEe8TKnm+DvYbAKgSSmzRgQZfhVwCOh5h0SS1+S89fDIkQqTrFxkMVOMT
+Etlb9uzKHtBop36Qfvev4mD8DLFmePsAEQEAAYkBHwQYAQoACQUCVqIvWwIbDAAK
+CRDxGAoeiR5vZ/TTCACmTHZpp6xIVGCxqVi3TxN3AHPz6BHOERyGqm6MzywD5A9n
+lwM7n1n7ENqCgnzpztqWZ37G6VFVQT8AGSjbEPc6DbXKRcaSy/i94khzYAugjSoR
+qVfc+H79/aYN9JzxLHr6xPq1L2Rl5NmOOIY/VnKdmRgy6u4Umvc2NmD1lPCJsQPQ
+9iIE+E1hil9wNwQPbP3a2+ZM27MxiWi1bT9E+O7/hRSY7iL9+t5i67yykpC8y53v
+FAJz+vNvM/qQU/ZVLi2/T8w4mXMHRgxDRgXRZaryjKhj0UoayzgtBD7H6oydot87
+kAmPFIVofbR2COgOs7QcFQtifBMuTGWZcoYU/GkU
+=s+0X
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

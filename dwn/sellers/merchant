@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Hn1zBqrs4BjKgAC0dn5G86Q+l/FVmo9zSrIBBInLYmy+RWeh+HN+GgGVaSEGQy1p2dBkf/JeTDSuBbi16aPKYA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/sSQr">Suomeksi</a></li>
+<li><a href="/register/sSQr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/sSQr">register an account</a>.</p>
+</div>
+
+<div class='alert alert-info'><p>Vendor is on holiday and might not answer to messages.</p></div>
+<h1>merchant</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>308</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-35</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed</li>
+</ul>
+<div class='description'>
+<p>HELLO,</p>
+
+<p>OUR STORE IS ON </p>
+
+<p>VALHALLA DREAM-MARKET "MERCHANT" AND ALPHABAY "ANONYMOUSS"</p>
+
+<p>✔ ABOUT US </p>
+
+<p>We are a small store
+<br />We are not here just for the money! We love what we do, we want to offer you the best possible service, there are several products and different quality.
+<br />Our client is our friend! We want you to be satisfied.</p>
+
+<p>✔ DROP</p>
+
+<p>Please try to send us your address encrypt.
+<br />Get rid of your envelope discreetly.
+<br />This is for our and your safety!</p>
+
+<p>✔ PRODUCTS </p>
+
+<p>****EN STOCK****</p>
+
+<p>Hash 00
+<br />Hash RS
+<br />Hash RS L
+<br />Hash TOP
+<br />Weed Lemon</p>
+
+<p>If ever there would be a concern with the stock we will offer you the same amount with the matter you choose</p>
+
+<p>✔ SHIPPING</p>
+
+<p>We ship all orders within 12 hours. Orders placed before 3:00 p.m. shipped the same day!
+<br />Sending worldwide
+<br />FREE SHIPPING FOR EUROPE
+<br />* Priority Letter
+<br />* Sending followed with number
+<br />* Sending against signature + tracking number
+<br />The substance is sent vacuum for added security !!</p>
+
+<p>✔ ADRESS</p>
+
+<p>NAME FIRST NAME
+<br />123 Street name
+<br />Postal Code And City  
+<br />Country </p>
+
+<p>If it does not suit you send us your address as such in your country.</p>
+
+<p>FAKE ADDRESS DELIVERY IN DANGER !!</p>
+
+<p>✔ REFUND</p>
+
+<p>The store refund customers 30% for shipments followed or against signature and 20% for single shipments
+<br />Exeption new on Valhalla. Account with 0 orders
+<br />We are not to rip off the customers, which are sent all our conduct
+<br />Thank you to free bitcoins when you'll see the package</p>
+
+<p>✔ FEEDBACK</p>
+
+<p>Thank you to leave your review on our page.
+<br />If you ever have a concern vener see us before leave a bad score for resolving the concern</p>
+
+<p>GOOD SMOKE SEE YOU SOON </p>
+
+<p>MERCHANT and ANONYMOUSS</p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+never get the shipment, wait a 8 days. wasted money for nothing
+<em>(13.4.)</em>
+</td>
+<td>
+<a href="/products/68396">2 Gram Hash &#39;CONIFER&#39;</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+4b***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€25+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Nothing received, nothing replied to my messages.. 27 days ordered...
+<em>(1.4.)</em>
+</td>
+<td>
+<a href="/products/61154">1 Gram Hash &#39;Peace And Love&#39;</a>
+(10&nbsp;EUR)
+</td>
+<td><span>
+zo***ie
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+</table>
+
+<p class='all_feedbacks'><a href="/merchant/palautteet">All feedback</a></p>
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.47
+
+mQGiBFUa0mkRBAD0rIIvU81UOPUAx1NlIQZ0pWk8wE0ItDeEX4J9wCF99I000nBd
+ZQtS+Q/P1mn9Oi3PI+xyeAA6z2fs81MyjyjcUHESN5jFyAq7CrjpPAnqI512xFh9
+cCALIS4oy/J6JB0I1DRSc5Xx9Tmok66qy5kzIm1RYJFOfmq3ey8DJSfxdQCghqtF
+FLV78roE7dXruEL48Znt1gsD/15mbyExYtZ1eqRdHNZhnq7GqPYYz/c/nMWh4hT4
+wB12J0pQRvrOPu2tJeG3wMd9vlc4Ye0Q827/ajFnRxRPPDKLYqMM3+9mZTTMvF56
+BalVeyRWETudGmuhB459HdVa3ppEcU2zbvVEctsj05ZIifaNhlVH1qwt7tiy5Dm7
+e5EoBADpv961/QDHsMGYHj2mMf8JxHVoxj5AzkK6k+nHAdxkTytD+NJ1hn+VGKzl
+YQ1HV8ziNaH9KLrerJNRBm2xV++jcCEcm16iNOQ+Z88WrboPicJLpoOEXLs5g2PJ
+EKgTHHQteUu3M07p5uKqNSoCUeNhXTgWM6ivlfE5gNgjwDyvobQeYW5vbnltb3Vz
+cyA8YW5vbmhxMkBnbWFpbC5jb20+iEYEExECAAYFAlUa0mkACgkQoWKcRVo2AwUk
+PgCeKYaYGP8TLN33SS+e4jJ/1dLN7ycAnRBE2nUeqHFIuihDB1dhYgrGpbIfuMwE
+VRrSaRACAJSU/sCV87he4oZUKzg2/IGl3QoDSbTCOd04dE1IjPjjHbi8t9M7Qau5
+5aM8ypFEsc7zMslL8Fc78EejrKmM3zsB/RU9XWFyrbQwRbaK6OHeEHC2E3AFaG0p
+09c6d0kZloHuWyEsm5a/3PpbIM1eP9IESJXWCc+bQQt6DxLKHLmkKMwB/2S0xrvE
+Vt+riZoQEB1i9pYvKGsK6l3QBSRJH/MEmhEscG3UsQ2UUhCialjD+Ag3LxOvzbag
+7w58a0Q2bpnPChOIRgQYEQIABgUCVRrSagAKCRChYpxFWjYDBZgeAJ9BZZeQoYd+
+mJeW2eiQUYMMmph/cgCfZiW8aczOecxKt7E5cuHZzgiuEmI=
+=vR9m
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

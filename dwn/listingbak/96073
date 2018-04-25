@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JD5NJdAh7S66g7IrLwLwe6WOh1XyIImbWTL4WB+uWPnpmgO1ZMZNJvlGt9ZDfjRvVJQhZ8GBP68e+qrJQhh97w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/bbd66d0a810804b01d7344de49ab7fb8850b10e1.jpg?1498733623"><img src="/kuvat/tuotekuvat/4910f325a84386aaab916e05217d410e432f6f87.jpg?1498733623" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>Dextroamfetamin 20 stk 5mg</h1>
+<ul class='list-unstyled specs'>
+<li>99.49 EUR <em>(0.012768 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/norwaystims">Norwaystims</a></span>&nbsp;(<span class='green' title='Positive feedback'>54</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</li>
+<li>Norway &rarr; Finland, Sweden, Norway, Denmark, Iceland, Estonia, France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RDObhz0Do7CSJvZxmC1A7K9sF/PM2pnWEbK2GTmUf0KJl9UXieQDuNHj84z0UYT4Xnaxwf97L+JWeuSIZCJaVA==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="654241">Domestic (included)</option>
+<option value="654242">Vakiumpakket 20-40 (+5.18 EUR)</option>
+<option value="654243">Vakiumpakket 40+ (+7.25 EUR)</option>
+<option value="654244">International vacium and sealed (+14.51 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="96073" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>Jeg tar nå i mot bestillinger via epost på: stimnorway@protonmail.com </p>
+
+<p>Dextroamfetamin brukes til å behandle ADHD / ADD. Dette preparatet må brukes med sterk varsomhet. Produktet øker dopamine i hjernen som fører til økt fokus og stimulans.</p>
+
+<p>Bivirkninger inkluderer paranoia, sterk angst, og i ekstreme tilfeller psykose. Jeg anbefaler kun dette produktet til de som vet hva de holder på med og foretrekkende prøvd produktet eller andre stimulanter med samme effektivitet fra før.</p></p>
+</div>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A+
+<em>(29.1.)</em>
+</td>
+<td><span>
+kj***lj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A++ Bra vendor!
+<em>(9.1.)</em>
+</td>
+<td><span>
+kj***lj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(29.12.)</em>
+</td>
+<td><span>
+Va***e1
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Anbefales
+<em>(21.12.)</em>
+</td>
+<td><span>
+cu***rx
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Bra!
+<em>(21.12.)</em>
+</td>
+<td><span>
+In***t6
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+:)
+<em>(11.12.)</em>
+</td>
+<td><span>
+wh***ng
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+A+
+<em>(11.12.)</em>
+</td>
+<td><span>
+kj***lj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102819"><img src="/kuvat/tuotekuvat/aebd9d767bad256630fee873c76ded6e1b044e14.jpg?1516406323" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102819">❤ 50x XANAX S903 ★ 2mg  ❤</a> (<span title='110 USD'>89.52&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/75752"><img src="/kuvat/tuotekuvat/d11475cb02c38263b64ead4384934759bf068e12.jpg?1481709224" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/75752">100x 2mg GG249 Bars - Xanax/Alprazolam - FREE EU Shipping</a> (<span title='90 USD'>73.24&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/juno">Juno</a></span>&nbsp;(<span class='green' title='Positive feedback'>352</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-24</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/38078"><img src="/kuvat/tuotekuvat/67ffaa017ce9f2bbf89fc66edade2d84d2276671.jpg?1464325508" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/38078">Ritalin 10mg by Novartis - 20 tablets</a> (<span title='65 GBP'>73.96&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/fatsam">FatSam</a></span>&nbsp;(<span class='green' title='Positive feedback'>1295</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-15</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102237"><img src="/kuvat/tuotekuvat/24cbd5f2a8cd9e3aee7187dee4cb03686aba1cf6.jpg?1513886905" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102237">50 st - Hemofarm - Lorazepam 2,5 mg - Apotek - </a> (<span title='900 NOK'>93.28&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/drphil">DrPhil</a></span>&nbsp;(<span class='green' title='Positive feedback'>45</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/99977"><img src="/kuvat/tuotekuvat/8859f89c4619a3c6c9b0cf42f9491c8ac5f7c239.jpg?1519033524" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/99977">rivotril 2 mg 100 tbl</a> (<span title='1050 NOK'>108.82&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nordiskeapoteket2">nordiskeapoteket2</a></span>&nbsp;(<span class='green' title='Positive feedback'>222</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1500">Pharmacy</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1506">ADHD</a>
+</li>
+<li class='active'>Dextroamfetamin 20 stk 5mg</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7796.7 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

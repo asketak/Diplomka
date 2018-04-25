@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IErQo7nKUvZcbf1g9W7Mie8i7/gS8ui3X4JAjbHuOtABJfgu8V+YGMkwNFweYMvBFNivpWnL/gbhBCtPv2eZ4Q==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/roor">Suomeksi</a></li>
+<li><a href="/register/roor">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/roor">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>highway-to-hell</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>521</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-10</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>hello,
+<br />welcome to our shop. We offer here all kind of partydrugs.
+<br />We ship from monday to friday. Order arrive before 10 h 
+<br />will be shipped same day.
+<br />Please send adress correct.Don´t forget Country.
+<br />We have very good stealth to make sure, your orders arrive
+<br />safely.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFccHdABCACVJEzESplZ/SqdACfZhKa32iCRm+Qb6FEIKFeg2nTarNhtCeOL
+KkfIUpAv3hgCUjnrsNBWnWckNFdb5yaZ2dsUZMDl8eePGWPJIKh5JKQeZ6om8QDV
+hkSM2jxFsqsl/z1rMWDzf2Rk4Ukot/FM3qOl67SisbL4Qw2+1UYHnrJhcVg+c6gR
+H3hIOngCe3kZUVVAOahDQqzHLHhOvnbcNBxih/FLh0+Mtf7OufaPHJhjzOR0HDEc
+dVXQLOU+wuluSbIsZOrf9pZUs10kQcOcS4jD/5zSsV9CSIPcaV4X6fXlgMjaEwWN
+xJy6UZvkdoPUR9PZZ0uCHKLAqvm5BsLRD8q5ABEBAAG0GWhpZ2h3YXktdG8taGVs
+bEBnbWFpbC5jb22JARwEEAECAAYFAlccHdAACgkQ/FU50g+WtY78RQgAj4vCv4oD
+6bOJFw2JeFFSZMOnoFOJgJQC2cqXG+xLHvB9ljrZPS2LUEb1h9Xjejs/OTK8zs1T
+wcqQfD6npgw4ucivNaq3qYAKCT+KaianYC5JXqFQC0n4kIDnXlrhU0l0rCJtf3CO
+nCOqzd4HtLPrSC8fSG9ZCegnNAfulBXMjm7emfzX1l5GZHudUlx3SwDszRNrJkXh
+gGu4zieHuOL5nLjOFcfPf+pAGW88JauLg8grFkpWBQK7yZVS8+b2CdIUu7b89J5P
+uRO/k/yJj7aD5i/fsiX6kKHZRTnfIWqJMlWnWkq1b6piznaNsLLNkI1G+A3YoNXq
+tgoctF4gXAEIrg==
+=bRPm
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

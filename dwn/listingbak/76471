@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iUt50aLCs1ZqIXPUYXotC2OBSUhISS5yB4iv/bFrTMlE7zdBFiUTXinkdikNBukfkpvvenvomEZAQP1s7N1p3w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/1f31e4a17f18b052809b8449612d2d225c7b484b.jpg?1482033029"><img src="/kuvat/tuotekuvat/7b73e77f4df4c3e5ae6ddd1fcacd14a1973ae3e0.jpg?1482033029" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>SAMPLE ★500mg Diamond MDMA Crystals ★  94%</h1>
+<ul class='list-unstyled specs'>
+<li>32.46 EUR <em>(0.004187 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/dhlindia">DHLINDIA</a></span>&nbsp;(<span class='green' title='Positive feedback'>0</span>)
+</li>
+<li>India &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8piw8RlDaWibbcapxUomX59/L6/Q9y1h6I2mctu8VNk/PP5hraTJYNiow1SpNuJLbmWJneNWm1WvRfTjhgpxzw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="379010">Domestic - UnTracked 7-14 Days  (included)</option>
+<option value="379011">Domestic - Tracked 5-7 Days  (+4.06 EUR)</option>
+<option value="379012">INTERNATIONAL - tracked 7-14 days (+8.11 EUR)</option>
+<option value="379013">DOMESTIC OVERNIGHT Delievery (+16.23 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="76471" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>SAMPLE LISTING
+<br />94% Pure MDMA,Completely Transparent Crystals, By Removing All Of The Organic Impurities We Can Ensure That Your Experience Will Be The Best Possible
+<br />Purification Procedure: Two Absorption Methods And Triple Recrystallization
+<br />Limited Amount Available</p>
+
+<p>★ Dosage</p>
+
+<p>1) 50-70mg - Enough For Sensitive And/Or Low Weight Folks. A Nice, Mellow Experience For Normal Users.
+<br />2) 75-110mg - Typical Dose For Average Users, Who Had Previous Experience With MDMA.</p>
+
+<p>Be Safe With Your Doses.
+<br />Use Half Of Your Regular Dose.</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/102189"><img src="/kuvat/tuotekuvat/e0183283d2dcd8b04eb5b844c527545cd89a9bef.jpg?1513222750" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102189">❤ 1g MDMA ★ HQ CRYSTALS ❤</a> (<span title='55 USD'>44.63&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>470</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/96111"><img src="/kuvat/tuotekuvat/d3f061558d82f3248671a142b4599074295ebba3.jpg?1498743895" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/96111">25 X HEINEKEN XTC PILLS WHOLESALE PRICES</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/pachoherrera">PachoHerrera</a></span>&nbsp;(<span class='green' title='Positive feedback'>2363</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-67</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/23246"><img src="/kuvat/tuotekuvat/aa4b0a7b7e615da2d20e9d09f7d36ca18f3a4f94.jpg?1455972443" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/23246">25 Green WhatsApp XTC pills 160MG</a> (<span title='63 USD'>51.12&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/mrsniffer">MrSniffer</a></span>&nbsp;(<span class='green' title='Positive feedback'>582</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-43</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/98355"><img src="/kuvat/tuotekuvat/e97349dea44c6174d634ae43dd2a4ddcb0f68694.jpg?1502846032" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/98355">5 x XTC RED LEVI&#39;S 250MG</a> (<span title='32 EUR'>32&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/weed-depot">weed-depot</a></span>&nbsp;(<span class='green' title='Positive feedback'>36</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/97867"><img src="/kuvat/tuotekuvat/5c30cb76fcc878777ef02096df7454880af05780.jpg?1501956602" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/97867">Coca Cola MDMA 84%+, 10 Grams FE </a> (<span title='48 USD'>38.95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/amsterdaminc">Amsterdaminc</a></span>&nbsp;(<span class='green' title='Positive feedback'>5040</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1600">Empathogens</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1602">MDMA</a>
+</li>
+<li class='active'>SAMPLE ★500mg Diamond MDMA Crystals ★  94%</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7752.16 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

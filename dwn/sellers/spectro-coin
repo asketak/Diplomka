@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bmJxsPUdQkc6hWL2lZxeUWzzUgna+W6tyynN09iXxqKDFkW5lMYTYM0LaFt9qohzzdM8hKClBaJoAb2/OK46Cg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/raPM">Suomeksi</a></li>
+<li><a href="/register/raPM">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/raPM">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>spectro-coin</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>111</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 2857 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to my store.
+<br />We send our products from spain to worldwide.
+<br />The best prices available, We will match or beat any other domestic price.
+<br />We always test our products in the Lab before we offer it.
+<br />We ship orders within 24 H monday-friday
+<br />Packages will fit through any standard letter box.
+<br />Our Stealth is very high. We vacuum seal the product and cleans the bag 
+<br />with alcohol and use two different gloves when preparing packages. 
+<br />We don´t offer track and trace, means you must not  sign the order.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFcDy1cBCACiUICvQt/lg24vCG6wodGL/FthC2vFYGFom23B3XbvFr3VdGe+
+gWM3EvTR5QAgq7yr0eAnz+PJq0lPtwDGP18MQJrAq1XCIh4yCYqtu1Aa75B+NcR3
+nzrP70xZsx1evRGHwQF+LtqzTNkiFxtVu972K5JWfNX+Tvm4M+ywCJI4NT3XMl4J
+xI+2bvQDHCvJOBS6oZXu0hRnaWFft6hPJ8WnyH+hHPUcy6T9Oi0VWd6NAaLLErEK
+w18YiXky9GeZMC7AuohfSE/oTLils34xL9GS9XGirLPCY+2m3CreGh4NzLXpOrAv
+4sz6/XRM8+KZrQMt+0ycfx7d7PogPlZaBLZZABEBAAG0FXNwZWN0cm9jb2luQGdt
+YWlsLmNvbYkBHAQQAQIABgUCVwPLVwAKCRCSmB8qmoljuJkcB/0V7UVCoh1+Thr5
+45N2MKaieFfXtJNl/dOXzLs1Z1vPQsbXxNtlwcOJMfQ3hgqCPWs+2R5bz16HHzWq
+mwcOG5oWU6lEQl+FG3BpC/+xpF8AlT4bcj4NaCRdUFY+3EZlnOwm0s3JXXvROcBo
+fM0EKIMIjH8aVs44y6qZpOsKQC7O46OEmc74B7KjY6Cu1xHl8gtgR4+mgGM+d9qy
+QQJSZjIoTg7NulI3SaKjBm4XetdwjMFSGqTJl5FiVXddhkaFtHFYPrpLj2fhJVVx
+VuhBR7aKdHsaG7UMwKdONbv3asnG/gGhBj7R9LFa7RBIayXH5sXntiGfV134gOwe
+2Mzvts75
+=FfsL
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

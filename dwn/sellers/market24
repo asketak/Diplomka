@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RFbCASavrqW0vs7PH2SaeWVNTUyLYMZA3ZftgPQMgj9ZKtWpAVFR69B1PQP8K45+EFanHWx8J0qvH74TNTDTwg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/5apN">Suomeksi</a></li>
+<li><a href="/register/5apN">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/5apN">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>Market24</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>8</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-2</span>
+</li>
+<li>Total revenue: 1507 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We Market24 for AlphaBay aswell...</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFaqadkBCADhJXp4gJhSnEtE9bJ0h0GBwHVLWE5fVo+K8Y1tIuKeQV10oQlb
+niGNWIKgKkLnBmu/kDBPcHQbugH21HS5dnlAnOn5uYOTyiP+VSptPtVbDGaHbEYr
+PL9mOrhBl9Hje5i4sVakk35LCB1TgsbQkUBAE7gWNFVS4LGlHkd5r5Q7N+Im3oIy
+60EfB0o6S7bdZoWi9S7nscqPTbgBqofp/xjQ/+aQPIT+p8XZ5KUcUtGU1F9tg2PZ
+VOniJrPrtLL4qHDuUga5YydyJhe3pUc59xOfZ93NGkxoIa3Sz/DyLs598Wvo2n1a
+zG08eS483zmBceFmFsymKOwOQESbatQT8xJxABEBAAG0B21pbmVyYWyJATcEEwEK
+ACEFAlaqadkCGwMFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AACgkQugIKIA0iY8az
+Uwf/cO/YQ7j83eY+/3lIgDBpRTgdfd9qLlHF6VmZVMowvLz4IVSPQasxch89EBKM
+5TbnhhBJrt4GSQLdI5czLVZCK0nlj/UhA5ND5X4wgqXXJw/bWPBXmaDHISXmw/16
+lwQ1bmgZkyCWmarxI7h51lJcgDFSTNBYqVRcdoInjoALiuanEIiNO0aVbRjeUTkC
+UO+KlxBrSqwRSTg5ybtlF+dzaKYAU1Z/z6AZjvmgR2SAQU1WNwt9Hy0cXaA5t6js
+8b3B/zoICOut50zL8GNwtyjvtlSUxpvxuFJL7joTIgs/WIDXSskIrl49Eb2yYVyo
+5+btPeU+2a1yJSpkEmA1OcvrB7kBDQRWqmnZAQgA0afagZbUv84iiZcb0t5xdu7f
+bIl7TXJM26L7hIWUd0OmPzHWmgtWUIpWp1DcFUXwmZteIltSHl/zYYiqZEMcOHnN
+PqhhmMPNP8R9xoyTXRd4U7tKcWoWKlVzlJnVylWig18/1DIGhww++YcZmBtm/ySS
+ZuY36T+zjxdF3SwNJaU4D2obNZPStDQP513RRo4Ift2Sk7+D1AmkqEWzQB7oWSO1
+lLZ9ihl8otJ3yUoNNgusupzwDHLIPuH1PO8jh5T+tW/9DmQ5rlWWs+wKvrsDfbMB
+cj/sOaSYzin3R/6Sg75NAGtc91yS/8AZ0K2DYO3HVmPo0/4t/1PPItVOarnXDQAR
+AQABiQEfBBgBCgAJBQJWqmnZAhsMAAoJELoCCiANImPGn/AIANx2qlGrOR/ghPH+
+1bWxbqI/e7TNfHbVroku5yrv34wyNz5Ks4Oj31l2OIoHyIDzVnn78n1auK3e+AqK
+NdJJwxFSRChLlGHo1HIjD3WrShwzmd17CPkJ/3wOOPnb40+7jqk0oXPZHSZXWFc+
+1KCjBlCArrRxJwh6zbZLs/6T3GXoOjBviupAWkAraMAcOKa7IhX0HESs1NcmB3qK
++InpfTeGXUhiXdOnVs2pePoR0qSTFpaAUleW3gRZ3CP5t9A3LRhOevLdknxbzOok
+Dcdmul+ZDVv+Kme80R5UgDtOaCTgyiAgQHboqpRGSsaBFuGS7QBDK7RfWdR13WMo
+VF6/10g=
+=Obiq
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

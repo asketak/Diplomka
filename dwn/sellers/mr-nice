@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sVTYsTMaD42t+PZFuPEooLld36QYCSIp+D1+uTdkYLJ8JMygx6XXF0UKxiFo8BJDxA4H8anKjoFpXEYjL+vjrw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/s9U2">Suomeksi</a></li>
+<li><a href="/register/s9U2">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/s9U2">register an account</a>.</p>
+</div>
+
+<h1>Mr Nice</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>99</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 5330 EUR</li>
+<li>Last signed in: 2 days ago</li>
+<li>Finalizing early: Allowed</li>
+<li>Ships from: Finland</li>
+</ul>
+<div class='description'>
+<p>No niin. Ei vittu nostot toimi, kun tää ST on jonkin automaatin perässä ja eikä mikään toimi. Minulta voi tilata  tavallisella viestillä ja maksaa tilaus mun toiseen bittari lompakkoon. Sit kusti polkee ja posti toivottavasti kulkee. Näin eteenpäin kunnes on päätetty mihin siirrytään.
+<br />Mr. Nice tarjoaa vain Suomen apteekeista hankittuja lääkkeitä niitä tarvitseville.
+<br />Nopea toimitus, ja hyvä paketointi.. 
+<br />Myös hyvä maasto kätkö H:ki 16€
+<br />t. Mr Nice</p>
+
+<p><p class="all_feedbacks"><a href="http://valhalcc7xestduz.onion/palautteet">All feedback</a></p></p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+gPchSLcArJmKqWXjT7+MKUwEAA==
+=uRxm
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+<div class='col-xs-3 product-gallery'>
+<h2>Most popular:</h2>
+<div class='thumbnail'>
+<a href="/products/97172"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/97172"> 5€/KPL  Tenox 20Mg  5KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='30 EUR'>30&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/93711"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/93711"> Maastokätkö H:ki 40€ YLI 50€ tilauksille</a> (<span title='40 EUR'>40&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103560"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103560">Pregabalin ratiopharm 150 Mg  14 KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='70 EUR'>70&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87769"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/87769">AITO XANOR 2 Mg 5KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='55 EUR'>55&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87772"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/87772"> SIRDALUD 6 Mg 20 kpl    HUOM   KATSO MUN SIVU ENSI</a> (<span title='45 EUR'>45&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/87770"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/87770">5€/KPL  OPAMOX 30 Mg 5 KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='30 EUR'>30&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103908"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103908">Concerta 18 Mg 20KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='105 EUR'>105&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103907"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103907">Concerta 18 Mg 10KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='65 EUR'>65&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/103558"><img src="/kuvat/systeemi/medium/puuttuu.jpg" class="img-rounded" alt="" /></a>
+<div class='caption'>
+<h3><a href="/products/103558">Concerta 18 Mg 5KPL   HUOM   KATSO MUN SIVU ENSI</a> (<span title='35 EUR'>35&nbsp;EUR</span>)</h3>
+</div>
+</div>
+<p class='all-products'><a href="/mr-nice/products">All products</a></p>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

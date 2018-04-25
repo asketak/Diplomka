@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sVcnMd24tU8REBOKbr9PSjXvp4BQiuyhRa0i8nNrOHiqn9Eu9f8HKqJO7vrhEHFhCzkltjQsq/COSM1TBH+8yw==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/PcsD">Suomeksi</a></li>
+<li><a href="/register/PcsD">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/PcsD">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>darkdope</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>131</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-5</span>
+</li>
+<li>Total revenue: 4043 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>hallo folks
+<br />willkommen in meinem Store. Ich biete diverse Drogen wie Hash, meth etc.
+<br />Alle Produkte sind von mir getestet und hoher Qualitaet.
+<br />Ich liefere von Montag bis Freitag aus. Alle  Order bis 10 Uhr werden am
+<br />gleichen Tag versendet</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFaXomgBCACYJW57uZQ/o9VwDdCUj5CcnVTBRtR10Jjh/VGzM4y3reNI3FqL
+A0hnbLBGEKZrMib2LvfMCLtoNlDogORjYwHnGvBfOHM4YApkKWNaVS+RMNhdvCCR
+/rkuJtmQ38Uk/Tm2q9ouocO8ijQ/koG4p/1mVLxJZMXldg+cxMCaghUIysBgVTYx
+pB10ImKevIinbgAjA7hvE6q0UYAdWr9IyLcbYqTtQAa4obgM7M6EOfwICKQkjusH
+orchY3Xr9oNttF1bR28p3roPl71db1awc595ENs24AxVjg1L6o/j3FbguJvTJz1U
+/CLfqqokO85vrjxSGxksk7PcDcRL9vv0A1HjABEBAAG0FGFjaWQtc3RvcmVAZ21h
+aWwuY29tiQEcBBABAgAGBQJWl6JoAAoJEKb8HNckBXW9vjgH/0zA/ieXhnAD7AzC
+SWzkH00sJi+e5A/GmLAO0MukDY/IL15W8kOHK73FUy6ngWFC3s5HGPtGPMs95Wvs
+bfu+fkQZzbow0acd2lXSKrx3QW3sH3iHh7yIXyMmJ77aCPTCjvyG3e9dJswa2D6r
+U1EGvCXTAFOFCPozVH4231MWv8OLDd9I6sLDDjHR5NLeALWWPwBb4FjQv8UyOP1C
+7CTG7YIM3Bp3qTQG09EmCy9T5LU9J/09uepwhJoDdixOwdxs7ZRoDikAHebgJ30g
+27y48sDbPwO8G4qu63rdNvFsRu7aEj2P1m8RtCEbOqlw6JKGTX/mNz5m/+SlADWH
+gNo2lpA=
+=OvDL
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

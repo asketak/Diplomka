@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4+PA9yxnsQtMwkLEkTi+k7172Hl0U2zoj86cyQ7JuOEuR45nmIARAw8HRzn9RHqHTGF+S0fy2tzIBs5YU3+d9w==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/0d8f8e979d4030270db9ecd54c1439c6d9440f5c.jpg?1517135477"><img src="/kuvat/tuotekuvat/a96d8d256735cfeead00a1171bb26ab09e010ee1.jpg?1517135477" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>14G Super Lemon Haze</h1>
+<ul class='list-unstyled specs'>
+<li>136.34 EUR <em>(0.0175 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/hiddenhands">HiddenHands</a></span>&nbsp;(<span class='green' title='Positive feedback'>981</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</li>
+<li>United Kingdom &rarr; France, Germany, United Kingdom, Ireland, Netherlands, Italy, Spain, Portugal, Belgium, Austria, Switzerland</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="adY7NO3aS3/FYv9AKs2HdKYAWTlPByxHVOfnX+6ejwekcnWkWT3rd4an+r1GsUNgVxr/C3ymmnMTL7XOsyiqEQ==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="677208">Free UK Next Day Delivery (included)</option>
+<option value="677209">EU (+5.68 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="103023" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>▄▄▄▄▄▄▄▄ 14g Super Lemon Haze ▄▄▄▄▄▄▄▄▄</p>
+
+<p>Very nice weed, All bud no leaf or trim.
+<br />Nice high, you wont be dissapointed!</p>
+
+<p>Quantities:
+<br />5G - 50
+<br />14G - 120
+<br />28G - 230
+<br /> 
+<br />▄▄▄▄▄▄▄▄ SHIPPING ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
+<p>✔ Next Day Delivery (if ordered before 3pm)</p>
+
+<p>✔ Stealth </p>
+
+<p>✪ Please encrypt addresses for your own protection</p>
+
+<p>✪ Please send correct address format as this is the number one reason for delays in delivery</p>
+
+<p>✪ UK and EU shipping only
+</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/86649"><img src="/kuvat/tuotekuvat/9270a0dcf79f6222705b5d06ddb55090166132e2.jpg?1487891144" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/86649">Lemon Haze AAA+++ 14g FREE UK NDD</a> (<span title='165 USD'>134.18&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4070</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101548"><img src="/kuvat/tuotekuvat/b95b8b95f405648a227c483bea9d9a61a56b74f9.jpg?1511228727" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101548">28G★FREEZELAND★INDICA★A GRADE★£145</a> (<span title='147 GBP'>167.01&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bookface">BookFace</a></span>&nbsp;(<span class='green' title='Positive feedback'>1760</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-1</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/36219"><img src="/kuvat/tuotekuvat/441c3fb54291f3a70c994240da3d110354a7a420.jpg?1460587245" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/36219">28g - SUPER SILVER HAZE  Dutch Import</a> (<span title='153 GBP'>173.83&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/bodega">Bodega</a></span>&nbsp;(<span class='green' title='Positive feedback'>945</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-76</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101891"><img src="/kuvat/tuotekuvat/793bc8ab443b9d4c4d713fad0049f3c4f9a8a08f.jpg?1512413250" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101891">28g of dust Super Silver Haze | NDD/UK / Best Customer Service </a> (<span title='120 GBP'>136.34&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/46775"><img src="/kuvat/tuotekuvat/d295dc9ae9eaf3a2b36b998bc97acb689f2865c1.jpg?1506682498" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/46775">A+ BLUE CHEESE HOMEGROWN PIFF x 14g UK NDD</a> (<span title='123 GBP'>139.75&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/turpan">Turpan</a></span>&nbsp;(<span class='green' title='Positive feedback'>112</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-6</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1101">Weed</a>
+</li>
+<li class='active'>14G Super Lemon Haze</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7790.73 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+

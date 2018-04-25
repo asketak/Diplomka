@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vBwnigCt5q8Hbri6Vs8marhmNdW7s74F8x6qkG9o53kfarCC7LpZbHGzayDGfh1GsrjwJv9Yjn8CrPtXIg8ncA==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/3rxE">Suomeksi</a></li>
+<li><a href="/register/3rxE">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/3rxE">register an account</a>.</p>
+</div>
+
+<h1>KingShot</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Hello, I am KingShot</p>
+
+<p>I'm selling lots of premium, cheap and lifetime accounts.</p>
+
+<p>-Best prices
+<br />-Fast delivery
+<br />-High Quality</p>
+
+<p>I'm also on these markets:
+<br />HANSA: http://hansamkt2rr6nfg3.onion/vendor/KingShot/
+<br />AlphaBay: http://pwoah7foa6au2pul.onion/user.php?id=KingShot
+<br />Oasis market: http://oasisnvwltxvmqqz.onion/profile/1dd1a33139ff1b6c5fdbb48e64f9c396bae71319</p>
+
+<p>Check out my listing and I would be really happy about an order.
+<br />Thank you very much</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+=7DDj
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

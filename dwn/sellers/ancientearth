@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oMHIUrt7jtg2R9igRgtMowHGYwKqXbltafqWGgoVEjkjnq/VMDMWJ5xZm82De96zbTRr4AEFpgS8ET7iyK7A3A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/sDgB">Suomeksi</a></li>
+<li><a href="/register/sDgB">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/sDgB">register an account</a>.</p>
+</div>
+
+<h1>AncientEarth</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>*** AncientEarth's Medicine Shop ***</p>
+
+<p>------------------------------------------------------------</p>
+
+<p>Products Available</p>
+
+<p>- Hawaiin Magic Mushrooms
+<br />- NN-DMT
+<br />- AAA Crumble
+<br />- AAA Shatter</p>
+
+<p>---------------------SHIPPING-------------------------------------------------------------------</p>
+
+<p> *** Fast discrete shipping to USA</p>
+
+<p> *** All orders shipped within 24 hours (Same day if ordered by 8am PST)</p>
+
+<p> *** Priority and Tracking available at additional charge </p>
+
+<p> *** All orders are sent in regular envelopes right to your mailbox
+<br />	- Large orders will be sent in a priority flat rate box at no charge to you.
+<br />	
+<br /> *** Every order is vac-sealed for stealth</p>
+
+<p>USA Shipping Format:</p>
+
+<p>John Doe
+<br />123 Fake St. Apt #
+<br />City, State Zipcode</p>
+
+<p>---------------------------------------------------------------------------------------------------------</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+4r7O9uxmWflKR4EONhZFHt6E0Y3bQUgq1BM=
+=ffRO
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

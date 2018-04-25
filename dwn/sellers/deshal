@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="PFkTQlF5LTOG8SGuk+7PB9fj+ShggNa90fMLUFysqnXAIgOhLxdTQrTFhRt4QBBqi31Egl9/3HpJxQCK3Dq+9A==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/bepT">Suomeksi</a></li>
+<li><a href="/register/bepT">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/bepT">register an account</a>.</p>
+</div>
+
+<h1>deshal</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>Welcome to Deshal World. 
+<br />High quality Organic Marijuana supplier. </p>
+
+<p>100% reship policy (with tracking orders). 
+<br />We don't store your address without your permission.
+<br />Worldwide shipment.
+<br />50% fund release before shipment for first order.</p>
+
+<p>Please provide your address using a PGP encrypted message. Below is the format of your address:</p>
+
+<p>Name or attention line: 	JANE L MILLER
+<br />Company (if any): 	MILLER ASSOCIATES
+<br />Delivery address: 	1960 W CHELSEA AVE STE 2006
+<br />City, state, ZIP Code: 	ALLENTOWN PA 18104
+<br />Country: USA</p>
+
+<p>EXAMPLE EUROPE:
+<br />John Abraham______________(address name)
+<br />Street 123 _______(building number and street name)
+<br />12345 Berlin _________(Zip-Code, City)
+<br />Germany ______________(Country)</p>
+
+<p>EXAMPLE UNITED KINGDOM:
+<br />John Abraham______________(address name)
+<br />1 Chapel Hill ________(building number and street name)
+<br />Heswall_______________(locality name, if required)
+<br />BOURNEMOUTH __________(POST TOWN, please print in capitals)
+<br />BH1 1AA_______________(POSTCODE, please print in capitals, in full and on a separate line)
+<br />United Kingdom _______(Country)</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFWASZoBCADK9/eHCrZRvQsCoSgZ7rotQhRazhvyRsxD07rHJaG275mouhwN
+9EfDSa7SsmQaa1faNGcHK942TScQm5S1uw2zi3KQbwqgdA/wL/Ytuo8w3eOVbdCT
+1ZqO0zLKK/Tyi6X/sL7hxGsQq+wlJtbjiI2Nw/ztANXoMbbBzepgxP/7II7bRj8g
+Jqo/hcEScOXj4WwyZghyPLUrrOsG09CnylqYy0+5ac21m3slnvJEzGRkUtY0vWfw
+DwoEaGE+6rvJwlTX8zOweG4YVKxQmp31V67JMUzwl4stqSPxuy6fM3hYfWfwhrRS
+e+WuvrnT4xvMwxO9EdS/ApAcgO7jwlECOLW3ABEBAAG0HURlc2hhbCA8ZGVzaGFs
+QHNhZmUtbWFpbC5uZXQ+iQE5BBMBCAAjBQJVgEmaAhsDBwsJCAcDAgEGFQgCCQoL
+BBYCAwECHgECF4AACgkQjj3RYfWzffR/aQf/YkhxuuldUn/YqOLrN8nXPrRS4u5J
+IV6NEaRqNEBXD9PyDQQgGqz6C4PpV3EngIjdL3bwdND2ii7waooFiT1Y3Ozmfnmb
+KXijibeVI6U8YfFMn3q39SILTIQWRPSismt4n32x9e2mu3bC62zKWPFjjGebuWia
+rhnuTlqaJ+mwzZMvgKnVv8j1uDqqcA9KweUSxiR4fWEhBB9mghm5Ad4TTAYk5AsE
+2hcVI1fFRZyFUxpJBnjpkNVZlSsLcPNHQHEWAm18a/mOuk1TmVyivJsyXCWTnVe7
+gbCQmt92WbK2pNVZXX9o+ioNXcnikH/WNAizMaxOM9NXzsBMnBYjlK6SbLkBDQRV
+gEmaAQgApWjoP6CpSbmsaeaZNKVhICapwbNnT9bWFFFDh2eT+J3IRHeNNeBxbnyr
+NuK9cXUCFKZangrFTSkWRHj0FxVGlD1AwC3/YMARxz0UD5dWXIVQuH3tynms02XB
+XJIp5DojZiJUK6zr6VCtMuOBEND7NV9ko/BxwXWYfj5aNefzDxC0LGvsNz4D6yhm
+dM25LpHT1pfqL0p5U6K5YuVW1jwhE6eVc1n8vJvZfLCnpf/+RNXtfyP8ITLiHT/9
+LntGJiKWSyEp2gG3XtLoctxXazEiEJt5g3Ej/yGPZM+5qsxihcvmMd92DrciuvzJ
+Ky0P5iGC6QXvHpdYBYgUPzt3g1UUEQARAQABiQEfBBgBCAAJBQJVgEmaAhsMAAoJ
+EI490WH1s330K6wH/0vzEaXvjJta9IlkB0bCpaW7CIhRhGC8z1WV8k2IXMJ48uGE
+SH2t9wyB3tCw9gYnxivKVHHuFq+0DroqOD2x8CER+ViwV4tIs0c9YBZ2P7fXqI9p
+01ogJDM28KO0ezI3Nz94LL/4twlGhJ2clYqylqmfp+poFpXJ0OKpqywzFmOnuTjv
+NV0LaPNYuT87xF6Jm6iIGXwgSeTrPnXqvp9agL3knF2wouej2l8juakqu/aZIn27
+1zDEBF8QsxE+0vf9zARO3exyD+YryGUReGd094lJPIXNc33qc8yRclt4WA05VeZv
+BTUtQAVmkW6m/IRCCovsqbEnskQBKREandUSzDg=
+=u/fb
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

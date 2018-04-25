@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1tXPi2HK4pJKxqKDgXNdOkJTB+zMrLWOLWg6q/0zXse0pvwhnbpxDLh0lntxy+jAUvSAHY+/IVP4mfrAxo6OcQ==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/HCif">Suomeksi</a></li>
+<li><a href="/register/HCif">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/HCif">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>hot-stuff</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>181</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-3</span>
+</li>
+<li>Total revenue: 6042 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>We are the online Store called Hot-Stuff,
+<br />we want to offer you high quality weed and drugs.
+<br />As you can see at the Feedback i have only good stuff, free of additives,
+<br />Brix, Haze Spray or some other shit. 
+<br />Our Stealh is very high, butwe dont compress our buds to much.
+<br />If you have any questions, you can talk to me in english or german.
+<br />please read the terms. if you dont agree with them, dont order</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=J/47
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

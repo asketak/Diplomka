@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Y6oZnsif3cdNQfEnQktB8wSY+ZesIMmzRmwYVsBtl4SaAknLO36tHq89BtJeRFxOF4PP3qxH3BkKTJCFG25yBg==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/Xppr">Suomeksi</a></li>
+<li><a href="/register/Xppr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/Xppr">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>KukkaRane</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>23</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-4</span>
+</li>
+<li>Total revenue: 2606 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Allowed with new buyers</li>
+</ul>
+<div class='description'>
+<p>Tervetuloa tekemään kauppaa KukkaRanen kanssa!</p>
+
+<p>Näin alkuun varastossa on korkealaatuista suomessa valmistettua kannabista. Kannabis on kasvatettu ammattimaisessa kasvattomassa ja jos kysyntä ei lähde käsistä niin varasto ei tyhjene missään vaiheessa.</p>
+
+<p>Etsimme jälleenmyyjiä tuotteellemme. Ota yhteyttä viestillä ja sovitaan hinnoista tarkemmin. Emme tee turvallisuus syistä f2f kauppoja!</p>
+
+<p>Escrow käytössä yli 10 kauppaa tehneille ja alle 200e tilauksissa.</p>
+
+<p>Postitus ma-to 1. lk. kirjeessä ja vakuumissa tietenkin. Tuote pakataan kumihansikkaat kädessä täysin selvinpäin eikä paketti tule olemaan kosketuksissa huumeisiin ulkoapäin. Yhteen pakettiin mahtuu 20g, joten emme lähetä postin kautta kuin yhden kirjeen päivässä. Jos sinulla on kiire/haluat tuotteen nopeasti, niin valitse maastokätkö listauksestamme.</p>
+
+<p>Emme hyvitä "kadonneita" paketteja, kaikki paketit lähtevät postiin 100% varmuudella 24h sisällä tilauksesta! Tuotetta on AINA oikea määrä ja osoite kirjattu varmasti niin kuin tänne ilmoitettu.</p>
+
+<p>- Pidämme asiakkaamme tietoisina tilanteestamme ja päivitämme profiilia aina tarvittaessa. Meille on tärkeää asiakastyytyväisyys ja kaikkiin viesteihin tullaan vastaamaan 24h sisällä ma-to välisenä aikana!</p>
+
+<p>Edit 11.07
+<br />Kukka kuivunut nyt aivan kuivaksi. Pahoittelen ensimäisille asiakkaille jos pitivät tuotetta liian märkänä, nyt tämä ongelma korjattu. Yhteyttä otettu ostajiin ja luvattu korvata puolet tilauksesta uuden tilauksen yhteydessä. Vakuumi konetta edelleen odotellessa...
+<br />Edit 15.07
+<br />Kiitos palautteista ensimmäisille asiakkaille! Nyt on vakuumi kone saapunut perille, paketointia tullaan vielä hiomaan hiukan, mutta käytänössä ei pakettien pitäisi jäädä kiinni vaikka koira niitä nuuhkisi.</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=hh9W
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

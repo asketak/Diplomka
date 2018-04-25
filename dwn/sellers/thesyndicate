@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="C4vxgRPwSTHrQoIxIL0Up7r/82luI8tFExlhSBQ95SbwZL4VA9CTbHAvs3JiJAeiQmDWpHSolVMb9rronu+Uig==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/eVyr">Suomeksi</a></li>
+<li><a href="/register/eVyr">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/eVyr">register an account</a>.</p>
+</div>
+
+<h1>thesyndicate</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>0</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>0</span>
+</li>
+<li>Total revenue: 0 EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>TheSyndicate - A Canadian Firm
+<br />realsyndicate@sigaint.org</p>
+
+<p>We're the #1 Canadian discount cigarette source on the DN!</p>
+
+<p>Please read these terms before placing an order. </p>
+
+<p>▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄Updates▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
+<p>10-30-16
+<br />- We are ONLY shipping to Canada at this time. Sorry for the inconvenience.</p>
+
+<p>▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄Products▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
+<p>All prices are in Canadian dollars.</p>
+
+<p>King Size high quality Canadian blend cigarettes
+<br />★ 1 pack - $2.00
+<br />★ 1 carton - $15</p>
+
+<p>King Size light high quality Canadian blend cigarettes
+<br />★ 1 pack - $2.00
+<br />★ 1 carton - $15</p>
+
+<p>▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄Shipping▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
+<p>Escrow accepted - Your money's safe until your product arrives!</p>
+
+<p>We ONLY ship to Canada. 
+<br />  
+<br />Your product will be sent within 24h except on Friday, Saturday and Sunday. Orders placed on Fridays or the weekend will be shipped the following Monday. We do our best to get to your orders as soon as possible.</p>
+
+<p>Shipping Days:</p>
+
+<p>Monday
+<br />Tuesday
+<br />Wednesday
+<br />Thursday</p>
+
+<p>WE DO NOT OFFER EXPRESS SHIPPING</p>
+
+<p>Delivery times:</p>
+
+<p>Within Canada
+<br />★2-14 business days (Northern and remote areas can take up to 14 days)</p>
+
+<p>Address Format must be like this or very similar</p>
+
+<p>   YOUR NAME
+<br />   200 E MAIN ST
+<br />   Edmonton, Alberta 
+<br />   L2G 4G7
+<br />   Canada </p>
+
+<p>WE ARE NOT RESPONSIBLE FOR LOST PACKAGES IF YOUR ADDRESS IS NOT CORRECTLY GIVEN TO US.
+<br />  
+<br />The product is shipped discreetly (no odor or visibility)
+<br />Please contact us before leaving negative feedback. We are 100% sure we can correct any issues that may come up.</p>
+
+<p>By ordering our products you agree to our terms. We have a 98% delivery success rate within Canada. We do not offer refunds or reships unless you have a rating of 5+ no exceptions. </p>
+
+<p>▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄Contact▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
+<p>realsyndicate@sigaint.org</p>
+
+<p>Cheers!</p>
+</div>
+<p class='shipping_fee_info text-muted'>This vendor accepts multisig payments. Established vendors may have had some of their review score imported from other marketplaces.</p>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+iRZY9hFb
+=UX/D
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DVdjwJ89ilGB8nReaJpDIfKQ9Ph3X3jlHelX6AjTpw++EvE2nNNCUymj8P/FOHDgxuMU8jtqW0TN3bjdv7an+w==" />
+
+</head>
+<body class='users show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/FotL">Suomeksi</a></li>
+<li><a href="/register/FotL">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-9'>
+<div class='alert alert-info'>
+<p>You can browse products and vendors without logging in. For making purchases you'll need to <a class="alert-link" href="/register/FotL">register an account</a>.</p>
+</div>
+
+<div class='alert alert-danger'><p>This vendor account has been frozen.</p></div>
+<br>
+<h1>germanlight</h1>
+<ul class='list-unstyled specs vendor-specs'>
+<li>
+Positive feedback:
+<span class='green'>364</span>
+</li>
+<li>
+Negative feedback:
+<span class='red'>-10</span>
+</li>
+<li>Total revenue: 10 000+ EUR</li>
+<li>Last signed in: more than week ago</li>
+<li>Finalizing early: Forbidden</li>
+</ul>
+<div class='description'>
+<p>- We use super stealth and good packaging!
+<br />- All orders will be processed and shipped within 24-48 hours.</p>
+
+<p>Transit times:
+<br />Germany 1 to 3 (business) days
+<br />West Europe 5 to 9 (business) days
+<br />East Europe 6 to 12 (business) days
+<br />worldwide 10-18 (business) days</p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<pre class='pgp'>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFcQy0gBCACc9dk2gXg/+PvC+vXSytT2XGiWQQMSoI05oGsaqFwylwGmBMbE
+cJR6eZyMUmQXVVDxB6Wh4RqIE6h+nCCRKp4PxPSuyhcx1vYmdmDQSj6/kRX3MB+9
+4uN6PnNoqx/iFIFp9wKjF680Ux+1SuoOfcPPLmcEKQeGDEUo4vB+V+7Pec3Ayr+S
+RsegewDx6romr8ybpqhFlqyPYCkTLnA6lmW0GEoU+tdWNL3FA/NEa5Oc09UTT/1M
+LSl823JSbQpyrp6rfQOtvPnXs5gDXbzfvTKDWE/s9pnfpvmaM82LJvsxcIkHRdpQ
+to+l67JWN7EJxVDhpLnFkpYPZ6Br+FqF0kxXABEBAAG0FWdlcm1hbmxpZ2h0QGdt
+YWlsLmNvbYkBHAQQAQIABgUCVxDLSAAKCRBoX5WrQatowiPEB/9tG++V0OM4Zt9P
+vSnb1wdYLZIIzVKw1ymJHIz9RJvGB9SfQDdZU2n0oftW5utDz+oOaI4DMMO+AEhP
+3Za8xnkFK0mE7UQBlp+d/MkhnozITPBvE1TCX+KeEisGmeLBEQM8+dIyYd9+n6KZ
+Adu5SE2t/K0/O42lwOj4xUv9UNGZOdFkxLkYzBuxpnzD/qpB3s4mbR2s8DbSglBU
+DPmlDI9FVxE6T7fqLbWKHWsE95Zyxm5QXcTGFRLXesCNe41sdpNxZRPj9+hCjmiN
+BY18yjQ5v0yGg94LkBU74nHqPOyRgtmUcJ6KAzU7oxBEYQIw2VuzPqROWBZCMjrx
+BFmcEH2v
+=yDA5
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

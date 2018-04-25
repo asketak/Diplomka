@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="81JAkJjYtcrM72U/6OylxXJ2sJLnkKhK01HjOpKKb+M+9g4ALD8Vwo8qYMKEkGHRg2wWoNQxHn6UmbGrzzxK9Q==" />
+
+</head>
+<body class='products show'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+<li class="active"><a aria-current="page" href="/intl/categories/1000">All products</a></li>
+<li><a href="/purchases">My purchases</a></li>
+
+<li><a href="/messages">Messages </a></li>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+
+<li><a href="/account/wallet">Account (0.0 BTC)</a></li>
+<li><a rel="nofollow" data-method="delete" href="/logout">Log out</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<div class='row'>
+<div class='col-xs-3 product-photo-container'>
+<a href="/kuvat/tuotekuvat/5dc796b4ff359e5f9c7957a2a31e30eecd882224.jpg?1489878624"><img src="/kuvat/tuotekuvat/44db12f801192be5be11c9572f46cdc61574dbc1.jpg?1489878624" class="img-thumbnail" alt="" /></a>
+</div>
+<div class='col-xs-9'>
+<div class='alert alert-info'>You don't have enough funds for this product. Start by loading balance to <a class='alert-link' href='/account/wallet'>your account</a>.</div>
+<div id='product-header'></div>
+<h1>1x10ml 21% CBD OIL +THC &lt;3% FREE SHIPPING *FE</h1>
+<ul class='list-unstyled specs'>
+<li>75 EUR <em>(0.009616 BTC)</em></li>
+<li>more than 25 pcs in stock</li>
+<li></li>
+<li><span><a title="Visit vendor&#39;s profile" href="/thehappycrew">TheHappyCrew</a></span>&nbsp;(<span class='green' title='Positive feedback'>856</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-2</span>)
+</li>
+<li>Netherlands &rarr; Worldwide</li>
+<li class='text-muted'></li>
+</ul>
+<form class="simple_form form-inline amount-form" novalidate="novalidate" action="/purchases" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RGMW+1Lfgxv//y1eMisgHXF62DJwWf74kOZzSIA/fwGJx1hr5jgjE7w6KKNeV+QJgGB+AEP4SMzXLiHZ3YlaFw==" /><div class='col-xs-4 shipping_option'>
+<div class="form-group select required purchase_shipping_option_id"><select title="Shipping options" class="select required form-control" name="purchase[shipping_option_id]" id="purchase_shipping_option_id"><option value="629645">Domestic Netherlands (included)</option>
+<option value="629646">EURO ZONE from NETHERLANDS (+0 EUR)</option>
+<option value="665455">WORLDWIDE STEALTH  (+0 EUR)</option></select></div>
+</div>
+<div class='col-xs-2 amount'>
+<div class="form-group string required purchase_amount"><input value="1" title="Amount" class="string required form-control" placeholder="Amount" type="text" name="purchase[amount]" id="purchase_amount" /></div>
+</div>
+<div class="form-group hidden purchase_product_id"><input value="89223" class="hidden" type="hidden" name="purchase[product_id]" id="purchase_product_id" /></div>
+<input type="submit" name="commit" value="Buy" class="btn btn-default" data-disable-with="Buy" />
+</form>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-11'>
+<div class='description narrow'>
+<p><p>1x10ml CBD OIL 21% +THC </p>
+
+<p>1 bottle contains 10 ml CBD OIL 21% +THC</p>
+
+<p>(Also see our other listing  21% THC OIL!!! NEW)</p>
+
+<p>The percentage is CBD 21% THC &lt;3%</p>
+
+<p>Our Oil is 100% organic and contains potent concentrations of 21% CBD and &lt;3% THC</p>
+
+<p>Our OILS are Very Potent!
+<br />The oil is on olive oil base and can be diluted with olive oil to get the preferred ratio.
+<br />The oil can be mixed with our THC OIL to your liking.</p>
+
+<p>The low price is because we don't like to make big profits on meds for those who need it but don't have the money to spend.</p>
+
+<p>1x10 ml High CBD+THC Oil. EURO 75,-
+<br />2x10 ml High CBD+THC Oil. EURO 145,-
+<br />3x10 ml High CBD+THC Oil. EURO 210,-
+<br />4x10 ml High CBD+THC Oil. EURO 270,-
+<br />5x10 ml High CBD+THC Oil. EURO 325,-
+<br />6x10 ml High CBD+THC Oil. EURO 375,-
+<br />7x10 ml High CBD+THC Oil. EURO 420,-
+<br />8x10 ml High CBD+THC Oil. EURO 460,-
+<br />9x10 ml High CBD+THC Oil. EURO 495,-
+<br />10x10 ml High CBD+THC Oil. EURO 525,-</p>
+
+<p>* 10ml pipet botle.</p>
+
+<p>High CBD+THC Oil</p>
+
+<p>Tested at 21% total active cannabinoids, our High CBD Oil has shown promise in the easing symptoms of a wide variety of conditions, including rheumatoid arthritis, diabetes, PTSD and epilepsy, </p>
+
+<p>And it is currently being studied for its anti-cancer potential.
+<br />Symptoms &amp; Conditions: anxiety, cramps, depression, inflammation, insomnia, loss of appetite, muscle spasms, pain: muscle/joint, pain: neuropathic, pain: phantom limb, seizures, skin irritation</p>
+
+<p>Everybody Wants CBD When It’s the combination with THC that They Need</p>
+
+<p>**This is not BHO or Rick Simpson Cannabis oil tincture. but cbd oil with thc.</p>
+
+<p>***BY BUYING THIS PRODUCT YOU AGREE ON AND ACCEPT OUR POLICY!</p>
+
+<p>!!KEEP AWAY FROM CHILDEREN PETS ETC!!
+<br />                       !! USE WITH CARE !!
+<br />Extra info:
+<br />Difference between THC Oil, Cannabis oil, CBD oil, marijuana oil?
+<br />In this article we explain in detail the differences between CBD Oil, Cannabis oil, THC Oil and Hemp Oil &amp; Marijuana oil. </p>
+
+<p>Different names for THC oil
+<br />We receive many questions about the types of Cannabis oil, marijuana oil, THC oil, hemp oil and CBD oil. What does the name stand for and what is in the oil? The biggest difference is the concentration of THC (Tetrahydrocannabinol ) in the oils.  Whereas hemp and CBD oil do not contain THC, the other oils do contain measurable levels of THC (the active substance that can produce a high).</p>
+
+<p>Apparent differences
+<br />On the Internet all kinds of terms and symptoms are mentioned that cause confusion. So many, that you, as a customer, cannot see the forest for the trees anymore. We will try to inform you in this article as clearly as possible about the apparent differences between Cannabis oil, CBD oil, marijuana oil, hemp oil and THC oil.</p>
+
+<p>Cannabinoids are the basis
+<br />THC (Tetrahydrocannabinol ) and CBD (Cannabidiol) are the two best-known cannabinoids that recently received a lot of attention as medical application. However, it is estimated there are more than 80 cannabinoids present in hemp and marijuana plants.</p>
+
+<p>Endo-cannabinoid system
+<br />The human body contains, just like other mammals and animals an endo-cannabinoid system. Endo stands for endogenous to the body. Endo-cannabinoids act as signalers and control the production of e.g. hormones. Also, our complex immune system is controlled by the cannabinoid system. So, quite important.
+<br />Still in its infancy, but with good will
+<br />Medical science is still in its infancies regarding this area. The same science actually just started with extensive research on the effect of cannabinoids. The will and the importance of cannabinoids is increasingly being recognized. Also serious research is going on about the exact influence on the human and/or animal body.</p>
+
+<p>What names are used for oils coming from the hemp plant?
+<br />Hemp oil 
+<br />CBD oil 
+<br />Marijuana oil 
+<br />THC oil 
+<br />Cannabis oil </p>
+
+<p>CBD Oil
+<br />CBD Oil is a collective term for oils made from fiber hemp, and do not contain THC. CBD Oil is a compound oil that contains at least CBD (Cannabidiol). These can also be other varieties, because there many different cannabinoids are present in raw hemp. Apart from CBD, we have oils that also contain the cannabinoids CBDA, CBC, CBGA, CBD, CBCA. 
+<br />This oil is often diluted with olive oil or hemp seed oil to improve the dosage and taste.</p>
+
+<p>Marijuana oil – THC Oil and Cannabis oil
+<br />Three names that in most cases refer to the same product. In popular speech, different names were created out of THC containing oils from (Dutch) marijuana. Those saying marijuana oil, cannabis oil or THC oil normally refer to the same thing. An oil made from (Dutch) marijuana with a high concentration of THC. The purpose is to become high, though the medicinal effect becomes more and more important.</p>
+
+<p>Marijuana oil = THC Oil 
+<br />Because marijuana oil contains THC, this oil will never be available to buy here, because THC is illegal. Marijuana oil is illegal because of the presence of THC.</p>
+
+<p>THC Oil
+<br />The name already kind of suggests it. This oil from the marijuana plant is known about its HIGH concentration of THC. Also this oil is made by extracting the resin of the female marijuana plant.
+<br />THC medicinal use
+<br />The Internet is full of claims about the medicinal effect of Cannabis and CBD oil. All the benefits it could bring. 
+<br />Less known is the medicinal effect of THC and the power that THC gives to CBD (and the other way around).
+<br />CBD oil medicinal use
+<br />CBD is good for your health!</p></p>
+</div>
+<table class='table feedbacks'>
+</table>
+
+<div class='narrow'>
+<p class='shipping_fee_info text-muted'>
+Vendor requires <strong>finalizing early (FE)</strong> for this product. 
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div id='similar_products'>
+<h2>Similar products by other vendors:</h2>
+<div class='product-gallery horizontal'>
+<div class='thumbnail'>
+<a href="/products/59038"><img src="/kuvat/tuotekuvat/dcd7f5b345229651f59666c7dc07b1c1ed7058b4.jpg?1472804996" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/59038">10 g &quot;Early Skunk&quot; /// Free Shipping ///</a> (<span title='95 EUR'>95&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/californiadreams">CaliforniaDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>2080</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-4</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/100948"><img src="/kuvat/tuotekuvat/efdb84f560ad4eda3f45e01e707e2e79ccdabb93.jpg?1515222340" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/100948">❤ 14g CRITICAL + ★ Weed ❤</a> (<span title='100 USD'>81.38&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/ragstoriches1">RagsToRiches1</a></span>&nbsp;(<span class='green' title='Positive feedback'>467</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-11</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102762"><img src="/kuvat/tuotekuvat/df9dc93a30e83073fa1b6557553e2921fec7d135.jpg?1515948998" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102762">5g Northern Lights | NDD/UK / Best Customer Service</a> (<span title='52 GBP'>59.16&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dreamweaver">DreamWeaver</a></span>&nbsp;(<span class='green' title='Positive feedback'>1345</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/102315"><img src="/kuvat/tuotekuvat/30067108412738509e2c1dd3134fa8d8e044693d.jpg?1515719996" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/102315">Stardawg Cali Strain AAA+++ 7g FREE UK NDD</a> (<span title='96 USD'>78.12&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/nextgeneration">NextGeneration</a></span>&nbsp;(<span class='green' title='Positive feedback'>4072</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-78</span>)
+</h3>
+</div>
+</div>
+<div class='thumbnail'>
+<a href="/products/101587"><img src="/kuvat/tuotekuvat/6ee09ca1da76933b6deb0670662f594eb7089ca3.jpg?1512415725" width="130" class="img-rounded" alt="" height="130" /></a>
+<div class='caption'>
+<h3><a href="/products/101587">SUPER SILVER HAZE 10 GRAM </a> (<span title='109 EUR'>109&nbsp;EUR</span>)</h3>
+<h3 class='vendor'><span><a title="Visit vendor&#39;s profile" href="/dutchdreams">DutchDreams</a></span>&nbsp;(<span class='green' title='Positive feedback'>1225</span>&nbsp;/&nbsp;<span class='red' title='Negative feedback'>-7</span>)
+</h3>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12' id='bottom_breadcrumb'>
+<ol class='breadcrumb'>
+<li class='active'>
+<a href="/intl/categories/1000">Drugs</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1100">Cannabis</a>
+</li>
+<li class='active'>
+<a href="/intl/categories/1106">Concentrates</a>
+</li>
+<li class='active'>1x10ml 21% CBD OIL +THC &lt;3% FREE SHIPPING *FE</li>
+</ol>
+
+</div>
+</div>
+
+</div>
+</div>
+<footer>
+<hr>
+<span class='text-muted' title='Last 24h average rate updated less than 15 min ago'>
+1 BTC = 7799.47 EUR
+</span>
+<span class='pull-right text-muted'>
+<a class="text-muted" title="Share experiences with other buyers and vendors" href="https://www.reddit.com/r/ValhallaDarknetMarket/">Discussion</a>
+&bull;
+<a class="text-muted" title="Contact support" href="/support">Support</a>
+</span>
+
+</footer>
+</div>
+</body>
+</html>
+
