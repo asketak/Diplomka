@@ -1,67 +1,3 @@
-counts <- table(mtcars$vs, mtcars$gear)
-barplot(counts, main="Car Distribution by Gears and VS",
-xlab="Number of Gears", col=c("darkblue","red"),
-legend = rownames(counts))
-dat <- read.table(text ="	0	0,01	0,1	1	5	vic
-1	728845	206476	248366	157342	49960	66700
-2	140458	256865	28820	7048	1388	456
-3	60555	48720	8139	2973	570	153
-4	34036	26712	4592	2212	392	128
-5	22185	16730	3305	1740	235	175
-6	15696	11178	2706	1428	264	120
-7	12208	8183	2597	1127	210	91
-8	9264	6072	1992	984	152	64
-9	7200	4446	1701	909	171	18
-10	6530	3600	2100	600	160	40", header = TRUE)
-barplot(as.matrix(dat))
-library(reshape2)
-dat$row <- seq_len(nrow(dat))
-dat2 <- melt(dat, id.vars = "row")
-library(ggplot2)
-ggplot(dat2, aes(x=variable, y=value, fill=row)) +
-geom_bar(stat="identity") +
-xlab("\nType") +
-ylab("Time\n") +
-guides(fill=FALSE) +
-theme_bw()
-dat <- read.table(text ="	Souhrn	0-0,01	0,01-0,1	0,1-1	1-5	5
-1	728845	206476	248366	157342	49960	66700
-2	140458	256865	28820	7048	1388	456
-3	60555	48720	8139	2973	570	153
-4	34036	26712	4592	2212	392	128
-5	22185	16730	3305	1740	235	175
-6	15696	11178	2706	1428	264	120
-7	12208	8183	2597	1127	210	91
-8	9264	6072	1992	984	152	64
-9	7200	4446	1701	909	171	18
-10	6530	3600	2100	600	160	40"header=TRUE)
-dat <- read.table(text ="	Souhrn	0-0,01	0,01-0,1	0,1-1	1-5	5
-1	728845	206476	248366	157342	49960	66700
-2	140458	256865	28820	7048	1388	456
-3	60555	48720	8139	2973	570	153
-4	34036	26712	4592	2212	392	128
-5	22185	16730	3305	1740	235	175
-6	15696	11178	2706	1428	264	120
-7	12208	8183	2597	1127	210	91
-8	9264	6072	1992	984	152	64
-9	7200	4446	1701	909	171	18
-10	6530	3600	2100	600	160	40",header=TRUE)
-dat <- read.table(text ="	Souhrn	0-0,01	0,01-0,1	0,1-1	1-5	5
-1	728845	206476	248366	157342	49960	66700
-2	140458	256865	28820	7048	1388	456
-3	60555	48720	8139	2973	570	153
-4	34036	26712	4592	2212	392	128
-5	22185	16730	3305	1740	235	175
-6	15696	11178	2706	1428	264	120
-7	12208	8183	2597	1127	210	91
-8	9264	6072	1992	984	152	64
-9	7200	4446	1701	909	171	18
-10	6530	3600	2100	600	160	40",header=dat <- read.table(text ="	0	0,01	0,1	1	5	vic
-+ 1	728845	206476	248366	157342	49960	66700
-+ 2	140458	256865	28820	7048	1388	456
-+ 3	60555	48720	8139	2973	570	153
-+ 4	34036	26712	4592	2212	392	128
-+ 5	22185	16730	3305	1740	235	175
 + 6	15696	11178	2706	1428	264	120
 + 7	12208	8183	2597	1127	210	91
 + 8	9264	6072	1992	984	152	64
@@ -447,6 +383,97 @@ summary(MyData$vendor_nickname)
 summary(MyData$buyer_price)
 summary(MyData)
 str(MyData)
+MyData <- read.csv(file="/home/asket/dddiplomka/dwn/feedbacks.csv", header=TRUE, sep=",",  na.string=c(""), quote = "\"'")
+View(MyData)
+str(MyData)
+dat[!duplicated(MyData[,c('buyer')]),]
+dat = MyData[!duplicated(MyData[,c('buyer')]),]
+View(dat)
+dat = MyData[!duplicated(MyData[,c('buyer','buyer_eur')]),]
+summary(dat$buyer_eur)
+library(psych)
+describe(myData)
+summary(dat$buyer_eur)
+(dat$buyer_eur)
+x = (dat$buyer_eur)
+summary(x)
+class x
+class (x)
+x = as.numeric(dat$buyer_eur)
+class (x)
+summary(x)
+mytable = table(dat$buyer_eur,dat$buyer_num)
+margin.table(mytable, 1)
+margin.table(mytable, 2)
+prop.table(mytable, 1)
+mytable
+mytable2 = mytable[0:7]
+mytable2
+mytable2 = mytable[0:7,]
+mytable2
+addmargins(mytable2)
+mytable2
+plot(mytable2)
+class(mytable2)
+dfx = data.frame(ev1=1:10, ev2=sample(10:99, 10), ev3=10:1)
+with(dfx, symbols(x=ev1, y=ev2, circles=ev3, inches=1/3,
+ann=F, bg="steelblue2", fg=NULL))
+savehistory("~/dddiplomka/rnovahistory.txt")
+with(mytable2)
+with(mytable2, symbols(x=mytable2$1))
+MyData <- read.csv(file="/home/asket/dddiplomka/dwn/feedbacks.csv", header=TRUE, sep=",",  na.string=c(""), quote = "\"'")
+View(MyData)
+str(MyData)
+dat[!duplicated(MyData[,c('buyer')]),]
+dat = MyData[!duplicated(MyData[,c('buyer')]),]
+View(dat)
+dat = MyData[!duplicated(MyData[,c('buyer','buyer_eur')]),]
+summary(dat$buyer_eur)
+library(psych)
+describe(myData)
+summary(dat$buyer_eur)
+(dat$buyer_eur)
+x = (dat$buyer_eur)
+summary(x)
+class x
+class (x)
+x = as.numeric(dat$buyer_eur)
+class (x)
+summary(x)
+mytable = table(dat$buyer_eur,dat$buyer_num)
+margin.table(mytable, 1)
+margin.table(mytable, 2)
+prop.table(mytable, 1)
+mytable
+mytable2 = mytable[0:7]
+mytable2
+mytable2 = mytable[0:7,]
+mytable2
+addmargins(mytable2)
+mytable2
+plot(mytable2)
+class(mytable2)
+dfx = data.frame(ev1=1:10, ev2=sample(10:99, 10), ev3=10:1)
+with(dfx, symbols(x=ev1, y=ev2, circles=ev3, inches=1/3,
+ann=F, bg="steelblue2", fg=NULL))
+savehistory("~/dddiplomka/rnovahistory.txt")
+with(mytable2)
+with(mytable2, symbols(x=mytable2$1))
+Mydata
+str(Mydata)
+str(MyData)
+str(MyData$buyer_eur)
+view(MyData$buyer_eur)
+summary(MyData)
+summary(MyData$buyer_num)
+(MyData$buyer_num)
+sd(MyData$buyer_num)
+summary(MyData$buyer_num)
+md(MyData$buyer_num)
+summary(MyData$buyer_num)
+mytable = table(dat$buyer_eur,dat$buyer_num)
+mytable
+addmargins(mytable)
 MyData <- read.csv(file="/home/asket/dddiplomka/dwn/feedbacks.csv", header=TRUE, sep=",",  na.string=c(""), quote = "\"'")
 View(MyData)
 str(MyData)

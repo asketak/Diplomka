@@ -864,6 +864,13 @@ The application consists of three parts.
  \item Webserver, that handles GUI requests and retrieve data from database.
 \end{itemize}
 
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{total-rev}
+    \caption{Application architecture}
+    \label{Vendors by total revenue}
+\end{figure}
+
 
 
 \section{Implementation}
