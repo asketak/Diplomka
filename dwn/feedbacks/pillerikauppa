@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="IRKjQwvcLc+I0KDz/wXODxo3bxRqB7j27KKW6TVLhMV2SLgK2CB8V3CuAVd9qS6cTr7boCvwbzDt7UQQciiAdQ==" />
+<meta name="csrf-token" content="dlwH/Ol9Z8Nm0xeAcLWtUJTnM8zrRxRYlQ5t4s7n9JL/aenQVGHyqz5yppx7bRuq4jKbFNTdFZn9AXYNk1Ozeg==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,42 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Parasta toimintaa, stealth aivan lyömätön :) Suosittelen!!
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/102882">5x Leponex 100mg *Suomi apteekki*</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+ro***an
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Parissa päivässä tuli hyvin pakattuna kuten aina! 5/5
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/41860">Norspan 10mg *Suomi Apteekki* </a>
+(125&nbsp;EUR)
+</td>
+<td><span>
+Ra***ni
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;500+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -610,7 +646,7 @@ Kiitos ja kumarrus 5/5
 Ti***ti
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€500+&nbsp;&bull;&nbsp;10+)
+(€500+&nbsp;&bull;&nbsp;25+)
 </span>
 </td>
 </tr>
@@ -626,42 +662,6 @@ Loistavaa myyjä!
 </td>
 <td><span>
 pe***li
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(16.3.)</em>
-</td>
-<td>
-<a href="/products/43446">5x Xanor (Alprazolam) Pfizer 1mg *Suomi apteekki*</a>
-(25&nbsp;EUR)
-</td>
-<td><span>
-ca***cs
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(16.3.)</em>
-</td>
-<td>
-<a href="/products/78484">*ALE* 10x Attentin 5mg (dexamfetamin) *Suomi apteekki*</a>
-(85&nbsp;EUR)
-</td>
-<td><span>
-ca***cs
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€1000+&nbsp;&bull;&nbsp;25+)

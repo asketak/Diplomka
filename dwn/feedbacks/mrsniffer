@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="75u5RtSlPvuYXLrEtkqQ6GdaHXHnmshhnV50JbUNTBlMuyxdMuoslQcI7vfhYZuCfzVzxd3SpDKgYrHYq4LDzw==" />
+<meta name="csrf-token" content="Vf1y8DdaChMIHEGHAs8QMUI3QrTI/AuuEwQJFki8NXSGMafYXGaeTKa2Fw+SHyEFAya0uYEOt7wpq1fdAuvDmQ==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,24 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/23245">10 Green WhatsApp XTC pills 160MG</a>
+(20&nbsp;EUR)
+</td>
+<td><span>
+be***ee
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -268,7 +286,7 @@ very  very good Qualität for more than fair  price Well done
 al***85
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€100+&nbsp;&bull;&nbsp;5+)
+(€100+&nbsp;&bull;&nbsp;10+)
 </span>
 </td>
 </tr>
@@ -644,24 +662,6 @@ always happy, fast shipping, good ware
 </td>
 <td><span>
  D***ne
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€100+&nbsp;&bull;&nbsp;10+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-Tabs came, once again great stealth, look forward to testing
-<em>(3.3.)</em>
-</td>
-<td>
-<a href="/products/23260">5 LSD stamps Anonymous (180μg)</a>
-(24&nbsp;EUR)
-</td>
-<td><span>
-IA***in
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€100+&nbsp;&bull;&nbsp;10+)

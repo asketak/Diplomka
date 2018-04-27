@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="2b+8aiMdU3UBcM3AindXpF/7ziPbY6Ti2fE7EL3aEi3mXkQWGGgDRCbyKVMO1saZfFPw3HPVYBBgWrnkqQDqgQ==" />
+<meta name="csrf-token" content="YbmY2GvWqB52rCVO5BBC9ruFD5+t2ld+TivXooGt0+mSiE+8xaNqxqB2qcPBx9rzobPFH36vj0L/KA/FqOuksg==" />
 
 </head>
 <body class='users feedbacks'>
@@ -43,6 +43,24 @@
 <td>
 (no detailed feedback)
 <em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/103883">Custom Listing / 1€</a>
+(17&nbsp;EUR)
+</td>
+<td><span>
+Ba***rs
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(24.4.)</em>
 </td>
 <td>
 <a href="/products/103883">Custom Listing / 1€</a>
@@ -592,7 +610,7 @@ joo sama homma täälä lupailee 50% rahoista takas tai sit lähettää kokonaan
 cy***nx
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€100+&nbsp;&bull;&nbsp;3+)
+(€100+&nbsp;&bull;&nbsp;5+)
 </span>
 </td>
 </tr>
@@ -644,24 +662,6 @@ joo tavaraa ei näy ja refund linkkiä tarjoilee..
 </td>
 <td><span>
 Pa***an
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='red' title='Negative'>&#9679;</span></td>
-<td>
-Huijari! Varmaankin kaapattu myyjän tunnus? Jos menitte  &quot;refund&quot; linkin kautta kirjautumaan niin vaihtakaa salasana heti. Cheater alert! Probably stolen dealer account? If you logged in from the &quot;refund&quot; link, please change your credentials!
-<em>(7.4.)</em>
-</td>
-<td>
-<a href="/products/102974">⌛1g Fishscale Cocaine 88% ☯ GalaxyStore ☯ FINLAND ONLY ⌛</a>
-(150&nbsp;EUR)
-</td>
-<td><span>
-Au***vi
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€1000+&nbsp;&bull;&nbsp;25+)

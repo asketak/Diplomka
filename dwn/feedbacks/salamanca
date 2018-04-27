@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="1kNoV/u/m5mZUYt6gVly2PaffxR0X5ff/hmVu8ICq3uPcvAGjbp20lMObueQ+MTQtuQ7dlt9w+8luwfo+wJDKQ==" />
+<meta name="csrf-token" content="f5xZBJy+BNKPMob/8+LaBRDFo7xJwp64OPXfjsSS/e51v+6dcmWwULFqSDZe3FGtx5MV88KQEr24ymRp0U+4jA==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,96 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Saapui nopeaan ja hyvin pakattuna. Ei testattu vielä, mutta hyvältä näyttää tuoksun ja ulkonäön perusteella. Grammaksi jotenkin pienen näköinen, mutta varmaan tiiviisti pakkautunutta.. 
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/43232">1g DURBAN POISON [sativa]</a>
+(24&nbsp;EUR)
+</td>
+<td><span>
+As***th
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/26571">1g WHITE WIDOW [hybrid]</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+Mz***za
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/43232">1g DURBAN POISON [sativa]</a>
+(24&nbsp;EUR)
+</td>
+<td><span>
+is***mu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+nopea toimitus, tänään testiin
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/26571">1g WHITE WIDOW [hybrid]</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+ma***66
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/26571">1g WHITE WIDOW [hybrid]</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+ka***tu
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>

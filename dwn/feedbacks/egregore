@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="AOz7p5OdVqtvPTCIaw/0CvTUDkvgEutI96zrAHZ97etnQ890ezM399QVwjo7FZGqR8qykP2G+8dEs9VDxleI9g==" />
+<meta name="csrf-token" content="xkf+jDNZFY7p2fbP2zG/VSbOncgH5EiJc6wNxOm+mioJxx/Cz4ihhAYaXRleyIgeha6fNKPgf6Siai+O//dETA==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,24 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/80360">★ Galenika Bensedin/Hemofarm(Diazepam) Valium ☛ 30 x 10 mg ☚</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+TR***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='red' title='Negative'>&#9679;</span></td>
 <td>
@@ -111,9 +129,9 @@ Le***us
 </td>
 </tr>
 <tr>
-<td><span class='red' title='Negative'>&#9679;</span></td>
+<td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
-19 days and still waiting.. vendor doesn't reply my messages. I change this positive if my order comes.
+22 days and nothing arrived.. EDIT: I finally got a message from vendor! He will reship my order, so I waiting again.. :) last time I get my package to Finland in seven days.
 <em>(18.4.)</em>
 </td>
 <td>
@@ -647,24 +665,6 @@ Pa***72
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€100+&nbsp;&bull;&nbsp;10+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-good vendor, secure packing, product according to the order, I recommend this vendor. Thanks
-<em>(14.3.)</em>
-</td>
-<td>
-<a href="/products/84197">★ Sandoz / Hemofarm Zolpidem ☛ 100 x 10 mg ☚ BEST PRICE ★</a>
-(67&nbsp;EUR)
-</td>
-<td><span>
-no***17
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;5+)
 </span>
 </td>
 </tr>

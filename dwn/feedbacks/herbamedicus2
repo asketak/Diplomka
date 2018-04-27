@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="MHpBM2GCyo4+l03eQ8QhejPOLXGxsP3Ht8s25mLcnwgMyo0C5OtZpdd2ljN0elvGPx3V2WGCRxW0rBi81etTig==" />
+<meta name="csrf-token" content="gbqyfKDpQcbBbyCoCXLqL8YV3eENmoSi90GsnAtHSTGIf9bGqVaYIWbwMhVljkNJafGy1+SJI3SZR0Oswh+Rfw==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,24 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='red' title='Negative'>&#9679;</span></td>
+<td>
+Myyjä avannut tilauksen 10pv sitten eikä vielä kuitenkaan merkinnyt postitetuksi. Eikä vastaa viesteihin vaikka on ollut paikalla. Muutan palautteen positiiviseksi jos tilanne muuttuu!!
+<em>(today)</em>
+</td>
+<td>
+<a href="/products/104197">Sustalan 250mg</a>
+(52&nbsp;EUR)
+</td>
+<td><span>
+ka***on
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -214,7 +232,7 @@ Myyjän tili kaapattu! Älkää missään tapauksessa ostako täältä mitään!
 pe***87
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
+(€1000+&nbsp;&bull;&nbsp;50+)
 </span>
 </td>
 </tr>
@@ -232,7 +250,7 @@ Ei ole tullut perille!!! eikä mitään ole toimitettu!
 pe***87
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
+(€1000+&nbsp;&bull;&nbsp;50+)
 </span>
 </td>
 </tr>
@@ -250,7 +268,7 @@ Ei ole tullut perille!! Kusetusta!
 pe***87
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
+(€1000+&nbsp;&bull;&nbsp;50+)
 </span>
 </td>
 </tr>
@@ -268,7 +286,7 @@ Ei ole tullut perille!! Tutun myyjän tili kaapattu.
 pe***87
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
+(€1000+&nbsp;&bull;&nbsp;50+)
 </span>
 </td>
 </tr>
@@ -640,24 +658,6 @@ Ha***en
 </td>
 <td>
 <a href="/products/104067">Amfetamiini [Ilmainen näyte]</a>
-(15&nbsp;EUR)
-</td>
-<td><span>
-va***ja
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(25.3.)</em>
-</td>
-<td>
-<a href="/products/104065">XTC Chupa-Chups [Ilmainen näyte]</a>
 (15&nbsp;EUR)
 </td>
 <td><span>

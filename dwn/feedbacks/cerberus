@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="A5mmm0IXyJh8VacEXNHYd+uUve0RF/lHmmflwfUBTzGrdrK5f284BN/JzMlkhKUR/kKL1mE+4Vv1oqXZfRck/A==" />
+<meta name="csrf-token" content="w4mI889bR4DXH8w8FUJpd8rXq0JtJOZCXi1Fpr5VxtiX5/RbKf5HL3kqecGlmyDm2JD24XsXvFNNBj+GnB0JvQ==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,42 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/103237">Trenbolone Enanthate 200mg/ml x 10ml </a>
+(47&nbsp;EUR)
+</td>
+<td><span>
+na***i3
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+super speedy! great vendor!
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/104565">Zopiclone Haab brand 7.5mg x 10 </a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+be***do
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -376,7 +412,7 @@ came today, sorry about negative feedback. its positive now
 Ti***ti
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€500+&nbsp;&bull;&nbsp;10+)
+(€500+&nbsp;&bull;&nbsp;25+)
 </span>
 </td>
 </tr>
@@ -629,42 +665,6 @@ de***92
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-Best vendor on here! Would recommend 
-<em>(10.4.)</em>
-</td>
-<td>
-<a href="/products/55187">Cerberus Pharma Test Propionate 100mg/ml 10ml multivial</a>
-(30&nbsp;EUR)
-</td>
-<td><span>
-gh***98
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€50+&nbsp;&bull;&nbsp;1+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-+++
-<em>(9.4.)</em>
-</td>
-<td>
-<a href="/products/92783">Dihydrocodeine 30mg x 10</a>
-(45&nbsp;EUR)
-</td>
-<td><span>
-di***pi
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
 </span>
 </td>
 </tr>

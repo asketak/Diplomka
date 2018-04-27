@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="nc0bDXFuBYxTqE6hwZyL/yrMxvJADKA4goBmbAoF4gEGxdJUzBsZKX4N6OdLcrPs6AOhPfrPjTs08jlRlITtVg==" />
+<meta name="csrf-token" content="Uz4icgpuu5BO/HRJ0R41hu3H3VbSP5w7fBwKQl2ApX4+wlEOv4MXFCpeRw+bbU7sDgYr6QZjONla83IOH1DwZg==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,42 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Awesome Vendor Delivers Says it Like it Is 
+<em>(today)</em>
+</td>
+<td>
+<a href="/products/100817">ANTIDETECT 7 &amp; FRAUDFOX VM &amp; 2 LIFETIME QUALITY VPN</a>
+(12&nbsp;EUR)
+</td>
+<td><span>
+az***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€25+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Fast delivery and good support!
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/39171">10 MILLIONS EMAILS LIST SPAM THE WORLD</a>
+(12&nbsp;EUR)
+</td>
+<td><span>
+ke***el
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>

@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="pjw8PieNd7Uts0zYUx/C+MiatBQ3gjSDIinR7IMHnnYcPLyYqBVxvvY+SuUOwY1pyVAM8Lr/Uu1k0hQCbINnww==" />
+<meta name="csrf-token" content="6n+z4E35lULe/gje5NRAwTF3mogqhQ2MCYk4DX9471tV7P1OukmVa1KJPu9PTmlAOJBhi5+sFBoXxqZj5b1r0A==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,42 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Just wow.. 10/10.. Tried many different vendors and strains, and didnt believe i can find something this good.. Packet, Quality, Delivery time, everything amazing and far above normal! Will order for sure again! +++++++
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/94124">Sweet Tooth 1g</a>
+(23&nbsp;EUR)
+</td>
+<td><span>
+id***rz
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/94125">Sweet Tooth 3g</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+jo***aj
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -629,42 +665,6 @@ hu***sa
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€500+&nbsp;&bull;&nbsp;10+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(28.3.)</em>
-</td>
-<td>
-<a href="/products/94124">Sweet Tooth 1g</a>
-(23&nbsp;EUR)
-</td>
-<td><span>
-th***32
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€500+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(28.3.)</em>
-</td>
-<td>
-<a href="/products/94125">Sweet Tooth 3g</a>
-(126&nbsp;EUR)
-</td>
-<td><span>
-cp***pc
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
 </span>
 </td>
 </tr>

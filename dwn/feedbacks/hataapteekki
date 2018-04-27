@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="04F5rKk2EhmY963qtLY76xzxBti+eXCZOF8H+MtYe5Z/EhJVjT/uSIFfe2G3ZvAx7ONYa0L9LIEbCpPctNDzfw==" />
+<meta name="csrf-token" content="FUIWBr0jZfF2eBZYWQTtPwfhanTi4Q6IgIrO9+ficixvFYt9ka9bssSD8ZKp+2Y4RFbhlhMTJLoO0NCKSrf5aQ==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,42 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki ok, myöhäinen palaute
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/10644">Norspan (Bubrenorphine ratiopharm) 10mikrog depot-kipulaastari </a>
+(40&nbsp;EUR)
+</td>
+<td><span>
+vi***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+ok
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/32213">Norspan (Bubrenorphine ratiopharm)10mikrog depot-kipulaastari x 2</a>
+(100&nbsp;EUR)
+</td>
+<td><span>
+ke***lo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>

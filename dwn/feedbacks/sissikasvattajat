@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="lh637Kc9qfmefEAapPE2uPjvS7tyT2SnDUMsdqy0Ek0Lh/KbREvl9A+BtvgXwZPxUsp+I1Is9Q5/0BrylF4aQg==" />
+<meta name="csrf-token" content="OLFTwyk/61LxYE8TKyi8+TFfW7t/ix43D6bftmUpT6l5wQpVh1c6LRDdKr7lkvOQDSZYJxMCEtnlA2NWnOhwWA==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,114 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/104346">Panteston 40 mg x 10 kapselia. Testosteronivalmiste</a>
+(17&nbsp;EUR)
+</td>
+<td><span>
+he***um
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/104539">Norspan 5 mg buprenorphin depotlaastari</a>
+(19&nbsp;EUR)
+</td>
+<td><span>
+vi***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+ok 5/5, sori myöhäinen palaute
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/104539">Norspan 5 mg buprenorphin depotlaastari</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+vi***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+ok 5/5
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/104539">Norspan 5 mg buprenorphin depotlaastari</a>
+(19&nbsp;EUR)
+</td>
+<td><span>
+vi***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/104536">Tradolan Retard 150 mg tramadolia. 10 depottablettia</a>
+(321&nbsp;EUR)
+</td>
+<td><span>
+re***us
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Greit. Need to have much more. 
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/100640">Sienet 1g, psilocybe cubensis &quot;Ecuador&quot;</a>
+(127&nbsp;EUR)
+</td>
+<td><span>
+bi***id
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>

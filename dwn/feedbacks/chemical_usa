@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="cnaLTIcHGajDqQ9hU7QESwmBz0tC+Ujz9SRrdKXwpu9p4rbFPGBx3VclS0+wq4Q5CtQgkLEJ/MlydLzYxyNypA==" />
+<meta name="csrf-token" content="paYuz9nVZ77qbuRdgIQpITT5V5949NICJWKGX7o+iDXc0WyjcJ+R+1YgL+lJwIZJbX/A37K8opY792QVOuTtpg==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,24 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Always consistent!  Usually a little over in weight as well A+++
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/96624">5g China White Synthetic Heroin Fentanyl Mix</a>
+(492&nbsp;EUR)
+</td>
+<td><span>
+wi***ot
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -647,24 +665,6 @@ do***og
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€1000+&nbsp;&bull;&nbsp;25+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-Another smooth order. Best quality and always reliable.
-<em>(8.2.)</em>
-</td>
-<td>
-<a href="/products/37376">250mg Fentanyl 99.5%</a>
-(270&nbsp;EUR)
-</td>
-<td><span>
-Fi***ew
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;10+)
 </span>
 </td>
 </tr>

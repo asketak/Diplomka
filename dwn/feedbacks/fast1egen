@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="VjISNVgNleh1Qf90ZZ8XpfAIkxS540u+JYEvKiqGTpARYyXdwnle48SUQIje9139k8rTKWqisZTTgPlaLUAcxA==" />
+<meta name="csrf-token" content="IB3d24lo7/HnpV3PMeSSnhZcQHzHLc+hMrdGthtt68RxriC05nVQrNXDaBwl8yvY3ZqPiYypa6mEe2t+hXXznQ==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,24 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Tipp Topp! Kom raskt
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/102828">30 x Etizolam 1 mg blotters</a>
+(33&nbsp;EUR)
+</td>
+<td><span>
+Bu***65
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -124,7 +142,7 @@ Alt perfekt!
 Bu***65
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€100+&nbsp;&bull;&nbsp;3+)
+(€100+&nbsp;&bull;&nbsp;5+)
 </span>
 </td>
 </tr>
@@ -527,24 +545,6 @@ cl***ic
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
-Rask shipping, prima stealth og bra funk
-<em>(2.2.)</em>
-</td>
-<td>
-<a href="/products/102828">30 x Etizolam 1 mg blotters</a>
-(39&nbsp;EUR)
-</td>
-<td><span>
-sv***en
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€100+&nbsp;&bull;&nbsp;3+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
 Alt flott, pakken mottat etter 2 virkedager, innholdet var godt innpakket. Eneste er at 6/30 blottere er mindre enn de andre.
 <em>(2.2.)</em>
 </td>
@@ -575,24 +575,6 @@ Je***et
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€1000+&nbsp;&bull;&nbsp;50+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-excellent! Takk for bonus ;)
-<em>(1.2.)</em>
-</td>
-<td>
-<a href="/products/102828">30 x Etizolam 1 mg blotters</a>
-(39&nbsp;EUR)
-</td>
-<td><span>
-is***ot
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;10+)
 </span>
 </td>
 </tr>

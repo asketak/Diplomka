@@ -5,7 +5,7 @@
 <link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="wZWRcDlAMO4FAMlBl5eDB59FB0umaCjY68m/L4wZVs3aJTgFUXH3y7MVUQmPgnngFWQmQ5Zghe4NfB64C89nBQ==" />
+<meta name="csrf-token" content="MQQoNLt8irok79YfV9nZUUI7dEPldGe2/9HGslgGnxMZDoYLe3YaxwYg9HxPLFyqahCKivvrMLgdB/HVF+2YXQ==" />
 
 </head>
 <body class='users feedbacks'>
@@ -38,6 +38,60 @@
 <li class='active'>All feedback</li>
 </ol>
 <table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(yesterday)</em>
+</td>
+<td>
+<a href="/products/4270">3g California Orange</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+cp***pc
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+nopea toimitus, tuote näyttää hyvältä, testiin myöhemmin! 
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/4270">3g California Orange</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+Sa***te
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;3+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(25.4.)</em>
+</td>
+<td>
+<a href="/products/4270">3g California Orange</a>
+(79&nbsp;EUR)
+</td>
+<td><span>
+mm***m7
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
 <tr>
 <td><span class='green' title='Positive'>&#9679;</span></td>
 <td>
@@ -160,7 +214,7 @@ gr***en
 fe***ng
 </span>
 <span title="Total value and amount of buyer's transactions">
-(€500+&nbsp;&bull;&nbsp;5+)
+(€500+&nbsp;&bull;&nbsp;10+)
 </span>
 </td>
 </tr>
@@ -611,60 +665,6 @@ Ko***nn
 </span>
 <span title="Total value and amount of buyer's transactions">
 (€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-Oikein maukasta kukkaa ja kaikki muukin kunnossa
-<em>(17.2.)</em>
-</td>
-<td>
-<a href="/products/4270">3g California Orange</a>
-(315&nbsp;EUR)
-</td>
-<td><span>
-Lu***ed
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;10+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(15.2.)</em>
-</td>
-<td>
-<a href="/products/31428">3g Wreckage *Sativa*</a>
-(79&nbsp;EUR)
-</td>
-<td><span>
-gr***en
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
-</span>
-</td>
-</tr>
-<tr>
-<td><span class='green' title='Positive'>&#9679;</span></td>
-<td>
-(no detailed feedback)
-<em>(14.2.)</em>
-</td>
-<td>
-<a href="/products/5115">2g MK-ULTRA</a>
-(90&nbsp;EUR)
-</td>
-<td><span>
-cp***pc
-</span>
-<span title="Total value and amount of buyer's transactions">
-(€1000+&nbsp;&bull;&nbsp;25+)
 </span>
 </td>
 </tr>
