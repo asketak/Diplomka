@@ -1,4 +1,4 @@
-
+ & 
 
 unikatni kupujici dle jmena a koupene castky,
 za posledni dva mesice
@@ -16,3 +16,44 @@ y = za kolik koupili celkem
   1000   3  0  23 148 234 167  51   0    0  626
   10000  0  0   0   0  11  12  55   1    7   86
   Sum   80 94 211 359 270 179 106   1    7 1307
+
+Category & listings & feedbacks & estimated monthly revenue & market share
+Body building & 679 & 402 & 31466 &
+Cannabis & 5139 & 188 & 135693 &
+Cannabis \& growing &  56 & 2 & 44 &
+Classifieds &  649 & 18 & 2182 &
+Depressants &   71 & 2 & 59 &
+Digital items & 2497 & 9 & 141 &
+Dissociatives &  290 & 38 & 2317 &
+Other drugs &  774 & 173 & 14350 &
+Empathogens & 2988 & 394 & 20344 &
+Mushroom growing &   26 & 2 & 178 &
+Opiates & 1662 & 489 & 83135 &
+Other products &  782 & 89 & 9106 &
+Paraphernalia  &  36 & 0 & 0 &
+Pharmacy & 2294 & 1104 & 62054 &
+Production / distribution &   17 & 0 & 0 &
+Psychedelics & 1377 & 198 & 11796 &
+Self-defence &  513 & 4 & 4635 &
+Services & 1662 & 35 & 4061 &
+Stimulants & 3493 & 1043 & 108157 &
+
+
+1:       Stimulants 108157
+ 2:         Cannabis 135693
+ 3:          Opiates  83135
+ 4:    Dissociatives   2317
+ 5:     Psychedelics  11796
+ 6:         Services   4061
+ 7:         Pharmacy  62054
+ 8:            Drugs  14350
+ 9:      Empathogens  20344
+10:    Digital items    141
+11:      Classifieds   2182
+12:   Other products   9106
+13: Cannabis growing     44
+14:    Body building  31466
+15:     Self-defence   4635
+16:               NA   1645
+17: Mushroom growing    178
+18:      Depressants     59
