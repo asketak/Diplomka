@@ -605,7 +605,7 @@ webpages because HTML elements of Valhalla web pages don't have any unique ident
 and so these libraries bring us no advantage.
  
 By scraping the listings pages, we got unique vendor nicknames,
-which we used for downloading and scraping vendor's profile and feedback pages. 
+which we used for downloading and scraping vendor's profile and feedback pages.
 The shortcoming of this method is, that we were able to download and analyze only sellers, 
 that have at least one active listing at the time of data collection. 
 
@@ -621,7 +621,7 @@ From each listing, we parsed:
 From each vendor, we parsed:
 \begin{itemize}
 \item Vendor's nickname = string
-\item number of positive and negative reviews = 2 integers
+\item number of positive and negative feedback = 2 integers
 \item revenue = integet 0<=x<=10000USD, for vendors with higher revenue it shows 10000+
 \item PGP key = string, is not mandatory for all vendors
 \item Country = string, country from which vendor ships if available
@@ -782,34 +782,85 @@ used by even advanced users.
 
 \section{Overall statistics of Valhalla drug market}
 
-Valhalla was originally founded as local Finnish market,
-that seems the reason for surprisingly many vendors shipping from Finland.
-The reader can see the frequency of countries the vendors are shipping from in table \ref{shipcount}.
+We managed to scrape 25309 vector listings from 981 sellers and 
+2295 feedbacks. There were 17314(68\%) listings related to selling drug substances.
+Vendors had from 1(90 vendors) to 1083(1 vendor)
+active listings, with average of 25.69 (SD = 58.06) and median = 11.00 listings per vendor.
+The distribution can be seen in figure \ref{listingsxsellers}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{listingsxsellers}
+    \caption{Number of active listings for each seller}
+    \label{listingsxsellers}
+\end{figure}
+
+Valhalla was originally estabilished as a local Finnish market.
+That seems to be the reason for surprisingly many vendors shipping from Finland.
+Vendors were shipping drugs from 39 distinct countries,
+the frequency of countries the vendors were shipping from is in table \ref{shipcount}.
 
 \begin{table}
     \caption{Countries vendors are shipping from}
     \label{shipcount}
     \begin{tabular}{|l|l|}
-    Countries vendors are shipping from\\
-      Belgium,Bulgaria,Hungary,Ireland, & 1\\
-      Philippines,Romania,Russia,Serbia,Switzerland& 1   \\
-        Austria, Czech Republic, India,Spain,Sweden, Argentina  & 2   \\
+    Countries vendors are shipping from  & Count of vendors\\
         Australia                                    & 3   \\ 
-        Poland                                       & 4   \\ 
-        Canada                                       & 5   \\ 
-        France                                       & 6   \\ 
-        Norway                                       & 7   \\ 
-        Netherlands                                  & 10  \\ 
+        Poland                                       & 3   \\ 
+        Spain                                        & 4   \\ 
+        Canada                                       & 4   \\ 
+        France                                       & 5   \\ 
+        Norway                                       & 5   \\ 
+        Netherlands                                  & 12  \\ 
         Germany                                      & 13  \\ 
-        United States                                & 17  \\ 
-        United Kingdom                               & 24  \\ 
-        Finland                                      & 34  \\ 
-        Unknown                                      & 511  
+        United States                                & 16  \\ 
+        United Kingdom                               & 23  \\ 
+        Finland                                      & 28  \\ 
+        Others                                       & 31   \\
+        Unknown                                      & 834  
     \end{tabular}
 \end{table}
 
-Each circle in \ref{posneg} represents one neighbour and axis represent
-the amount of positive and negative reviews that vendor recieved. 
+
+In the graph \ref{listingxprice} is shown distribution of prices of all listings in
+ the market. 
+ The graph \ref{flistingxprice} show distribution of prices gathered
+ from vendor feedbacks. The \ref{flistingxprice} might show one listing
+ multiple times, as one listings might be bought several times
+ and therefore appear multiple times in feedback. We expect, that distribution
+ of prices in these feedbacks reflects more accuratelly the prices of the goods or services
+ that are actually bought at market.
+ The average price of listing is 336.2 Eur with median of 71.Eur,
+ while for feedbacks, it is 100.5 Eur with median of 58 Eur.
+ For price greater than 1000 EUR there were 1533(6.05\%) active listings,
+ 326 of them with price greater than 3550, while
+  there were only 18(0.8\%) feedbacks with only one with maximum price of 3550 Eur $\euro$.
+ There were 115 listings with zero price on the market,
+ but no one of them was mantioned in feedbacks.
+ The listings with 0 price had titles like "CARDING SERVICE *FREE*",
+ "Custom order", "Free Carding Tutorial 2017" and "FREE SAMPLE 84\% MDMA CRYSTAL ROCKS"
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{listingxprice}
+    \caption{Prices of listings}
+    \label{listingxprice}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{flistingxprice}
+    \caption{Prices of listings in feedbacks}
+    \label{flistingxprice}
+\end{figure}
+
+
+
+
+
+
+Each circle in \ref{posneg} represents one vendor and axes represent
+the number of positive and negative feedbacks that vendor recieved. 
 We can see, that vast majority only 2 vendors out of 666 have recieved more negative feedback than positive.
 Only 19 vendors out of 666 managed to get more than 50 negative feedbacks, while all of the these 19 vendors had more
  than 400 positive reviews.
