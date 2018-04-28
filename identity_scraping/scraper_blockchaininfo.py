@@ -1,6 +1,7 @@
 
 from __future__ import print_function
 import urllib2
+import urllib
 from bs4 import BeautifulSoup 
 import re
 import sys
@@ -60,40 +61,47 @@ def warning(*objs):
 def send(url):
 	return urllib2.urlopen(url)
 
-url = "https://www.reddit.com/r/Bitcoin/search?q=bitcoin+address&include_over_18=on"
-firstflag = 1
-while True:
-    time.sleep(20)
-    sys.stdout.flush()
-    user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
-    headers = {'User-Agent': user_agent}
-    try:
-        req = urllib2.Request(url, headers=headers)
-        response = send(req)
-        data = response.read()      
-        text = data.decode('utf-8')
-        text = unicode(text).encode('utf8')
-    except UnicodeDecodeError:
-        print("UNICODE ERROR")
-        sys.exit() 
-    soup = BeautifulSoup(text, 'html.parser')
-    spans = soup.findAll("span", { "class" : "nextprev" })
-    span = str(spans[firstflag])
-    line = re.split('"',span)
-    futurl = (line[3])
-    if firstflag == 0:
-        futurl = (line[9])
-    firstflag = 0
-    addresses = re.findall(r'[13][a-km-zA-HJ-NP-Z1-9]{25,34}', text)
-    for address in addresses:
-        print(url +"," + address)
-    url = futurl
+filters_size = {2:2500, 4:4650, 8:3550, 16:26450, 32:100}
+offset = 0;
+for filtr in tqdm(filters_size):
+    for offset in xrange(0,filters_size[filtr],50):
+        time.sleep(2)
+        url = "https://blockchain.info/tags?filter=" + str(filtr) + "&offset=" + str(offset)
+        user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
+        headers = {'User-Agent': user_agent}
+        try:
+            req = urllib2.Request(url, headers=headers)
+            response = send(req)
+            data = response.read()      
+            text = data.decode('utf-8')
+            text = unicode(text).encode('utf8')
+            soup = BeautifulSoup(text, 'html.parser')
+        except UnicodeDecodeError:
+            continue
 
-# if len(address) == 0:
-	# continue
-# if len(address) == 0:  # todo OPRAVIT a kouknout do dat, jestli to neni nekde spatne
-	# print("Warning multiple addresses")
-# print(url + "," + str(address)[3:-3]   )
-	# print(text)
 
-# https://www.reddit.com/r/Bitcoin/search?q=bitcoin+address&amp;include_over_18=on%27%27&amp;count=22&amp;after=t3_28153c
+        for index,td in enumerate(soup.find_all('td')):
+            if index <4:
+                continue
+            mod = index % 4
+            if mod == 0:
+                try:
+                    address = re.findall(r'[13][a-km-zA-HJ-NP-Z1-9]{25,34}', str(td))[0]
+                except Exception as e:
+                    ipaddress = ""
+            if mod == 1:
+                try:
+                    tag = re.findall(r'">.{1,}</span', str(td))[0][2:-6]
+                except Exception as e:
+                    tag = ""
+            if mod == 2:
+                try:
+                    link = re.findall(r'url=[^\"]{1,}"', str(td))[0][4:-1]
+                    link = urllib.unquote(link)
+                except Exception as e:
+                    link = ""
+            if mod == 3:
+                verified = "true"
+                if "red" in td:
+                    verified = "false"
+                print(address + ",'" + tag + ":" + link + "'"  )

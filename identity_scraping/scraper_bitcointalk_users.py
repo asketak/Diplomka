@@ -1,6 +1,7 @@
 
 from __future__ import print_function
 import urllib
+import urllib2
 from bs4 import BeautifulSoup
 import re
 import sys
@@ -58,22 +59,31 @@ def warning(*objs):
 
 @retry(Exception, tries=8, delay=3, backoff=2)
 def send(url):
-	return urllib.urlopen(url)
+    req = urllib2.Request(url)
+    req.add_header('User-agent', 'Mozilla 5.10')
+    res = urllib2.urlopen(req)
+    return res
 
-for x in tqdm(range(1060000,10,-1)):
-	sys.stdout.flush()
-	try:
-		url = "https://bitcointalk.org/index.php?action=profile;u=" + `x`
-		response = send(url)
-		data = response.read()      # a `bytes` object
-		text = data.decode('utf-8') # a `str`; this step can't be used if data is binaryo
-		text = unicode(text).encode('utf8')
-	except UnicodeDecodeError:
-		continue
-	address = re.findall(r'>[13][a-km-zA-HJ-NP-Z1-9]{25,34}<', text)
-	if len(address) != 1:
-		continue
-	print("Warning multiple addresses")
-	print(url + "," + str(address)[3:-3]   )
-	# print(text)
+    opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
+    req = urllib.request.Request(url="http://localhost/",data=b'None',headers={'User-Agent':' Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0'})
+    handler = urllib.request.urlopen(req)
+    return opener.open(url)
+    # return urllib.urlopen(url,  )
+
+for x in tqdm(range(10,1564822)):
+    sys.stdout.flush()
+    try:
+        url = "https://bitcointalk.org/index.php?action=profile;u=" + `x`
+        response = send(url)
+        data = response.read()      # a `bytes` object
+        text = data.decode('utf-8') # a `str`; this step can't be used if data is binaryo
+        text = unicode(text).encode('utf8')
+    except UnicodeDecodeError:
+        print("ERROR")
+        continue
+    address = re.findall(r'>[13][a-km-zA-HJ-NP-Z1-9]{25,34}<', text)
+    if len(address) != 1:
+        continue
+    print(str(address)[3:-3] + "," + url   )
+    # print(text)
 

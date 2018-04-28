@@ -684,6 +684,7 @@ The results of port scan and web server fingerprinting doesn't indicate
 any new vectors for gathering data about cryptomarket.
 
 \section{Publicly available data scraping}
+\label{Publicly available data scraping}
 
 In order to have some bitcoin addresses and bitcoins linked to identities,
 we searched internet for pages, where are bitcoin addresses tied to real or virtual identities.
@@ -737,6 +738,7 @@ All entities in the \ref{neo4jschema} are represented as graph nodes, the relati
 XXX - dodelat
 
 \section{Using own transactions to identify market wallets}
+\label{Using own transactions to identify market wallets}
 
 Valhalla cryptomarket generates uniue deposit address for each new user.
 When user wants to buy something, he needs to deposit bitcoins to deposit address,
@@ -772,7 +774,7 @@ than we can safely assume, that the not used address is a change address belongi
 We labeled each address in our blockchain transaction graph with unique user number
 and alternately run first and second heuristics until there were no changes in the user number property of addresses.
 Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
-addresses not belonging to the same user.
+addresses not belonging to the same user\parencite{androulaki2013evaluating}.
 There exist few proposals for anonymization methods that could make
 these heuristics missleading( like CoinJoin and dark wallet), but
 these are just concepts or in experimental alpha versions, not easily
@@ -944,11 +946,11 @@ asdf
 \chapter{Application}
 
 This chapter describes the application for searching in gathered data.
-The application consists of three parts.
+The application consists of four parts.
 
 \begin{itemize}
- \item The scraping module, that downloads bitcoin blockchain and also scrapes data from publicly available sites mentioned in section XXX.
- \item The computanional module, which imports data to the database, create indexes and compute heuristics from chapter XXX.
+ \item The scraping module, that downloads bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
+ \item The computanional module, which imports data to the database, create indexes and compute heuristics from chapter \ref{Using own transactions to identify market wallets}.
  \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
  \item Webserver, that handles GUI requests and retrieve data from database.
 \end{itemize}
@@ -959,7 +961,6 @@ The application consists of three parts.
     \caption{Application architecture}
     \label{Vendors by total revenue}
 \end{figure}
-
 
 
 \section{Implementation}

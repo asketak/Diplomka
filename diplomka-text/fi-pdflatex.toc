@@ -50,10 +50,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}\bfseries Statistics of Valhalla cryptomarket}{24}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}\slshape Overall statistics of Valhalla drug market}{24}{section.5.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}\slshape Statistics about vendors, drugs availability and distribution and buyers satisfaction}{28}{section.5.2}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\bfseries Application}{29}{chapter.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}\slshape Implementation}{30}{section.6.1}

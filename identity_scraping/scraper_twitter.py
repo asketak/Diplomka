@@ -6,6 +6,7 @@ from tqdm import *
 import time
 
 import requests
+import pprint
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 # warnings.filterwarnings('ignore')
@@ -71,22 +72,25 @@ class AdvancedSearchScraper(object):
                 # spaces by + . this results in an unexpected final url.
                 # this is the only way to form the correct url
 
-                response = requests.get(
-                    "https://twitter.com/i/search/timeline?q=%s" % self.query,
-                    params = self.ajax_call_params(oldest_tweet_id, newest_tweet_id),
-                    verify = False, headers = headers)
-                json_data = json.loads(response.text)
-                self.tweets += self.get_tweets_from_html(json_data["items_html"])
+                try:
+                    response = requests.get(
+                        "https://twitter.com/i/search/timeline?q=%s" % self.query,
+                        params = self.ajax_call_params(oldest_tweet_id, newest_tweet_id),
+                        verify = False, headers = headers)
+                    json_data = json.loads(response.text)
+                    self.tweets += self.get_tweets_from_html(json_data["items_html"])
 
-                if self.verbose:
-                    print("Scraped {0} tweets so far...".format(len(self.tweets)))
+                    if self.verbose:
+                        print("Scraped {0} tweets so far...".format(len(self.tweets)))
 
-                if oldest_tweet_id == self.tweets[-1]["scroll_id"]:
-                    break
+                    if oldest_tweet_id == self.tweets[-1]["scroll_id"]:
+                        break
 
-                oldest_tweet_id = self.tweets[-1]["scroll_id"]
-                pbar.update(len(self.tweets) - pbar_diff)
-                pbar_diff = len(self.tweets)
+                    oldest_tweet_id = self.tweets[-1]["scroll_id"]
+                    pbar.update(len(self.tweets) - pbar_diff)
+                    pbar_diff = len(self.tweets)
+                except Exception as e:
+                    continue
 
         if isinstance(self.limit, int):
             return self.tweets[:self.limit]
@@ -165,7 +169,7 @@ class AdvancedSearchScraper(object):
 
 
 
-ass = AdvancedSearchScraper("donate%20bitcoin")
+ass = AdvancedSearchScraper("donate%20bitcoin", limit = 10000)
 tweets = ass.scrape();
 for tweet in tweets:
     text = str(tweet['tweet_text'].encode('ascii', 'ignore'))
