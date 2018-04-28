@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SNjcmqB6itAV+Sqi2xKcEXUTZkgBoUfP6R884278xctFlZqe3thIQcx1D8PKMRmXtAsFdSvflcb0saYVVfJ7cg==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/pur-sang">Pur Sang</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kaikki toimi jälleen kerran moitteettomasti.
+<em>(12.2.)</em>
+</td>
+<td>
+<a href="/products/98984">Ksalol 1mg 15kpl</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+JJ***JL
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus ja paketointi paras. Myõhemmin testiin.
+<em>(11.2.)</em>
+</td>
+<td>
+<a href="/products/102103">Etizolaamiliuos 80mg/4ml</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+ma***ta
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+luottomyjä
+<em>(11.2.)</em>
+</td>
+<td>
+<a href="/products/102911">Sininen Tesla (180mg) 10kpl</a>
+(295&nbsp;EUR)
+</td>
+<td><span>
+ga***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+nopea ja hyvä palvelu
+<em>(11.2.)</em>
+</td>
+<td>
+<a href="/products/102103">Etizolaamiliuos 80mg/4ml</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+ga***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopea toimitus 
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/102103">Etizolaamiliuos 80mg/4ml</a>
+(63&nbsp;EUR)
+</td>
+<td><span>
+ga***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+uus luottovendo, 5/5, kiitti, tilaan jatkossakin ja SUOSITTELEN, TÄÄ EI OO KUSETTAJA TOISIN KU MONI MUU!!
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/94091">Norspan 10mg 1kpl</a>
+(54&nbsp;EUR)
+</td>
+<td><span>
+ma***jo
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+5/5 Erinomaista toimintaa
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/101552">Ksalol 1mg 75kpl</a>
+(170&nbsp;EUR)
+</td>
+<td><span>
+3m***us
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/102913">50mg etisolaamijauhe</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+Se***no
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+VERY SMOOTH AND FAST, came in 3-4 days to finland
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/73507">Sildenafil Orion 100mg 4kpl</a>
+(29&nbsp;EUR)
+</td>
+<td><span>
+og***rt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(10.2.)</em>
+</td>
+<td>
+<a href="/products/98984">Ksalol 1mg 15kpl</a>
+(40&nbsp;EUR)
+</td>
+<td><span>
+Va***as
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Luottomyyjä kaikin puolin. Toivottavasti telareita on tulevaisuudessakin tarjolla!
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/57480">5kpl Xanax 2mg</a>
+(35&nbsp;EUR)
+</td>
+<td><span>
+Ga***on
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+je***ja
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Alle vrk perillä. OG-bromaze napit kyl stydimpiä... mut.. mitä pienestä.. ehkä hinnasta. &amp; yhä se toinen lista viel;-- Trust&amp;Peace -
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/99679">20kpl Bromazepam 6mg</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+di***pi
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€10&nbsp;000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Taas 5/5
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/98984">Ksalol 1mg 15kpl</a>
+(45&nbsp;EUR)
+</td>
+<td><span>
+ju***99
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+6/5, apteekkilaatua, nopea toimitus ja hyvä paketointi. 
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+dk***17
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/101812">Ksalol 1mg 5kpl</a>
+(15&nbsp;EUR)
+</td>
+<td><span>
+Ra***ri
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+ihan ok perus naksuja ja paris päiväs tuli perille. tää on mun luotto vendori :)
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/102909">Sininen Tesla (180mg) 3kpl</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+ha***a8
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
++++++++++++++++++++++++++++++++++++++++
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/98984">Ksalol 1mg 15kpl</a>
+(120&nbsp;EUR)
+</td>
+<td><span>
+sl***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+AINA  MITÄ LUPAA LOEVAN.
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/99678">10kpl Flormidal 15mg</a>
+(75&nbsp;EUR)
+</td>
+<td><span>
+sl***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+ nOPEAA JA TOIMIIIII
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/102910">Sininen Tesla (180mg) 5kpl</a>
+(80&nbsp;EUR)
+</td>
+<td><span>
+sl***00
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Asiallinen paketointi ja tuote sitä mitä pitääkin. Kiitokset hyvistä kaupoista!
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+Me***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+nopea toimitus. hyvä paketoiti
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/101552">Ksalol 1mg 75kpl</a>
+(170&nbsp;EUR)
+</td>
+<td><span>
+wi***or
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Loistavaa palvelua! Tuote tuli perille todella nopeasti ja toimii kuten täytyy
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/73507">Sildenafil Orion 100mg 4kpl</a>
+(53&nbsp;EUR)
+</td>
+<td><span>
+Vi***ru
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€50+&nbsp;&bull;&nbsp;1+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+nopsa toimitus
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/102911">Sininen Tesla (180mg) 10kpl</a>
+(145&nbsp;EUR)
+</td>
+<td><span>
+ga***20
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/102907">Sininen Tesla (180mg) 1kpl</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+St***34
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Melkeen 2 viikkoo kesti kun posti toheloi mutta paketti tuli kuitenkin perille ja kaikki hyvin pakattuna/ehjinä! Kiitos! :)
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/101703">Xanor Depot 1mg 4kpl</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+Mr***rt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Melko nopee toimitus ja pakkausessa kaikki tabut ehjinä! Kiitos! :)
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/99676">Xanax 0,5mg 10kpl</a>
+(28&nbsp;EUR)
+</td>
+<td><span>
+Mr***rt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Parissa päivässä perillä! Iso kiitos jälleen!
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+wi***11
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€100+&nbsp;&bull;&nbsp;5+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+luotettavaa ja ammattimaista toimintaa 5/5 tänks.
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/98984">Ksalol 1mg 15kpl</a>
+(85&nbsp;EUR)
+</td>
+<td><span>
+ad***82
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Alle 17 tuntia tilauksesta ja Posti toi jo paketin, uskomatonta. Täys 5/5 kaikintavoin, suosittelen! Tilaan jatkossakin aina täältä kun toi vitun hrolling niminen kauppias kusettaa minkä kerkiää eikö toimita paketteja.
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+br***82
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Jälleen kerran parissa päivässä perille. Luotettava vendori tämä kaveri.
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+pi***ak
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;100+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Saapui nopeasti ja todella huolellisesti pakattuna
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/102909">Sininen Tesla (180mg) 3kpl</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+pu***to
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;25+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Hyvä paketointi, kiitos!
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/102907">Sininen Tesla (180mg) 1kpl</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+En***ne
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeaa toimintaa
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(30&nbsp;EUR)
+</td>
+<td><span>
+at***kt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Nopeaa toimintaa
+<em>(8.2.)</em>
+</td>
+<td>
+<a href="/products/67342">Rivotril 2mg, 10kpl</a>
+(25&nbsp;EUR)
+</td>
+<td><span>
+at***kt
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    <span class="first">
+  <a href="/pur-sang/palautteet">&laquo; First</a>
+</span>
+
+    <span class="prev">
+  <a rel="prev" href="/pur-sang/palautteet/9">&lsaquo; Previous</a>
+</span>
+
+        <span class="page gap">...</span>
+
+        <span class="page">
+  <a href="/pur-sang/palautteet/6">6</a>
+</span>
+
+        <span class="page">
+  <a href="/pur-sang/palautteet/7">7</a>
+</span>
+
+        <span class="page">
+  <a href="/pur-sang/palautteet/8">8</a>
+</span>
+
+        <span class="page">
+  <a rel="prev" href="/pur-sang/palautteet/9">9</a>
+</span>
+
+        <span class="page current">
+  10
+</span>
+
+        <span class="page">
+  <a rel="next" href="/pur-sang/palautteet/11">11</a>
+</span>
+
+        <span class="page">
+  <a href="/pur-sang/palautteet/12">12</a>
+</span>
+
+      <span class="next">
+  <a rel="next" href="/pur-sang/palautteet/11">Next &rsaquo;</a>
+</span>
+
+      <span class="last">
+  <a href="/pur-sang/palautteet/12">Last &raquo;</a>
+</span>
+
+  </nav>
+
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+

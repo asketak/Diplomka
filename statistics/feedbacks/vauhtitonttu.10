@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valhalla</title>
+<link rel="stylesheet" media="all" href="/assets/green/application-06d18944040f0645da0de603bda286e600f9c6b454086a5ca9f25a5bde67e5a3.css" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wreR+WWWtYdo9S46dk1ev9ATqvpFaRTICnD7YjaPXy2ktow91LczqKtWv7NniR17FcIt8HZt011Y+WxeECWKxw==" />
+
+</head>
+<body class='users feedbacks'>
+<nav class='navbar navbar-default' role='navigation'>
+
+<div class='container'>
+<div class='navbar-header'>
+<a class="navbar-brand" href="/products">valhallaxmn3fydu.onion</a>
+</div>
+<div>
+<ul class='nav navbar-nav'>
+
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class='language last-language'><a href="/rekisteroidy/">Suomeksi</a></li>
+<li><a href="/register">Register</a></li>
+
+<li><a href="/login">Log in</a></li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ol class='breadcrumb'>
+<li><a href="/vauhtitonttu">vauhtitonttu</a></li>
+<li class='active'>All feedback</li>
+</ol>
+<table class='table feedbacks'>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+(no detailed feedback)
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/87038">2g Amfetamiini  25e/g</a>
+(55&nbsp;EUR)
+</td>
+<td><span>
+te***ri
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€500+&nbsp;&bull;&nbsp;10+)
+</span>
+</td>
+</tr>
+<tr>
+<td><span class='green' title='Positive'>&#9679;</span></td>
+<td>
+Kiitos. Super stealth, hintalaatusuhde 5/5.
+<em>(9.2.)</em>
+</td>
+<td>
+<a href="/products/87038">2g Amfetamiini  25e/g</a>
+(105&nbsp;EUR)
+</td>
+<td><span>
+na***ke
+</span>
+<span title="Total value and amount of buyer's transactions">
+(€1000+&nbsp;&bull;&nbsp;50+)
+</span>
+</td>
+</tr>
+</table>
+
+<div class='text-center'>
+  <nav class="pagination">
+    <span class="first">
+  <a href="/vauhtitonttu/palautteet">&laquo; First</a>
+</span>
+
+    <span class="prev">
+  <a rel="prev" href="/vauhtitonttu/palautteet/9">&lsaquo; Previous</a>
+</span>
+
+        <span class="page gap">...</span>
+
+        <span class="page">
+  <a href="/vauhtitonttu/palautteet/6">6</a>
+</span>
+
+        <span class="page">
+  <a href="/vauhtitonttu/palautteet/7">7</a>
+</span>
+
+        <span class="page">
+  <a href="/vauhtitonttu/palautteet/8">8</a>
+</span>
+
+        <span class="page">
+  <a rel="prev" href="/vauhtitonttu/palautteet/9">9</a>
+</span>
+
+        <span class="page current">
+  10
+</span>
+
+      
+      
+  </nav>
+
+<p class='text-muted'>Feedback older than three months gets automatically deleted.</p>
+</div>
+
+</div>
+</div>
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
+
