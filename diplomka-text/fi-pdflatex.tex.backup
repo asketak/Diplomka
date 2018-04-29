@@ -864,11 +864,18 @@ In the graph \ref{listingxprice} is shown distribution of prices of all listings
     \label{flistingxprice}
 \end{figure}
 
-We estimated the total revenue for each category
-by summing up the prices of feedbacks.
-This revenue is therefore a minimal revenue, as feedback can be given only if the
-trade happened on cryptomarket.
+We calculated the total revenue for each category
+by multiplying the price of each listings by the number of associated feedbacks
+and summing over all listings in given category. This is a minimal revenue, as feedbacks
+can be given only if the trade happened on cryptomarket.
 Market share is a revenue of category divided by total revenue from all categories.
+The market shares of most popular categories is similar
+to market shares mentioned in previous works.\ref{aldridge2016hidden}
+Average price of occured trades varied from between 60\$ and 150\$ for each category
+with two outiers. Opiates, which has the biggest price/dose ratio and 
+self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
+Custom listings contains no description of any goods/services, just state "custome listing for user: xxx".
+We found totally 300 listings with word "custom" in their title. XXX - nejakej stat o custom listings
 
 \begin{table}
     \caption{Estimated monthly revenue for selected drug categories a by listing price}
@@ -888,19 +895,49 @@ Self-defence &  513 & 4 & 4635 & 0.9\% \\
 Services & 1662 & 35 & 4061 & 0.8\% \\
 Dissociatives &  290 & 38 & 2317 & 0.5\% \\
 Classifieds &  649 & 18 & 2182 & 0.4\% \\
-Cannabis growing &  56 & 2 & 44 & 0\% \\
-Depressants &   71 & 2 & 59 & 0\% \\
-Digital items & 2497 & 9 & 141 & 0\% \\
 Mushroom growing &   26 & 2 & 178 & 0\% \\
+Digital items & 2497 & 9 & 141 & 0\% \\
+Depressants &   71 & 2 & 59 & 0\% \\
+Cannabis growing &  56 & 2 & 44 & 0\% \\
 Paraphernalia  &  36 & 0 & 0 & 0\% \\
 Production / distribution &   17 & 0 & 0 & 0\% 
     \end{tabular}
 \end{table}
 
+
+We can identify one customer buying multiple products from data from listings feedback page.
+Every feedback contains first two and last two characters of buyers username,
+and the total number and price of trades performed by buyer.
+The four letters gives at least $26**4$ distinct possible values, way higher number of 
+than we can find in our 6000 feedbacks. Combined with the information
+about buyers trades, we can safely assume, that we are able identify
+all the feedbacks given by one buyer.
+From our 6000 feedbacks, we gathered 2357 unique four letter combinations.
+When accounting for buyers total number and price of trades, we got 2365 unique combinations.
+
+The \ref{buytrad} shows how many trades have buyers done and how much money have they spent.
+The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
+to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
+90\% of buyers spent between 50\$ and 1000\$ on the market and 9\% spent around 10000\$ or more.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{buytrad}
+    \caption{Buyers spending and trades}
+    \label{buytrad}
+\end{figure}
+
+
+We were interested, if repeat buyers are loyal customers.
+XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?
+
+
 Each circle in \ref{posneg} represents one vendor and axes represent
 the number of positive and negative feedbacks that vendor recieved. 
-We can see, that vast majority only 2 vendors out of 666 have recieved more negative feedback than positive.
-Only 19 vendors out of 666 managed to get more than 50 negative feedbacks, while all of the these 19 vendors had more
+We can see, that vast majority only 2 vendors out of 666 have recieved more
+negative feedback than positive.
+Only 19 vendors out of 666 managed to get more than 50 negative feedbacks,
+while all of the these 19 vendors had more
  than 400 positive reviews.
 Only 40 vendors got more negative feedbacks than positive feedbacks.
  If we look at statistics of reviews from popular e-shop amazon(http://minimaxir.com/2017/01/amazon-spark)
@@ -946,7 +983,7 @@ asdf
 \chapter{Application}
 
 This chapter describes the application for searching in gathered data.
-The application consists of four parts.
+The application consists of roughly four parts.
 
 \begin{itemize}
  \item The scraping module, that downloads bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
@@ -961,7 +998,6 @@ The application consists of four parts.
     \caption{Application architecture}
     \label{Vendors by total revenue}
 \end{figure}
-
 
 
 \section{Implementation}
