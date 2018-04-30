@@ -355,7 +355,34 @@ Illegal online markets have been around for more than 30 years \parencite{motoya
 On these markets, users can sell and buy drugs, weapons, hacking tools, stolen credit cards,
 counterfeit currency, forged documents and other illegal goods and services.
 Most markets forbid selling the most unambiguously harmful goods, such as child pornography or hitman services.
- 
+ \begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{posratxtotal}
+    \caption{Positive reviews of vendors}
+    \label{posratxtotal}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{posneg-log}
+    \caption{Positive/negative reviews of vendors}
+    \label{posneg}
+\end{figure}
+asfd
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{reviews-count-log}
+    \caption{Number of reviews for vendors}
+    \label{reviews}
+\end{figure}
+asdf
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{total-rev}
+    \caption{Total revenue of vendors}
+    \label{Vendors by total revenue}
+\end{figure}
+
 In 2011 appeared a new type of illegal online marketplace called cryptomarket. 
 A cryptomarket is an illegal online market accessible only via TOR network and using bitcoins
 as a means of making payments. These two technologies provided a safer environment
@@ -421,7 +448,7 @@ Transactions can be performed multiple types with different actors.
 
 \subsection{Vendor's feedback}
 
-Cryptomarkets usually employ reputation systems,
+Cryptomarkets usually employ reputation systems \parencite{resnick2000reputation},
 where buyers can share their satisfaction with vendors.
 These systems are similar to systems used in popular e-commerce websites like Amazon or Ebay.
 Users can give feedback only to vendors with whom they have traded with.
@@ -905,38 +932,27 @@ Production / distribution &   17 & 0 & 0 & 0\%
 \end{table}
 
 
-We can identify one customer buying multiple products from data from listings feedback page.
-Every feedback contains first two and last two characters of buyers username,
-and the total number and price of trades performed by buyer.
-The four letters gives at least $26**4$ distinct possible values, way higher number of 
-than we can find in our 6000 feedbacks. Combined with the information
-about buyers trades, we can safely assume, that we are able identify
-all the feedbacks given by one buyer.
-From our 6000 feedbacks, we gathered 2357 unique four letter combinations.
-When accounting for buyers total number and price of trades, we got 2365 unique combinations.
 
-The \ref{buytrad} shows how many trades have buyers done and how much money have they spent.
-The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
-to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
-90\% of buyers spent between 50\$ and 1000\$ on the market and 9\% spent around 10000\$ or more.
-
+Most vendors maintained really high percentage of positive reviews.
+The percentage of positive reviews for all vendors:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.8710  0.9779  0.8145  0.9979  1.0000 
+ When counting only venddors with more than 10 reviews,(304 sellers out of 981) we get:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.9523  0.9834  0.9373  0.9982  1.0000
+ 
 \begin{figure}[!htb]
     \centering
-    \includegraphics[scale=0.4]{buytrad}
-    \caption{Buyers spending and trades}
-    \label{buytrad}
+    \includegraphics[scale=0.4]{revpos}
+    \caption{Vendors revenue by positive feedback ratio}
+    \label{revpos}
 \end{figure}
-
-
-We were interested, if repeat buyers are loyal customers.
-XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?cd 
-
 
 Each circle in \ref{posneg} represents one vendor and axes represent
 the number of positive and negative feedbacks that vendor recieved. 
 We can see, that vast majority only 2 vendors out of 666 have recieved more
 negative feedback than positive.
-Only 19 vendors out of 666 managed to get more than 50 negative feedbacks,
+Only 19 vendors out of 666 managed to get more than 50 negative feedbacks,;
 while all of the these 19 vendors had more
  than 400 positive reviews.
 Only 40 vendors got more negative feedbacks than positive feedbacks.
@@ -969,7 +985,6 @@ asfd
     \caption{Number of reviews for vendors}
     \label{reviews}
 \end{figure}
-asdf
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{total-rev}
@@ -977,30 +992,70 @@ asdf
     \label{Vendors by total revenue}
 \end{figure}
 
-% \section{Statistics about vendors, drugs availability and distribution and buyers satisfaction}
+
+We were interested, if repeat buyers are loyal customers.
+XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?cd 
+
+
+We can identify one customer buying multiple products from data from listings feedback page.
+Every feedback contains first two and last two characters of buyers username,
+and the total number and price of trades performed by buyer.
+The four letters gives at least $26**4$ distinct possible values, way higher number of 
+than we can find in our 6000 feedbacks. Combined with the information
+about buyers trades, we can safely assume, that we are able identify
+all the feedbacks given by one buyer.
+From our 6000 feedbacks, we gathered 2357 unique four letter combinations.
+When accounting for buyers total number and price of trades, we got 2365 unique combinations.
+
+The \ref{buytrad} shows how many trades have buyers done and how much money have they spent.
+The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
+to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
+90\% of buyers spent between 50\$ and 1000\$ on the market and 9\% spent around 10000\$ or more.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{buytrad}
+    \caption{Buyers spending and trades}
+    \label{buytrad}
+\end{figure}
 
 
 \chapter{Application}
 
 This chapter describes the application for searching in gathered data.
-The application consists of roughly four parts.
+The application consists of  four parts.
 
 \begin{itemize}
- \item The scraping module, that downloads bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
- \item The computanional module, which imports data to the database, create indexes and compute heuristics from chapter \ref{Using own transactions to identify market wallets}.
+ \item The scraping scripts, that parse bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
+ \item The computanional module, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
+ \item Webserver, that handles GUI requests and retrieves data from database.
  \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
- \item Webserver, that handles GUI requests and retrieve data from database.
 \end{itemize}
 
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{total-rev}
-    \caption{Application architecture}
-    \label{Vendors by total revenue}
-\end{figure}
+\section{Requirements and setup}
+
+The user need to install Bitcoin Core(at least version 11.0), because 
+the application uses bitcoin core API in order to import blockchain to database.
+After installing bitcoin core, user needs to run:
+"bitcoind -daemon -txindex -rest"
+and wait until the blockchain is downloaded and indexed. This might take several hours or even days.
+User can check the progress of blockchain download by running
+"bitcoin-cli --getblockchaininfo"
+Application also uses Neo4j 
+
+Bitcoin core stores data in .blk files. Script blockchain\_to\_csv.py iterate through blockchain
+and generate several csv files with the data from blockchain that are needed by application.
+The script generates
+\begin{itemize} % XXX - copie
+ \item addresses.csv: sorted list of Bitcoin addressed
+ \item transactions.csv: list of transactions (hash)
+ \item outputs.csv: list of transaction outputs (output\ key, id, value)
+ \item rel\_input.csv: relationship between transactions and transaction outputs (tx\_hash, output\ key)
+ \item rel\_tx\_output.csv: relationship between transactions and transaction outputs (tx\_hash, output\ key)
+ \item rel\_output\_address.csv: relationship between outputs and addresses (output\ key, address)
+\end{itemize}
 
 
-\section{Implementation}
 
 The importing module is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
 The importing module take two parameters, the directory of .blk files, which store blockchain data and directory for cre
@@ -1011,7 +1066,7 @@ eful for debugging and also simplifies importing to neo4j database.
 \begin{figure}[!htb]
     \centering
     \includegraphics[width=1\textwidth]{application_architecture}
-    \caption{Neo4j database ER diagram}
+    \caption{Architecture of application}
     \label{application_architecture}
 \end{figure}
 
