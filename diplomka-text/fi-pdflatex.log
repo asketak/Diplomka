@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  30 APR 2018 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  2 MAY 2018 22:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1691,11 +1691,11 @@ Package biblatex Info: Data encoding 'UTF8' specified.
 \openout3 = `fi-pdflatex.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'fi-pdflatex.bbl' not found.
-
-No file fi-pdflatex.bbl.
+Package biblatex Info: ... file 'fi-pdflatex.bbl' found.
+ (./fi-pdflatex.bbl)
 Package biblatex Info: Reference section=0 on input line 122.
 Package biblatex Info: Reference segment=0 on input line 122.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count356
@@ -1911,48 +1911,13 @@ Package microtype Info: Loading generic settings for font family
  [8]
 Chapter 1.
 
-LaTeX Warning: Citation 'fbi10' on page 1 undefined on input line 133.
-
-
-LaTeX Warning: Citation 'fbcyber' on page 1 undefined on input line 134.
-
-
-LaTeX Warning: Citation 'tzanetakis2016transparency' on page 1 undefined on inp
-ut line 136.
-
-
-LaTeX Warning: Citation 'van2013surfing' on page 1 undefined on input line 137.
-
-
-
-LaTeX Warning: Citation 'aldridge2014not' on page 1 undefined on input line 138
-.
-
-
-LaTeX Warning: Citation 'cox2016staying' on page 1 undefined on input line 153.
-
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
 ]
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
- [2]
-[3]
+[2] [3]
 Chapter 2.
-
-LaTeX Warning: Citation 'nakamoto2008bitcoin' on page 4 undefined on input line
- 220.
-
-
-Overfull \hbox (22.2287pt too wide) in paragraph at lines 220--229
-\T1/qpl/m/n/12 (-20) cryp-tocur-rency, cre-ated by the anony-mous au-thor(s) kn
-own by pseudonym
- []
-
 [4]
 Overfull \hbox (19.4967pt too wide) in paragraph at lines 238--244
 []\T1/qpl/m/n/12 (-20) All the trans-ac-tions, bit-coins and ad-dresses are sto
@@ -1964,244 +1929,70 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 255.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 ) [5]
-
-LaTeX Warning: Citation 'dingledine2004tor' on page 6 undefined on input line 2
-92.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-<images/tor-prejate.jpg, id=299, 746.01291pt x 559.50967pt>
+<images/tor-prejate.jpg, id=314, 746.01291pt x 559.50967pt>
 File: images/tor-prejate.jpg Graphic file (type jpg)
 
 <use images/tor-prejate.jpg>
 Package pdftex.def Info: images/tor-prejate.jpg used on input line 321.
 (pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
  [7]
-<images/tor-packet-prejate.png, id=304, 592.2125pt x 380.42125pt>
+<images/tor-packet-prejate.png, id=320, 592.2125pt x 380.42125pt>
 File: images/tor-packet-prejate.png Graphic file (type png)
 
 <use images/tor-packet-prejate.png>
 Package pdftex.def Info: images/tor-packet-prejate.png used on input line 328.
 (pdftex.def)             Requested size: 361.34999pt x 232.12627pt.
-
-
-LaTeX Warning: Citation 'Zimmermann:1995:OPU:202735' on page 8 undefined on inp
-ut line 335.
-
-[8 <./images/tor-prejate.jpg>]
-
-LaTeX Warning: Citation 'motoyama2011analysis' on page 9 undefined on input lin
-e 354.
-
-<images/posratxtotal.png, id=310, 580.41844pt x 590.205pt>
+ [8 <./images/tor-prejate.jpg>]
+<images/posratxtotal.png, id=330, 580.41844pt x 590.205pt>
 File: images/posratxtotal.png Graphic file (type png)
 
 <use images/posratxtotal.png>
 Package pdftex.def Info: images/posratxtotal.png used on input line 360.
 (pdftex.def)             Requested size: 232.16325pt x 236.0778pt.
 
-Overfull \hbox (91.96849pt too wide) in paragraph at lines 354--364
-\T1/qpl/m/n/12 (-20) Illegal on-line mar-kets have been around for more than 30
- years [[]].
- []
-
-<images/posneg-log.png, id=311, 582.67688pt x 591.71063pt>
+<images/posneg-log.png, id=331, 582.67688pt x 591.71063pt>
 File: images/posneg-log.png Graphic file (type png)
 
 <use images/posneg-log.png>
 Package pdftex.def Info: images/posneg-log.png used on input line 367.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/reviews-count-log.png, id=312, 582.67688pt x 591.71063pt>
+<images/reviews-count-log.png, id=332, 582.67688pt x 591.71063pt>
 File: images/reviews-count-log.png Graphic file (type png)
 
 <use images/reviews-count-log.png>
 Package pdftex.def Info: images/reviews-count-log.png used on input line 374.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
 
-<images/total-rev.png, id=313, 582.67688pt x 591.71063pt>
+<images/total-rev.png, id=333, 582.67688pt x 591.71063pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
 Package pdftex.def Info: images/total-rev.png used on input line 381.
 (pdftex.def)             Requested size: 233.06662pt x 236.68005pt.
  [9 <./images/tor-packet-prejate.png>]
-
-LaTeX Warning: Citation 'paquet2017cryptomarkets' on page 10 undefined on input
- line 393.
-
-
-Overfull \hbox (63.79695pt too wide) in paragraph at lines 391--394
-\T1/qpl/m/n/12 (-20) con-tain-ing com-mon goods sent by big on-line re-tail-ers
-. [[]] 
- []
-
-
-LaTeX Warning: Citation 'van2014responsible' on page 10 undefined on input line
- 396.
-
-
-LaTeX Warning: Citation 'barratt2014use' on page 10 undefined on input line 398
-.
-
-
-Overfull \hbox (132.25465pt too wide) in paragraph at lines 395--399
-\T1/qpl/m/n/12 (-20) traf-fic, se-cure and anony-mous en-vi-ron-ment for con-du
-ct-ing their bussiness[[]].
- []
-
-
-LaTeX Warning: Citation 'wehinger2011dark' on page 10 undefined on input line 4
-01.
-
-
-Overfull \hbox (22.5239pt too wide) in paragraph at lines 400--405
-\T1/qpl/m/n/12 (-20) each other and the risk of a fail-ure of a deal is still h
-igh [[]].
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10 <./images/posratxtotal.png>] [11 <./images/posneg-log.png>] [12 <./images/
-reviews-count-log.png>]
-
-LaTeX Warning: Citation 'moser2013inquiry' on page 13 undefined on input line 4
-39.
-
-
-LaTeX Warning: Citation 'resnick2000reputation' on page 13 undefined on input l
-ine 451.
-
-
-Overfull \hbox (30.29347pt too wide) in paragraph at lines 451--459
-\T1/qpl/m/n/12 (-20) Cryptomarkets usu-ally em-ploy rep-u-ta-tion sys-tems [[]]
-,
- []
-
-[13 <./images/total-rev.png>]
-
-LaTeX Warning: Citation 'aldridge2014not' on page 14 undefined on input line 46
-1.
-
-
-LaTeX Warning: Citation 'soska2015measuring' on page 14 undefined on input line
- 461.
-
-[14]
+reviews-count-log.png>] [13 <./images/total-rev.png>] [14]
 Chapter 3.
-
-LaTeX Warning: Citation 'reid2013analysis' on page 15 undefined on input line 4
-98.
-
-
-Overfull \hbox (28.48949pt too wide) in paragraph at lines 498--506
-[]\T1/qpl/m/n/12 (-20) The au-thors of first re-search ar-ti-cle [[]] parsed bl
-ockchain
- []
-
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 15 undefined on inpu
-t line 507.
-
-
-LaTeX Warning: Citation 'reid2013analysis' on page 15 undefined on input line 5
-08.
-
-
-LaTeX Warning: Citation 'spagnuolo2014bitiodine' on page 15 undefined on input 
-line 519.
-
-
-Overfull \hbox (6.02507pt too wide) in paragraph at lines 519--525
-[]\T1/qpl/m/n/12 (-20) Advanced and sim-i-lar work was done by [[]].
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
-
-LaTeX Warning: Citation 'fleder2015bitcoin' on page 16 undefined on input line 
-526.
-
-
-LaTeX Warning: Citation 'ron2013quantitative' on page 16 undefined on input lin
-e 532.
-
-
-LaTeX Warning: Citation 'ron2014did' on page 16 undefined on input line 536.
-
-
-LaTeX Warning: Citation 'meiklejohn2013fistful' on page 16 undefined on input l
-ine 544.
-
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 16 undefined on inpu
-t line 548.
-
-
-Overfull \hbox (69.24196pt too wide) in paragraph at lines 544--550
+Overfull \hbox (0.48285pt too wide) in paragraph at lines 544--550
 []\T1/qpl/m/n/12 (-20) In con-trast to pre-vi-ously men-tioned pa-pers, Meik-le
--john [[]]
- []
-
-
-Overfull \hbox (42.61453pt too wide) in paragraph at lines 544--550
-\T1/qpl/m/n/12 (-20) heuris-tics for clus-ter-ing ad-dresses as An-droulaki. [[
-]]
+-john [[]16[]] doesn't
  []
 
 [16]
-
-LaTeX Warning: Citation 'aldridge2014not' on page 17 undefined on input line 56
-1.
-
-
-LaTeX Warning: Citation 'barratt2014use' on page 17 undefined on input line 562
-.
-
-
-LaTeX Warning: Citation 'christin2013traveling' on page 17 undefined on input l
-ine 563.
-
-
-LaTeX Warning: Citation 'dolliver2015criminogenic' on page 17 undefined on inpu
-t line 564.
-
-
-LaTeX Warning: Citation 'van2013silk' on page 17 undefined on input line 565.
-
-
-LaTeX Warning: Citation 'walsh2011drugs' on page 17 undefined on input line 566
-.
-
-
-LaTeX Warning: Citation 'martin2014lost' on page 17 undefined on input line 567
-.
-
-
-Overfull \hbox (82.5386pt too wide) in paragraph at lines 557--568
-\T1/qpl/m/n/12 (-20) [[]] [[]] [[]] [[]]
+Overfull \hbox (0.52802pt too wide) in paragraph at lines 581--586
+[]\T1/qpl/m/n/12 (-20) Broseus [[]7[]] re-stricted his re-search to ven-dors sh
+ip-ping from Canada
  []
-
-
-LaTeX Warning: Citation 'aldridge2017delivery' on page 17 undefined on input li
-ne 571.
-
-
-LaTeX Warning: Citation 'decary2017repeat' on page 17 undefined on input line 5
-77.
-
-
-LaTeX Warning: Citation 'broseus2016studying' on page 17 undefined on input lin
-e 581.
-
-
-LaTeX Warning: Citation 'dolliver2016characteristics' on page 17 undefined on i
-nput line 587.
 
 [17] [18]
 Chapter 4.
@@ -2245,47 +2036,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 4634) has occurred while \output is active []
 
  [22]
-<images/neo4j-schema.jpg, id=393, 603.25375pt x 481.8pt>
+<images/neo4j-schema.jpg, id=465, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
 Package pdftex.def Info: images/neo4j-schema.jpg used on input line 761.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
  [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 24 undefined on inpu
-t line 789.
-
-
-LaTeX Warning: Citation 'reid2013analysis' on page 24 undefined on input line 7
-89.
-
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 24 undefined on inpu
-t line 799.
-
-[24 <./images/neo4j-schema.jpg>]
-
-LaTeX Warning: Citation 'androulaki2013evaluating' on page 25 undefined on inpu
-t line 804.
-
-[25]
+ [24 <./images/neo4j-schema.jpg>] [25]
 Chapter 5.
-<images/listingsxsellers.png, id=410, 580.41844pt x 590.205pt>
+<images/listingsxsellers.png, id=486, 580.41844pt x 590.205pt>
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
 Package pdftex.def Info: images/listingsxsellers.png used on input line 823.
 (pdftex.def)             Requested size: 232.16325pt x 236.0778pt.
  [26 <./images/listingsxsellers.png>]
-<images/listingxprice.png, id=421, 580.41844pt x 590.205pt>
+<images/listingxprice.png, id=497, 580.41844pt x 590.205pt>
 File: images/listingxprice.png Graphic file (type png)
 
 <use images/listingxprice.png>
 Package pdftex.def Info: images/listingxprice.png used on input line 882.
 (pdftex.def)             Requested size: 232.16325pt x 236.0778pt.
 
-<images/flistingxprice.png, id=422, 580.41844pt x 590.205pt>
+<images/flistingxprice.png, id=498, 580.41844pt x 590.205pt>
 File: images/flistingxprice.png Graphic file (type png)
 
 <use images/flistingxprice.png>
@@ -2304,7 +2080,7 @@ Overfull \hbox (38.04572pt too wide) in paragraph at lines 910--932
  [][] 
  []
 
-<images/revpos.png, id=427, 580.41844pt x 590.205pt>
+<images/revpos.png, id=503, 580.41844pt x 590.205pt>
 File: images/revpos.png Graphic file (type png)
  <use images/revpos.png>
 Package pdftex.def Info: images/revpos.png used on input line 946.
@@ -2350,7 +2126,7 @@ Overfull \hbox (24.41747pt too wide) in paragraph at lines 1010--1014
 ,10,25,50,100,500,1000
  []
 
-<images/buytrad.png, id=446, 580.41844pt x 590.205pt>
+<images/buytrad.png, id=521, 580.41844pt x 590.205pt>
 File: images/buytrad.png Graphic file (type png)
  <use images/buytrad.png>
 Package pdftex.def Info: images/buytrad.png used on input line 1017.
@@ -2359,49 +2135,83 @@ Package pdftex.def Info: images/buytrad.png used on input line 1017.
 [31 <./images/revpos.png (PNG copy)>]
 Chapter 6.
 [32] [33]
-Overfull \hbox (11.14839pt too wide) in paragraph at lines 1060--1065
-\T1/qpl/m/n/12 (-20) ule take two pa-ram-e-ters, the di-rec-tory of .blk files,
- which store blockchain
- []
-
-<images/application_architecture.jpg, id=462, 1133.23375pt x 357.335pt>
+<images/application_architecture.jpg, id=537, 1133.23375pt x 357.335pt>
 File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 1068.
+ 1067.
 (pdftex.def)             Requested size: 361.34999pt x 113.9406pt.
  [34]
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-Overfull \hbox (16.56487pt too wide) in paragraph at lines 1090--1091
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+
+LaTeX Warning: Reference `guiscreen' on page 35 undefined on input line 1099.
 
 [35]
-Chapter 7.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36 <./images/buytrad.png (PNG copy)> <./images/application_architecture.jpg>]
- [37]
+
+Overfull \hbox (7.78413pt too wide) in paragraph at lines 1121--1122
+[]\T1/qpl/m/n/12 (-20) XXX - dat screen-shot ne-jakeho searche a presny prik-la
+d, co konkretne
+ []
+
+
+LaTeX Warning: Citation 'kalodner2017blocksci' on page 37 undefined on input li
+ne 1130.
+
+[37] [38]
+Chapter 7.
+[39]
 Chapter 8.
+[40]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1157 \end
+           {document}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-LaTeX Warning: Empty bibliography on input line 1110.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1157 \end
+           {document}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1111.
-[38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1111.
+
+Overfull \hbox (16.57443pt too wide) in paragraph at lines 1157--1157
+[]\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (-20) . https://p
+df.ic3.gov/2010$[]\OML/zplm/m/it/12 C\OT1/ppl/m/n/12 3\OML/zplm/m/it/12 Report\
+OT1/ppl/m/n/12 .\OML/zplm/m/it/12 pdf$\T1/qpl/m/n/12 (-20) :
+ []
+
+
+Overfull \hbox (4.35976pt too wide) in paragraph at lines 1157--1157
+[]\T1/qpl/m/n/12 (-20) Judith Aldridge and David Décary-Hétu. ^^P  Not an'Ebay 
+for Drugs':
+ []
+
+[41] [42]
+Overfull \hbox (1.46382pt too wide) in paragraph at lines 1157--1157
+[]\T1/qpl/m/n/12 (-20) Philip R. Zim-mer-mann. \T1/qpl/m/it/12 The Of-fi-cial P
+GP User's Guide\T1/qpl/m/n/12 (-20) . Cam-bridge,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1157.
+[43]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1157.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1157.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1157.
 
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
-(rerunfilecheck)             Checksum: D4273B3C3162950F9C219C80FD494F1B;2540.
+(rerunfilecheck)             Checksum: 8248EEB9B5E612362B7DD8E036DB5E7C;2544.
 
 
 LaTeX Warning: There were undefined references.
@@ -2419,13 +2229,13 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27753 strings out of 493826
- 447297 string characters out of 6156380
- 909902 words of memory out of 5000000
- 30375 multiletter control sequences out of 15000+600000
- 70132 words of font info for 112 fonts, out of 8000000 for 9000
+ 27454 strings out of 493826
+ 446288 string characters out of 6156380
+ 909900 words of memory out of 5000000
+ 30039 multiletter control sequences out of 15000+600000
+ 74373 words of font info for 116 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 57i,9n,51p,1136b,1870s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,9n,48p,1136b,2538s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.e
 nc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/
@@ -2436,10 +2246,10 @@ ublic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on fi-pdflatex.pdf (49 pages, 542192 bytes).
+Output written on fi-pdflatex.pdf (54 pages, 558681 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
- 119 named destinations out of 1000 (max. 500000)
- 20324 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 554 compressed objects within 6 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 20836 words of extra memory for PDF output out of 24883 (max. 10000000)
 

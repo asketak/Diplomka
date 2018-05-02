@@ -948,10 +948,6 @@ The percentage of positive reviews for all vendors:
     \label{revpos}
 \end{figure}
 
-We were interested, if repeat buyers are loyal customers.
-XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?cd 
-
-
 Each circle in \ref{posneg} represents one vendor and axes represent
 the number of positive and negative feedbacks that vendor recieved. 
 We can see, that vast majority only 2 vendors out of 666 have recieved more
@@ -997,6 +993,10 @@ asfd
 \end{figure}
 
 
+We were interested, if repeat buyers are loyal customers.
+XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?cd 
+
+
 We can identify one customer buying multiple products from data from listings feedback page.
 Every feedback contains first two and last two characters of buyers username,
 and the total number and price of trades performed by buyer.
@@ -1011,13 +1011,14 @@ The \ref{buytrad} shows how many trades have buyers done and how much money have
 The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
 to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
 90\% of buyers spent between 50\$ and 1000\$ on the market and 9\% spent around 10000\$ or more.
-XXX - proc existuji lide s hodne nakupy a malymi utratami?
+
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{buytrad}
     \caption{Buyers spending and trades}
     \label{buytrad}
 \end{figure}
+
 
 \chapter{Application}
 
@@ -1031,18 +1032,18 @@ The application consists of  four parts.
  \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
 \end{itemize}
 
-\section{Requirements and setup}
+\section{Requirements and setup }
 
 The user need to install Bitcoin Core(at least version 11.0), because 
 the application uses bitcoin core API in order to import blockchain to database.
 After installing bitcoin core, user needs to run:
 "bitcoind -daemon -txindex -rest"
 and wait until the blockchain is downloaded and indexed. This might take several hours or even days.
-User can check the progress of blockchain download by running
+User can check the progress of blockchain synchronization by running
 "bitcoin-cli --getblockchaininfo"
-Application also uses Neo4j 
+Bitcoin core stores data in .blk files defaultly in home directory.
 
-Bitcoin core stores data in .blk files. Script blockchain\_to\_csv.py iterate through blockchain
+Script blockchain\_to\_csv.py iterate through blockchain
 and generate several csv files with the data from blockchain that are needed by application.
 The script generates
 \begin{itemize} % XXX - copie
@@ -1055,12 +1056,11 @@ The script generates
 \end{itemize}
 
 
-
-The importing module is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
-The importing module take two parameters, the directory of .blk files, which store blockchain data and directory for cre
-ating neo4j graph database.
-The import module firstly parses the .blk files and save blockchain as multiple .csv files. This intermidiary step is us
-eful for debugging and also simplifies importing to neo4j database.
+The importing script ($csv\_to_neo4j.py$) is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
+The importing script takes two parameters, the directory of .csv files created in previous step
+and directory for creating neo4j graph database.
+Having csv files as interminiary step is useful for debugging application and also provides easy way to
+using application with different blockchain or customly generated data.
 
 \begin{figure}[!htb]
     \centering
@@ -1069,8 +1069,9 @@ eful for debugging and also simplifies importing to neo4j database.
     \label{application_architecture}
 \end{figure}
 
-The next importing script is scrape\_identities.py script, which crawl popular forums and multiple websites and creates 
-identities.csv.
+The next script is scrape\_identities.sh. It runs multiple python scrapers, each scraping one website.
+It than merges outputs of these scripts into single csv file, identities.csv.
+
 File identities.csv contains 3 collumns.
 \begin{itemize}
   \item Address - bitcoin address the identity is associated with
@@ -1078,19 +1079,64 @@ File identities.csv contains 3 collumns.
   \item URL - Url where the Identity and Address were scraped
 \end{itemize}
 
-If the user has his own data about the owners of different bitcoin addresses, he can import it through the web GUI later
-.
+identities.csv can be imported into database by running identities\_to\_neo4j.py
+The user can supply his own file with identities tied to bitcoin addresses in the same format as identities.csv and 
+run identities\_to\_neo4j.py multiple times to add new identities to database.
 
+Script\ cluster\_identities.py connects to database and run queries that will cluster bitcoin addresses into
+clusters belonging to the same user. Computing these heuristics is very disk read/write heavy.
+For 3 months of blockchain data(December 2017 - February 2018) it ran multiple hours.
+
+At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
+to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
+
+XXX - popsat jeste hledani, shortest path mezi adresami
 
 \section{Usage}
 
-\noindent See the following command :
-\begin{lstlisting}[language=bash]
-  $ ./import_module ~/.blockchain/ ~/neo4j/graph.db
-\end{lstlisting}
+The GUI has one input form, where user should write the bitcoin address he is interested in.
+The GUI than shows multiple information about the inserted address, nearby addresses and identities.
+It consists of 5 parts, these are highlighted in the screenshot \ref{guiscreen}.
+
+The first part is simple HTML form where user submit bitcoin address he is interested in.
+After submission, the rest of the parts show information about given address.
+
+The table in part 2 show list of nearby addresses with known identity. The distance is number of transactions
+between inserted address and addres in table. It also shows where the URL the identity was found
+and amount of bitcoins that wen through that address over the history of blockchain.
+In section 3, there are two pie charts. The first pie-chart shows bitcoins that were recieved by the address
+and what percentage of recieved bitcoins was the application able to link to some identity.
+The second pie chart show the same information for outgouing bitcoins, the percentage of bitcoins that were sent from this address
+and ended up in address that we were able to find associated identity.
+
+The transaction graph in part 4 shows searched address in the middle and it's associated transactions.
+Incoming transactions on left and outgoing transactions on right. Each transaction also show a pie chart showing
+same data as pie charts in section 3. This way, user can identify outgoing transaction with the most bitcoins that were lately identified.
+
+The last section is a graph shows the path of transactions between searched address and identified addresses.
+The x axis shows distance of transactions from the searched address, positive for transactions, that transfered bitcoins
+from searched address to some address we identifies, negative is for transactions that transfered bitcoins
+from identified address to our searched addres.
+
+XXX - dat screenshot nejakeho searche a presny priklad, co konkretne co znamena
 
 \section{Future development possibilities}
 
+The application is finding the nearest addresses with associated identities when the user inserts the address.
+It is searching these addresses by performing BFS over transactions up to the length of 5 transactions.
+BFS performance is pretty bad and the application could use more paralelism and also precompute data once, so that
+installation would took more time because of precomputation, but searching would be much faster.
+
+Also, more heuristics for clustering addresses have been described in 
+\parencite{androulaki2013evaluating}. These heuristics are not based just on transaction graph, but also
+on expected behaviour of users. These heuristics are less accurate, but 
+offer more options to cluster addresses of same owner. The application could let user decide, which heuristics
+he wants to use and/or show, which identities were found by which combination of heuristics.
+
+The GUI and code would definetely use some more polishing.
+Also since we have started working on this application, new
+application frameworks have appeared, who claim much better performance than
+neo4j database.
 
 \chapter{Testing and verification of the created tool}
 This chapter describes the way, the POC application was tested.

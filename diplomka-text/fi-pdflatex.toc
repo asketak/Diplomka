@@ -52,16 +52,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\bfseries Application}{32}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}\slshape Requirements and setup}{33}{section.6.1}
+\contentsline {section}{\numberline {6.1}\slshape Requirements and setup }{33}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}\slshape Usage}{35}{section.6.2}
+\contentsline {section}{\numberline {6.2}\slshape Usage}{36}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}\slshape Future development possibilities}{35}{section.6.3}
+\contentsline {section}{\numberline {6.3}\slshape Future development possibilities}{37}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{36}{chapter.7}
+\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{39}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}\slshape Method of testing}{37}{section.7.1}
+\contentsline {section}{\numberline {7.1}\slshape Method of testing}{39}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}\slshape results}{37}{section.7.2}
+\contentsline {section}{\numberline {7.2}\slshape results}{39}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Conclusion}{38}{chapter.8}
+\contentsline {chapter}{\numberline {8}\bfseries Conclusion}{40}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
