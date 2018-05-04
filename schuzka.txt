@@ -242,4 +242,11 @@ reddit -> REddit
 
 = v odrazkach??
 koukni na top 100 vendoru dle revenue a domysli ditribuci dle mnozstvi / pomeru recenzi ktere maji
-prejmenovat pgp klice
+
+
+
+O cem vim:
+Nezapada do celkoveho obrazku jednotlive kapitoly zezacatku
+chybejici .onion vysvetleni
+Anglictina + typografie - = v odrazkach
+

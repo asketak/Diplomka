@@ -20,6 +20,28 @@ var piedata = [
 		"color": "#67f200"
 	}]
 
+var piedata2 = [
+	{
+		"label": "Unknown",
+		"value": 8,
+		"color": "#f30000"
+	},
+	{
+		"label": "SatoshiDice",
+		"value": 4,
+		"color": "#0600f3"
+	},
+	{
+		"label": "Bitfinex",
+		"value": 2,
+		"color": "#00b109"
+	},
+	{
+		"label": "Addresses with identities",
+		"value": 1,
+		"color": "#67f200"
+	}]
+	
 var tabledata=[
 	{
 		"address": "14BzdTwZyJTWewiZdYMGafiNUxmSYm9K91",

@@ -70,7 +70,7 @@ def send(url):
     return opener.open(url)
     # return urllib.urlopen(url,  )
 
-for x in tqdm(range(10,1564822)):
+for x in tqdm(range(1000000,1200000)):
     sys.stdout.flush()
     try:
         url = "https://bitcointalk.org/index.php?action=profile;u=" + `x`

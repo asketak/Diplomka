@@ -6,7 +6,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}\slshape Goals}{2}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}\slshape Structure of thesis}{2}{section.1.2}
+\contentsline {section}{\numberline {1.2}\slshape Structure of the thesis}{2}{section.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}\bfseries Related terminology}{4}{chapter.2}
 \defcounter {refsection}{0}\relax 
@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}\rmfamily Mining}{6}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}\slshape TOR - the onion routing}{7}{section.2.2}
+\contentsline {section}{\numberline {2.2}\slshape Tor - the onion routing}{7}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}\slshape PGP}{8}{section.2.3}
 \defcounter {refsection}{0}\relax 
@@ -26,45 +26,43 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.2}\rmfamily Tumbler}{12}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.3}\rmfamily Vendor's feedback}{13}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.3}\rmfamily Vendor's feedback}{14}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.4}\rmfamily Valhalla cryptomarket}{14}{subsection.2.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}\bfseries Related works}{15}{chapter.3}
+\contentsline {chapter}{\numberline {3}\bfseries Related work}{16}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}\slshape Blockchain analysis and linking bitcoin addresses}{15}{section.3.1}
+\contentsline {section}{\numberline {3.1}\slshape Blockchain analysis and linking bitcoin addresses}{16}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}\slshape Behaviour of drug markets users and operators}{17}{section.3.2}
+\contentsline {section}{\numberline {3.2}\slshape Behaviour of drug markets users and operators}{18}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}\bfseries Methods and tools of data retrieval and analysis}{19}{chapter.4}
+\contentsline {chapter}{\numberline {4}\bfseries Methods and tools of data retrieval and analysis}{20}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}\slshape Valhalla cryptomarket webscraping}{19}{section.4.1}
+\contentsline {section}{\numberline {4.1}\slshape Valhalla cryptomarket webscraping}{20}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{21}{section.4.2}
+\contentsline {section}{\numberline {4.2}\slshape Valhalla cryptomarket metadata scraping and analysis}{22}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}\slshape Publicly available data scraping}{22}{section.4.3}
+\contentsline {section}{\numberline {4.3}\slshape Publicly available data scraping}{23}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}\slshape Retrieving, storing and analyzing blockchain data}{23}{section.4.4}
+\contentsline {section}{\numberline {4.4}\slshape Retrieving, storing and analyzing blockchain data}{24}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}\slshape Using own transactions to identify market wallets}{23}{section.4.5}
+\contentsline {section}{\numberline {4.5}\slshape Using own transactions to identify market wallets}{24}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\bfseries Statistics of Valhalla cryptomarket}{26}{chapter.5}
+\contentsline {chapter}{\numberline {5}\bfseries Application}{27}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}\bfseries Application}{32}{chapter.6}
+\contentsline {chapter}{\numberline {6}\bfseries Statistics of Valhalla cryptomarket}{28}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}\slshape Requirements and setup }{33}{section.6.1}
+\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{34}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}\slshape Usage}{36}{section.6.2}
+\contentsline {section}{\numberline {7.1}\slshape Method of testing}{34}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}\slshape Future development possibilities}{37}{section.6.3}
+\contentsline {section}{\numberline {7.2}\slshape results}{34}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{39}{chapter.7}
+\contentsline {chapter}{\numberline {8}\bfseries Conclusion and future work}{35}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}\slshape Method of testing}{39}{section.7.1}
+\contentsline {chapter}{Appendices}{38}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}\slshape results}{39}{section.7.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Conclusion}{40}{chapter.8}
+\contentsline {chapter}{\numberline {A}\bfseries Requirements and setup }{39}{Appendix.a.A}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 

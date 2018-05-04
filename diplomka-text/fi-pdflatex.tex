@@ -33,6 +33,9 @@
                 %% in either Czech or Slovak, respectively.
  %english, german, russian, czech, slovak %% The additional keys allow
 ]{babel}        %% foreign texts to be typeset as follows:
+\usepackage[                % Appendices
+  toc,page
+]{appendix}
 %%
 %%   \begin{otherlanguage}{german}  ... \end{otherlanguage}
 %%   \begin{otherlanguage}{russian} ... \end{otherlanguage}
@@ -65,18 +68,18 @@
     advisor       = {RNDr. Martin Stehlík},
     title         = {Darknet market analysis and user de-anonymization},
     TeXtitle      = {Darknet market analysis and user de-anonymization},
-    keywords      = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
+    keywords      = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, metadata, de-anonymizatio
 n},
-    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, TOR, cryptocurrency, anonymity, metadata, de-anonymizatio
+    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, metadata, de-anonymizatio
 n},
     abstract      = {This thesis has two goals. The first goal is to perform quantitative statistical analysis of
     Valhalla cryptomarket. We scraped Valhalla cryptomarket website for information about vendors, listings and buyers
     and brought up a lot of interesting statistics about them.
     
     The second goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
- which can be helpful to deanonymize users of drug markets available via TOR on dark web. The aim of this tool
+ which can be helpful to deanonymize users of drug markets available via Tor on dark web. The aim of this tool
  is to help investigators with collecting intelligence about entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. Cryptomarkets are operated
- as TOR services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
+ as Tor services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
  
     We scraped multiple publicly available social sites and websites related to bitcoin(Twitter, Bitcointalk, Reddit,
     blockchain.info...) and drug markets themselves using python.
@@ -127,9 +130,9 @@ n},
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
-The relative anonymity of the Internet offers an incentive for criminal parties to use the internet as a tool for their activities.
+The relative anonymity of the Internet offers an incentive for criminal parties to use the Internet as a tool for their activities.
 Internet facilitated some forms of existing crimes (selling drugs, guns and
-counterfeits, running Ponzi schemes) and also enabled many new types of frauds like hacking, phishing, carding and identity theft.
+counterfeits, running Ponzi schemes) and also enabled many new types of frauds like hacking, phishing and identity theft.
 
 Publicly available statistics show that cybercriminals are much
  less likely to be discovered and persecuted.
@@ -148,10 +151,10 @@ Also, it was hard for two anonymous entities engaging in criminal activity to tr
 
 For bitcoin, there is no central authority requiring bitcoin address
 (bitcoin equivalent of bank account number) to be linked to person's identity and so 
-criminals can use their anonymous connection to the internet to both receive and send bitcoins without disclosing their identity.
+criminals can use their connection to the Internet to both receive and send bitcoins without disclosing their identity.
 However, all bitcoin transactions are publicly available and so each bitcoin can be tracked through the whole transaction history.
  Cryptomarkets are online marketplaces with listings offering illegal goods and services.
- Cryptomarkets are accessible via TOR network and users of cryptomarkets use PGP to communicate. 
+ Cryptomarkets are accessible via Tor network and users of cryptomarkets use PGP to communicate. 
 These mechanisms make it possible for cryptomarkets to publicly operate, yet be hard to reach by law enforcement.
 \parencite{cox2016staying}
 
@@ -181,7 +184,6 @@ same owner.
 \section{Structure of the thesis}
 XXX - mozna se zmeni lehce jmena/poradi kapitol, jinak povidani stejne
 
-The following text describes individual chapters of this thesis.
 Chapter Related works give an overview of works already done on similar topics. 
 
 Chapter Technology and terms starts with a quick introduction to bitcoin and blockchain,
@@ -191,7 +193,7 @@ It also describes how cryptomarkets work and tools that are used users and admin
 The chapter Methods and tools describes the process of collecting and storing the data from bitcoin blockchain,
 drug markets and publicly available forums and social networks. 
 
-Deanonymization techniques chapter describes heuristics and methods that are later used by the application to detect 
+Deanonymization techniques chapter describes heuristics and methods that are used by the application to detect 
 addresses used by drug markets and link the users of drug markets to publicly found identities.
 
 Chapter Statistics of drug markets consists of various statistics about drug markets that were gathered during drug mar
@@ -208,9 +210,9 @@ The last chapter is a discussion about achieved goals, problems of implementatio
 \chapter{Related terminology}
 
 In this chapter, I explain the terms and technology related to online drug markets.
-The online drug markets use several technologies that are crucial to their anonymous operation.
-The Bitcoin enables different parties to exchange value in an anonymous way.
-TOR allows users and administrators of a marketplace to hide from any third party doing packet sniffing on the network,
+Online drug markets use several technologies that are crucial to their anonymous operation.
+Bitcoin enables different parties to exchange value in an anonymous way.
+Tor allows users and administrators of a marketplace to hide from any third party doing packet sniffing on the network,
 that they are accessing drug marketplace. It also hides the location on drug marketplace web server from its users.
 PGP enables sellers and vendors to communicate between each other in an encrypted way,
 so that drug market administrators cannot eavesdrop on that communication.
@@ -221,7 +223,7 @@ analysis of their cash flow and improve anonymity of users and administrators.
 
 Bitcoin \parencite{nakamoto2008bitcoin} is the first decentralized peer to peer cryptocurrency,
 created by the anonymous author(s) known by pseudonym Satoshi Nakamoto in 2008.
-Bitcoin transactions are not verified by the central authority, they are processed by distributed peer to peer network of bitcoin nodes instead. 
+Bitcoin transactions are not verified by central authority, they are processed by distributed peer to peer network of bitcoin nodes instead. 
 The source code of bitcoin nodes is an open source and can be downloaded and run locally. 
 The entire history of transactions is stored in a distributed public ledger called blockchain.
 Bitcoin combines multiple cryptography algorithms to achieve consensus among nodes
@@ -261,18 +263,18 @@ The new transaction comply with the following:
 The new transaction must have 1 or more outputs.
 There can be multiple outputs in a transaction with different associated addresses and bitcoin value,
 however, there happens to be a common pattern. When the sender sends bitcoins to one recipient,
-the transaction contains two outputs.
+the transaction typically contains two outputs.
 One output contains the recipient's address and the volume of bitcoins he receives.
 One output is called "change output". Since the sender usually doesn't own outputs that sum to be equal to the number of bitcoins
 he wants to send, he adds a second output to the transaction.
 The second output has an address he owns and amount of bitcoins he will get back from the transaction.
  This is the only way to split bitcoins into smaller parts. 
 
-When sending transaction,
+When sending bitcoins from wallet,
  wallet software creates transaction data and signs it with keys of addresses that are sending the bitcoins.
  Then it sends it to one or multiple bitcoin nodes.
 Nodes collect transactions from users and broadcast them to other nodes on best effort basis.
-The validity of the transaction is later checked by miners and if everything is ok, they add it to the blockchain.
+The validity of the transaction is later checked by miners and if everything is ok, they add it to the next block.
 
 \subsection{Mining}
 
@@ -290,15 +292,15 @@ When miner generates a new block, he can claim all of the fees of transactions i
 also he is able to create a special transaction called coinbase transaction that sends bitcoins from nowhere to his address. By these coinbase transactions, new bitcoins are emitted into the network.
 He also broadcasts his new block, so other miners can update their blockchains. 
 
-\section{TOR - the onion routing}
+\section{Tor - the onion routing}
 
 Tor \parencite{dingledine2004tor} is a free open source software that provides access to Tor network. Tor network is a network of Tor nodes.
 The goal of Tor project is to provide its users encrypted access to the Internet in order to prevent third parties
 from eavesdropping and analysis of the transmitted data.
 The communication of the user's computer with the network is encrypted and rerouted through multiple Tor nodes using onion routing technology.
 The usage of Tor can be detected by the third party, but the third party can not decrypt user's data that are transmitted
- via TOR.
-Some websites restrict access from TOR, due to many risks involved.
+ via Tor.
+Some websites restrict access from Tor, due to many risks involved.
 
 Communication between browser and web server is usually done via HTTPS protocol.
 This protocol uses asymmetric cryptography. The web server and browser exchange their public keys at the start of communication
@@ -310,28 +312,28 @@ If the attacker has control over the transmission from the start of communicatio
  it displays a warning or error message.
  
 The HTTPS protocol encrypts data, but doesn't hide the identity of the user from the web server,
- and also the internet provider can see, where is the user connecting.
- In the TOR, the user's identity is hidden from the web server, and internet provider can only see that user is connecting to TO
-R, but can not see where is the destination of the data that are transmitted via TOR.
- Tor uses Onion routing technology. When a user visits a website, there TOR software picks randomly a few TOR nodes from the network and establishes a circuit, as we can see on \ref{TOR routing schema}. 
- The packet of data is encrypted with each public key of the node in the circuit, starting from the last node as on \ref{TOR
+ and also the Internet provider can see, where is the user connecting.
+ In the Tor, the user's identity is hidden from the web server, and Internet provider can only see that user is connecting to TO
+R, but can not see where is the destination of the data that are transmitted via Tor.
+ Tor uses Onion routing technology. When a user visits a website, there Tor software picks randomly a few Tor nodes from the network and establishes a circuit, as we can see on \ref{Tor routing schema}. 
+ The packet of data is encrypted with each public key of the node in the circuit, starting from the last node as on \ref{Tor
  packed encryption schema}.
- No TOR node knows the whole path of the packet, only his neighbour nodes on the path.
- The TOR node knows the previous node he received the packet from. It gets also the address 
+ No Tor node knows the whole path of the packet, only his neighbour nodes on the path.
+ The Tor node knows the previous node he received the packet from. It gets also the address 
  of the next node by decrypting the packet and reading the added metadata.
  
  \begin{figure}[!htb]
     \centering
     \includegraphics[width=1\textwidth]{tor-prejate}
-    \caption{TOR routing schema}
-    \label{TOR routing schema}
+    \caption{Tor routing schema}
+    \label{Tor routing schema}
 \end{figure}
  
   \begin{figure}[!htb]
     \centering
     \includegraphics[width=1\textwidth]{tor-packet-prejate}
-    \caption{TOR packed encryption schem}
-    \label{TOR packed encryption schema}
+    \caption{Tor packed encryption schem}
+    \label{Tor packed encryption schema}
 \end{figure}
  
 \section{PGP}
@@ -349,7 +351,7 @@ A user generates a pair of keys, a public key for encrypting emails sent to him 
  keeps for himself and uses for decrypting messages encrypted with the associated public key.
  The user also publishes his public key, so other users can send him encrypted messages.
 
-PGP is used in the context of online drug markets as a means of communication between vendors and customers.
+PGP is used in the context of online drug markets as a means of secure communication between vendors and customers.
 Both vendor and customer have their public keys published on their profile page and use the public key of the other
 party to encrypt messages to them. This enables vendors and sellers to keep their communication private also from the administrators of the marketplace.
 
@@ -388,7 +390,7 @@ asdf
 \end{figure}
 
 In 2011 there appeared a new type of illegal online marketplace called cryptomarket. 
-A cryptomarket is an illegal online market accessible only via TOR network and using bitcoins
+A cryptomarket is an illegal online market accessible only via Tor network and using bitcoins
 as a means of making payments. These two technologies provided a safer environment
 than previous markets hosted on forums and chatrooms.
 
@@ -397,7 +399,7 @@ The package is disguised as packages containing common goods sent by big online 
 \parencite{paquet2017cryptomarkets}
 
 Cryptomarkets are popular with vendors,
-because they offer high traffic, secure and anonymous environment for conducting their bussiness\parencite {van2014responsible}.
+because they offer them high influx of customers, secure and anonymous environment for conducting their bussiness\parencite {van2014responsible}.
 Cryptomarkets offer safer, more comfortable and more professional way of buying drugs, avoiding 
 the need to meet face to face with dealers \parencite{barratt2014use}.
 
@@ -428,7 +430,7 @@ Vendors value their feedback ratings very highly, so they encourage buyers to le
  positive feedback when the transaction goes well.
  
 \subsection{Tumbler}
-Bitcoin transactions are publicly available, but it is not easy to identify their owners.
+Anyone can download blockchain and therefore obtain information about all bitcoin transactions that ever happened.
 It might seem that bitcoin transactions are anonymous, but when the user sends bitcoins to
 someone(exchange) who knows their identity, the recipient can pair the bitcoin address
 the bitcoins came from to the identity of the sender.
@@ -481,7 +483,8 @@ The feedback page of given vendor consists of feedbacks, where
 each given feedback contains comment when the feedback was given,
 what was the listing the user gave feedback for, what was the price,
 the amount, how much the buyer bought overall on the Valhalla market,
-how many trades have buyer done and first, last 2 digits of the buyer.
+how many trades have buyer done and first, last 2 digits of the buyer's nickname. 
+( eq. for buyer with nickname "gopnik789" it shows "go***89")
 
 The 2 first and last digits of buyer's username are really unique for Valhalla market,
 other markets offer first and last character of buyer's username at most.
@@ -489,7 +492,7 @@ This will drastically help with recognizing the same buyer among multiple review
 The fact that feedback also contains related listing allows us to
 detect, which vendor's listings are popular and earning the most money for the vendor.
 
-\chapter{Related works}
+\chapter{Related work}
 \section{Blockchain analysis and linking bitcoin addresses}
 
 Multiple papers and tools were published regarding the analysis of blockchain.
@@ -553,13 +556,14 @@ as Androulaki. \parencite{androulaki2013evaluating}
 They concluded that the network does not offer enough anonymity and large transactions can be traced.
 
 All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentially over the last year. 
-My work is unique in that way that it utilizes much more sources of data than the works previously mentioned. Also, the aim of this tool is to be able
+To the best of my knowledge, no previous work utilizes so many resources of data as this work. Also, the aim of this tool is to be able
+
 to identify even just regular users of drug markets, not just big and important transactions.
 
 \section{Behaviour of drug markets users and operators}
 
 Emerging cryptomarkets brought the attention of the scientific community
-and lots of articles have been published related to the phenomena of drug trafficking via the internet.
+and lots of articles have been published related to the phenomena of drug trafficking via the Internet.
 Most of these papers were investigating the topic from the social
 and criminology perspective and performing qualitative analysis.
 \parencite{aldridge2014not}
@@ -605,10 +609,10 @@ the characteristics of vendors from both markets, focusing on the difference
 \section{Valhalla cryptomarket webscraping}
 We scraped data from Valhalla\footnote{Available at http://Valhallaxmn3fydu.onion} cryptomarket
 during january and february 2018. 
-We used official TOR daemon and software called privoxy, to create a local proxy that will redirect all
-incoming traffic through TOR network. The privoxy was needed because TOR daemon creates SOCKS proxy,
+We used official Tor daemon and software called privoxy, to create a local proxy that will redirect all
+incoming traffic through Tor network. The privoxy was needed because Tor daemon creates SOCKS proxy,
 which can not be used by wget. So we created an HTTP proxy by privoxy,
-which redirected the traffic through TOR SOCKS proxy.
+which redirected the traffic through Tor SOCKS proxy.
 
 For web scraping Valhalla market,
 we did not have to implement any login and captcha solving functionality.
@@ -618,7 +622,7 @@ so that wget could use that session ID to browse Valhalla logged in.
 Addresses of all market listings are in pattern\newline
 \texttt{http://Valhallaxmn3fydu.onion/products/\textbf{xxx}} where \texttt{\textbf{xxx}}
 is a number incrementing with each new listing.
-The last listing had number 10377 and only 32488 numbers lead to the valid listing page.
+The last listing had number 103770 and only 32488 numbers lead to the valid listing page.
 Rest of the numbers lead to 404 error. We believe,
 that these numbers refer to listings that were delisted by the vendor or administrator.
 
@@ -684,7 +688,7 @@ were different for different images.
 Metadata that could potentionally help dislosing user identity,
 like date of creation nad modification, signature and name of software version were the same for all images.
 The software version contained exactly this string:
-$"ImageMagick 6.8.9-9 Q16 x86_64 2017-07-31 http://www.imagemagick.org"$
+"ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31 http://www.imagemagick.org"
 ImageMagick is popular software library used for manipulating images, so it seems
 that market automatically rewrite EXIF metadata in uploaded images in order to preotect privacy of users.
 To test this hypothesis, we created vendor account and uploaded an image with
@@ -693,8 +697,8 @@ saw that EXIF metadata were indeed overwritten.
 
 We tested if every transaction that is happening on drug market has its counter transaction
 in bitcoin blockchain.
-We deposited some BTC to cryptomarket and bought a virtually deliverable
-legally service(Link to secret forum) and checked if anything happened to the deposited bitcoins.
+We deposited some BTC to cryptomarket and bought a permissible virtually deliverable
+product(Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
 There was no follow up transaction happening for weeks after the deposit transaction was done.
 This means that markets don't transfer bitcoins when service or goods are bought.
 All of bitcoin transactions that these drug markets do 
@@ -718,10 +722,10 @@ any new vectors for gathering data about cryptomarket.
 \label{Publicly available data scraping}
 
 In order to have some bitcoin addresses and bitcoins linked to identities,
-we searched internet for pages, where are bitcoin addresses tied to real or virtual identities.
+we searched Internet for pages, where are bitcoin addresses tied to real or virtual identities.
 The sites that we have decided to scrape were Bitcointalk forum, bitcoin-OTC, Reddit,
 Twitter and bitcoin.info.
-The Bitcointalk and bitcoin-OTC are the most popular internet forums
+The Bitcointalk and bitcoin-OTC are the most popular Internet forums
 related to cryptocurrencies. URL address of profile page on Bitcointalk
 and bitcoin-OTC contains the profile number, which starts at 1 and is  incremented by 1
 for each new profile. 
@@ -811,9 +815,21 @@ these heuristics missleading( like CoinJoin and dark wallet), but
 these are just concepts or in experimental alpha versions, not easily
 used by even advanced users.
 
-\chapter{Statistics of Valhalla cryptomarket}
+\chapter{Application}
 
-% \section{Overall statistics of Valhalla drug market}
+This chapter describes the application for searching in gathered data.
+The application consists of four parts.
+
+\begin{itemize}
+ \item The scraping scripts that parse bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
+ \item The computanional module, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
+ \item Webserver that handles GUI requests and retrieves data from database.
+ \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
+\end{itemize}
+
+
+
+\chapter{Statistics of Valhalla cryptomarket}
 
 We managed to scrape 25309 vector listings from 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances.
@@ -1024,19 +1040,48 @@ to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
 \end{figure}
 
 
-\chapter{Application}
 
-This chapter describes the application for searching in gathered data.
-The application consists of  four parts.
+\chapter{Testing and verification of the created tool}
+This chapter describes the way, the POC application was tested.
 
-\begin{itemize}
- \item The scraping scripts that parse bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
- \item The computanional module, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
- \item Webserver that handles GUI requests and retrieves data from database.
- \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
-\end{itemize}
+The testing were performed by sending bitcoins to drug markets and withdrawing them.
+Than marking the addresses from where the bitcoins were received as 'a
+\section{Method of testing}
+\section{results}
 
-\section{Requirements and setup }
+
+
+\chapter{Conclusion and future work}
+
+We were succesfull with scraping Valhalla cryptomarket and
+bringing up meaningful statistics about it's operations.
+Our statistical findings and description are similar to what has been stated about
+cryptomarkets in previous works.
+We scraped Valhalla market just once, but the data about the feedbacks were
+related to the time frame of one month. If we monitored Valhalla market for longer time period,
+we could measure differences in the statistics over time and also get better granularity
+on the data over given timeframe.
+
+The application is finding the nearest addresses with associated identities when the user inserts the address.
+It is searching these addresses by performing BFS over transactions up to the length of 5 transactions.
+BFS performance is pretty bad and the application could use more paralelism and also precompute data once, so that
+installation would took more time because of precomputation, but using application would be much faster.
+Since we have started working on this application, new
+application frameworks for blockchain analysis have appeared \parencite{kalodner2017blocksci} that claims much better performance than
+neo4j database. Faster performance would allow us to search for addresses that are farther from investigated address.
+
+Also, more heuristics for clustering addresses have been described in 
+\parencite{androulaki2013evaluating}. These heuristics are not based just on transaction graph, but also
+on expected behaviour of users. These heuristics are less accurate, but 
+offer more options to cluster addresses of same owner. The application could let user decide, which heuristics
+he wants to use and/or show, which identities were found by which combination of heuristics.
+
+The GUI and code would definetely use some more polishing, a lot of possible configuration options
+are not parametrized, but hardcoded for default values.
+
+
+\begin{appendices}
+\chapter{Requirements and setup }
 
 The user need to install Bitcoin Core(at least version 11.0), because 
 the application uses bitcoin core API in order to import blockchain to database.
@@ -1058,7 +1103,6 @@ The script generates
  \item rel\_tx\_output.csv: relationship between transactions and transaction outputs (tx\_hash, output\ key)
  \item rel\_output\_address.csv: relationship between outputs and addresses (output\ key, address)
 \end{itemize}
-
 
 The importing script ($csv\_to_neo4j.py$) is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
 The importing script takes two parameters, the directory of .csv files created in previous step
@@ -1094,10 +1138,6 @@ For 3 months of blockchain data(December 2017 - February 2018) it ran multiple h
 At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
 to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
 
-XXX - popsat jeste hledani, shortest path mezi adresami
-
-\section{Usage}
-
 The GUI has one input form, where user should write the bitcoin address he is interested in.
 The GUI than shows multiple information about the inserted address, nearby addresses and identities.
 It consists of 5 parts, these are highlighted in the screenshot \ref{guiscreen}.
@@ -1124,38 +1164,10 @@ from identified address to our searched addres.
 
 XXX - dat screenshot nejakeho searche a presny priklad, co konkretne co znamena
 
-\section{Future development possibilities}
-
-The application is finding the nearest addresses with associated identities when the user inserts the address.
-It is searching these addresses by performing BFS over transactions up to the length of 5 transactions.
-BFS performance is pretty bad and the application could use more paralelism and also precompute data once, so that
-installation would took more time because of precomputation, but using application would be much faster.
-Since we have started working on this application, new
-application frameworks for blockchain analysis have appeared \parencite{kalodner2017blocksci} that claims much better performance than
-neo4j database. Faster performance would allow us to search for addresses that are farther from investigated address.
-
-Also, more heuristics for clustering addresses have been described in 
-\parencite{androulaki2013evaluating}. These heuristics are not based just on transaction graph, but also
-on expected behaviour of users. These heuristics are less accurate, but 
-offer more options to cluster addresses of same owner. The application could let user decide, which heuristics
-he wants to use and/or show, which identities were found by which combination of heuristics.
-
-The GUI and code would definetely use some more polishing, a lot of possible configuration options
-are not parametrized, but hardcoded for default values.
-
-\chapter{Testing and verification of the created tool}
-This chapter describes the way, the POC application was tested.
-
-The testing were performed by sending bitcoins to drug markets and withdrawing them.
-Than marking the addresses from where the bitcoins were received as 'a
-\section{Method of testing}
-\section{results}
-
-
-
-\chapter{Conclusion}
-
-Here you can insert the appendices of your thesis.gg
+\end{appendices}
 
 \printbibliography
+
+
+
 \end{document}
