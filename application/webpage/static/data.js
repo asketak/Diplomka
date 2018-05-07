@@ -1,61 +1,57 @@
 var piedata = [
 	{
 		"label": "Unknown",
-		"value": 8,
+		"value": 1.9,
 		"color": "#f30000"
 	},
 	{
-		"label": "SatoshiDice",
-		"value": 4,
+		"label": "slushpool.com",
+		"value": 0.19,
 		"color": "#0600f3"
-	},
-	{
-		"label": "Bitfinex",
-		"value": 2,
-		"color": "#00b109"
-	},
-	{
-		"label": "Addresses with identities",
-		"value": 1,
-		"color": "#67f200"
-	}]
+	}
+	]
 
 var piedata2 = [
 	{
+		"label": "Fundalini",
+		"value": 1.37,
+		"color": "#00f300"
+	},
+	{
 		"label": "Unknown",
-		"value": 8,
+		"value": 0.53,
 		"color": "#f30000"
 	},
-	{
-		"label": "SatoshiDice",
-		"value": 4,
-		"color": "#0600f3"
+		{
+		"label": "DiceBits",
+		"value": 0.2,
+		"color": "#0000e1"
 	},
-	{
-		"label": "Bitfinex",
-		"value": 2,
-		"color": "#00b109"
-	},
-	{
-		"label": "Addresses with identities",
-		"value": 1,
-		"color": "#67f200"
-	}]
+
+
+	]
 	
 var tabledata=[
 	{
-		"address": "14BzdTwZyJTWewiZdYMGafiNUxmSYm9K91",
+		"address": "3Nkae2FfiCUerGL1vzRoZcPxX9FTQi1BFh",
 		"distance": "7",
-		"identity": "Arnodl",
-		"url": "bitcointalk.com/profile=148",
+		"identity": "Fundalini",
+		"url": "bitcointalk.org/index.php?action=profile;u=1058550",
 		"btc": "1.37",
+	},
+	{
+		"address": "1KKLYjd7AZfjZXeKHUmJy4TPNBUZbntT3q",
+		"distance": "4",
+		"identity": "DiceBits ",
+		"url": "https://dicebits.com",
+		"btc": "0.2",
 	},
 	{
 		"address": "343zdTXZyJTWewiZdYM33fiNUxmSYm3333",
 		"distance": "2",
 		"identity": "SlushPool",
 		"url": "slushpool.com",
-		"btc": "0.2",
+		"btc": "0.19",
 	}
 ]
 
@@ -92,31 +88,3 @@ var distancedata=[
 	}
 	
 ]
-
-var transactionsdata = {
-  "nodes": [
-    {"id": "A1", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
-    {"id": "A2", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
-    {"id": "A3", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500},
-    {"id": "A", "text": "Adresa", "group": 2, "value": 500, "value2": 500},
-    {"id": "B", "text": "vystupni TX", "group": 3, "value": 300, "value2": 300},
-    {"id": "C", "text": "vystupni TX", "group": 3, "value": 500, "value2": 500},
-    {"id": "D", "text": "vystupni TX", "group": 3, "value": 100, "value2": 100},
-    {"id": "E", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50},
-    {"id": "F", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50},
-    {"id": "G", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50}
-
-
-  ],
-  "links": [
-    {"source": "A1", "target": "A", "value": 1},
-    {"source": "A2", "target": "A", "value": 1},
-    {"source": "A3", "target": "A", "value": 1},
-    {"source": "A", "target": "B", "value": 1},
-    {"source": "A", "target": "C", "value": 1},
-    {"source": "A", "target": "D", "value": 1},
-    {"source": "D", "target": "E", "value": 1},
-    {"source": "D", "target": "F", "value": 1},
-    {"source": "F", "target": "G", "value": 1}
-  ]
-}

@@ -15,8 +15,8 @@ for(var i = 0; i < 42; i++) {
 console.log(data)
 data = distancedata
 console.log(data)
-var labelX = 'Distance from address';
-var labelY = 'Certainty of ownership';
+var labelX = 'Distance from searched address';
+var labelY = 'Pagerank';
 var svg = d3v3.select('.chart')
                     .append('svg')
                     .attr('class', 'chart')

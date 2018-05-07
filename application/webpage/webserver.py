@@ -44,7 +44,6 @@ def generateJson(rec,send):
     tabrows = []
 
     for row in rec:
-        print((row['row'][2]), file=sys.stderr)
         distance = len(row['row'][2])/2/2 
         url = row['row'][0]['link']
         identity = row['row'][0]['name']
@@ -84,7 +83,6 @@ def parsetable(data):
 
 def parserecieved(data):
     rec = data['results'][2]['data'][0]['row'][0]
-    print(rec, file=sys.stderr)
     return rec
 
 def parsesent(data):
@@ -93,9 +91,40 @@ def parsesent(data):
     
 
 def parsedist(data):
-    sent = data['results'][4]['data'] 
-    print(sent, file=sys.stderr)
-    # velikost adresy, pagerank, vzdalenost, groupa
+    sent = data['results'][0]['data'] 
+    rec = data['results'][1]['data'] 
+    for row in rec:
+        distance = len(row['row'][2])/2/2 
+        pagerank = row['row'][0]['pagerank']
+        identity = row['row'][0]['name']
+        address = row['row'][1]['address']
+        outgoing = row['row'][2][0]['value']
+        tabrow = {}
+        tabrow['distance'] = distance
+        tabrow['url'] = url
+        tabrow['identity'] = identity
+        tabrow['address'] = address
+        tabrow['btc'] = outgoing
+        tabrows.append(tabrow)
+
+    for row in send:
+        distance = -1*len(row['row'][2])/2/2 
+        pagerank = row['row'][0]['pagerank']
+        size = row['row'][0]['value']
+        address = row['row'][1]['address']
+        outgoing = row['row'][2][0]['value']
+        tabrow = {}
+        tabrow['distance'] = distance
+        tabrow['url'] = url
+        tabrow['identity'] = identity
+        tabrow['address'] = address
+        tabrow['btc'] = outgoing
+        tabrows.append(tabrow)
+
+    return tabrows 
+
+
+
 
 def compute_recieved(tabrows,recieved):
     ret = "var piedata = "
@@ -216,11 +245,6 @@ def generateData(address):
     print(pie_recieved_string)
     print(pie_sent_string)
 
-    #compute distance graph
-
-    distance_string = parsedist(data)
-
-    #compute transaction graph
 
     text_file = open("static/data.js", "w")
     text_file.write(mock_data + table_data_string + "\n" + pie_recieved_string + "\n" + pie_sent_string)

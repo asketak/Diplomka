@@ -4,17 +4,10 @@
 	var pie = new d3pie("pieChart2", {
 		"header": {
 			"title": {
-				"text": "Sources of BTC",
+				"text": "Identified bitcoins that left address",
 				"fontSize": 24,
 				"font": "open sans"
-			},
-			"subtitle": {
-				"text": "For bitcoin address: XXXYUYY",
-				"color": "#999999",
-				"fontSize": 12,
-				"font": "open sans"
-			},
-			"titleSubtitlePadding": 9
+			}
 		},
 		"footer": {
 			"color": "#999999",
@@ -64,12 +57,6 @@
 				"enabled": true,
 				"percentage": 100
 			}
-		},
-		callbacks: {
-			onClickSegment: function(a) {
-				alert("Segment clicked! See the console for all data passed to the click handler.");
-				console.log(a);
-			}
 		}
 	});	
 
@@ -77,17 +64,10 @@
 	var pie = new d3pie("pieChart", {
 		"header": {
 			"title": {
-				"text": "Sources of BTC",
+				"text": "Identified bitcoins that were recieved by address",
 				"fontSize": 24,
 				"font": "open sans"
-			},
-			"subtitle": {
-				"text": "For bitcoin address: XXXYUYY",
-				"color": "#999999",
-				"fontSize": 12,
-				"font": "open sans"
-			},
-			"titleSubtitlePadding": 9
+			}
 		},
 		"footer": {
 			"color": "#999999",
@@ -136,12 +116,6 @@
 			"gradient": {
 				"enabled": true,
 				"percentage": 100
-			}
-		},
-		callbacks: {
-			onClickSegment: function(a) {
-				alert("Segment clicked! See the console for all data passed to the click handler.");
-				console.log(a);
 			}
 		}
 	});
