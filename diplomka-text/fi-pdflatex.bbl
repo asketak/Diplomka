@@ -421,6 +421,44 @@
       \field{pages}{213\bibrangedash 224}
       \range{pages}{12}
     \endentry
+    \entry{kalodner2017blocksci}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e805b09589caa915653b84399c1dd749}{%
+           family={Kalodner},
+           family_i={K\bibinitperiod},
+           given={Harry},
+           given_i={H\bibinitperiod}}}%
+        {{hash=208ae2fb561a96b06fbdd96f6f18a33c}{%
+           family={Goldfeder},
+           family_i={G\bibinitperiod},
+           given={Steven},
+           given_i={S\bibinitperiod}}}%
+        {{hash=0dcb5d160218f08e930d2235bb7d9423}{%
+           family={Chator},
+           family_i={C\bibinitperiod},
+           given={Alishah},
+           given_i={A\bibinitperiod}}}%
+        {{hash=7875c2d201799d0d3f15a893bea43d67}{%
+           family={Möser},
+           family_i={M\bibinitperiod},
+           given={Malte},
+           given_i={M\bibinitperiod}}}%
+        {{hash=95dc795a2be14c50fb6a924acc135ff8}{%
+           family={Narayanan},
+           family_i={N\bibinitperiod},
+           given={Arvind},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5870f49c6524ef4dda469e3316b59ce9}
+      \strng{fullhash}{fb88f96c4348c4e92aa6009f1fbccbee}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1709.02489}
+      \field{title}{BlockSci: Design and applications of a blockchain analysis platform}
+      \field{year}{2017}
+    \endentry
     \entry{martin2014lost}{article}{}
       \name{author}{1}{}{%
         {{hash=f9a9b23864bfb154d68897e7817cedf0}{%
