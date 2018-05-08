@@ -6,45 +6,47 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Tor routing schema}}{12}{figure.2.1}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Mechanism of change address}}{10}{figure.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Tor packed encryption schem}}{13}{figure.2.2}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Tor routing schema}}{13}{figure.2.2}
 \defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
-\defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Neo4j database ER diagram}}{23}{figure.4.1}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Tor packed encryption schem}}{14}{figure.2.3}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Number of active listings for each seller}}{26}{figure.6.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Prices of listings}}{28}{figure.6.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Prices of listings in feedbacks}}{30}{figure.6.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Vendors revenue by positive feedback ratio}}{31}{figure.6.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Positive reviews of vendors}}{32}{figure.6.5}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Neo4j database ER diagram}}{25}{figure.4.1}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Positive/negative reviews of vendors}}{33}{figure.6.6}
+\addvspace {4\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Number of active listings for each seller}}{28}{figure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Prices of listings}}{30}{figure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Prices of listings in feedbacks}}{32}{figure.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Vendors revenue by positive feedback ratio}}{33}{figure.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Positive reviews of vendors}}{34}{figure.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Positive/negative reviews of vendors}}{35}{figure.6.6}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Number of reviews for vendors}}{34}{figure.6.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Total revenue of vendors}}{35}{figure.6.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Buyers spending and trades}}{35}{figure.6.9}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Number of reviews for vendors}}{36}{figure.6.7}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Architecture of application}}{38}{figure.a.A.1}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Total revenue of vendors}}{37}{figure.6.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Buyers spending and trades}}{38}{figure.6.9}
+\defcounter {refsection}{0}\relax 
+\addvspace {4\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Architecture of application}}{41}{figure.a.A.1}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 

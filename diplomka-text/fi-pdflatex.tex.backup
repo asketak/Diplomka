@@ -362,6 +362,7 @@ It is therefore recommended to wait multiple blocks after the transaction is add
 to be sure it does not disappear by this forking.
  
 \subsection{Addresses, bitcoins and transactions}
+\label{btcadd}
 In order to receive and send bitcoins, a user needs to have a bitcoin address.
 A bitcoin address is a BASE58\footnote{https://en.wikipedia.org/wiki/Base58}
 encoded public key with 4 bytes added for checksum.
@@ -411,7 +412,7 @@ The new transaction must comply with the following:
 
 The new transaction must have 1 or more outputs.
 There can be multiple outputs in a transaction with different associated addresses and bitcoin value,
-however, there happens to be a common pattern shown on figure \ref{change}. When the sender sends bitcoins to one recipient,
+however, there happens to be a common pattern. When the sender sends bitcoins to one recipient,
 the transaction typically contains two outputs.
 First output contains the recipient's address and the volume of bitcoins he receives.
 Second output is called \emph{change output}.
@@ -420,6 +421,17 @@ he wants to transfer, he adds a change output to the transaction.
 The change output's associated bitcoin address is owned by sender
 and so the sender get's back the bitcoins that he doesn't want to transfer.
 This is the only way to split bitcoins into smaller parts. 
+Schema of transaction where sender spends output worth of 5 bitcoins
+and sends 2 bitcoins to recipent and get 3 bitcoins back is on figure \ref{change} 
+ 
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{change}
+    \caption{Mechanism of change address}
+    \label{change}
+\end{figure}
+ 
+
 
 When sending bitcoins from bitcoin wallet,
  wallet software creates transaction data and signs it with required private keys.
@@ -539,25 +551,27 @@ by behaviour and statistical analysis.
 Cryptomarkets are running as a hidden services on TOR network.
 Tor hidden services is a feature of Tor for providing a service (e.q. a webserver, IRC server etc.) over Tor network
 without disclosing the server's IP address. The hidden services have special top level domain .onion.
+
 When administrator of service wants to be accessed, he crates a RSA keypair.
-The public key in base-32 encoding is identifier of service and so service can be accessed by identifier.onion.
+The public key in base-32 encoding is identifier of service and service can be accessed by accessing URL identifier.onion.
 The administrator choose some Tor nodes as introduction points and estabilish a circuit to each on of them.
 The administrator than upload a descriptor of the service to 6 different hidden service directories(HSDir).
 HSDir is a Tor node with a special flag that was assigned to it by TOR authorities.
-The selection of HSDirs can be computed from time and hidden service public key. It changes
-every 24 hours, so at any time, there is no server that has info about all hidden services.
+The selection of HSDirs changes every 24 hours and can be deterministically computed from time and hidden service public key.
 The descriptor contains the hidden service public key and signed list of introduction points.
 
 When client starts connecting to the hidden service, he uses service's domain name(= public key)
 to compute HSDirs with service descriptor. It download a service descriptor from HSDir with list
 of introduction points. Client also generates one time secret, pick a random Tor node, asks
 it to act as randevouz point and tell it the one time secret. 
-Then client sends to one introduction point a message for the service(encrypted by service's public key)
-with the information about randevouz point and one time secret. The service recieves the message, connect to
-randevouz point and uses one time secret to match 
-
-
-
+Then client sends to introduction point a message for the service(encrypted by service's public key)
+with the information about randevouz point and one time secret. The service recieves the message, connects 
+to randevouz point and uses one time secret to match with client.
+Randevouz point than just relays messages between client and hidden service.
+All the connections mentioned above can be seen on picture \ref{onion service}.
+Note that there is no direct connection between two servers during hidden service set-up,
+all communication between servers are routed through regular Tor circuits.
+Randevouz point just act as a relay between two Tor circuits.
 
 \section{PGP}
 
@@ -579,14 +593,14 @@ Both vendor and customer have their public keys published on their profile page 
 party to encrypt messages to them. This enables vendors and sellers to keep their communication private also from the administrators of the marketplace.
 
 \chapter{Related work}
-\section{Blockchain analysis and linking bitcoin addresses}
+\section{Blockchain analysis and de-anonymization of bitcoin addresses}
 
 Multiple papers and tools were published regarding the analysis of blockchain.
 Blockchain contains all bitcoin transactions and anyone can simply check,
 the source and destination addresses of every transaction in the system.
 It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
  and every major bitcoin wallet (software, for receiving and sending bitcoins) do so.
- It is a big challenge to cluster addresses belonging to the same user.
+ It is therefore useful to detect addresses belonging to the same user.
  
 The authors of first research article \parencite{reid2013analysis}
  parsed blockchain files to create a graph of bitcoin transactions, with vertices as transactions
@@ -601,11 +615,12 @@ Androulaky \parencite{androulaki2013evaluating} performed clustering using two h
 The first one is the same as \parencite{reid2013analysis} did that all inputs of transaction
 belong to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
 Most transactions have two outputs, one is owned by the transaction recipient,
-the other one is called change. The change is an output of transaction that is owned by
-the sender. The change output is needed, because that is the only way to split bitcoin value of output.
- If the user owns 3BTC in one output and needs to transfer 1 BTC, it generates a transaction with two outputs, one worth of 1 BTC with the recipient address and second output worth 2 BTC 
- with the address belonging to the sender. This way, the sender can split his bitcoins into smaller parts.
- They also employed multiple clustering techniques based on the behaviour of users.
+the other one is called change output and is owned by
+the sender. The mechanism of change output was described in chapter \ref{btcadd}.
+If the transaction has two output addresses A and B, A has appeared in blockchaih
+before and B not, than he assumes that B is the change address, as it is common
+for wallet software to generate new never used addresses for change outputs.
+They also employed multiple clustering techniques based on the behaviour of users.
  They tested the success of their clustering techniques in their simulated bitcoin 
  environment.
 
@@ -641,10 +656,13 @@ They also used the same two heuristics for clustering addresses
 as Androulaki. \parencite{androulaki2013evaluating}
 They concluded that the network does not offer enough anonymity and large transactions can be traced.
 
-All of the previously mentioned works had to deal with much smaller transaction graph, as the usage of bitcoin grew exponentially over the last year. 
-To the best of my knowledge, no previous work utilizes so many resources of data as this work. Also, the aim of this tool is to be able
-
-to identify even just regular users of drug markets, not just big and important transactions.
+All of the previously mentioned works had to deal with much smaller transaction graph,
+as the usage of bitcoin grew significantly over the last year. 
+To the best of my knowledge,
+no previous work utilizes so many resources of data as this work.
+Also, the aim of our tool is to be able to detect, if some specific bitcoin address of 
+investigator's interest was somehow connected to Valhalla drug market, or at least find nearby
+deanonymized addresses in the transaction graph to help with further investigation.
 
 \section{Behaviour of drug markets users and operators}
 
@@ -732,32 +750,49 @@ that have at least one active listing at the time of data collection.
 
 From each listing, we parsed:
 
-\begin{itemize}
- \item Vendor's nickname = string
- \item Subcategory = 3 string tags
- \item Title of listing = string
- \item Price = float
-\end{itemize}
+\begin{table}
+    \caption{Data scraped from listings}
+    \label{datalist}
+    \begin{tabular}{|l|l|}
+ Variable & data type\\
+ Vendor's nickname & string\\
+ Subcategories & 3 strings\\
+ Title of listing & string\\
+ Price & float\\
+    \end{tabular}
+\end{table}
+
 
 From each vendor, we parsed:
-\begin{itemize}
-\item Vendor's nickname = string
-\item number of positive and negative feedback = 2 integers
-\item revenue = integet 0<=x<=10000USD, for vendors with higher revenue it shows 10000+
-\item PGP key = string, is not mandatory for all vendors
-\item Country = string, country from which vendor ships if available
-\end{itemize}
+
+\begin{table}
+    \caption{Data scraped from vendor pages}
+    \label{cryptomarkets}
+    \begin{tabular}{|l|l|}
+ Variable & data type\\
+Vendor's nickname & string\\
+positive and negative feedbacks & 2 integers\\
+revenue & integer 0<=x<=10000USD\\
+PGP key & string, is not mandatory for all vendors\\
+Country & string, country from which vendor ships if available\\
+    \end{tabular}
+\end{table}
 
 From feedback page, we parsed the following variables for each feedback:
-\begin{itemize}
-\item vendor nickname = string
-\item rating = 1-5
-\item date = Timestamp, days resolution
-\item first and last 2 characters of buyers nickname = string of length 4
-\item money the author of review spent on Valhalla market = int
-\item trades the author of review done = int
-\end{itemize}
-
+\begin{table}
+    \caption{Data scraped from feedback pages}
+    \label{cryptomarkets}
+    \begin{tabular}{|l|l|}
+ Variable & data type\\
+vendor nickname & string\\
+rating & 1-5\\
+date & Timestamp, days resolution\\
+buyers nickname & string of length 4\\
+money the buyer spent & int\\
+trades the buyer did & int\\
+   
+    \end{tabular}
+\end{table}
 \section{Valhalla cryptomarket metadata scraping and analysis}
 
 We tested these keys, if they are vulnera ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
@@ -789,8 +824,8 @@ There was no follow up transaction happening for weeks after the deposit transac
 This means that markets don't transfer bitcoins when service or goods are bought.
 All of bitcoin transactions that these drug markets do 
 are accepting bitcoins deposits,
-sending bitcoins to withdrawing users and bitcoin tumbler transactions for
-obstructing analysis of their bitcoin cashflows.
+sending bitcoins to withdrawing users and possibly bitcoin tumbler transactions, it they
+use such service.
 We made multiple deposits and withdrawals from Valhalla in order to track,
 where were the deposited bitcoins later transfered and where have the withdrawn
 bitcoins been transfered from. These deposits and withdrawals have been
@@ -972,11 +1007,11 @@ In the graph \ref{listingxprice} is shown distribution of prices of all listings
  with only 5(0.01\%) feedbacks with price > 2000 Eur.
   For listings, there were 1533(6.05\%) active listings
  with price greater than 1000 EUR
- 673(2.7\%) of them with price greater than 3550, while
+ 673(2.7\%) listings them with price greater than 2000 Eur.
  The titles of high prices listings don't indicate that 
  these listings are somehow special expect it's price.
- These findings indicate that buyers tend to buy
- cheaper listings. The average price of the bought goods (82.7 EUR)
+ These findings indicate, that buyers tend to buy
+ smaller amount of drugs. The average price of the bought goods (82.7 EUR)
  is way below the emount someone who resale drugs would buy at one deal.
  There were 115 listings with zero price on the market,
  but no one of them was mantioned in feedbacks.
@@ -999,16 +1034,19 @@ In the graph \ref{listingxprice} is shown distribution of prices of all listings
 
 We calculated the total revenue for each category
 by multiplying the price of each listings by the number of associated feedbacks
-and summing over all listings in given category. This is a minimal revenue, as feedbacks
-can be given only if the trade happened on cryptomarket.
+and summing the price over all listings in given category. This leads minimal revenue, as feedbacks
+can be given only if the trade happened on cryptomarket and there
+exist trades with no given feedbacks for sure.
 Market share is a revenue of category divided by total revenue from all categories.
 The market shares of most popular categories is similar
 to market shares mentioned in previous works.\ref{aldridge2016hidden}
 Average price of occured trades varied from between 60\$ and 150\$ for each category
-with two outiers. Opiates, which has the biggest price/dose ratio and 
+with two outiers. Opiates, which have the biggest price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
 Custom listings contains no description of any goods/services, just state "custome listing for user: xxx".
-We found totally 300 listings with word "custom" in their title. XXX - nejakej stat o custom listings
+We found 300 listings with word "custom" in their title. 
+It is possible that vendors use these listings to artificially boost
+the revenue that is shown on their profile page and improve feedback ratings.
 
 \begin{table}
     \caption{Estimated monthly revenue for selected drug categories a by listing price}
@@ -1037,15 +1075,19 @@ Production / distribution &   17 & 0 & 0 & 0\%
     \end{tabular}
 \end{table}
 
-
+We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
+The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
+Vast majority of vendors earned negligible money,
+the average revenue is 2287Eur with median just 32Eur.
+Note, that we were able to scrape just the vendors with active listings,
+so there might be more vendors who closed their listings after
+not being able to ear substantional amount of money.
+Just 304(30\%) vendors earned more than 1000 EUR on the market.
+We will focus on these vendors in our next descri
 
 Most vendors maintained really high percentage of positive reviews.
-The percentage of positive reviews for all vendors:
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.8710  0.9779  0.8145  0.9979  1.0000 
- When counting only venddors with more than 10 reviews,(304 sellers out of 981) we get:
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.9523  0.9834  0.9373  0.9982  1.0000
+When counting only vendors with more than 10 reviews,(304 sellers out of 981)
+The mean is 93.7\% and median 98.3\% of positive feedbacks
  
 \begin{figure}[!htb]
     \centering
@@ -1068,7 +1110,8 @@ Only 40 vendors got more negative feedbacks than positive feedbacks.
  On the Valhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
  Also, only 40 vendors have less than 80\% positive reviews and out of that 36 have less 50 reviews in total.
  These numbers indicate that the customers of Valhalla market
- are much more picky about the vendor they choose than regular e-shop cuystomers. If \ref{Vendors by total revenue}
+ are much more picky about the vendor they choose than regular e-shop cuystomers. 
+ If \ref{Vendors by total revenue}
   
 
 \begin{figure}[!htb]
@@ -1110,8 +1153,8 @@ The four letters gives at least $26**4$ distinct possible values, way higher num
 than we can find in our 6000 feedbacks. Combined with the information
 about buyers trades, we can safely assume that we are able identify
 all the feedbacks given by one buyer.
-From our 6000 feedbacks, we gathered 2357 unique four letter combinations.
-When accounting for buyers total number and price of trades, we got 2365 unique combinations.
+From our 6000 feedbacks, we gathered 2365 unique four letter combinations
+and total number and price of trades.
 
 The \ref{buytrad} shows how many trades have buyers done and how much money have they spent.
 The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
