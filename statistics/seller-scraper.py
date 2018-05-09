@@ -14,9 +14,9 @@ with open("listings.csv") as file:
 x = list(set(x))
 
 for seller_nick in x:
-	# b1 = bash1.replace('$filename',seller_nick)
+	b1 = bash1.replace('$filename',seller_nick)
 	b2 = bash2.replace('$filename',seller_nick)
-	# process = subprocess.getoutput(b1)
+	process = subprocess.getoutput(b1)
 	process = subprocess.getoutput(b2)
 
 	num=2

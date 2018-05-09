@@ -204,7 +204,7 @@ It also describes how cryptomarkets work and tools that are used users and admin
 The chapter Methods and tools describes the process of collecting and storing the data from bitcoin blockchain,
 drug markets and publicly available forums and social networks. 
 
-Deanonymization techniques chapter describes heuristics and methods that are used by the application to detect 
+Deanonymization techniques chapter describes heuristics and methods that are used by the application to identify 
 addresses used by drug markets and link the users of drug markets to publicly found identities.
 
 Chapter Statistics of drug markets consists of various statistics about drug markets that were gathered during drug mar
@@ -253,7 +253,7 @@ Nowadays, there exist multiple cryptomarkets competing against each other and th
 of a failure of a deal is still high \parencite{wehinger2011dark}.
 In order to protect buyers, cryptomarkets use Escrow and vendors' feedback to identify scammers and minimize losses.
 Silkroad cryptomarket used Tumbler services \parencite{ron2014did},
-which makes it harder to detect and analyze bitcoin transaction. Valhalla cryptomarket claims that they
+which makes it harder to analyze bitcoin transaction graph. Valhalla cryptomarket claims that they
 users can withdraw bitcoin from them using bitcoin tumbler too.
 
 \subsection{The process of ordering}
@@ -280,7 +280,7 @@ Vendors value their feedback ratings very highly, so they encourage buyers to le
  
 \subsection{Valhalla cryptomarket}
 
-We selected Valhalla cryptomarket based on three metrics.
+We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.onion} based on three metrics.
 The first metric is its size.
 
 We checked list of active cryptomarkets on reddit community "r/darknetmarkets" and website https://www.deepdotweb.com.
@@ -431,8 +431,6 @@ and sends 2 bitcoins to recipent and get 3 bitcoins back is on figure \ref{chang
     \label{change}
 \end{figure}
  
-
-
 When sending bitcoins from bitcoin wallet,
  wallet software creates transaction data and signs it with required private keys.
  Then it sends it to one or multiple bitcoin nodes.
@@ -520,12 +518,12 @@ Directory authorities monitor relays and distribute a list of relays that are wo
 not under the same IP address.
 Tor nodes splits into 3 groups, guard nodes, relay nodes and exit nodes.
 A client achieves anonymous communication by proxying his traffic through
-a chain of 3 Tor nodes, so called circuit, as it can be seen on picture \ref{torcircuit}.
+a chain of 3 Tor nodes, so called circuit, as it can be seen on picture \ref{tor}.
 Client obtains public keys of these 3 Tor nodes from directory authority and negotiate
 symmetric keys for encrypting the data with each node.
 When client wants to send some data, he split them into fixed size chunks
 called Tor cells and encrypt them with multiple layers of encryption by the symetric keys negotiated in previous step.
-The schema of the encrypted Tor cell is on picture \ref{torcell}
+The schema of the encrypted Tor cell is on picture \ref{tor-packet}
 Each node in the circuit decrypts the Tor cell and therefore removes one layer from it.
 The exit node decrypts the last layer of encryption, reads the original data of the client and 
 sends the packet to destination address. The reponse is than again encrypted by symetric keys
@@ -536,14 +534,14 @@ by behaviour and statistical analysis.
  
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{tor-prejate}
+    \includegraphics[width=1\textwidth]{tor}
     \caption{Tor routing schema}
-    \label{Tor routing schema}
+    \label{tor}
 \end{figure}
  
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{tor-packet-prejate}
+    \includegraphics[width=1\textwidth]{tor-packet}
     \caption{Tor packed encryption schem}
     \label{Tor packed encryption schema}
 \end{figure}
@@ -596,7 +594,7 @@ party to encrypt messages to them. This enables vendors and sellers to keep thei
 \section{Blockchain analysis and de-anonymization of bitcoin addresses}
 
 Multiple papers and tools were published regarding the analysis of blockchain.
-Blockchain contains all bitcoin transactions and anyone can simply check,
+Blockchain contains all bitcoin transactions and anyone can simply check
 the source and destination addresses of every transaction in the system.
 It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
  and every major bitcoin wallet (software, for receiving and sending bitcoins) do so.
@@ -616,9 +614,10 @@ The first one is the same as \parencite{reid2013analysis} did that all inputs of
 belong to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
 Most transactions have two outputs, one is owned by the transaction recipient,
 the other one is called change output and is owned by
-the sender. The mechanism of change output was described in chapter \ref{btcadd}.
+the sender. The mechanism of change output is described in chapter \ref{btcadd} and the heuristics in
+chapter \ref{Using own transactions to identify market wallets}.
 If the transaction has two output addresses A and B, A has appeared in blockchaih
-before and B not, than he assumes that B is the change address, as it is common
+before and B not, than he assumes that B is the change address, because it is common
 for wallet software to generate new never used addresses for change outputs.
 They also employed multiple clustering techniques based on the behaviour of users.
  They tested the success of their clustering techniques in their simulated bitcoin 
@@ -711,17 +710,16 @@ the characteristics of vendors from both markets, focusing on the difference
 \chapter{Methods and tools of data retrieval and analysis}
 
 \section{Valhalla cryptomarket webscraping}
-We scraped data from Valhalla\footnote{Available at http://Valhallaxmn3fydu.onion} cryptomarket
+\label{Valhalla cryptomarket webscraping}
+We scraped data from Valhalla cryptomarket
 during january and february 2018. 
 We used official Tor daemon and software called privoxy, to create a local proxy that will redirect all
 incoming traffic through Tor network. The privoxy was needed because Tor daemon creates SOCKS proxy,
 which can not be used by wget. So we created an HTTP proxy by privoxy,
 which redirected the traffic through Tor SOCKS proxy.
-
-For web scraping Valhalla market,
-we did not have to implement any login and captcha solving functionality.
-We at first logged in manually and provided HTTP cookie with assigned session ID to the wget,
-so that wget could use that session ID to browse Valhalla logged in.
+we did not have to implement any login and captcha solving functionality
+for web scraping Valhalla market, because all the webpages about market
+listings, vendors and feedbacks are available without logging in.
 
 Addresses of all market listings are in pattern\newline
 \texttt{http://Valhallaxmn3fydu.onion/products/\textbf{xxx}} where \texttt{\textbf{xxx}}
@@ -730,24 +728,24 @@ The last listing had number 103770 and only 25309 numbers lead to the valid list
 Rest of the numbers lead to 404 error. We believe,
 that these numbers refer to listings that were delisted by the vendor or administrator.
 
-Vendor profile pages were in format \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}}
-and their reviews in the format
- \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}/palautteet} where \texttt{\textbf{xxx}}
-is a vendor nickname. 
- 
+
 We wrote a small script in bash to iterate through all of the listings
 and download them using wget command line tool.
 After downloading all the listing pages,
 we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
-We have not used python HTML parsing libraries( like beautifulsoup) for parsing downloaded
+We were not using python HTML parsing libraries(like beautifulsoup) for parsing downloaded
 webpages because HTML elements of Valhalla web pages don't have any unique identifiers
 and so these libraries bring us no advantage.
  
 By scraping the listings pages, we got unique vendor nicknames,
 which we used for downloading and scraping vendor's profile and feedback pages.
-The shortcoming of this method is that we were able to download and analyze only sellers, 
+The shortcoming of this method is, that we were able to download and analyze only sellers, 
 that have at least one active listing at the time of data collection. 
-
+Vendor profile pages were in format \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}}
+and their reviews in the format
+ \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}/palautteet} where \texttt{\textbf{xxx}}
+is a vendor nickname. 
+ 
 From each listing, we parsed:
 
 \begin{table}
@@ -762,12 +760,11 @@ From each listing, we parsed:
     \end{tabular}
 \end{table}
 
-
 From each vendor, we parsed:
 
 \begin{table}
     \caption{Data scraped from vendor pages}
-    \label{cryptomarkets}
+    \label{datavendor}
     \begin{tabular}{|l|l|}
  Variable & data type\\
 Vendor's nickname & string\\
@@ -781,7 +778,7 @@ Country & string, country from which vendor ships if available\\
 From feedback page, we parsed the following variables for each feedback:
 \begin{table}
     \caption{Data scraped from feedback pages}
-    \label{cryptomarkets}
+    \label{datafeedback}
     \begin{tabular}{|l|l|}
  Variable & data type\\
 vendor nickname & string\\
@@ -793,32 +790,29 @@ trades the buyer did & int\\
    
     \end{tabular}
 \end{table}
-\section{Valhalla cryptomarket metadata scraping and analysis}
 
-We tested these keys, if they are vulnera ble to ROCA attack, via python module roca-detect. None of these keys were vulnerable.
-All these PGP keys were searched for User-Id in metadata of PGP key and these user-Ids were seached by google. None of t
-he searches for user-Ids(both nicknames and mail addresses) returned any results.
+\section{Valhalla cryptomarket metadata scraping and analysis}
 
 We thought that metadata from the photos of drugs, which vendors upload
 to show in their listing, might contain some information leading to identity disclosure.
 We downloaded 20 images from valhalla market and examined 
 EXIF metadata using \texttt{identify} command line tool.
 
-Only metadata directly depending on image content, like the amount of red, green and blue colours,
+Only metadata directly depending on image content, like the amount of red, green and blue colours
 were different for different images.
 Metadata that could potentionally help dislosing user identity,
 like date of creation nad modification, signature and name of software version were the same for all images.
 The software version contained exactly this string:
 "ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31 http://www.imagemagick.org"
 ImageMagick is popular software library used for manipulating images, so it seems
-that market automatically rewrite EXIF metadata in uploaded images in order to preotect privacy of users.
+that market automatically rewrite EXIF metadata in uploaded images in order to protect privacy of users.
 To test this hypothesis, we created vendor account and uploaded an image with
 custom-made EXIF metadata. We than downloaded the uploaded image from webpage and 
 saw that EXIF metadata were indeed overwritten.
 
 We tested if every transaction that is happening on drug market has its counter transaction
 in bitcoin blockchain.
-We deposited some BTC to cryptomarket and bought a permissible virtually deliverable
+We deposited some BTC to cryptomarket and bought a licit virtually deliverable
 product(Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
 There was no follow up transaction happening for weeks after the deposit transaction was done.
 This means that markets don't transfer bitcoins when service or goods are bought.
@@ -828,44 +822,43 @@ sending bitcoins to withdrawing users and possibly bitcoin tumbler transactions,
 use such service.
 We made multiple deposits and withdrawals from Valhalla in order to track,
 where were the deposited bitcoins later transfered and where have the withdrawn
-bitcoins been transfered from. These deposits and withdrawals have been
-used for our application for detecting bitcoin addresses owned by Valhalla cryptomarket.
+bitcoins came from. These deposits and withdrawals have been
+used in our application for clustering bitcoin addresses owned by Valhalla cryptomarket.
 
 We tried to scan ports of drug markets servers and fingerprint their web server,
-in order to find any vectors for further information gathering.
-We scanned Valhalla server using netcat and found that the only opened port is number 443(HTTPS),
+in order to find any vectors for further information gathering. 
+We scanned Valhalla server using netcat and found that the only opened ports are 80(redirect to https) and 443(HTTPS),
 which is used by web server. The webserver was popular software called nginx, as we detected
 both from HTTP headers and from webserver fingerprinting tool httprecon.
-The results of port scan and web server fingerprinting doesn't indicate
+The result of port scan and web server fingerprinting doesn't indicate
 any new vectors for gathering data about cryptomarket.
+
+Some vendors have published their PGP keys on their profile page.
+We scraped 150 PGP keys and tested them ROCA vulnerability via python module roca-detect. None of these keys were vulnerable.
+All these PGP keys were searched for User-Id in metadata and found user-Ids were seached by google.
+None of the searches for user-Ids(both nicknames and mail addresses) returned usable results.
+Some of the usernames were just briefly mentioned in some posts on anonymous forums like 4chan.org.
 
 \section{Publicly available data scraping}
 \label{Publicly available data scraping}
 
 In order to have some bitcoin addresses and bitcoins linked to identities,
-we searched Internet for pages, where are bitcoin addresses tied to real or virtual identities.
-The sites that we have decided to scrape were Bitcointalk forum, bitcoin-OTC, Reddit,
+we searched Internet for pages, where are bitcoin addresses tied to offline or virtual identities.
+The sites that we have decided to scrape were Bitcointalk forum, Reddit,
 Twitter and bitcoin.info.
-The Bitcointalk and bitcoin-OTC are the most popular Internet forums
+The Bitcointalk is the most popular Internet forums
 related to cryptocurrencies. URL address of profile page on Bitcointalk
-and bitcoin-OTC contains the profile number, which starts at 1 and is  incremented by 1
-for each new profile. 
-It is therefore easy to iterate over all forum's profiles,
+and contains the profile number, which starts at 1 and is incremented by 1
+for each new profile. It is therefore easy to iterate over all forum's profiles,
 including the ones with no posts, and check if they have associated bitcoin address.
-The scripts bitcointalk-scraper.py and bitcoinotc-scraper.py
-visit profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
+The scripts bitcointalk-scraper.py visit profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
 The Reddit and Twitter were scraped by twitter-scraper.py and reddit-scraper.py
-The script contain several hardcoded phrases like "Don
-ate bitcoin" and "bitcoind address" and scrapes 
+The script contain several hardcoded phrases like "Donate bitcoin" and "bitcoind address" and scrapes 
 result of searches for such phrases.
 Bitcoin.info is a webpage that serves primarly as bitcoin blockchain explorer. Secondary,
 it gathers multiple statistics about bitcoin blockchain and also offers
 third parties having their bitcoin address and identity listed on their webpage.
-Some of these identities are verified by signining
-custom made message generated by blockchain.info
-with the bitcoin address associated private key. It means that the person
-posting bitcoin address and identity to blockchain.info is owner of the address.
-The identities are stored as rows in csv files that have 3 collumns:
+The generated identities are stored as rows in csv files that have 3 collumns:
 
 \begin{enumerate}
  \item bitcoin addres
@@ -873,15 +866,64 @@ The identities are stored as rows in csv files that have 3 collumns:
  \item nickname of the associated identity
 \end{enumerate}
 
-\section{Retrieving, storing and analyzing blockchain data}
-XXX - dodelat
+\section{Using own transactions to identify market wallets}
+\label{Using own transactions to identify market wallets}
+
+Valhalla cryptomarket generates uniue deposit address for each new user.
+When user wants to buy something, he needs to deposit bitcoins to deposit address,
+that will top up his account balance and he than uses this account balance to buy stuff.
+Vendor or user can request withdrawing their bitcoins from cryptomarket and so
+the cryptomarket decrease their account balance and sends bitcoin to user's address.
+
+For identifying bitcoin addresses that are owned by Valhalla cryptomarket, we 
+deposited 0.05 Bitcoins to our user account on Valhalla cryptomarket and immidiatelly
+performed multiple withdraws by smaller amount to recieve bitcoins back.
+When we requested bitcoin withdrawals, we recieved bitcoins from different address
+than the deposit one. We consider the deposit address and all addresses we recieved
+bitcoins from during withdrawals as owned by cryptomarket.
+
+Knowing just about these addresses would no help us decide
+if someone sent or recieved bitcoins from Valhalla cryptomarket.
+It is common for any service accepting bitcoins to
+use thousands of bitcoin addresses, because it's common practice and even default behaviour for
+bitcoin core and other bitcoin wallet software.
+In order to address this issue, we used two heuristics that were widely used
+in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
+for clustering bitcoin addresses belonging to same user.
+
+The first heuristics simply states that all inputs of one transaction belong to same user. This is logical,
+since users generally don't share their private keys and collaborate on creating one transaction.
+When transaction have multiple inputs with different bitcoin addresses, we assume that all of these addresses are owned by
+one identity.
+
+The second heuristics focus on detecting change address described in chapter \label{btcadd}.
+The goal of second heuristics is to detect change addresses in the transactions.
+When one transaction has two outputs with two different addresses, we assume, that one of them is change
+address and is owned by the sender.
+We than search through the transactions in the blockchain for the first occurence of each address of the outputs of the 
+transaction. If one of the output addresses had been used before the transaction and second not,
+than we can safely assume, that the second one is change address\parencite{androulaki2013evaluating}.
+
+We labeled each address in our blockchain transaction graph with unique user nummaber representing
+unique identity and 
+alternatively ran first and second heuristic, that were rewriting user numbers of addresses, so that 
+addresses marked by the heuristic belonging to the same identity had same user number.
+
+We stopped these heuristics after there were no changes in the user number property of addresses.
+Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
+addresses not belonging to the same user\parencite{androulaki2013evaluating}.
+There exist few proposals for anonymization methods that could make
+these heuristics missleading(like CoinJoin and dark wallet) and also
+multisignature wallets, but these contribute to negligible percentage of transactions.
+
+\chapter{Application}
+
 In order to create a tool that will effectively search and visualize blockchain data,
 we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
 We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind st
 ore blockchain in multiple *.blk files.
 These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser 
 to parse these files and create csv files of transactions, outputs and addresses.
-
 Then we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to comp
 ute statistics and heuristics.
 All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
@@ -891,64 +933,33 @@ All entities in the \ref{neo4jschema} are represented as graph nodes, the relati
     \caption{Neo4j database ER diagram}
     \label{neo4jschema}
 \end{figure}
-XXX - dodelat
-
-\section{Using own transactions to identify market wallets}
-\label{Using own transactions to identify market wallets}
-
-Valhalla cryptomarket generates uniue deposit address for each new user.
-When user wants to buy something, he needs to deposit bitcoins to deposit address,
-that will top up hi account balance and he used this account balance to buy stuff.
-Vendor or user can request withdrawing their bitcoins from cryptomarket and so
-the cryptomarket decrease their account balance and sends bitcoin to user's address.
-
-For identifying bitcoin addresses that are owned by Valhalla cryptomarket, we 
-deposited 0.05 Bitcoins to our user account on Valhalla cryptomarket and immidiatelly
-performed multiple withdraws by smaller amount to recieve bitcoins back.
-When we requested bitcoin withdrawals, we recieved bitcoins from different address
-than the deposit one. We consider the deposit address and all addresses we recieved
-bitcoins from during withdrawals owned by cryptomarket.
-
-Detecting just these addresses would no help us detect
-if someone sent or recieved bitcoins from Valhalla cryptomarket.
-Cryptomarkets use thousands of bitcoin addresses and
-bitcoin tumblers in order to obstruct analysis of blockchain data
-that aims to identify cryptomarket's users and administrators.
-In order to address this issue, we used two heuristics that were widely used
-in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
-for clustering bitcoin addresses belonging to same user.
-
-The first heuristics simply states that all inputs of one transaction belong to same user. This is logical,
-since users generally don't share their private keys and collaborate on creating one transaction.
-Inputs of one transaction have different bitcoin addresses, so we can check all inputs of any transaction
-owned by these addresses and find new 
-
-The second heuristics focus on detecting change address, as it was described in chapter XXX.
-If transaction has two outputs with two different addresses, when one address was used and one not,
-than we can safely assume that the not used address is a change address belonging to the same user \parencite{androulaki2013evaluating}.
-
-We labeled each address in our blockchain transaction graph with unique user number
-and alternately run first and second heuristics until there were no changes in the user number property of addresses.
-Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
-addresses not belonging to the same user\parencite{androulaki2013evaluating}.
-There exist few proposals for anonymization methods that could make
-these heuristics missleading( like CoinJoin and dark wallet), but
-these are just concepts or in experimental alpha versions, not easily
-used by even advanced users.
-
-\chapter{Application}
 
 This chapter describes the application for searching in gathered data.
-The application consists of four parts.
+The application consists of multiple python scripts that falls into 5 categories.
+======================================
 
 \begin{itemize}
- \item The scraping scripts that parse bitcoin blockchain and also scrapes data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
- \item The computanional module, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
+ \item Scripts for scraping Valhalla market
+ \item Scripts that parse bitcoin blockchain and also scrape data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
+ \item The computanional script, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
  \item Webserver that handles GUI requests and retrieves data from database.
- \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation of retrieved data. 
+ \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation and search in retrieved data. 
 \end{itemize}
 
+Scripts for scraping Valhalla market in order to get statistical data about it's operation are in statistics folder.
+Script listing-scraper.sh goes through Valhalla listings and download the HTML source code of these pages.
+Script listing-parser.py process the downloaded pages and generate listings.csv file with informations about listings.
+Seller-scraper.py opens listings.csv and for download HTML source of vendors' profile pages. 
+Seller-parser.py proccess downloader vendor's profile pages and generates sellers.csv and feedbacks.csv.
+The variables and data types stored in these .csv files are described in chapter \label{Valhalla cryptomarket webscraping}.
+in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated .csv files for
+bringing statistics about Valhalla cryptomarket in the next chapter.
 
+The scripts for obtaining data the application needs are in folder identity--scraping.
+Each of scripts named scraper\_{bitcointalk,blockchaininfo,reddit,twitter}.py scrape webpage mentioned
+in it's name and generates a .csv file with 3 collumns: bitcoin addres ,URL where was the address scraped
+and associated identity( e.q. nickname).
+The script txToDat.py uses bitcoin-core api to 
 
 \chapter{Statistics of Valhalla cryptomarket}
 

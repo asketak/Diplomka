@@ -1,7 +1,7 @@
 import os
 import subprocess
-for filename in os.listdir('./dreampgp/'):
-    command = ['pgpdump', './dreampgp/' + filename]
+for filename in os.listdir('./keys/'):
+    command = ['pgpdump', './keys/' + filename]
     try:
 	    x = subprocess.check_output(command)
     except Exception as e:
