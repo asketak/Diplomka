@@ -4,7 +4,7 @@
 	var pie = new d3pie("pieChart2", {
 		"header": {
 			"title": {
-				"text": "Identified bitcoins that left address",
+				"text": "Identified bitcoins that were sent from address",
 				"fontSize": 24,
 				"font": "open sans"
 			}

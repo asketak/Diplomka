@@ -33,6 +33,8 @@
                 %% in either Czech or Slovak, respectively.
  %english, german, russian, czech, slovak %% The additional keys allow
 ]{babel}        %% foreign texts to be typeset as follows:
+\usepackage{subfig}
+
 \usepackage[                % Appendices
   toc,page
 ]{appendix}
@@ -54,7 +56,8 @@
   ,sortlocale=cs_CZ     % locale of main language, for sorting
   ,bibencoding=UTF8     % this is necessary only if bibliography file is in different encoding than main document
 ]{biblatex}
-
+\usepackage{hyphenat}
+\hyphenation{block-chain}
 \def\textrussian#1{{\usefont{T2A}{PTSerif-TLF}{m}{rm}#1}}
 %%
 %% The following section sets up the metadata of the thesis.
@@ -193,30 +196,27 @@ and export them to .csv files and used these data for quantitative analysis of V
 XXX - tool byl uspesny v detekovani tolika a tolika adres z pouzitych uctu, viz kapitola verifikace
 
 \section{Structure of the thesis}
-XXX - mozna se zmeni lehce jmena/poradi kapitol, jinak povidani stejne
+Chapter \emph{related terminology} starts with a quick introduction
+on how cryptomarkets work and the technology they use.
+It continue with describing the major technologies used by cryptomarkets -- bitcoins, Tor and PGP.
+Chapter \emph{Related work} gives an overview of previously published works on similar topics. 
 
-Chapter Related works give an overview of works already done on similar topics. 
+The chapter \emph{Methods and tools of data retrieval and analysis} describes the process of collecting
+and storing the data from bitcoin blockchain, drug markets and publicly available forums and social networks. 
 
-Chapter Technology and terms starts with a quick introduction to bitcoin and blockchain,
-which is used for paying on crypto markets.
-It also describes how cryptomarkets work and tools that are used users and administrators of cryptomarkets.
+The chapter called 
+\emph{Application for searching nearby identified addresses}
+describes the functionality, architecture and implementation of the application that was created as part of this work.
 
-The chapter Methods and tools describes the process of collecting and storing the data from bitcoin blockchain,
-drug markets and publicly available forums and social networks. 
+Chapter \emph{Statistics of Valhalla cryptomarket} consists of various statistics about
+drug markets that were gathered by Valhalla market website scraping.
 
-Deanonymization techniques chapter describes heuristics and methods that are used by the application to identify 
-addresses used by drug markets and link the users of drug markets to publicly found identities.
-
-Chapter Statistics of drug markets consists of various statistics about drug markets that were gathered during drug mar
-ket website scraping.
-It contains two parts, the first is focused on statistics related to cash flows, the second part is giving insight about
- non-money related statistics.
-
-The chapter called Application describes the functionality, implementation, usage and 
-possible future development of the application for investigating bitcoin addresses, which was created as part of this thesis
-
-Testing and verification chapter is about the testing of the created application.
+\emph{Testing and verification} chapter is about the testing of the created application.
 The last chapter is a discussion about achieved goals, problems of implementation and possible future improvements.
+
+Chapter \emph{Conclusions and future work} discuss achieved goals and possible future extension and development
+of this work.
+
 
 \chapter{Related terminology}
 
@@ -283,14 +283,15 @@ Vendors value their feedback ratings very highly, so they encourage buyers to le
 We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.onion} based on three metrics.
 The first metric is its size.
 
-We checked list of active cryptomarkets on reddit community "r/darknetmarkets" and website https://www.deepdotweb.com.
-https://www.deepdotweb.com has alexa ranking 23500, which roughly corresponds to thousands visitors a day.
+We checked list of active cryptomarkets mentioned on reddit community \emph{r/darknetmarkets} and website
+\emph{https://www.deepdotweb.com}.
+The site \emph{https://www.deepdotweb.com} has alexa ranking 23500, which roughly corresponds to thousands visitors a day.
 The reddit community is the first link for google query "darkmarkets list" and 
-has more than 160 000 readers. So we consider these sites to be relevant enough to not miss
+has more than 160 000 readers. The webpage  So we consider these sites to be relevant enough to not miss
 the biggest cryptomarkets in their lists. Cryptomarkets taken into consideration are in table \ref{cryptomarkets}.
 
 Valhalla market is well known operating cryptomarket.
-With more than 20 000 active listings and 600 vendors, it's the second biggest currently operating cryptomarket.
+With more than 20 000 active listings and 900 vendors, it's the second biggest currently operating cryptomarket.
 
 \begin{table}
     \caption{Visited cryptomarkets}
@@ -916,27 +917,11 @@ There exist few proposals for anonymization methods that could make
 these heuristics missleading(like CoinJoin and dark wallet) and also
 multisignature wallets, but these contribute to negligible percentage of transactions.
 
-\chapter{Application}
+\chapter{Application for searching nearby identified addresses}
 
-In order to create a tool that will effectively search and visualize blockchain data,
-we need to store the blockchain locally in that way, so that common graph algorithms can be effectively executed.
-We ran the official bitcoin daemon (further referenced as bitcoind), to obtain a copy of bitcoin blockchain. Bitcoind st
-ore blockchain in multiple *.blk files.
-These files have structure, which is unfit for searching, processing and analysis of blockchain, so I used rusty-parser 
-to parse these files and create csv files of transactions, outputs and addresses.
-Then we imported these files into neo4j graph database, to have whole transaction graph in one place and be able to comp
-ute statistics and heuristics.
-All entities in the \ref{neo4jschema} are represented as graph nodes, the relationships between them are edges.
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[width=1\textwidth]{neo4j-schema}
-    \caption{Neo4j database ER diagram}
-    \label{neo4jschema}
-\end{figure}
-
-This chapter describes the application for searching in gathered data.
-The application consists of multiple python scripts that falls into 5 categories.
-======================================
+This chapter describes our application for searching in gathered data.
+The application architecture is depicted in figure \ref{application_architecture}.
+It consists of multiple python scripts that falls into 5 categories.
 
 \begin{itemize}
  \item Scripts for scraping Valhalla market
@@ -946,7 +931,15 @@ The application consists of multiple python scripts that falls into 5 categories
  \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation and search in retrieved data. 
 \end{itemize}
 
-Scripts for scraping Valhalla market in order to get statistical data about it's operation are in statistics folder.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{application_architecture}
+    \caption{Architecture of application}
+    \label{application_architecture}
+\end{figure}
+
+Scripts for scraping Valhalla market in order to get statistical data used in next chapter are in statistics folder.
 Script listing-scraper.sh goes through Valhalla listings and download the HTML source code of these pages.
 Script listing-parser.py process the downloaded pages and generate listings.csv file with informations about listings.
 Seller-scraper.py opens listings.csv and for download HTML source of vendors' profile pages. 
@@ -958,22 +951,76 @@ bringing statistics about Valhalla cryptomarket in the next chapter.
 The scripts for obtaining data the application needs are in folder identity--scraping.
 Each of scripts named scraper\_{bitcointalk,blockchaininfo,reddit,twitter}.py scrape webpage mentioned
 in it's name and generates a .csv file with 3 collumns: bitcoin addres ,URL where was the address scraped
-and associated identity( e.q. nickname).
-The script txToDat.py uses bitcoin-core api to 
+and associated identity( e.q. nickname). These files with identities are later imported into neo4j database.
+Script blockchain\_to\_csv.py uses bitcoin-core api to iterate through blockchain transactions
+and generate several csv files with the data from blockchain that are needed by application.
+The script generates multiple csv files, that will be later imported to neo4j database.
+
+In order to create a tool that will effectively search and visualize blockchain data and the 
+data we scraped, we need to store the blockchain and identity data locally in that way, so that common
+graph algorithms, heuristics and searching can be effectively performed.
+The natural representation of transactions happening between
+bitcoin addresses is a graph, so we decided to import all the data into Neo4j graph database. It's the
+most widely used graph database with native support for common graph algorithms.
+Simple representation with addresses as nodes and transactions between them as edges in not
+sufficient for our case, because we need to represent
+outputs, inputs and time of transactions in the database in order to be able to compute previously mentioned heuristics. 
+The graph schema is in figure \ref{neo4jschema}. The entities in the schema are represented as vertices
+ in the database and relationships between them are edges.
+
+The importing script ($csv\_to\_neo4j.py$) is responsible for parsing
+previously generated .csv files and importing the data into neo4j database.
+Having csv files as interminiary step between parsing blockchain and importing it to database
+is useful for debugging application and also provides easy way to
+use application with different blockchain or custom data.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{neo4j-schema}
+    \caption{Neo4j database ER diagram}
+    \label{neo4jschema}
+\end{figure}
+
+Script cluster\_identities.py connects to database and run the heuristics from the chapter
+\ref{Using own transactions to identify market wallets}.
+The webserver.py connects to local neo4j database with the schema and data imported by previous
+scripts and starts local flask webserver that publish web gui on port 5000.
+
+The GUI has one input form, where user should write the bitcoin address he is interested in.
+The GUI than shows information about the inserted address, nearby addresses and found identities.
+It consists of 3 parts shown in the screenshot \ref{guiscreen}.
+The first part is simple HTML form where user submit bitcoin address he is interested in.
+After submission, the rest of the parts show information about given address.
+The table in part 2 show list of nearby addresses with known identity. The distance is number of transactions
+between inserted address and addres in table. It also shows where the URL the identity was found
+and amount of bitcoins that wen through that address over the history of blockchain.
+In section 3, there are two pie charts. The first pie-chart shows bitcoins that were recieved by the address
+and what percentage of recieved bitcoins was the application able to link to some identity.
+The second pie chart show the same information for outgouing bitcoins, the percentage of bitcoins that were sent from this address
+and ended up in address that we were able to find associated identity.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{shot}
+    \caption{Screenshot of Gui}
+    \label{guiscreen}
+\end{figure}
 
 \chapter{Statistics of Valhalla cryptomarket}
 
-We managed to scrape 25309 vector listings from 981 vendors and 6381 feedbacks.
+We managed to scrape 25309 vendor listings, 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances.
 Vendors had from 1(90 vendors) to 1083(1 vendor)
 active listings, with average of 25.69 (SD = 58.06)
 and median = 11.00 listings per vendor.
-The distribution can be seen in figure \ref{listingsxsellers}
+Most vendors tend to have small number of active listings,
+as it can be seen on histogram \ref{listingsxsellers}.
 
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{listingsxsellers}
-    \caption{Number of active listings for each seller}
+    \centering
+    \caption{How many active listings sellers have}
     \label{listingsxsellers}
 \end{figure}
 
@@ -987,60 +1034,70 @@ the frequency of countries the vendors were shipping from is in table \ref{shipc
     \label{shipcount}
     \begin{tabular}{|l|l|}
     Countries vendors are shipping from  & Count of vendors\\
-        Australia                                    & 3   \\ 
-        Poland                                       & 3   \\ 
-        Spain                                        & 4   \\ 
-        Canada                                       & 4   \\ 
+        Unknown                                      & 834  \\
+        Finland                                      & 28  \\ 
+        United Kingdom                               & 23  \\ 
+        United States                                & 16  \\ 
+        Germany                                      & 13  \\ 
+        Netherlands                                  & 12  \\ 
         France                                       & 5   \\ 
         Norway                                       & 5   \\ 
-        Netherlands                                  & 12  \\ 
-        Germany                                      & 13  \\ 
-        United States                                & 16  \\ 
-        United Kingdom                               & 23  \\ 
-        Finland                                      & 28  \\ 
+        Spain                                        & 4   \\ 
+        Canada                                       & 4   \\ 
+        Australia                                    & 3   \\ 
+        Poland                                       & 3  \\  
         Others                                       & 31   \\
-        Unknown                                      & 834  
     \end{tabular}
 \end{table}
 
 
-In the graph \ref{listingxprice} is shown distribution of prices of all listings in
- the market. 
- The graph \ref{flistingxprice} show distribution of prices gathered
- from vendor feedbacks. The \ref{flistingxprice} might count one listing
- multiple times, as one listings might be bought several times
- and therefore appear multiple times in feedback. We expect that distribution
+The figure \ref{listingxprice} shows distribution of prices of all listings in
+ the market on the left graph, on the right is the distribution of prices
+ of listings mentioned in feedbacks. Some listings might be count multiple times
+ in the right graph, because one listing might be bought and several times
+ and therefore generate multiple feedbacks. We expect that distribution
  of prices in these feedbacks reflects more accuratelly the prices of the goods or services
- that are actually bought at market.
- The average price of listing is 336.2 Eur(1368.2 SD!) with median of 71.Eur,
+ that are actually bought at market, because feedbacks can be given only by users who
+ bought something from vendor. We calculated price of listings in EUR as 
+ price in bitcoin * the average price of bitcoin for 30 days before the scraping
+ (8219 EUR 20.1 - 20.2, daily snapshot from blockchain.info).
+ 
+ The average price of listing is 336.2 Eur(1368.2 SD!) with median of 71.3 Eur,
  while for feedbacks, it is 82.7Eur(150.7 SD) with median of 55 Eur.
   There were only 22(0.3\%) feedbacks with price > 1000EUR
- with only 5(0.01\%) feedbacks with price > 2000 Eur.
-  For listings, there were 1533(6.05\%) active listings
+ and only 5(0.01\%) feedbacks with price > 2000 Eur.
+  There were 1533(6.05\%) active listings
  with price greater than 1000 EUR
  673(2.7\%) listings them with price greater than 2000 Eur.
+ The price distributions in \ref{listingxprice} shows,
+ that while there exist substantional amount of extremely cheap or expensive listings,
+ buyers tends to buy amount of goods worth between 10 and 1000 EUR.
  The titles of high prices listings don't indicate that 
- these listings are somehow special expect it's price.
- These findings indicate, that buyers tend to buy
- smaller amount of drugs. The average price of the bought goods (82.7 EUR)
- is way below the emount someone who resale drugs would buy at one deal.
+ these listings are somehow special except it's price.
+ The average price of the bought goods (82.7 EUR) is way
+ below someone who resell drugs would buy.
+ 
  There were 115 listings with zero price on the market,
  but no one of them was mantioned in feedbacks.
  The listings with 0 price had titles like "CARDING SERVICE *FREE*",
  "Custom order", "Free Carding Tutorial 2017" and "FREE SAMPLE 84\% MDMA CRYSTAL ROCKS"
 
 \begin{figure}[!htb]
+\label{listingxprice}
+\subfloat{
     \centering
-    \includegraphics[scale=0.4]{listingxprice}
-    \caption{Prices of listings}
-    \label{listingxprice}
-\end{figure}
-
-\begin{figure}[!htb]
+    \includegraphics[width=0.5\linewidth]{listingxprice}
+    %\caption{Prices of listings}
+}
+\subfloat{
     \centering
-    \includegraphics[scale=0.4]{flistingxprice}
-    \caption{Prices of listings in feedbacks}
-    \label{flistingxprice}
+    \includegraphics[width=0.5\linewidth]{flistingxprice}
+    %\caption{Prices of listings in feedbacks}
+    }
+    
+\caption[justification=centering]{Distribution of prices in listings and feedbacks\newline
+    X axis represents individual listings(feedbacks) sorted by price
+}
 \end{figure}
 
 We calculated the total revenue for each category
@@ -1049,10 +1106,8 @@ and summing the price over all listings in given category. This leads minimal re
 can be given only if the trade happened on cryptomarket and there
 exist trades with no given feedbacks for sure.
 Market share is a revenue of category divided by total revenue from all categories.
-The market shares of most popular categories is similar
-to market shares mentioned in previous works.\ref{aldridge2016hidden}
 Average price of occured trades varied from between 60\$ and 150\$ for each category
-with two outiers. Opiates, which have the biggest price/dose ratio and 
+with two outliers. Opiates, which have the biggest price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
 Custom listings contains no description of any goods/services, just state "custome listing for user: xxx".
 We found 300 listings with word "custom" in their title. 
@@ -1091,65 +1146,41 @@ The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur
 Vast majority of vendors earned negligible money,
 the average revenue is 2287Eur with median just 32Eur.
 Note, that we were able to scrape just the vendors with active listings,
-so there might be more vendors who closed their listings after
-not being able to ear substantional amount of money.
-Just 304(30\%) vendors earned more than 1000 EUR on the market.
-We will focus on these vendors in our next descri
+so there might be much more vendors who stopped using Valhalla after
+not being able to earn substantional amount of money.
 
-Most vendors maintained really high percentage of positive reviews.
-When counting only vendors with more than 10 reviews,(304 sellers out of 981)
-The mean is 93.7\% and median 98.3\% of positive feedbacks
- 
-\begin{figure}[!htb]
+ \begin{figure}[!htb]
     \centering
-    \includegraphics[scale=0.4]{revpos}
-    \caption{Vendors revenue by positive feedback ratio}
-    \label{revpos}
+    \includegraphics[scale=0.4]{total-rev}
+    \caption{Total revenue of vendors}
+    \label{Vendors by total revenue}
 \end{figure}
 
-Each circle in \ref{posneg} represents one vendor and axes represent
-the number of positive and negative feedbacks that vendor recieved. 
-We can see that vast majority only 2 vendors out of 666 have recieved more
-negative feedback than positive.
-Only 19 vendors out of 666 managed to get more than 50 negative feedbacks,;
-while all of the these 19 vendors had more
- than 400 positive reviews.
-Only 40 vendors got more negative feedbacks than positive feedbacks.
- If we look at statistics of reviews from popular e-shop amazon(http://minimaxir.com/2017/01/amazon-spark)
+%\begin{figure}[!htb]
+%    \centering
+%    \includegraphics[scale=0.4]{revpos}
+%    \caption{Vendors revenue by positive feedback ratio}
+%    \label{revpos}
+%\end{figure}
+
+Most vendors maintained really high percentage of positive reviews.
+When counting only vendors with more than 10 reviews,(304 vendors ~ 31\%)
+The mean is 93.7\% and median 98.3\% of positive feedbacks ratio.
+
+ If we look at statistics of reviews from popular e-shop amazon(http://jmcauley.ucsd.edu/data/amazon/k)
  and consider one and two star reviews as negative, we can see that amazon sellers on
  average gets between 5-25\% negative reviews, depending on category of the goods.
  On the Valhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
  Also, only 40 vendors have less than 80\% positive reviews and out of that 36 have less 50 reviews in total.
  These numbers indicate that the customers of Valhalla market
  are much more picky about the vendor they choose than regular e-shop cuystomers. 
- If \ref{Vendors by total revenue}
   
 
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{posratxtotal}
-    \caption{Positive reviews of vendors}
-    \label{posratxtotal}
-\end{figure}
-
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{posneg-log}
-    \caption{Positive/negative reviews of vendors}
-    \label{posneg}
-\end{figure}
-asfd
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{reviews-count-log}
     \caption{Number of reviews for vendors}
     \label{reviews}
-\end{figure}
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{total-rev}
-    \caption{Total revenue of vendors}
-    \label{Vendors by total revenue}
 \end{figure}
 
 
@@ -1179,8 +1210,6 @@ to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
     \label{buytrad}
 \end{figure}
 
-
-
 \chapter{Testing and verification of the created tool}
 This chapter describes the way, the POC application was tested.
 
@@ -1195,27 +1224,24 @@ Than marking the addresses from where the bitcoins were received as 'a
 
 We were succesfull with scraping Valhalla cryptomarket and
 bringing up meaningful statistics about it's operations.
-Our statistical findings and description are similar to what has been stated about
+Our statistical findings are similar to what has been stated about
 cryptomarkets in previous works.
 We scraped Valhalla market just once, but the data about the feedbacks were
 related to the time frame of one month. If we monitored Valhalla market for longer time period,
 we could measure differences in the statistics over time and also get better granularity
 on the data over given timeframe.
 
-The application is finding the nearest addresses with associated identities when the user inserts the address.
-It is searching these addresses by performing BFS over transactions up to the length of 5 transactions.
+The application finds nearest addresses with associated identities.
+It is searching for these addresses by performing BFS over transactions up to the length of 5 transactions.
 BFS performance is pretty bad and the application could use more paralelism and also precompute data once, so that
 installation would took more time because of precomputation, but using application would be much faster.
-Since we have started working on this application, new
-application frameworks for blockchain analysis have appeared \parencite{kalodner2017blocksci} that claims much better performance than
-neo4j database. Faster performance would allow us to search for addresses that are farther from investigated address.
+Better performance would allow us to search for addresses that are farther from investigated address.
 
 Also, more heuristics for clustering addresses have been described in 
 \parencite{androulaki2013evaluating}. These heuristics are not based just on transaction graph, but also
 on expected behaviour of users. These heuristics are less accurate, but 
 offer more options to cluster addresses of same owner. The application could let user decide, which heuristics
 he wants to use and/or show, which identities were found by which combination of heuristics.
-
 The GUI and code would definetely use some more polishing, a lot of possible configuration options
 are not parametrized, but hardcoded for default values.
 
@@ -1232,77 +1258,10 @@ User can check the progress of blockchain synchronization by running
 "bitcoin-cli --getblockchaininfo"
 Bitcoin core stores data in .blk files defaultly in home directory.
 
-Script blockchain\_to\_csv.py iterate through blockchain
-and generate several csv files with the data from blockchain that are needed by application.
-The script generates
-\begin{itemize} % XXX - copie
- \item addresses.csv: sorted list of Bitcoin addressed
- \item transactions.csv: list of transactions (hash)
- \item outputs.csv: list of transaction outputs (output\ key, id, value)
- \item rel\_input.csv: relationship between transactions and transaction outputs (tx\_hash, output\ key)
- \item rel\_tx\_output.csv: relationship between transactions and transaction outputs (tx\_hash, output\ key)
- \item rel\_output\_address.csv: relationship between outputs and addresses (output\ key, address)
-\end{itemize}
-
-The importing script ($csv\_to_neo4j.py$) is responsible for parsing bitcoin blockchain files and importing the data into neo4j database.
-The importing script takes two parameters, the directory of .csv files created in previous step
-and directory for creating neo4j graph database.
-Having csv files as interminiary step is useful for debugging application and also provides easy way to
-using application with different blockchain or customly generated data.
-
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[width=1\textwidth]{application_architecture}
-    \caption{Architecture of application}
-    \label{application_architecture}
-\end{figure}
-
-The next script is scrape\_identities.sh. It runs multiple python scrapers, each scraping one website.
-It than merges outputs of these scripts into single csv file, identities.csv.
-
-File identities.csv contains 3 collumns.
-\begin{itemize}
-  \item Address - bitcoin address the identity is associated with
-  \item Identity - String representing identity, usually username
-  \item URL - Url where the Identity and Address were scraped
-\end{itemize}
-
-identities.csv can be imported into database by running identities\_to\_neo4j.py
-The user can supply his own file with identities tied to bitcoin addresses in the same format as identities.csv and 
-run identities\_to\_neo4j.py multiple times to add new identities to database.
-
-Script\ cluster\_identities.py connects to database and run queries that will cluster bitcoin addresses into
-clusters belonging to the same user. Computing these heuristics is very disk read/write heavy.
-For 3 months of blockchain data(December 2017 - February 2018) it ran multiple hours.
-
 At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
 to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
 
-The GUI has one input form, where user should write the bitcoin address he is interested in.
-The GUI than shows multiple information about the inserted address, nearby addresses and identities.
-It consists of 5 parts, these are highlighted in the screenshot \ref{guiscreen}.
 
-The first part is simple HTML form where user submit bitcoin address he is interested in.
-After submission, the rest of the parts show information about given address.
-
-The table in part 2 show list of nearby addresses with known identity. The distance is number of transactions
-between inserted address and addres in table. It also shows where the URL the identity was found
-and amount of bitcoins that wen through that address over the history of blockchain.
-In section 3, there are two pie charts. The first pie-chart shows bitcoins that were recieved by the address
-and what percentage of recieved bitcoins was the application able to link to some identity.
-The second pie chart show the same information for outgouing bitcoins, the percentage of bitcoins that were sent from this address
-and ended up in address that we were able to find associated identity.
-
-The transaction graph in part 4 shows searched address in the middle and it's associated transactions.
-Incoming transactions on left and outgoing transactions on right. Each transaction also show a pie chart showing
-same data as pie charts in section 3. This way, user can identify outgoing transaction with the most bitcoins that were lately identified.
-
-The last section is a graph shows the path of transactions between searched address and identified addresses.
-The x axis shows distance of transactions from the searched address, positive for transactions that transfered bitcoins
-from searched address to some address we identifies, negative is for transactions that transfered bitcoins
-from identified address to our searched addres.
-
-XXX - dat screenshot nejakeho searche a presny priklad, co konkretne co znamena
 
 \end{appendices}
 
