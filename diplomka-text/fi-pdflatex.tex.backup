@@ -138,7 +138,7 @@ n},
 %\addcontentsline{toc}{chapter}{Introduction}
 
 The relative anonymity of the Internet offers an incentive for criminal parties
-to use the Internet as a tool for their activities.
+to use the Internet as a toolG for their activities.
 Internet facilitates some forms of existing crimes (selling drugs, guns and
 counterfeits, running Ponzi schemes) and also enables many new types of frauds like hacking, phishing and identity theft.
 
@@ -1013,28 +1013,41 @@ There were 17314(68\%) listings related to selling drug substances.
 Vendors had from 1(90 vendors) to 1083(1 vendor)
 active listings, with average of 25.69 (SD = 58.06)
 and median = 11.00 listings per vendor.
-Most vendors tend to have small number of active listings,
+Most vendors tend to have just few active listings,
 as it can be seen on histogram \ref{listingsxsellers}.
+The histogram does not show 3 sellers with more than 400 listings.
 
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{listingsxsellers}
     \centering
-    \caption{How many active listings sellers have}
+    \caption{Active listings vendors have}
     \label{listingsxsellers}
 \end{figure}
 
-Valhalla was originally estabilished as a local Finnish market.
-That seems to be the reason for surprisingly many vendors shipping from Finland.
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{catxrev}
+    \centering
+    \caption{Amount of }
+    \label{catxrev}
+\end{figure}
+
 Vendors were shipping drugs from 39 distinct countries,
 the frequency of countries the vendors were shipping from is in table \ref{shipcount}.
+Table \ref{richvendors} list just vendors that have achieved 10000EUR(150 vendors \~ 15\% ) or more in revenue.
+Valhalla was originally estabilished as a local Finnish crypto market.
+That seems to be the reason for surprisingly many vendors shipping from Finland and also large percentage
+of Finns among high revenue vendors, because they might be on the market for longer time.
+Most of the vendors had listings in just few categories.
+In graph \ref{catxrev} vendors are clustered by their revenue and number of different subcategories they have 
+active listings in.  
 
 \begin{table}
     \caption{Countries that vendors shipp from}
     \label{shipcount}
     \begin{tabular}{|l|l|}
     Countries vendors are shipping from  & Count of vendors\\
-        Unknown                                      & 834  \\
         Finland                                      & 28  \\ 
         United Kingdom                               & 23  \\ 
         United States                                & 16  \\ 
@@ -1047,23 +1060,39 @@ the frequency of countries the vendors were shipping from is in table \ref{shipc
         Australia                                    & 3   \\ 
         Poland                                       & 3  \\  
         Others                                       & 31   \\
+        Unknown                                      & 834  \\
     \end{tabular}
 \end{table}
 
+\begin{table}
+    \caption{Countries high revenue vendors ship from}
+    \label{richvendors}
+    \begin{tabular}{|l|l|}
+    Country & Count of vendors\\
+Finland & 24 \\
+UK & 13 \\
+USA & 10 \\
+Germany & 6 \\
+Netherlands & 6 \\
+Norway & 4 \\
+Others & 20 \\ 
+Unknown & 69 \\
+    \end{tabular}
+\end{table}
 
 The figure \ref{listingxprice} shows distribution of prices of all listings in
- the market on the left graph, on the right is the distribution of prices
- of listings mentioned in feedbacks. Some listings might be count multiple times
- in the right graph, because one listing might be bought and several times
+ the market on the left graph and on the right graph is the distribution of prices
+ of listings mentioned in feedbacks. Some listings might be counted multiple times
+ in the right graph, because one listing might be bought several times
  and therefore generate multiple feedbacks. We expect that distribution
  of prices in these feedbacks reflects more accuratelly the prices of the goods or services
  that are actually bought at market, because feedbacks can be given only by users who
  bought something from vendor. We calculated price of listings in EUR as 
- price in bitcoin * the average price of bitcoin for 30 days before the scraping
- (8219 EUR 20.1 - 20.2, daily snapshot from blockchain.info).
+ price in bitcoin multiplied by the average price of bitcoin for 30 days before the scraping
+ (8219 EUR for 20.1.2018 - 20.2.2018, daily prices taken from blockchain.info).
  
  The average price of listing is 336.2 Eur(1368.2 SD!) with median of 71.3 Eur,
- while for feedbacks, it is 82.7Eur(150.7 SD) with median of 55 Eur.
+ while feedbacks had average 82.7Eur(150.7 SD) with median of 55 Eur.
   There were only 22(0.3\%) feedbacks with price > 1000EUR
  and only 5(0.01\%) feedbacks with price > 2000 Eur.
   There were 1533(6.05\%) active listings
@@ -1071,12 +1100,9 @@ The figure \ref{listingxprice} shows distribution of prices of all listings in
  673(2.7\%) listings them with price greater than 2000 Eur.
  The price distributions in \ref{listingxprice} shows,
  that while there exist substantional amount of extremely cheap or expensive listings,
- buyers tends to buy amount of goods worth between 10 and 1000 EUR.
- The titles of high prices listings don't indicate that 
- these listings are somehow special except it's price.
- The average price of the bought goods (82.7 EUR) is way
- below someone who resell drugs would buy.
- 
+ majority(5937 93\%) of trades were between 10 and 200 EUR.
+ The titles of expensive listings don't indicate that 
+these listings are somehow special except the price.
  There were 115 listings with zero price on the market,
  but no one of them was mantioned in feedbacks.
  The listings with 0 price had titles like "CARDING SERVICE *FREE*",
@@ -1101,114 +1127,118 @@ The figure \ref{listingxprice} shows distribution of prices of all listings in
 \end{figure}
 
 We calculated the total revenue for each category
-by multiplying the price of each listings by the number of associated feedbacks
-and summing the price over all listings in given category. This leads minimal revenue, as feedbacks
+by summing the price over all feedbacks to listings in given category.
+This leads to minimal revenue, because feedbacks
 can be given only if the trade happened on cryptomarket and there
-exist trades with no given feedbacks for sure.
+trades happening with no given feedbacks are also possible.
 Market share is a revenue of category divided by total revenue from all categories.
 Average price of occured trades varied from between 60\$ and 150\$ for each category
 with two outliers. Opiates, which have the biggest price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
-Custom listings contains no description of any goods/services, just state "custome listing for user: xxx".
+Custom listings contains no special tag and no description of any goods/services.
+They have just   can custom listing for user: xxx".
 We found 300 listings with word "custom" in their title. 
 It is possible that vendors use these listings to artificially boost
 the revenue that is shown on their profile page and improve feedback ratings.
 
 \begin{table}
     \caption{Estimated monthly revenue for selected drug categories a by listing price}
+\hspace*{-2cm}
     \label{categories}
-    \begin{tabular}{|l|l|l|l|l|}
-Category & listings & feedbacks & revenue & market share \\
-Cannabis & 5139 & 188 & 135693 & 27.6\% \\
-Stimulants & 3493 & 1043 & 108157 & 22\% \\
-Opiates & 1662 & 489 & 83135 & 16.9\% \\
-Pharmacy & 2294 & 1104 & 62054 & 12.6\% \\
-Body building & 679 & 402 & 31466 & 6.4\% \\
-Empathogens & 2988 & 394 & 20344 & 4.1\% \\
-Other drugs &  774 & 173 & 14350 & 2.9\% \\
-Psychedelics & 1377 & 198 & 11796 & 2.4\% \\
-Other products &  782 & 89 & 9106 & 1.8\% \\
-Self-defence &  513 & 4 & 4635 & 0.9\% \\
-Services & 1662 & 35 & 4061 & 0.8\% \\
-Dissociatives &  290 & 38 & 2317 & 0.5\% \\
-Classifieds &  649 & 18 & 2182 & 0.4\% \\
-Mushroom growing &   26 & 2 & 178 & 0\% \\
-Digital items & 2497 & 9 & 141 & 0\% \\
-Depressants &   71 & 2 & 59 & 0\% \\
-Cannabis growing &  56 & 2 & 44 & 0\% \\
-Paraphernalia  &  36 & 0 & 0 & 0\% \\
-Production / distribution &   17 & 0 & 0 & 0\% 
+    \begin{tabular}{|l|l|l|l|l|l|}
+Category & listings & feedbacks & revenue & average price & market share \\
+Cannabis & 5139 & 1883 & 135693 & 72 & 27.6\% \\
+Stimulants & 3493 & 1043 & 108157 & 103 & 22\% \\
+Opiates & 1662 & 489 & 83135 & 170 & 16.9\% \\
+Pharmacy & 2294 & 1104 & 62054 & 56 & 12.6\% \\
+Body building & 679 & 402 & 31466 & 78 & 6.4\% \\
+Empathogens & 2988 & 394 & 20344 & 51 &4.1\% \\
+Other drugs &  774 & 173 & 14350 & 82 & 2.9\% \\
+Psychedelics & 1377 & 198 & 11796&59  & 2.4\% \\
+Other products &  782 & 89 & 9106& 102 & 1.8\% \\
+Self-defence &  513 & 4 & 4635 &  1158  & 0.9\% \\
+Services & 1662 & 35 & 4061 &  116  &0.8\% \\
+Dissociatives &  290 & 38 & 2317& 60  & 0.5\% \\
+Classifieds &  649 & 18 & 2182 &  121  & 0.4\% \\
     \end{tabular}
 \end{table}
+
+ \begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{total-rev}
+    \caption{Vendors by total revenue}
+    \label{total-rev}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{posratrev}
+    \caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
+    \label{posratrev}
+\end{figure}
 
 We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
 The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
 Vast majority of vendors earned negligible money,
 the average revenue is 2287Eur with median just 32Eur.
+Vendor pages also contains count of positive and negative feedbacks over whole vendor's existence
+on market. Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks, all of them
+but 3 earned less than 300EUR.
 Note, that we were able to scrape just the vendors with active listings,
 so there might be much more vendors who stopped using Valhalla after
 not being able to earn substantional amount of money.
+Vendors who were selling on the market repeatedly maintained high ratio of positive feedbacks.
+When counting only vendors with more than 10 reviews(304 vendors \~ 31\%),
+the mean is 93.7\% and median 98.3\% of positive feedbacks.
+Vendors with 1 to 10 reviews had on average 27.2\% of positive feedbacks.
+Figure \ref{posratrev} shows the the distribution of vendors with similar
+positive feedbacks ratio and revenue and linear regression line.
+These findings indicate, that market is competitive and
+having bad reputation during first few sales shuts down any opportunity
+for the vendor to continue selling his goods and that majority of vendors don't succeed.
 
- \begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{total-rev}
-    \caption{Total revenue of vendors}
-    \label{Vendors by total revenue}
-\end{figure}
+We can identify one customer buying multiple products from data from feedbacks pages.
+Every feedback contains first two and last two characters of buyers username,
+and the total number and price of trades performed by buyer.
+The four letters gives at least $26**4$ distinct possible combinations, which is way
+more then our 6000 feedbacks. Combined with the information
+about buyers number of completed trades, we can safely assume that we are able identify
+all feedbacks given by one buyer.
+From our 6000 feedbacks, we gathered 2595 unique four letter combinations
+and total number and price of trades.
+Feedbacks also contains how much the buyer spent overall on the Valhalla market.
+Buyers total spending and total performed trades are rounded just to few distinct values, so the
+following statistics are just estimates.
 
-%\begin{figure}[!htb]
-%    \centering
-%    \includegraphics[scale=0.4]{revpos}
-%    \caption{Vendors revenue by positive feedback ratio}
-%    \label{revpos}
-%\end{figure}
-
-Most vendors maintained really high percentage of positive reviews.
-When counting only vendors with more than 10 reviews,(304 vendors ~ 31\%)
-The mean is 93.7\% and median 98.3\% of positive feedbacks ratio.
-
- If we look at statistics of reviews from popular e-shop amazon(http://jmcauley.ucsd.edu/data/amazon/k)
- and consider one and two star reviews as negative, we can see that amazon sellers on
- average gets between 5-25\% negative reviews, depending on category of the goods.
- On the Valhalla market, vast majoririty of sellers have >95\% of positive reviews, as is shown on \ref{pospercent}.
- Also, only 40 vendors have less than 80\% positive reviews and out of that 36 have less 50 reviews in total.
- These numbers indicate that the customers of Valhalla market
- are much more picky about the vendor they choose than regular e-shop cuystomers. 
-  
+Buyers have bought on average goods for 1176EUR on Valhalla market overall.
+Just 129(5\%) of buyers had bought goods worth around 10000EUR in total,
+ 1289(50\%) buyers have spendings 500EUR or less.
+This distribution is similar to revenue distribution of vendors, where
+vast majority of actors transfer just small amounts of value through Valhalla market and
+just extremely small percentge of actors trade on market at bigger scale.
+The average price of the one trade (82.7 EUR) and the average of lifetime spending (1176EUR)
+is way below the amount someone who actively resell drugs for profit would buy.
+The distribution of buyers total spending is on figure \ref{buyerxspend}.
 
 \begin{figure}[!htb]
+\hspace*{-3cm}
+    \label{buyerxspend}
+\subfloat{
     \centering
-    \includegraphics[scale=0.4]{reviews-count-log}
-    \caption{Number of reviews for vendors}
-    \label{reviews}
+    \includegraphics[scale=0.4]{buyerxspend}
+    %\caption{Rounded amount the buyers totally spent on Valhalla market}
+}
+\subfloat{
+    \centering
+    \includegraphics[scale=0.4]{tradxbuyer}
+    %\caption{Distribution of total trades}
+}
+\caption[justification=centering]{Distribution of buyers total spending and total performed trades}
 \end{figure}
 
 
 We were interested, if repeat buyers are loyal customers.
-XXX - jsou loajalni jak moc a jsou vendori kteri maji loajalnejsi zakazniky?cd 
 
-
-We can identify one customer buying multiple products from data from listings feedback page.
-Every feedback contains first two and last two characters of buyers username,
-and the total number and price of trades performed by buyer.
-The four letters gives at least $26**4$ distinct possible values, way higher number of 
-than we can find in our 6000 feedbacks. Combined with the information
-about buyers trades, we can safely assume that we are able identify
-all the feedbacks given by one buyer.
-From our 6000 feedbacks, we gathered 2365 unique four letter combinations
-and total number and price of trades.
-
-The \ref{buytrad} shows how many trades have buyers done and how much money have they spent.
-The cryptomarket's webpage does not show exactly the number of trades, it rounds the trades
-to 1,3,5,10,25,50,100,500,1000 and total spent to 10,25,50,100,500,1000,10000.
-90\% of buyers spent between 50\$ and 1000\$ on the market and 9\% spent around 10000\$ or more.
-
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{buytrad}
-    \caption{Buyers spending and trades}
-    \label{buytrad}
-\end{figure}
 
 \chapter{Testing and verification of the created tool}
 This chapter describes the way, the POC application was tested.

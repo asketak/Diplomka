@@ -50,13 +50,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\bfseries Statistics of Valhalla cryptomarket}{31}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{37}{chapter.7}
+\contentsline {chapter}{\numberline {7}\bfseries Testing and verification of the created tool}{38}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}\slshape Method of testing}{37}{section.7.1}
+\contentsline {section}{\numberline {7.1}\slshape Method of testing}{38}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}\slshape results}{37}{section.7.2}
+\contentsline {section}{\numberline {7.2}\slshape results}{38}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\bfseries Conclusion and future work}{38}{chapter.8}
+\contentsline {chapter}{\numberline {8}\bfseries Conclusion and future work}{39}{chapter.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendices}{40}{section*.26}
 \defcounter {refsection}{0}\relax 
