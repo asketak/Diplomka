@@ -1032,14 +1032,10 @@ Table \ref{richvendors} list just vendors that have achieved 10000EUR(150 vendor
 Valhalla was originally estabilished as a local Finnish crypto market.
 That seems to be the reason for surprisingly many vendors shipping from Finland and also large percentage
 of Finns among high revenue vendors, because they might be on the market since
-the time it was not internationally popular.
-Most of the vendors had listings in just few categories.
-In graph \ref{catxrev} vendors are clustered by their revenue and number of different subcategories they have 
-active listings in. Most vendors sell goods just in one or two categories, hovewer there is substantional amount
-of vendors with high revenue selling in multiple categories.
+the time it was not internationally popular and had more time to generate revenue.
 
 \begin{table}
-    \caption{Countries that vendors shipp from}
+    \caption{Countries that vendors ship from}
     \label{shipcount}
     \begin{tabular}{|l|l|}
     Countries vendors are shipping from  & Count of vendors\\
@@ -1076,26 +1072,17 @@ Unknown & 69 \\
 \end{table}
 
 \begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{catxrev}
-    \caption{Amount of vendors clustered by categories they sell and their total revenue}
-    \label{posratrev}
-\end{figure}
-
-\begin{figure}[!htb]
-\label{total-rev}
-\label{catxrev}
 
 \subfloat{
     \centering
     \includegraphics[width=0.5\linewidth]{total-rev}
 %    \caption{Vendors by total revenue}
 \label{total-rev}
-\label{catxrev}
 }
 \subfloat{
     \centering
     \includegraphics[width=0.5\linewidth]{posratrev}
+\label{posratrev}
     %\caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
     }
     
@@ -1104,26 +1091,39 @@ Unknown & 69 \\
 }
 \end{figure}
 
+
+
 We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
 The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
-Vast majority of vendors earned negligible money,
-the average revenue is 2287Eur with median just 32Eur.
-Vendor pages also contains count of positive and negative feedbacks over whole vendor's existence
-on market. Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks, all of these vendors
+There are two major groups of venders regarded to their revenue. 
+Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks and all of these vendors
 but 3 earned less than 300EUR.
 Note, that we were able to scrape just the vendors with active listings,
 so there might be much more vendors who stopped using Valhalla after
 not being able to earn substantional amount of money.
+The second group is 150 vendors (15\%) who earned 10 000 EUR or more.
 
 Vendors who were selling on the market repeatedly maintained high ratio of positive feedbacks.
 When counting only vendors with more than 10 reviews(304 vendors \~ 31\%),
 the mean is 93.7\% and median 98.3\% of positive feedbacks.
 Vendors with 1 to 10 reviews had on average 27.2\% of positive feedbacks.
 Figure \ref{posratrev} shows the the distribution of vendors with similar
-positive feedbacks ratio and revenue and linear regression line.
+positive feedbacks ratio and revenue nad its LOESS curve.
 These findings indicate, that market is competitive and
 having bad reputation during first few sales shuts down any opportunity
 for the vendor to continue selling his goods and that majority of vendors don't succeed.
+
+Most of the vendors had listings in just few categories.
+In graph \ref{catxrev} vendors are clustered by their revenue and number of different subcategories they have 
+active listings in. Most vendors sell goods just in one or two categories, hovewer there is substantional amount
+of vendors with high revenue selling in multiple categories.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{catxrev}
+    \caption{Amount of vendors clustered by categories they sell and their total revenue}
+    \label{catxrev}
+\end{figure}
 
 The figure \ref{listingxprice} shows distribution of prices of all listings in
  the market on the left graph and on the right graph is the distribution of prices

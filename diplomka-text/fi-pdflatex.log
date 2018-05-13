@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  13 MAY 2018 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  13 MAY 2018 20:09
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1664,12 +1664,6 @@ LaTeX Warning: Label `btcadd' multiply defined.
 
 LaTeX Warning: Label `Valhalla cryptomarket webscraping' multiply defined.
 
-
-LaTeX Warning: Label `total-rev' multiply defined.
-
-
-LaTeX Warning: Label `catxrev' multiply defined.
-
 )
 \openout1 = `fi-pdflatex.aux'.
 
@@ -2333,29 +2327,22 @@ File: images/listingsxsellers.png Graphic file (type png)
 <use images/listingsxsellers.png>
 Package pdftex.def Info: images/listingsxsellers.png used on input line 1023.
 (pdftex.def)             Requested size: 337.41316pt x 355.4808pt.
- [31 <./images/listingsxsellers.png (PNG copy)>] <images/catxrev.png, id=440, 6
-76.02562pt x 592.46344pt>
-File: images/catxrev.png Graphic file (type png)
-
-<use images/catxrev.png>
-Package pdftex.def Info: images/catxrev.png used on input line 1080.
-(pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
-
-<images/total-rev.png, id=441, 562.35094pt x 592.46344pt>
+ [31 <./images/listingsxsellers.png>]
+<images/total-rev.png, id=440, 562.35094pt x 592.46344pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 1095.
+Package pdftex.def Info: images/total-rev.png used on input line 1081.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/posratrev.png, id=442, 562.35094pt x 592.46344pt>
+<images/posratrev.png, id=441, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
-Package pdftex.def Info: images/posratrev.png used on input line 1100.
+Package pdftex.def Info: images/posratrev.png used on input line 1087.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 1095--1101
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1081--1088
  [][][][] 
  []
 
@@ -2363,9 +2350,14 @@ Overfull \hbox (14.99998pt too wide) in paragraph at lines 1095--1101
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-Underfull \vbox (badness 2837) has occurred while \output is active []
+[33 <./images/total-rev.png> <./images/posratrev.png (PNG copy)>]
+<images/catxrev.png, id=457, 676.02562pt x 592.46344pt>
+File: images/catxrev.png Graphic file (type png)
 
- [33 <./images/catxrev.png (PNG copy)>]
+<use images/catxrev.png>
+Package pdftex.def Info: images/catxrev.png used on input line 1123.
+(pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
+
 
 Package caption Warning: \label without proper reference on input line 1157.
 See the caption package documentation for explanation.
@@ -2374,7 +2366,7 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `listingxprice' on page 34 undefined on input line 112
 8.
 
-[34 <./images/total-rev.png> <./images/posratrev.png (PNG copy)>]
+[34 <./images/catxrev.png (PNG copy)>]
 
 Package caption Warning: \label without proper reference on input line 1157.
 See the caption package documentation for explanation.
@@ -2383,14 +2375,14 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `listingxprice' on page 35 undefined on input line 114
 6.
 
-<images/listingxprice.png, id=463, 562.35094pt x 592.46344pt>
+<images/listingxprice.png, id=464, 562.35094pt x 592.46344pt>
 File: images/listingxprice.png Graphic file (type png)
 
 <use images/listingxprice.png>
 Package pdftex.def Info: images/listingxprice.png used on input line 1162.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/flistingxprice.png, id=464, 562.35094pt x 592.46344pt>
+<images/flistingxprice.png, id=465, 562.35094pt x 592.46344pt>
 File: images/flistingxprice.png Graphic file (type png)
 
 <use images/flistingxprice.png>
@@ -2418,14 +2410,14 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `buyerxspend' on page 37 undefined on input line 1236.
 
 
-<images/buyerxspend.png, id=478, 562.35094pt x 592.46344pt>
+<images/buyerxspend.png, id=479, 562.35094pt x 592.46344pt>
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
 Package pdftex.def Info: images/buyerxspend.png used on input line 1245.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-<images/tradxbuyer.png, id=479, 562.35094pt x 592.46344pt>
+<images/tradxbuyer.png, id=480, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
@@ -2479,8 +2471,8 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  28095 strings out of 493826
- 456151 string characters out of 6156380
- 917193 words of memory out of 5000000
+ 456153 string characters out of 6156380
+ 917192 words of memory out of 5000000
  30697 multiletter control sequences out of 15000+600000
  72831 words of font info for 112 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
@@ -2495,9 +2487,9 @@ blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on fi-pdflatex.pdf (52 pages, 816854 bytes).
+Output written on fi-pdflatex.pdf (52 pages, 765689 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
+ 572 PDF objects out of 1000 (max. 8388607)
  474 compressed objects within 5 object streams
  125 named destinations out of 1000 (max. 500000)
  20825 words of extra memory for PDF output out of 24883 (max. 10000000)
