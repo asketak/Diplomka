@@ -1008,7 +1008,7 @@ and ended up in address that we were able to find associated identity.
 
 \chapter{Statistics of Valhalla cryptomarket}
 
-We managed to scrape 25309 vendor listings, 981 vendors and 6381 feedbacks.
+We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances.
 Vendors had from 1(90 vendors) to 1083(1 vendor)
 active listings, with average of 25.69 (SD = 58.06)
@@ -1029,7 +1029,7 @@ The histogram does not show 3 sellers with more than 400 listings.
     \centering
     \includegraphics[scale=0.4]{catxrev}
     \centering
-    \caption{Amount of }
+    \caption{Amount of vendors clustered by categories they sell and their total revenue}
     \label{catxrev}
 \end{figure}
 
@@ -1041,7 +1041,8 @@ That seems to be the reason for surprisingly many vendors shipping from Finland 
 of Finns among high revenue vendors, because they might be on the market for longer time.
 Most of the vendors had listings in just few categories.
 In graph \ref{catxrev} vendors are clustered by their revenue and number of different subcategories they have 
-active listings in.  
+active listings in. Most vendors sell goods just in one or two categories, hovewer there is substantional amount
+of vendors with high revenue selling in multiple categories.
 
 \begin{table}
     \caption{Countries that vendors shipp from}
@@ -1080,11 +1081,46 @@ Unknown & 69 \\
     \end{tabular}
 \end{table}
 
+ \begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{total-rev}
+    \caption{Vendors by total revenue}
+    \label{total-rev}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.4]{posratrev}
+    \caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
+    \label{posratrev}
+\end{figure}
+
+We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
+The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
+Vast majority of vendors earned negligible money,
+the average revenue is 2287Eur with median just 32Eur.
+Vendor pages also contains count of positive and negative feedbacks over whole vendor's existence
+on market. Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks, all of these vendors
+but 3 earned less than 300EUR.
+Note, that we were able to scrape just the vendors with active listings,
+so there might be much more vendors who stopped using Valhalla after
+not being able to earn substantional amount of money.
+
+Vendors who were selling on the market repeatedly maintained high ratio of positive feedbacks.
+When counting only vendors with more than 10 reviews(304 vendors \~ 31\%),
+the mean is 93.7\% and median 98.3\% of positive feedbacks.
+Vendors with 1 to 10 reviews had on average 27.2\% of positive feedbacks.
+Figure \ref{posratrev} shows the the distribution of vendors with similar
+positive feedbacks ratio and revenue and linear regression line.
+These findings indicate, that market is competitive and
+having bad reputation during first few sales shuts down any opportunity
+for the vendor to continue selling his goods and that majority of vendors don't succeed.
+
 The figure \ref{listingxprice} shows distribution of prices of all listings in
  the market on the left graph and on the right graph is the distribution of prices
- of listings mentioned in feedbacks. Some listings might be counted multiple times
- in the right graph, because one listing might be bought several times
- and therefore generate multiple feedbacks. We expect that distribution
+ of listings linked in feedbacks. Some listings might be counted multiple times or not at all
+ in the right graph, because one listing might be bought several times or not at all
+ and therefore generate multiple or no feedbacks. We expect that distribution
  of prices in these feedbacks reflects more accuratelly the prices of the goods or services
  that are actually bought at market, because feedbacks can be given only by users who
  bought something from vendor. We calculated price of listings in EUR as 
@@ -1126,20 +1162,20 @@ these listings are somehow special except the price.
 }
 \end{figure}
 
-We calculated the total revenue for each category
+We calculated the last month revenue for each category
 by summing the price over all feedbacks to listings in given category.
 This leads to minimal revenue, because feedbacks
 can be given only if the trade happened on cryptomarket and there
 trades happening with no given feedbacks are also possible.
 Market share is a revenue of category divided by total revenue from all categories.
-Average price of occured trades varied from between 60\$ and 150\$ for each category
-with two outliers. Opiates, which have the biggest price/dose ratio and 
+Average price of occured trades was similar in each category
+with two outliers. Opiates, which have the high price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
 Custom listings contains no special tag and no description of any goods/services.
-They have just   can custom listing for user: xxx".
+They contain just titles like "custom listing for user: xxx", "custom listing 113" and so on.
 We found 300 listings with word "custom" in their title. 
-It is possible that vendors use these listings to artificially boost
-the revenue that is shown on their profile page and improve feedback ratings.
+We think that vendors and buyers use these custom listings in order to be able to protect themselves
+by cryptomarket Escrow service for already arranged deal.
 
 \begin{table}
     \caption{Estimated monthly revenue for selected drug categories a by listing price}
@@ -1163,49 +1199,19 @@ Classifieds &  649 & 18 & 2182 &  121  & 0.4\% \\
     \end{tabular}
 \end{table}
 
- \begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{total-rev}
-    \caption{Vendors by total revenue}
-    \label{total-rev}
-\end{figure}
-
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[scale=0.4]{posratrev}
-    \caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
-    \label{posratrev}
-\end{figure}
-
-We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
-The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
-Vast majority of vendors earned negligible money,
-the average revenue is 2287Eur with median just 32Eur.
-Vendor pages also contains count of positive and negative feedbacks over whole vendor's existence
-on market. Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks, all of them
-but 3 earned less than 300EUR.
-Note, that we were able to scrape just the vendors with active listings,
-so there might be much more vendors who stopped using Valhalla after
-not being able to earn substantional amount of money.
-Vendors who were selling on the market repeatedly maintained high ratio of positive feedbacks.
-When counting only vendors with more than 10 reviews(304 vendors \~ 31\%),
-the mean is 93.7\% and median 98.3\% of positive feedbacks.
-Vendors with 1 to 10 reviews had on average 27.2\% of positive feedbacks.
-Figure \ref{posratrev} shows the the distribution of vendors with similar
-positive feedbacks ratio and revenue and linear regression line.
-These findings indicate, that market is competitive and
-having bad reputation during first few sales shuts down any opportunity
-for the vendor to continue selling his goods and that majority of vendors don't succeed.
-
-We can identify one customer buying multiple products from data from feedbacks pages.
 Every feedback contains first two and last two characters of buyers username,
-and the total number and price of trades performed by buyer.
-The four letters gives at least $26**4$ distinct possible combinations, which is way
-more then our 6000 feedbacks. Combined with the information
-about buyers number of completed trades, we can safely assume that we are able identify
-all feedbacks given by one buyer.
-From our 6000 feedbacks, we gathered 2595 unique four letter combinations
-and total number and price of trades.
+and the rounded total number and price of trades performed by buyer.
+From our 6000 feedbacks, we gathered 2595 unique combinations of four letters from username,
+rounded number of trades and buyer's total spending.
+There are possible $36^4=1679616$ combinations of 4 alfanumerical characters.
+If we take rest of feedbacks 6000-2595 = 3405, than probability that
+
+It is possible that two different buyers have the username prefix, suffix, amount of 
+trades and revenue. 
+
+%narozeninovy paradox = $36^4*7 combination(1679616,2654)*2654!/(1679616^2654)$
+
+
 Feedbacks also contains how much the buyer spent overall on the Valhalla market.
 Buyers total spending and total performed trades are rounded just to few distinct values, so the
 following statistics are just estimates.
