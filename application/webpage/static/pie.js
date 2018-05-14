@@ -5,7 +5,7 @@
 		"header": {
 			"title": {
 				"text": "Identified bitcoins that were sent from address",
-				"fontSize": 24,
+				"fontSize": 20,
 				"font": "open sans"
 			}
 		},
@@ -33,7 +33,7 @@
 				"hideWhenLessThanPercentage": 3
 			},
 			"mainLabel": {
-				"fontSize": 11
+				"fontSize": 21
 			},
 			"percentage": {
 				"color": "#ffffff",
@@ -41,7 +41,7 @@
 			},
 			"value": {
 				"color": "#adadad",
-				"fontSize": 11
+				"fontSize": 21
 			},
 			"lines": {
 				"enabled": true
@@ -65,13 +65,13 @@
 		"header": {
 			"title": {
 				"text": "Identified bitcoins that were recieved by address",
-				"fontSize": 24,
+				"fontSize": 20,
 				"font": "open sans"
 			}
 		},
 		"footer": {
 			"color": "#999999",
-			"fontSize": 10,
+			"fontSize": 20,
 			"font": "open sans",
 			"location": "bottom-left"
 		},
@@ -93,7 +93,7 @@
 				"hideWhenLessThanPercentage": 3
 			},
 			"mainLabel": {
-				"fontSize": 11
+				"fontSize": 21
 			},
 			"percentage": {
 				"color": "#ffffff",
@@ -101,7 +101,7 @@
 			},
 			"value": {
 				"color": "#adadad",
-				"fontSize": 11
+				"fontSize": 21
 			},
 			"lines": {
 				"enabled": true

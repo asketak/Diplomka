@@ -34,7 +34,7 @@ var piedata2 = [
 var tabledata=[
 	{
 		"address": "3Nkae2FfiCUerGL1vzRoZcPxX9FTQi1BFh",
-		"distance": "7",
+		"distance": "4",
 		"identity": "Fundalini",
 		"url": "bitcointalk.org/index.php?action=profile;u=1058550",
 		"btc": "1.37",

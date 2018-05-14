@@ -2,25 +2,26 @@ html, body, .container
 {
     height: 100%; 
     min-height: 100%;
+    font-size: 100%; 
 }
 
 .first {
     float: left;
-    width: 50%;
+    width: 30%;
     height: 10%;
     /*background-color: red;*/
 }
 
 .second{
     float: left;
-    width: 50%;
+    width: 70%;
     height: 20%;
     /*background-color: green;*/
 }
 
 .fourth{
     float: left;
-    width: 50%;
+    width: 40%;
     height: 70%;
     /*background-color: #DDDDAA;*/
 }
@@ -44,7 +45,7 @@ html, body, .container
 
 .last{
     float: right;
-    width: 50%;
+    width: 60%;
     height: 40%;
     /*background-color: yellow;*/
 }

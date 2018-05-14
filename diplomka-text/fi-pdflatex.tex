@@ -879,18 +879,20 @@ Vendor or user can request withdrawing their bitcoins from cryptomarket and so
 the cryptomarket decrease their account balance and sends bitcoin to user's address.
 
 For identifying bitcoin addresses that are owned by Valhalla cryptomarket, we 
-deposited 0.05 Bitcoins to our user account on Valhalla cryptomarket and immidiatelly
-performed multiple withdraws by smaller amount to recieve bitcoins back.
-When we requested bitcoin withdrawals, we recieved bitcoins from different address
+deposited small amount of Bitcoins to our user accounts on Valhalla cryptomarket and
+performed multiple withdraws by smaller amount than the deposited on to recieve bitcoins back.
+When we requested bitcoin withdrawals, we recieved bitcoins from different addresses
 than the deposit one. We consider the deposit address and all addresses we recieved
 bitcoins from during withdrawals as owned by cryptomarket.
 
 Knowing just about these addresses would no help us decide
 if someone sent or recieved bitcoins from Valhalla cryptomarket.
 It is common for any service accepting bitcoins to
-use thousands of bitcoin addresses, because it's common practice and even default behaviour for
-bitcoin core and other bitcoin wallet software.
-In order to address this issue, we used two heuristics that were widely used
+use multiple bitcoin addresses, because it's common practice and even default behaviour for
+bitcoin core and other bitcoin wallet software. Unique deposit address for each
+account on Valhalla market is required for each user, so that system can associate
+bitcoin transaction with Valhalla market account.1
+In order to solve this issue, we used two heuristics that were widely used
 in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
 for clustering bitcoin addresses belonging to same user.
 
@@ -903,21 +905,34 @@ The second heuristics focus on detecting change address described in chapter \la
 The goal of second heuristics is to detect change addresses in the transactions.
 When one transaction has two outputs with two different addresses, we assume, that one of them is change
 address and is owned by the sender.
-We than search through the transactions in the blockchain for the first occurence of each address of the outputs of the 
+We than search through the the blockchain for the first occurence of each address of the outputs of the 
 transaction. If one of the output addresses had been used before the transaction and second not,
 than we can safely assume, that the second one is change address\parencite{androulaki2013evaluating}.
 
-We labeled each address in our blockchain transaction graph with unique user nummaber representing
-unique identity and 
-alternatively ran first and second heuristic, that were rewriting user numbers of addresses, so that 
-addresses marked by the heuristic belonging to the same identity had same user number.
-
-We stopped these heuristics after there were no changes in the user number property of addresses.
 Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
 addresses not belonging to the same user\parencite{androulaki2013evaluating}.
 There exist few proposals for anonymization methods that could make
 these heuristics missleading(like CoinJoin and dark wallet) and also
 multisignature wallets, but these contribute to negligible percentage of transactions.
+
+We measured the success of heuristic clustering in two ways.
+We had two accounts on Valhalla market, each performing 1 deposit and immidiatelly 10 withdrawals.
+First account did that on 15.1.2018, the second one on 12.2.2018.
+We created new bitcoin wallet via mycelium mobile app, deposited bitcoins to it
+from bittrex exchange and used only that wallet for first account.
+The second bitcoin wallet was created by coinomi mobile app and 
+bitcoins were deposited to it from coinmate.cz bitcoin exchange.
+We than ran our application and looked into the neo4j database, that stored
+blockchain transaction graph and associated identities.
+We check the addresses we identified by our deposits and withdrawals,
+if they were clustered as one identity. The diagram \ref{clustertest} shows, how the 
+addresses were associated to common identities. Each collor represents one identity, circles
+are our transaction and rectangles Valhalla market addresses.
+The 
+
+We looked at the identities we gathered in previous 
+
+
 
 \chapter{Application for searching nearby identified addresses}
 
@@ -974,7 +989,7 @@ The importing script ($csv\_to\_neo4j.py$) is responsible for parsing
 previously generated .csv files and importing the data into neo4j database.
 Having csv files as interminiary step between parsing blockchain and importing it to database
 is useful for debugging application and also provides easy way to
-use application with different blockchain or custom data.
+use application with different blockchain or customly generated data.
 
 \begin{figure}[!htb]
     \centering
@@ -985,8 +1000,15 @@ use application with different blockchain or custom data.
 
 Script cluster\_identities.py connects to database and run the heuristics from the chapter
 \ref{Using own transactions to identify market wallets}.
-The webserver.py connects to local neo4j database with the schema and data imported by previous
-scripts and starts local flask webserver that publish web gui on port 5000.
+It labels each address in our blockchain transaction graph
+with unique ID representing unique identity. The outputs/inputs owned by the each address are labeled
+with same ID. Script then alternatively runs first and second heuristic,
+each time rewriting IDs of merged address(and it's outputs/inputs), so that 
+addresses marked by the heuristic as belonging to the same identity have same user ID.
+It stops, when there are no changes in IDs among addresses
+(e.q = heuristics don't merge any addresses under one identity)
+The webserver.py connects to local neo4j database with the schema and data generated by previous
+scripts and starts local flask webserver that provides web gui on port 5000.
 
 The GUI has one input form, where user should write the bitcoin address he is interested in.
 The GUI than shows information about the inserted address, nearby addresses and found identities.
@@ -1002,6 +1024,7 @@ The second pie chart show the same information for outgouing bitcoins, the perce
 and ended up in address that we were able to find associated identity.
 
 \begin{figure}[!htb]
+\hspace*{-1cm}
     \centering
     \includegraphics[width=1\textwidth]{shot}
     \caption{Screenshot of Gui}
@@ -1290,7 +1313,7 @@ hovewer application set up takes long time, for the simple reason that bitcoin
 blockchain consists of roughly 150GB of data and these must be inserted into database, indexed
 and processed by heuristics.
 For setting the application up on server and having users access it remotely,
-different options viable for storing and retrieving data on better hardware could be considered and tested.
+different options viable for storing and retrieving data on better hardware(more RAM) could be considered and tested.
 
 \begin{appendices}
 \chapter{Requirements and setup }
