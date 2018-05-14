@@ -75,7 +75,22 @@
 n},
     TeXkeywords   = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, metadata, de-anonymizatio
 n},
-    abstract      = {This thesis has two goals. The first goal is to perform quantitative statistical analysis of
+    abstract      = {
+    
+    We created a tool, which collects data from publicly available social networks and websites related to bitcoin(Twitter, Bitcointalk, Reddit,
+    blockchain.info), online darknet market Valhalla and bitcoin blockchain.
+    The tool imports these data to database, run multiple heuristics
+    and provides user interface for visualizing data and metadata of addresses and identities related to 
+    cryptomarkets and blockchain.
+    The tool can for given bitcoin address find the nearest addresses or transactions related to Valhalla drug market
+    or addresses that are mentioned in scraped websites. 
+    
+    To test the efficiency of this tool, we created two profiles on Valhalla cryptomarket and performed
+    multiple transactions to deposit and withdraw bitcoins. We imported into tool the bitcoin addresses of
+    the first profile recieved bitcoins from and checked, if the tool is able to identify,
+    that addresses owned by second profile had been sending/recieveing bitcoin from Valhall market also.
+    
+    This thesis has two goals. The first goal is to perform quantitative statistical analysis of
     Valhalla cryptomarket. We scraped Valhalla cryptomarket website for information about vendors, listings and buyers
     and brought up a lot of interesting statistics about them.
     
@@ -84,19 +99,6 @@ n},
  is to help investigators with collecting intelligence about entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. Cryptomarkets are operated
  as Tor services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
  
-    We scraped multiple publicly available social sites and websites related to bitcoin(Twitter, Bitcointalk, Reddit,
-    blockchain.info...) and also drug markets themselves.
-    We stored all the data in a neo4j database, which is a graph database based on PostgreSQL.
-    We created a tool, which collect these data, import them to database, compute multiple heuristics
-    and provides user and interface for visualizing data and metadata of addresses and identities related to 
-    cryptomarkets and blockchain.
-    The tool can for given bitcoin address find the nearest addresses or transactions related to drug markets
-    and also find the nearest addresses that are mentioned in scraped websites. 
-    
-    To test the efficiency of this tool, we created two profiles on Valhalla cryptomarket and performed
-    multiple transactions to deposit and withdraw bitcoins. We imported into tool the bitcoin addresses of
-    the first profile recieved bitcoins from and checked, if the tool is able to identify,
-    that addresses owned by second profile had been sending/recieveing bitcoin from Valhall market also.
     },
     thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík Ph.D. for guiding me and providing technical support for my work. 
     
@@ -1260,31 +1262,35 @@ The distribution of buyers total spending is on figure \ref{buyerxspend}.
 \end{figure}
 
 
-\chapter{Conclusion and future work}
+\chapter{Conclustions and future work}
 
 We were succesfull with scraping Valhalla cryptomarket and
-bringing up meaningful statistics about it's operations.
-Our statistical findings are similar to what has been stated about
-cryptomarkets in previous works.
-We scraped Valhalla market just once, but the data about the feedbacks were
-related to the time frame of one month. If we monitored Valhalla market for longer time period,
-we could measure differences in the statistics over time and also get better granularity
-on the data over given timeframe.
+bringing up meaningful and intersting statistics about its vendors and users.
+Our statistical findings fits into the previously published desciptions
+of cryptomarkets, but we also found some statistics where Valhalla market is outlier and
+came up with reasons why is it so.
+We scraped Valhalla market once, but the data about the feedbacks were
+related to the time frame of one month. Continously monitoring 
+Valhalla cryptomarket for longer periods of time could enchance the statistical description
+with data about changes of various trends on this market over time.
 
-The application finds nearest addresses with associated identities.
-It is searching for these addresses by performing BFS over transactions up to the length of 5 transactions.
-BFS performance is pretty bad and the application could use more paralelism and also precompute data once, so that
-installation would took more time because of precomputation, but using application would be much faster.
-Better performance would allow us to search for addresses that are farther from investigated address.
+The created application is fully working and production ready, it 
+finds nearest addresses with associated identities for given address.
+The application could be extended in multiple ways. We used two
+heuristics that have lowest risk of falsely clustering addresses belonging to different identities.
+Application could be extended by adding more heuristics for clustering addresses. Some of these
+heuristics have been described in \parencite{androulaki2013evaluating}.
+These heuristics are not based just on graph of bitcoin transactions, but also
+on expected behaviour of users and data that can be obtained by continously running one or multiple
+bitcoin nodes. These heuristics are less reliable, but offer more options to cluster addresses of same owner.
 
-Also, more heuristics for clustering addresses have been described in 
-\parencite{androulaki2013evaluating}. These heuristics are not based just on transaction graph, but also
-on expected behaviour of users. These heuristics are less accurate, but 
-offer more options to cluster addresses of same owner. The application could let user decide, which heuristics
-he wants to use and/or show, which identities were found by which combination of heuristics.
-The GUI and code would definetely use some more polishing, a lot of possible configuration options
-are not parametrized, but hardcoded for default values.
-
+The whole application backend can be run on consumer grade notebook. Backend database as indexed and utilizes memory well
+, requests from GUI takes at most 30 seconds to complete. This is to application advantage,
+hovewer application set up takes long time, for the simple reason that bitcoin
+blockchain consists of roughly 150GB of data and these must be inserted into database, indexed
+and processed by heuristics.
+For setting the application up on server and having users access it remotely,
+different options viable for storing and retrieving data on better hardware could be considered and tested.
 
 \begin{appendices}
 \chapter{Requirements and setup }
