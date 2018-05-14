@@ -918,13 +918,25 @@ multisignature wallets, but these contribute to negligible percentage of transac
 We measured the success of heuristic clustering in two ways.
 We had two accounts on Valhalla market, each performing 1 deposit and immidiatelly 10 withdrawals.
 First account did that on 15.1.2018, the second one on 12.2.2018.
-We wrote down the deposit addresses and also the addresses we recieved the bitcoins from 
-by withdrawals. We used two  Than, we ran our application and manually removed addresses
+We created new bitcoin wallet via mycelium mobile app, deposited bitcoins to it
+from bittrex exchange and used only that wallet for first account.
+The second bitcoin wallet was created by coinomi mobile app and 
+bitcoins were deposited to it from coinmate.cz bitcoin exchange.
+We than ran our application and looked into the neo4j database, that stored
+blockchain transaction graph and associated identities.
+We check the addresses we identified by our deposits and withdrawals,
+if they were clustered as one identity. The diagram \ref{clustertest} shows, how the 
+addresses were associated to common identities. Each collor represents one identity, circles
+are our transaction and rectangles Valhalla market addresses.
 
-owned by us and associated transactions, in order to not alter the success
-
-Firstly, we looked at the addresses we identified by our deposits and withdrawals
-and checked if they were clustered as one identity. 
+We looked at the identities mentioned in previous paragraph 
+and checked, how much bitcoins have these
+identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 13.2 and 15.2
+and we got data from feedback pages which we used to estimate 
+the minimal amount of bitcoins users spent over the previous month on Valhalla market.
+We estimated in chapter \ref{stats}, that users spent 527730EUR
+With average bitcoin price 8219EUR it roughly
+8219
 
 
 \chapter{Application for searching nearby identified addresses}
@@ -1025,6 +1037,8 @@ and ended up in address that we were able to find associated identity.
 \end{figure}
 
 \chapter{Statistics of Valhalla cryptomarket}
+\label{stats}
+
 
 We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances, the rest

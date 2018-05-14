@@ -928,11 +928,19 @@ We check the addresses we identified by our deposits and withdrawals,
 if they were clustered as one identity. The diagram \ref{clustertest} shows, how the 
 addresses were associated to common identities. Each collor represents one identity, circles
 are our transaction and rectangles Valhalla market addresses.
-The 
 
-We looked at the identities we gathered in previous 
+We looked at the identities mentioned in previous paragraph 
+and checked, how much bitcoins have these
+identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 13.2 and 15.2
+and we got data from feedback pages which we used to estimate 
+the minimal amount of bitcoins users spent over the previous month on Valhalla market.
+We estimated in chapter \ref{stats}, that users spent 527730EUR
+With average bitcoin price 8219EUR it roughly equals 527730/8219 = 64.2BTC
+The amount of bitcions identities from previous paragraph recieved is in table \ref{clustertest2}.
 
-
+Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
+Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 7.3BTC out of estimated
+64.2 BTC the market recieved.
 
 \chapter{Application for searching nearby identified addresses}
 
@@ -1032,6 +1040,8 @@ and ended up in address that we were able to find associated identity.
 \end{figure}
 
 \chapter{Statistics of Valhalla cryptomarket}
+\label{stats}
+
 
 We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances, the rest
@@ -1204,7 +1214,7 @@ by cryptomarket Escrow service for already arranged deal.
 \hspace*{-1cm}
     \label{categories}
     \begin{tabular}{|l|l|l|l|l|l|}
-Category & listings & feedbacks &  \multicolumn{1}{|p{2cm}|}{\centering revenue \\ in EUR }& \multicolumn{1}{|p{2cm}|}{\centering average price \\ in EUR } & market share \\
+Category & listings & feedbacks &  \multicolumn{1}{|p{2cm}|}{\centering revenue \\ in EUR }& \multicolumn{1}{|p{2cm}|}{\centering average price \\ in EUR } &\multicolumn{1}{|p{2cm}|}{\centering market \\ share } \\
 Cannabis & 5139 & 1883 & 135693 & 72 & 27.6\% \\
 Stimulants & 3493 & 1043 & 108157 & 103 & 22\% \\
 Opiates & 1662 & 489 & 83135 & 170 & 16.9\% \\
@@ -1325,7 +1335,8 @@ After installing bitcoin core, user needs to run:
 and wait until the blockchain is downloaded and indexed. This might take several hours or even days.
 User can check the progress of blockchain synchronization by running
 "bitcoin-cli --getblockchaininfo"
-Bitcoin core stores data in .blk files defaultly in home directory.
+
+The 
 
 At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
 to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
