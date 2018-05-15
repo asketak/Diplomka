@@ -872,7 +872,7 @@ The generated identities are stored as rows in csv files that have 3 collumns:
 \section{Using own transactions to identify market wallets}
 \label{Using own transactions to identify market wallets}
 
-Valhalla cryptomarket generates uniue deposit address for each new user.
+Valhalla cryptomarket generates unique deposit address for each new user.
 When user wants to buy something, he needs to deposit bitcoins to deposit address,
 that will top up his account balance and he than uses this account balance to buy stuff.
 Vendor or user can request withdrawing their bitcoins from cryptomarket and so
@@ -891,7 +891,7 @@ It is common for any service accepting bitcoins to
 use multiple bitcoin addresses, because it's common practice and even default behaviour for
 bitcoin core and other bitcoin wallet software. Unique deposit address for each
 account on Valhalla market is required for each user, so that system can associate
-bitcoin transaction with Valhalla market account.1
+bitcoin transaction with Valhalla market account.
 In order to solve this issue, we used two heuristics that were widely used
 in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
 for clustering bitcoin addresses belonging to same user.
@@ -911,36 +911,63 @@ than we can safely assume, that the second one is change address\parencite{andro
 
 Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
 addresses not belonging to the same user\parencite{androulaki2013evaluating}.
-There exist few proposals for anonymization methods that could make
-these heuristics missleading(like CoinJoin and dark wallet) and also
-multisignature wallets, but these contribute to negligible percentage of transactions.
+There exist multisignature wallets and also few proposals for anonymization methods that could make
+these heuristics missleading(like CoinJoin mixer and dark wallet) 
+, but these contribute to negligible percentage of transactions.
 
 We measured the success of heuristic clustering in two ways.
-We had two accounts on Valhalla market, each performing 1 deposit and immidiatelly 10 withdrawals.
-First account did that on 15.1.2018, the second one on 12.2.2018.
+We had two accounts on Valhalla market, each performing 1 deposit of 0.011 BTC and immidiatelly 10 withdrawals of
+0.01 BTC, with roughly 0.001 BTC spent on cryptomarket fees.
+For the first account, we performed these transactions on 8.2.2018, the second one on 4.3.2018.
+
 We created new bitcoin wallet via mycelium mobile app, deposited bitcoins to it
-from bittrex exchange and used only that wallet for first account.
-The second bitcoin wallet was created by coinomi mobile app and 
-bitcoins were deposited to it from coinmate.cz bitcoin exchange.
+from bittrex exchange and used that wallet only with first account.
+The second bitcoin wallet was used only by second account and created by coinomi mobile app. 
+Bitcoins were deposited to it from coinmate.cz bitcoin exchange.
+We installed both these wallets and generated new, never used bitcoin address in each one, and also
+recieved bitcoins from two different exchanges in order to not affect
+our measurement with the fact, that we are owners of both bitcoin addresses.
+
 We than ran our application and looked into the neo4j database, that stored
 blockchain transaction graph and associated identities.
-We check the addresses we identified by our deposits and withdrawals,
-if they were clustered as one identity. The diagram \ref{clustertest} shows, how the 
-addresses were associated to common identities. Each collor represents one identity, circles
-are our transaction and rectangles Valhalla market addresses.
+We checked the cryptomarket's address we identified by our deposits and withdrawals,
+if they were clustered as one identity. The table \ref{clustertest} shows, how many identities
+were associated with given deposits and withdrawals.
 
-We looked at the identities mentioned in previous paragraph 
-and checked, how much bitcoins have these
-identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 13.2 and 15.2
-and we got data from feedback pages which we used to estimate 
+We checked, how much bitcoins have these
+identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 14.2 and 15.2
+and we got data from feedback pages, which we used to estimate 
 the minimal amount of bitcoins users spent over the previous month on Valhalla market.
-We estimated in chapter \ref{stats}, that users spent 527730EUR
+We estimated in chapter \ref{stats}, that users spent at least 527730EUR during that one month time.
 With average bitcoin price 8219EUR it roughly equals 527730/8219 = 64.2BTC
-The amount of bitcions identities from previous paragraph recieved is in table \ref{clustertest2}.
+The amount of bitcions these identities recieved is also in table \ref{clustertest}.
+
+\begin{table}
+    \label{clustertest}
+    \begin{tabular}{|l|l|l|l|}
+    Identity &\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from second account}
+    & \multicolumn{1}{|p{2cm}|}{\centering recieved \\ bitcoins }\\ 
+    1&   1:0 & 0:0 & 0.011  \\ 
+    2&   0:0 & 1:0 & 0.011  \\ 
+    3&   0:4 & 0:1 & 3.15  \\ 
+    4&   0:2 & 0:0 & 0.7  \\ 
+    5&   0:1 & 0:1 & 1.5  \\ 
+    6&   0:1 & 0:0 & 0.15  \\ 
+    7&   0:1 & 0:0 & 0.1  \\ 
+    8&   0:1 & 0:0 & 0.1  \\ 
+    9&   0:0 & 0:3 & 1.23  \\ 
+    10&  0:0 & 0:2 & 0.12  \\ 
+    10&  0:0 & 0:2 & 0.37  \\ 
+    11&  0:0 & 0:1 & 1.1  \\ 
+    \end{tabular}
+    \caption{Mapping of found identities to addresses used in deposits and withdrawals
+    each row in table represent one identity and numbers indicate how many deposits/withdrawals from
+    our accounts were associated with that identity}
+\end{table}
 
 Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
-Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 7.3BTC out of estimated
-64.2 BTC the market recieved.
+Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 8.52BTC out of estimated
+64.2 BTC the market recieved during that one month timeframe.
 
 \chapter{Application for searching nearby identified addresses}
 
@@ -951,7 +978,7 @@ It consists of multiple python scripts that falls into 5 categories.
 \begin{itemize}
  \item Scripts for scraping Valhalla market
  \item Scripts that parse bitcoin blockchain and also scrape data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
- \item The computanional script, which imports data to the database, create indexes and compute heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
+ \item The script which imports data to the database, creates indexes and runs heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
  \item Webserver that handles GUI requests and retrieves data from database.
  \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation and search in retrieved data. 
 \end{itemize}
@@ -1196,9 +1223,12 @@ these listings are somehow special except the price.
 We calculated the last month revenue for each category
 by summing the price over all feedbacks to listings in given category.
 This leads to minimal revenue, because feedbacks
-can be given only if the trade happened on cryptomarket and there
+can be given only if the trade happened on cryptomarket and 
 trades happening with no given feedbacks are also possible.
+The total revenue over one month, amount of listigs and feedbacks and market share for given categories 
+is in table \ref{categories}.
 Market share is a revenue of category divided by total revenue from all categories.
+The total revenue over given month was 527730EUR.
 Average price of occured trades was similar in each category
 with two outliers. Opiates, which have the high price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
@@ -1206,7 +1236,7 @@ Custom listings contains no special tag and no description of any goods/services
 They contain just titles like "custom listing for user: xxx", "custom 013" and so on.
 We found 300 listings with word "custom" in their title. 
 We think that vendors and buyers use these custom listings in order to be able to protect themselves
-by cryptomarket Escrow service for already arranged deal.
+by cryptomarket escrow service for already arranged deal.
 
 
 \begin{table}
@@ -1295,7 +1325,7 @@ The distribution of buyers total spending is on figure \ref{buyerxspend}.
 \end{figure}
 
 
-\chapter{Conclustions and future work}
+\chapter{Conclusions and future work}
 
 We were succesfull with scraping Valhalla cryptomarket and
 bringing up meaningful and intersting statistics about its vendors and users.
@@ -1307,10 +1337,17 @@ related to the time frame of one month. Continously monitoring
 Valhalla cryptomarket for longer periods of time could enchance the statistical description
 with data about changes of various trends on this market over time.
 
-The created application is fully working and production ready, it 
+Our application is fully working and production ready, it 
 finds nearest addresses with associated identities for given address.
 The application could be extended in multiple ways. We used two
 heuristics that have lowest risk of falsely clustering addresses belonging to different identities.
+The heuristics have not clustered all the addresses and transactions that have been done by crypto market,
+hovewer we found, that with just tens of deposits and withdrawals between us and market,
+we were able to identify significant percentage of cryptomarket's cashflow over given month.
+The price that we payed in fees in these transaction was alltogether less than 100 dollars. 
+Perpetual depositing and withdrawals over prolonged period of time seems financially feasible
+and might lead to disclosing majority of cryptomarkets addresses and transaction.
+
 Application could be extended by adding more heuristics for clustering addresses. Some of these
 heuristics have been described in \parencite{androulaki2013evaluating}.
 These heuristics are not based just on graph of bitcoin transactions, but also
@@ -1323,28 +1360,9 @@ hovewer application set up takes long time, for the simple reason that bitcoin
 blockchain consists of roughly 150GB of data and these must be inserted into database, indexed
 and processed by heuristics.
 For setting the application up on server and having users access it remotely,
-different options viable for storing and retrieving data on better hardware(more RAM) could be considered and tested.
-
-\begin{appendices}
-\chapter{Requirements and setup }
-
-The user need to install Bitcoin Core(at least version 11.0), because 
-the application uses bitcoin core API in order to import blockchain to database.
-After installing bitcoin core, user needs to run:
-"bitcoind -daemon -txindex -rest"
-and wait until the blockchain is downloaded and indexed. This might take several hours or even days.
-User can check the progress of blockchain synchronization by running
-"bitcoin-cli --getblockchaininfo"
-
-The 
-
-At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
-to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
-
-
-\end{appendices}
+different options viable for storing and retrieving data on server hardware
+(for example in memory database if RAM is big enough can be considered.
 
 \printbibliography
-
 
 \end{document}

@@ -50,8 +50,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\bfseries Statistics of Valhalla cryptomarket}{32}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Conclustions and future work}{40}{chapter.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendices}{42}{section*.27}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}\bfseries Requirements and setup }{43}{Appendix.a.A}
+\contentsline {chapter}{\numberline {7}\bfseries Conclusions and future work}{40}{chapter.7}

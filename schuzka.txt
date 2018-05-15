@@ -250,3 +250,21 @@ Nezapada do celkoveho obrazku jednotlive kapitoly zezacatku
 chybejici .onion vysvetleni
 Anglictina + typografie - = v odrazkach
 
+
+\begin{appendices}
+\chapter{Requirements and setup }
+
+
+The user need to install Bitcoin Core(at least version 11.0), because 
+the application uses bitcoin core API in order to import blockchain to database.
+After installing bitcoin core, user needs to run:
+"bitcoind -daemon -txindex -rest"
+and wait until the blockchain is downloaded and indexed. This might take several hours or even days.
+User can check the progress of blockchain synchronization by running
+"bitcoin-cli --getblockchaininfo"
+
+At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
+to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
+
+
+\end{appendices}

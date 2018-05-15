@@ -6,15 +6,15 @@ from tqdm import *
 import time
 from datetime import datetime, timedelta
 
-startblock = 490000
-blocks = 1000
-current_block_date = datetime(2017,10,15)
+startblock = 1
+blocks = 515000
+# current_block_date = datetime(2017,10,15)
 
-output = []
+# output = []
 file = open("dblast.txt", 'w' )
 
 for block_height in tqdm(xrange(startblock,startblock + blocks)):
-    current_block_date += timedelta(seconds=570) # 9 a pul minuty
+    # current_block_date += timedelta(seconds=570) # 9 a pul minuty
     try:
         params = "getblockhash"
         blockhash = check_output(["./bitcoin-cli",params,unicode(block_height).encode('utf8')])
@@ -36,7 +36,7 @@ for block_height in tqdm(xrange(startblock,startblock + blocks)):
             tx_data = json.loads(tx_info)
             for out_data in tx_data[u'vout']:
                     tup = (tx_hash , out_data[u'value'])
-                    output.append(tup)
+                    # output.append(tup)
                     file.write(current_block_date.strftime("%Y-%m-%d") + "," + str(tx_hash) + "," + str(out_data[u'value']) +  "\n")
         except Exception as e:
             print('Error on line {}'.format(sys.exc_info()[-1].tb_lineno), type(e).__name__, e)
