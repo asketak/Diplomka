@@ -896,18 +896,33 @@ In order to solve this issue, we used two heuristics that were widely used
 in previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
 for clustering bitcoin addresses belonging to same user.
 
-The first heuristics simply states that all inputs of one transaction belong to same user. This is logical,
+The first heuristic simply states that all inputs of one transaction belong to same user. This is logical,
 since users generally don't share their private keys and collaborate on creating one transaction.
-When transaction have multiple inputs with different bitcoin addresses, we assume that all of these addresses are owned by
-one identity.
+When transaction has multiple inputs owned by different bitcoin addresses, we assume that all of these addresses are owned by
+one identity. Schema of the first heuristic is on figure \ref{heur1}.
 
-The second heuristics focus on detecting change address described in chapter \label{btcadd}.
+The second heuristic focuses on detecting change address described in chapter \ref{btcadd}.
 The goal of second heuristics is to detect change addresses in the transactions.
 When one transaction has two outputs with two different addresses, we assume, that one of them is change
 address and is owned by the sender.
 We than search through the the blockchain for the first occurence of each address of the outputs of the 
 transaction. If one of the output addresses had been used before the transaction and second not,
 than we can safely assume, that the second one is change address\parencite{androulaki2013evaluating}.
+Schema of the second heuristic is on figure \ref{heur2}.
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{heur1}
+    \caption{Schema how first heuristics works}
+    \label{heur1}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=1\textwidth]{heur2}
+    \caption{Schema how second heuristics works}
+    \label{heur2}
+\end{figure}
 
 Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
 addresses not belonging to the same user\parencite{androulaki2013evaluating}.
@@ -931,8 +946,10 @@ our measurement with the fact, that we are owners of both bitcoin addresses.
 We than ran our application and looked into the neo4j database, that stored
 blockchain transaction graph and associated identities.
 We checked the cryptomarket's address we identified by our deposits and withdrawals,
-if they were clustered as one identity. The table \ref{clustertest} shows, how many identities
-were associated with given deposits and withdrawals.
+if they were clustered as one identity. The table \ref{cluster} shows, how many identities
+were associated with given deposits and withdrawals. The heuristics could not associate our
+deposit addresses, because the deposit addresses just recieved bitcoins from us and not sent them
+somewhere else till that time. Only 2 identities managed to contain addresses from both accounts.
 
 We checked, how much bitcoins have these
 identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 14.2 and 15.2
@@ -940,34 +957,33 @@ and we got data from feedback pages, which we used to estimate
 the minimal amount of bitcoins users spent over the previous month on Valhalla market.
 We estimated in chapter \ref{stats}, that users spent at least 527730EUR during that one month time.
 With average bitcoin price 8219EUR it roughly equals 527730/8219 = 64.2BTC
-The amount of bitcions these identities recieved is also in table \ref{clustertest}.
+The amount of bitcions these identities recieved is also in table \ref{cluster}.
+Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
+Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71BTC(9\%) out of estimated
+64.2 BTC the market recieved during that one month timeframe.
 
 \begin{table}
-    \label{clustertest}
+    \caption{Mapping of found identities to addresses used in deposits and withdrawals
+    each row in table represent one identity and numbers indicate how many deposits/withdrawals from
+    our accounts were associated with that identity}
+    \label{cluster}
     \begin{tabular}{|l|l|l|l|}
     Identity &\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from second account}
     & \multicolumn{1}{|p{2cm}|}{\centering recieved \\ bitcoins }\\ 
     1&   1:0 & 0:0 & 0.011  \\ 
     2&   0:0 & 1:0 & 0.011  \\ 
-    3&   0:4 & 0:1 & 3.15  \\ 
+    3&   0:4 & 0:1 & 2.15  \\ 
     4&   0:2 & 0:0 & 0.7  \\ 
     5&   0:1 & 0:1 & 1.5  \\ 
     6&   0:1 & 0:0 & 0.15  \\ 
     7&   0:1 & 0:0 & 0.1  \\ 
     8&   0:1 & 0:0 & 0.1  \\ 
-    9&   0:0 & 0:3 & 1.23  \\ 
+    9&   0:0 & 0:3 & 1.22  \\ 
     10&  0:0 & 0:2 & 0.12  \\ 
     10&  0:0 & 0:2 & 0.37  \\ 
-    11&  0:0 & 0:1 & 1.1  \\ 
+    11&  0:0 & 0:1 & 0.3  \\ 
     \end{tabular}
-    \caption{Mapping of found identities to addresses used in deposits and withdrawals
-    each row in table represent one identity and numbers indicate how many deposits/withdrawals from
-    our accounts were associated with that identity}
 \end{table}
-
-Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
-Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 8.52BTC out of estimated
-64.2 BTC the market recieved during that one month timeframe.
 
 \chapter{Application for searching nearby identified addresses}
 
@@ -992,27 +1008,28 @@ It consists of multiple python scripts that falls into 5 categories.
 \end{figure}
 
 Scripts for scraping Valhalla market in order to get statistical data used in next chapter are in statistics folder.
-Script listing-scraper.sh goes through Valhalla listings and download the HTML source code of these pages.
-Script listing-parser.py process the downloaded pages and generate listings.csv file with informations about listings.
-Seller-scraper.py opens listings.csv and for download HTML source of vendors' profile pages. 
-Seller-parser.py proccess downloader vendor's profile pages and generates sellers.csv and feedbacks.csv.
-The variables and data types stored in these .csv files are described in chapter \label{Valhalla cryptomarket webscraping}.
-in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated .csv files for
-bringing statistics about Valhalla cryptomarket in the next chapter.
+Script \emph{listing-scraper.sh} goes through Valhalla listings and download the HTML source code of these pages.
+Script \emph{listing-parser.py} process the downloaded pages and generates file \emph{listings.csv} with informations about listings.
+\emph{Seller-scraper.py} opens \emph{listings.csv} and downloads HTML source of vendors' profile pages. 
+\emph{Seller-parser.py} proccess downloader vendor's profile pages and generates \emph{sellers.csv} and \emph{feedbacks.csv}.
+The variables and data types stored in these csv files are described in chapter \label{Valhalla cryptomarket webscraping}
+in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated csv files for
+bringing statistics about Valhalla cryptomarket in the last chapter.
 
-The scripts for obtaining data the application needs are in folder identity--scraping.
-Each of scripts named scraper\_{bitcointalk,blockchaininfo,reddit,twitter}.py scrape webpage mentioned
-in it's name and generates a .csv file with 3 collumns: bitcoin addres ,URL where was the address scraped
-and associated identity( e.q. nickname). These files with identities are later imported into neo4j database.
-Script blockchain\_to\_csv.py uses bitcoin-core api to iterate through blockchain transactions
-and generate several csv files with the data from blockchain that are needed by application.
-The script generates multiple csv files, that will be later imported to neo4j database.
+The scripts for obtaining data the application needs are in folder \emph{identity--scraping}.
+Each of scripts named scraper\_\{bitcointalk, blockchaininfo, reddit, twitter\}.py scrape webpage mentioned
+in it's name and generates a csv file with 3 collumns:
+bitcoin addres, URL where was the address scraped and associated identity (e.q. nickname).
+Script blockchain\_to\_csv.py uses bitcoin-core api to iterate through bitcoin blockchain 
+and generate several csv files with the data about transactions and addresses from bitcoin blockchain that are needed by application.
+The script generates multiple csv files, that will be later imported to neo4j database, as well as 
+files with identities.
 
 In order to create a tool that will effectively search and visualize blockchain data and the 
-data we scraped, we need to store the blockchain and identity data locally in that way, so that common
+data we scraped from webpages, we need to store the blockchain and identity data locally in that way, so that common
 graph algorithms, heuristics and searching can be effectively performed.
 The natural representation of transactions happening between
-bitcoin addresses is a graph, so we decided to import all the data into Neo4j graph database. It's the
+bitcoin addresses is a graph, so we decided to import all the data into Neo4j graph database. It's one of the
 most widely used graph database with native support for common graph algorithms.
 Simple representation with addresses as nodes and transactions between them as edges in not
 sufficient for our case, because we need to represent
@@ -1020,8 +1037,8 @@ outputs, inputs and time of transactions in the database in order to be able to 
 The graph schema is in figure \ref{neo4jschema}. The entities in the schema are represented as vertices
  in the database and relationships between them are edges.
 
-The importing script ($csv\_to\_neo4j.py$) is responsible for parsing
-previously generated .csv files and importing the data into neo4j database.
+The importing script \emph{csv\_to\_neo4j.py} is responsible for parsing
+previously generated csv files and importing the data into neo4j database.
 Having csv files as interminiary step between parsing blockchain and importing it to database
 is useful for debugging application and also provides easy way to
 use application with different blockchain or customly generated data.
@@ -1033,29 +1050,28 @@ use application with different blockchain or customly generated data.
     \label{neo4jschema}
 \end{figure}
 
-Script cluster\_identities.py connects to database and run the heuristics from the chapter
+Script \emph{cluster\_identities.py} connects to database and run the heuristics from the chapter
 \ref{Using own transactions to identify market wallets}.
 It labels each address in our blockchain transaction graph
 with unique ID representing unique identity. The outputs/inputs owned by the each address are labeled
-with same ID. Script then alternatively runs first and second heuristic,
+with same ID. Script then runs first and second heuristic,
 each time rewriting IDs of merged address(and it's outputs/inputs), so that 
-addresses marked by the heuristic as belonging to the same identity have same user ID.
-It stops, when there are no changes in IDs among addresses
-(e.q = heuristics don't merge any addresses under one identity)
+addresses marked by the heuristic as belonging to the same identity have same ID.
 The webserver.py connects to local neo4j database with the schema and data generated by previous
 scripts and starts local flask webserver that provides web gui on port 5000.
 
 The GUI has one input form, where user should write the bitcoin address he is interested in.
 The GUI than shows information about the inserted address, nearby addresses and found identities.
-It consists of 3 parts shown in the screenshot \ref{guiscreen}.
+It consists of 3 parts, input form, table and two pie charts. The screenshot of GUI can be seen on picture \ref{guiscreen}.
 The first part is simple HTML form where user submit bitcoin address he is interested in.
-After submission, the rest of the parts show information about given address.
-The table in part 2 show list of nearby addresses with known identity. The distance is number of transactions
-between inserted address and addres in table. It also shows where the URL the identity was found
-and amount of bitcoins that wen through that address over the history of blockchain.
-In section 3, there are two pie charts. The first pie-chart shows bitcoins that were recieved by the address
+After submission, the application search in neo4j data and after a while,
+the other parts of GUI are updated with information about given address.
+The table in upper right show list of nearby addresses with known identity. The distance is number of transactions
+between inserted address and founded address in table. It also shows the URL where the identity was found
+and amount of bitcoins that were transfered between searched address and address in table.
+In the lower part, there are two pie charts. The first pie-chart shows the amount of bitcoins that were recieved by the inserted address
 and what percentage of recieved bitcoins was the application able to link to some identity.
-The second pie chart show the same information for outgouing bitcoins, the percentage of bitcoins that were sent from this address
+The second pie chart shows the same information for outgouing bitcoins, the percentage of bitcoins that were sent from inserted address
 and ended up in address that we were able to find associated identity.
 
 \begin{figure}[!htb]
@@ -1068,7 +1084,6 @@ and ended up in address that we were able to find associated identity.
 
 \chapter{Statistics of Valhalla cryptomarket}
 \label{stats}
-
 
 We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
 There were 17314(68\%) listings related to selling drug substances, the rest
@@ -1091,9 +1106,9 @@ The histogram does not show 19 vendors with more than 200 listings.
 Vendors were shipping drugs from 39 distinct countries,
 the frequency of countries the vendors were shipping from is in table \ref{shipcount}.
 Table \ref{richvendors} list countries of vendors that have achieved 10000EUR(150 vendors \~ 15\% ) or more in revenue.
-Valhalla was originally estabilished as a local Finnish crypto market.
-That seems to be the reason for surprisingly many vendors shipping from Finland and also large percentage
-of Finns among high revenue vendors, because they might be on the market since
+Valhalla was originally estabilished as a local Finnish crypto market,
+that seems to be the reason for surprisingly many vendors shipping from Finland and also large percentage
+of Finns among high revenue vendors. They might be on the market since
 the time it was not internationally popular and had more time to generate revenue.
 
 \begin{table}
@@ -1151,8 +1166,6 @@ Unknown & 69 \\
 \caption{Distribution  of vendors by their revenue}
 \end{figure}
 
-
-
 We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
 The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
 There are two major groups of venders regarded to their revenue. 
@@ -1172,11 +1185,11 @@ positive feedbacks ratio and revenue nad its LOESS curve.
 These findings indicate, that market is competitive and
 having bad reputation during first few sales shuts down any opportunity
 for the vendor to continue selling his goods and that majority of vendors don't succeed or use
-market sporadically.
+market just sporadically.
 
 The figure \ref{listingxprice} shows distribution of prices of all listings in
  the market on the left graph and on the right graph is the distribution of prices
- of listings linked in feedbacks. Some listings might be counted multiple times or not at all
+ in feedbacks. Some listings might be counted multiple times or not at all
  in the right graph, because one listing might be bought several times or not at all
  and therefore generate multiple or no feedbacks. We expect that distribution
  of prices in these feedbacks reflects more accuratelly the prices of the goods or services
@@ -1190,15 +1203,15 @@ The figure \ref{listingxprice} shows distribution of prices of all listings in
   There were only 22(0.3\%) feedbacks with price > 1000EUR
  and only 5(0.01\%) feedbacks with price > 2000 Eur.
   There were 1533(6.05\%) active listings
- with price greater than 1000 EUR
- 673(2.7\%) listings them with price greater than 2000 Eur.
+ with price greater than 1000 EUR and
+ 673(2.7\%) listings with price greater than 2000 Eur.
  The price distributions in \ref{listingxprice} shows,
  that while there exist a lot of free or very expensive listings,
- majority(5937 93\%) of trades were between 0 and 200 EUR.
+ majority(5937, 93\%) of trades were between 0 and 200 EUR.
  There were 115 free listings on the market,
  but no one of them was mantioned in feedbacks.
  The free listings had titles like "CARDING SERVICE *FREE*",
- "Custom order", "Free Carding Tutorial 2017" and "FREE SAMPLE 84\% MDMA CRYSTAL ROCKS"
+  "Free Carding Tutorial 2017" and "FREE SAMPLE 84\% MDMA CRYSTAL ROCKS"
  The titles of expensive listings don't indicate that 
 these listings are somehow special except the price.
 
@@ -1221,19 +1234,18 @@ these listings are somehow special except the price.
 \end{figure}
 
 We calculated the last month revenue for each category
-by summing the price over all feedbacks to listings in given category.
+by summing the price over all feedbacks for listings in given category.
 This leads to minimal revenue, because feedbacks
 can be given only if the trade happened on cryptomarket and 
 trades happening with no given feedbacks are also possible.
-The total revenue over one month, amount of listigs and feedbacks and market share for given categories 
+The total revenue over one month, amount of listigs, feedbacks and market share for given categories 
 is in table \ref{categories}.
-Market share is a revenue of category divided by total revenue from all categories.
-The total revenue over given month was 527730EUR.
+Market share is a revenue of category divided by total revenue from all categories, which was 527730EUR.
 Average price of occured trades was similar in each category
 with two outliers. Opiates, which have the high price/dose ratio and 
 self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
 Custom listings contains no special tag and no description of any goods/services.
-They contain just titles like "custom listing for user: xxx", "custom 013" and so on.
+They contain just titles like "custom listing for Paul", "custom 013" and so on.
 We found 300 listings with word "custom" in their title. 
 We think that vendors and buyers use these custom listings in order to be able to protect themselves
 by cryptomarket escrow service for already arranged deal.
@@ -1363,6 +1375,7 @@ For setting the application up on server and having users access it remotely,
 different options viable for storing and retrieving data on server hardware
 (for example in memory database if RAM is big enough can be considered.
 
-\printbibliography
+\printbibliography{}
+
 
 \end{document}

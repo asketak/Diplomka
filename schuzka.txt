@@ -221,17 +221,6 @@ pri nahravani vlastne sekvencne prochazis blockchain, tak si neco predpocitej?
 
 
 
-Jede ti privoxy na 8111
-=============================
-
-Co s 0/0 pos/neg daty?
-
-
-
-
-
-ginni index
-Vysvetlit, proc poouzivam grep ve scrapovani, ze by mala zmena stranky rozbila i beautifuol soup , 
 
 
 Walhalla -> Valhalla - vsude
