@@ -1,0 +1,20 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[1] Config.pm:343> INFO - Logfile is 'fi-pdflatex.blg'
+[97] biber:287> INFO - === St kvě 16, 2018, 16:45:28
+[262] Biber.pm:348> INFO - Reading 'fi-pdflatex.bcf'
+[527] Biber.pm:742> INFO - Found 33 citekeys in bib section 0
+[536] Biber.pm:3151> INFO - Processing section 0
+[609] Biber.pm:3308> INFO - Looking for bibtex format file 'citations.bib' for section 0
+[725] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[842] bibtex.pm:974> INFO - Found BibTeX data source 'citations.bib'
+[844] Utils.pm:147> WARN - Duplicate entry key: 'androulaki2013evaluating' in file 'citations.bib', skipping ...
+[847] Utils.pm:147> WARN - Duplicate entry key: 'nakamoto2008bitcoin' in file 'citations.bib', skipping ...
+[847] Utils.pm:147> WARN - Duplicate entry key: 'aldridge2014not' in file 'citations.bib', skipping ...
+[849] Utils.pm:147> WARN - Duplicate entry key: 'barratt2014use' in file 'citations.bib', skipping ...
+[853] Utils.pm:147> WARN - Duplicate entry key: 'aldridge2014not' in file 'citations.bib', skipping ...
+[2105] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2105] UCollate.pm:65> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2105] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'cs_CZ'
+[2264] bbl.pm:519> INFO - Writing 'fi-pdflatex.bbl' with encoding 'UTF-8'
+[2504] bbl.pm:615> INFO - Output to fi-pdflatex.bbl
+[2505] Biber.pm:109> INFO - WARNINGS: 5
