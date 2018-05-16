@@ -508,7 +508,7 @@ but can not identify the other side of communication and content of the transmit
 
 The simplest way for uthe ser to use Tor network is to install the Tor browser bundle, consisting of
 a modified Firefox browser and onion proxy. Onion proxy routes all traffic through Tor network.
-Tor network consists of more than 6000 publicly available TOR nodes (also called relays or routers).
+Tor network consists of more than 6000 publicly available Tor nodes (also called relays or routers).
 Anyone can run a Tor node, but there is a subset of speciallized servers called directory authorities.
 These directory authorities monitor relays and distribute the list of relays that are working and 
 not under the same IP address.
@@ -524,7 +524,7 @@ Each node in the circuit decrypts the Tor cell and therefore removes one layer f
 The exit node decrypts the last layer of encryption, reads the original data of the client and 
 sends the packet to destination address. The reponse is than again encrypted by symetric keys
 and sent back by the same circuit.
-This way, each node only knows its neighbours in the tor circuit, but doesn't know the rest of the circuit.
+This way, each node only knows its neighbours in the Tor circuit, but doesn't know the rest of the circuit.
 Tor employs multiple additional features for Tor relay selection and circuit building, to prevent attacks
 by behavioural and statistical analysis.
  
@@ -542,7 +542,7 @@ by behavioural and statistical analysis.
     \label{tor-packet}
 \end{figure}
  
-Cryptomarkets are running as hidden services on TOR network.
+Cryptomarkets are running as hidden services on Tor network.
 Tor hidden services is a feature of Tor for providing a service (eg. a webserver, IRC server etc.) over Tor network
 without disclosing the server's IP address. The hidden services have special top level domain .onion.
 
@@ -550,7 +550,7 @@ When administrator of service wants to be accessed, he crates an RSA keypair.
 The public key (in base-32 encoding) is the service identifier, through which can the service can be accessed by accessing URL identifier.onion.
 The administrator chooses some Tor nodes as introduction points and establishes a circuit to each one of them.
 The administrator then uploads a descriptor of the service to 6 different hidden service directories (HSDir).
-HSDir is a Tor node with a special flag that was assigned to it by TOR authorities.
+HSDir is a Tor node with a special flag that was assigned to it by Tor authorities.
 The selection of HSDirs changes every 24 hours and can be deterministically computed from the timestamp and the hidden service public key.
 The descriptor contains the hidden service public key and signed list of introduction points.
 
