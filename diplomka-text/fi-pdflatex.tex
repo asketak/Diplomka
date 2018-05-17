@@ -80,7 +80,7 @@
     The second goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
  which can be helpful to deanonymize users of drug markets available via Tor on the dark web. The aim of this tool
  is to help investigators collect intelligence about entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. Cryptomarkets are operated
- as .onion services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
+ as hidden services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
  
     We scraped multiple publicly available social sites and websites related to bitcoin (Twitter, Bitcointalk, Reddit,
     blockchain.info...) and also Valhalla cryptomarket itself.
@@ -217,7 +217,7 @@ Cryptomarkets use several technologies crucial to their anonymous operation.
 Bitcoin enables different parties to exchange value in an anonymous way.
 Tor allows users and administrators of a marketplace to hide from any third party performing packet sniffing on the network,
 that they are accessing drug marketplace. It also hides the location of drug marketplace web server from its users.
-PGP enables sellers and vendors to communicate between each other in an encrypted way,
+PGP enables users and vendors to communicate between each other in an encrypted way,
 so that drug market administrators cannot eavesdrop on that communication.
 
 \section{Cryptomarkets}
@@ -536,17 +536,18 @@ by behavioural and statistical analysis.
  
 Cryptomarkets are running as hidden services on Tor network.
 Tor hidden services is a feature of Tor for providing a service (eg. a webserver, IRC server etc.) over Tor network
-without disclosing the server's IP address. The hidden services have special top level domain .onion.
+without disclosing the server's IP address. The hidden services have special top level domain \emph{.onion}.
 
-When administrator of service wants to be accessed, he crates an RSA keypair.
-The public key (in base-32 encoding) is the service identifier, through which can the service can be accessed by accessing URL identifier.onion.
+When administrator of service wants to be accessed, he creates an RSA keypair.
+The public key (in base-32 encoding) is the service identifier,
+through which can the service can be accessed by accessing URL \emph{identifier.onion}.
 The administrator chooses some Tor nodes as introduction points and establishes a circuit to each one of them.
 The administrator then uploads a descriptor of the service to 6 different hidden service directories (HSDir).
 HSDir is a Tor node with a special flag that was assigned to it by Tor authorities.
 The selection of HSDirs changes every 24 hours and can be deterministically computed from the timestamp and the hidden service public key.
 The descriptor contains the hidden service public key and signed list of introduction points.
 
-When a client starts connecting to the hidden service, he uses service's domain name (=public key)
+When a client starts connecting to the hidden service, he uses service's domain name 
 to compute HSDirs with service descriptor. It then downloads a service descriptor from HSDir with list
 of introduction points. Client also generates one time secret, picks a random Tor node, asks
 it to act as randezvous-point and tells it the one time secret. 
@@ -576,7 +577,7 @@ User generates a pair of keys, a public key for encrypting emails sent to him an
 
 PGP is used in the context of online drug markets as a means of secure communication between vendors and customers.
 Both vendor and customer have their public keys published on their profile page and use the public key of the other
-party to encrypt messages to them. This enables vendors and sellers to keep their communication private also from the administrators of the marketplace.
+party to encrypt messages to them. This enables vendors and users to keep their communication private also from the administrators of the marketplace.
 
 \chapter{Related work}
 \section{Blockchain analysis and de-anonymization of bitcoin addresses}
@@ -585,12 +586,12 @@ Multiple papers and tools were published regarding the blockchain analysis.
 Blockchain contains all bitcoin transactions and anyone can simply check
 the source and destination addresses of every transaction in the system.
 It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
- and every major bitcoin wallet (=software for receiving and sending bitcoins) does so.
- It is therefore useful to detect addresses belonging to the same user.
+ and every major bitcoin wallet does so.
+ We will focus on ways of detecting addresses belonging to the same user.
  
-The authors of the first research article \cite{reid2013analysis}
- parsed blockchain files to create a graph of bitcoin transactions, with vertices as transactions
- and edges between them representing bitcoins flowing from one transaction to another.
+The authors of one \cite{reid2013analysis} of the first research articles related to blockchain analysis
+ parsed blockchain files to create a graph of bitcoin transactions, with vertices as addresses
+and edges between them representing bitcoin transactions.
  They created so-called user graph by clustering addresses belonging to the same user, using
  simple heuristics that the owner of all input addresses used in a transaction must be the same. The first version of this article  
 was published in 2011 and dealt with a much smaller number of people using bitcoin and smaller transaction graph.
@@ -598,8 +599,8 @@ Their analysis also focuses on deanonymization through multiple aspects of bitco
 while this thesis focuses on deanonymization from transaction graph and public data.
 
 Androulaky \cite{androulaki2013evaluating} performed clustering using two heuristics.
-The first one is the same as \cite{reid2013analysis} did - all inputs of transaction
-belonged to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
+The first one is from the previously mentioneed article \cite{reid2013analysis} -- all inputs of transaction
+belong to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
 Most transactions have two outputs, one is owned by the transaction recipient,
 the other one (the aforementioned change output) is owned by
 the sender. The mechanism of change output is described in chapter \ref{btcadd} and the heuristics in
@@ -611,13 +612,13 @@ They also employed multiple clustering techniques based on the behaviour of user
  They tested the success of their clustering techniques in their simulated bitcoin 
  environment.
 
-Advanced and similar work was done by \cite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed it to
+Advanced and similar work \cite{spagnuolo2014bitiodine} was done by creators of Biodine application. They downloaded the blockchain, transformed it to
  a database and performed clustering to get a graph of transactions between users.
 Then they developed a tool for scraping data from multiple locations (Bitcointalk and bitcoin-OTC forum) to link
 off-chain data and identities to bitcoin addresses.
 They tested the tool on few popular transactions related to the seizure of Silkroad marketplace.
 
-Similar work to this thesis was done by \cite{fleder2015bitcoin}.
+Similar work \cite{fleder2015bitcoin} to this thesis was done by Fleder.
 This paper use data from Bitcointalk, the most popular bitcoin forum. 
 They apply a simple algorithm to group multiple bitcoin addresses belonging to one user together.
 Then they use the scraped data to show
@@ -636,11 +637,11 @@ that were seized by FBI. They conclude that FBI seized around 22\% of Ross Ulbri
 and found addresses possessing some of these bitcoins, that have not been used since Ross' arrest.
 
 In contrast to previously mentioned papers, Meiklejohn \cite{meiklejohn2013fistful} 
-don't only passively scan the blockchain, they actively send bitcoins to addresses of
+haven't only passively scanned the blockchain, he actively sent bitcoins to addresses of
 well-known services to track their bitcoins in the following transactions executed by the service.
-They also used the same two heuristics for clustering addresses
-as Androulaki. \cite{androulaki2013evaluating}
-They concluded that the network does not offer enough anonymity and large transactions can be traced.
+He also used the same two heuristics for clustering addresses
+as Androulaki \cite{androulaki2013evaluating}.
+He concluded that the network does not offer enough anonymity and large transactions can be traced.
 
 All of the previously mentioned works had to deal with much smaller transaction graph,
 as the usage of bitcoin grew significantly over the last year. 
@@ -655,17 +656,12 @@ deanonymized addresses in the transaction graph to help with further investigati
 Emerging cryptomarkets brought the attention of the scientific community
 and lots of articles have been published related to the phenomenon of drug trafficking via the Internet.
 Most of these papers were investigating the topic from the social
-and criminology perspective, performing qualitative analysis.
-\cite{aldridge2014not}
-\cite{barratt2014use}
-\cite{christin2013traveling}
-\cite{dolliver2015criminogenic}
-\cite{van2013silk}
-\cite{walsh2011drugs}
-\cite{martin2014lost}
+and criminology perspective, performing qualitative analysis
+\cite{aldridge2014not}\cite{barratt2014use}\cite{christin2013traveling}\cite{dolliver2015criminogenic}\cite{van2013silk}\cite{walsh2011drugs}\cite{martin2014lost}.
 
 There are only a few articles focusing on statistically describing fully operating drug market and its vendors
 by collecting and analyzing data from a cryptomarket webpage. Short description of works like that follows.
+
 Aldridge \cite{aldridge2017delivery} scraped Silkroad in September 2013, the most popular cryptomarket of that time.
 He focuses on how the vendors and buyers perceive the risk of arrest and attempt to downsize it.
 He concludes that users of cryptomarket are aware of the risks both related to their physical and online activity
@@ -680,7 +676,7 @@ use the same usernames and sometimes PGP keys on multiple marketplaces because r
 is highly valued in these cryptomarkets, therefore vendors try to keep it when moving to the new marketplace.
 Also by his findings, some vendors are highly specialized in selling one category of drugs, while others offer a wide range of drugs.
 
-Article by Doliver \cite{dolliver2016characteristics} is most similar to this work.
+Article by Doliver \cite{dolliver2016characteristics} is most similar to our work.
 They scraped and analyzed two popular cryptomarkets, Agora and Evolution, and quantitatively assessed
 the characteristics of vendors from both markets, focusing on the difference
  between different markets' vendor populations.
@@ -693,7 +689,6 @@ the characteristics of vendors from both markets, focusing on the difference
  in order to get data about the cryptomarket's flow of money.
  
 \chapter{Methods and tools of data retrieval and analysis}
-
 \section{Valhalla cryptomarket webscraping}
 \label{Valhalla cryptomarket webscraping}
 We scraped data from Valhalla cryptomarket
@@ -702,7 +697,7 @@ We used official Tor daemon and software called privoxy to create a local proxy 
 incoming traffic through Tor network. The privoxy was essential, as Tor daemon creates SOCKS proxy,
 which can not be used by wget. Thus, we created an HTTP proxy by privoxy,
 which redirected the traffic through Tor SOCKS proxy.
-we did not have to implement any login and captcha solving functionality
+We did not have to implement any login and captcha solving functionality
 for web scraping Valhalla market, because all the webpages about market
 listings, vendors and feedbacks are available without logging in.
 
@@ -712,26 +707,26 @@ is a number incrementing with each new listing.
 The last listing had number 103770 and only 25309 numbers lead to the valid listing page.
 Rest of the numbers lead to 404 error. We believe
 these numbers refer to listings that were delisted by the vendor or administrator.
-
-
-We wrote a small script in bash to iterate through all of the listings
-and download them using wget command line tool.
-After downloading all the listing pages,
-we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
-We were not using python HTML parsing libraries(like beautifulsoup) for parsing downloaded
-webpages because HTML elements of Valhalla web pages don't have any unique identifiers
-and so these libraries bring us no advantage.
- 
-By scraping the listings webpages, we obtained unique vendor nicknames,
-which we used for downloading and scraping vendor's profile and feedback pages.
-The shortcoming of this method is being were able to download and analyze only those sellers
-having at least one active listing at the time of data collection. 
 Vendor profile pages were in format \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}}
 and their reviews in the format
  \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}/palautteet} where \texttt{\textbf{xxx}}
-is a vendor nickname. 
+is a vendor nickname. The description of format of the scraped data is in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}.
+
+We wrote several scripts for webscraping and parsing these data, 
+their description is also in chapter \ref{Application}.
+The scripts iterate through all of the listings
+and download them using wget command line tool.
+After downloading all the listing pages,
+the downloaded files are parsed using python and common Linux command line tools (cat, grep, cut, sed).
+We were not using python HTML parsing libraries (like beautifulsoup) for parsing downloaded
+webpages because HTML elements of Valhalla web pages don't have any unique identifiers
+and so these libraries bring us no significant advantage.
  
-From each listing, we parsed:
+By scraping the listings webpages, we obtained unique vendor nicknames,
+which we used for downloading and scraping vendor's profile and feedback pages.
+The shortcoming of this method is that we were able to download and analyze only those vendors
+having at least one active listing at the time of data collection. 
+
 
 \begin{table}
     \caption{Data scraped from listings}
@@ -739,28 +734,26 @@ From each listing, we parsed:
     \begin{tabular}{|l|l|}
  Variable & data type\\
  Vendor's nickname & string\\
- Subcategories & 3 strings\\
+ Subcategory & string\\
  Title of listing & string\\
  Price & float\\
     \end{tabular}
 \end{table}
 
-From each vendor, we parsed:
-
 \begin{table}
-    \caption{Data scraped from vendor pages}
+    \caption{Data scraped from vendor profile pages}
     \label{datavendor}
     \begin{tabular}{|l|l|}
- Variable & data type\\
+Variable & data type\\
 Vendor's nickname & string\\
-positive and negative feedbacks & 2 integers\\
-revenue & integer 0<=x<=10000USD\\
+count of positive feedbacks & integer\\
+count of negative feedbacks & integer\\
+revenue & integer \\
 PGP key & string, not mandatory for all vendors\\
-Country & string, country from which vendor ships if available\\
+Country vendor ships from & string, not mandatory for all vendors\\
     \end{tabular}
 \end{table}
 
-From feedback page, we parsed the following variables for each feedback:
 \begin{table}
     \caption{Data scraped from feedback pages}
     \label{datafeedback}
@@ -788,7 +781,8 @@ were different for different images.
 Metadata that could potentionally help disclosing user identity,
 like date of creation nad modification, signature and name of software version were the same for all images.
 The software version contained exactly this string:
-"ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31 http://www.imagemagick.org"
+\texttt{"ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31"}
+
 ImageMagick is popular software library used for manipulating images, so it seems
 that market automatically rewrites EXIF metadata in uploaded images in order to protect privacy of users.
 To test this hypothesis, we created vendor account and uploaded an image with
@@ -797,24 +791,20 @@ saw that EXIF metadata were indeed overwritten.
 
 We tested whether every transaction happening on drug market has its counter transaction
 in bitcoin blockchain.
-We deposited some BTC to cryptomarket and bought a licit virtually deliverable
-product(Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
+We deposited some Bitcoins to cryptomarket and bought a licit virtually deliverable
+product (Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
 There was no follow up transaction happening for weeks after the deposit transaction was done.
-This means that markets don't transfer bitcoins when service or goods are bought.
+This means that market doesn't transfer bitcoins when service or goods are bought.
 All of bitcoin transactions that these drug markets do 
 are accepting bitcoins deposits,
 sending bitcoins to withdrawing users and possibly bitcoin tumbler transactions, if they
 use such service.
-We made multiple deposits and withdrawals from Valhalla in order to track the locations
-where the deposited bitcoins were later transfered and where the withdrawn
-bitcoins came from. These deposits and withdrawals have been
-used in our application for clustering bitcoin addresses owned by Valhalla cryptomarket.
 
-We tried to scan ports of drugmarkets servers and fingerprint their web server,
+We tried to scan ports of Valhalla cryptomarkets server and fingerprint their web server,
 in order to find any vectors for further information gathering. 
-We scanned Valhalla server using netcat and found that the only opened ports are 80 (redirect to https) and 443 (HTTPS),
+We scanned Valhalla server using netcat and found that the only opened ports are 80 (redirects to HTTPS) and 443 (HTTPS),
 which is used by web server. The webserver was popular software called nginx, as we detected
-both from HTTP headers and from webserver fingerprinting tool httprecon.
+both from HTTP headers and from webserver fingerprinting tool \emph{httprecon}.
 The result of port scan and web server fingerprinting doesn't indicate
 any new vectors for gathering data about cryptomarket.
 
@@ -829,17 +819,16 @@ Some of the usernames were just briefly mentioned in some posts on anonymous for
 
 In order to have some bitcoin addresses and bitcoins linked to identities,
 we searched the Internet for pages, where bitcoin addresses are tied to offline or virtual identities.
-The sites that we have decided to scrape were Bitcointalk forum, Reddit, Twitter and bitcoin.info.
+The sites that we have decided to scrape were Bitcointalk forum, Reddit, Twitter and blockchain.info.
 The Bitcointalk is the most popular Internet forum
 related to cryptocurrencies. URL address of profile page on Bitcointalk
 contains the profile number, starting at 1 and being incremented by 1
 for each new profile. It is therefore quite easy to iterate over all forum's profiles,
 including the ones with no posts, and check whether they have associated bitcoin address.
-The scripts bitcointalk-scraper.py visit profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
-The Reddit and Twitter were scraped by twitter-scraper.py and reddit-scraper.py
-The script contains several hardcoded phrases like "Donate bitcoin" and "bitcoin address" and scrapes 
+The script bitcointalk-scraper.py visits profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
+Scripts for scraping Reddit and Twitter contain several hardcoded phrases like "Donate bitcoin" and "bitcoin address" and scrapes 
 result of searches for such phrases.
-Bitcoin.info is a webpage that serves primarily as bitcoin blockchain explorer. Secondary,
+Blockchain.info is a webpage that serves primarily as bitcoin blockchain explorer. Secondary,
 it gathers multiple statistics about bitcoin blockchain and allows
 third parties to have their bitcoin address and identity listed on their webpage as well.
 The generated identities are stored as rows in csv files that have 3 columns:
@@ -967,6 +956,7 @@ Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to 
 \end{table}
 
 \chapter{Application for searching nearby identified addresses}
+\label{Application}
 
 This chapter describes our application for searching in gathered data.
 The application architecture is depicted in figure \ref{application_architecture}.
