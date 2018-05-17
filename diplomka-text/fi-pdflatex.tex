@@ -145,7 +145,7 @@ counterfeits, running Ponzi schemes) and also enables many new types of frauds l
 Publicly available statistics prove that cybercriminals are much
  less likely to be discovered and persecuted, than criminals operating offline.
  In the USA in 2010, there were 5628 robberies and the loot was recovered in more than 20 \% of cases \cite{fbi10}.
- In the same year, FBI recieved 303809 complaints related to cyber crime, resulting in just six convictions \cite{fbcyber}. 
+ In the same year, FBI received 303809 complaints related to cyber crime, resulting in just six convictions \cite{fbcyber}. 
 Criminals value their anonymity very highly and use various means to prevent being caught by police forces \cite{tzanetakis2016transparency}\cite{van2013surfing}\cite{aldridge2014not}.
 
 A big problem for criminals was getting the money obtained from criminal activity into their possession,
@@ -176,7 +176,7 @@ to generate new bitcoin address for each incoming transaction.
 When a user pays via bitcoin, he might use bitcoins only from some small subset of his bitcoin addresses,
 so the recipent doesn't know sender's addresses that were not used in the transaction.
 This mechanism helps the sender not to disclose, how many bitcoins he owns in total and also
-protects the reciever from finding all transactions that were done by sender in the past.
+protects the receiver from finding all transactions that were done by sender in the past.
 
 \section{Goals}
 
@@ -365,7 +365,7 @@ When someone pays by bitcoins, the recipent can see the recipent address
 and can search blockchain for all transactions the sender address was part of.
 In order to not see the whole history of transactions and balance of the address owner,
 the bitcoin wallets generate a new bitcoin address for each transaction where
-owner recieves bitcoins.
+owner receives bitcoins.
 When spending bitcoins, the software uses subset of the previously generated addresses and
 can spend bitcoins from multiple addresses in one transaction.
 Therefore, when pairing the address to identity,
@@ -552,7 +552,7 @@ to compute HSDirs with service descriptor. It then downloads a service descripto
 of introduction points. Client also generates one time secret, picks a random Tor node, asks
 it to act as randezvous-point and tells it the one time secret. 
 The client then sends a message to the introduction point of the service (encrypted by service's public key)
-with the information about randezvous-point and the one time secret. The service recieves the message, connects 
+with the information about randezvous-point and the one time secret. The service receives the message, connects 
 to randezvous point and uses one time secret to match with client.
 Randezvous-point then merely relays messages between the client and the hidden service.
 All the connections mentioned above can be seen on the \ref{onion service} picture.
@@ -850,13 +850,13 @@ the cryptomarket decrease their account balance and sends bitcoin to user's addr
 
 For identifying bitcoin addresses that are owned by Valhalla cryptomarket, we 
 deposited small amount of Bitcoins to our user accounts on Valhalla cryptomarket and
-performed multiple withdraws by smaller amount than the deposited on to recieve bitcoins back.
-When we requested bitcoin withdrawals, we recieved bitcoins from different addresses
-than the deposit one. We consider the deposit address and all addresses we recieved
+performed multiple withdraws by smaller amount than the deposited on to receive bitcoins back.
+When we requested bitcoin withdrawals, we received bitcoins from different addresses
+than the deposit one. We consider the deposit address and all addresses we received
 bitcoins from during withdrawals as owned by cryptomarket.
 
 Knowing just about these addresses would no help us decide
-if someone sent or recieved bitcoins from Valhalla cryptomarket.
+if someone sent or received bitcoins from Valhalla cryptomarket.
 It is common for any service accepting bitcoins to
 use multiple bitcoin addresses, because it's common practice and even default behaviour for
 bitcoin core and other bitcoin wallet software. Unique deposit address for each
@@ -910,7 +910,7 @@ from bittrex exchange and used that wallet only with first account.
 The second bitcoin wallet was used only by second account and created by coinomi mobile app. 
 Bitcoins were deposited to it from coinmate.cz bitcoin exchange.
 We installed both these wallets and generated new, never used bitcoin address in each one, and also
-recieved bitcoins from two different exchanges in order to not affect
+received bitcoins from two different exchanges in order to not affect
 our measurement with the fact, that we are owners of both bitcoin addresses.
 
 We than ran our application and looked into the Neo4j database, that stored
@@ -918,19 +918,19 @@ blockchain transaction graph and associated identities.
 We checked the cryptomarket's address we identified by our deposits and withdrawals,
 if they were clustered as one identity. The table \ref{cluster} shows, how many identities
 were associated with given deposits and withdrawals. The heuristics could not associate our
-deposit addresses, because the deposit addresses just recieved bitcoins from us and not sent them
+deposit addresses, because the deposit addresses just received bitcoins from us and not sent them
 somewhere else till that time. Only 2 identities managed to contain addresses from both accounts.
 
 We checked, how much bitcoins have these
-identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 14.2 and 15.2
+identities received between 15.1 and 15.2. We scraped Valhalla cryptomarket between 14.2 and 15.2
 and we got data from feedback pages, which we used to estimate 
 the minimal amount of bitcoins users spent over the previous month on Valhalla market.
 We estimated in chapter \ref{stats}, that users spent at least 527730EUR during that one month time.
 With average bitcoin price 8219EUR it roughly equals 527730/8219 = 64.2BTC
-The amount of bitcions these identities recieved is also in table \ref{cluster}.
+The amount of bitcions these identities received is also in table \ref{cluster}.
 Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
 Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71BTC(9\%) out of estimated
-64.2 BTC the market recieved during that one month timeframe.
+64.2 BTC the market received during that one month timeframe.
 
 \begin{table}
     \caption{Mapping of found identities to addresses used in deposits and withdrawals
@@ -939,7 +939,7 @@ Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to 
     \label{cluster}
     \begin{tabular}{|l|l|l|l|}
     Identity &\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from second account}
-    & \multicolumn{1}{|p{2cm}|}{\centering recieved \\ bitcoins }\\ 
+    & \multicolumn{1}{|p{2cm}|}{\centering received \\ bitcoins }\\ 
     1&   1:0 & 0:0 & 0.011  \\ 
     2&   0:0 & 1:0 & 0.011  \\ 
     3&   0:4 & 0:1 & 2.15  \\ 
@@ -1040,8 +1040,8 @@ the other parts of GUI are updated with information about given address.
 The table in upper right show list of nearby addresses with known identity. The distance is number of transactions
 between inserted address and founded address in table. It also shows the URL where the identity was found
 and amount of bitcoins that were transfered between searched address and address in table.
-In the lower part, there are two pie charts. The first pie-chart shows the amount of bitcoins that were recieved by the inserted address
-and what percentage of recieved bitcoins was the application able to link to some identity.
+In the lower part, there are two pie charts. The first pie-chart shows the amount of bitcoins that were received by the inserted address
+and what percentage of received bitcoins was the application able to link to some identity.
 The second pie chart shows the same information for outgouing bitcoins, the percentage of bitcoins that were sent from inserted address
 and ended up in address that we were able to find associated identity.
 
