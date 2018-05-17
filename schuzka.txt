@@ -228,6 +228,7 @@ web server vs webserver?
 silkroad -> SilkRoad
 bitcointalk -> Bitcointalk
 reddit -> REddit
+neo4j-> Neo4j
 
 = v odrazkach??
 koukni na top 100 vendoru dle revenue a domysli ditribuci dle mnozstvi / pomeru recenzi ktere maji
@@ -238,6 +239,7 @@ O cem vim:
 Nezapada do celkoveho obrazku jednotlive kapitoly zezacatku
 chybejici .onion vysvetleni
 Anglictina + typografie - = v odrazkach
+Citace pred teckou
 
 
 \begin{appendices}
@@ -254,6 +256,4 @@ User can check the progress of blockchain synchronization by running
 
 At this phase, all data needed for using the application are in the database. We can now run application/webserver.py
 to start a web server that will serve webpage with GUI on address: "127.0.0.1:5000".
-
-
 \end{appendices}
