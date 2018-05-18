@@ -48,11 +48,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}\bfseries Application for searching nearby identified addresses}{30}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}\bfseries Statistics of Valhalla cryptomarket}{34}{chapter.6}
+\contentsline {chapter}{\numberline {6}\bfseries Valhalla cryptomarket statistics}{34}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\bfseries Conclusions and future work}{42}{chapter.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{44}{chapter*.30}
+\contentsline {chapter}{\numberline {7}\bfseries Conclusions and future work}{43}{chapter.7}
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 

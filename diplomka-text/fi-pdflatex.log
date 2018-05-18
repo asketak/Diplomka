@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  17 MAY 2018 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 01:32
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1657,7 +1657,11 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
 
-(./fi-pdflatex.aux)
+(./fi-pdflatex.aux
+
+LaTeX Warning: Label `Valhalla cryptomarket webscraping' multiply defined.
+
+)
 \openout1 = `fi-pdflatex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
@@ -1830,7 +1834,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<fithesis/logo/mu/fithesis-fi.pdf, id=110, 291.0875pt x 292.09125pt>
+<fithesis/logo/mu/fithesis-fi.pdf, id=106, 291.0875pt x 292.09125pt>
 File: fithesis/logo/mu/fithesis-fi.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi.pdf>
@@ -1844,7 +1848,7 @@ Package microtype Info: Character `029' is missing
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fithesis/logo/mu/fithesi
 s-fi.pdf>]
-<fithesis/logo/mu/fithesis-fi-color.pdf, id=121, 291.0875pt x 291.0875pt>
+<fithesis/logo/mu/fithesis-fi-color.pdf, id=117, 291.0875pt x 291.0875pt>
 File: fithesis/logo/mu/fithesis-fi-color.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi-color.pdf>
@@ -1966,20 +1970,20 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 395.
  (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-<images/change.png, id=327, 817.0525pt x 445.665pt>
+<images/change.png, id=320, 817.0525pt x 445.665pt>
 File: images/change.png Graphic file (type png)
  <use images/change.png>
 Package pdftex.def Info: images/change.png used on input line 416.
 (pdftex.def)             Requested size: 361.34999pt x 197.09964pt.
 
 [9] [10 <./images/change.png>] [11] [12]
-<images/tor.png, id=354, 948.54375pt x 501.875pt>
+<images/tor.png, id=347, 948.54375pt x 501.875pt>
 File: images/tor.png Graphic file (type png)
  <use images/tor.png>
 Package pdftex.def Info: images/tor.png used on input line 525.
 (pdftex.def)             Requested size: 361.34999pt x 191.18927pt.
 
-<images/tor-packet.png, id=355, 738.76pt x 608.2725pt>
+<images/tor-packet.png, id=348, 738.76pt x 608.2725pt>
 File: images/tor-packet.png Graphic file (type png)
 
 <use images/tor-packet.png>
@@ -2037,6 +2041,9 @@ Overfull \hbox (21.12256pt too wide) in paragraph at lines 704--714
  []
 
 
+LaTeX Warning: Reference `Application' on page 21 undefined on input line 716.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
@@ -2054,194 +2061,214 @@ Overfull \hbox (7.19597pt too wide) in paragraph at lines 779--785
 Underfull \vbox (badness 1082) has occurred while \output is active []
 
  [23]
-[24]
-Overfull \hbox (6.3151pt too wide) in paragraph at lines 851--857
-\T1/qpl/m/n/12 (-20) on Val-halla cryp-tomar-ket and per-formed mul-ti-ple with
--draws by smaller
- []
+[24] [25] <images/heur1.pdf, id=459, 372.39125pt x 528.97626pt>
+File: images/heur1.pdf Graphic file (type pdf)
 
-[25] <images/heur1.png, id=467, 543.02875pt x 723.70375pt>
-File: images/heur1.png Graphic file (type png)
+<use images/heur1.pdf>
+Package pdftex.def Info: images/heur1.pdf used on input line 887.
+(pdftex.def)             Requested size: 216.8122pt x 307.98488pt.
+ <images/heur2.pdf, id=460, 542.025pt x 647.41875pt>
+File: images/heur2.pdf Graphic file (type pdf)
 
-<use images/heur1.png>
-Package pdftex.def Info: images/heur1.png used on input line 885.
-(pdftex.def)             Requested size: 361.34999pt x 481.59927pt.
- <images/heur2.png, id=468, 748.7975pt x 804.00375pt>
-File: images/heur2.png Graphic file (type png)
+<use images/heur2.pdf>
+Package pdftex.def Info: images/heur2.pdf used on input line 894.
+(pdftex.def)             Requested size: 289.08109pt x 345.30363pt.
+ [26 <./images/heur1.pdf
 
-<use images/heur2.png>
-Package pdftex.def Info: images/heur2.png used on input line 892.
-(pdftex.def)             Requested size: 361.34999pt x 387.99072pt.
- [26]
+pdfTeX warning: /usr/bin/pdflatex (file ./images/heur1.pdf): PDF inclusion: inv
+alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] [27 <./images/heur2.pdf
 
-LaTeX Warning: Text page 27 contains only floats.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27 <./images/heur1.png>]
+pdfTeX warning: /usr/bin/pdflatex (file ./images/heur2.pdf): PDF inclusion: inv
+alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
 Overfull \hbox (16.47346pt too wide) in paragraph at lines 940--956
  [][] 
  []
 
-[28 <./images/heur2.png>] [29]
+[28] [29]
 Chapter 5.
-<images/application_architecture.jpg, id=495, 868.24374pt x 452.69125pt>
+<images/application_architecture.jpg, id=505, 901.3675pt x 599.23875pt>
 File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 976.
-(pdftex.def)             Requested size: 361.34999pt x 188.40215pt.
- [30 <./images/application_architecture.jpg>]
-Overfull \hbox (8.15988pt too wide) in paragraph at lines 990--998
-\T1/qpl/m/it/12 identity--scraping\T1/qpl/m/n/12 (-20) . Each of scripts named 
-scraper_-{bit-cointalk, blockchain-
- []
+ 975.
+(pdftex.def)             Requested size: 361.34999pt x 240.23073pt.
+ [30]
+Underfull \vbox (badness 1824) has occurred while \output is active []
 
-<images/neo4j-schema.jpg, id=505, 603.25375pt x 481.8pt>
+ [31 <./images/application_architecture.jpg>]
+<images/neo4j-schema.jpg, id=518, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1019.
+Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1017.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-[32 <./images/neo4j-schema.jpg>]
-<images/shot.png, id=516, 1332.98pt x 911.405pt>
+ [32 <./images/neo4j-schema.jpg>]
+<images/shot.png, id=525, 1332.98pt x 911.405pt>
 File: images/shot.png Graphic file (type png)
  <use images/shot.png>
-Package pdftex.def Info: images/shot.png used on input line 1051.
+Package pdftex.def Info: images/shot.png used on input line 1049.
 (pdftex.def)             Requested size: 361.34999pt x 247.05612pt.
- [33 <./images/shot.png>]
+ [33]
 Chapter 6.
-<images/listingsxsellers.png, id=524, 562.35094pt x 592.46344pt>
+<images/listingsxsellers.png, id=532, 562.35094pt x 592.46344pt>
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
-Package pdftex.def Info: images/listingsxsellers.png used on input line 1071.
+Package pdftex.def Info: images/listingsxsellers.png used on input line 1069.
 (pdftex.def)             Requested size: 337.41316pt x 355.4808pt.
- [34 <./images/listingsxsellers.png>]
-<images/total-rev.png, id=532, 562.35094pt x 592.46344pt>
+
+Underfull \vbox (badness 1521) has occurred while \output is active []
+
+ [34 <./images/shot.png>] <images/total-rev.png, id=540, 562.35094pt x 592.4634
+4pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 1129.
+Package pdftex.def Info: images/total-rev.png used on input line 1127.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/posratrev.png, id=533, 562.35094pt x 592.46344pt>
+<images/posratrev.png, id=541, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
-Package pdftex.def Info: images/posratrev.png used on input line 1135.
+Package pdftex.def Info: images/posratrev.png used on input line 1133.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1129--1136
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1127--1134
  [][][][] 
+ []
+
+
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+ [35 <./images/listingsxsellers.png>] [36] [37 <./images/total-rev.png> <./imag
+es/posratrev.png (PNG copy)>]
+<images/listingxprice.png, id=564, 562.35094pt x 592.46344pt>
+File: images/listingxprice.png Graphic file (type png)
+
+<use images/listingxprice.png>
+Package pdftex.def Info: images/listingxprice.png used on input line 1193.
+(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
+
+<images/flistingxprice.png, id=565, 562.35094pt x 592.46344pt>
+File: images/flistingxprice.png Graphic file (type png)
+
+<use images/flistingxprice.png>
+Package pdftex.def Info: images/flistingxprice.png used on input line 1199.
+(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
+
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1193--1200
+ [][][][] 
+ []
+
+[38 <./images/listingxprice.png> <./images/flistingxprice.png>]
+Overfull \hbox (30.8416pt too wide) in paragraph at lines 1224--1242
+ []|  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-[36 <./images/total-rev.png> <./images/posratrev.png (PNG copy)>]
-<images/listingxprice.png, id=549, 562.35094pt x 592.46344pt>
-File: images/listingxprice.png Graphic file (type png)
-
-<use images/listingxprice.png>
-Package pdftex.def Info: images/listingxprice.png used on input line 1195.
-(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
-
-<images/flistingxprice.png, id=550, 562.35094pt x 592.46344pt>
-File: images/flistingxprice.png Graphic file (type png)
-
-<use images/flistingxprice.png>
-Package pdftex.def Info: images/flistingxprice.png used on input line 1201.
-(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
-
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1195--1202
- [][][][] 
- []
-
-[37]
-Overfull \hbox (30.8416pt too wide) in paragraph at lines 1226--1244
- []|  [][] 
- []
-
-<images/catxrev.png, id=559, 676.02562pt x 592.46344pt>
+ [39]
+<images/catxrev.png, id=581, 676.02562pt x 592.46344pt>
 File: images/catxrev.png Graphic file (type png)
 
 <use images/catxrev.png>
-Package pdftex.def Info: images/catxrev.png used on input line 1256.
+Package pdftex.def Info: images/catxrev.png used on input line 1254.
 (pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
 
-<images/boxcat.png, id=560, 854.44218pt x 594.72188pt>
+<images/boxcat.png, id=582, 854.44218pt x 594.72188pt>
 File: images/boxcat.png Graphic file (type png)
  <use images/boxcat.png>
-Package pdftex.def Info: images/boxcat.png used on input line 1263.
+Package pdftex.def Info: images/boxcat.png used on input line 1261.
 (pdftex.def)             Requested size: 341.77081pt x 237.88454pt.
 
-[38 <./images/listingxprice.png> <./images/flistingxprice.png>] [39]
-Underfull \vbox (badness 7722) has occurred while \output is active []
+[40 <./images/catxrev.png (PNG copy)>]
 
- [40 <./images/catxrev.png (PNG copy)>]
-<images/buyerxspend.png, id=582, 562.35094pt x 592.46344pt>
+Package caption Warning: \label without proper reference on input line 1293.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `buyerxspend' on page 41 undefined on input line 1289.
+
+
+
+Underfull \vbox (badness 4242) has occurred while \output is active []
+
+ [41 <./images/boxcat.png>] <images/buyerxspend.png, id=596, 562.35094pt x 592.
+46344pt>
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
-Package pdftex.def Info: images/buyerxspend.png used on input line 1300.
+Package pdftex.def Info: images/buyerxspend.png used on input line 1298.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-<images/tradxbuyer.png, id=583, 562.35094pt x 592.46344pt>
+<images/tradxbuyer.png, id=597, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
-Package pdftex.def Info: images/tradxbuyer.png used on input line 1305.
+Package pdftex.def Info: images/tradxbuyer.png used on input line 1303.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-Overfull \hbox (17.16852pt too wide) in paragraph at lines 1294--1306
- []|  [][][][] 
+Overfull \hbox (17.16852pt too wide) in paragraph at lines 1292--1304
+ []|  [][][][][] 
  []
 
-[41 <./images/boxcat.png>]
+[42 <./images/buyerxspend.png> <./images/tradxbuyer.png>]
 Chapter 7.
 
-Underfull \vbox (badness 1590) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42 <./images/buyerxspend.png> <./images/tradxbuyer.png>] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
-[]\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (+20) . https://p
-df.ic3.gov/2010_-
+ [43]
+[44]
+Overfull \hbox (19.48454pt too wide) in paragraph at lines 1346--1346
+[]\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (-20) . https://p
+df.ic3.gov/2010_-IC3Report.pdf:
  []
 
-[44] [45]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1351.
- [46]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1351.
+
+Overfull \hbox (4.35976pt too wide) in paragraph at lines 1346--1346
+[]\T1/qpl/m/n/12 (-20) Judith Aldridge and David Décary-Hétu. ^^P  Not an'Ebay 
+for Drugs':
+ []
+
+[45] [46]
+Overfull \hbox (1.46382pt too wide) in paragraph at lines 1346--1346
+[]\T1/qpl/m/n/12 (-20) Philip R. Zim-mer-mann. \T1/qpl/m/it/12 The Of-fi-cial P
+GP User's Guide\T1/qpl/m/n/12 (-20) . Cam-bridge,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1349.
+[47]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1349.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1351.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1351.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1349.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1349.
 
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
-(rerunfilecheck)             Checksum: 4C95E3E11EA5AE577812BE91A160415E;2126.
+(rerunfilecheck)             Checksum: F91A2F6C98B9DF0B5A3DDD6FA7912523;2070.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 \openout1 = `fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28199 strings out of 493826
+ 28200 strings out of 493826
  459009 string characters out of 6156380
- 920807 words of memory out of 5000000
+ 918646 words of memory out of 5000000
  30765 multiletter control sequences out of 15000+600000
  68590 words of font info for 108 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
- 57i,11n,48p,1136b,2566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,11n,48p,1136b,2538s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.e
 nc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/
@@ -2251,10 +2278,10 @@ r/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/pu
 blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on fi-pdflatex.pdf (56 pages, 937236 bytes).
+Output written on fi-pdflatex.pdf (57 pages, 880430 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 575 compressed objects within 6 object streams
- 162 named destinations out of 1000 (max. 500000)
- 20296 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 699 PDF objects out of 1000 (max. 8388607)
+ 587 compressed objects within 6 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 20288 words of extra memory for PDF output out of 20736 (max. 10000000)
 
