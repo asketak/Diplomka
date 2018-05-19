@@ -319,7 +319,7 @@ where buyers can share their satisfaction with vendors.
 These systems are similar to systems used in popular e-commerce websites like Amazon or Ebay.
 Users can give feedback only to vendors they have traded with.
 On some cryptomarkets, it is only possible to upvote and downvote vendors,
-on some others, people can rate different parts of their interaction with the seller,
+on some others, people can rate different parts of their interaction with the vendor,
 like the easiness of communication,
 the speed of sending the goods and unsuspiciousness of packaging.
 
@@ -529,8 +529,8 @@ by behavioural and statistical analysis.
  
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{tor-packet}
-    \caption{Tor packed encryption schem}
+    \includegraphics[width=0.85\textwidth]{tor-packet}
+    \caption{Tor packed encryption schema}
     \label{tor-packet}
 \end{figure}
  
@@ -547,6 +547,13 @@ HSDir is a Tor node with a special flag that was assigned to it by Tor authoriti
 The selection of HSDirs changes every 24 hours and can be deterministically computed from the timestamp and the hidden service public key.
 The descriptor contains the hidden service public key and signed list of introduction points.
 
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[width=0.6\textwidth]{onion.pdf}
+    \caption{Sequence of connections estabilishing circuit for hidden service}
+    \label{onionservice}
+\end{figure}
+
 When a client starts connecting to the hidden service, he uses service's domain name 
 to compute HSDirs with service descriptor. It then downloads a service descriptor from HSDir with list
 of introduction points. Client also generates one time secret, picks a random Tor node, asks
@@ -555,7 +562,7 @@ The client then sends a message to the introduction point of the service (encryp
 with the information about randezvous-point and the one time secret. The service receives the message, connects 
 to randezvous point and uses one time secret to match with client.
 Randezvous-point then merely relays messages between the client and the hidden service.
-All the connections mentioned above can be seen on the picture \ref{onion service}.
+All the connections mentioned above can be seen on the picture \ref{onionservice}.
 Note that there is no direct connection between two servers during the hidden service set-up,
 all communication between servers is routed through regular Tor circuits.
 Randezvous-point just acts as a relay between two Tor circuits.
@@ -1049,7 +1056,7 @@ and ended up in address that we were able to find associated identity.
 \hspace*{-1cm}
     \centering
     \includegraphics[width=1\textwidth]{shot}
-    \caption{Screenshot of Gui}
+    \caption{Screenshot of GUI}
     \label{guiscreen}
 \end{figure}
 
@@ -1070,7 +1077,7 @@ The histogram does not show 19 vendors with more than 200 listings.
     \centering
     \includegraphics[scale=0.6]{listingsxsellers}
     \centering
-    \caption{Histogram for number of active listings vendors have}
+    \caption{Histogram of number of active listings vendors have}
     \label{listingsxsellers}
 \end{figure}
 
@@ -1195,7 +1202,7 @@ these listings are somehow special, except for the higher amount of drugs offere
     \includegraphics[width=0.5\linewidth]{flistingxprice}
     }
     
-\caption[justification=centering]{Distribution of prices in listings and feedbacks\newline }
+\caption{Distribution of prices in listings and feedbacks}
 \end{figure}
 
 We calculated the last month revenue for each category
@@ -1256,7 +1263,7 @@ If a vendor was selling in multiple categories, we divided his revenue by the nu
 \begin{figure}[!htb]
     \centering
     \includegraphics[scale=0.4]{boxcat}
-    \caption{How much have Vendors earned based on category they sell}
+    \caption{Vendors revenue based on category of their listings}
     \label{boxcat}
 \end{figure}
 
@@ -1298,7 +1305,7 @@ The distribution of buyers total spendage is on the figure \ref{buyerxspend}.
     \includegraphics[scale=0.4]{tradxbuyer}
     %\caption{Distribution of total trades}
 }
-\caption[justification=centering]{Distribution of buyers total spending and total performed trades}
+\caption{Distribution of buyers total spending and total performed trades}
 \end{figure}
 
 

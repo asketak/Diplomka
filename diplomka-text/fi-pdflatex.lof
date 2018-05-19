@@ -10,37 +10,39 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Tor routing schema\relax }}{14}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Tor packed encryption schem\relax }}{15}{figure.caption.11}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Tor packed encryption schema\relax }}{14}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sequence of connections estabilishing circuit for hidden service\relax }}{15}{figure.caption.12}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Schema how first heuristic works\relax }}{26}{figure.caption.15}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Schema how first heuristic works\relax }}{26}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Schema how second heuristic works\relax }}{27}{figure.caption.16}
-\defcounter {refsection}{0}\relax 
-\addvspace {4\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Architecture of application\relax }}{31}{figure.caption.18}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Neo4j database ER diagram\relax }}{32}{figure.caption.19}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Screenshot of Gui\relax }}{34}{figure.caption.20}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Schema how second heuristic works\relax }}{27}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Histogram for number of active listings vendors have\relax }}{35}{figure.caption.21}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Architecture of application\relax }}{31}{figure.caption.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Distribution of vendors by their revenue\relax }}{37}{figure.caption.24}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Neo4j database ER diagram\relax }}{32}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces justification=centering}}{38}{figure.caption.25}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Screenshot of GUI\relax }}{34}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Amount of vendors with number of different categories they sell and their total revenue\relax }}{40}{figure.caption.27}
+\addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces How much have Vendors earned based on category they sell\relax }}{41}{figure.caption.28}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Histogram of number of active listings vendors have\relax }}{35}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces justification=centering}}{42}{figure.caption.29}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Distribution of vendors by their revenue\relax }}{37}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Distribution of prices in listings and feedbacks\relax }}{38}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Amount of vendors with number of different categories they sell and their total revenue\relax }}{40}{figure.caption.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Vendors revenue based on category of their listings\relax }}{41}{figure.caption.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Distribution of buyers total spending and total performed trades\relax }}{42}{figure.caption.30}
 \defcounter {refsection}{0}\relax 
 \addvspace {4\p@ }
 \defcounter {refsection}{0}\relax 

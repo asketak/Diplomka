@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 18:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1966,56 +1966,64 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 395.
  (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-<images/change.png, id=320, 817.0525pt x 445.665pt>
-File: images/change.png Graphic file (type png)
- <use images/change.png>
-Package pdftex.def Info: images/change.png used on input line 416.
-(pdftex.def)             Requested size: 361.34999pt x 197.09964pt.
+<images/change.pdf, id=323, 587.19376pt x 321.2pt>
+File: images/change.pdf Graphic file (type pdf)
+ <use images/change.pdf>
+Package pdftex.def Info: images/change.pdf used on input line 416.
+(pdftex.def)             Requested size: 361.34999pt x 197.6618pt.
 
-[9] [10 <./images/change.png>] [11] [12]
-<images/tor.png, id=347, 948.54375pt x 501.875pt>
+[9] [10 <./images/change.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/change.pdf): PDF inclusion: in
+valid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] [11] [12] <images/tor.png, id=372, 948.54375pt x 501.875pt>
 File: images/tor.png Graphic file (type png)
- <use images/tor.png>
+
+<use images/tor.png>
 Package pdftex.def Info: images/tor.png used on input line 525.
 (pdftex.def)             Requested size: 361.34999pt x 191.18927pt.
-
-<images/tor-packet.png, id=348, 738.76pt x 608.2725pt>
+ <images/tor-packet.png, id=374, 738.76pt x 608.2725pt>
 File: images/tor-packet.png Graphic file (type png)
 
 <use images/tor-packet.png>
 Package pdftex.def Info: images/tor-packet.png used on input line 532.
-(pdftex.def)             Requested size: 361.34999pt x 297.5271pt.
+(pdftex.def)             Requested size: 307.14969pt x 252.89246pt.
+ <images/onion.pdf, id=375, 602.25pt x 471.7625pt>
+File: images/onion.pdf Graphic file (type pdf)
+
+<use images/onion.pdf>
+Package pdftex.def Info: images/onion.pdf used on input line 552.
+(pdftex.def)             Requested size: 216.8122pt x 169.83437pt.
  [13]
 
-LaTeX Warning: Reference `onion service' on page 14 undefined on input line 558
-.
+LaTeX Warning: Text page 14 contains only floats.
 
 
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+ [14 <./images/tor.png> <./images/tor-packet.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./images/tor.png>]
-Underfull \vbox (badness 1803) has occurred while \output is active []
-
- [15 <./images/tor-packet.png>] [16]
+ [15 <./images/onion.pdf>] [16]
 Chapter 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-Overfull \hbox (0.359pt too wide) in paragraph at lines 640--646
+Overfull \hbox (0.359pt too wide) in paragraph at lines 647--653
 []\T1/qpl/m/n/12 (-20) In con-trast to pre-vi-ously men-tioned pa-pers, Meik-le
 -john [[]16[]] haven't
  []
 
 [18]
-Overfull \hbox (0.52802pt too wide) in paragraph at lines 674--679
+Overfull \hbox (0.52802pt too wide) in paragraph at lines 681--686
 []\T1/qpl/m/n/12 (-20) Broseus [[]7[]] re-stricted his re-search to ven-dors sh
 ip-ping from Canada
  []
 
 [19] [20]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 706.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 713.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2025,13 +2033,13 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (0.37862pt too wide) in paragraph at lines 705--715
+Overfull \hbox (0.37862pt too wide) in paragraph at lines 712--722
 \T1/lmtt/m/n/12 http://Valhallaxmn3fydu.onion/products/\T1/lmtt/b/n/12 xxx \T1/
 qpl/m/n/12 (-20) where \T1/lmtt/b/n/12 xxx \T1/qpl/m/n/12 (-20) is a num-
  []
 
 
-Overfull \hbox (21.12256pt too wide) in paragraph at lines 705--715
+Overfull \hbox (21.12256pt too wide) in paragraph at lines 712--722
 \T1/qpl/m/n/12 (-20) re-views in the for-mat \T1/lmtt/m/n/12 http://Valhallaxmn
 3fydu.onion/\T1/lmtt/b/n/12 xxx\T1/lmtt/m/n/12 /palautteet
  []
@@ -2040,12 +2048,12 @@ Overfull \hbox (21.12256pt too wide) in paragraph at lines 705--715
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Overfull \hbox (6.23386pt too wide) in paragraph at lines 747--756
+Overfull \hbox (6.23386pt too wide) in paragraph at lines 754--763
  [][] 
  []
 
 
-Overfull \hbox (7.19597pt too wide) in paragraph at lines 780--786
+Overfull \hbox (7.19597pt too wide) in paragraph at lines 787--793
 []\T1/qpl/m/n/12 (-20) Only meta-data di-rectly de-pend-ing on im-age con-tent,
  like the amount
  []
@@ -2054,17 +2062,17 @@ Overfull \hbox (7.19597pt too wide) in paragraph at lines 780--786
 Underfull \vbox (badness 1082) has occurred while \output is active []
 
  [23]
-[24] [25] <images/heur1.pdf, id=460, 372.39125pt x 528.97626pt>
+[24] [25] <images/heur1.pdf, id=497, 372.39125pt x 528.97626pt>
 File: images/heur1.pdf Graphic file (type pdf)
 
 <use images/heur1.pdf>
-Package pdftex.def Info: images/heur1.pdf used on input line 888.
+Package pdftex.def Info: images/heur1.pdf used on input line 895.
 (pdftex.def)             Requested size: 216.8122pt x 307.98488pt.
- <images/heur2.pdf, id=461, 542.025pt x 647.41875pt>
+ <images/heur2.pdf, id=498, 542.025pt x 647.41875pt>
 File: images/heur2.pdf Graphic file (type pdf)
 
 <use images/heur2.pdf>
-Package pdftex.def Info: images/heur2.pdf used on input line 895.
+Package pdftex.def Info: images/heur2.pdf used on input line 902.
 (pdftex.def)             Requested size: 289.08109pt x 345.30363pt.
  [26 <./images/heur1.pdf
 
@@ -2075,62 +2083,62 @@ alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 pdfTeX warning: /usr/bin/pdflatex (file ./images/heur2.pdf): PDF inclusion: inv
 alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-Overfull \hbox (16.47346pt too wide) in paragraph at lines 941--957
+Overfull \hbox (16.47346pt too wide) in paragraph at lines 948--964
  [][] 
  []
 
 [28] [29]
 Chapter 5.
-<images/application_architecture.jpg, id=506, 901.3675pt x 599.23875pt>
+<images/application_architecture.jpg, id=543, 901.3675pt x 599.23875pt>
 File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 977.
+ 984.
 (pdftex.def)             Requested size: 361.34999pt x 240.23073pt.
  [30]
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
  [31 <./images/application_architecture.jpg>]
-<images/neo4j-schema.jpg, id=520, 603.25375pt x 481.8pt>
+<images/neo4j-schema.jpg, id=557, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1019.
+Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1026.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
  [32 <./images/neo4j-schema.jpg>]
-<images/shot.png, id=527, 1332.98pt x 911.405pt>
+<images/shot.png, id=564, 1332.98pt x 911.405pt>
 File: images/shot.png Graphic file (type png)
  <use images/shot.png>
-Package pdftex.def Info: images/shot.png used on input line 1051.
+Package pdftex.def Info: images/shot.png used on input line 1058.
 (pdftex.def)             Requested size: 361.34999pt x 247.05612pt.
  [33]
 Chapter 6.
-<images/listingsxsellers.png, id=534, 562.35094pt x 592.46344pt>
+<images/listingsxsellers.png, id=572, 562.35094pt x 592.46344pt>
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
-Package pdftex.def Info: images/listingsxsellers.png used on input line 1071.
+Package pdftex.def Info: images/listingsxsellers.png used on input line 1078.
 (pdftex.def)             Requested size: 337.41316pt x 355.4808pt.
 
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
- [34 <./images/shot.png>] <images/total-rev.png, id=542, 562.35094pt x 592.4634
+ [34 <./images/shot.png>] <images/total-rev.png, id=580, 562.35094pt x 592.4634
 4pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 1129.
+Package pdftex.def Info: images/total-rev.png used on input line 1136.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/posratrev.png, id=543, 562.35094pt x 592.46344pt>
+<images/posratrev.png, id=581, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
-Package pdftex.def Info: images/posratrev.png used on input line 1135.
+Package pdftex.def Info: images/posratrev.png used on input line 1142.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1129--1136
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1136--1143
  [][][][] 
  []
 
@@ -2139,26 +2147,26 @@ Underfull \vbox (badness 2717) has occurred while \output is active []
 
  [35 <./images/listingsxsellers.png>] [36] [37 <./images/total-rev.png> <./imag
 es/posratrev.png (PNG copy)>]
-<images/listingxprice.png, id=566, 562.35094pt x 592.46344pt>
+<images/listingxprice.png, id=603, 562.35094pt x 592.46344pt>
 File: images/listingxprice.png Graphic file (type png)
 
 <use images/listingxprice.png>
-Package pdftex.def Info: images/listingxprice.png used on input line 1191.
+Package pdftex.def Info: images/listingxprice.png used on input line 1198.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/flistingxprice.png, id=567, 562.35094pt x 592.46344pt>
+<images/flistingxprice.png, id=604, 562.35094pt x 592.46344pt>
 File: images/flistingxprice.png Graphic file (type png)
 
 <use images/flistingxprice.png>
-Package pdftex.def Info: images/flistingxprice.png used on input line 1196.
+Package pdftex.def Info: images/flistingxprice.png used on input line 1203.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1191--1197
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1198--1204
  [][][][] 
  []
 
 [38 <./images/listingxprice.png> <./images/flistingxprice.png>]
-Overfull \hbox (30.8416pt too wide) in paragraph at lines 1221--1239
+Overfull \hbox (30.8416pt too wide) in paragraph at lines 1228--1246
  []|  [][] 
  []
 
@@ -2166,88 +2174,79 @@ Overfull \hbox (30.8416pt too wide) in paragraph at lines 1221--1239
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-<images/catxrev.png, id=583, 676.02562pt x 592.46344pt>
+<images/catxrev.png, id=620, 676.02562pt x 592.46344pt>
 File: images/catxrev.png Graphic file (type png)
 
 <use images/catxrev.png>
-Package pdftex.def Info: images/catxrev.png used on input line 1251.
+Package pdftex.def Info: images/catxrev.png used on input line 1258.
 (pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
 
-<images/boxcat.png, id=584, 854.44218pt x 594.72188pt>
+<images/boxcat.png, id=621, 854.44218pt x 594.72188pt>
 File: images/boxcat.png Graphic file (type png)
  <use images/boxcat.png>
-Package pdftex.def Info: images/boxcat.png used on input line 1258.
+Package pdftex.def Info: images/boxcat.png used on input line 1265.
 (pdftex.def)             Requested size: 341.77081pt x 237.88454pt.
 
 [40 <./images/catxrev.png (PNG copy)>]
-<images/buyerxspend.png, id=593, 562.35094pt x 592.46344pt>
+<images/buyerxspend.png, id=630, 562.35094pt x 592.46344pt>
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
-Package pdftex.def Info: images/buyerxspend.png used on input line 1295.
+Package pdftex.def Info: images/buyerxspend.png used on input line 1302.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-<images/tradxbuyer.png, id=594, 562.35094pt x 592.46344pt>
+<images/tradxbuyer.png, id=631, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
-Package pdftex.def Info: images/tradxbuyer.png used on input line 1300.
+Package pdftex.def Info: images/tradxbuyer.png used on input line 1307.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-Overfull \hbox (17.16852pt too wide) in paragraph at lines 1289--1301
+Overfull \hbox (17.16852pt too wide) in paragraph at lines 1296--1308
  []|  [][][][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41 <./images/boxcat.png>] [42 <./images/buyerxspend.png> <./images/tradxbuyer
-.png>]
+[41 <./images/boxcat.png>]
 Chapter 7.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1590) has occurred while \output is active []
 
- [43]
-[44]
-Overfull \hbox (19.48454pt too wide) in paragraph at lines 1343--1343
+ [42 <./images/buyerxspend.png> <./images/tradxbuyer.png>] [43]
+Overfull \hbox (19.48454pt too wide) in paragraph at lines 1350--1350
 []\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (-20) . https://p
 df.ic3.gov/2010_-IC3Report.pdf:
  []
 
 
-Overfull \hbox (4.35976pt too wide) in paragraph at lines 1343--1343
+Overfull \hbox (4.35976pt too wide) in paragraph at lines 1350--1350
 []\T1/qpl/m/n/12 (-20) Judith Aldridge and David Décary-Hétu. ^^P  Not an'Ebay 
 for Drugs':
  []
 
-[45] [46]
-Overfull \hbox (1.46382pt too wide) in paragraph at lines 1343--1343
+[44] [45]
+Overfull \hbox (1.46382pt too wide) in paragraph at lines 1350--1350
 []\T1/qpl/m/n/12 (-20) Philip R. Zim-mer-mann. \T1/qpl/m/it/12 The Of-fi-cial P
 GP User's Guide\T1/qpl/m/n/12 (-20) . Cam-bridge,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1346.
-[47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1346.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1353.
+[46]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1353.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1346.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1346.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1353.
 
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
 (rerunfilecheck)             Checksum: F91A2F6C98B9DF0B5A3DDD6FA7912523;2070.
-
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 \openout1 = `fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28199 strings out of 493826
- 459011 string characters out of 6156380
- 917695 words of memory out of 5000000
- 30764 multiletter control sequences out of 15000+600000
+ 28204 strings out of 493826
+ 459112 string characters out of 6156380
+ 917789 words of memory out of 5000000
+ 30768 multiletter control sequences out of 15000+600000
  68590 words of font info for 108 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
  57i,11n,48p,1136b,2538s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2260,10 +2259,10 @@ r/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/pu
 blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on fi-pdflatex.pdf (57 pages, 879906 bytes).
+Output written on fi-pdflatex.pdf (56 pages, 918875 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 589 compressed objects within 6 object streams
+ 735 PDF objects out of 1000 (max. 8388607)
+ 611 compressed objects within 7 object streams
  163 named destinations out of 1000 (max. 500000)
- 20288 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20293 words of extra memory for PDF output out of 20736 (max. 10000000)
 
