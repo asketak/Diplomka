@@ -580,6 +580,7 @@ Both vendor and customer have their public keys published on their profile page 
 party to encrypt messages to them. This enables vendors and users to keep their communication private also from the administrators of the marketplace.
 
 \chapter{Related work}
+\label{relw}
 \section{Blockchain analysis and de-anonymization of bitcoin addresses}
 
 Multiple papers and tools were published regarding the blockchain analysis.
@@ -982,7 +983,7 @@ Script \emph{listing-scraper.sh} goes through Valhalla listings and downloads th
 Script \emph{listing-parser.py} process the downloaded pages and generates the \emph{listings.csv} file with information about listings.
 \emph{Seller-scraper.py} opens \emph{listings.csv} and downloads HTML source of vendors' profile pages. 
 \emph{Seller-parser.py} proccesses the downloaded vendor's profile pages and generates \emph{sellers.csv} and \emph{feedbacks.csv}.
-The variables and data types stored in these csv files are described in chapter \label{Valhalla cryptomarket webscraping}
+The variables and data types stored in these csv files are described in chapter \ref{Valhalla cryptomarket webscraping}
 in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated csv files for
 assembling Valhalla cryptomarket statistics contained in the last chapter.
 
@@ -1323,19 +1324,20 @@ The price that we paid in fees in these transactions was less than 100 dollars a
 Perpetual depositing and withdrawals over a prolonged period of time seems financially feasible
 and might lead to disclosing majority of cryptomarkets addresses and transaction.
 
-The application could be extended by adding more heuristics for clustering addresses.
+The application could be extended by adding more heuristics for clustering addresses from articles mentioned
+in chapter \ref{relw}.
 These heuristics are not based merely on a bitcoin transactions graph, but also
 on expected behaviours of users and data obtainable by continously running one or multiple
 bitcoin nodes. These heuristics are less reliable, but offer more options to cluster addresses of the same owner.
 
-The whole application backend can be run on consumer grade notebook. Backend database as indexed and utilizes memory well,
+The whole application backend can be run on consumer grade notebook. Backend database is indexed and utilizes memory well,
 the GUI requests take at most 30 seconds to process. This represents a great advantage of the application,
 hovewer the application set up takes a long time, for the simple reason that bitcoin
 blockchain consists of roughly 150GB of data and these must be inserted into database, indexed
 and processed by heuristics.
 For setting the application up on server and having users access it remotely,
 different options viable for storing and retrieving data on server hardware
-(eg. a significant RAM extension to decrease swapping delays) can be considered.
+(eg. a significant RAM extension allowing store whole database in RAM) can be considered.
 
 \printbibliography{}
 

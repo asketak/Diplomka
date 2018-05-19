@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 14:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1657,11 +1657,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
 
-(./fi-pdflatex.aux
-
-LaTeX Warning: Label `Valhalla cryptomarket webscraping' multiply defined.
-
-)
+(./fi-pdflatex.aux)
 \openout1 = `fi-pdflatex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
@@ -2099,21 +2095,21 @@ Package pdftex.def Info: images/application_architecture.jpg used on input line
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
  [31 <./images/application_architecture.jpg>]
-<images/neo4j-schema.jpg, id=518, 603.25375pt x 481.8pt>
+<images/neo4j-schema.jpg, id=519, 603.25375pt x 481.8pt>
 File: images/neo4j-schema.jpg Graphic file (type jpg)
 
 <use images/neo4j-schema.jpg>
 Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1018.
 (pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
  [32 <./images/neo4j-schema.jpg>]
-<images/shot.png, id=525, 1332.98pt x 911.405pt>
+<images/shot.png, id=526, 1332.98pt x 911.405pt>
 File: images/shot.png Graphic file (type png)
  <use images/shot.png>
 Package pdftex.def Info: images/shot.png used on input line 1050.
 (pdftex.def)             Requested size: 361.34999pt x 247.05612pt.
  [33]
 Chapter 6.
-<images/listingsxsellers.png, id=532, 562.35094pt x 592.46344pt>
+<images/listingsxsellers.png, id=533, 562.35094pt x 592.46344pt>
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
@@ -2122,7 +2118,7 @@ Package pdftex.def Info: images/listingsxsellers.png used on input line 1070.
 
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
- [34 <./images/shot.png>] <images/total-rev.png, id=540, 562.35094pt x 592.4634
+ [34 <./images/shot.png>] <images/total-rev.png, id=541, 562.35094pt x 592.4634
 4pt>
 File: images/total-rev.png Graphic file (type png)
 
@@ -2130,7 +2126,7 @@ File: images/total-rev.png Graphic file (type png)
 Package pdftex.def Info: images/total-rev.png used on input line 1128.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/posratrev.png, id=541, 562.35094pt x 592.46344pt>
+<images/posratrev.png, id=542, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
@@ -2146,14 +2142,14 @@ Underfull \vbox (badness 2717) has occurred while \output is active []
 
  [35 <./images/listingsxsellers.png>] [36] [37 <./images/total-rev.png> <./imag
 es/posratrev.png (PNG copy)>]
-<images/listingxprice.png, id=564, 562.35094pt x 592.46344pt>
+<images/listingxprice.png, id=565, 562.35094pt x 592.46344pt>
 File: images/listingxprice.png Graphic file (type png)
 
 <use images/listingxprice.png>
 Package pdftex.def Info: images/listingxprice.png used on input line 1190.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/flistingxprice.png, id=565, 562.35094pt x 592.46344pt>
+<images/flistingxprice.png, id=566, 562.35094pt x 592.46344pt>
 File: images/flistingxprice.png Graphic file (type png)
 
 <use images/flistingxprice.png>
@@ -2173,28 +2169,28 @@ Overfull \hbox (30.8416pt too wide) in paragraph at lines 1220--1238
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-<images/catxrev.png, id=581, 676.02562pt x 592.46344pt>
+<images/catxrev.png, id=582, 676.02562pt x 592.46344pt>
 File: images/catxrev.png Graphic file (type png)
 
 <use images/catxrev.png>
 Package pdftex.def Info: images/catxrev.png used on input line 1250.
 (pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
 
-<images/boxcat.png, id=582, 854.44218pt x 594.72188pt>
+<images/boxcat.png, id=583, 854.44218pt x 594.72188pt>
 File: images/boxcat.png Graphic file (type png)
  <use images/boxcat.png>
 Package pdftex.def Info: images/boxcat.png used on input line 1257.
 (pdftex.def)             Requested size: 341.77081pt x 237.88454pt.
 
 [40 <./images/catxrev.png (PNG copy)>]
-<images/buyerxspend.png, id=591, 562.35094pt x 592.46344pt>
+<images/buyerxspend.png, id=592, 562.35094pt x 592.46344pt>
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
 Package pdftex.def Info: images/buyerxspend.png used on input line 1294.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-<images/tradxbuyer.png, id=592, 562.35094pt x 592.46344pt>
+<images/tradxbuyer.png, id=593, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
@@ -2246,9 +2242,6 @@ Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 \openout1 = `fi-pdflatex.run.xml'.
 
@@ -2256,7 +2249,7 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 Here is how much of TeX's memory you used:
  28199 strings out of 493826
  459011 string characters out of 6156380
- 917681 words of memory out of 5000000
+ 917618 words of memory out of 5000000
  30764 multiletter control sequences out of 15000+600000
  68590 words of font info for 108 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
@@ -2270,10 +2263,10 @@ r/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/pu
 blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on fi-pdflatex.pdf (57 pages, 879795 bytes).
+Output written on fi-pdflatex.pdf (57 pages, 879799 bytes).
 PDF statistics:
- 699 PDF objects out of 1000 (max. 8388607)
- 587 compressed objects within 6 object streams
+ 700 PDF objects out of 1000 (max. 8388607)
+ 588 compressed objects within 6 object streams
  163 named destinations out of 1000 (max. 500000)
  20288 words of extra memory for PDF output out of 20736 (max. 10000000)
 
