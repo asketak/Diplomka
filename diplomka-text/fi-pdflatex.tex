@@ -511,7 +511,7 @@ Client obtains public keys of these 3 Tor nodes from a directory authority and n
 symmetric keys for encrypting the data with each node.
 When the client wants to send some data, it splits them into fixed size chunks
 (called Tor cells) and encrypt them with multiple layers of encryption by the symetric keys negotiated in previous step.
-You may find the encrypted Tor cell scheme on the \ref{tor-packet} picture.
+You may find the encrypted Tor cell scheme on the picture \ref{tor-packet}.
 Each node in the circuit decrypts the Tor cell and therefore removes one layer from it.
 The exit node decrypts the last layer of encryption, reads the original data of the client and 
 sends the packet to destination address. The reponse is than again encrypted by symetric keys
@@ -555,7 +555,7 @@ The client then sends a message to the introduction point of the service (encryp
 with the information about randezvous-point and the one time secret. The service receives the message, connects 
 to randezvous point and uses one time secret to match with client.
 Randezvous-point then merely relays messages between the client and the hidden service.
-All the connections mentioned above can be seen on the \ref{onion service} picture.
+All the connections mentioned above can be seen on the picture \ref{onion service}.
 Note that there is no direct connection between two servers during the hidden service set-up,
 all communication between servers is routed through regular Tor circuits.
 Randezvous-point just acts as a relay between two Tor circuits.
@@ -1016,7 +1016,7 @@ use the application with different blockchain or custom-generated data.
 
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{Neo4j-schema}
+    \includegraphics[width=1\textwidth]{neo4j-schema}
     \caption{Neo4j database ER diagram}
     \label{Neo4jschema}
 \end{figure}
@@ -1262,7 +1262,7 @@ If a vendor was selling in multiple categories, we divided his revenue by the nu
 
 
 Vendor pages contain counts of feedback gathered over lifetime, these were used
-in \ref{posratrev}. Vendors also have feedback pages, where feedbacks younger than
+in graph \ref{posratrev}. Vendors also have feedback pages, where feedbacks younger than
 1 month contain first two and last two characters of buyers username,
 the rounded total number and price of trades performed by the buyer.
 We used these feedbacks to gather informations about buyers.
