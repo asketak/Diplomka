@@ -291,7 +291,7 @@ Each feedback for given vendor consists of
 buyer's comment, date the feedbacks were given, the listing the user gave feedback to, the sum of money the buyer spent on market
 , the amount of trades the buyer did on the Valhalla market and
 first and last 2 characters of the buyer's nickname. 
-( eq. for buyer with nickname "gopnik789" it shows "go***89")
+(eq. for buyer with nickname "gopnik789" it shows "go***89")
 
 The first and last 2 characters of buyer's username are really unique for Valhalla market,
 other markets offer first and last character of buyer's username at most.
@@ -455,7 +455,7 @@ because miners prefer to add transaction with higher fees to the next block.
 \subsection{Tumblers}
 Anyone can download blockchain and therefore obtain information about all bitcoin transactions that ever happened.
 Bitcoin transactions are seemingly anonymous, but when the user sends bitcoins to
-someone (exchange) who knows their identity, the recipient can pair the incoming bitcoin address
+someone who knows their identity, the recipient can pair the incoming bitcoin address
 to the identity of the sender.
 Although bitcoin users usually use multiple bitcoin addresses,
 their transactions and addresses are still 
@@ -932,7 +932,7 @@ We estimated in chapter \ref{stats}, that users spent at least 527\,730 EUR duri
 With average bitcoin price 8\,219EUR it roughly equals to 64.2 bitcoins.
 The amount of bitcions these identities received is also in table \ref{cluster}.
 Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
-Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71(9\%) bitcoins out of estimated
+Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71 (9\%) bitcoins out of estimated
 64.2~bitcoins the market received within that one month timeframe.
 
 \begin{table}
@@ -957,6 +957,7 @@ Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to 
 \end{table}
 
 \chapter{Application for searching nearby identified addresses}
+\label{Application}
 
 This chapter describes our application for analyzing the gathered data.
 The application architecture is depicted in figure \ref{application_architecture}.
@@ -1168,13 +1169,13 @@ The figure \ref{listingxprice} shows distribution of prices of all listings in
  price in bitcoin multiplied by the average price of bitcoin for 30 days before the scraping
  (8219 EUR for 14.1.2018 - 14.2.2018, daily prices taken from blockchain.info).
  
- The average price of listing is 336.2 Eur(1368.2 SD!) with median of 71.3 Eur,
- while feedbacks had average 82.7Eur(150.7 SD) with median of 55 Eur.
-  There were 1533(6.05\%) active listings with price greater than 1000 EUR but 
-  only 22(0.3\%) feedbacks with price greater than 1000EUR.
+ The average price of listing is 336.2 Eur (1368.2 SD!) with median of 71.3 Eur,
+ while feedbacks had average 82.7Eur (150.7 SD) with median of 55 Eur.
+  There were 1533 (6.05\%) active listings with price greater than 1000 EUR but 
+  only 22 (0.3\%) feedbacks with price greater than 1000EUR.
  The price distributions in \ref{listingxprice} show,
  that while there is a lot of free or very expensive listings,
- the majority(5937, 93\%) of trades were between 0 and 200 EUR.
+ the majority (5937, 93\%) of trades were between 0 and 200 EUR.
  There were 115 free listings on the market,
  but none of them was mentioned in the feedbacks.
  The free listings had titles like "CARDING SERVICE *FREE*",
