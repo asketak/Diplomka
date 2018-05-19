@@ -71,10 +71,8 @@
     advisor       = {RNDr. Martin Stehlík},
     title         = {Darknet market analysis and user de-anonymization},
     TeXtitle      = {Darknet market analysis and user de-anonymization},
-    keywords      = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, metadata, de-anonymizatio
-n},
-    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, metadata, de-anonymizatio
-n},
+    keywords      = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, de-anonymization, Valhalla},
+    TeXkeywords   = {blockhain, bitcoin, darknet, drug market, Tor, cryptocurrency, anonymity, de-anonymization, Valhalla },
     abstract      = {This thesis has two goals. The first goal is to perform a quantitative statistical analysis of the
     Valhalla cryptomarket. We scraped the Valhalla cryptomarket website for information about vendors, listings and buyers
     and brought up a lot of interesting statistics about them.
@@ -82,7 +80,7 @@ n},
     The second goal of this thesis is to create a tool to find, analyze and visualize publicly available data,
  which can be helpful to deanonymize users of drug markets available via Tor on the dark web. The aim of this tool
  is to help investigators collect intelligence about entities related to these drug markets. Users and operators of these markets employ multiple means to prevent their deanonymization. Cryptomarkets are operated
- as .onion services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
+ as hidden services, PGP encryption is often required to communicate between multiple parties and bitcoin is used as a way of paying for goods or services.
  
     We scraped multiple publicly available social sites and websites related to bitcoin (Twitter, Bitcointalk, Reddit,
     blockchain.info...) and also Valhalla cryptomarket itself.
@@ -93,10 +91,12 @@ n},
     The tool can find the nearest addresses related to drug markets for given bitcoin address
     and also find the nearest addresses that are mentioned in scraped websites. 
     
-    To test the efficiency of this tool, we created two profiles on Valhalla cryptomarket and performed
-    multiple transactions to deposit and withdraw bitcoins. Into the tool, we imported the bitcoin addresses of
-    the first profile we recieved bitcoins from, and certified the tool's ability to identify, whether the
-    addresses owned by the second profile had also been sending/recieving bitcoins from the Valhalla market.
+    To test the accuracy of this tool, we created two profiles on Valhalla cryptomarket
+    and deposited and withdrew bitcoins multiple times. This way, we obtained
+    multiple bitcoin addresses owned by Valhalla cryptomarket.
+    We ran the tool and certified the tool's ability to identify, whether the
+    addresses we obtained by these transactions
+    were identified as belonging to the same identity (eq. Valhalla market).
     },
     thanks        = {I would like to thank my supervisor RNDr. Martin Stehlík, Ph.D., for guiding me and providing technical support for my work. 
     
@@ -144,12 +144,9 @@ counterfeits, running Ponzi schemes) and also enables many new types of frauds l
 
 Publicly available statistics prove that cybercriminals are much
  less likely to be discovered and persecuted, than criminals operating offline.
- In the USA in 2010, there were 5628 robberies and the loot was recovered in more than 20 \% of cases. \cite{fbi10} 
- In the same year, FBI recieved 303809 complaints related to cyber crime, resulting in just 6 convictions. \cite{fbcyber} 
-Criminals value their anonymity very highly and use various means to prevent being caught by police forces.
-\cite{tzanetakis2016transparency}
-\cite{van2013surfing}
-\cite{aldridge2014not}
+ In the USA in 2010, there were 5628 robberies and the loot was recovered in more than 20 \% of cases \cite{fbi10}.
+ In the same year, FBI received 303809 complaints related to cyber crime, resulting in just six convictions \cite{fbcyber}. 
+Criminals value their anonymity very highly and use various means to prevent being caught by police forces \cite{tzanetakis2016transparency}\cite{van2013surfing}\cite{aldridge2014not}.
 
 A big problem for criminals was getting the money obtained from criminal activity into their possession,
 as it required some form of physical presence or identification.
@@ -163,10 +160,10 @@ just use their connection to the Internet to both receive and send bitcoins with
 However, all bitcoin transactions are publicly visible and so each bitcoin can be tracked through the whole transaction history.
 
  Cryptomarkets are online marketplaces, where vendors offer illicit goods and services.
- Cryptomarkets are accessible via Tor network as an .onion service, and the users of
+ Cryptomarkets are accessible via Tor network as a hidden service, and the users of
  cryptomarkets use PGP to communicate with each other and use bitcoin as a way to transfer value.
-These mechanisms make it possible for cryptomarkets to publicly operate, yet still be hard to reach by the law enforcement.
-\cite{cox2016staying}
+These mechanisms make it possible for cryptomarkets
+to publicly operate, yet still be hard to reach by the law enforcement \cite{cox2016staying}.
 
 We scraped and examined data from the Valhalla market,
  to our best knowledge one of the currently most popular and well established operating drug markets (February 2018),
@@ -179,7 +176,7 @@ to generate new bitcoin address for each incoming transaction.
 When a user pays via bitcoin, he might use bitcoins only from some small subset of his bitcoin addresses,
 so the recipent doesn't know sender's addresses that were not used in the transaction.
 This mechanism helps the sender not to disclose, how many bitcoins he owns in total and also
-protects the reciever from finding all transactions that were done by sender in the past.
+protects the receiver from finding all transactions that were done by sender in the past.
 
 \section{Goals}
 
@@ -190,8 +187,8 @@ The tool scrapes multiple public sources related to drug markets and bitcoin tra
 to obtain some form of identification (eg. a username) linked to bitcoin address, and adds this information to database.
 It also provides a GUI, where the tool user can insert an address and the program finds addresses with linked identities
 that are few transactions away from the inserted address in the transaction graph.
-We also created multiple scripts for scraping information about trades from Valhalla market website, 
-export them to .csv files and used these data for quantitative analysis of Valhalla market operations.
+We also created multiple scripts for scraping information about trades from Valhalla market website
+and used these data for quantitative analysis of Valhalla market operations.
 
 \section{Structure of the thesis}
 Chapter \emph{related terminology} starts with a quick introduction
@@ -206,7 +203,7 @@ The chapter called
 \emph{Application for searching nearby identified addresses}
 describes the functionality, architecture and implementation of the application that was created as part of this work.
 
-The chapter \emph{Statistics of Valhalla cryptomarket} consists of various statistics about
+The chapter \emph{Valhalla cryptomarket statistic} consists of various statistics about
 drug markets gathered by website scraping of the Valhalla market.
 
 Chapter \emph{Conclusions and future work} discusses the achieved goals, possible future extension and development
@@ -219,8 +216,8 @@ In this chapter, we explain the terms and technology related to cryptomarkets.
 Cryptomarkets use several technologies crucial to their anonymous operation.
 Bitcoin enables different parties to exchange value in an anonymous way.
 Tor allows users and administrators of a marketplace to hide from any third party performing packet sniffing on the network,
-that they are accessing drug marketplace. It also hides the location on drug marketplace web server from its users.
-PGP enables sellers and vendors to communicate between each other in an encrypted way,
+that they are accessing drug marketplace. It also hides the location of drug marketplace web server from its users.
+PGP enables users and vendors to communicate between each other in an encrypted way,
 so that drug market administrators cannot eavesdrop on that communication.
 
 \section{Cryptomarkets}
@@ -236,8 +233,8 @@ as means of making payments. These two technologies provided a safer environment
 than previous markets hosted on forums and chatrooms.
 
 Physical products, like drugs, are sent to a buyer via ordinary mail to the address provided by the buyer.
-The package is disguised as packages containing common goods sent by big online retailers.
-\cite{paquet2017cryptomarkets}
+The package is disguised as packages containing common goods sent by big online retailers
+\cite{paquet2017cryptomarkets}.
 
 Cryptomarkets are popular with vendors,
 as they offer them a high influx of customers and secure and anonymous environment for conducting their bussiness \cite{van2014responsible}.
@@ -279,10 +276,29 @@ We checked a list of active cryptomarkets mentioned on reddit community \emph{r/
 \emph{https://www.deepdotweb.com} website.
 The site \emph{https://www.deepdotweb.com} has alexa ranking 23500, which roughly corresponds to thousands visitors a day.
 The reddit community is the first link for google query "darkmarkets list" and 
-has more than 160 000 readers. We therefore consider these sites to be relevant enough not tomiss
-the biggest cryptomarkets in their lists. Cryptomarkets taken into consideration are in the \ref{cryptomarkets} table.
+has more than 160 000 readers. We therefore consider these sites to be relevant enough not to miss
+the biggest cryptomarkets in their lists. Cryptomarkets taken into consideration are in the table \ref{cryptomarkets}.
 
 Valhalla market is a well known operating cryptomarket, with more than 20 000 active listings and 900 vendors, it's the second biggest currently operating cryptomarket.
+
+Among these cryptomarkets, only Valhalla and Dream market have been operating since 2013.
+This represents an advantage for our analysis, as we can analyze matured cryptomarket with vendors,
+who have been selling for a longer time and have more reviews.
+
+Among cryptomarkets mentioned above,
+the Valhalla cryptomarket provides the most information about vendors and buyers.
+Each feedback for given vendor consists of 
+buyer's comment, date the feedbacks were given, the listing the user gave feedback to, the sum of money the buyer spent on market
+, the amount of trades the buyer did on the Valhalla market and
+first and last 2 characters of the buyer's nickname. 
+( eq. for buyer with nickname "gopnik789" it shows "go***89")
+
+The first and last 2 characters of buyer's username are really unique for Valhalla market,
+other markets offer first and last character of buyer's username at most.
+This will greatly help with recognizing the same buyer among multiple feedbacks.
+Apart from that, Valhalla is also the only market from the markets above, where the customer feedback contains the
+associated listing.
+This allows us to detect the most profitable and popular listings.
 
 \begin{table}
     \caption{Visited cryptomarkets}
@@ -296,25 +312,6 @@ Valhalla market is a well known operating cryptomarket, with more than 20 000 ac
     \end{tabular}
 \end{table}
 
-Among these cryptomarkets, only Valhalla and Dream market have been operating since 2013.
-This represents an advantage for our analysis, as we can analyze matured cryptomarket with vendors,
-who have been selling for a longer time and have more reviews.
-
-Among cryptomarkets mentioned above,
-the Valhalla cryptomarket provides the most information about vendors and buyers.
-Each feedback for given vendor consists of 
-buyer's comment, date the feedbacks were given, the listing the user gave feedback to, the sum of money the buyer spent on market
-, the amount of trades the buyer did on the Valhalla market and
-first and last 2 digits of the buyer's nickname. 
-( eq. for buyer with nickname "gopnik789" it shows "go***89")
-
-The first and last 2 digits of buyer's username are really unique for Valhalla market,
-other markets offer first and last character of buyer's username at most.
-This will drastically help with recognizing the same buyer among multiple feedbacks.
-Apart from that, Valhalla is also the only market from the markets above, where the customer feedback contains the
-associated listing.
-This allows us to detect the most profitable and popular listings.
-
 \subsection{Vendor's feedback}
 
 Cryptomarkets usually employ reputation systems \cite{resnick2000reputation},
@@ -327,8 +324,8 @@ like the easiness of communication,
 the speed of sending the goods and unsuspiciousness of packaging.
 
 Feedback is not mandatory, but vendors encourage buyers to give them positive feedback
-\cite{aldridge2014not}\cite{soska2015measuring}, because the positive feedback
-ratio gives the vendor a significant advantage over vendors with worse feedback.
+\cite{aldridge2014not}\cite{soska2015measuring}, because high positive feedback
+ratio brings the vendor more customers over vendors with worse feedback ratio.
 
 \section{Bitcoin and blockchain}
 
@@ -362,13 +359,13 @@ a user needs to have a private key associated with the given bitcoin address.
 Storage and usage of bitcoin addresses and associated private keys is automatically managed
 by a software called bitcoin wallet. Many third party software wallets currently exist.
 
-All the transactions, bitcoins and addresses are stored in the blockchain,
-the transaction history with data about all transactions is publicly available.
+All the transactions, bitcoins and addresses are stored in the blockchain.
+The transaction history with data about all transactions is publicly available.
 When someone pays by bitcoins, the recipent can see the recipent address
 and can search blockchain for all transactions the sender address was part of.
 In order to not see the whole history of transactions and balance of the address owner,
 the bitcoin wallets generate a new bitcoin address for each transaction where
-owner recieves bitcoins.
+owner receives bitcoins.
 When spending bitcoins, the software uses subset of the previously generated addresses and
 can spend bitcoins from multiple addresses in one transaction.
 Therefore, when pairing the address to identity,
@@ -382,8 +379,8 @@ Input and output have the same data structure,
 they only differ in its relationship to the given transaction.
 Each input/output consists of its unique identifier, its value in bitcoins,
 bitcoin address that owns it and a script that descibes how the input/output can be used.
-The scripts allows a greater flexibility in transactions. The script can define how many private keys
-are required for spending given output, two keys or a more numerous key combination.
+The script allows a greater flexibility in spending bitcoins like multisignature wallets where
+two or more keys are required for spending bitcoins.
 
 Every output can be used exactly once as an input of a new transaction,
 and therefore the owner of an output can not
@@ -395,14 +392,14 @@ and sign it with the required private keys.
 A new transaction must comply with the following:
 
 \begin{itemize}
-  \item The scripts of all used inputs trigger no failures and return True = The sender is authorized to use inputs
-  \item No included input has been used as an input in any other transaction = The sender cannot spend one output multiple times
+  \item The scripts of all used inputs trigger no failures and return True. (The sender is authorized to use inputs)
+  \item No input has been used as an input in any other transaction. \newline (The sender cannot spend one output multiple times)
   \item The sum of bitcoins of transaction inputs is equal to the sum of bitcoins of transaction outputs + fees
 \end{itemize}
 
 A new transaction must have 1 or more outputs.
 There can be multiple outputs in a transaction with different associated addresses and bitcoin values,
-however, there is usually a normal pattern. When the sender sends bitcoins to one recipient,
+however, there exists a common pattern. When the sender sends bitcoins to one recipient,
 the transaction typically contains two outputs.
 First output contains the recipient's address and the volume of bitcoins he receives.
 Second output is called \emph{change output}.
@@ -411,8 +408,8 @@ he wants to transfer, he adds a change output to the transaction.
 The change output's associated bitcoin address is owned by sender,
 and by it the sender gets back the bitcoins he doesn't want to transfer.
 This is the only way to split bitcoins into smaller parts. 
-On the following figure, you may see a transaction scheme where sender spends output worth of 5 bitcoins,
-sends 2 bitcoins to recipent and get 3 bitcoins back as \ref{change}.
+On the figure \ref{change} is a transaction scheme where sender spends output worth of 5 bitcoins,
+sends 2 bitcoins to recipent and get 3 bitcoins back as change. 
  
 \begin{figure}[!htb]
     \centering
@@ -489,18 +486,19 @@ If the attacker has control over the transmission from the start of communicatio
  a certification authority is needed. The certification authority is an institution that signs public keys, belonging to the web server.
  When the browser receives the public key, it automatically checks whether it is signed by any authority from its list of authorities and if not,
  it displays a warning or error message.
+ 
 The HTTPS protocol encrypts data, but doesn't hide the identity of the user from the web server.
 The internet provider can also see, where is the user connecting. Tor aims to solve these issues.
  
-Tor \cite{dingledine2004tor} is a free open source software that provides access to Tor network. Tor network is a network of Tor nodes.
+Tor \cite{dingledine2004tor} is a free open source software that provides access to network of Tor nodes. 
 The goal of the Tor project is to provide its users encrypted access to the Internet in order to prevent third parties
 from eavesdropping and analysing the transmitted data.
 While the Tor usage itself can be detected by a third party, the third party can not decrypt user's data that are transmitted
- via Tor. Some websites restrict access from Tor networks due to many risks involved.
+ via Tor. Some websites restrict access from Tor network due to many risks involved.
 Tor hides user's identity from the web server. Internet provider can also only detect that user is connecting to Tor,
 but can not identify the other side of communication and content of the transmitted data.
 
-The simplest way for uthe ser to use Tor network is to install the Tor browser bundle, consisting of
+The simplest way for the user to use Tor network is to install the Tor browser bundle, consisting of
 a modified Firefox browser and onion proxy. Onion proxy routes all traffic through Tor network.
 Tor network consists of more than 6000 publicly available Tor nodes (also called relays or routers).
 Anyone can run a Tor node, but there is a subset of speciallized servers called directory authorities.
@@ -538,22 +536,23 @@ by behavioural and statistical analysis.
  
 Cryptomarkets are running as hidden services on Tor network.
 Tor hidden services is a feature of Tor for providing a service (eg. a webserver, IRC server etc.) over Tor network
-without disclosing the server's IP address. The hidden services have special top level domain .onion.
+without disclosing the server's IP address. The hidden services have special top level domain \emph{.onion}.
 
-When administrator of service wants to be accessed, he crates an RSA keypair.
-The public key (in base-32 encoding) is the service identifier, through which can the service can be accessed by accessing URL identifier.onion.
+When administrator of service wants to be accessed, he creates an RSA keypair.
+The public key (in base-32 encoding) is the service identifier,
+through which can the service can be accessed by accessing URL \emph{identifier.onion}.
 The administrator chooses some Tor nodes as introduction points and establishes a circuit to each one of them.
 The administrator then uploads a descriptor of the service to 6 different hidden service directories (HSDir).
 HSDir is a Tor node with a special flag that was assigned to it by Tor authorities.
 The selection of HSDirs changes every 24 hours and can be deterministically computed from the timestamp and the hidden service public key.
 The descriptor contains the hidden service public key and signed list of introduction points.
 
-When a client starts connecting to the hidden service, he uses service's domain name (=public key)
+When a client starts connecting to the hidden service, he uses service's domain name 
 to compute HSDirs with service descriptor. It then downloads a service descriptor from HSDir with list
 of introduction points. Client also generates one time secret, picks a random Tor node, asks
 it to act as randezvous-point and tells it the one time secret. 
 The client then sends a message to the introduction point of the service (encrypted by service's public key)
-with the information about randezvous-point and the one time secret. The service recieves the message, connects 
+with the information about randezvous-point and the one time secret. The service receives the message, connects 
 to randezvous point and uses one time secret to match with client.
 Randezvous-point then merely relays messages between the client and the hidden service.
 All the connections mentioned above can be seen on the \ref{onion service} picture.
@@ -578,7 +577,7 @@ User generates a pair of keys, a public key for encrypting emails sent to him an
 
 PGP is used in the context of online drug markets as a means of secure communication between vendors and customers.
 Both vendor and customer have their public keys published on their profile page and use the public key of the other
-party to encrypt messages to them. This enables vendors and sellers to keep their communication private also from the administrators of the marketplace.
+party to encrypt messages to them. This enables vendors and users to keep their communication private also from the administrators of the marketplace.
 
 \chapter{Related work}
 \section{Blockchain analysis and de-anonymization of bitcoin addresses}
@@ -587,12 +586,12 @@ Multiple papers and tools were published regarding the blockchain analysis.
 Blockchain contains all bitcoin transactions and anyone can simply check
 the source and destination addresses of every transaction in the system.
 It is heavily encouraged for users of blockchain to use multiple bitcoin addresses
- and every major bitcoin wallet (=software for receiving and sending bitcoins) does so.
- It is therefore useful to detect addresses belonging to the same user.
+ and every major bitcoin wallet does so.
+ We will focus on ways of detecting addresses belonging to the same user.
  
-The authors of the first research article \cite{reid2013analysis}
- parsed blockchain files to create a graph of bitcoin transactions, with vertices as transactions
- and edges between them representing bitcoins flowing from one transaction to another.
+The authors of one \cite{reid2013analysis} of the first research articles related to blockchain analysis
+ parsed blockchain files to create a graph of bitcoin transactions, with vertices as addresses
+and edges between them representing bitcoin transactions.
  They created so-called user graph by clustering addresses belonging to the same user, using
  simple heuristics that the owner of all input addresses used in a transaction must be the same. The first version of this article  
 was published in 2011 and dealt with a much smaller number of people using bitcoin and smaller transaction graph.
@@ -600,8 +599,8 @@ Their analysis also focuses on deanonymization through multiple aspects of bitco
 while this thesis focuses on deanonymization from transaction graph and public data.
 
 Androulaky \cite{androulaki2013evaluating} performed clustering using two heuristics.
-The first one is the same as \cite{reid2013analysis} did - all inputs of transaction
-belonged to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
+The first one is from the previously mentioneed article \cite{reid2013analysis} -- all inputs of transaction
+belong to the same user. The second heuristics is clustering some outputs of the transaction with its inputs.
 Most transactions have two outputs, one is owned by the transaction recipient,
 the other one (the aforementioned change output) is owned by
 the sender. The mechanism of change output is described in chapter \ref{btcadd} and the heuristics in
@@ -613,13 +612,13 @@ They also employed multiple clustering techniques based on the behaviour of user
  They tested the success of their clustering techniques in their simulated bitcoin 
  environment.
 
-Advanced and similar work was done by \cite{spagnuolo2014bitiodine}. They downloaded the blockchain, transformed it to
+Advanced and similar work \cite{spagnuolo2014bitiodine} was done by creators of Biodine application. They downloaded the blockchain, transformed it to
  a database and performed clustering to get a graph of transactions between users.
 Then they developed a tool for scraping data from multiple locations (Bitcointalk and bitcoin-OTC forum) to link
 off-chain data and identities to bitcoin addresses.
 They tested the tool on few popular transactions related to the seizure of Silkroad marketplace.
 
-Similar work to this thesis was done by \cite{fleder2015bitcoin}.
+Similar work \cite{fleder2015bitcoin} to this thesis was done by Fleder.
 This paper use data from Bitcointalk, the most popular bitcoin forum. 
 They apply a simple algorithm to group multiple bitcoin addresses belonging to one user together.
 Then they use the scraped data to show
@@ -638,11 +637,11 @@ that were seized by FBI. They conclude that FBI seized around 22\% of Ross Ulbri
 and found addresses possessing some of these bitcoins, that have not been used since Ross' arrest.
 
 In contrast to previously mentioned papers, Meiklejohn \cite{meiklejohn2013fistful} 
-don't only passively scan the blockchain, they actively send bitcoins to addresses of
+haven't only passively scanned the blockchain, he actively sent bitcoins to addresses of
 well-known services to track their bitcoins in the following transactions executed by the service.
-They also used the same two heuristics for clustering addresses
-as Androulaki. \cite{androulaki2013evaluating}
-They concluded that the network does not offer enough anonymity and large transactions can be traced.
+He also used the same two heuristics for clustering addresses
+as Androulaki \cite{androulaki2013evaluating}.
+He concluded that the network does not offer enough anonymity and large transactions can be traced.
 
 All of the previously mentioned works had to deal with much smaller transaction graph,
 as the usage of bitcoin grew significantly over the last year. 
@@ -657,17 +656,12 @@ deanonymized addresses in the transaction graph to help with further investigati
 Emerging cryptomarkets brought the attention of the scientific community
 and lots of articles have been published related to the phenomenon of drug trafficking via the Internet.
 Most of these papers were investigating the topic from the social
-and criminology perspective, performing qualitative analysis.
-\cite{aldridge2014not}
-\cite{barratt2014use}
-\cite{christin2013traveling}
-\cite{dolliver2015criminogenic}
-\cite{van2013silk}
-\cite{walsh2011drugs}
-\cite{martin2014lost}
+and criminology perspective, performing qualitative analysis
+\cite{aldridge2014not}\cite{barratt2014use}\cite{christin2013traveling}\cite{dolliver2015criminogenic}\cite{van2013silk}\cite{walsh2011drugs}\cite{martin2014lost}.
 
 There are only a few articles focusing on statistically describing fully operating drug market and its vendors
 by collecting and analyzing data from a cryptomarket webpage. Short description of works like that follows.
+
 Aldridge \cite{aldridge2017delivery} scraped Silkroad in September 2013, the most popular cryptomarket of that time.
 He focuses on how the vendors and buyers perceive the risk of arrest and attempt to downsize it.
 He concludes that users of cryptomarket are aware of the risks both related to their physical and online activity
@@ -682,7 +676,7 @@ use the same usernames and sometimes PGP keys on multiple marketplaces because r
 is highly valued in these cryptomarkets, therefore vendors try to keep it when moving to the new marketplace.
 Also by his findings, some vendors are highly specialized in selling one category of drugs, while others offer a wide range of drugs.
 
-Article by Doliver \cite{dolliver2016characteristics} is most similar to this work.
+Article by Doliver \cite{dolliver2016characteristics} is most similar to our work.
 They scraped and analyzed two popular cryptomarkets, Agora and Evolution, and quantitatively assessed
 the characteristics of vendors from both markets, focusing on the difference
  between different markets' vendor populations.
@@ -695,7 +689,6 @@ the characteristics of vendors from both markets, focusing on the difference
  in order to get data about the cryptomarket's flow of money.
  
 \chapter{Methods and tools of data retrieval and analysis}
-
 \section{Valhalla cryptomarket webscraping}
 \label{Valhalla cryptomarket webscraping}
 We scraped data from Valhalla cryptomarket
@@ -704,7 +697,7 @@ We used official Tor daemon and software called privoxy to create a local proxy 
 incoming traffic through Tor network. The privoxy was essential, as Tor daemon creates SOCKS proxy,
 which can not be used by wget. Thus, we created an HTTP proxy by privoxy,
 which redirected the traffic through Tor SOCKS proxy.
-we did not have to implement any login and captcha solving functionality
+We did not have to implement any login and captcha solving functionality
 for web scraping Valhalla market, because all the webpages about market
 listings, vendors and feedbacks are available without logging in.
 
@@ -714,26 +707,26 @@ is a number incrementing with each new listing.
 The last listing had number 103770 and only 25309 numbers lead to the valid listing page.
 Rest of the numbers lead to 404 error. We believe
 these numbers refer to listings that were delisted by the vendor or administrator.
-
-
-We wrote a small script in bash to iterate through all of the listings
-and download them using wget command line tool.
-After downloading all the listing pages,
-we parsed the downloaded files using python and common Linux command line tools(cat, grep, cut, sed).
-We were not using python HTML parsing libraries(like beautifulsoup) for parsing downloaded
-webpages because HTML elements of Valhalla web pages don't have any unique identifiers
-and so these libraries bring us no advantage.
- 
-By scraping the listings webpages, we obtained unique vendor nicknames,
-which we used for downloading and scraping vendor's profile and feedback pages.
-The shortcoming of this method is being were able to download and analyze only those sellers
-having at least one active listing at the time of data collection. 
 Vendor profile pages were in format \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}}
 and their reviews in the format
  \texttt{http://Valhallaxmn3fydu.onion/\textbf{xxx}/palautteet} where \texttt{\textbf{xxx}}
-is a vendor nickname. 
+is a vendor nickname. The description of format of the scraped data is in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}.
+
+We wrote several scripts for webscraping and parsing these data, 
+their description is also in chapter \ref{Application}.
+The scripts iterate through all of the listings
+and download them using wget command line tool.
+After downloading all the listing pages,
+the downloaded files are parsed using python and common Linux command line tools (cat, grep, cut, sed).
+We were not using python HTML parsing libraries (like beautifulsoup) for parsing downloaded
+webpages because HTML elements of Valhalla web pages don't have any unique identifiers
+and so these libraries bring us no significant advantage.
  
-From each listing, we parsed:
+By scraping the listings webpages, we obtained unique vendor nicknames,
+which we used for downloading and scraping vendor's profile and feedback pages.
+The shortcoming of this method is that we were able to download and analyze only those vendors
+having at least one active listing at the time of data collection. 
+
 
 \begin{table}
     \caption{Data scraped from listings}
@@ -741,28 +734,26 @@ From each listing, we parsed:
     \begin{tabular}{|l|l|}
  Variable & data type\\
  Vendor's nickname & string\\
- Subcategories & 3 strings\\
+ Subcategory & string\\
  Title of listing & string\\
  Price & float\\
     \end{tabular}
 \end{table}
 
-From each vendor, we parsed:
-
 \begin{table}
-    \caption{Data scraped from vendor pages}
+    \caption{Data scraped from vendor profile pages}
     \label{datavendor}
     \begin{tabular}{|l|l|}
- Variable & data type\\
+Variable & data type\\
 Vendor's nickname & string\\
-positive and negative feedbacks & 2 integers\\
-revenue & integer 0<=x<=10000USD\\
+count of positive feedbacks & integer\\
+count of negative feedbacks & integer\\
+revenue & integer \\
 PGP key & string, not mandatory for all vendors\\
-Country & string, country from which vendor ships if available\\
+Country vendor ships from & string, not mandatory for all vendors\\
     \end{tabular}
 \end{table}
 
-From feedback page, we parsed the following variables for each feedback:
 \begin{table}
     \caption{Data scraped from feedback pages}
     \label{datafeedback}
@@ -790,7 +781,8 @@ were different for different images.
 Metadata that could potentionally help disclosing user identity,
 like date of creation nad modification, signature and name of software version were the same for all images.
 The software version contained exactly this string:
-"ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31 http://www.imagemagick.org"
+\texttt{"ImageMagick 6.8.9\-9 Q16 x86\_64 2017\-07\-31"}
+
 ImageMagick is popular software library used for manipulating images, so it seems
 that market automatically rewrites EXIF metadata in uploaded images in order to protect privacy of users.
 To test this hypothesis, we created vendor account and uploaded an image with
@@ -799,24 +791,20 @@ saw that EXIF metadata were indeed overwritten.
 
 We tested whether every transaction happening on drug market has its counter transaction
 in bitcoin blockchain.
-We deposited some BTC to cryptomarket and bought a licit virtually deliverable
-product(Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
+We deposited some Bitcoins to cryptomarket and bought a licit virtually deliverable
+product (Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
 There was no follow up transaction happening for weeks after the deposit transaction was done.
-This means that markets don't transfer bitcoins when service or goods are bought.
+This means that market doesn't transfer bitcoins when service or goods are bought.
 All of bitcoin transactions that these drug markets do 
 are accepting bitcoins deposits,
 sending bitcoins to withdrawing users and possibly bitcoin tumbler transactions, if they
 use such service.
-We made multiple deposits and withdrawals from Valhalla in order to track the locations
-where the deposited bitcoins were later transfered and where the withdrawn
-bitcoins came from. These deposits and withdrawals have been
-used in our application for clustering bitcoin addresses owned by Valhalla cryptomarket.
 
-We tried to scan ports of drugmarkets servers and fingerprint their web server,
+We tried to scan ports of Valhalla cryptomarkets server and fingerprint their web server,
 in order to find any vectors for further information gathering. 
-We scanned Valhalla server using netcat and found that the only opened ports are 80 (redirect to https) and 443 (HTTPS),
+We scanned Valhalla server using netcat and found that the only opened ports are 80 (redirects to HTTPS) and 443 (HTTPS),
 which is used by web server. The webserver was popular software called nginx, as we detected
-both from HTTP headers and from webserver fingerprinting tool httprecon.
+both from HTTP headers and from webserver fingerprinting tool \emph{httprecon}.
 The result of port scan and web server fingerprinting doesn't indicate
 any new vectors for gathering data about cryptomarket.
 
@@ -831,17 +819,16 @@ Some of the usernames were just briefly mentioned in some posts on anonymous for
 
 In order to have some bitcoin addresses and bitcoins linked to identities,
 we searched the Internet for pages, where bitcoin addresses are tied to offline or virtual identities.
-The sites that we have decided to scrape were Bitcointalk forum, Reddit, Twitter and bitcoin.info.
+The sites that we have decided to scrape were Bitcointalk forum, Reddit, Twitter and blockchain.info.
 The Bitcointalk is the most popular Internet forum
 related to cryptocurrencies. URL address of profile page on Bitcointalk
 contains the profile number, starting at 1 and being incremented by 1
 for each new profile. It is therefore quite easy to iterate over all forum's profiles,
 including the ones with no posts, and check whether they have associated bitcoin address.
-The scripts bitcointalk-scraper.py visit profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
-The Reddit and Twitter were scraped by twitter-scraper.py and reddit-scraper.py
-The script contains several hardcoded phrases like "Donate bitcoin" and "bitcoin address" and scrapes 
+The script bitcointalk-scraper.py visits profile pages of all profiles on the forum and scrape usernames and bitcoin addresses. 
+Scripts for scraping Reddit and Twitter contain several hardcoded phrases like "Donate bitcoin" and "bitcoin address" and scrapes 
 result of searches for such phrases.
-Bitcoin.info is a webpage that serves primarily as bitcoin blockchain explorer. Secondary,
+Blockchain.info is a webpage that serves primarily as bitcoin blockchain explorer. Secondary,
 it gathers multiple statistics about bitcoin blockchain and allows
 third parties to have their bitcoin address and identity listed on their webpage as well.
 The generated identities are stored as rows in csv files that have 3 columns:
@@ -852,107 +839,107 @@ The generated identities are stored as rows in csv files that have 3 columns:
  \item nickname of the associated identity
 \end{enumerate}
 
+
+
 \section{Using own transactions to identify market wallets}
 \label{Using own transactions to identify market wallets}
 
-Valhalla cryptomarket generates unique deposit address for each new user.
-When user wants to buy something, he needs to deposit bitcoins to deposit address,
-that will top up his account balance and he than uses this account balance to buy stuff.
-Vendor or user can request withdrawing their bitcoins from cryptomarket and so
-the cryptomarket decrease their account balance and sends bitcoin to user's address.
+The Valhalla cryptomarket generates unique deposit address for each new user.
+When the user wants to buy something, he is required to deposit bitcoins to deposit address,
+which will top up his account balance, which he can in turn use to buy the thing he wishes.
+Vendor or user can also request withdrawing their bitcoins from the cryptomarket. When he does so,
+the cryptomarket decreases its account balance and sends bitcoin to the user's address.
 
-For identifying bitcoin addresses that are owned by Valhalla cryptomarket, we 
+For identifying bitcoin addresses owned by the Valhalla cryptomarket, we 
 deposited small amount of Bitcoins to our user accounts on Valhalla cryptomarket and
-performed multiple withdraws by smaller amount than the deposited on to recieve bitcoins back.
-When we requested bitcoin withdrawals, we recieved bitcoins from different addresses
-than the deposit one. We consider the deposit address and all addresses we recieved
+performed multiple withdrawals by smaller amount than the deposited one, to receive bitcoins back.
+When we requested bitcoin withdrawals, we received bitcoins from different addresses
+than the deposit one. We consider the deposit address and all addresses we received
 bitcoins from during withdrawals as owned by cryptomarket.
 
-Knowing just about these addresses would no help us decide
-if someone sent or recieved bitcoins from Valhalla cryptomarket.
-It is common for any service accepting bitcoins to
-use multiple bitcoin addresses, because it's common practice and even default behaviour for
-bitcoin core and other bitcoin wallet software. Unique deposit address for each
-account on Valhalla market is required for each user, so that system can associate
-bitcoin transaction with Valhalla market account.
-In order to solve this issue, we used two heuristics that were widely used
-in previous works \cite{androulaki2013evaluating}\cite{reid2013analysis}
+Knowing these addresses alone wouldn't help us to decide
+whether someone sent or received bitcoins from the Valhalla cryptomarket.
+It is a common practise for any service accepting bitcoins to
+use multiple bitcoin addresses.
+For each Valhalla market account,
+a unique deposit address is required, so that the system can associate
+a bitcoin transaction with a Valhalla market account.
+In order to solve this issue, we used two heuristics used
+in the previous works \parencite{androulaki2013evaluating}\parencite{reid2013analysis}
 for clustering bitcoin addresses belonging to same user.
 
-The first heuristic simply states that all inputs of one transaction belong to same user. This is logical,
+The first heuristic simply states that all inputs of one transaction belong to the same user. This is logical,
 since users generally don't share their private keys and collaborate on creating one transaction.
 When transaction has multiple inputs owned by different bitcoin addresses, we assume that all of these addresses are owned by
-one identity. Schema of the first heuristic is on figure \ref{heur1}.
+one identity. The first heuristic's scheme can be found on figure \ref{heur1}.
 
-The second heuristic focuses on detecting change address described in chapter \ref{btcadd}.
-The goal of second heuristics is to detect change addresses in the transactions.
-When one transaction has two outputs with two different addresses, we assume, that one of them is change
+The second heuristic focuses on detecting a change address described in chapter \ref{btcadd}.
+The goal of the second heuristics is to detect change addresses in the transactions.
+When one transaction has two outputs with two different addresses, we assume one of them is a change
 address and is owned by the sender.
-We than search through the the blockchain for the first occurence of each address of the outputs of the 
-transaction. If one of the output addresses had been used before the transaction and second not,
-than we can safely assume, that the second one is change address\cite{androulaki2013evaluating}.
-Schema of the second heuristic is on figure \ref{heur2}.
+We then search through the the blockchain for the first occurence of each output address of the 
+transaction. If one of the output addresses had been used before the transaction and the second has not,
+we can then safely assume, that the second one is a change address \parencite{androulaki2013evaluating}.
+The second heuristic's scheme is on figure \ref{heur2}.
 
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{heur1}
+    \includegraphics[width=0.6\textwidth]{heur1.pdf}
     \caption{Schema how first heuristic works}
     \label{heur1}
 \end{figure}
 
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{heur2}
+    \includegraphics[width=0.8\textwidth]{heur2.pdf}
     \caption{Schema how second heuristic works}
     \label{heur2}
 \end{figure}
 
-Both of these heuristics are pretty strict and have just a negligible chance of falsely merging
-addresses not belonging to the same user\cite{androulaki2013evaluating}.
-There exist multisignature wallets and also few proposals for anonymization methods that could make
-these heuristics missleading(like CoinJoin mixer and dark wallet) 
-, but these contribute to negligible percentage of transactions.
+Both of these heuristics are pretty strict and have just a slim chance of falsely merging
+addresses not belonging to the same user \parencite{androulaki2013evaluating}.
+Although the concept of multisignature wallets and a few proposed anonymisation methods could make
+these heuristics misleading (like CoinJoin mixer and dark wallet), they only contribute to a 
+negligible percentage of all transactions.
 
 We measured the success of heuristic clustering in two ways.
-We had two accounts on Valhalla market, each performing 1 deposit of 0.011 BTC and immidiatelly 10 withdrawals of
-0.01 BTC, with roughly 0.001 BTC spent on cryptomarket fees.
-For the first account, we performed these transactions on 8.2.2018, the second one on 4.3.2018.
+We had two accounts on Valhalla market, each performing one deposit of 0.011 BTC and immediately 10 withdrawals of
+0.001 BTC, with roughly 0.001 BTC spent on cryptomarket fees.
+For the first account, we performed these transactions on January 11th 2018, for the second one on February 13th 2018.
 
-We created new bitcoin wallet via mycelium mobile app, deposited bitcoins to it
-from bittrex exchange and used that wallet only with first account.
-The second bitcoin wallet was used only by second account and created by coinomi mobile app. 
+We created a new bitcoin wallet via Mycelium mobile app, deposited bitcoins into it
+from bittrex exchange and used the wallet only with the first account.
+The second bitcoin wallet, created by coinomi mobile app, was used only by the latter account. 
 Bitcoins were deposited to it from coinmate.cz bitcoin exchange.
-We installed both these wallets and generated new, never used bitcoin address in each one, and also
-recieved bitcoins from two different exchanges in order to not affect
-our measurement with the fact, that we are owners of both bitcoin addresses.
+We installed both these wallets and generated a new, never used bitcoin address in each one, and also
+received bitcoins from two different exchanges in order to not affect
+our measurement by being the owners of both bitcoin addresses.
 
-We than ran our application and looked into the Neo4j database, that stored
+We then ran our application and looked into the neo4j database, storing
 blockchain transaction graph and associated identities.
-We checked the cryptomarket's address we identified by our deposits and withdrawals,
-if they were clustered as one identity. The table \ref{cluster} shows, how many identities
-were associated with given deposits and withdrawals. The heuristics could not associate our
-deposit addresses, because the deposit addresses just recieved bitcoins from us and not sent them
+We checked the cryptomarket's addresses associated with our deposits and withdrawals,
+whether they were clustered as one identity. The table \ref{cluster} shows, how many identities
+were associated with given deposits and withdrawals. The heuristics could not cluster our
+deposit addresses, because the deposit addresses just received bitcoins from us and not send them
 somewhere else till that time. Only 2 identities managed to contain addresses from both accounts.
 
-We checked, how much bitcoins have these
-identities recieved between 15.1 and 15.2. We scraped Valhalla cryptomarket between 14.2 and 15.2
-and we got data from feedback pages, which we used to estimate 
+Afterwards, we have checked, how much bitcoins have these
+identities received between 14. 1. and 14. 2. We scraped the Valhalla cryptomarket between 14. 2. and 15. 2.
+and received data from feedback pages, which we used to estimate 
 the minimal amount of bitcoins users spent over the previous month on Valhalla market.
-We estimated in chapter \ref{stats}, that users spent at least 527730EUR during that one month time.
-With average bitcoin price 8219EUR it roughly equals 527730/8219 = 64.2BTC
-The amount of bitcions these identities recieved is also in table \ref{cluster}.
+We estimated in chapter \ref{stats}, that users spent at least 527\,730 EUR during that one month period.
+With average bitcoin price 8\,219EUR it roughly equals to 64.2 bitcoins.
+The amount of bitcions these identities received is also in table \ref{cluster}.
 Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
-Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71BTC(9\%) out of estimated
-64.2 BTC the market recieved during that one month timeframe.
+Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71(9\%) bitcoins out of estimated
+64.2~bitcoins the market received within that one month timeframe.
 
 \begin{table}
-    \caption{Mapping of found identities to addresses used in deposits and withdrawals
-    each row in table represent one identity and numbers indicate how many deposits/withdrawals from
-    our accounts were associated with that identity}
+    \caption{Mapping of found identities to addresses used in deposits and withdrawals}
     \label{cluster}
     \begin{tabular}{|l|l|l|l|}
     Identity &\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from second account}
-    & \multicolumn{1}{|p{2cm}|}{\centering recieved \\ bitcoins }\\ 
+    & \multicolumn{1}{|p{2cm}|}{\centering received \\ bitcoins }\\ 
     1&   1:0 & 0:0 & 0.011  \\ 
     2&   0:0 & 1:0 & 0.011  \\ 
     3&   0:4 & 0:1 & 2.15  \\ 
@@ -970,16 +957,16 @@ Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to 
 
 \chapter{Application for searching nearby identified addresses}
 
-This chapter describes our application for searching in gathered data.
+This chapter describes our application for analyzing the gathered data.
 The application architecture is depicted in figure \ref{application_architecture}.
-It consists of multiple python scripts that falls into 5 categories.
+It consists of multiple python scripts, divided into 5 categories.
 
 \begin{itemize}
  \item Scripts for scraping Valhalla market
- \item Scripts that parse bitcoin blockchain and also scrape data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
- \item The script which imports data to the database, creates indexes and runs heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
+ \item Scripts parsing bitcoin blockchain and data from publicly available sites mentioned in section \ref{Publicly available data scraping}.
+ \item The script for importing data to a database, creating indexes and running heuristics mentioned in chapter \ref{Using own transactions to identify market wallets}.
  \item Webserver that handles GUI requests and retrieves data from database.
- \item The web GUI written in HTML/JS/CSS for sending requests to webserver and visualisation and search in retrieved data. 
+ \item The web GUI written in HTML/JS/CSS for sending requests to webserver, visualisations and searches in the retrieved data. 
 \end{itemize}
 
 
@@ -990,41 +977,40 @@ It consists of multiple python scripts that falls into 5 categories.
     \label{application_architecture}
 \end{figure}
 
-Scripts for scraping Valhalla market in order to get statistical data used in next chapter are in statistics folder.
-Script \emph{listing-scraper.sh} goes through Valhalla listings and download the HTML source code of these pages.
-Script \emph{listing-parser.py} process the downloaded pages and generates file \emph{listings.csv} with informations about listings.
+Scripts for scraping Valhalla market in order to get data used in next chapter are in statistics folder.
+Script \emph{listing-scraper.sh} goes through Valhalla listings and downloads the HTML source code of these pages.
+Script \emph{listing-parser.py} process the downloaded pages and generates the \emph{listings.csv} file with information about listings.
 \emph{Seller-scraper.py} opens \emph{listings.csv} and downloads HTML source of vendors' profile pages. 
-\emph{Seller-parser.py} proccess downloader vendor's profile pages and generates \emph{sellers.csv} and \emph{feedbacks.csv}.
-The variables and data types stored in these csv files are described in chapter \ref{Valhalla cryptomarket webscraping}
+\emph{Seller-parser.py} proccesses the downloaded vendor's profile pages and generates \emph{sellers.csv} and \emph{feedbacks.csv}.
+The variables and data types stored in these csv files are described in chapter \label{Valhalla cryptomarket webscraping}
 in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated csv files for
-bringing statistics about Valhalla cryptomarket in the last chapter.
+assembling Valhalla cryptomarket statistics contained in the last chapter.
 
-The scripts for obtaining data the application needs are in folder \emph{identity--scraping}.
-Each of scripts named scraper\_\{bitcointalk, blockchaininfo, reddit, twitter\}.py scrape webpage mentioned
-in it's name and generates a csv file with 3 collumns:
-bitcoin addres, URL where was the address scraped and associated identity (e.q. nickname).
-Script blockchain\_to\_csv.py uses bitcoin-core api to iterate through bitcoin blockchain 
-and generate several csv files with the data about transactions and addresses from bitcoin blockchain that are needed by application.
-The script generates multiple csv files, that will be later imported to Neo4j database, as well as 
+The scripts for obtaining data for the application can be found in the \emph{identity--scraping} folder.
+Each one of the scripts scrape webpage mentioned
+in its name and generates a csv file with 3 columns:
+bitcoin address, URL where the address was scraped and the associated identity (eg. nickname).
+Script blockchain\_to\_csv.py uses bitcoin-core API to iterate through bitcoin blockchain 
+and generate several csv files with the transaction data and bitcoin blockchain addresses, which are later imported into neo4j database, as well as 
 files with identities.
 
-In order to create a tool that will effectively search and visualize blockchain data and the 
-data we scraped from webpages, we need to store the blockchain and identity data locally in that way, so that common
-graph algorithms, heuristics and searching can be effectively performed.
+In order to create a tool for effectively searching and visualising both blockchain and web-scraped
+data, we need to store the blockchain and identity data locally in a way allowing an effective
+performance of the heuristic analysis.
 The natural representation of transactions happening between
 bitcoin addresses is a graph, so we decided to import all the data into Neo4j graph database. It's one of the
-most widely used graph database with native support for common graph algorithms.
-Simple representation with addresses as nodes and transactions between them as edges in not
-sufficient for our case, because we need to represent
+most widely used graph databases, with native support for common graph algorithms.
+Simple representation with addresses as nodes and transactions between them as edges was not
+sufficient for our case, because we needed to represent
 outputs, inputs and time of transactions in the database in order to be able to compute previously mentioned heuristics. 
 The graph schema is in figure \ref{neo4jschema}. The entities in the schema are represented as vertices
  in the database and relationships between them are edges.
 
-The importing script \emph{csv\_to\_neo4j.py} is responsible for parsing
-previously generated csv files and importing the data into Neo4j database.
-Having csv files as interminiary step between parsing blockchain and importing it to database
-is useful for debugging application and also provides easy way to
-use application with different blockchain or customly generated data.
+The importing script \emph{csv\_to\_db.py} is responsible for parsing
+previously generated csv files and importing the data into neo4j database.
+Having csv files as interminiary step between parsing blockchain and importing it to the database
+proved to be useful for debugging application, while it also provided an easy way to
+use the application with different blockchain or custom-generated data.
 
 \begin{figure}[!htb]
     \centering
@@ -1033,27 +1019,27 @@ use application with different blockchain or customly generated data.
     \label{neo4jschema}
 \end{figure}
 
-Script \emph{cluster\_identities.py} connects to database and run the heuristics from the chapter
+Script \emph{heuristics.py} connects to database and runs the heuristics mentioned in the chapter
 \ref{Using own transactions to identify market wallets}.
-It labels each address in our blockchain transaction graph
-with unique ID representing unique identity. The outputs/inputs owned by the each address are labeled
-with same ID. Script then runs first and then second heuristic,
-each time rewriting IDs of merged address(and it's outputs/inputs), so that 
-addresses marked by the heuristic as belonging to the same identity have same ID.
-The webserver.py connects to local Neo4j database with the schema and data generated by previous
-scripts and starts local flask webserver that provides web gui on port 5000.
+It then labels each address in our blockchain transaction graph
+with a unique ID, representing unique identity. The outputs/inputs owned by the each address are labeled
+with the same ID. Script then runs the first and then the second heuristic,
+each time rewriting IDs of merged address(and its outputs/inputs), so that 
+addresses marked by the heuristic as belonging to the same identity have the same ID.
+The \emph{webserver.py} connects to local neo4j database with the schema and data generated by previous
+scripts, and starts local flask webserver that provides a web GUI on port 5000.
 
-The GUI has one input form, where user should write the bitcoin address he is interested in.
-The GUI than shows information about the inserted address, nearby addresses and found identities.
-It consists of 3 parts, input form, table and two pie charts. The screenshot of GUI can be seen on picture \ref{guiscreen}.
-The first part is simple HTML form where user submit bitcoin address he is interested in.
-After submission, the application search in Neo4j data and after a while,
+The GUI has one input form, where a user of our application is supposed to write the bitcoin address he is interested in.
+The GUI then shows information about the inserted address, nearby addresses and found identities.
+It consists of 3 parts, input form, a table, and two pie charts. The screenshot of GUI can be seen on picture \ref{guiscreen}.
+The first part is a simple HTML form where user submits bitcoin address he is interested in.
+After submission, the application searches in the neo4j data and after a while,
 the other parts of GUI are updated with information about given address.
-The table in upper right show list of nearby addresses with known identity. The distance is number of transactions
-between inserted address and founded address in table. It also shows the URL where the identity was found
-and amount of bitcoins that were transfered between searched address and address in table.
-In the lower part, there are two pie charts. The first pie-chart shows the amount of bitcoins that were recieved by the inserted address
-and what percentage of recieved bitcoins was the application able to link to some identity.
+The table in upper right shows a list of nearby addresses with known identities. The distance is number of transactions
+between the inserted address and the address found in our table. It also shows the URL where the identity was found
+and amount of bitcoins that were transferred between the searched address and the address in table.
+In the lower part, there are two pie charts. The first pie chart shows the amount of bitcoins that were received by the inserted address
+and what percentage of received bitcoins was the application able to link to some identity.
 The second pie chart shows the same information for outgouing bitcoins, the percentage of bitcoins that were sent from inserted address
 and ended up in address that we were able to find associated identity.
 
@@ -1065,17 +1051,17 @@ and ended up in address that we were able to find associated identity.
     \label{guiscreen}
 \end{figure}
 
-\chapter{Statistics of Valhalla cryptomarket}
+\chapter{Valhalla cryptomarket statistics}
 \label{stats}
 
 We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
-There were 17314(68\%) listings related to selling drug substances, the rest
-were related to ebooks, premium accounts, guns, fake IDs etc..
-Vendors had from 1(90 vendors) to 1083(1 vendor)
+There were 17\,314 (68 \%) listings related to selling drug substances, the rest
+were related to ebooks, premium accounts, guns, fake IDs etc.
+Vendors had from 1 (90 vendors) to 1083 (1 vendor)
 active listings, with average of 25.69 (SD = 58.06)
-and median = 11.00 listings per vendor.
+and median of 11.00 listings per vendor.
 Most vendors tend to have just few active listings,
-as it can be seen on histogram \ref{listingsxsellers}.
+as can be seen on histogram \ref{listingsxsellers}.
 The histogram does not show 19 vendors with more than 200 listings.
 
 \begin{figure}[!htb]
@@ -1086,11 +1072,11 @@ The histogram does not show 19 vendors with more than 200 listings.
     \label{listingsxsellers}
 \end{figure}
 
-Vendors were shipping drugs from 39 distinct countries,
-the frequency of countries the vendors were shipping from is in table \ref{shipcount}.
-Table \ref{richvendors} list countries of vendors that have achieved 10000EUR(150 vendors \~ 15\% ) or more in revenue.
+The vendors were shipping drugs from 39 distinct countries.
+The occurence of countries as the shipping origin can be found in the table \ref{shipcount}.
+The table \ref{richvendors} lists countries of vendors that have achieved 10\,000EUR (150 vendors, 15\% ) or more in their revenue.
 Valhalla was originally estabilished as a local Finnish crypto market,
-that seems to be the reason for surprisingly many vendors shipping from Finland and also large percentage
+which might be the reason for surprisingly many vendors shipping from Finland and also large percentage
 of Finns among high revenue vendors. They might be on the market since
 the time it was not internationally popular and had more time to generate revenue.
 
@@ -1098,7 +1084,7 @@ the time it was not internationally popular and had more time to generate revenu
     \caption{Countries that vendors ship from}
     \label{shipcount}
     \begin{tabular}{|l|l|}
-    Countries vendors are shipping from  & Count of vendors\\
+    Country  & Count of vendors\\
         Finland                                      & 28  \\ 
         United Kingdom                               & 23  \\ 
         United States                                & 16  \\ 
@@ -1146,91 +1132,86 @@ Unknown & 69 \\
     %\caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
     }
     
-\caption{Distribution  of vendors by their revenue}
+\caption{Distribution of vendors by their revenue}
 \end{figure}
 
-We looked at total revenue of vendors, which is depicted in figure \ref{total-rev}. 
+We looked at the total revenue of vendors, as depicted in figure \ref{total-rev}. 
 The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
-There are two major groups of venders regarded to their revenue. 
-Majority(598 vendors \~ 60\%) of vendors have not had any positive or negative feedbacks and all of these vendors
-but 3 earned less than 300EUR on cryptomarket over their lifetime.
-Note, that we were able to scrape just the vendors with active listings,
+There are two major groups of vendors regarded to their revenue. 
+Majority (598 vendors, 60\%) of vendors have not had any\newline positive or negative feedbacks and all of these vendors
+(except for 3)\newline earned less than 300EUR on cryptomarket over their lifetime.
+Please note we were able to scrape just the vendors with active listings,
 so there might be much more vendors who stopped using Valhalla after
 not being able to earn substantional amount of money.
-The second group is 150 vendors (15\%) who earned 10 000 EUR or more.
+The second group is 150 vendors (15 \%) who earned 10 000 EUR or more.
 
-Vendors who had high revenue maintained high ratio of positive feedbacks.
-When counting only vendors with more than 10 reviews(304 vendors \~ 31\%),
+Vendors, who had high revenue, maintained high ratio of positive feedbacks.
+When counting only vendors with more than 10 reviews (304 vendors, 31\%),
 the mean is 93.7\% and median 98.3\% of positive feedbacks.
 Vendors with 1 to 10 reviews had on average 27.2\% of positive feedbacks.
 Figure \ref{posratrev} shows the the distribution of vendors with similar
-positive feedbacks ratio and revenue nad its LOESS curve.
-These findings indicate, that market is competitive and
+positive feedbacks ratio, their revenues and its LOESS curve.
+These findings indicate, that market is heavily competitive and
 having bad reputation during first few sales shuts down any opportunity
-for the vendor to continue selling his goods and that majority of vendors don't succeed or use
-market just sporadically.
+for the vendor to continue selling his goods. It also concludes that majority of vendors don't succeed or use
+the market merely sporadically.
 
 The figure \ref{listingxprice} shows distribution of prices of all listings in
- the market on the left graph and on the right graph is the distribution of prices
- in feedbacks. Some listings might be counted multiple times or not at all
+ the market (on the left graph) and the price distribution in feedbacks (on the right).
+ Some listings might be counted multiple times or not at all
  in the right graph, because one listing might be bought several times or not at all
- and therefore generate multiple or no feedbacks. We expect that distribution
- of prices in these feedbacks reflects more accuratelly the prices of the goods or services
+ and therefore generate multiple or no feedbacks. We expect that the price distribution
+ in these feedbacks reflects more accuratelly the prices of the goods or services
  that are actually bought at market, because feedbacks can be given only by users who
  bought something from vendor. We calculated price of listings in EUR as 
  price in bitcoin multiplied by the average price of bitcoin for 30 days before the scraping
- (8219 EUR for 20.1.2018 - 20.2.2018, daily prices taken from blockchain.info).
+ (8219 EUR for 14.1.2018 - 14.2.2018, daily prices taken from blockchain.info).
  
  The average price of listing is 336.2 Eur(1368.2 SD!) with median of 71.3 Eur,
  while feedbacks had average 82.7Eur(150.7 SD) with median of 55 Eur.
-  There were only 22(0.3\%) feedbacks with price > 1000EUR
- and only 5(0.01\%) feedbacks with price > 2000 Eur.
-  There were 1533(6.05\%) active listings
- with price greater than 1000 EUR and
- 673(2.7\%) listings with price greater than 2000 Eur.
- The price distributions in \ref{listingxprice} shows,
- that while there exist a lot of free or very expensive listings,
- majority(5937, 93\%) of trades were between 0 and 200 EUR.
+  There were 1533(6.05\%) active listings with price greater than 1000 EUR but 
+  only 22(0.3\%) feedbacks with price greater than 1000EUR.
+ The price distributions in \ref{listingxprice} show,
+ that while there is a lot of free or very expensive listings,
+ the majority(5937, 93\%) of trades were between 0 and 200 EUR.
  There were 115 free listings on the market,
- but no one of them was mantioned in feedbacks.
+ but none of them was mentioned in the feedbacks.
  The free listings had titles like "CARDING SERVICE *FREE*",
   "Free Carding Tutorial 2017" and "FREE SAMPLE 84\% MDMA CRYSTAL ROCKS"
  The titles of expensive listings don't indicate that 
-these listings are somehow special except the price.
+these listings are somehow special, except for the higher amount of drugs offered.
 
 \begin{figure}[!htb]
 \subfloat{
 \label{listingxprice}
     \centering
     \includegraphics[width=0.5\linewidth]{listingxprice}
-    %\caption{Prices of listings}
 }
 \subfloat{
 \label{flistingxprice}
     \centering
     \includegraphics[width=0.5\linewidth]{flistingxprice}
-    %\caption{Prices of listings in feedbacks}
     }
     
 \caption[justification=centering]{Distribution of prices in listings and feedbacks\newline }
 \end{figure}
 
 We calculated the last month revenue for each category
-by summing the price over all feedbacks for listings in given category.
+by summing up the prices over all feedbacks for listings in given category.
 This leads to minimal revenue, because feedbacks
-can be given only if the trade happened on cryptomarket and 
+can be given only if the trade happened on cryptomarket, while 
 trades happening with no given feedbacks are also possible.
-The total revenue over one month, amount of listigs, feedbacks and market share for given categories 
-is in table \ref{categories}.
-Market share is a revenue of category divided by total revenue from all categories, which was 527730EUR.
-Average price of occured trades was similar in each category
-with two outliers. Opiates, which have the high price/dose ratio and 
-self-defence, which had only 4 trades, 2 of them were custom listings and 2 of them were guns.
-Custom listings contains no special tag and no description of any goods/services.
+The total revenue over one month, amount of listigs, feedbacks and market shares for given categories 
+can be found in the table \ref{categories}.
+Market share is a revenue of category divided by total revenue from all categories, which was 527\,730 EUR.
+The average price of occured trades was similar in each category
+with two outliers. Opiates, which have a high price/dose ratio and 
+self-defense, which only had 4 trades, 2 of them custom listings and 2 of them guns.
+Custom listings contain no special tag and no description of any goods nor services.
 They contain just titles like "custom listing for Paul", "custom 013" and so on.
 We found 300 listings with word "custom" in their title. 
-We think that vendors and buyers use these custom listings in order to be able to protect themselves
-by cryptomarket escrow service for already arranged deal.
+We presume that vendors and buyers use these custom listings in order to be able to protect themselves
+by cryptomarket escrow service, in case of a pre-arranged deal.
 
 
 \begin{table}
@@ -1256,12 +1237,12 @@ Classifieds &  649 & 18 & 2182 &  121  & 0.4\% \\
 \end{table}
 
 
-Most of the vendors had listings in just few categories.
-The graph \ref{catxrev} shows amount of vendors with given revenue and number of different subcategories they have 
-active listings in. Most vendors sell goods just in few categories, hovewer, vendors with 10000EUR or more in
-revenue tend to have listings in more categories. The boxchart \ref{boxcat} the distribution of vendors revenue based on category they were
-selling in. We have not count vendors with 0 revenue for the boxchart chart. If vendor was selling in multiple categories, we
-divided his revenue by the number of categories and counted him in both.
+Most of the vendors had listings in only a few categories.
+The graph \ref{catxrev} shows the amount of vendors with given revenue and number of different subcategories they have 
+active listings in. Most vendors sell goods only in a few categories, hovewer, vendors with 10\,000EUR or more in
+revenue tend to have listings in more categories. The boxchart \ref{boxcat} shows the distribution of vendors revenue
+based on the category they were selling in. We have not counted vendors with 0 revenue for the boxchart.
+If a vendor was selling in multiple categories, we divided his revenue by the number of categories and counted him within all of them.
 
 \begin{figure}[!htb]
     \centering
@@ -1278,29 +1259,29 @@ divided his revenue by the number of categories and counted him in both.
 \end{figure}
 
 
-Vendor pages contains counts of feedback gathered over lifetime, these were used
-in \ref{posratrev}. Vendors also has feedback pages, where feedbacks younger than
+Vendor pages contain counts of feedback gathered over lifetime, these were used
+in \ref{posratrev}. Vendors also have feedback pages, where feedbacks younger than
 1 month contain first two and last two characters of buyers username,
-, the rounded total number and price of trades performed by buyer.
+the rounded total number and price of trades performed by the buyer.
 We used these feedbacks to gather informations about buyers.
 
-There are possible $36^4=1679616$ combinations of 4 alfanumerical characters.
+There are $36^4=1679616$ possible combinations of 4 alphanumerical characters.
 From our 6000 feedbacks, we gathered 2433 unique combinations of four letters from username,
 when added rounded number of trades and buyer's total spending we got 2654.
 It is highly probable that some different buyers have the same username prefix, suffix, amount of 
 trades and revenue, because when considering buyers total spending and trades, we managed to increase
-the number of identified buyers. Buyers total spending and total performed trades are rounded just to few distinct values, so the
+the number of identified buyers. Buyers total spending and total performed trades were rounded to only a few distinct values, so the
 following statistics are just estimates.
 
-Each buyer have bought on average goods for 1176EUR through all his trades on Valhalla market.
-Just 129(5\%) of buyers had bought goods with worth rounded to 10000EUR in total,
- 1289(50\%) buyers have spendings 500EUR or less.
+Each buyer have on average bought goods for 1176EUR through all his trades on Valhalla market.
+Just 129 (5\%) of buyers had bought goods worth 10\,000EUR or more,
+ 1289 (50\%) buyers spent 500EUR or less.
 This distribution is similar to revenue distribution of vendors, where
 vast majority of actors transfer just small amounts of value through Valhalla market and
-just extremely small percentge of actors trade on market at bigger scale.
-The average price of the one trade (82.7 EUR) and the average of lifetime spending (1176EUR)
+merely an extremely small percentge of actors trade on the market on a bigger scale.
+The average price of one trade (82.7 EUR) and the average of lifetime spendage (1176EUR)
 is way below the amount someone who actively resell drugs for profit would buy.
-The distribution of buyers total spending is on figure \ref{buyerxspend}.
+The distribution of buyers total spendage is on the figure \ref{buyerxspend}.
 
 \begin{figure}[!htb]
 \hspace*{-3cm}
@@ -1321,12 +1302,12 @@ The distribution of buyers total spending is on figure \ref{buyerxspend}.
 
 \chapter{Conclusions and future work}
 
-We were succesfull with scraping Valhalla cryptomarket and
-bringing up meaningful and intersting statistics about its vendors and users.
-Our statistical findings fits into the previously published desciptions
-of cryptomarkets, but we also found some statistics where Valhalla market is outlier and
+The Valhalla cryptomarket scraping was successful and
+it brought up meaningful and intersting statistics about its vendors and users.
+Our statistical findings fit into the previously published desciptions
+of cryptomarkets, but we also found some statistics where Valhalla market is an outlier and
 came up with reasons why is it so.
-We scraped Valhalla market once, but the data about the feedbacks were
+We scraped Valhalla market once, but the feedbacks data were
 related to the time frame of one month. Continously monitoring 
 Valhalla cryptomarket for longer periods of time could enchance the statistical description
 with data about changes of various trends on this market over time.
@@ -1334,30 +1315,31 @@ with data about changes of various trends on this market over time.
 Our application is fully working and production ready, it 
 finds nearest addresses with associated identities for given address.
 The application could be extended in multiple ways. We used two
-heuristics that have lowest risk of falsely clustering addresses belonging to different identities.
-The heuristics have not clustered all the addresses and transactions that have been done by crypto market,
-hovewer we found, that with just tens of deposits and withdrawals between us and market,
+heuristics that have the lowest risk of falsely clustering addresses belonging to different identities.
+The heuristics have not clustered all the addresses and transactions done within the cryptomarket,
+hovewer we found, that with just tens of deposits and withdrawals between us and the market,
 we were able to identify significant percentage of cryptomarket's cashflow over given month.
-The price that we payed in fees in these transaction was alltogether less than 100 dollars. 
-Perpetual depositing and withdrawals over prolonged period of time seems financially feasible
+The price that we paid in fees in these transactions was less than 100 dollars altogether. 
+Perpetual depositing and withdrawals over a prolonged period of time seems financially feasible
 and might lead to disclosing majority of cryptomarkets addresses and transaction.
 
-Application could be extended by adding more heuristics for clustering addresses. Some of these
-heuristics have been described in \cite{androulaki2013evaluating}.
-These heuristics are not based just on graph of bitcoin transactions, but also
-on expected behaviour of users and data that can be obtained by continously running one or multiple
-bitcoin nodes. These heuristics are less reliable, but offer more options to cluster addresses of same owner.
+The application could be extended by adding more heuristics for clustering addresses.
+These heuristics are not based merely on a bitcoin transactions graph, but also
+on expected behaviours of users and data obtainable by continously running one or multiple
+bitcoin nodes. These heuristics are less reliable, but offer more options to cluster addresses of the same owner.
 
-The whole application backend can be run on consumer grade notebook. Backend database as indexed and utilizes memory well
-, requests from GUI takes at most 30 seconds to complete. This is to application advantage,
-hovewer application set up takes long time, for the simple reason that bitcoin
+The whole application backend can be run on consumer grade notebook. Backend database as indexed and utilizes memory well,
+the GUI requests take at most 30 seconds to process. This represents a great advantage of the application,
+hovewer the application set up takes a long time, for the simple reason that bitcoin
 blockchain consists of roughly 150GB of data and these must be inserted into database, indexed
 and processed by heuristics.
 For setting the application up on server and having users access it remotely,
 different options viable for storing and retrieving data on server hardware
-(for example in memory database if RAM is big enough can be considered.
+(eg. a significant RAM extension to decrease swapping delays) can be considered.
 
-%\printbibliography{}
+\printbibliography{}
 
 
 \end{document}
+
+%statistics of valhalla cryptomarket - pozor, nazev kapitoly zmenen na "Valhalla cryptomarket statistics", a je odkazovany v prvni casti dokumentu

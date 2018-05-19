@@ -128,9 +128,6 @@
       \range{pages}{18}
     \endentry
     \entry{fbi10}{book}{}
-      \list{location}{1}{%
-        {XXX}%
-      }
       \list{publisher}{1}{%
         {Federal bureau of investigation}%
       }
