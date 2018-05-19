@@ -1,79 +1,73 @@
+from __future__ import print_function
+import json
+from pprint import pprint
+from subprocess import check_output
+from flask import make_response
+from functools import wraps, update_wrapper
+from datetime import datetime
+import sys
+import requests
 
-    distance_graph_req=""" 
-    var distancedata=[ { x: 0, y: 0, c: 0, size: 0 }, { x: 2, y: 3, c: 0, size: 500 }, { x: 30, y: 70, c: 1, size: 800 }, { x: 5, y: 2, c: 2, size: 500 }, { x: 4, y: 4, c: 3, size: 1000 } ] 
-    """
+heur_init_req = """MATCH (first:Address ) 
+set first.userid = ID(first)
+"""
 
-    tx_graph_req = """
-    var transactionsdata = { "nodes": [ {"id": "A1", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500}, {"id": "A2", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500}, {"id": "A3", "text": "vstupni TX", "group": 1, "value": 500, "value2": 500}, {"id": "A", "text": "Adresa", "group": 2, "value": 500, "value2": 500}, {"id": "B", "text": "vystupni TX", "group": 3, "value": 300, "value2": 300}, {"id": "C", "text": "vystupni TX", "group": 3, "value": 500, "value2": 500}, {"id": "D", "text": "vystupni TX", "group": 3, "value": 100, "value2": 100}, {"id": "E", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50}, {"id": "F", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50}, {"id": "G", "text": "vystupni TX", "group": 3, "value": 50, "value2": 50} 
-  ], "links": [ {"source": "A1", "target": "A", "value": 1}, {"source": "A2", "target": "A", "value": 1}, {"source": "A3", "target": "A", "value": 1}, {"source": "A", "target": "B", "value": 1},
-    {"source": "A", "target": "C", "value": 1}, {"source": "A", "target": "D", "value": 1}, {"source": "D", "target": "E", "value": 1}, {"source": "D", "target": "F", "value": 1},
-    {"source": "F", "target": "G", "value": 1} ] }
+heur1_req =  """MATCH (first:Address )<-[:USES]-(i1:Output)
+-[:INPUT]-(tx:transaction)<-[:INPUT]-(i2:Output)-[:USES]-(second:Address),
+where not first.address != second.address 
+set first.userid = min([first.userid,second.userid])
+set second.userid = min([first.userid,second.userid])
+"""
 
-    """
+twoOutputTx_req =  """MATCH (t:transaction)-[:OUTPUT]->(o:Output) 
+WITH t,count(o) as rels
+WHERE rels = 2
+RETURN t"""
 
-    mock_data = ""
+r = requests.post(' http://localhost:7474/db/data/transaction/commit',
+   json={ "statements" : [{ "statement" : heur_init_req } ] })
 
-    tabledata_rec_req =  """MATCH (start:Identity)-[]-(strt:Address )<-[:USES]-(o1:Output)
-    -[:INPUT|OUTPUT*1..6]->(o2:Output)-[:USES]->(end:Address {address: '""" + address+ """'}),
-    p = shortestpath((o1)-[:INPUT|OUTPUT*1..6]->(o2))
-    with start,strt,p
-    limit 2
-    return start,strt,p"""
-
-    tabledata_send_req = """MATCH (end:Address {address: '""" + address+ """'} )<-[:USES]-(o1:Output)
-    -[:INPUT|OUTPUT*1..6]->(o2:Output)-[:USES]->(strt:Address)-[]-(start:Identity),
-    p = shortestpath((o1)-[:INPUT|OUTPUT*1..6]->(o2))
-    with start,strt,p
-    limit 2
-    return start,strt,p"""
-
-    total_recieved_req =  """MATCH (a:Address {address: '""" + address + """' })<-[:USES]-(o),
-          (o)-[r:INPUT|OUTPUT]-(t)
-        WITH a, t,
-        CASE type(r) WHEN "OUTPUT" THEN sum(o.value) ELSE -sum(o.value) END AS value
-        WITH a, t,  sum(value) AS value
-            WHERE value > 0
-            RETURN sum(value);"""
-
-    total_sent_req =  """MATCH (a:Address {address: '""" + address + """' })<-[:USES]-(o)
-            WHERE (o)-[:INPUT]->()
-            RETURN sum(o.value)"""
-
-
+if(r.status_code != 200):
+    print("Error during heuristics setup")
+    sys.exit()
 
     r = requests.post(' http://localhost:7474/db/data/transaction/commit',
-     json={ "statements" : [{ "statement" : tabledata_send_req }
-    , { "statement" : tabledata_rec_req }
-    , { "statement" : total_recieved_req }
-    , { "statement" : total_sent_req }
-     ]
-      })
-
+       json={ "statements" : [{ "statement" : twoOutputTx_req } ] })
 
     if(r.status_code != 200):
-        return app.send_static_file("error.html")
+        print("Error during two output tx search")
+        sys.exit()
+        txs = r.json() 
+        txs = txs['results'][0]['data']
+        for tx in txs:
+            txid = tx['row'][0]['hash']
+            total_recieved_req =  """
+            MATCH (t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o2:Output),
+            MATCH (t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o1:Output),
+            where not o1.hash != o2.hash
+            return o1,o2
+            """ 
+            r = requests.post(' http://localhost:7474/db/data/transaction/commit',
+               json={ "statements" : [{ "statement" : heur2_req } ] })
 
-    data = r.json() 
-    print("==============")
-    print(data)
-    print("==============")
+            out = r.json() 
+            first  = out['results'][0]['data']['row'][0]['hash']
+            second = out['results'][0]['data']['row'][1]['hash']
 
-    # compute distance table
-    tabrows = parsetable(data)
-    table_data_string = "var tabledata =" 
-    table_data_string += json.dumps(tabrows)
+            first_req =  """
+            MATCH (o1:Output {hash: '""" + first + """' })<-[:OUTPUT|INPUT]-(tx:transaction),
+            return tx
+            """ 
+            r = requests.post(' http://localhost:7474/db/data/transaction/commit',
+               json={ "statements" : [{ "statement" : heur2_req } ] })
 
-    # compute pie charts
-    recieved = parserecieved(data)
-    sent = parsesent(data)
+            find_earliest_block()
 
-    pie_recieved_string = compute_recieved(tabrows,recieved)
-    pie_sent_string = compute_sent(tabrows, sent)
-    print(pie_recieved_string)
-    print(pie_sent_string)
+            second_req =  """
+            MATCH (o1:Output {hash: '""" + second + """' })<-[:OUTPUT|INPUT]-(tx:transaction),
+            return tx
+            """ 
 
-
-    text_file = open("static/data.js", "w")
-    text_file.write(mock_data + table_data_string + "\n" + pie_recieved_string + "\n" + pie_sent_string)
-    text_file.close()
+            r = requests.post(' http://localhost:7474/db/data/transaction/commit',
+               json={ "statements" : [{ "statement" : heur2_req } ] })
 

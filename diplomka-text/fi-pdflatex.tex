@@ -1023,7 +1023,7 @@ use the application with different blockchain or custom-generated data.
 
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{neo4j-schema}
+    \includegraphics[width=1\textwidth]{neo4j-schema.pdf}
     \caption{Neo4j database ER diagram}
     \label{Neo4jschema}
 \end{figure}
@@ -1132,16 +1132,16 @@ Unknown & 69 \\
     \centering
     \includegraphics[width=0.5\linewidth]{total-rev}
 %    \caption{Vendors by total revenue}
-\label{total-rev}
 }
 \subfloat{
     \centering
     \includegraphics[width=0.5\linewidth]{posratrev}
-\label{posratrev}
     %\caption{Vendors revenue related to ratio of positive feedbacks with linear regression}
     }
     
 \caption{Distribution of vendors by their revenue}
+\label{total-rev}
+\label{posratrev}
 \end{figure}
 
 We looked at the total revenue of vendors, as depicted in figure \ref{total-rev}. 
@@ -1192,17 +1192,17 @@ these listings are somehow special, except for the higher amount of drugs offere
 
 \begin{figure}[!htb]
 \subfloat{
-\label{listingxprice}
     \centering
     \includegraphics[width=0.5\linewidth]{listingxprice}
 }
 \subfloat{
-\label{flistingxprice}
     \centering
     \includegraphics[width=0.5\linewidth]{flistingxprice}
     }
     
 \caption{Distribution of prices in listings and feedbacks}
+\label{listingxprice}
+\label{flistingxprice}
 \end{figure}
 
 We calculated the last month revenue for each category
@@ -1295,7 +1295,6 @@ The distribution of buyers total spendage is on the figure \ref{buyerxspend}.
 \begin{figure}[!htb]
 \hspace*{-3cm}
 \subfloat{
-\label{buyerxspend}
     \centering
     \includegraphics[scale=0.4]{buyerxspend}
     %\caption{Rounded amount the buyers totally spent on Valhalla market}
@@ -1306,6 +1305,7 @@ The distribution of buyers total spendage is on the figure \ref{buyerxspend}.
     %\caption{Distribution of total trades}
 }
 \caption{Distribution of buyers total spending and total performed trades}
+\label{buyerxspend}
 \end{figure}
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  19 MAY 2018 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  20 MAY 2018 01:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2100,109 +2100,110 @@ Package pdftex.def Info: images/application_architecture.jpg used on input line
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
  [31 <./images/application_architecture.jpg>]
-<images/neo4j-schema.jpg, id=557, 603.25375pt x 481.8pt>
-File: images/neo4j-schema.jpg Graphic file (type jpg)
+<images/neo4j-schema.pdf, id=557, 602.25pt x 318.18875pt>
+File: images/neo4j-schema.pdf Graphic file (type pdf)
 
-<use images/neo4j-schema.jpg>
-Package pdftex.def Info: images/neo4j-schema.jpg used on input line 1026.
-(pdftex.def)             Requested size: 361.34999pt x 288.59702pt.
- [32 <./images/neo4j-schema.jpg>]
-<images/shot.png, id=564, 1332.98pt x 911.405pt>
+<use images/neo4j-schema.pdf>
+Package pdftex.def Info: images/neo4j-schema.pdf used on input line 1026.
+(pdftex.def)             Requested size: 361.34999pt x 190.91957pt.
+ [32 <./images/neo4j-schema.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/neo4j-schema.pdf): PDF inclusi
+on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
+ored.
+>] <images/shot.png, id=579, 1332.98pt x 911.405pt>
 File: images/shot.png Graphic file (type png)
  <use images/shot.png>
 Package pdftex.def Info: images/shot.png used on input line 1058.
 (pdftex.def)             Requested size: 361.34999pt x 247.05612pt.
- [33]
+
+[33 <./images/shot.png>]
 Chapter 6.
-<images/listingsxsellers.png, id=572, 562.35094pt x 592.46344pt>
+<images/listingsxsellers.png, id=587, 562.35094pt x 592.46344pt>
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
 Package pdftex.def Info: images/listingsxsellers.png used on input line 1078.
 (pdftex.def)             Requested size: 337.41316pt x 355.4808pt.
-
-Underfull \vbox (badness 1521) has occurred while \output is active []
-
- [34 <./images/shot.png>] <images/total-rev.png, id=580, 562.35094pt x 592.4634
-4pt>
+ [34 <./images/listingsxsellers.png>]
+<images/total-rev.png, id=595, 562.35094pt x 592.46344pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 1136.
+Package pdftex.def Info: images/total-rev.png used on input line 1135.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-<images/posratrev.png, id=581, 562.35094pt x 592.46344pt>
+<images/posratrev.png, id=596, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
-Package pdftex.def Info: images/posratrev.png used on input line 1142.
+Package pdftex.def Info: images/posratrev.png used on input line 1140.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1136--1143
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1135--1141
  [][][][] 
- []
-
-
-Underfull \vbox (badness 2717) has occurred while \output is active []
-
- [35 <./images/listingsxsellers.png>] [36] [37 <./images/total-rev.png> <./imag
-es/posratrev.png (PNG copy)>]
-<images/listingxprice.png, id=603, 562.35094pt x 592.46344pt>
-File: images/listingxprice.png Graphic file (type png)
-
-<use images/listingxprice.png>
-Package pdftex.def Info: images/listingxprice.png used on input line 1198.
-(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
-
-<images/flistingxprice.png, id=604, 562.35094pt x 592.46344pt>
-File: images/flistingxprice.png Graphic file (type png)
-
-<use images/flistingxprice.png>
-Package pdftex.def Info: images/flistingxprice.png used on input line 1203.
-(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
-
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1198--1204
- [][][][] 
- []
-
-[38 <./images/listingxprice.png> <./images/flistingxprice.png>]
-Overfull \hbox (30.8416pt too wide) in paragraph at lines 1228--1246
- []|  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
-<images/catxrev.png, id=620, 676.02562pt x 592.46344pt>
+ [35]
+[36 <./images/total-rev.png> <./images/posratrev.png (PNG copy)>]
+<images/listingxprice.png, id=612, 562.35094pt x 592.46344pt>
+File: images/listingxprice.png Graphic file (type png)
+
+<use images/listingxprice.png>
+Package pdftex.def Info: images/listingxprice.png used on input line 1197.
+(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
+
+<images/flistingxprice.png, id=613, 562.35094pt x 592.46344pt>
+File: images/flistingxprice.png Graphic file (type png)
+
+<use images/flistingxprice.png>
+Package pdftex.def Info: images/flistingxprice.png used on input line 1201.
+(pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
+
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1197--1202
+ [][][][] 
+ []
+
+[37]
+Overfull \hbox (30.8416pt too wide) in paragraph at lines 1228--1246
+ []|  [][] 
+ []
+
+<images/catxrev.png, id=621, 676.02562pt x 592.46344pt>
 File: images/catxrev.png Graphic file (type png)
 
 <use images/catxrev.png>
 Package pdftex.def Info: images/catxrev.png used on input line 1258.
 (pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
 
-<images/boxcat.png, id=621, 854.44218pt x 594.72188pt>
+<images/boxcat.png, id=622, 854.44218pt x 594.72188pt>
 File: images/boxcat.png Graphic file (type png)
  <use images/boxcat.png>
 Package pdftex.def Info: images/boxcat.png used on input line 1265.
 (pdftex.def)             Requested size: 341.77081pt x 237.88454pt.
 
-[40 <./images/catxrev.png (PNG copy)>]
-<images/buyerxspend.png, id=630, 562.35094pt x 592.46344pt>
+[38 <./images/listingxprice.png> <./images/flistingxprice.png>] [39]
+Underfull \vbox (badness 7722) has occurred while \output is active []
+
+ [40 <./images/catxrev.png (PNG copy)>]
+<images/buyerxspend.png, id=644, 562.35094pt x 592.46344pt>
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
-Package pdftex.def Info: images/buyerxspend.png used on input line 1302.
+Package pdftex.def Info: images/buyerxspend.png used on input line 1301.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-<images/tradxbuyer.png, id=631, 562.35094pt x 592.46344pt>
+<images/tradxbuyer.png, id=645, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
-Package pdftex.def Info: images/tradxbuyer.png used on input line 1307.
+Package pdftex.def Info: images/tradxbuyer.png used on input line 1306.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-Overfull \hbox (17.16852pt too wide) in paragraph at lines 1296--1308
+Overfull \hbox (17.16852pt too wide) in paragraph at lines 1296--1307
  []|  [][][][] 
  []
 
@@ -2243,10 +2244,10 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28204 strings out of 493826
- 459112 string characters out of 6156380
- 917789 words of memory out of 5000000
- 30768 multiletter control sequences out of 15000+600000
+ 28199 strings out of 493826
+ 459026 string characters out of 6156380
+ 920719 words of memory out of 5000000
+ 30763 multiletter control sequences out of 15000+600000
  68590 words of font info for 108 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
  57i,11n,48p,1136b,2538s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2259,10 +2260,10 @@ r/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/pu
 blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on fi-pdflatex.pdf (56 pages, 918875 bytes).
+Output written on fi-pdflatex.pdf (56 pages, 927690 bytes).
 PDF statistics:
- 735 PDF objects out of 1000 (max. 8388607)
- 611 compressed objects within 7 object streams
+ 749 PDF objects out of 1000 (max. 8388607)
+ 621 compressed objects within 7 object streams
  163 named destinations out of 1000 (max. 500000)
  20293 words of extra memory for PDF output out of 20736 (max. 10000000)
 
