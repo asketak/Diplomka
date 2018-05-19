@@ -792,7 +792,7 @@ saw that EXIF metadata were indeed overwritten.
 
 We tested whether every transaction happening on drug market has its counter transaction
 in bitcoin blockchain.
-We deposited some Bitcoins to cryptomarket and bought a licit virtually deliverable
+We deposited some bitcoins to cryptomarket and bought a licit virtually deliverable
 product (Guide on weightlifting) and checked if anything happened to the deposited bitcoins.
 There was no follow up transaction happening for weeks after the deposit transaction was done.
 This means that market doesn't transfer bitcoins when service or goods are bought.
@@ -852,7 +852,7 @@ Vendor or user can also request withdrawing their bitcoins from the cryptomarket
 the cryptomarket decreases its account balance and sends bitcoin to the user's address.
 
 For identifying bitcoin addresses owned by the Valhalla cryptomarket, we 
-deposited small amount of Bitcoins to our user accounts on Valhalla cryptomarket and
+deposited small amount of bitcoins to our user accounts on Valhalla cryptomarket and
 performed multiple withdrawals by smaller amount than the deposited one, to receive bitcoins back.
 When we requested bitcoin withdrawals, we received bitcoins from different addresses
 than the deposit one. We consider the deposit address and all addresses we received
@@ -929,7 +929,7 @@ identities received between 14. 1. and 14. 2. We scraped the Valhalla cryptomark
 and received data from feedback pages, which we used to estimate 
 the minimal amount of bitcoins users spent over the previous month on Valhalla market.
 We estimated in chapter \ref{stats}, that users spent at least 527\,730 EUR during that one month period.
-With average bitcoin price 8\,219EUR it roughly equals to 64.2 bitcoins.
+With average bitcoin price 8\,219 EUR it roughly equals to 64.2 bitcoins.
 The amount of bitcions these identities received is also in table \ref{cluster}.
 Our heuristics were not enough to cluster majority of market's transactions/addresses as one identity.
 Hovewer, with just two accounts, 2 deposits and 20 withdrawals, we were able to identify 5.71 (9 \%) bitcoins out of estimated
@@ -1076,7 +1076,7 @@ The histogram does not show 19 vendors with more than 200 listings.
 
 The vendors were shipping drugs from 39 distinct countries.
 The occurence of countries as the shipping origin can be found in the table \ref{shipcount}.
-The table \ref{richvendors} lists countries of vendors that have achieved 10\,000EUR (150 vendors, 15 \% ) or more in their revenue.
+The table \ref{richvendors} lists countries of vendors that have achieved 10\,000 EUR (150 vendors, 15 \% ) or more in their revenue.
 Valhalla was originally estabilished as a local Finnish crypto market,
 which might be the reason for surprisingly many vendors shipping from Finland and also large percentage
 of Finns among high revenue vendors. They might be on the market since
@@ -1138,14 +1138,14 @@ Unknown & 69 \\
 \end{figure}
 
 We looked at the total revenue of vendors, as depicted in figure \ref{total-rev}. 
-The total revenue mentioned in the vendor's profile page is capped at 10 000 Eur.
+The total revenue mentioned in the vendor's profile page is capped at 10\,000 EUR.
 There are two major groups of vendors regarded to their revenue. 
 Majority (598 vendors, 60 \%) of vendors have not had any\newline positive or negative feedbacks and all of these vendors
-(except for 3)\newline earned less than 300EUR on cryptomarket over their lifetime.
+(except for 3)\newline earned less than 300 EUR on cryptomarket over their lifetime.
 Please note we were able to scrape just the vendors with active listings,
 so there might be much more vendors who stopped using Valhalla after
 not being able to earn substantional amount of money.
-The second group is 150 vendors (15 \%) who earned 10 000 EUR or more.
+The second group is 150 vendors (15 \%) who earned 10\,000 EUR or more.
 
 Vendors, who had high revenue, maintained high ratio of positive feedbacks.
 When counting only vendors with more than 10 reviews (304 vendors, 31 \%),
