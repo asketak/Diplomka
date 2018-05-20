@@ -184,6 +184,11 @@ that are few transactions away from the inserted address in the transaction grap
 
 We also created multiple scripts for scraping information about trades from Valhalla market website
 and used these data for quantitative analysis of Valhalla market operations.
+We also estimated the cashflow of the whole cryptomarket from the webscraped data and compared
+it with the number of incoming bitcoins to the addresses that we associated with cryptomarket
+by previously mentioned heuristics.
+We estimated the total cryptomarket's cashflow just from user feedbacks, so the total cashflow might be bigger.
+The transactions and heuristics that we performed led to identifying 9\% of cryptomarkets estimated cashflow.
 
 \section{Structure of the thesis}
 Chapter \emph{related terminology} starts with a quick introduction
@@ -264,21 +269,18 @@ As vendors value their feedback ratings very highly, they encourage buyers to le
  
 \subsection{Valhalla cryptomarket}
 
-We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.onion} based on three metrics.
+We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.onion} based on two metrics.
 
 The first metric is number of active listings.
 We checked a list of active cryptomarkets mentioned on reddit community \emph{r/darknetmarkets} and on the 
 \emph{https://www.deepdotweb.com} website.
-The site \emph{https://www.deepdotweb.com} has Alexa ranking 23500\footnote{https://www.alexa.com/siteinfo/deepdotweb.com}, which roughly corresponds to thousands of visitors a day.
+The site \emph{https://www.deepdotweb.com} has high Alexa ranking of 23500\footnote{\url{https://www.alexa.com/siteinfo/deepdotweb.com}}.
 The Reddit community is the first link for google query "dark markets list"
-has more than 160 000 readers. We therefore consider these sites to be relevant enough not to miss
+has more than 130 000 readers\footnote{\url{reddit.com/r/darknetmarkets} is banned at the time of publication
+but we were able to find multiple screenshots of the reddit community page\newline
+\url{https://medium.com/@dimiska/reddit-is-the-new-silk-road-why-does-the-us-government-look-the-other-way-78b915ab2ad1}
+\url{https://direclown.files.wordpress.com/2017/07/rdarknetmarkets_censored2.png}}. We therefore consider these sites to be relevant enough not to miss
 the biggest cryptomarkets in their lists. Cryptomarkets taken into consideration are in the table \ref{cryptomarkets}.
-
-Valhalla market is a well known operating cryptomarket, with more than 20 000 active listings and 900 vendors, it's the second biggest currently operating cryptomarket.
-
-Among these cryptomarkets, only Valhalla and Dream market have been operating since 2013.
-This represents an advantage for our analysis, as we can analyze matured cryptomarket with vendors,
-who have been selling for a longer time and have more reviews.
 
 Among cryptomarkets mentioned above,
 the Valhalla cryptomarket provides the most information about vendors and buyers.
@@ -292,6 +294,10 @@ This will greatly help with recognizing the same buyer among multiple feedbacks.
 Apart from that, Valhalla is also the only market from the markets above, where the customer feedback contains the
 associated listing.
 This allows us to detect the most profitable and popular listings.
+
+Valhalla has been operating since 2013\footnote{https://valhallasilkkitie.com/valhalla-top3-most-resilient/}.
+This represents an advantage for our analysis, as we can analyze matured cryptomarket with vendors,
+who have been selling for a longer time and have more reviews.
 
 \begin{table}
     \caption{Visited cryptomarkets}
@@ -354,7 +360,7 @@ by a software called bitcoin wallet. Many third-party software wallets currently
 
 All the transactions, bitcoins and addresses are stored in the blockchain.
 The transaction history with data about all transactions is publicly available.
-When someone pays by bitcoins, the recipient can see the recipient address
+When someone pays by bitcoins, the recipient can see the sender's address
 and can search blockchain for all transactions the sender address was part of.
 In order to not see the whole history of transactions and balance of the address owner,
 the bitcoin wallets generate a new bitcoin address for each transaction where
@@ -370,15 +376,15 @@ Bitcoins in blockchain are represented as inputs and outputs of the transactions
 Each transaction has some inputs and outputs. 
 Input and output have the same data structure,
 they only differ in its relationship to the given transaction.
-Each input/output consists of its unique identifier, its value in bitcoins,
-bitcoin address that owns it and a script that describes how the input/output can be used.
+Each input/output consists of its unique identifier, its value in bitcoins
+and a script that describes how the input/output can be used.
 The script allows a greater flexibility in spending bitcoins like multisignature wallets where
 two or more keys are required for spending bitcoins.
 
 Every output can be used exactly once as an input of a new transaction,
 and therefore the owner of an output cannot
 spend one output multiple times. He also can not directly
-spend just a portion of bitcoins from the output. In order to divide bitcoins into smaller parts,
+spend just a portion of bitcoins from the output. In order to spend just portion of bitcoins,
 he needs to use "change" address. The change address mechanism is described later.
 When the sender sends a bitcoin to the recipient, he generates a transaction
 and sign it with the required private keys.
@@ -406,7 +412,7 @@ sends 2 bitcoins to the recipient and get 3 bitcoins back as change.
  
 \begin{figure}[!htb]
     \centering
-    \includegraphics[width=1\textwidth]{change}
+    \includegraphics[width=1\textwidth]{change.pdf}
     \caption{Mechanism of change address}
     \label{change}
 \end{figure}
@@ -471,24 +477,13 @@ These transactions can be performed multiple times with different actors.
 
 \section{Tor - the onion routing}
 
-Communication between browser and web server is usually done via HTTPS protocol.
-This protocol uses asymmetric cryptography. The web server and browser exchange their public keys at the start of communication
-and encrypt the data using these keys. Decrypting the data is possible only by corresponding private keys,
-which the browser and web server keep locally. This protocol is susceptible to man-in-the-middle attacks.
-If the attacker has control over the transmission from the start of communication, he can place himself in the middle of communication and act as a web server for the user and as a user for the web server. To prevent these types of attack,
- a certification authority is needed. The certification authority is an institution that signs public keys, belonging to the web server.
- When the browser receives the public key, it automatically checks whether it is signed by any authority from its list of authorities and if not,
- it displays a warning or error message.
- 
 The HTTPS protocol encrypts data but doesn't hide the identity of the user from the web server.
 The internet provider can also see, where is the user connecting. Tor aims to solve these issues.
  
 Tor \cite{dingledine2004tor} is a free open source software that provides access to the network of Tor nodes. 
-The goal of the Tor project is to provide its users encrypted access to the Internet in order to prevent third parties
-from eavesdropping and analysing the transmitted data.
-While the Tor usage itself can be detected by a third party, the third party can not decrypt user's data that are transmitted via Tor. Some websites restrict access from Tor network due to many risks involved.
-Tor hides user's identity from the web server. Internet provider can also only detect that user is connecting to Tor,
-but can not identify the other side of communication and content of the transmitted data.
+The goal of the Tor project is to protect privacy of its users and allow them to communicate
+over internet anonymously.
+Tor hides user's identity from the web server and also anyone doing network surveilance.
 
 The simplest way for the user to use Tor network is to install the Tor browser bundle, consisting of
 a modified Firefox browser and onion proxy. Onion proxy routes all traffic through Tor network.
