@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  20 MAY 2018 01:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.29)  20 MAY 2018 15:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1630,14 +1630,14 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )))
-Package hyperref Info: Option `unicode' set `true' on input line 135.
+Package hyperref Info: Option `unicode' set `true' on input line 128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 135.
+Package hyperref Info: Option `unicode' set `true' on input line 128.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
@@ -1660,31 +1660,31 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (./fi-pdflatex.aux)
 \openout1 = `fi-pdflatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 135.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 128.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
 \c@lstlisting=\count365
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -1694,7 +1694,7 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box41
-Package hyperref Info: Link coloring OFF on input line 135.
+Package hyperref Info: Link coloring OFF on input line 128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1704,9 +1704,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 135.
-LaTeX Info: Redefining \pageref on input line 135.
-LaTeX Info: Redefining \nameref on input line 135.
+LaTeX Info: Redefining \ref on input line 128.
+LaTeX Info: Redefining \pageref on input line 128.
+LaTeX Info: Redefining \nameref on input line 128.
 
 (./fi-pdflatex.out) (./fi-pdflatex.out)
 \@outlinefile=\write10
@@ -1720,8 +1720,8 @@ Package biblatex Info: Data encoding 'UTF8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'fi-pdflatex.bbl' found.
  (./fi-pdflatex.bbl)
-Package biblatex Info: Reference section=0 on input line 135.
-Package biblatex Info: Reference segment=0 on input line 135.
+Package biblatex Info: Reference section=0 on input line 128.
+Package biblatex Info: Reference segment=0 on input line 128.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1793,9 +1793,9 @@ Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
 No file pythontex-files-fi-pdflatex/fi-pdflatex.pytxmcr.
 Run PythonTeX to create it.
 Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
-ut line 135.
+ut line 128.
 \c@listing=\count373
-Package newfloat Info: float type `listing'=8 on input line 135.
+Package newfloat Info: float type `listing'=8 on input line 128.
 \c@lopytxdepth=\count374
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
@@ -1805,7 +1805,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-LaTeX Info: Redefining \microtypecontext on input line 135.
+LaTeX Info: Redefining \microtypecontext on input line 128.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1834,8 +1834,8 @@ Package microtype Info: Character `029' is missing
 File: fithesis/logo/mu/fithesis-fi.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi.pdf>
-Package pdftex.def Info: fithesis/logo/mu/fithesis-fi.pdf used on input line 13
-5.
+Package pdftex.def Info: fithesis/logo/mu/fithesis-fi.pdf used on input line 12
+8.
 (pdftex.def)             Requested size: 113.81102pt x 114.20036pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/14.4'.
@@ -1849,23 +1849,23 @@ File: fithesis/logo/mu/fithesis-fi-color.pdf Graphic file (type pdf)
 
 <use fithesis/logo/mu/fithesis-fi-color.pdf>
 Package pdftex.def Info: fithesis/logo/mu/fithesis-fi-color.pdf used on input l
-ine 135.
+ine 128.
 (pdftex.def)             Requested size: 113.81102pt x 113.80792pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.135 \begin{document}
+l.128 \begin{document}
                        [2 <./fithesis/logo/mu/fithesis-fi-color.pdf>]pdfTeX war
 ning (ext4): destination with the same identifier (name{page.}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.135 \begin{document}
+l.128 \begin{document}
                        [0] [1] [2] [3
 
 ]
-Overfull \hbox (10.12819pt too wide) in paragraph at lines 135--135
+Overfull \hbox (10.12819pt too wide) in paragraph at lines 128--128
 \T1/qpl/m/n/12 (-20) blockhain, bit-coin, dark-net, drug mar-ket, Tor, cryp-toc
 ur-rency, anonymity,
  []
@@ -1949,7 +1949,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1509) has occurred while \output is active []
 
  [2]
-Overfull \hbox (0.61383pt too wide) in paragraph at lines 202--205
+Overfull \hbox (0.61383pt too wide) in paragraph at lines 194--197
 []\T1/qpl/m/n/12 (-20) The chap-ter called \T1/qpl/m/it/12 Ap-pli-ca-tion for s
 earch-ing nearby iden-ti-fied ad-dresses
  []
@@ -1961,7 +1961,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
 [7] [8]
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 395.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 385.
 
  (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
@@ -1969,7 +1969,7 @@ File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 <images/change.pdf, id=323, 587.19376pt x 321.2pt>
 File: images/change.pdf Graphic file (type pdf)
  <use images/change.pdf>
-Package pdftex.def Info: images/change.pdf used on input line 416.
+Package pdftex.def Info: images/change.pdf used on input line 406.
 (pdftex.def)             Requested size: 361.34999pt x 197.6618pt.
 
 [9] [10 <./images/change.pdf
@@ -1980,19 +1980,19 @@ valid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 File: images/tor.png Graphic file (type png)
 
 <use images/tor.png>
-Package pdftex.def Info: images/tor.png used on input line 525.
+Package pdftex.def Info: images/tor.png used on input line 513.
 (pdftex.def)             Requested size: 361.34999pt x 191.18927pt.
  <images/tor-packet.png, id=374, 738.76pt x 608.2725pt>
 File: images/tor-packet.png Graphic file (type png)
 
 <use images/tor-packet.png>
-Package pdftex.def Info: images/tor-packet.png used on input line 532.
+Package pdftex.def Info: images/tor-packet.png used on input line 520.
 (pdftex.def)             Requested size: 307.14969pt x 252.89246pt.
  <images/onion.pdf, id=375, 602.25pt x 471.7625pt>
 File: images/onion.pdf Graphic file (type pdf)
 
 <use images/onion.pdf>
-Package pdftex.def Info: images/onion.pdf used on input line 552.
+Package pdftex.def Info: images/onion.pdf used on input line 540.
 (pdftex.def)             Requested size: 216.8122pt x 169.83437pt.
  [13]
 
@@ -2010,20 +2010,20 @@ Chapter 3.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-Overfull \hbox (0.359pt too wide) in paragraph at lines 647--653
+Overfull \hbox (0.359pt too wide) in paragraph at lines 630--636
 []\T1/qpl/m/n/12 (-20) In con-trast to pre-vi-ously men-tioned pa-pers, Meik-le
 -john [[]16[]] haven't
  []
 
 [18]
-Overfull \hbox (0.52802pt too wide) in paragraph at lines 681--686
+Overfull \hbox (0.52802pt too wide) in paragraph at lines 664--669
 []\T1/qpl/m/n/12 (-20) Broseus [[]7[]] re-stricted his re-search to ven-dors sh
 ip-ping from Canada
  []
 
 [19] [20]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 713.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 692.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2033,13 +2033,13 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (0.37862pt too wide) in paragraph at lines 712--722
+Overfull \hbox (0.37862pt too wide) in paragraph at lines 691--701
 \T1/lmtt/m/n/12 http://Valhallaxmn3fydu.onion/products/\T1/lmtt/b/n/12 xxx \T1/
 qpl/m/n/12 (-20) where \T1/lmtt/b/n/12 xxx \T1/qpl/m/n/12 (-20) is a num-
  []
 
 
-Overfull \hbox (21.12256pt too wide) in paragraph at lines 712--722
+Overfull \hbox (21.12256pt too wide) in paragraph at lines 691--701
 \T1/qpl/m/n/12 (-20) re-views in the for-mat \T1/lmtt/m/n/12 http://Valhallaxmn
 3fydu.onion/\T1/lmtt/b/n/12 xxx\T1/lmtt/m/n/12 /palautteet
  []
@@ -2048,12 +2048,12 @@ Overfull \hbox (21.12256pt too wide) in paragraph at lines 712--722
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Overfull \hbox (6.23386pt too wide) in paragraph at lines 754--763
+Overfull \hbox (6.23386pt too wide) in paragraph at lines 733--742
  [][] 
  []
 
 
-Overfull \hbox (7.19597pt too wide) in paragraph at lines 787--793
+Overfull \hbox (7.19597pt too wide) in paragraph at lines 766--772
 []\T1/qpl/m/n/12 (-20) Only meta-data di-rectly de-pend-ing on im-age con-tent,
  like the amount
  []
@@ -2066,13 +2066,13 @@ Underfull \vbox (badness 1082) has occurred while \output is active []
 File: images/heur1.pdf Graphic file (type pdf)
 
 <use images/heur1.pdf>
-Package pdftex.def Info: images/heur1.pdf used on input line 895.
+Package pdftex.def Info: images/heur1.pdf used on input line 872.
 (pdftex.def)             Requested size: 216.8122pt x 307.98488pt.
  <images/heur2.pdf, id=498, 542.025pt x 647.41875pt>
 File: images/heur2.pdf Graphic file (type pdf)
 
 <use images/heur2.pdf>
-Package pdftex.def Info: images/heur2.pdf used on input line 902.
+Package pdftex.def Info: images/heur2.pdf used on input line 879.
 (pdftex.def)             Requested size: 289.08109pt x 345.30363pt.
  [26 <./images/heur1.pdf
 
@@ -2083,7 +2083,7 @@ alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 pdfTeX warning: /usr/bin/pdflatex (file ./images/heur2.pdf): PDF inclusion: inv
 alid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-Overfull \hbox (16.47346pt too wide) in paragraph at lines 948--964
+Overfull \hbox (16.47346pt too wide) in paragraph at lines 924--940
  [][] 
  []
 
@@ -2094,7 +2094,7 @@ File: images/application_architecture.jpg Graphic file (type jpg)
 
 <use images/application_architecture.jpg>
 Package pdftex.def Info: images/application_architecture.jpg used on input line
- 984.
+ 960.
 (pdftex.def)             Requested size: 361.34999pt x 240.23073pt.
  [30]
 Underfull \vbox (badness 1824) has occurred while \output is active []
@@ -2104,7 +2104,7 @@ Underfull \vbox (badness 1824) has occurred while \output is active []
 File: images/neo4j-schema.pdf Graphic file (type pdf)
 
 <use images/neo4j-schema.pdf>
-Package pdftex.def Info: images/neo4j-schema.pdf used on input line 1026.
+Package pdftex.def Info: images/neo4j-schema.pdf used on input line 1002.
 (pdftex.def)             Requested size: 361.34999pt x 190.91957pt.
  [32 <./images/neo4j-schema.pdf
 
@@ -2114,7 +2114,7 @@ ored.
 >] <images/shot.png, id=579, 1332.98pt x 911.405pt>
 File: images/shot.png Graphic file (type png)
  <use images/shot.png>
-Package pdftex.def Info: images/shot.png used on input line 1058.
+Package pdftex.def Info: images/shot.png used on input line 1033.
 (pdftex.def)             Requested size: 361.34999pt x 247.05612pt.
 
 [33 <./images/shot.png>]
@@ -2123,24 +2123,24 @@ Chapter 6.
 File: images/listingsxsellers.png Graphic file (type png)
 
 <use images/listingsxsellers.png>
-Package pdftex.def Info: images/listingsxsellers.png used on input line 1078.
+Package pdftex.def Info: images/listingsxsellers.png used on input line 1053.
 (pdftex.def)             Requested size: 337.41316pt x 355.4808pt.
  [34 <./images/listingsxsellers.png>]
 <images/total-rev.png, id=595, 562.35094pt x 592.46344pt>
 File: images/total-rev.png Graphic file (type png)
 
 <use images/total-rev.png>
-Package pdftex.def Info: images/total-rev.png used on input line 1135.
+Package pdftex.def Info: images/total-rev.png used on input line 1110.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
 <images/posratrev.png, id=596, 562.35094pt x 592.46344pt>
 File: images/posratrev.png Graphic file (type png)
 
 <use images/posratrev.png>
-Package pdftex.def Info: images/posratrev.png used on input line 1140.
+Package pdftex.def Info: images/posratrev.png used on input line 1115.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1135--1141
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1110--1116
  [][][][] 
  []
 
@@ -2153,22 +2153,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/listingxprice.png Graphic file (type png)
 
 <use images/listingxprice.png>
-Package pdftex.def Info: images/listingxprice.png used on input line 1197.
+Package pdftex.def Info: images/listingxprice.png used on input line 1169.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
 <images/flistingxprice.png, id=613, 562.35094pt x 592.46344pt>
 File: images/flistingxprice.png Graphic file (type png)
 
 <use images/flistingxprice.png>
-Package pdftex.def Info: images/flistingxprice.png used on input line 1201.
+Package pdftex.def Info: images/flistingxprice.png used on input line 1173.
 (pdftex.def)             Requested size: 180.67499pt x 190.35155pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 1197--1202
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 1169--1174
  [][][][] 
  []
 
 [37]
-Overfull \hbox (30.8416pt too wide) in paragraph at lines 1228--1246
+Overfull \hbox (30.8416pt too wide) in paragraph at lines 1199--1217
  []|  [][] 
  []
 
@@ -2176,13 +2176,13 @@ Overfull \hbox (30.8416pt too wide) in paragraph at lines 1228--1246
 File: images/catxrev.png Graphic file (type png)
 
 <use images/catxrev.png>
-Package pdftex.def Info: images/catxrev.png used on input line 1258.
+Package pdftex.def Info: images/catxrev.png used on input line 1228.
 (pdftex.def)             Requested size: 270.40544pt x 236.98117pt.
 
 <images/boxcat.png, id=622, 854.44218pt x 594.72188pt>
 File: images/boxcat.png Graphic file (type png)
  <use images/boxcat.png>
-Package pdftex.def Info: images/boxcat.png used on input line 1265.
+Package pdftex.def Info: images/boxcat.png used on input line 1235.
 (pdftex.def)             Requested size: 341.77081pt x 237.88454pt.
 
 [38 <./images/listingxprice.png> <./images/flistingxprice.png>] [39]
@@ -2193,17 +2193,17 @@ Underfull \vbox (badness 7722) has occurred while \output is active []
 File: images/buyerxspend.png Graphic file (type png)
 
 <use images/buyerxspend.png>
-Package pdftex.def Info: images/buyerxspend.png used on input line 1301.
+Package pdftex.def Info: images/buyerxspend.png used on input line 1270.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
 <images/tradxbuyer.png, id=645, 562.35094pt x 592.46344pt>
 File: images/tradxbuyer.png Graphic file (type png)
 
 <use images/tradxbuyer.png>
-Package pdftex.def Info: images/tradxbuyer.png used on input line 1306.
+Package pdftex.def Info: images/tradxbuyer.png used on input line 1275.
 (pdftex.def)             Requested size: 224.93639pt x 236.98117pt.
 
-Overfull \hbox (17.16852pt too wide) in paragraph at lines 1296--1307
+Overfull \hbox (17.16852pt too wide) in paragraph at lines 1265--1276
  []|  [][][][] 
  []
 
@@ -2213,29 +2213,29 @@ Chapter 7.
 Underfull \vbox (badness 1590) has occurred while \output is active []
 
  [42 <./images/buyerxspend.png> <./images/tradxbuyer.png>] [43]
-Overfull \hbox (19.48454pt too wide) in paragraph at lines 1350--1350
+Overfull \hbox (19.48454pt too wide) in paragraph at lines 1318--1318
 []\T1/qpl/m/it/12 2010 In-ter-net Crime Re-port\T1/qpl/m/n/12 (-20) . https://p
 df.ic3.gov/2010_-IC3Report.pdf:
  []
 
 
-Overfull \hbox (4.35976pt too wide) in paragraph at lines 1350--1350
+Overfull \hbox (4.35976pt too wide) in paragraph at lines 1318--1318
 []\T1/qpl/m/n/12 (-20) Judith Aldridge and David Décary-Hétu. ^^P  Not an'Ebay 
 for Drugs':
  []
 
 [44] [45]
-Overfull \hbox (1.46382pt too wide) in paragraph at lines 1350--1350
+Overfull \hbox (1.46382pt too wide) in paragraph at lines 1318--1318
 []\T1/qpl/m/n/12 (-20) Philip R. Zim-mer-mann. \T1/qpl/m/it/12 The Of-fi-cial P
 GP User's Guide\T1/qpl/m/n/12 (-20) . Cam-bridge,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1353.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1321.
 [46]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1353.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1321.
  (./fi-pdflatex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1353.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1353.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1321.
 
 Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
 (rerunfilecheck)             Checksum: F91A2F6C98B9DF0B5A3DDD6FA7912523;2070.
@@ -2246,7 +2246,7 @@ Package logreq Info: Writing requests to 'fi-pdflatex.run.xml'.
 Here is how much of TeX's memory you used:
  28199 strings out of 493826
  459026 string characters out of 6156380
- 920719 words of memory out of 5000000
+ 920730 words of memory out of 5000000
  30763 multiletter control sequences out of 15000+600000
  68590 words of font info for 108 fonts, out of 8000000 for 9000
  789 hyphenation exceptions out of 8191
@@ -2260,7 +2260,7 @@ r/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/pu
 blic/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on fi-pdflatex.pdf (56 pages, 927690 bytes).
+Output written on fi-pdflatex.pdf (56 pages, 927688 bytes).
 PDF statistics:
  749 PDF objects out of 1000 (max. 8388607)
  621 compressed objects within 7 object streams
