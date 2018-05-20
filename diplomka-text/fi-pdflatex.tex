@@ -729,8 +729,8 @@ having at least one active listing at the time of data collection.
     \begin{tabular}{|l|l|}
 Variable & data type\\
 Vendor's nickname & string\\
-count of positive feedbacks & integer\\
-count of negative feedbacks & integer\\
+number of positive feedbacks & integer\\
+number of negative feedbacks & integer\\
 revenue & integer \\
 PGP key & string, not mandatory for all vendors\\
 Country vendor ships from & string, not mandatory for all vendors\\
@@ -743,7 +743,6 @@ Country vendor ships from & string, not mandatory for all vendors\\
     \begin{tabular}{|l|l|}
  Variable & data type\\
 vendor nickname & string\\
-rating & 1-5\\
 date & Timestamp, days resolution\\
 buyer's nickname & string of length 4\\
 money the buyer spent & int\\
@@ -918,19 +917,19 @@ However, with just two accounts, 2 deposits and 20 withdrawals, we were able to 
     \caption{Mapping of found identities to addresses used in deposits and withdrawals}
     \label{cluster}
     \begin{tabular}{|l|l|l|l|}
-    Identity &\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Deposits:withdrawals \\ from second account}
+    Identity &\multicolumn{1}{|p{4cm}|}{\centering Associated deposits:withdrawals \\ from first account }&\multicolumn{1}{|p{4cm}|}{\centering Associated deposits:withdrawals \\ from second account}
     & \multicolumn{1}{|p{2cm}|}{\centering received \\ bitcoins }\\ 
     1&   1:0 & 0:0 & 0.011  \\ 
     2&   0:0 & 1:0 & 0.011  \\ 
-    3&   0:4 & 0:1 & 2.15  \\ 
-    4&   0:2 & 0:0 & 0.7  \\ 
+    3&   0:4 & 0:1 & 2.1  \\ 
+    4&   0:2 & 0:0 & 0.8  \\ 
     5&   0:1 & 0:1 & 1.5  \\ 
-    6&   0:1 & 0:0 & 0.15  \\ 
+    6&   0:1 & 0:0 & 0.2  \\ 
     7&   0:1 & 0:0 & 0.1  \\ 
     8&   0:1 & 0:0 & 0.1  \\ 
-    9&   0:0 & 0:3 & 1.22  \\ 
-    10&  0:0 & 0:2 & 0.12  \\ 
-    10&  0:0 & 0:2 & 0.37  \\ 
+    9&   0:0 & 0:3 & 1.2  \\ 
+    10&  0:0 & 0:2 & 0.1  \\ 
+    10&  0:0 & 0:2 & 0.3  \\ 
     11&  0:0 & 0:1 & 0.3  \\ 
     \end{tabular}
 \end{table}
@@ -959,7 +958,7 @@ It consists of multiple python scripts, divided into 5 categories.
 \end{figure}
 
 Scripts for scraping Valhalla market are in \emph{statistics} folder.
-They download Valhalla market webpages with listings, vendors' profiles and feedbacks.
+They download Valhalla market webpages with listings, profile pages of vendors and feedbacks.
 Then they parse downloaded webpages and generate CSV files with the data.
 The variables and data types stored in these CSV files are described in chapter \ref{Valhalla cryptomarket webscraping}
 in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated CSV files for
@@ -972,7 +971,6 @@ Each one of the scripts scrapes webpage mentioned in its name (bitcointalk.org, 
  \item URL where the address was scraped 
  \item associated identity (eg. nickname)
 \end{itemize}
-These files are later imported to database.
 
 Script \emph{blockchain\_to\_csv.py} uses bitcoin-core API to iterate through bitcoin blockchain 
 and generate several CSV files with the transaction data and bitcoin blockchain addresses, which are later imported into Neo4j database, as well as 
@@ -1037,6 +1035,7 @@ and ended up in addresses with an associated identity.
 \chapter{Valhalla cryptomarket statistics}
 \label{stats}
 
+We scraped Valhalla cryptomarket for the data described in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}.
 We managed to scrape 25309 listings, 981 vendors and 6381 feedbacks.
 There were 17\,314 (68 \%) listings related to selling drug substances, the rest
 were related to ebooks, premium accounts, guns, fake IDs etc.
@@ -1295,7 +1294,7 @@ The application could be extended in multiple ways. We used two
 heuristics that have the lowest risk of falsely clustering addresses belonging to different identities.
 The heuristics have not clustered all the addresses and transactions done within the cryptomarket,
 however we found, that with just tens of deposits and withdrawals between us and the market,
-we were able to identify a significant percentage of cryptomarket's cashflow over given month.
+we were able to identify 9\% of estimated cryptomarket's cashflow over given month.
 The price that we paid in fees in these transactions was less than 100 dollars altogether. 
 Perpetual deposits and withdrawals over a prolonged period of time seem financially feasible
 and might lead to disclosing majority of cryptomarkets addresses and transaction.
