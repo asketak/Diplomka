@@ -188,7 +188,7 @@ We also estimated the cash flow of the whole cryptomarket from the scraped data 
 it with the number of incoming bitcoins to the addresses that we associated with cryptomarket
 by previously mentioned heuristics.
 We estimated the total cryptomarket's cash flow just from user feedbacks, so the total cash flow might be bigger.
-The transactions and heuristics that we performed led to identifying 9\% of cryptomarkets estimated cash flow.
+The transactions and heuristics that we performed led to identifying 9 \% of cryptomarkets estimated cash flow.
 
 \section{Structure of the thesis}
 Chapter \emph{related terminology} starts with a quick introduction
@@ -274,7 +274,8 @@ We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.
 A first metric is a number of active listings.
 We checked a list of active cryptomarkets mentioned on reddit community \emph{r/darknetmarkets} and on the 
 \emph{https://www.deepdotweb.com} website.
-The site \emph{https://www.deepdotweb.com} has high Alexa ranking of 23500\footnote{\url{https://www.alexa.com/siteinfo/deepdotweb.com}}.
+
+The site \emph{https://www.deepdotweb.com} has Alexa ranking of 23500\footnote{\url{https://www.alexa.com/siteinfo/deepdotweb.com}}.
 The Reddit community is the first link for google query "dark markets list"
 has more than 130 000 readers\footnote{\url{reddit.com/r/darknetmarkets} is banned at the time of publication
 but we were able to find multiple screenshots of the Reddit community page\newline
@@ -525,7 +526,8 @@ without disclosing the server's IP address. The hidden services have special top
 When the administrator of service wants to be accessed, he creates an RSA key pair.
 The hash of first 80 bits of the public key is the service identifier,
 through which can the service can be accessed by accessing URL \emph{identifier.onion}.
-Tor chooses some Tor nodes as introduction points and establishes a circuit to each one of them,
+Tor chooses some Tor nodes as introduction points for given service and establishes a circuit from hidden service
+to each one of them,
 then it uploads a descriptor of the service to 6 different hidden service directories (HSDir).
 The selection of HSDirs for given onion service
 changes every 24 hours and can be computed from the timestamp, the hidden service hash and shared random value.
@@ -885,6 +887,7 @@ We measured the success of heuristic clustering in two ways.
 We had two accounts on Valhalla market, each performing one deposit of 0.011 BTC and immediately 10 withdrawals of
 0.001 BTC, with roughly 0.001 BTC spent on cryptomarket fees.
 For the first account, we performed these transactions on January 11th, 2018, for the second one on February 13th, 2018.
+We were not using tumbler service, which is offered by Valhalla cryptomarket for additional fee, for our withdrawals.
 
 We created a new bitcoin wallet via Mycelium mobile app, deposited bitcoins into it
 from Bittrex exchange and used the wallet only with the first account.
@@ -1293,7 +1296,9 @@ The application could be extended in multiple ways. We used two
 heuristics that have the lowest risk of falsely clustering addresses belonging to different identities.
 The heuristics have not clustered all the addresses and transactions done within the cryptomarket,
 however we found, that with just tens of deposits and withdrawals between us and the market,
-we were able to identify 9\% of estimated cryptomarket's cash flow over given month.
+we were able to identify 9 \% of estimated cryptomarket's cash flow over given month.
+Note that we might underestimated the cryptomarkets cashflow, because we based
+the estimation just on data from feedbacks leaved by buyers.
 The price that we paid in fees in these transactions was less than 100 dollars. 
 Perpetual deposits and withdrawals over a prolonged period of time seem financially feasible
 and might lead to disclosing majority of cryptomarkets addresses and transaction.
