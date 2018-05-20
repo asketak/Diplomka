@@ -28,52 +28,67 @@ r = requests.post(' http://localhost:7474/db/data/transaction/commit',
    json={ "statements" : [{ "statement" : heur_init_req } ] })
 
 if(r.status_code != 200):
-    print("Error during heuristics setup")
-    sys.exit()
 
     r = requests.post(' http://localhost:7474/db/data/transaction/commit',
        json={ "statements" : [{ "statement" : twoOutputTx_req } ] })
 
     if(r.status_code != 200):
-        print("Error during two output tx search")
-        sys.exit()
         txs = r.json() 
         txs = txs['results'][0]['data']
         for tx in txs:
             txid = tx['row'][0]['hash']
-            total_recieved_req =  """
-            MATCH (t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o2:Output),
-            MATCH (t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o1:Output),
+            get2out_req =  """
+            MATCH (b:block)-[]-(t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o2:Output)-(first:Address )<-[:USES]-,
+            MATCH (b:block)-[]-(t:transaction {hash: '""" + txid + """' })<-[:OUTPUT]-(o1:Output)-(second:Address )<-[:USES]-,
+            MATCH (b:block)-[]-(t:transaction {hash: '""" + txid + """' })<-[:INPUT]-(o1:Output)-(in:Address )<-[:USES]-,
             where not o1.hash != o2.hash
-            return o1,o2
+            return first,second,b,in
             """ 
             r = requests.post(' http://localhost:7474/db/data/transaction/commit',
-               json={ "statements" : [{ "statement" : heur2_req } ] })
+               json={ "statements" : [{ "statement" : get2out_req} ] })
 
             out = r.json() 
-            first  = out['results'][0]['data']['row'][0]['hash']
-            second = out['results'][0]['data']['row'][1]['hash']
+            firstA  = out['results'][0]['data']['row'][1]['address']
+            secondA = out['results'][0]['data']['row'][2]['address']
+            blockh = out['results'][0]['data']['row'][3]['height']
+            inputUser = out['results'][0]['data']['row'][4]['userid']
 
             first_req =  """
-            MATCH (o1:Output {hash: '""" + first + """' })<-[:OUTPUT|INPUT]-(tx:transaction),
-            return tx
+            MATCH (first:Address {address: '""" + firstA + """' }  )<-[:USES]-(o1:Output)<-[:OUTPUT|INPUT]-(tx:transaction)-[]-(b:block),
+            return min(b:height)
             """ 
+
+            sec_req =  """
+            MATCH (first:Address {address: '""" + secondA + """' }  )<-[:USES]-(o1:Output)<-[:OUTPUT|INPUT]-(tx:transaction)-[]-(b:block),
+            return min(b:height)
+            """ 
+
             r = requests.post(' http://localhost:7474/db/data/transaction/commit',
                json={ "statements" : [{ "statement" : first_req } ] })
-
-            first_output_time = find_earliest_block()
-
-            second_req =  """
-            MATCH (o1:Output {hash: '""" + second + """' })<-[:OUTPUT|INPUT]-(tx:transaction),
-            return tx
-            """ 
+            dat = r.json()
+            time1 = dat['results'][0]['data']['row'][0]
 
             r = requests.post(' http://localhost:7474/db/data/transaction/commit',
-               json={ "statements" : [{ "statement" : second_req } ] })
+               json={ "statements" : [{ "statement" : sec_req } ] })
+            dat = r.json()
+            time2 = dat['results'][0]['data']['row'][0]
 
+            flag = False
+            rewrite = firstA
 
+            if (time1 == blockh and time2 < blockh):
+                rewrite = firstA
+                flag = True
 
+            if (time2 == blockh and time1 < blockh):
+                rewrite = secondA
+                flag = True
 
-
-
-
+            if flag:
+                heur2_up =  """
+                MATCH (first:Address {address: '""" + rewrite + """' },
+                set first.userid = '""" + inputUser+ """'
+                return first
+                """ 
+                r = requests.post(' http://localhost:7474/db/data/transaction/commit',
+                   json={ "statements" : [{ "statement" : heur2_up } ] })
