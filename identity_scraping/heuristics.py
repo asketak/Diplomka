@@ -59,9 +59,9 @@ if(r.status_code != 200):
             return tx
             """ 
             r = requests.post(' http://localhost:7474/db/data/transaction/commit',
-               json={ "statements" : [{ "statement" : heur2_req } ] })
+               json={ "statements" : [{ "statement" : first_req } ] })
 
-            find_earliest_block()
+            first_output_time = find_earliest_block()
 
             second_req =  """
             MATCH (o1:Output {hash: '""" + second + """' })<-[:OUTPUT|INPUT]-(tx:transaction),
@@ -69,5 +69,11 @@ if(r.status_code != 200):
             """ 
 
             r = requests.post(' http://localhost:7474/db/data/transaction/commit',
-               json={ "statements" : [{ "statement" : heur2_req } ] })
+               json={ "statements" : [{ "statement" : second_req } ] })
+
+
+
+
+
+
 
