@@ -90,39 +90,6 @@ def parsesent(data):
     return sent
     
 
-def parsedist(data):
-    sent = data['results'][0]['data'] 
-    rec = data['results'][1]['data'] 
-    for row in rec:
-        distance = len(row['row'][2])/2/2 
-        pagerank = row['row'][0]['pagerank']
-        identity = row['row'][0]['name']
-        address = row['row'][1]['address']
-        outgoing = row['row'][2][0]['value']
-        tabrow = {}
-        tabrow['distance'] = distance
-        tabrow['url'] = url
-        tabrow['identity'] = identity
-        tabrow['address'] = address
-        tabrow['btc'] = outgoing
-        tabrows.append(tabrow)
-
-    for row in send:
-        distance = -1*len(row['row'][2])/2/2 
-        pagerank = row['row'][0]['pagerank']
-        size = row['row'][0]['value']
-        address = row['row'][1]['address']
-        outgoing = row['row'][2][0]['value']
-        tabrow = {}
-        tabrow['distance'] = distance
-        tabrow['url'] = url
-        tabrow['identity'] = identity
-        tabrow['address'] = address
-        tabrow['btc'] = outgoing
-        tabrows.append(tabrow)
-
-    return tabrows 
-
 
 
 
