@@ -130,7 +130,7 @@
 \chapter{Introduction}
 %\addcontentsline{toc}{chapter}{Introduction}
 
-Relative anonymity of the Internet offers an incentive for criminal parties
+The relative anonymity of the Internet offers an incentive for criminal parties
 to use the Internet as a tool for their activities.
 Internet facilitates some forms of existing crimes (selling drugs, guns and
 counterfeits, running Ponzi schemes) and also enables many new types of frauds like hacking, phishing and identity theft.
@@ -178,17 +178,17 @@ It then runs multiple heuristics over this graph to cluster addresses that belon
 The tool scrapes multiple public sources related to drug markets and bitcoin transactions in order
 to obtain some form of identification (eg. a username) linked to the bitcoin address, and adds this information to the database.
 We transferred bitcoins between us and Valhalla cryptomarket multiple times in order to obtain
-multiple bitcoin addresses that are owned by the cryptomarket and added this information to database also.
-Tool also provides a GUI, where the tool user can insert an address and the program finds addresses with linked identities
+multiple bitcoin addresses that are owned by the cryptomarket and added this information to the database also.
+The tool also provides a GUI, where the tool user can insert an address and the program finds addresses with linked identities
 that are few transactions away from the inserted address in the transaction graph.
 
 We also created multiple scripts for scraping information about trades from Valhalla market website
 and used these data for quantitative analysis of Valhalla market operations.
-We also estimated the cashflow of the whole cryptomarket from the webscraped data and compared
+We also estimated the cash flow of the whole cryptomarket from the scraped data and compared
 it with the number of incoming bitcoins to the addresses that we associated with cryptomarket
 by previously mentioned heuristics.
-We estimated the total cryptomarket's cashflow just from user feedbacks, so the total cashflow might be bigger.
-The transactions and heuristics that we performed led to identifying 9\% of cryptomarkets estimated cashflow.
+We estimated the total cryptomarket's cash flow just from user feedbacks, so the total cash flow might be bigger.
+The transactions and heuristics that we performed led to identifying 9\% of cryptomarkets estimated cash flow.
 
 \section{Structure of the thesis}
 Chapter \emph{related terminology} starts with a quick introduction
@@ -271,15 +271,15 @@ As vendors value their feedback ratings very highly, they encourage buyers to le
 
 We selected Valhalla cryptomarket\footnote{Available at http://Valhallaxmn3fydu.onion} based on two metrics.
 
-The first metric is number of active listings.
+A first metric is a number of active listings.
 We checked a list of active cryptomarkets mentioned on reddit community \emph{r/darknetmarkets} and on the 
 \emph{https://www.deepdotweb.com} website.
 The site \emph{https://www.deepdotweb.com} has high Alexa ranking of 23500\footnote{\url{https://www.alexa.com/siteinfo/deepdotweb.com}}.
 The Reddit community is the first link for google query "dark markets list"
 has more than 130 000 readers\footnote{\url{reddit.com/r/darknetmarkets} is banned at the time of publication
-but we were able to find multiple screenshots of the reddit community page\newline
+but we were able to find multiple screenshots of the Reddit community page\newline
 \url{https://medium.com/@dimiska/reddit-is-the-new-silk-road-why-does-the-us-government-look-the-other-way-78b915ab2ad1}
-\url{https://direclown.files.wordpress.com/2017/07/rdarknetmarkets_censored2.png}}. We therefore consider these sites to be relevant enough not to miss
+\url{https://direclown.files.wordpress.com/2017/07/rdarknetmarkets_censored2.png}}. We consider these sites to be relevant enough not to miss
 the biggest cryptomarkets in their lists. Cryptomarkets taken into consideration are in the table \ref{cryptomarkets}.
 
 Among cryptomarkets mentioned above,
@@ -481,9 +481,9 @@ The HTTPS protocol encrypts data but doesn't hide the identity of the user from 
 The internet provider can also see, where is the user connecting. Tor aims to solve these issues.
  
 Tor \cite{dingledine2004tor} is a free open source software that provides access to the network of Tor nodes. 
-The goal of the Tor project is to protect privacy of its users and allow them to communicate
+The goal of the Tor project is to protect the privacy of its users and allow them to communicate
 over internet anonymously.
-Tor hides user's identity from the server he is accessing and also anyone doing network surveilance.
+Tor hides user's identity from the server he is accessing and also anyone doing network surveillance.
 
 The simplest way for the user to use Tor network is to install the Tor browser bundle, consisting of
 a modified Firefox browser and onion proxy. Onion proxy routes all traffic through Tor network.
@@ -523,7 +523,7 @@ Tor hidden services is a feature of Tor for providing a service (eg. a web serve
 without disclosing the server's IP address. The hidden services have special top-level domain \emph{.onion}.
 
 When the administrator of service wants to be accessed, he creates an RSA key pair.
-The hash of first 80 bits of public key is the service identifier,
+The hash of first 80 bits of the public key is the service identifier,
 through which can the service can be accessed by accessing URL \emph{identifier.onion}.
 Tor chooses some Tor nodes as introduction points and establishes a circuit to each one of them,
 then it uploads a descriptor of the service to 6 different hidden service directories (HSDir).
@@ -879,8 +879,7 @@ The second heuristic's scheme is on figure \ref{heur2}.
 Both of these heuristics are pretty strict and have just a slim chance of falsely merging
 addresses not belonging to the same user \parencite{androulaki2013evaluating}.
 Although the concept of multisignature wallets and a few proposed anonymisation methods could make
-these heuristics misleading (like CoinJoin mixer and dark wallet), they only contribute to a 
-negligible percentage of all transactions.
+these heuristics misleading (like CoinJoin mixer and dark wallet), they only contribute to a negligible percentage of all transactions.
 
 We measured the success of heuristic clustering in two ways.
 We had two accounts on Valhalla market, each performing one deposit of 0.011 BTC and immediately 10 withdrawals of
@@ -958,8 +957,8 @@ It consists of multiple python scripts, divided into 5 categories.
 \end{figure}
 
 Scripts for scraping Valhalla market are in \emph{statistics} folder.
-They download Valhalla market webpages with listings, profile pages of vendors and feedbacks.
-Then they parse downloaded webpages and generate CSV files with the data.
+They download Valhalla market web pages with listings, profile pages of vendors and feedbacks.
+Then they parse downloaded web pages and generate CSV files with the data.
 The variables and data types stored in these CSV files are described in chapter \ref{Valhalla cryptomarket webscraping}
 in tables \ref{datalist}, \ref{datavendor} and \ref{datafeedback}. We used these generated CSV files for
 assembling Valhalla cryptomarket statistics contained in the last chapter.
@@ -1138,11 +1137,11 @@ having bad reputation during first few sales shut down any opportunity
 for the vendor to continue selling his goods. It also concludes that majority of vendors don't succeed or use
 the market merely sporadically.
 
-The figure \ref{listingxprice} shows distribution of prices of all listings in
+The figure \ref{listingxprice} shows the distribution of prices of all listings in
  the market (on the left graph) and the price distribution in feedbacks (on the right).
  Some listings might be counted multiple times or not at all in the right graph, because one listing might be bought several times or not at all, and therefore generate multiple or no feedbacks. We expect that the price distribution in these feedbacks reflects more accurately the prices of the goods or services
  that are actually bought at the market because feedbacks can be given only by users who
- bought something from vendor. We calculated the price of listings in euros as 
+ bought something from the vendor. We calculated the price of listings in euros as 
  price in bitcoin multiplied by the average price of bitcoin for 30 days before the scraping
  (8219~EUR for 14.1.2018 - 14.2.2018, daily prices were taken from blockchain.info).
  
@@ -1177,7 +1176,7 @@ these listings are somehow special, except for the higher amount of drugs offere
 
 We calculated the last month revenue for each category
 by summing up the prices over all feedbacks for listings in given category.
-This leads to minimal revenue, because feedbacks
+This leads to minimal revenue because feedbacks
 can be given only if the trade happened on cryptomarket, while 
 trades happening with no given feedbacks are also possible.
 The total revenue over one month, amount of listings, feedbacks and market shares for given categories 
@@ -1294,8 +1293,8 @@ The application could be extended in multiple ways. We used two
 heuristics that have the lowest risk of falsely clustering addresses belonging to different identities.
 The heuristics have not clustered all the addresses and transactions done within the cryptomarket,
 however we found, that with just tens of deposits and withdrawals between us and the market,
-we were able to identify 9\% of estimated cryptomarket's cashflow over given month.
-The price that we paid in fees in these transactions was less than 100 dollars altogether. 
+we were able to identify 9\% of estimated cryptomarket's cash flow over given month.
+The price that we paid in fees in these transactions was less than 100 dollars. 
 Perpetual deposits and withdrawals over a prolonged period of time seem financially feasible
 and might lead to disclosing majority of cryptomarkets addresses and transaction.
 
